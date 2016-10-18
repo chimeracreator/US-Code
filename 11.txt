@@ -945,6 +945,10 @@ For complete classification of this Act to the Code, see Short Title of 2000 Ame
 The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture.
 For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
+Short Title of 2011 Amendment
+
+Pub. L. 112–64, §1, Dec. 13, 2011, 125 Stat. 766, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2011’.”
+
 Short Title of 2010 Amendment
 
 Pub. L. 111–327, §1, Dec. 22, 2010, 124 Stat. 3557, provided that: “This Act [amending this section, sections 103, 105 to 107, 109 to 111, 303, 308, 348, 362, 363, 505, 507, 521 to 524, 526, 527, 541, 554, 704, 707, 723, 724, 726, 901, 1104, 1106, 1111, 1112, 1127, 1129, 1141, 1145, 1202, 1302, 1304, 1307, 1308, 1322, 1325, 1511, 1519, 1521, and 1529 of this title, section 157 of Title 18, Crimes and Criminal Procedure, sections 158, 159, and 586 of Title 28, Judiciary and Judicial Procedure, and provisions set out as a note under section 507 of this title] may be cited as the ‘Bankruptcy Technical Corrections Act of 2010’.”
@@ -1239,7 +1243,6 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, the Judicial Conference of the Unit
 	101(19A)(A)(i) & (b)(ii)(II)—definition of family fisherman 	1,642,500 (each time it appears) 	1,757,475 (each time it appears).
 	101(51D)(A) & (B)—definition of small business debtor 	2,190,000 (each time it appears) 	2,343,300 (each time it appears).
 	109(e)—allowable debt limits for individual filing bankruptcy under chapter 13 	336,900 (each time it appears)1,010,650 (each time it appears) 
-
 	360,475 (each time it appears).1,081,400 (each time it appears).
 
 	303(b)—minimum aggregate claims needed for the commencement of involuntary chapter 7 or chapter 11 bankruptcy		
@@ -1254,12 +1257,10 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, the Judicial Conference of the Unit
 	(1)—in paragraph (1) 	20,200 	21,625
 	(2)—in paragraph (2) 	3,225 	3,450
 	(3)—in paragraph (3) 	52510,775 
-
 	55011,525
 
 	(4)—in paragraph (4) 	1,350 	1,450
 	(5)—in paragraph (5) 	1,07510,125 
-
 	1,15010,825
 
 	(6)—in paragraph (6) 	2,025 	2,175
@@ -8707,74 +8708,6 @@ Paragraph (2) of the subsection defines improvement to include physical addition
 Subsection (e) establishes a statute of limitations on avoidance by the Trustee.
 The limitation is one year after the avoidance of the transfer or the time the case is closed or dismissed, whichever is earlier.
 
-§551. Automatic preservation of avoided transfer
-
-Any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of this title, or any lien void under section 506(d) of this title, is preserved for the benefit of the estate but only with respect to property of the estate.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602.)
-
-Historical and Revision Notes
-
-legislative statements
-
-Section 551 is adopted from the House bill and the alternative in the Senate amendment is rejected.
-The section is clarified to indicate that a transfer avoided or a lien that is void is preserved for the benefit of the estate, but only with respect to property of the estate.
-This prevents the trustee from asserting an avoided tax lien against after acquired property of the debtor.
-
-senate report no. 95–989
-
-This section is a change from present law.
-It specifies that any avoided transfer is automatically preserved for the benefit of the estate.
-Under current law, the court must determine whether or not the transfer should be preserved.
-The operation of the section is automatic, unlike current law, even though preservation may not benefit the estate in every instance.
-A preserved lien may be abandoned by the trustee under proposed 11 U.S.C. 554 if the preservation does not benefit the estate.
-The section as a whole prevents junior lienors from improving their position at the expense of the estate when a senior lien is avoided.
-
-§552. Postpetition effect of security interest
-
-(a) Except as provided in subsection (b) of this section, property acquired by the estate or by the debtor after the commencement of the case is not subject to any lien resulting from any security agreement entered into by the debtor before the commencement of the case.
-
-(b)(1) Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to proceeds, products, offspring, or profits of such property, then such security interest extends to such proceeds, products, offspring, or profits acquired by the estate after the commencement of the case to the extent provided by such security agreement and by applicable nonbankruptcy law, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
-
-(2) Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, and notwithstanding section 546(b) of this title, if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to amounts paid as rents of such property or the fees, charges, accounts, or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties, then such security interest extends to such rents and such fees, charges, accounts, or other payments acquired by the estate after the commencement of the case to the extent provided in such security agreement, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §466, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title II, §214(a), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title XII, §1204(2), Apr. 20, 2005, 119 Stat. 194.)
-
-Historical and Revision Notes
-
-legislative statements
-
-Section 552(a) is derived from the House bill and the alternative provision in the Senate amendment is rejected.
-Section 552(b) represents a compromise between the House bill and the Senate amendment.
-Proceeds coverage, but not after acquired property clauses, are valid under title 11. The provision allows the court to consider the equities in each case.
-In the course of such consideration the court may evaluate any expenditures by the estate relating to proceeds and any related improvement in position of the secured party.
-Although this section grants a secured party a security interest in proceeds, product, offspring, rents, or profits, the section is explicitly subject to other sections of title 11. For example, the trustee or debtor in possession may use, sell, or lease proceeds, product, offspring, rents or profits under section 363.
-
-senate report no. 95–989
-
-Under the Uniform Commercial Code, article 9, creditors may take security interests in after-acquired property.
-Section 552 governs the effect of such a prepetition security interest in postpetition property.
-It applies to all security interests as defined in section 101(37) of the bankruptcy code, not only to U.C.C. security interests.
-
-As a general rule, if a security agreement is entered into before the commencement of the case, then property that the estate acquires is not subject to the security interest created by a provision in the security agreement extending the security interest to after-acquired property.
-Subsection (b) provides an important exception consistent with the Uniform Commercial Code.
-If the security agreement extends to proceeds, product, offspring, rents, or profits of the property in question, then the proceeds would continue to be subject to the security interest pursuant to the terms of the security agreement and provisions of applicable law, except to the extent that where the estate acquires the proceeds at the expense of other creditors holding unsecured claims, the expenditure resulted in an improvement in the position of the secured party.
-
-The exception covers the situation where raw materials, for example, are converted into inventory, or inventory into accounts, at some expense to the estate, thus depleting the fund available for general unsecured creditors, but is limited to the benefit inuring to the secured party thereby.
-Situations in which the estate incurs expense in simply protecting collateral are governed by 11 U.S.C. 506(c). In ordinary circumstances, the risk of loss in continued operations will remain with the estate.
-
-house report no. 95–595
-
-Under the Uniform Commercial Code, Article 9, creditors may take security interests in after-acquired property.
-This section governs the effect of such a prepetition security interest in postpetition property.
-It applies to all security interests as defined in section 101 of the bankruptcy code, not only to U.C.C. security interests.
-
-As a general rule, if a security agreement is entered into before the case, then property that the estate acquires is not subject to the security interest created by the security agreement.
-Subsection (b) provides the only exception.
-If the security agreement extends to proceeds, product, offspring, rents, or profits of property that the debtor had before the commencement of the case, then the proceeds, etc., continue to be subject to the security interest, except to the extent that the estate acquired the proceeds to the prejudice of other creditors holding unsecured claims. “Extends to” as used here would include an automatically arising security interest in proceeds, as permitted under the 1972 version of the Uniform Commercial Code, as well as an interest in proceeds specifically designated, as required under the 1962 Code or similar statutes covering property not covered by the Code. “Prejudice” is not intended to be a broad term here, but is designed to cover the situation where the estate expends funds that result in an increase in the value of collateral.
-The exception is to cover the situation where raw materials, for example, are converted into inventory, or inventory into accounts, at some expense to the estate, thus depleting the fund available for general unsecured creditors.
-The term “proceeds” is not limited to the technical definition of that term in the U.C.C., but covers any property into which property subject to the security interest is converted.
-
 §553. Setoff
 
 (a) Except as otherwise provided in this section and in sections 362 and 363 of this title, this title does not affect any right of a creditor to offset a mutual debt owing by such creditor to the debtor that arose before the commencement of the case under this title against a claim of such creditor against the debtor that arose before the commencement of the case, except to the extent that—
@@ -10361,18 +10294,6 @@ References in Text
 The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade.
 For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
-§743. Notice
-
-The clerk shall give the notice required by section 342 of this title to SIPC and to the Commission.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 99–554, title II, §283(t), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title V, §501(d)(27), Oct. 22, 1994, 108 Stat. 4146.)
-
-Historical and Revision Notes
-
-senate report no. 95–989
-
-Section 743 requires that notice of the order for relief be given to SIPC and to the SEC in every stockbroker case.
-
 §744. Executory contracts
 
 Notwithstanding section 365(d)(1) of this title, the trustee shall assume or reject, under section 365 of this title, any executory contract of the debtor for the purchase or sale of a security in the ordinary course of the debtor's business, within a reasonable time after the date of the order for relief, but not to exceed 30 days.
@@ -10590,7 +10511,9 @@ In this subchapter—
 
 (E) with respect to a commodity options dealer, commodity option;
 
-(F) any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;
+(F)(i) any other contract, option, agreement, or transaction that is similar to a contract, option, agreement, or transaction referred to in this paragraph; and
+
+(ii) with respect to a futures commission merchant or a clearing organization, any other contract, option, agreement, or transaction, in each case, that is cleared by a clearing organization;
 
 (G) any combination of the agreements or transactions referred to in this paragraph;
 
@@ -10612,7 +10535,7 @@ In this subchapter—
 
 (A) with respect to a futures commission merchant—
 
-(i) entity for or with whom such futures commission merchant deals and that holds a claim against such futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such futures commission merchant in the ordinary course of such futures commission merchant's business as a futures commission merchant from or for the commodity futures account of such entity; or
+(i) entity for or with whom such futures commission merchant deals and that holds a claim against such futures commission merchant on account of a commodity contract made, received, acquired, or held by or through such futures commission merchant in the ordinary course of such futures commission merchant's business as a futures commission merchant from or for a commodity contract account of such entity; or
 
 (ii) entity that holds a claim against such futures commission merchant arising out of—
 
@@ -10711,18 +10634,6 @@ In this subchapter—
 (ii) any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) [title I, §112(c)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, §907(a)(3), Apr. 20, 2005, 119 Stat. 174; Pub. L. 111–203, title VII, §724(b), July 21, 2010, 124 Stat. 1684.)
-
-Amendment of Paragraphs (4)(F) and (9)(A)(i)
-
-Pub. L. 111–203, title VII, §§724(b), 754, July 21, 2010, 124 Stat. 1684, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:
-
-(1) in paragraph (4), by striking subparagraph (F) and inserting the following:
-
-“(F)(i) any other contract, option, agreement, or transaction that is similar to a contract, option, agreement, or transaction referred to in this paragraph; and
-
-“(ii) with respect to a futures commission merchant or a clearing organization, any other contract, option, agreement, or transaction, in each case, that is cleared by a clearing organization;”; and
-
-(2) in paragraph (9)(A)(i), by striking “the commodity futures account” and inserting “a commodity contract account”.
 
 Historical and Revision Notes
 
@@ -11123,7 +11034,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 (2) Depository institution.—The term “depository institution” has the same meaning as in section 3 of the Federal Deposit Insurance Act.
 
-(3) Clearing bank.—The term “clearing bank” means an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+(3) Clearing bank.—The term “clearing bank” means an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
 (Added Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
 
@@ -11134,7 +11045,9 @@ Section 3 of the Federal Deposit Insurance Act, referred to in par. (2), is clas
 Section 25A of the Federal Reserve Act, referred to in par. (3), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking.
 For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), is classified to section 4422 of Title 12, Banks and Banking.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), which was classified to section 4422 of Title 12, Banks and Banking, was repealed by Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729.
+
+1 See References in Text note below.
 
 §782. Selection of trustee
 

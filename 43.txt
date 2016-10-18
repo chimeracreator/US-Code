@@ -1459,7 +1459,7 @@ May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this ti
 
 The share of the United States Geological Survey in any topographic mapping or water resources data collection and investigations carried on in cooperation with any State or municipality shall not exceed 50 per centum of the cost thereof.
 
-(Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2913.)
+(Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 993.)
 
 Codification
 
@@ -1468,6 +1468,8 @@ Section text is based on act July 31, 1953, ch. 298, title I, §1, 67 Stat. 269,
 Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2913.
 
 Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 710.
 
@@ -14671,6 +14673,10 @@ References in Text
 This subchapter, was in the original “this Act”, meaning Pub. L. 98–381, Aug. 17, 1984, 98 Stat. 1333, which enacted this subchapter and sections 7274 and 7275 of Title 42, The Public Health and Welfare, and amended sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title.
 For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+Short Title of 2011 Amendment
+
+Pub. L. 112–72, §1, Dec. 20, 2011, 125 Stat. 777, provided that: “This Act [amending section 619a of this title] may be cited as the ‘Hoover Power Allocation Act of 2011’.”
+
 Short Title
 
 Section 1 of Pub. L. 98–381 provided that: “This Act [enacting this subchapter, provisions set out as notes under sections 617 and 618 of this title and section 839b of Title 16, Conservation, sections 7274 and 7275 and provisions set out as a note under section 7133 of Title 42, The Public Health and Welfare, and amending sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title] may be cited as the ‘Hoover Power Plant Act of 1984’.”
@@ -14745,126 +14751,162 @@ Pub. L. 106–461, Nov. 7, 2000, 114 Stat. 1989, provided that:
 
 (1) The Secretary of Energy shall offer:
 
-(A) To each contractor for power generated at Hoover Dam a renewal contract for delivery commencing June 1, 1987, of the amount of capacity and firm energy specified for that contractor in the following table:
+(A) To each contractor for power generated at Hoover Dam a contract for delivery commencing October 1, 2017, of the amount of capacity and firm energy specified for that contractor in the following table:
 
-SCHEDULE A
-Long Term Contingent Capacity and Associated Firm Energy Reserved for Renewal Contract Offers to Current Boulder Canyon Project Contractors	Contractor	Contingent capacity (kW)
-
-	Firm energy (thousands of 
-
-kWh)
-
-	Total
-	Summer	Winter
-	Metropolitan Water District of Southern California 	247,500	904,382	387,592	1,291,974
-	City of Los Angeles 	490,875	488,535	209,658	698,193
-	Southern California Edison Company 	277,500	175,486	75,208	250,694
-	City of Glendale 	18,000	47,398	20,313	67,711
-	City of Pasadena 	11,000	40,655	17,424	58,079
-	City of Burbank 	5,125	14,811	6,347	21,158
-	Arizona Power Authority 	189,000	452,192	193,797	645,989
-	Colorado River Commission of Nevada 	189,000	452,192	193,797	645,989
-	United States, for Boulder City	20,000	56,000	24,000	80,000
-					
-	Totals	1,448,000	2,631,651	1,128,136	3,759,787
-
-(B) To purchasers in the States of Arizona, Nevada and California eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act [43 U.S.C. 617d], contracts for delivery commencing June 1, 1987, or as it thereafter becomes available, of capacity resulting from the uprating program and for delivery commencing June 1, 1987, of associated firm energy as specified in the following table:
-
-SCHEDULE B
-Contingent Capacity Resulting From the Uprating Program and Associated Firm Energy	State	Contingent capacity (kW)
-
-	Firm energy (thousands of kWh)
+Schedule A
+Long-term Schedule A contingent capacity and associated firm energy for offers of contracts to Boulder Canyon project contractors	Contractor	Contingent capacity (kW)	Firm energy (thousands of kWh)
 	Summer	Winter	Total
-	Arizona	188,000	148,000	64,000	212,000
-	California	127,000	99,850	43,364	143,214
-	Nevada	188,000	288,000	124,000	412,000
+	Metropolitan Water District of Southern California 	249,948	859,163	368,212	 1,227,375
+	City of Los Angeles 	495,732	464,108	199,175	663,283
+	Southern California Edison Company 	280,245	166,712	71,448	238,160
+	City of Glendale 	18,178	45,028	19,297	64,325
+	City of Pasadena 	11,108	38,622	16,553	55,175
+	City of Burbank 	5,176	14,070	6,030	20,100
+	Arizona Power Authority 	190,869	429,582	184,107	613,689
+	Colorado River Commission of Nevada 	190,869	429,582	184,107	613,689
+	United States, for Boulder City 	20,198	53,200	22,800	76,000
 					
-	Totals	503,000	535,850	231,364	767,214
+	Totals	1,462,323	2,500,067	1,071,729	3,571,796
 
-Provided, however, That in the case of Arizona and Nevada, such contracts shall be offered to the Arizona Power Authority and the Colorado River Commission of Nevada, respectively, as the agency specified by State law as the agent of such State for purchasing power from the Boulder Canyon project: Provided further, That in the case of California, no such contract under this subparagraph (B) shall be offered to any purchaser who is offered a contract for capacity exceeding 20,000 kilowatts under subparagraph (A) of this paragraph.
+(B) To each existing contractor for power generated at Hoover Dam, a contract, for delivery commencing October 1, 2017, of the amount of contingent capacity and firm energy specified for that contractor in the following table:
 
-(C) To the Arizona Power Authority and the Colorado River Commission of Nevada and to purchasers in the State of California eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act [43 U.S.C. 617d], contracts for delivery commencing June 1, 1987, of such energy generated at Hoover Dam as is available respectively to the States of Arizona, Nevada, and California in excess of 4,501.001 million kilowatthours in any year of operation (hereinafter called excess energy) in accordance with the following table:
+Schedule B
+Long-term Schedule B contingent capacity and associated firm energy for offers of contracts to Boulder Canyon project contractors	Contractor	Contingent capacity (kW)	Firm energy (thousands of kWh)
+	Summer	Winter	Total
+	City of Glendale 	2,020	2,749	1,194	3,943
+	City of Pasadena 	9,089	2,399	1,041	3,440
+	City of Burbank 	15,149	3,604	1,566	5,170
+	City of Anaheim 	40,396	34,442	14,958	49,400
+	City of Azusa 	4,039	3,312	1,438	4,750
+	City of Banning 	2,020	1,324	576	1,900
+	City of Colton 	3,030	2,650	1,150	3,800
+	City of Riverside 	30,296	25,831	11,219	37,050
+	City of Vernon 	22,218	18,546	8,054	26,600
+	Arizona 	189,860	140,600	60,800	201,400
+	Nevada 	189,860	273,600	117,800	391,400
+					
+	Totals	507,977	509,057	219,796	728,853
 
-SCHEDULE C
+(C) To the Arizona Power Authority and the Colorado River Commission of Nevada and to purchasers in the State of California eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act [43 U.S.C. 617d], contracts for delivery commencing October 1, 2017, of such energy generated at Hoover Dam as is available respectively to the States of Arizona, Nevada, and California in excess of 4,501.001 million kilowatthours in any year of operation (hereinafter called excess energy) in accordance with the following table:
+
+Schedule C
 Excess Energy	Priority of entitlement to excess energy	State
-	First: Meeting Arizona's first priority right to delivery of excess energy which is equal in each year of operation to 200 million kilowatthours: Provided, however, That in the event excess energy in the amount of 200 million kilowatthours is not generated during any year of operation, Arizona shall accumulate a first right to delivery of excess energy subsequently generated in an amount not to exceed 600 million kilowatthours, inclusive of the current year's 200 million kilowatthours.
-Said first right of delivery shall accrue at a rate of 200 million kilowatthours per year for each year excess energy in the amount of 200 million kilowatthours is not generated, less amounts of excess energy delivered	Arizona  
-	Second: Meeting Hoover Dam contractual obligations under schedule A of subsection (a)(1)(A) of this section and under schedule B of subsection (a)(1)(B) of this section not exceeding 26 million kilowatthours in each year of operation	....................
-	Third: Meeting the energy requirements of the three States, such available excess energy to be divided equally among the States	Arizona, Nevada, California
+	First: Meeting Arizona's first priority right to delivery of excess energy which is equal in each year of operation to 200 million kilowatthours: Provided, That in the event excess energy in the amount of 200 million kilowatthours is not generated during any year of operation, Arizona shall accumulate a first right to delivery of excess energy subsequently generated in an amount not to exceed 600 million kilowatthours, inclusive of the current year's 200 million kilowatthours.
+Said first right of delivery shall accrue at a rate of 200 million kilowatthours per year for each year excess energy in an amount of 200 million kilowatthours is not generated, less amounts of excess energy delivered	Arizona
+	Second: Meeting Hoover Dam contractual obligations under Schedule A of subsection (a)(1)(A), under Schedule B of subsection (a)(1)(B), and under Schedule D of subsection (a)(2), not exceeding 26 million kilowatthours in each year of operation	Arizona, Nevada, and California
+	Third: Meeting the energy requirements of the three States, such available excess energy to be divided equally among the States	Arizona, Nevada, and California
 
-(2) The total obligation of the Secretary of Energy to deliver firm energy pursuant to schedule A of subsection (a)(1)(A) of this section and schedule B of subsection (a)(1)(B) of this section is 4,527.001 million kilowatthours in each year of operation.
-To the extent that the actual generation at Hoover Powerplant in any year of operation (less deliveries thereof to Arizona required by its first priority under schedule C of subsection (a)(1)(C) of this section whenever actual generation in any year of operation is in excess of 4,501.001 million kilowatthours) is less than 4,527.001 million kilowatthours, such deficiency shall be borne by the holders of contracts under said schedules A and B in the ratio that the sum of the quantities of firm energy to which each contractor is entitled pursuant to said schedules bears to 4,527.001 million kilowatthours.
+(2)(A) The Secretary of Energy is authorized to and shall create from the apportioned allocation of contingent capacity and firm energy adjusted from the amounts authorized in this subchapter in 1984 to the amounts shown in Schedule A and Schedule B, as modified by the Hoover Power Allocation Act of 2011, a resource pool equal to 5 percent of the full rated capacity of 2,074,000 kilowatts, and associated firm energy, as shown in Schedule D (referred to in this section as “Schedule D contingent capacity and firm energy”):
+
+Schedule D
+Long-term Schedule D resource pool of contingent capacity and associated firm energy for new allottees	State	Contingent capacity (kW)	Firm energy (thousands of kWh)
+	Summer	Winter	Total
+	New Entities Allocated by the Secretary of Energy 	69,170	105,637	45,376	151,013
+	New Entities Allocated by State				
+	Arizona	11,510	17,580	7,533	25,113
+	California	11,510	17,580	7,533	25,113
+	Nevada	11,510	17,580	7,533	25,113
+					
+	Totals	103,700	158,377	67,975	226,352
+
+(B) The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as “new allottees”) for delivery commencing October 1, 2017 pursuant to this subsection.
+In this subsection, the term “the marketing area for the Boulder City Area Projects” shall have the same meaning as in appendix A of the Conformed General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28, 1984 (49 Federal Register 50582 et seq.) (referred to in this section as the “Criteria”).
+
+(C)(i) Within 36 months of December 20, 2011, the Secretary of Energy shall allocate through the Western Area Power Administration (referred to in this section as “Western”), for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 66.7 percent of the Schedule D contingent capacity and firm energy to new allottees that are located within the marketing area for the Boulder City Area Projects and that are—
+
+(I) eligible to enter into contracts under section 5 of the Boulder Canyon Project Act (43 U.S.C. 617d); or
+
+(II) federally recognized Indian tribes.
+
+(ii) In the case of Arizona and Nevada, Schedule D contingent capacity and firm energy for new allottees other than federally recognized Indian tribes shall be offered through the Arizona Power Authority and the Colorado River Commission of Nevada, respectively.
+Schedule D contingent capacity and firm energy allocated to federally recognized Indian tribes shall be contracted for directly with Western.
+
+(D) Within 1 year of December 20, 2011, the Secretary of Energy also shall allocate, for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 11.1 percent of the Schedule D contingent capacity and firm energy to each of—
+
+(i) the Arizona Power Authority for allocation to new allottees in the State of Arizona;
+
+(ii) the Colorado River Commission of Nevada for allocation to new allottees in the State of Nevada; and
+
+(iii) Western for allocation to new allottees within the State of California, provided that Western shall have 36 months to complete such allocation.
+
+(E) Each contract offered pursuant to this subsection shall include a provision requiring the new allottee to pay a proportionate share of its State's respective contribution (determined in accordance with each State's applicable funding agreement) to the cost of the Lower Colorado River Multi-Species Conservation Program (as defined in section 9401 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1327)), and to execute the Boulder Canyon Project Implementation Agreement Contract No. 95–PAO–10616 (referred to in this section as the “Implementation Agreement”).
+
+(F) Any of the 66.7 percent of Schedule D contingent capacity and firm energy that is to be allocated by Western that is not allocated and placed under contract by October 1, 2017, shall be returned to those contractors shown in Schedule A and Schedule B in the same proportion as those contractors’ allocations of Schedule A and Schedule B contingent capacity and firm energy.
+Any of the 33.3 percent of Schedule D contingent capacity and firm energy that is to be distributed within the States of Arizona, Nevada, and California that is not allocated and placed under contract by October 1, 2017, shall be returned to the Schedule A and Schedule B contractors within the State in which the Schedule D contingent capacity and firm energy were to be distributed, in the same proportion as those contractors’ allocations of Schedule A and Schedule B contingent capacity and firm energy.
+
+(3) The total obligation of the Secretary of Energy to deliver firm energy pursuant to paragraphs (1)(A), (1)(B), and (2) is 4,527.001 million kilowatthours in each year of operation.
+To the extent that the actual generation at Hoover Powerplant in each year of operation (less deliveries thereof to Arizona required by its first priority under Schedule C of subsection (a)(1)(C) of this section whenever actual generation in each year of operation is in excess of 4,501.001 million kilowatthours) is less than 4,527.001 million kilowatthours, such deficiency shall be borne by the holders of contracts under said 1 Schedules A, B, and D in the ratio that the sum of the quantities of firm energy to which each contractor is entitled pursuant to said schedules bears to 4,527.001 million kilowatthours.
 At the request of any such contractor, the Secretary of Energy will purchase energy to meet that contractor's deficiency at such contractor's expense.
 
-(3) Subdivision E of the “General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects” published in the Federal Register May 9, 1983 (48 Federal Register commencing at 20881), hereinafter referred to as the “Criteria” or as the “Regulations” shall be deemed to have been modified to conform to this section.
-The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of said Regulations to such modifications.
+(4) Subdivision C of the Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2011. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
 
-(4) Each contract offered under subsection (a)(1) of this section shall:
+(5) Each contract offered under subsection (a)(1) of this section shall:
 
-(A) expire September 30, 2017;
+(A) in accordance with section 5(a) of the Boulder Canyon Project Act (43 U.S.C. 617d(a)), expire September 30, 2067;
 
-(B) not restrict use to which the capacity and energy contracted for by the Metropolitan Water District of Southern California may be placed within the State of California: Provided, That to the extent practicable and consistent with sound water management and conservation practice, the Metropolitan Water District of Southern California shall use such capacity and energy to pump available Colorado River water prior to using such capacity and energy to pump California State water project water; and
+(B) not restrict use to which the capacity and energy contracted for by the Metropolitan Water District of Southern California may be placed within the State of California: Provided, That to the extent practicable and consistent with sound water management and conservation practice, the Metropolitan Water District of Southern California shall allocate such capacity and energy to pump available Colorado River water prior to using such capacity and energy to pump California State water project water;
 
-(C) conform to the applicable provisions of subdivison 1 E of the Criteria, commencing at 48 Federal Register 20881, modified as provided in this section.
-To the extent that said provisions of the Criteria, as so modified, are applicable to contracts entered into under this section, those provisions are hereby ratified.
+(C) conform to the applicable provisions of subdivison 2 E of the Criteria, commencing at 48 Federal Register 20881, modified as provided in this section.
+To the extent that said provisions of the Criteria, as so modified, are applicable to contracts entered into under this section, those provisions are hereby ratified;
+
+(D) authorize and require Western to collect from new allottees a pro rata share of Hoover Dam repayable advances paid for by contractors prior to October 1, 2017, and remit such amounts to the contractors that paid such advances in proportion to the amounts paid by such contractors as specified in section 6.4 of the Implementation Agreement;
+
+(E) permit transactions with an independent system operator; and
+
+(F) contain the same material terms included in section 5.6 of those long-term contracts for purchases from the Hoover Power Plant that were made in accordance with this subchapter and are in existence on December 20, 2011.
 
 (b) Prejudice of rights of contract holders under Boulder Canyon Project Act
 
-Nothing in the Criteria shall be construed to prejudice any rights conferred by the Boulder Canyon Project Act, as amended and supplemented [43 U.S.C. 617 et seq.], on the holder of a contract described in subsection (a) of this section not in default thereunder on September 30, 2017.
+Nothing in the Criteria shall be construed to prejudice any rights conferred by the Boulder Canyon Project Act, as amended and supplemented [43 U.S.C. 617 et seq.], on the holder of a contract described in subsection (a) of this section not in default thereunder on September 30, 2067.
 
-(c) Execution of contract with parties to certain litigation; offer of contract to other entities
+(c) Offer of contract to other entities
 
-(1) The Secretary of Energy shall not execute a contract described in subsection (a)(1)(A) of this section with any entity which is a party to the action entitled the “State of Nevada, et al. against the United States of America, et al.” in the United States District Court for the District of Nevada, case numbered CV LV ‘82 441 RDF, unless that entity agrees to file in that action a stipulation for voluntary dismissal with prejudice of its claims, or counterclaims, or crossclaims, as the case may be, and also agrees to file with the Secretary a document releasing the United States, its officers and agents, and all other parties to that action who join in that stipulation from any claims arising out of the disposition under this section of capacity and energy from the Boulder Canyon project.
-The Attorney General shall join on behalf of the United States, its officers and agents, in any such voluntary dismissal and shall have the authority to approve on behalf of the United States the form of each release.
+If any existing contractor fails to accept an offered contract, the Secretary of Energy shall offer the contingent capacity and firm energy thus available first to other entities in the same State listed in Schedule A and Schedule B, second to other entities listed in Schedule A and Schedule B, third to other entities in the same State which receive contingent capacity and firm energy under subsection (a)(2) of this section, and last to other entities which receive contingent capacity and firm energy under subsection (a)(2) of this section.
 
-(2) If after a reasonable period of time as determined by the Secretary, the Secretary is precluded from executing a contract with an entity by reason of paragraph (1) of this subsection, the Secretary shall offer the capacity and energy thus available to other entities in the same State eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act [43 U.S.C. 617d].
+(d) Water availability
 
-(d) Funding of uprating program
+Except with respect to energy purchased at the request of an allottee pursuant to subsection (a)(3), the obligation of the Secretary of Energy to deliver contingent capacity and firm energy pursuant to contracts entered into pursuant to this section shall be subject to availability of the water needed to produce such contingent capacity and firm energy.
+In the event that water is not available to produce the contingent capacity and firm energy set forth in Schedule A, Schedule B, and Schedule D, the Secretary of Energy shall adjust the contingent capacity and firm energy offered under those Schedules in the same proportion as those contractors’ allocations of Schedule A, Schedule B, and Schedule D contingent capacity and firm energy bears to the full rated contingent capacity and firm energy obligations.
 
-The uprating program authorized under section 619(a) of this title shall be undertaken with funds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of this section.
-Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.
+(e) Congressional exercise of reserved right
 
-(e) Deposit of uprating program funds in Colorado River Dam Fund
+The provisions of this section constitute an exercise by the Congress of the right reserved by it in section 5(b) of the Boulder Canyon Project Act, as amended and supplemented [43 U.S.C. 617d(b)], to prescribe terms and conditions for contracts for electrical energy generated at Hoover Dam.
+This section constitutes the exclusive method for disposing of capacity and energy from Hoover Dam for the period beginning October 1, 2017, and ending September 30, 2067.
 
-Notwithstanding any other provisions of the law, funds advanced by non-Federal purchasers for use in the uprating program shall be deposited in the Colorado River Dam Fund and shall be available for the uprating program.
+(f) Court challenges; disputes and disagreements
 
-(f) Amounts advanced by non-Federal purchasers; financial integration as capital costs
-
-Those amounts advanced by non-Federal purchasers shall be financially integrated as capital costs with other project costs for rate-setting purposes, and shall be returned to those purchasers advancing funds throughout the contract period through credits which include interest costs incurred by such purchasers for funds contributed to the Secretary of the Interior for the uprating program.
-
-(g) Congressional exercise of reserved right
-
-The provisions of this section constitute an exercise by the Congress of the right reserved by it in section 5(b) of the Boulder Canyon Project Act, as amended and supplemented [43 U.S.C. 617d(b)], to prescribe terms and conditions for the renewal of contracts for electrical energy generated at Hoover Dam.
-This section constitutes the exclusive method for disposing of capacity and energy from Hoover Dam for the period beginning June 1, 1987, and ending September 30, 2017.
-
-(h) Court challenges; disputes and disagreements
-
-(1) Notwithstanding any other provision of law, any claim that the provisions of subsection (a) of this section violates any rights to capacity or energy from the Boulder Canyon project is barred unless the complaint is filed within one year after August 17, 1984, in the United States Court of Federal Claims which shall have exclusive jurisdiction over this action.
+(1) Notwithstanding any other provision of law, any claim that the provisions of subsection (a) of this section violates any rights to capacity or energy from the Boulder Canyon project is barred unless the complaint is filed within one year after December 20, 2011, in the United States Court of Federal Claims which shall have exclusive jurisdiction over this action.
 Any claim that actions taken by any administrative agency of the United States violates any right under this subchapter or the Boulder Canyon Project Act [43 U.S.C. 617 et seq.] or the Boulder Canyon Project Adjustment Act [43 U.S.C. 618 et seq.] is barred unless suit asserting such claim is filed in a Federal court of competent jurisdiction within one year after final refusal of such agency to correct the action complained of.
 
 (2) Any contract entered into pursuant to this section or section 107 of this Act [42 U.S.C. 7133 note] shall contain provisions by which any dispute or disagreement as to interpretation or performance of the provisions of this subchapter or of applicable regulations or of the contract may be determined by arbitration or court proceedings.
 The Secretary of Energy or the Secretary of the Interior, as the case may be, if authorized to act for the United States in such arbitration or court proceedings and, except as provided in paragraph (1) of this subsection, jurisdiction is conferred upon any district court of the United States of proper venue to determine the dispute.
 
-(i) Congressional declaration of purpose
+(g) Congressional declaration of purpose
 
-It is the purpose of subsections (c), (g), and (h) of this section to ensure that the rights of contractors for capacity and energy from the Boulder Canyon project for the period beginning June 1, 1987, and ending September 30, 2017, will vest with certainty and finality.
+It is the purpose of this subchapter to ensure that the rights of contractors for capacity and energy from the Boulder Canyon project for the period beginning October 1, 2017, and ending September 30, 2067, will vest with certainty and finality.
 
-(Pub. L. 98–381, title I, §105, Aug. 17, 1984, 98 Stat. 1335; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 98–381, title I, §105, Aug. 17, 1984, 98 Stat. 1335; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 112–72, §2, Dec. 20, 2011, 125 Stat. 777.)
 
 References in Text
 
-The Boulder Canyon Project Act, referred to in subsecs. (b) and (h)(1), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of this chapter.
-For complete classification of this Act to the Code, see section 617t of this title and Tables.
-
-The Boulder Canyon Project Adjustment Act, referred to in subsec. (h)(1), is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§618 et seq.) of this chapter.
-For complete classification of this Act to the Code, see section 618o of this title and Tables.
-
-Section 107 of this Act, referred to in subsec. (h)(2), is section 107 of Pub. L. 98–381, which is set out as a note under section 7133 of Title 42, The Public Health and Welfare.
-
-This subchapter, was in the original “this Act”, meaning Pub. L. 98–381, Aug. 17, 1984, 98 Stat. 1333, which enacted this subchapter and sections 7274 and 7275 of Title 42, and amended sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title.
+This subchapter, referred to in subsecs. (a)(2)(A), (5)(F), (f), and (g), was in the original “this Act”, meaning Pub. L. 98–381, Aug. 17, 1984, 98 Stat. 1333, which enacted this subchapter and sections 7274 and 7275 of Title 42, and amended sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title.
 For complete classification of this Act to the Code, see Short Title note set out under section 619 of this title and Tables.
 
+The Hoover Power Allocation Act of 2011, referred to in subsec. (a)(2)(A) and (4), is Pub. L. 112–72, Dec. 20, 2011, 125 Stat. 777, which amended this section and enacted provisions set out as a note under section 619 of this title.
+For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 619 of this title and Tables.
+
+The Boulder Canyon Project Act, referred to in subsecs. (b) and (f)(1), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§617 et seq.) of this chapter.
+For complete classification of this Act to the Code, see section 617t of this title and Tables.
+
+The Boulder Canyon Project Adjustment Act, referred to in subsec. (f)(1), is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§618 et seq.) of this chapter.
+For complete classification of this Act to the Code, see section 618o of this title and Tables.
+
+Section 107 of this Act, referred to in subsec. (f)(2), is section 107 of Pub. L. 98–381, which is set out as a note under section 7133 of Title 42, The Public Health and Welfare.
+
 1 So in original.
+The word “said” probably should not appear.
+
+2 So in original.
 Probably should be “subdivision”.
 
 §619b. Reimbursement of funds advanced by non-Federal purchasers; uprating program; repayment requirement; visitor facilities program
@@ -15435,6 +15477,408 @@ Expenditures for the Flaming Gorge, Glen Canyon, Wayne N. Aspinall, and Navajo i
 References in Text
 
 Section 390a of this title, referred to in text, was in the original a reference to the Interior Department Appropriation Act, 1954. The soil survey and land classification requirements of that Act (act July 31, 1953, ch. 298, 67 Stat. 261, 266) were classified to section 390a of this title, prior to repeal by Pub. L. 105–362, title IX, §901(e)(2), Nov. 10, 1998, 112 Stat. 3289.
+
+1 See References in Text note below.
+
+§620j. Court decree; effectivity and approval
+
+The Final Judgment, Final Decree and stipulations incorporated therein in the consolidated cases of United States of America v. Northern Colorado Water Conservancy District, et al., Civil Nos. 2782, 5016 and 5017, in the United States District Court for the District of Colorado, are approved, shall become effective immediately, and the proper agencies of the United States shall act in accordance therewith.
+
+(Apr. 11, 1956, ch. 203, §11, 70 Stat. 110.)
+
+§620k. Authorization of appropriations
+
+There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be required to carry out the purposes of this chapter, but not to exceed $760,000,000.
+
+(Apr. 11, 1956, ch. 203, §12, 70 Stat. 110.)
+
+Change of Name
+
+Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507, provided that: “The Curecanti Storage Unit of the Colorado River Storage Project constructed under the authority of the Act of April 11, 1956 (70 Stat. 106) [this chapter] is hereby designated and hereafter shall be known as the Wayne N. Aspinall Storage Unit of the Colorado River Storage Project.
+Any law, regulation, record, map, or other document of the United States referring to the Curecanti Storage Unit shall be held to refer to the Wayne N. Aspinall Storage Unit.”
+
+Termination of Authorization of Appropriations
+
+Pub. L. 102–575, title II, §201(c), Oct. 30, 1992, 106 Stat. 4607, provided that: “Notwithstanding any provision of the Act of April 11, 1956 (70 Stat. 110; 43 U.S.C. 620k) [this chapter], the Act of September 2, 1964 (78 Stat. 852) [Pub. L. 88–568, see Tables for classification], the Act of September 30, 1968 (82 Stat. 885) [see Short Title note set out under section 1501 of this title], the Act of August 10, 1972 (86 Stat. 525; 43 U.S.C. 620k note), and the Act of October 31, 1988 (102 Stat. 2826) [enacting section 79–1 of Title 16, Conservation, and provisions set out as notes under this section and section 461 of Title 16] to the contrary, the authorization of appropriations for construction of any Colorado River Storage Project participating project located in the State of Utah shall terminate five years after the date of enactment of this Act [Oct. 30, 1992] unless: (1) the Secretary [of the Interior] executes a cost-sharing agreement with the District [Central Utah Water Conservancy District] for construction of such project, and (2) the Secretary has requested, or the Congress has appropriated, construction funds for such project.”
+
+Authorization of Additional Amounts for Colorado River Storage Project
+
+Pub. L. 102–575, title II, §201(a)(1), Oct. 30, 1992, 106 Stat. 4606, provided that: “In order to provide for the completion of the Central Utah Project and other features described in this Act [see Short Title of 1992 Amendment note set out under section 371 of this title], the amount which section 12 of the Act of April 11, 1956 (70 Stat. 110; 43 U.S.C. 620k), authorizes to be appropriated, which was increased by the Act of August 10, 1972 (86 Stat. 525; 43 U.S.C. 620k note) and the Act of October 31, 1988 (102 Stat. 2826) [43 U.S.C. 620k note], is hereby further increased by $924,206,000 (January 1991) plus or minus such amounts, if any, as may be required by reason of changes in construction costs as indicated by engineering cost indexes applicable to the type of construction involved: Provided, however, That of the amounts authorized to be appropriated by this section, the Secretary [of the Interior] is not authorized to obligate or expend amounts in excess of $214,352,000 for the features identified in the Report of the Senate Committee on Energy and Natural Resources accompanying the bill H.R. 429 [S. Rept.
+No. 102–267, One Hundred Second Congress]. This additional sum shall be available solely for design, engineering, and construction of the facilities identified in title II of this Act [106 Stat. 4605] and for the planning and implementation of the fish and wildlife and recreation mitigation and conservation projects and studies authorized in titles III and IV of this Act [106 Stat. 4625, 4648], and for the Ute Indian Settlement authorized in title V of this Act [106 Stat. 4650].”
+
+Pub. L. 100–563, §1, Oct. 31, 1988, 102 Stat. 2826, provided that: “In order to provide for the continued construction of the Colorado River Storage Project, and for the continued construction of the municipal and industrial water features of the Bonneville Unit of the Central Utah Project, the amount which section 12 of the Act of April 11, 1956 (70 Stat. 110; 43 U.S.C. 620k), authorizes to be appropriated, which was increased by the Act of August 10, 1972 (86 Stat. 525; 43 U.S.C. 620k note), is hereby further increased by $45,456,000 plus or minus such amounts, if any, as may be required by reason of changes in construction costs as indicated by engineering cost indexes applicable to the type of construction involved.
+This additional sum shall be available solely for continuing construction of the previously authorized units and projects named in such Act of August 10, 1972.”
+
+Additional Appropriations Authorized for Certain Projects in the Upper Colorado River Basin
+
+Pub. L. 92–370, Aug. 10, 1972, 86 Stat. 525, provided: “That in order to provide for completion of construction of the Curecanti, Flaming Gorge, Glen Canyon, and Navajo units, and transmission division of the Colorado River storage project, and for completion of construction of the following participating projects: Central Utah (initial phase—Bonneville, Jensen, Upalco, and Vernal units), Emery County, Florida, Hammond, LaBarge, Lyman, Paonia, Seedskadee, Silt, and Smith Fork; the amount which section 12 of the Act of April 11, 1956 (79 Stat. 105) [this section] authorizes to be appropriated is hereby further increased by the sum of $610,000,000, plus or minus such amounts, if any, as may be required, by reason of changes in construction costs as indicated by engineering cost indexes applicable to the type of construction involved.
+This additional sum shall be available solely for continuing construction of the previously authorized units and projects named herein.”
+
+Additional Appropriations Authorized for Construction of Animas-La Plata, Dolores, Dallas Creek, West Divide, and San Miguel Projects
+
+Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 897, provided in part that: “The amount which section 12 of said Act [this section] authorizes to be appropriated is hereby further increased by the sum of $392,000,000 plus or minus such amounts, if any, as may be required, by reason of changes in construction costs as indicated by engineering cost indices applicable to the type of construction involved.
+This additional sum shall be available solely for the construction of the Animas-La Plata, Dolores, Dallas Creek, West Divide, and San Miguel projects herein authorized.”
+
+§620l. Net power revenues
+
+In planning the use of, and in using credits from, net power revenues available for the purpose of assisting in the pay-out of costs of participating projects herein and hereafter authorized in the States of Colorado, New Mexico, Utah, and Wyoming, the Secretary shall have regard for the achievement within each of said States of the fullest practicable use of the waters of the Upper Colorado River system, consistent with the apportionment thereof among such States.
+
+(Apr. 11, 1956, ch. 203, §13, 70 Stat. 110.)
+
+§620m. Compliance with law required in operation of facilities; enforcement of provisions
+
+In the operation and maintenance of all facilities, authorized by Federal law and under the jurisdiction and supervision of the Secretary of the Interior, in the basin of the Colorado River, the Secretary of the Interior is directed to comply with the applicable provisions of the Colorado River Compact, the Upper Colorado River Basin Compact, the Boulder Canyon Project Act [43 U.S.C. 617 et seq.], the Boulder Canyon Project Adjustment Act [43 U.S.C. 618 et seq.], and the Treaty with the United Mexican States, in the storage and release of water from reservoirs in the Colorado River Basin.
+In the event of the failure of the Secretary of the Interior to so comply, any State of the Colorado River Basin may maintain an action in the Supreme Court of the United States to enforce the provisions of this section, and consent is given to the joinder of the United States as a party in such suit or suites, as a defendant or otherwise.
+
+(Apr. 11, 1956, ch. 203, §14, 70 Stat. 110.)
+
+References in Text
+
+The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title.
+For complete classification of this Act to the Code, see section 617t of this title and Tables.
+
+The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§618 et seq.) of chapter 12A of this title.
+For complete classification of this Act to the Code, see section 618o of this title and Tables.
+
+§620n. Water quality study and reports
+
+The Secretary of the Interior is directed to continue studies and to make a report to the Congress and to the States of the Colorado River Basin on the quality of water of the Colorado River.
+
+(Apr. 11, 1956, ch. 203, §15, 70 Stat. 111.)
+
+§620n–1. Top water bank
+
+(a) The Secretary of the Interior may create and operate within the available capacity of Navajo Reservoir a top water bank.
+
+(b) Water made available for the top water bank in accordance with subsections (c) and (d) shall not be subject to section 11 of Public Law 87–483 (76 Stat. 99).
+
+(c) The top water bank authorized under subsection (a) shall be operated in a manner that—
+
+(1) is consistent with applicable law, except that, notwithstanding any other provision of law, water for purposes other than irrigation may be stored in the Navajo Reservoir pursuant to the rules governing the top water bank established under this section; and
+
+(2) does not impair the ability of the Secretary of the Interior to deliver water under contracts entered into under—
+
+(A) Public Law 87–483 (76 Stat. 96); and
+
+(B) New Mexico State Engineer File Nos. 2847, 2848, 2849, and 2917.
+
+(d)(1) The Secretary of the Interior, in cooperation with the State of New Mexico (acting through the Interstate Stream Commission), shall develop any terms and procedures for the storage, accounting, and release of water in the top water bank that are necessary to comply with subsection (c).
+
+(2) The terms and procedures developed under paragraph (1) shall include provisions requiring that—
+
+(A) the storage of banked water shall be subject to approval under State law by the New Mexico State Engineer to ensure that impairment of any existing water right does not occur, including storage of water under New Mexico State Engineer File No. 2849;
+
+(B) water in the top water bank be subject to evaporation and other losses during storage;
+
+(C) water in the top water bank be released for delivery to the owner or assigns of the banked water on request of the owner, subject to reasonable scheduling requirements for making the release;
+
+(D) water in the top water bank be the first water spilled or released for flood control purposes in anticipation of a spill, on the condition that top water bank water shall not be released or included for purposes of calculating whether a release should occur for purposes of satisfying the flow recommendations of the San Juan River Basin Recovery Implementation Program; and
+
+(E) water eligible for banking in the top water bank shall be water that otherwise would have been diverted and beneficially used in New Mexico that year.
+
+(e) The Secretary of the Interior may charge fees to water users that use the top water bank in amounts sufficient to cover the costs incurred by the United States in administering the water bank.
+
+(Apr. 11, 1956, ch. 203, §16, as added Pub. L. 111–11, title X, §10401(b)(2), Mar. 30, 2009, 123 Stat. 1371.)
+
+Termination of Section
+
+For termination of section by section 10701(e)(2) of Pub. L. 111–11, see Termination Date note below.
+
+References in Text
+
+Public Law 87–483, referred to in subsecs. (b) and (c)(2)(A), is Pub. L. 87–483, June 13, 1962, 76 Stat. 96, which was classified principally to subchapter XXX (§615ii et seq.) of chapter 12 of this title, and was omitted from the Code.
+Section 11 of Pub. L. 87–483 was classified to §615ss of this title prior to being omitted from the Code.
+
+Termination Date
+
+Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
+
+§620o. Definitions
+
+As used in this chapter—
+
+The terms “Colorado River Basin”, “Colorado River Compact”, “Colorado River System”, “Lee Ferry”, “States of the Upper Division”, “Upper Basin”, and “domestic use” shall have the meaning ascribed to them in article II of the Upper Colorado River Basin Compact;
+
+The term “States of the Upper Colorado River Basin” shall mean the States of Arizona, Colorado, New Mexico, Utah, and Wyoming;
+
+The term “Upper Colorado River Basin” shall have the same meaning as the term “Upper Basin”;
+
+The term “Upper Colorado River Basin Compact” shall mean that certain compact executed on October 11, 1948 by commissioners representing the States of Arizona, Colorado, New Mexico, Utah, and Wyoming, and consented to by the Congress of the United States of America by Act of April 6, 1949 (63 Stat. 31);
+
+The term “Rio Grande Compact” shall mean that certain compact executed on March 18, 1938, by commissioners representing the States of Colorado, New Mexico, and Texas and consented to by the Congress of the United States of America by Act of May 31, 1939 (53 Stat. 785);
+
+The term “Treaty with the United Mexican States” shall mean that certain treaty between the United States of America and the United Mexican States, signed at Washington, District of Columbia, February 3, 1944, relating to the utilization of the waters of the Colorado River and other rivers, as amended and supplemented by the protocol dated November 14, 1944, and the understandings recited in the Senate resolution of April 18, 1945, advising and consenting to ratification thereof.
+
+(Apr. 11, 1956, ch. 203, §17, formerly §16, 70 Stat. 111; temporarily renumbered §17, Pub. L. 111–11, title X, §10401(b)(1), Mar. 30, 2009, 123 Stat. 1371.)
+
+Renumbering of Section
+
+For termination of renumbering of this section by section 10701(e)(2) of Pub. L. 111–11, see Termination Date of 2009 Amendment note below.
+
+References in Text
+
+Act of April 6, 1949, referred to in text, is act Apr. 6, 1949, ch. 48, 63 Stat. 31, which is not classified to the Code.
+
+Act of May 31, 1939, referred to in text, is act May 31, 1939, ch. 155, 53 Stat. 785, which is not classified to the Code.
+
+Termination Date of 2009 Amendment
+
+Amendment by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
+
+CHAPTER 13—FEDERAL LANDS INCLUDED IN STATE IRRIGATION DISTRICTS
+
+Sec.
+
+621.
+Subjection of lands in State irrigation district to State laws generally.
+
+622.
+Cost of construction and maintenance of irrigation project as charge on land.
+
+623.
+Map of district and plan of irrigation project; approval by Secretary.
+
+624.
+Entry of approval on land records.
+
+625.
+Release of unentered land from lien on noncompletion of irrigation project.
+
+626.
+Enforcement of lien against entered but unpatented land.
+
+627.
+Sale of unpatented and unentered land prohibited; suspension of entry.
+
+628.
+Patents to entered but unpatented land.
+
+629.
+Delivery of notices required by State law; right to hearing, appeal, etc.
+
+630.
+Disposition by Government of proceeds of land sold.
+
+        
+
+§621. Subjection of lands in State irrigation district to State laws generally
+
+When in any State of the United States under the irrigation district laws of said State there has, prior to August 11, 1916, been organized and created or shall thereafter be organized and created any irrigation district for the purpose of irrigating the lands situated within said irrigation district, and in which irrigation district so created or to be created there shall be included any of the public lands of the United States, such public lands so situated in said irrigation district, when subject to entry, and entered lands within said irrigation district, for which no final certificates have been issued, which may be designated by the Secretary of the Interior in the approval by him of the map and plat of an irrigation district as provided in section 623 of this title, are made and declared to be subject to all the provisions of the laws of the State in which such lands shall be situated relating to the organization, government, and regulation of irrigation districts for the reclamation and irrigation of arid lands for agricultural purposes, to the same extent and in the same manner in which the lands of a like character held under private ownership are or may be subject to said laws: Provided, That the United States and all persons legally holding unpatented lands under entry made under the public land laws of the United States are accorded all the rights, privileges, benefits, and exemptions given by said State laws to persons holding lands of a like character under private ownership except as in this chapter otherwise provided: Provided further, That this chapter shall not apply to any irrigation district comprising a majority acreage of unentered land.
+
+(Aug. 11, 1916, ch. 319, §1, 39 Stat. 506.)
+
+§622. Cost of construction and maintenance of irrigation project as charge on land
+
+The cost of constructing, acquiring, purchasing, or maintaining the canals, ditches, reservoirs, reservoir sites, water, water right, rights-of-way, or other property incurred in connection with any irrigation project under said irrigation district laws shall be equitably apportioned among lands held under private ownership, lands legally covered by unpatented entries, and unentered public lands included in said irrigation district.
+Officially certified lists of the amounts of charges assessed against the smallest legal subdivision of said lands shall be furnished to the officer designated by the Secretary of the Interior of the land district within which the lands affected are located as soon as such charges are assessed; but nothing in this chapter shall be construed as creating any obligation against the United States to pay any of said charges, assessments, or debts incurred.
+
+All charges legally assessed shall be a lien upon unentered lands and upon lands covered by unpatented entries included in said irrigation district.
+
+(Aug. 11, 1916, ch. 319, §2, 39 Stat. 507; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg.
+Plan No. 3, §403, eff.
+July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg.
+Plan No. 3 of 1950, §§1, 2, eff.
+May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg.
+Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior.
+See section 403 of Reorg.
+Plan No. 3 of 1946, set out as a note under section 1 of this title.
+
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
+§623. Map of district and plan of irrigation project; approval by Secretary
+
+No unentered lands and no entered lands for which no final certificates have been issued shall be subject to the lien or liens herein contemplated until there shall have been submitted by said irrigation district to the Secretary of the Interior, and approved by him, a map or plat of said district and sufficient detailed engineering data to demonstrate to the satisfaction of the Secretary of the Interior the sufficiency of the water supply and the feasibility of the project, and which shall explain the plan or mode of irrigation in those irrigation districts where the irrigation works have not been constructed, and which plan shall be sufficient to thoroughly irrigate and reclaim said land and prepare it to raise ordinary agricultural crops, and which shall also show the source of water to be used for irrigation of land included in said district: Provided, That in those irrigation districts organized prior to August 11, 1916, and whose irrigation works had then been constructed and were then in operation as soon as a satisfactory map, plat, and plan shall have been approved by the Secretary of the Interior, as in this chapter provided, such entered and unentered lands shall be subject to all district taxes and assessments theretofore actually levied against the lands in said district and in the same manner in which lands of a like character held under private ownership are subject to liens and assessments.
+
+(Aug. 11, 1916, ch. 319, §3, 39 Stat. 507.)
+
+Codification
+
+Section is comprised of section 3 (less the first proviso) of act Aug. 11, 1916. The remainder of section 3 is classified to section 625 of this title.
+
+§624. Entry of approval on land records
+
+Upon the approval of the district map or plat as hereinbefore provided by the Secretary of the Interior the officer designated by the Secretary of the Interior will note said approval upon his records where any unentered or entered and unpatented lands are affected.
+
+(Aug. 11, 1916, ch. 319, §4, 39 Stat. 508; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg.
+Plan No. 3, §403, eff.
+July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg.
+Plan No. 3 of 1950, §§1, 2, eff.
+May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg.
+Plan No. 3 of 1946, which abolished all registers of district land offices and transferred function of register of district land offices to Secretary of the Interior.
+See section 403 of Reorg.
+Plan No. 3 of 1946, set out as a note under section 1 of this title.
+
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
+§625. Release of unentered land from lien on noncompletion of irrigation project
+
+The Secretary of the Interior may, upon the expiration of ten years from the date of his approval of said map and plan of any irrigation district, release from the lien authorized by this chapter any unentered land or lands upon which final certificate has not issued, for which irrigation works have not been constructed and water of such district made available for the land.
+
+(Aug. 11, 1916, ch. 319, §3, 39 Stat. 508.)
+
+Codification
+
+Section is comprised of the first proviso in section 3 of act Aug. 11, 1916. The remainder of section 3 is classified to section 623 of this title.
+
+§626. Enforcement of lien against entered but unpatented land
+
+The lien described in section 622 of this title upon land covered by unpatented entries may be enforced upon said unpatented lands by the sale thereof in the same manner and under the same proceeding whereby said assessments are enforced against lands held under private ownership: Provided, That in the case of entered unpatented lands the title or interest which such irrigation district may convey by tax sale, tax deed, or as a result of any tax proceeding shall be subject to the following conditions and limitations: If such unpatented land be withdrawn under the Act of June 17, 1902 (32 Stat. 388), known as the reclamation Act, or subject to the provisions of said Act, then the interest which the district may convey by such tax proceedings or tax deed shall be subject to a prior lien reserved to the United States for all the unpaid charges authorized by the said Act, but the holder of such tax deed or tax title resulting from such district tax shall be entitled to all the rights and privileges in the land included in such tax title or tax deed of an assignee under the provisions of section 441 of this title, and upon submission to the United States land office of the district in which the land is located of satisfactory proof of such tax title, the name of the holder thereof shall be indorsed upon the records of such land office as entitled to the rights of one holding a complete and valid assignment under section 441 of this title and such person may at any time thereafter receive patent upon submitting satisfactory proof of the reclamation and irrigation required by Act June 17, 1902, and Acts amendatory thereto, and making the payments required by said Acts.
+
+(Aug. 11, 1916, ch. 319, §2, 39 Stat. 507.)
+
+References in Text
+
+Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+
+Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg.
+Plan No. 3 of 1950, §§1, 2, eff.
+May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+
+§627. Sale of unpatented and unentered land prohibited; suspension of entry
+
+No public lands which were unentered at the time any tax or assessment was levied against same by such irrigation district shall be sold for such taxes or assessments, but such tax or assessment shall be and continue a lien upon such lands, and not more than one hundred and sixty acres of such land shall be entered by any one person; and when such lands shall be applied for, after said approval by the Secretary of the Interior, under the homestead or desert-land laws of the United States the application shall be suspended for a period of thirty days to enable the applicant to present a certificate from the proper district or county officer showing that no unpaid district charges are due and delinquent against said land.
+
+(Aug. 11, 1916, ch. 319, §5, 39 Stat. 508.)
+
+References in Text
+
+The desert-land laws of the United States, referred to in text, are classified generally to chapter 9 (§321 et seq.) of this title.
+
+§628. Patents to entered but unpatented land
+
+Any entered but unpatented lands not subject to the reclamation Act of June seventeenth, nineteen hundred and two (Thirty-second Statutes, page three hundred and eighty-eight), sold in the manner and for the purposes mentioned in this chapter may be patented to the purchaser thereof or his assignee at any time after the expiration of the period of redemption allowed by law under which it may have been sold (no redemption having been made) upon the payment to the officer designated by the Secretary of the Interior of the local land office of the minimum price of $1.25 per acre, or such other price as may be fixed by law for such lands, together with the usual fees and commissions charged in entries of like lands under the homestead laws, and upon a satisfactory showing that the irrigation works have been constructed and that water of the district is available for such land; but the purchaser or his assignee shall, at the time of application for patent, have the qualification of a homestead entryman or desert-land entryman, and not more than one hundred and sixty acres of said land shall be patented to any one purchaser under the provisions of this chapter.
+
+These limitations shall not apply to sales to irrigation districts, but shall apply to purchasers from such irrigation districts of such land bid in by said district.
+
+Unless the purchaser or his assignee of such lands shall, within ninety days after the time for redemption has expired, pay to the proper officer designated by the Secretary of the Interior all fees and commissions and the purchase price to which the United States shall be entitled as provided for in this chapter, any person having the qualification of a homestead entryman or a desert-land entryman may pay to the proper officer designated by the Secretary of the Interior for not more than one hundred and sixty acres of said lands, for which payment has not been made, the unpaid purchase price, fees, and commissions to which the United States may be entitled; and upon satisfactory proof that he has paid to the purchaser at the tax sale, or his assignee or to the proper officer of the district for such purchaser or for the district, as the case may be, the sum for which the land was sold at sale for irrigation-district charges or bid in by the district at such sale, and in addition thereto the interest and penalties on the amount bid at the rate allowed by law, shall be subrogated to the rights of such purchaser to receive patent for said land.
+
+In any case where any tract of entered land lying within such approved irrigation district shall become vacant by relinquishment or cancellation for any cause, any subsequent applicant therefor shall be required, in addition to the qualifications and requirements otherwise provided, to furnish satisfactory proof by certificate from the proper district or county officer that he has paid all charges then due to the district upon said land and also has paid to the proper district or county officer for the holder or holders of any tax certificates, delinquency certificates, or other proper evidence of purchase at tax sale the amount for which the said land was sold at tax sale, together with the interest and penalties thereon provided by law.
+
+(Aug. 11, 1916, ch. 319, §6, 39 Stat. 508; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg.
+Plan No. 3, §403, eff.
+July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+References in Text
+
+The reclamation Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+
+Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg.
+Plan No. 3 of 1950, §§1, 2, eff.
+May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg.
+Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior.
+See section 403 of Reorg.
+Plan No. 3 of 1946, set out as a note under section 1 of this title.
+
+Previously, references to “receiver” were changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925.
+
+§629. Delivery of notices required by State law; right to hearing, appeal, etc.
+
+All notices required by the irrigation district laws mentioned in this chapter shall, as soon as such notices are issued, be delivered to the officer designated by the Secretary of the Interior of the proper land office in cases where unpatented lands are affected thereby, and to the entryman whose unpatented lands are included therein, and the United States and such entryman shall be given the same rights to be heard by petition, answer, remonstrance, appeal, or otherwise as are given to persons holding lands in private ownership, and all entrymen shall be given the same rights of redemption as are given to the owners of lands held in private ownership.
+
+(Aug. 11, 1916, ch. 319, §7, 39 Stat. 509; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg.
+Plan No. 3, §403, eff.
+July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg.
+Plan No. 3 of 1950, §§1, 2, eff.
+May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg.
+Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior.
+See section 403 of Reorg.
+Plan No. 3 of 1946, set out as a note under section 1 of this title.
+
+Previously, reference to “receiver” was changed to “register” by acts Oct. 28, 1921 and Mar. 3, 1925.
+
+§630. Disposition by Government of proceeds of land sold
+
+All moneys derived by the United States from the sale of public lands referred to in this chapter shall be paid into such funds and applied as provided by law for the disposal of the proceeds from the sale of public lands.
+
+(Aug. 11, 1916, ch. 319, §8, 39 Stat. 509.)
+
+CHAPTER 14—GRANTS OF DESERT LANDS TO STATES FOR RECLAMATION
+
+Sec.
+
+641.
+Grant of desert land to States authorized.
+
+641a.
+Issuance of quitclaim deeds; patents for segregated lands.
+
+641b.
+Filing of application for quitclaim deeds.
+
+641c.
+Requirements of application for quitclaim deed.
+
+641d.
+Effective date of quitclaim; administration of lands relinquished by States.
+
+642.
+Liens for expenses of reclamation.
+
+643.
+Repealed.
+
+644.
+Preference right to entryman under State laws.
+
+645.
+Additional arid lands available to Colorado, Idaho, Nevada, and Wyoming for reclamation.
+
+646.
+Grant extended to New Mexico and Arizona.
+
+647.
+Grant extended to desert lands within part of former Ute Indian Reservation in Colorado.
+
+648.
+Omitted.
+
+        
+
+§641. Grant of desert land to States authorized
+
+To aid the public-land States in the reclamation of the desert lands therein, and the settlement, cultivation and sale thereof in small tracts to actual settlers, the Secretary of the Interior with the approval of the President is, as of August 18, 1894, authorized and empowered, upon proper application of the State to contract and agree, from time to time, with each of the States in which there may be situated desert lands as defined by the Act approved March 3, 1877, and the Act amendatory thereof, approved March 3, 1891, binding the United States to donate, grant, and patent to the State free of cost for survey or price such desert lands, not exceeding one million acres in each State, as the State may cause to be irrigated, reclaimed, occupied, and not less than twenty acres of each one hundred and sixty acre tract cultivated by actual settlers, as thoroughly as is required of citizens who may enter under the desert-land law within ten years from the date of approval by the Secretary of the Interior of the State's application for the segregation of such lands; and if actual construction of reclamation works is not begun within three years after the segregation of the lands or within such further period not exceeding three years, as shall be allowed by the Secretary of the Interior, the said Secretary of the Interior, in his discretion, may restore such lands to the public domain; and if the State fails, within ten years from the date of such segregation, to cause the whole or any part of the lands so segregated to be so irrigated and reclaimed, the Secretary of the Interior may, in his discretion, continue said segregation for a period not exceeding five years, or may, in his discretion, restore such lands not irrigated and reclaimed to the public domain upon the expiration of the ten-year period or of any extension thereof.
+
+Before the application of any State is allowed or any contract or agreement is executed or any segregation of any of the land from the public domain is ordered by the Secretary of the Interior, the State shall file a map of the said land proposed to be irrigated which shall exhibit a plan showing the mode of the contemplated irrigation and which plan shall be sufficient to thoroughly irrigate and reclaim said land and prepare it to raise ordinary agricultural crops and shall also show the source of the water to be used for irrigation and reclamation.
+
+Any State contracting under this section is authorized to make all necessary contracts to cause the said lands to be reclaimed, and to induce their settlement and cultivation in accordance with and subject to the provisions of this section; but the State shall not be authorized to lease any of said lands or to use or dispose of the same in any way whatever, except to secure their reclamation, cultivation, and settlement.
+
+As fast as any State may furnish satisfactory proof according to such rules and regulations as may be prescribed by the Secretary of the Interior, that any of said lands are irrigated, reclaimed, and occupied by actual settlers, patents shall be issued to the State or its assigns for said lands so reclaimed and settled: Provided, That said States shall not sell or dispose of more than one hundred and sixty acres of said lands to any one person, and any surplus of money derived by any State from the sale of said lands in excess of the cost of their reclamation, shall be held as a trust fund for and be applied to the reclamation of other desert lands in such State.
+
+(Aug. 18, 1894, ch. 301, §4, 28 Stat. 422; Mar. 3, 1901, ch. 853, §3, 31 Stat. 1188; Jan. 6, 1921, ch. 10, 41 Stat. 1085; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
+
+References in Text
+
+Act approved March 3, 1877, referred to in text, is act Mar. 3, 1877, ch. 107, 19 Stat. 377, as amended, popularly known as the Desert Lands Act, which is classified generally to sections 321 to 323, 325, 327 to 329 of this title.
+For complete classification of this Act to the Code, see Tables.
+
+The Act amendatory thereof, approved March 3, 1891, referred to in text, is act Mar. 3, 1891, ch. 561, 26 Stat. 1095, which enacted sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 1165, 1166, 1181, and 1197 of this title, sections 471, 607, 611, 611a, and 613 of Title 16, Conservation, section 495 of Title 25, Indians, and sections 30, 36, 44, 45, 48, and 52 of Title 30, Mineral Lands and Mining.
+For complete classification of this Act to the Code, see Tables.
 
 Short Title
 
@@ -16566,7 +17010,7 @@ June 23, 1959, Pub. L. 86–60, title I, 72 Stat. 93.
 
 June 4, 1958, Pub. L. 85–439, title I, 72 Stat. 156.
 
-July 1, 1957, Pub. L. 85–77, title I, 71 Stat. 528.
+July 1, 1957, Pub. L. 85–77, title I, 71 Stat. 258.
 
 June 13, 1956, ch. 380, title I, 70 Stat. 258.
 
@@ -21353,6 +21797,12 @@ Doc. 1111, dated June 12, 1998; or
 
 “(B) any remainder of the qualified outer Continental Shelf revenues shall revert to the general fund of the Treasury.”
 
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 995, provided in part: “That for fiscal year 2012 and each fiscal year thereafter, the term ‘qualified Outer Continental Shelf revenues’, as defined in section 102(9)(A) of the Gulf of Mexico Energy Security Act [of 2006], [title I of] division C of Public Law 109–432 [set out above], shall include only the portion of rental revenues that would have been collected by the Secretary at the rental rates in effect before August 5, 1993.”
+
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 994.
+
 Naval Petroleum Reserve
 
 Section 13 of act Aug. 7, 1953, revoked Ex. Ord.
@@ -22099,156 +22549,6 @@ In subsec. (a)(3)(C)(ii), “section 702 of title 5” substituted for “sectio
 
 August 8, 2005, referred to in subsec. (p)(2)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsec. (p) of this section, to reflect the probable intent of Congress.
 
-Regulations
-
-Section 305 of title III of Pub. L. 104–58 provided that: “The Secretary shall promulgate such rules and regulations as are necessary to implement the provisions of this title [amending this section and enacting provisions set out as notes under this section] within 180 days after the enactment of this Act [Nov. 28, 1995].”
-
-Savings Provision
-
-Pub. L. 109–58, title III, §388(d), Aug. 8, 2005, 119 Stat. 747, provided that: “Nothing in the amendment made by subsection (a) [amending this section] requires the resubmittal of any document that was previously submitted or the reauthorization of any action that was previously authorized with respect to a project for which, before the date of enactment of this Act [Aug. 8, 2005]—
-
-“(1) an offshore test facility has been constructed; or
-
-“(2) a request for a proposal has been issued by a public authority.”
-
-Section 306 of title III of Pub. L. 104–58 provided that: “Nothing in this title [amending this section and enacting provisions set out as notes under this section] shall be construed to affect any offshore pre-leasing, leasing, or development moratorium, including any moratorium applicable to the Eastern Planning Area of the Gulf of Mexico located off the Gulf Coast of Florida.”
-
-Abolition of House Committee on Merchant Marine and Fisheries
-
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-Transfer of Functions
-
-Functions vested in, or delegated to, Secretary of Energy and Department of Energy under or with respect to subsec. (a)(4) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
-
-Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior.
-See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
-
-Coordinated OCS Mapping Initiative
-
-Pub. L. 109–58, title III, §388(b), Aug. 8, 2005, 119 Stat. 746, provided that:
-
-“(1) In general.—The Secretary of the Interior, in cooperation with the Secretary of Commerce, the Commandant of the Coast Guard, and the Secretary of Defense, shall establish an interagency comprehensive digital mapping initiative for the outer Continental Shelf to assist in decisionmaking relating to the siting of activities under subsection (p) of section 8 of the Outer Continental Shelf Lands Act (43 U.S.C. 1337) (as added by subsection (a)).
-
-“(2) Use of data.—The mapping initiative shall use, and develop procedures for accessing, data collected before the date on which the mapping initiative is established, to the maximum extent practicable.
-
-“(3) Inclusions.—Mapping carried out under the mapping initiative shall include an indication of the locations on the outer Continental Shelf of—
-
-“(A) Federally-permitted activities;
-
-“(B) obstructions to navigation;
-
-“(C) submerged cultural resources;
-
-“(D) undersea cables;
-
-“(E) offshore aquaculture projects; and
-
-“(F) any area designated for the purpose of safety, national security, environmental protection, or conservation and management of living marine resources.”
-
-State Claims to Jurisdiction Over Submerged Lands
-
-Pub. L. 109–58, title III, §388(e), Aug. 8, 2005, 119 Stat. 747, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] shall be construed to alter, limit, or modify any claim of any State to any jurisdiction over, or any right, title, or interest in, any submerged lands.”
-
-Reimbursement of Local Interests
-
-Pub. L. 106–53, title II, §215(b)(2), Aug. 17, 1999, 113 Stat. 293, provided that: “Any amounts paid by non-Federal interests for beach erosion control, hurricane protection, shore protection, or storm damage reduction projects as a result of an assessment under section 8(k) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(k)) shall be fully reimbursed.”
-
-Fees for Royalty Rate Relief Applications
-
-Pub. L. 104–134, title I, §101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–166; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and thereafter, fees for royalty rate relief applications shall be established (and revised as needed) in Notices to Lessees, and shall be credited to this account in the program areas performing the function, and remain available until expended for the costs of administering the royalty rate relief authorized by 43 U.S.C. 1337(a)(3)”.
-
-Lease Sales
-
-Section 304 of title III of Pub. L. 104–58 provided that: “For all tracts located in water depths of 200 meters or greater in the Western and Central Planning Area of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, any lease sale within five years of the date of enactment of this title [Nov. 28, 1995], shall use the bidding system authorized in section 8(a)(1)(H) of the Outer Continental Shelf Lands Act, as amended by this title [43 U.S.C. 1337(a)(1)(H)], except that the suspension of royalties shall be set at a volume of not less than the following:
-
-“(1) 17.5 million barrels of oil equivalent for leases in water depths of 200 to 400 meters;
-
-“(2) 52.5 million barrels of oil equivalent for leases in 400 to 800 meters of water; and
-
-“(3) 87.5 million barrels of oil equivalent for leases in water depths greater than 800 meters.”
-
-Distribution of Section 1337(g) Account
-
-Section 8004 of title VIII of Pub. L. 99–272 provided that:
-
-“(a) Prior to April 15, 1986, the Secretary shall distribute to the designated coastal States the sum of—
-
-“(1) the amounts due and payable to each such State under paragraph (2) of section 8(g) of the Outer Continental Shelf Lands Act, as amended by this title [43 U.S.C. 1337(g)(2)], for the period between October 1, 1985, and the date of such distribution, and
-
-“(2) the amounts due each such State under subsection (b)(1)(A) of this section for the period prior to October 1, 1985.
-
-“(b)(1) As a fair and equitable disposition of all revenues (including interest thereon) derived from any lease of Federal lands wholly or partially within 3 miles of the seaward boundary of a coastal State prior to October 1, 1985, the Secretary shall distribute:
-
-“(A) from the funds which were deposited in the separate account in the Treasury of the United States under section 8(g)(4) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(g)(4)) which was in effect prior to the date of enactment of section 8003 of this title [Apr. 7, 1986] the following sums:
-
- 
-($ million)
-
-        
-
-  Louisiana
-   572   
-  Texas
-   382   
-  California
-   338   
-  Alabama
-    66   
-  Alaska
-    51   
-  Mississippi
-    14   
-  Florida
-    0.03
-
-as well as 27 percent of the royalties, derived from any lease of Federal lands, which have been deposited through September 30, 1985, in the separate account described in this paragraph and interest thereon accrued through September 30, 1985, and shall transmit any remaining amounts to the miscellaneous receipts account of the Treasury of the United States; and
-
-“(B) from revenues derived from any lease of Federal lands under the Outer Continental Shelf Lands Act, as amended [43 U.S.C. 1331 et seq.], prior to April 15 of each of the fifteen fiscal years following the fiscal year in which this title is enacted, 3 percent of the following sums in each of the five fiscal years following the date of enactment of this Act [Apr. 7, 1986], 7 percent of such sums in each of the next five fiscal years, and 10 percent of such sums in each of the following five fiscal years:
-
- 
-($ million)
-
-        
-
-  Louisiana
-    84  
-  Texas
-   134  
-  California
-   289  
-  Alabama
-    7  
-  Alaska
-   134  
-  Mississippi
-    2.
-
-“(2) The acceptance of any payment by a State under this section shall satisfy and release any and all claims of such State against the United States arising under, or related to, section 8(g) of the Outer Continental Shelf Lands Act [43 U.S.C. 1337(g)], as it was in effect prior to the date of enactment of this Act [Apr. 7, 1986] and shall vest in such State the right to receive payments as set forth in this section.
-
-“(c) Notwithstanding any other provision of this Act, the amounts due and payable to the State of Louisiana prior to October 1, 1986, under subtitle A of title VIII (Outer Continental Shelf and Related Programs) of this Act [title VIII does not contain a subtitle A, see Short Title of 1986 Amendment note set out under section 1301 of this title] shall remain in their separate accounts in the Treasury of the United States and continue to accrue interest until October 1, 1986, except that the $572,000,000 set forth in subsection 8004(b)(1)(A) of this section shall only accrue interest from April 15, 1986 to October 1, 1986, at which time the Secretary shall immediately distribute such sums with accrued interest to the State of Louisiana.”
-
-1 So in original.
-Probably should be “clause”.
-
-2 See References in Text note below.
-
-§1338. Disposition of revenues
-
-All rentals, royalties, and other sums paid to the Secretary or the Secretary of the Navy under any lease on the outer Continental Shelf for the period from June 5, 1950, to date, and thereafter shall be deposited in the Treasury of the United States and credited to miscellaneous receipts.
-
-(Aug. 7, 1953, ch. 345, §9, 67 Stat. 469.)
-
-§1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts
-
-Notwithstanding section 3302 of title 31, any moneys on and after November 5, 1990, received as a result of the forfeiture of a bond or other security by an Outer Continental Shelf permittee, lessee, or right-of-way holder which does not fulfill the requirements of its permit, lease, or right-of-way or does not comply with the regulations of the Secretary shall be credited to the royalty and offshore minerals management account of the Minerals Management Service to cover the cost to the United States of any improvement, protection, or rehabilitation work rendered necessary by the action or inaction that led to the forfeiture, to remain available until expended: Provided further, That any portion of the moneys so credited shall be returned to the permittee, lessee, or right-of-way holder to the extent that the money is in excess of the amount expended in performing the work necessitated by the action or inaction which led to their receipt or, if the bond or security was forfeited for failure to pay the civil penalty, in excess of the civil penalty imposed.
-
-(Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1926; Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1386; Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2508.)
-
-Codification
-
-Section enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1991, and not as part of the Outer Continental Shelf Lands Act which comprises this subchapter.
-
 Change of Name
 
 Title I of Pub. L. 103–332, 108 Stat. 2508, provided in part: “That where the account title ‘Leasing and Royalty Management’ appears in any public law, the words ‘Leasing and Royalty Management’ beginning in fiscal year 1995 and thereafter shall be construed to mean ‘Royalty and Offshore Minerals Management’.”
@@ -22333,6 +22633,243 @@ Any permit for geological explorations authorized by this section shall be issue
 The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled “Wilderness Plan, Point Reyes National Seashore”, numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease or permit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title) of such State which are adjacent to such Wilderness.
 
 (Aug. 7, 1953, ch. 345, §11, 67 Stat. 469; Pub. L. 95–372, title II, §206, Sept. 18, 1978, 92 Stat. 647; Pub. L. 99–68, §1(c), July 19, 1985, 99 Stat. 166.)
+
+Change of Name
+
+“Phillip Burton Wilderness” was substituted for “Point Reyes Wilderness” in subsec. (h), pursuant to section 1(c) of Pub. L. 99–68.
+
+Transfer of Functions
+
+Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare.
+Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior.
+See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+1 So in original.
+Probably should be “undertaken;”.
+
+§1341. Reservation of lands and rights
+
+(a) Withdrawal of unleased lands by President
+
+The President of the United States may, from time to time, withdraw from disposition any of the unleased lands of the outer Continental Shelf.
+
+(b) First refusal of mineral purchases
+
+In time of war, or when the President shall so prescribe, the United States shall have the right of first refusal to purchase at the market price all or any portion of any mineral produced from the outer Continental Shelf.
+
+(c) National security clause
+
+All leases issued under this subchapter, and leases, the maintenance and operation of which are authorized under this subchapter, shall contain or be construed to contain a provision whereby authority is vested in the Secretary, upon a recommendation of the Secretary of Defense, during a state of war or national emergency declared by the Congress or the President of the United States after August 7, 1953, to suspend operations under any lease; and all such leases shall contain or be construed to contain provisions for the payment of just compensation to the lessee whose operations are thus suspended.
+
+(d) National defense areas; suspension of operations; extension of leases
+
+The United States reserves and retains the right to designate by and through the Secretary of Defense, with the approval of the President, as areas restricted from exploration and operation that part of the outer Continental Shelf needed for national defense; and so long as such designation remains in effect no exploration or operations may be conducted on any part of the surface of such area except with the concurrence of the Secretary of Defense; and if operations or production under any lease theretofore issued on lands within any such restricted area shall be suspended, any payment of rentals, minimum royalty, and royalty prescribed by such lease likewise shall be suspended during such period of suspension of operation and production, and the term of such lease shall be extended by adding thereto any such suspension period, and the United States shall be liable to the lessee for such compensation as is required to be paid under the Constitution of the United States.
+
+(e) Source materials essential to production of fissionable materials
+
+All uranium, thorium, and all other materials determined pursuant to paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, to be peculiarly essential to the production of fissionable material, contained, in whatever concentration, in deposits in the subsoil or seabed of the outer Continental Shelf are reserved for the use of the United States.
+
+(f) Helium ownership; rules and regulations governing extraction
+
+The United States reserves and retains the ownership of and the right to extract all helium, under such rules and regulations as shall be prescribed by the Secretary, contained in gas produced from any portion of the outer Continental Shelf which may be subject to any lease maintained or granted pursuant to this subchapter, but the helium shall be extracted from such gas so as to cause no substantial delay in the delivery of gas produced to the purchaser of such gas.
+
+(Aug. 7, 1953, ch. 345, §12, 67 Stat. 469.)
+
+References in Text
+
+Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1805 of Title 42, The Public Health and Welfare, prior to the general amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921. See section 2014(z) of Title 42.
+
+Key Largo Coral Reef Preserve
+
+Withdrawal of area designated Key Largo Coral Reef Preserve from disposition, see Proc.
+No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
+
+§1342. Prior claims as unaffected
+
+Nothing herein contained shall affect such rights, if any, as may have been acquired under any law of the United States by any person in lands subject to this subchapter and such rights, if any, shall be governed by the law in effect at the time they may have been acquired: Provided, however, That nothing herein contained is intended or shall be construed as a finding, interpretation, or construction by the Congress that the law under which such rights may be claimed in fact applies to the lands subject to this subchapter or authorizes or compels the granting of such rights in such lands, and that the determination of the applicability or effect of such law shall be unaffected by anything herein contained.
+
+(Aug. 7, 1953, ch. 345, §14, 67 Stat. 470.)
+
+§1343. Repealed.
+Pub. L. 105–362, title IX, §901(l)(1), Nov. 10, 1998, 112 Stat. 3290
+
+Section, acts Aug. 7, 1953, ch. 345, §15, 67 Stat. 470; Pub. L. 95–372, title II, §207, Sept. 18, 1978, 92 Stat. 648; Pub. L. 99–367, §2(a), July 31, 1986, 100 Stat. 774, related to Secretary's annual report to Congress concerning outer Continental Shelf leasing and production program and promotion of competition in leasing.
+
+§1344. Outer Continental Shelf leasing program
+
+(a) Schedule of proposed oil and gas lease sales
+
+The Secretary, pursuant to procedures set forth in subsections (c) and (d) of this section, shall prepare and periodically revise, and maintain an oil and gas leasing program to implement the policies of this subchapter.
+The leasing program shall consist of a schedule of proposed lease sales indicating, as precisely as possible, the size, timing, and location of leasing activity which he determines will best meet national energy needs for the five-year period following its approval or reapproval.
+Such leasing program shall be prepared and maintained in a manner consistent with the following principles:
+
+(1) Management of the outer Continental Shelf shall be conducted in a manner which considers economic, social, and environmental values of the renewable and nonrenewable resources contained in the outer Continental Shelf, and the potential impact of oil and gas exploration on other resource values of the outer Continental Shelf and the marine, coastal, and human environments.
+
+(2) Timing and location of exploration, development, and production of oil and gas among the oil- and gas-bearing physiographic regions of the outer Continental Shelf shall be based on a consideration of—
+
+(A) existing information concerning the geographical, geological, and ecological characteristics of such regions;
+
+(B) an equitable sharing of developmental benefits and environmental risks among the various regions;
+
+(C) the location of such regions with respect to, and the relative needs of, regional and national energy markets;
+
+(D) the location of such regions with respect to other uses of the sea and seabed, including fisheries, navigation, existing or proposed sealanes, potential sites of deepwater ports, and other anticipated uses of the resources and space of the outer Continental Shelf;
+
+(E) the interest of potential oil and gas producers in the development of oil and gas resources as indicated by exploration or nomination;
+
+(F) laws, goals, and policies of affected States which have been specifically identified by the Governors of such States as relevant matters for the Secretary's consideration;
+
+(G) the relative environmental sensitivity and marine productivity of different areas of the outer Continental Shelf; and
+
+(H) relevant environmental and predictive information for different areas of the outer Continental Shelf.
+
+(3) The Secretary shall select the timing and location of leasing, to the maximum extent practicable, so as to obtain a proper balance between the potential for environmental damage, the potential for the discovery of oil and gas, and the potential for adverse impact on the coastal zone.
+
+(4) Leasing activities shall be conducted to assure receipt of fair market value for the lands leased and the rights conveyed by the Federal Government.
+
+(b) Estimates of appropriations and staff required for management of leasing program
+
+The leasing program shall include estimates of the appropriations and staff required to—
+
+(1) obtain resource information and any other information needed to prepare the leasing program required by this section;
+
+(2) analyze and interpret the exploratory data and any other information which may be compiled under the authority of this subchapter;
+
+(3) conduct environmental studies and prepare any environmental impact statement required in accordance with this subchapter and with section 4332(2)(C) of title 42; and
+
+(4) supervise operations conducted pursuant to each lease in the manner necessary to assure due diligence in the exploration and development of the lease area and compliance with the requirements of applicable law and regulations, and with the terms of the lease.
+
+(c) Suggestions from Federal agencies and affected State and local governments; submission of proposed program to Governors of affected States and Congress; publication in Federal Register
+
+(1) During the preparation of any proposed leasing program under this section, the Secretary shall invite and consider suggestions for such program from any interested Federal agency, including the Attorney General, in consultation with the Federal Trade Commission, and from the Governor of any State which may become an affected State under such proposed program.
+The Secretary may also invite or consider any suggestions from the executive of any affected local government in such an affected State, which have been previously submitted to the Governor of such State, and from any other person.
+
+(2) After such preparation and at least sixty days prior to publication of a proposed leasing program in the Federal Register pursuant to paragraph (3) of this subsection, the Secretary shall submit a copy of such proposed program to the Governor of each affected State for review and comment.
+The Governor may solicit comments from those executives of local governments in his State which he, in his discretion, determines will be affected by the proposed program.
+If any comment by such Governor is received by the Secretary at least fifteen days prior to submission to the Congress pursuant to such paragraph (3) and includes a request for any modification of such proposed program, the Secretary shall reply in writing, granting or denying such request in whole or in part, or granting such request in such modified form as the Secretary considers appropriate, and stating his reasons therefor.
+All such correspondence between the Secretary and the Governor of any affected State, together with any additional information and data relating thereto, shall accompany such proposed program when it is submitted to the Congress.
+
+(3) Within nine months after September 18, 1978, the Secretary shall submit a proposed leasing program to the Congress, the Attorney General, and the Governors of affected States, and shall publish such proposed program in the Federal Register.
+Each Governor shall, upon request, submit a copy of the proposed leasing program to the executive of any local government affected by the proposed program.
+
+(d) Comments by Attorney General on anticipated effect on competition; comments by State or local governments; submission of program to President and Congress; issuance of leases in accordance with program
+
+(1) Within ninety days after the date of publication of a proposed leasing program, the Attorney General may, after consultation with the Federal Trade Commission, submit comments on the anticipated effects of such proposed program upon competition.
+Any State, local government, or other person may submit comments and recommendations as to any aspect of such proposed program.
+
+(2) At least sixty days prior to approving a proposed leasing program, the Secretary shall submit it to the President and the Congress, together with any comments received.
+Such submission shall indicate why any specific recommendation of the Attorney General or a State or local government was not accepted.
+
+(3) After the leasing program has been approved by the Secretary, or after eighteen months following September 18, 1978, whichever first occurs, no lease shall be issued unless it is for an area included in the approved leasing program and unless it contains provisions consistent with the approved leasing program, except that leasing shall be permitted to continue until such program is approved and for so long thereafter as such program is under judicial or administrative review pursuant to the provisions of this subchapter.
+
+(e) Review, revision, and reapproval of program
+
+The Secretary shall review the leasing program approved under this section at least once each year.
+He may revise and reapprove such program, at any time, and such revision and reapproval, except in the case of a revision which is not significant, shall be in the same manner as originally developed.
+
+(f) Procedural regulations for management of program
+
+The Secretary shall, by regulation, establish procedures for—
+
+(1) receipt and consideration of nominations for any area to be offered for lease or to be excluded from leasing;
+
+(2) public notice of and participation in development of the leasing program;
+
+(3) review by State and local governments which may be impacted by the proposed leasing;
+
+(4) periodic consultation with State and local governments, oil and gas lessees and permittees, and representatives of other individuals or organizations engaged in activity in or on the outer Continental Shelf, including those involved in fish and shellfish recovery, and recreational activities; and
+
+(5) consideration of the coastal zone management program being developed or administered by an affected coastal State pursuant to section 1454 or section 1455 of title 16.
+
+Such procedures shall be applicable to any significant revision or reapproval of the leasing program.
+
+(g) Information from public and private sources; confidentiality of classified or privileged data
+
+The Secretary may obtain from public sources, or purchase from private sources, any survey, data, report, or other information (including interpretations of such data, survey, report, or other information) which may be necessary to assist him in preparing any environmental impact statement and in making other evaluations required by this subchapter.
+Data of a classified nature provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested.
+The Secretary shall maintain the confidentiality of all privileged or proprietary data or information for such period of time as is provided for in this subchapter, established by regulation, or agreed to by the parties.
+
+(h) Information from all Federal departments and agencies; confidentiality of privileged or proprietary information
+
+The heads of all Federal departments and agencies shall provide the Secretary with any nonpriviledged 1 or nonproprietary information he requests to assist him in preparing the leasing program and may provide the Secretary with any privileged or proprietary information he requests to assist him in preparing the leasing program.
+Privileged or proprietary information provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested.
+In addition, the Secretary shall utilize the existing capabilities and resources of such Federal departments and agencies by appropriate agreement.
+
+(Aug. 7, 1953, ch. 345, §18, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 649.)
+
+Transfer of Functions
+
+Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare.
+Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior.
+See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+1 So in original.
+Probably should be “nonprivileged”.
+
+§1345. Coordination and consultation with affected State and local governments
+
+(a) Recommendations regarding size, time, or location of proposed lease sales
+
+Any Governor of any affected State or the executive of any affected local government in such State may submit recommendations to the Secretary regarding the size, timing, or location of a proposed lease sale or with respect to a proposed development and production plan.
+Prior to submitting recommendations to the Secretary, the executive of any affected local government in any affected State must forward his recommendations to the Governor of such State.
+
+(b) Time for submission of recommendations
+
+Such recommendations shall be submitted within sixty days after notice of such proposed lease sale or after receipt of such development and production plan.
+
+(c) Acceptance or rejection of recommendations
+
+The Secretary shall accept recommendations of the Governor and may accept recommendations of the executive of any affected local government if he determines, after having provided the opportunity for consultation, that they provide for a reasonable balance between the national interest and the well-being of the citizens of the affected State.
+For purposes of this subsection, a determination of the national interest shall be based on the desirability of obtaining oil and gas supplies in a balanced manner and on the findings, purposes, and policies of this subchapter.
+The Secretary shall communicate to the Governor, in writing, the reasons for his determination to accept or reject such Governor's recommendations, or to implement any alternative means identified in consultation with the Governor to provide for a reasonable balance between the national interest and the well-being of the citizens of the affected State.
+
+(d) Finality of acceptance or rejection of recommendations
+
+The Secretary's determination that recommendations provide, or do not provide, for a reasonable balance between the national interest and the well-being of the citizens of the affected State shall be final and shall not, alone, be a basis for invalidation of a proposed lease sale or a proposed development and production plan in any suit or judicial review pursuant to section 1349 of this title, unless found to be arbitrary or capricious.
+
+(e) Cooperative agreements
+
+The Secretary is authorized to enter into cooperative agreements with affected States for purposes which are consistent with this subchapter and other applicable Federal law.
+Such agreements may include, but need not be limited to, the sharing of information (in accordance with the provisions of section 1352 of this title), the joint utilization of available expertise, the facilitating of permitting procedures, joint planning and review, and the formation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws, regulations, and stipulations relevant to outer Continental Shelf operations both onshore and offshore.
+
+(Aug. 7, 1953, ch. 345, §19, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 652.)
+
+§1346. Environmental studies
+
+(a) Information for assessment and management of impacts on environment; time for study; impacts on marine biota from pollution or large spills
+
+(1) The Secretary shall conduct a study of any area or region included in any oil and gas lease sale or other lease in order to establish information needed for assessment and management of environmental impacts on the human, marine, and coastal environments of the outer Continental Shelf and the coastal areas which may be affected by oil and gas or other mineral development in such area or region.
+
+(2) Each study required by paragraph (1) of this subsection shall be commenced not later than six months after September 18, 1978, with respect to any area or region where a lease sale has been held or announced by publication of a notice of proposed lease sale before September 18, 1978, and not later than six months prior to the holding of a lease sale with respect to any area or region where no lease sale has been held or scheduled before September 18, 1978. In the case of an agreement under section 1337(k)(2) of this title, each study required by paragraph (1) of this subsection shall be commenced not later than 6 months prior to commencing negotiations for such agreement or the entering into the memorandum of agreement as the case may be.
+The Secretary may utilize information collected in any study prior to September 18, 1978.
+
+(3) In addition to developing environmental information, any study of an area or region, to the extent practicable, shall be designed to predict impacts on the marine biota which may result from chronic low level pollution or large spills associated with outer Continental Shelf production, from the introduction of drill cuttings and drilling muds in the area, and from the laying of pipe to serve the offshore production area, and the impacts of development offshore on the affected and coastal areas.
+
+(b) Additional studies subsequent to leasing and development of area
+
+Subsequent to the leasing and developing of any area or region, the Secretary shall conduct such additional studies to establish environmental information as he deems necessary and shall monitor the human, marine, and coastal environments of such area or region in a manner designed to provide time-series and data trend information which can be used for comparison with any previously collected data for the purpose of identifying any significant changes in the quality and productivity of such environments, for establishing trends in the areas studied and monitored, and for designing experiments to identify the causes of such changes.
+
+(c) Procedural regulations for conduct of studies; cooperation with affected States; utilization of information from Federal, State and local governments and agencies
+
+The Secretary shall, by regulation, establish procedures for carrying out his duties under this section, and shall plan and carry out such duties in full cooperation with affected States.
+To the extent that other Federal agencies have prepared environmental impact statements, are conducting studies, or are monitoring the affected human, marine, or coastal environment, the Secretary may utilize the information derived therefrom in lieu of directly conducting such activities.
+The Secretary may also utilize information obtained from any State or local government, or from any person, for the purposes of this section.
+For the purpose of carrying out his responsibilities under this section, the Secretary may by agreement utilize, with or without reimbursement, the services, personnel, or facilities of any Federal, State, or local government agency.
+
+(d) Consideration of relevant environmental information in developing regulations, lease conditions and operating orders
+
+The Secretary shall consider available relevant environmental information in making decisions (including those relating to exploration plans, drilling permits, and development and production plans), in developing appropriate regulations and lease conditions, and in issuing operating orders.
+
+(e) Assessment of cumulative effects of activities on environment; submission to Congress
+
+As soon as practicable after the end of every 3 fiscal years, the Secretary shall submit to the Congress and make available to the general public an assessment of the cumulative effect of activities conducted under this subchapter on the human, marine, and coastal environments.
+
+(f) Utilization of capabilities of Department of Commerce
+
+In executing his responsibilities under this section, the Secretary shall, to the maximum extent practicable, enter into appropriate arrangements to utilize on a reimbursable basis the capabilities of the Department of Commerce.
+In carrying out such arrangements, the Secretary of Commerce is authorized to enter into contracts or grants with any person, organization, or entity with funds appropriated to the Secretary of the Interior pursuant to this subchapter.
+
+(Aug. 7, 1953, ch. 345, §20, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 653; amended Pub. L. 103–426, §1(b), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–66, title I, §1082(b), Dec. 21, 1995, 109 Stat. 722.)
 
 Termination of Reporting Requirements
 
@@ -25043,7 +25580,7 @@ On and after November 13, 1991, beginning in fiscal year 1993, and in each year 
 
 References in Text
 
-Section 901 of title 2, referred to in text, was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, by striking out subsec. (b) and adding a new subsec. (b). As so amended, section 901(b)(2)(D) of title 2 no longer refers to “emergency requirements”. However, “emergency requirements” are referred to elsewhere in section 901.
+Section 901 of title 2, referred to in text, was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, and by Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241. As so amended, section 901(b)(2)(D) of title 2 no longer refers to “emergency requirements”.
 
 1 See References in Text note below.
 
@@ -25592,6 +26129,159 @@ This subsection shall not affect the relative priorities, among themselves, of w
 The limitation stated in subsection (b) of this section shall not apply so long as the Secretary shall determine and proclaim that means are available and in operation which augment the water supply of the Colorado River system in such quantity as to make sufficient mainstream water available for release to satisfy annual consumptive use of seven million five hundred thousand acre-feet in Arizona, California, and Nevada.
 
 (Pub. L. 90–537, title III, §301, Sept. 30, 1968, 82 Stat. 887; Pub. L. 100–345, §2(b), June 24, 1988, 102 Stat. 643; Pub. L. 102–575, title XIII, §1302, Oct. 30, 1992, 106 Stat. 4662.)
+
+Designation of Salt-Gila Aqueduct as Fannin-McFarland Aqueduct
+
+Sections 1301 and 1302 of Pub. L. 102–575 provided that:
+
+“SEC. 1301. DESIGNATION.
+
+“The Salt-Gila Aqueduct of the Central Arizona Project, constructed, operated, and maintained under section 301(a)(7) of the Colorado River Basin Project Act (43 U.S.C. 1521(a)(7)), hereafter shall be known and designated as the ‘Fannin-McFarland Aqueduct’.
+
+“SEC. 1302. REFERENCES.
+
+“Any reference in any law, regulation, document, record, map, or other paper of the United States to the aqueduct referred to in section 1301 hereby is deemed to be a reference to the ‘Fannin-McFarland Aqueduct’.”
+
+Designation of Granite Reef Aqueduct as Hayden-Rhodes Aqueduct
+
+Section 2 of Pub. L. 100–345 provided that:
+
+“(a) The Granite Reef Aqueduct of the Central Arizona project, constructed, operated, and maintained under section 301(a)(1) of the Colorado River Basin [Project] Act (43 U.S.C. 1521(a)(1)), hereafter shall be known and designated as the ‘Hayden-Rhodes Aqueduct’.
+
+“(b) Any reference in any law, regulation, document, record, map, or other paper of the United States to the aqueduct referred to in subsection (a) hereby is deemed to be a reference to the ‘Hayden-Rhodes Aqueduct’.”
+
+§1522. Orme Dam and Reservoir
+
+(a) Acquisition of lands of Salt River Pima-Maricopa Indian Community and Fort McDowell-Apache Indian Community; relocation; eminent domain
+
+The Secretary shall designate the lands of the Salt River Pima-Maricopa Indian Community, Arizona, and the Fort McDowell-Apache Indian Community, Arizona, or interests therein, and any allotted lands or interests therein within said communities which he determines are necessary for use and occupancy by the United States for the construction, operation, and maintenance of Orme Dam and Reservoir, or alternative.
+The Secretary shall offer to pay the fair market value of the lands and interests designated, inclusive of improvements.
+In addition, the Secretary shall offer to pay toward the cost of relocating or replacing such improvements not to exceed $500,000 in the aggregate, and the amount offered for the actual relocation or replacement of a residence shall not exceed the difference between the fair market value of the residence and $8,000. Each community and each affected allottee shall have six months in which to accept or reject the Secretary's offer.
+If the Secretary's offer is rejected, the United States may proceed to acquire the property interests involved through eminent domain proceedings in the United States District Court for the District of Arizona under sections 3113 and 3114(a) to (d) of title 40. Upon acceptance in writing of the Secretary's offer, or upon the filing of a declaration of taking in eminent domain proceedings, title to the lands or interests involved, and the right to possession thereof, shall vest in the United States.
+Upon a determination by the Secretary that all or any part of such lands or interests are no longer necessary for the purpose for which acquired, title to such lands or interests shall be restored to the appropriate community upon repayment to the Federal Government of the amounts paid by it for such lands.
+
+(b) Rights of former owners to use or lease land
+
+Title to any land or easement acquired pursuant to this section shall be subject to the right of the former owner to use or lease the land for purposes not inconsistent with the construction, operation, and maintenance of the project, as determined by, and under terms and conditions prescribed by, the Secretary.
+Such right shall include the right to extract and dispose of minerals.
+The determination of fair market value under subsection (a) of this section shall reflect the right to extract and dispose of minerals and all other uses permitted by this section.
+
+(c) Addition of land to Fort McDowell Indian Reservation
+
+In view of the fact that a substantial portion of the lands of the Fort McDowell Mohave-Apache Indian Community will be required for Orme Dam and Reservoir, or alternative, the Secretary shall, in addition to the compensation provided for in subsection (a) of this section, designate and add to the Fort McDowell Indian Reservation twenty-five hundred acres of suitable lands in the vicinity of the reservation that are under the jurisdiction of the Department of the Interior in township 4 north, range 7 east; township 5 north, range 7 east; and township 3 north, range 7 east, Gila and Salt River base meridian, Arizona.
+Title to lands so added to the reservation shall be held by the United States in trust for the Fort McDowell Mohave-Apache Indian Community.
+
+(d) Recreational facilities developed and operated by Indian communities along Orme Reservoir shoreline
+
+Each community shall have a right, in accordance with plans approved by the Secretary, to develop and operate recreational facilities along the part of the shoreline of the Orme Reservoir located on or adjacent to its reservation, including land added to the Fort McDowell Reservation as provided in subsection (b) of this section, subject to rules and regulations prescribed by the Secretary governing the recreation development of the reservoir.
+Recreation development of the entire reservoir and federally owned lands under the jurisdiction of the Secretary adjacent thereto shall be in accordance with a master recreation plan approved by the Secretary.
+The members of each community shall have nonexclusive personal rights to hunt and fish on or in the reservoir without charge to the same extent they are now authorized to hunt and fish, but no community shall have the right to exclude others from the reservoir except by control of access through its reservation or any right to require payment by members of the public except for the use of community lands or facilities.
+
+(e) Exemption of funds from State and Federal income taxes
+
+All funds paid pursuant to this section, and any per capita distribution thereof, shall be exempt from all forms of State and Federal income taxes.
+
+(Pub. L. 90–537, title III, §302, Sept. 30, 1968, 82 Stat. 888.)
+
+Codification
+
+ In subsec. (a), “sections 3113 and 3114(a) to (d) of title 40” substituted for “40 U.S.C., sections 257 and 258a” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+Inapplicability of Subsection (a) to Fort McDowell Indian Community
+
+Pub. L. 101–628, title IV, §411(e), Nov. 28, 1990, 104 Stat. 4491, provided that: “As of the date the authorizations contained in section 409(b) of this Act become effective [see section 412 of Pub. L. 101–628, 104 Stat. 4491], section 302(a) of the Colorado River Basin Project Act (43 U.S.C. 1522(a)) shall no longer apply to the Community [Fort McDowell Indian Community].”
+
+Inapplicability to Salt River Pima-Maricopa Indian Community
+
+Pub. L. 100–512, §11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: “Upon the effective date of this Act as set forth in section 12 [102 Stat. 2559], section 302 of the Colorado River Basin Project Act (43 U.S.C. 1522) shall no longer apply to the Community [Salt River Pima-Maricopa Indian Community].”
+
+§1523. Power requirements of Central Arizona Project and augmentation of Lower Colorado River Basin Development Fund
+
+(a) Engineering and economic studies
+
+The Secretary is authorized and directed to continue to a conclusion appropriate engineering and economic studies and to recommend the most feasible plan for the construction and operation of hydroelectric generating and transmission facilities, the purchase of electrical energy, the purchase of entitlement to electrical plant capacity, or any combination thereof, including participation, operation, or construction by non-Federal entities, for the purpose of supplying the power requirements of the Central Arizona Project and augmenting the Lower Colorado River Basin Development Fund: Provided, That nothing in this section or in this chapter contained shall be construed to authorize the study or construction of any dams on the main stream of the Colorado River between Hoover Dam and Glen Canyon Dam.
+
+(b) Construction of thermal generating powerplants; agreements for acquisition by United States of portions of plant capacity
+
+If included as a part of the recommended plan, the Secretary may enter into agreements with non-Federal interests proposing to construct thermal generating powerplants whereby the United States shall acquire the right to such portions of their capacity, including delivery of power and energy over appurtenant transmission facilities to mutually agreed upon delivery points, as he determines is required in connection with the operation of the Central Arizona Project.
+When not required for the Central Arizona Project, the power and energy acquired by such agreements may be disposed of intermittently by the Secretary for other purposes at such prices as he may determine, including its marketing in conjunction with the sale of power and energy from Federal powerplants in the Colorado River system so as to produce the greatest practicable amount of power and energy that can be sold at firm power and energy rates.
+The agreements shall provide among other things, that—
+
+(1) the United States shall pay not more than that portion of the total construction cost, exclusive of interest during construction, of the powerplants, and of any switchyards and transmission facilities serving the United States, as is represented by the ratios of the respective capacities to be provided for the United States therein to the total capacities of such facilities.
+The Secretary shall make the Federal portion of such costs available to the non-Federal interests during the construction period, including the period of preparation of designs and specifications, in such installments as will facilitate a timely construction schedule, but no funds other than for preconstruction activities shall be made available by the Secretary until he determines that adequate contractual arrangements have been entered into between all the affected parties covering land, water, fuel supplies, power (its availability and use), rights-of-way, transmission facilities and all other necessary matters for the thermal generating powerplants;
+
+(2) annual operation and maintenance costs shall be apportioned between the United States and the non-Federal interests on an equitable basis taking into account the ratios determined in accordance with the foregoing clause (1): Provided, however, That the United States shall share on the foregoing basis in the depreciation component of such costs only to the extent of provision for depreciation on replacements financed by the non-Federal interests;
+
+(3) the United States shall be given appropriate credit for any interests in Federal lands administered by the Department of the Interior that are made available for the power plants and appurtenances;
+
+(4) costs to be borne by the United States under clauses (1) and (2) shall not include (a) interest and interest during construction, (b) financing charges, (c) franchise fees, and (d) such other costs as shall be specified in the agreement.
+
+(c) Recommended plan; submission to Congress
+
+No later than one year from September 30, 1968, the Secretary shall submit his recommended plan to the Congress.
+Except as authorized by subsection (b) of this section, such plan shall not become effective until approved by the Congress.
+
+(d) Apportionment of water for Arizona plants diverted above Lee Ferry
+
+If any thermal generating plant referred to in subsection (b) of this section is located in Arizona, and if it is served by water diverted from the drainage area of the Colorado River system above Lee Ferry, other provisions of existing law to the contrary notwithstanding, such consumptive use of water shall be a part of the fifty thousand acre-feet per annum apportioned to the State of Arizona by article III(a) of the Upper Colorado River Basin Compact (63 Stat. 31).
+
+(Pub. L. 90–537, title III, §303, Sept. 30, 1968, 82 Stat. 889.)
+
+References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+
+§1524. Water furnished from Central Arizona Project
+
+(a) Restriction on use of water for irrigation
+
+Unless and until otherwise provided by Congress, water from the Central Arizona Project shall not be made available directly or indirectly for the irrigation of lands not having a recent irrigation history as determined by the Secretary, except in the case of Indian lands, national wildlife refuges, and, with the approval of the Secretary, State-administered wildlife management areas.
+
+(b) Contracts with municipal and industrial users
+
+(1) Irrigation and municipal and industrial water supply under the Central Arizona Project within the State of Arizona may, in the event the Secretary determines that it is necessary to effect repayment, be pursuant to master contracts with organizations which have power to levy assessments against all taxable real property within their boundaries.
+The terms and conditions of contracts or other arrangements whereby each such organization makes water from the Central Arizona Project available to users within its boundaries shall be subject to the Secretary's approval, and the United States shall, if the Secretary determines such action is desirable to facilitate carrying out the provisions of this chapter, have the right to require that it be a party to such contracts or that contracts subsidiary to the master contracts be entered into between the United States and any user.
+The provisions of this clause (1) shall not apply to the supplying of water to an Indian tribe for use within the boundaries of an Indian reservation.
+
+(2) Any obligation assumed pursuant to section 485h(d) of this title with respect to any project contract unit or irrigation block shall be repaid over a basic period of not more than fifty years; any water service provided pursuant to section 485h(e) of this title may be on the basis of delivery of water for a period of fifty years and for the delivery of such water at an identical price per acre-foot for water of the same class at the several points of delivery from the main canals and conduits and from such other points of delivery as the Secretary may designate; and long-term contracts relating to irrigation water supply shall provide that water made available thereunder may be made available by the Secretary for municipal or industrial purposes if and to the extent that such water is not required by the contractor for irrigation purposes.
+
+(3) Contracts relating to municipal and industrial water supply under the Central Arizona Project may be made without regard to the limitations of the last sentence of section 485h(c) of this title; may provide for the delivery of such water at an identical price per acre-foot for water of the same class at the several points of delivery from the main canals and conduits; and may provide for repayment over a period of fifty years if made pursuant to clause (1) of said section and for the delivery of water over a period of fifty years if made pursuant to clause (2) thereof.
+
+(c) Water conservation
+
+Each contract under which water is provided under the Central Arizona Project shall require that (1) there be in effect measures, adequate in the judgment of the Secretary, to control expansion of irrigation from aquifers affected by the irrigation in the contract service area; (2) the canals and distribution systems through which water is conveyed after its delivery by the United States to the contractors shall be provided and maintained with linings adequate in his judgment to prevent excessive conveyance losses; and (3) [Repealed.
+Pub. L. 102–575, title XXXVII, §3710(k), Oct. 30, 1992, 106 Stat. 4751]. Such contracts shall be subordinate at all times to the satisfaction of all existing contracts between the Secretary and users in Arizona heretofore made pursuant to the Boulder Canyon Project Act (45 Stat. 1057) [43 U.S.C. 617 et seq.].
+
+(d) Water exchanges
+
+The Secretary may require in any contract under which water is provided from the Central Arizona Project that the contractor agree to accept main stream water in exchange for or in replacement of existing supplies from sources other than the main stream.
+The Secretary shall so require in the case of users in Arizona who also use water from the Gila River system to the extent necessary to make available to users of water from the Gila River system in New Mexico additional quantities of water as provided in and under the conditions specified in subsection (f) of this section: Provided, That such exchanges and replacements shall be accomplished without economic injury or cost to such Arizona contractors.
+
+(e) Water shortage priorities
+
+In times of shortage or reduction of main stream Colorado River water for the Central Arizona Project, as determined by the Secretary, users which have yielded water from other sources in exchange for main stream water supplied by that project shall have a first priority to receive main stream water, as against other users supplied by that project which have not so yielded water from other sources, but only in quantities adequate to replace the water so yielded.
+
+(f) New Mexico users; water exchange contracts
+
+(1) In the operation of the Central Arizona Project, the Secretary shall offer to contract with water users in the State of New Mexico, with the approval of its Interstate Stream Commission, or with the State of New Mexico, through its Interstate Stream Commission, for water from the Gila River, its tributaries and underground water sources in amounts that will permit consumptive use of water in New Mexico of not to exceed an annual average in any period of 10 consecutive years of 14,000 acre-feet, including reservoir evaporation, over and above the consumptive uses provided for by article IV of the decree of the Supreme Court of the United States in Arizona v. California (376 U.S. 340). Such increased consumptive uses shall continue only so long as delivery of Colorado River water to downstream Gila River users in Arizona is being accomplished in accordance with this chapter, in quantities sufficient to replace any diminution of their supply resulting from such diversion from the Gila River, its tributaries and underground water sources.
+In determining the amount required for this purpose, full consideration shall be given to any differences in the quality of the water involved.
+
+(2) All additional consumptive uses provided for in clauses (1) and (2) 1 of this subsection shall be subject to all rights in New Mexico and Arizona as established by the decree entered by the United States District Court for the District of Arizona on June 29, 1935, in United States against Gila Valley Irrigation District and others (Globe Equity Numbered 59) and to all other rights existing on September 30, 1968, in New Mexico and Arizona to water from the Gila River, its tributaries, and underground water sources, and shall be junior thereto and shall be made only to the extent possible without economic injury or cost to the holders of such rights.
+
+(Pub. L. 90–537, title III, §304, Sept. 30, 1968, 82 Stat. 891; Pub. L. 102–575, title XXXVII, §3710(k), Oct. 30, 1992, 106 Stat. 4751; Pub. L. 108–451, title II, §212(d), Dec. 10, 2004, 118 Stat. 3528.)
+
+References in Text
+
+This chapter, referred to in subsecs. (b)(1), (f)(1), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+
+The Boulder Canyon Project Act, referred to in subsec. (c), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title.
+For complete classification of this Act to the Code, see section 617t of this title and Tables.
+
+Codification
+
+Subsec. (g) of this section, which restricted the use of water from the projects authorized by this chapter for the production of basic agricultural commodities on newly irrigated lands for a period of ten years from Sept. 30, 1968, was omitted.
 
 Transportation of Water Pumped Within Boundary
 
@@ -26728,7 +27418,7 @@ Notwithstanding subsection (b) of this section, the Secretary may implement the 
 
 References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare.
 For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 §1599. Definitions
@@ -29098,9 +29788,7 @@ All withdrawals, selections, and conveyances pursuant to this chapter shall be a
 Immediately after selection by a Village Corporation for a Native village listed in section 1610 of this title which the Secretary finds is qualified for land benefits under this chapter, the Secretary shall issue to the Village Corporation a patent to the surface estate in the number of acres shown in the following table:
 
  	If the village had on the 1970 census enumeration date a Native population 
-
 between—
-
 	It shall be entitled to a patent to an area of public lands equal to—
 	25 and 99	69,120 acres.
 	100 and 199	92,160 acres.
@@ -32282,6 +32970,9 @@ Congressional declaration of policy.
 1702.
 Definitions.
 
+1703.
+Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture.
+
         
 
 SUBCHAPTER II—LAND USE PLANNING AND LAND ACQUISITION AND DISPOSITION
@@ -32452,6 +33143,9 @@ SUBCHAPTER VI—DESIGNATED MANAGEMENT AREAS
 1781.
 California Desert Conservation Area.
 
+1781a.
+Acceptance of donation of certain existing permits or leases.
+
 1782.
 Bureau of Land Management Wilderness Study.
 
@@ -32566,13 +33260,6 @@ Severability
 
 Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act [see Short Title note set out above] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
 
-Cooperative Action and Sharing of Resources by Secretaries of the Interior and Agriculture
-
-Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555; Pub. L. 111–8, div. E, title IV, §418, Mar. 11, 2009, 123 Stat. 747, provided that: “In fiscal years 2001 through 2011, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and [may] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases.
-The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency.
-Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service.
-To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
-
 Existing Rights-of-Way
 
 Section 706(b) of Pub. L. 94–579 provided that: “Nothing in section 706(a) [see Tables for classification], except as it pertains to rights-of-way, may be construed as affecting the authority of the Secretary of Agriculture under the Act of June 4, 1897 (30 Stat. 35, as amended, 16 U.S.C. 551); the Act of July 22, 1937 (50 Stat. 525, as amended, 7 U.S.C. 1010–1212); or the Act of September 3, 1954 (68 Stat. 1146, 43 U.S.C. 931c).”
@@ -32636,6 +33323,27 @@ For disposition of sections of former Titles 40 and 41, see Disposition Tables p
 
 2 So in original.
 Probably should be followed by closing quotation marks.
+
+§1703. Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture
+
+In fiscal year 2012 and each fiscal year thereafter, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish programs.1 involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and 2 promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases.
+The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the “Service First” initiative agency-wide to promote customer service and efficiency.
+Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service.
+To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.
+
+(Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996; Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555; Pub. L. 111–8, div. E, title IV, §418, Mar. 11, 2009, 123 Stat. 747; Pub. L. 112–74, div. E, title IV, §422, Dec. 23, 2011, 125 Stat. 1045.)
+
+Codification
+
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2001, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+Section was formerly set out as a note under section 1701 of this title.
+
+1 So in original.
+The period probably should not appear.
+
+2 So in original.
+Probably should be followed by “may”.
 
 SUBCHAPTER II—LAND USE PLANNING AND LAND ACQUISITION AND DISPOSITION
 
@@ -32953,6 +33661,95 @@ This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 197
 Act of June 9, 1916, referred to in subsec. (e), is not classified to the Code.
 
 Act of February 26, 1919, referred to in subsec. (e), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
+
+§1716. Exchanges of public lands or interests therein within the National Forest System
+
+(a) Authorization and limitations on authority of Secretary of the Interior and Secretary of Agriculture
+
+A tract of public land or interests therein may be disposed of by exchange by the Secretary under this Act and a tract of land or interests therein within the National Forest System may be disposed of by exchange by the Secretary of Agriculture under applicable law where the Secretary concerned determines that the public interest will be well served by making that exchange: Provided, That when considering public interest the Secretary concerned shall give full consideration to better Federal land management and the needs of State and local people, including needs for lands for the economy, community expansion, recreation areas, food, fiber, minerals, and fish and wildlife and the Secretary concerned finds that the values and the objectives which Federal lands or interests to be conveyed may serve if retained in Federal ownership are not more than the values of the non-Federal lands or interests and the public objectives they could serve if acquired.
+
+(b) Implementation requirements; cash equalization waiver
+
+In exercising the exchange authority granted by subsection (a) of this section or by section 1715(a) of this title, the Secretary concerned may accept title to any non-Federal land or interests therein in exchange for such land, or interests therein which he finds proper for transfer out of Federal ownership and which are located in the same State as the non-Federal land or interest to be acquired.
+For the purposes of this subsection, unsurveyed school sections which, upon survey by the Secretary, would become State lands, shall be considered as “non-Federal lands”. The values of the lands exchanged by the Secretary under this Act and by the Secretary of Agriculture under applicable law relating to lands within the National Forest System either shall be equal, or if they are not equal, the values shall be equalized by the payment of money to the grantor or to the Secretary concerned as the circumstances require so long as payment does not exceed 25 per centum of the total value of the lands or interests transferred out of Federal ownership.
+The Secretary concerned and the other party or parties involved in the exchange may mutually agree to waive the requirement for the payment of money to equalize values where the Secretary concerned determines that the exchange will be expedited thereby and that the public interest will be better served by such a waiver of cash equalization payments and where the amount to be waived is no more than 3 per centum of the value of the lands being transferred out of Federal ownership or $15,000, whichever is less, except that the Secretary of Agriculture shall not agree to waive any such requirement for payment of money to the United States.
+The Secretary concerned shall try to reduce the amount of the payment of money to as small an amount as possible.
+
+(c) Status of lands acquired upon exchange by Secretary of the Interior
+
+Lands acquired by the Secretary by exchange under this section which are within the boundaries of any unit of the National Forest System, National Park System, National Wildlife Refuge System, National Wild and Scenic Rivers System, National Trails System, National Wilderness Preservation System, or any other system established by Act of Congress, or the boundaries of the California Desert Conservation Area, or the boundaries of any national conservation area or national recreation area established by Act of Congress, upon acceptance of title by the United States shall immediately be reserved for and become a part of the unit or area within which they are located, without further action by the Secretary, and shall thereafter be managed in accordance with all laws, rules, and regulations applicable to such unit or area.
+
+(d) Appraisal of land; submission to arbitrator; determination to proceed or withdraw from exchange; use of other valuation process; suspension of deadlines
+
+(1) No later than ninety days after entering into an agreement to initiate an exchange of land or interests therein pursuant to this Act or other applicable law, the Secretary concerned and other party or parties involved in the exchange shall arrange for appraisal (to be completed within a time frame and under such terms as are negotiated by the parties) of the lands or interests therein involved in the exchange in accordance with subsection (f) of this section.
+
+(2) If within one hundred and eighty days after the submission of an appraisal or appraisals for review and approval by the Secretary concerned, the Secretary concerned and the other party or parties involved cannot agree to accept the findings of an appraisal or appraisals, the appraisal or appraisals shall be submitted to an arbitrator appointed by the Secretary from a list of arbitrators submitted to him by the American Arbitration Association for arbitration to be conducted in accordance with the real estate valuation arbitration rules of the American Arbitration Association.
+Such arbitration shall be binding for a period of not to exceed two years on the Secretary concerned and the other party or parties involved in the exchange insofar as concerns the value of the lands which were the subject of the appraisal or appraisals.
+
+(3) Within thirty days after the completion of the arbitration, the Secretary concerned and the other party or parties involved in the exchange shall determine whether to proceed with the exchange, modify the exchange to reflect the findings of the arbitration or any other factors, or to withdraw from the exchange.
+A decision to withdraw from the exchange may be made by either the Secretary concerned or the other party or parties involved.
+
+(4) Instead of submitting the appraisal to an arbitrator, as provided in paragraph (2) of this section, the Secretary concerned and the other party or parties involved in an exchange may mutually agree to employ a process of bargaining or some other process to determine the values of the properties involved in the exchange.
+
+(5) The Secretary concerned and the other party or parties involved in an exchange may mutually agree to suspend or modify any of the deadlines contained in this subsection.
+
+(e) Simultaneous issue of patents or titles
+
+Unless mutually agreed otherwise by the Secretary concerned and the other party or parties involved in an exchange pursuant to this Act or other applicable law, all patents or titles to be issued for land or interests therein to be acquired by the Federal Government and lands or interest therein to be transferred out of Federal ownership shall be issued simultaneously after the Secretary concerned has taken any necessary steps to assure that the United States will receive acceptable title.
+
+(f) New rules and regulations; appraisal rules and regulations; “costs and other responsibilities or requirements” defined
+
+(1) Within one year after August 20, 1988, the Secretaries of the Interior and Agriculture shall promulgate new and comprehensive rules and regulations governing exchanges of land and interests therein pursuant to this Act and other applicable law.
+Such rules and regulations shall fully reflect the changes in law made by subsections (d) through (i) of this section and shall include provisions pertaining to appraisals of lands and interests therein involved in such exchanges.
+
+(2) The provisions of the rules and regulations issued pursuant to paragraph (1) of this subsection governing appraisals shall reflect nationally recognized appraisal standards, including, to the extent appropriate, the Uniform Appraisal Standards for Federal Land Acquisitions: Provided, however, That the provisions of such rules and regulations shall—
+
+(A) ensure that the same nationally approved appraisal standards are used in appraising lands or interest therein being acquired by the Federal Government and appraising lands or interests therein being transferred out of Federal ownership; and
+
+(B) with respect to costs or other responsibilities or requirements associated with land exchanges—
+
+(i) recognize that the parties involved in an exchange may mutually agree that one party (or parties) will assume, without compensation, all or part of certain costs or other responsibilities or requirements ordinarily borne by the other party or parties; and
+
+(ii) also permit the Secretary concerned, where such Secretary determines it is in the public interest and it is in the best interest of consummating an exchange pursuant to this Act or other applicable law, and upon mutual agreement of the parties, to make adjustments to the relative values involved in an exchange transaction in order to compensate a party or parties to the exchange for assuming costs or other responsibilities or requirements which would ordinarily be borne by the other party or parties.
+
+As used in this subparagraph, the term “costs or other responsibilities or requirements” shall include, but not be limited to, costs or other requirements associated with land surveys and appraisals, mineral examinations, title searches, archeological surveys and salvage, removal of encumbrances, arbitration pursuant to subsection (d) of this section, curing deficiencies preventing highest and best use, and other costs to comply with laws, regulations and policies applicable to exchange transactions, or which are necessary to bring the Federal or non-Federal lands or interests involved in the exchange to their highest and best use for the appraisal and exchange purposes.
+Prior to making any adjustments pursuant to this subparagraph, the Secretary concerned shall be satisfied that the amount of such adjustment is reasonable and accurately reflects the approximate value of any costs or services provided or any responsibilities or requirements assumed.
+
+(g) Exchanges to proceed under existing laws and regulations pending new rules and regulations
+
+Until such time as new and comprehensive rules and regulations governing exchange of land and interests therein are promulgated pursuant to subsection (f) of this section, land exchanges may proceed in accordance with existing laws and regulations, and nothing in the Act shall be construed to require any delay in, or otherwise hinder, the processing and consummation of land exchanges pending the promulgation of such new and comprehensive rules and regulations.
+Where the Secretary concerned and the party or parties involved in an exchange have agreed to initiate an exchange of land or interests therein prior to the day of enactment of such subsections, subsections (d) through (i) of this section shall not apply to such exchanges unless the Secretary concerned and the party or parties involved in the exchange mutually agree otherwise.
+
+(h) Exchange of lands or interests of approximately equal value; conditions; “approximately equal value” defined
+
+(1) Notwithstanding the provisions of this Act and other applicable laws which require that exchanges of land or interests therein be for equal value, where the Secretary concerned determines it is in the public interest and that the consummation of a particular exchange will be expedited thereby, the Secretary concerned may exchange lands or interests therein which are of approximately equal value in cases where—
+
+(A) the combined value of the lands or interests therein to be transferred from Federal ownership by the Secretary concerned in such exchange is not more than $150,000; and
+
+(B) the Secretary concerned finds in accordance with the regulations to be promulgated pursuant to subsection (f) of this section that a determination of approximately equal value can be made without formal appraisals, as based on a statement of value made by a qualified appraiser and approved by an authorized officer; and
+
+(C) the definition of and procedure for determining “approximately equal value” has been set forth in regulations by the Secretary concerned and the Secretary concerned documents how such determination was made in the case of the particular exchange involved.
+
+(2) As used in this subsection, the term “approximately equal value” shall have the same meaning with respect to lands managed by the Secretary of Agriculture as it does in the Act of January 22, 1983 (commonly known as the “Small Tracts Act”).
+
+(i) Segregation from appropriation under mining and public land laws
+
+(1) Upon receipt of an offer to exchange lands or interests in lands pursuant to this Act or other applicable laws, at the request of the head of the department or agency having jurisdiction over the lands involved, the Secretary of the Interior may temporarily segregate the Federal lands under consideration for exchange from appropriation under the mining laws.
+Such temporary segregation may only be made for a period of not to exceed five years.
+Upon a decision not to proceed with the exchange or upon deletion of any particular parcel from the exchange offer, the Federal lands involved or deleted shall be promptly restored to their former status under the mining laws.
+Any segregation pursuant to this paragraph shall be subject to valid existing rights as of the date of such segregation.
+
+(2) All non-Federal lands which are acquired by the United States through exchange pursuant to this Act or pursuant to other law applicable to lands managed by the Secretary of Agriculture shall be automatically segregated from appropriation under the public land law, including the mining laws, for ninety days after acceptance of title by the United States.
+Such segregation shall be subject to valid existing rights as of the date of such acceptance of title.
+At the end of such ninety day period, such segregation shall end and such lands shall be open to operation of the public land laws and to entry, location, and patent under the mining laws except to the extent otherwise provided by this Act or other applicable law, or appropriate actions pursuant thereto.
+
+(Pub. L. 94–579, title II, §206, Oct. 21, 1976, 90 Stat. 2756; Pub. L. 100–409, §§3, 9, Aug. 20, 1988, 102 Stat. 1087, 1092.)
+
+References in Text
+
+This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g), (h)(1), and (i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+
+Act of January 22, 1983 (commonly known as the “Small Tracts Act”), referred to in subsec. (h)(2), is Pub. L. 97–465, Jan. 12, 1983, 96 Stat. 2535, which enacted sections 521c to 521i of Title 16, Conservation, and amended section 484a of Title 16. For complete classification of this Act to the Code, see Tables.
 
 Congressional Statement of Findings and Purposes
 
@@ -33414,6 +34211,8 @@ Availability of Funds for Improvement, Protection, or Rehabilitation of Damaged 
 Pub. L. 104–134, title I, §101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–158; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of the Act of October 21, 1976 (43 U.S.C. 1735(a)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act (43 U.S.C. 1735(c)), shall be available and may be expended under the authority of this or subsequent appropriations Acts by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such forfeiture, compromise, or settlement are used on the exact lands damage to which led to the forfeiture, compromise, or settlement: Provided further, That such moneys are in excess of amounts needed to repair damage to the exact land for which collected.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 987.
 
 Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2906.
 
@@ -34629,6 +35428,24 @@ Pub. L. 103–433, title I, §108, Oct. 31, 1994, 108 Stat. 4483, provided that:
 “(a) Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled ‘Dinosaur Trackway Area of Critical Environmental Concern’, dated July 1993. The Secretary [of the Interior] shall administer the area to preserve the paleontological resources within the area.
 
 “(b) Withdrawal.—Subject to valid existing rights, the Federal lands within and adjacent to the Dinosaur Trackway Area of Critical Environmental Concern, as generally depicted on a map entitled ‘Dinosaur Trackway Mineral Withdrawal Area’, dated July 1993, are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
+
+§1781a. Acceptance of donation of certain existing permits or leases
+
+(1) During fiscal year 2012 and thereafter, the Secretary of the Interior shall accept the donation of any valid existing permits or leases authorizing grazing on public lands within the California Desert Conservation Area.
+With respect to each permit or lease donated under this paragraph, the Secretary shall terminate the grazing permit or lease, ensure a permanent end (except as provided in paragraph (2)), to grazing on the land covered by the permit or lease, and make the land available for mitigation by allocating the forage to wildlife use consistent with any applicable Habitat Conservation Plan, section 10(a)(1)(B) permit, or section 7 consultation under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
+
+(2) If the land covered by a permit or lease donated under paragraph (1) is also covered by another valid existing permit or lease that is not donated under such paragraph, the Secretary of the Interior shall reduce the authorized grazing level on the land covered by the permit or lease to reflect the donation of the permit or lease under paragraph (1). To ensure that there is a permanent reduction in the level of grazing on the land covered by a permit or lease donated under paragraph (1), the Secretary shall not allow grazing use to exceed the authorized level under the remaining valid existing permit or lease that is not donated.
+
+(Pub. L. 112–74, div. E, title I, §122(b), Dec. 23, 2011, 125 Stat. 1013.)
+
+References in Text
+
+The Endangered Species Act of 1973, referred to in par. (1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation.
+Sections 10(a)(1)(B) and 7 of the Act are classified to sections 1539(a)(1)(B) and 1536, respectively, of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+
+Codification
+
+Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 §1782. Bureau of Land Management Wilderness Study
 
@@ -36875,7 +37692,7 @@ Desert Terminal Lakes
 
 Pub. L. 107–206, title I, §103, Aug. 2, 2002, 116 Stat. 823, provided that: “Not later than 14 days after the date of enactment of this Act [Aug. 2, 2002], the Secretary of Agriculture shall carry out the transfer of funds under section 2507(a) of the Food Security and Rural Investment Act of 2002 (Public Law 107–171) [set out below].”
 
-Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858, provided that:
+Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866, provided that:
 
 “(a) Transfer.—Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008 [June 18, 2008], the Secretary of Agriculture shall transfer $175,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account, which funds shall—
 
@@ -36883,13 +37700,13 @@ Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by 
 
 “(2) remain available until expended.
 
-“(b) Permitted Uses.—In any case in which there are willing sellers, the funds described in subsection (a) may be used—
+“(b) Permitted Uses.—For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants, the funds described in subsection (a) may be used—
 
 “(1) to lease water;
 
-“(2) to purchase land, water appurtenant to the land, and related interests in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268); and
+“(2) to purchase land, water appurtenant to the land, and related interests; and
 
-“(3) for efforts consistent with researching, supporting, and conserving fish, wildlife, plant, and habitat resources in the Walker River Basin.”
+“(3) for efforts consistent with researching, supporting, and conserving fish, wildlife, plant, and habitat resources.”
 
 §2212. Availability of water on temporary basis
 
@@ -36989,127 +37806,6 @@ If a Governor referred to in subsection (a) of this section is the Governor of t
 The authorities established under this subchapter shall terminate on September 30, 2012.
 
 (Pub. L. 102–250, title I, §104, Mar. 5, 1992, 106 Stat. 56; Pub. L. 106–566, title II, §201(a), Dec. 23, 2000, 114 Stat. 2820; Pub. L. 109–234, title II, §2306(a), June 15, 2006, 120 Stat. 456; Pub. L. 111–212, title I, §404(a), July 29, 2010, 124 Stat. 2313.)
-
-§2215. Assistance for drought-related planning in reclamation States
-
-(a) In general
-
-The Secretary may provide financial assistance in the form of cooperative agreements in States that are eligible to receive drought assistance under this subchapter to promote the development of drought contingency plans under subchapter II of this chapter.
-
-(b) Report
-
-Not later than one year after December 23, 2000, the Secretary shall submit to the Congress a report and recommendations on the advisability of providing financial assistance for the development of drought contingency plans in all entities that are eligible to receive assistance under subchapter II of this chapter.
-
-(Pub. L. 102–250, title I, §105, as added Pub. L. 106–566, title II, §201(b), Dec. 23, 2000, 114 Stat. 2820.)
-
-SUBCHAPTER II—DROUGHT CONTINGENCY PLANNING
-
-§2221. Identification of opportunities for water supply conservation, augmentation and use
-
-The Secretary is authorized to conduct studies to identify opportunities to conserve, augment, and make more efficient use of water supplies available to Federal Reclamation projects and Indian water resource developments in order to be prepared for and better respond to drought conditions.
-The Secretary is authorized to provide technical assistance to States and to local and tribal government entities to assist in the development, construction, and operation of water desalinization projects, including technical assistance for purposes of assessing the technical and economic feasibility of such projects.
-
-(Pub. L. 102–250, title II, §201, Mar. 5, 1992, 106 Stat. 56.)
-
-§2222. Drought contingency plans
-
-The Secretary, acting pursuant to the Federal Reclamation laws, utilizing the resources of the Department of the Interior, and in consultation with other appropriate Federal and State officials, Indian tribes, public, private, and local entities, is authorized to prepare or participate in the preparation of cooperative drought contingency plans (hereinafter in this subchapter referred to as “contingency plans”) for the prevention or mitigation of adverse effects of drought conditions.
-
-(Pub. L. 102–250, title II, §202, Mar. 5, 1992, 106 Stat. 56.)
-
-§2223. Plan elements
-
-(a) Plan provisions
-
-Elements of the contingency plans prepared pursuant to section 2222 of this title may include, but are not limited to, any or all of the following:
-
-(1) Water banks.
-
-(2) Appropriate water conservation actions.
-
-(3) Water transfers to serve users inside or outside authorized Federal Reclamation project service areas in order to mitigate the effects of drought.
-
-(4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fish and wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
-
-(5) Use of water from dead or inactive reservoir storage or increased use of ground water resources for temporary water supplies.
-
-(6) Water supplies for fish and wildlife resources.
-
-(7) Minor structural actions.
-
-(b) Federal Reclamation projects
-
-Each contingency plan shall identify the following two types of plan elements related to Federal Reclamation projects:
-
-(1) Those plan elements which pertain exclusively to the responsibilities and obligations of the Secretary pursuant to Federal Reclamation law and the responsibilities and obligations of the Secretary for a specific Federal Reclamation project.
-
-(2) Those plan elements that pertain to projects, purposes, or activities not constructed, financed, or otherwise governed by the Federal Reclamation law.
-
-(c) Drought levels
-
-The Secretary is authorized to work with other Federal and State agencies to improve hydrologic data collection systems and water supply forecasting techniques to provide more accurate and timely warning of potential drought conditions and drought levels that would trigger the implementation of contingency plans.
-
-(d) Compliance with law
-
-The contingency plans and plan elements shall comply with all requirements of applicable Federal law, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321), section 2265(a) of title 33, and the Fish and Wildlife Coordination Act [16 U.S.C. 661 et seq.], and shall be in accordance with applicable State law.
-
-(e) Review
-
-The contingency plans shall include provisions for periodic review to assure the adequacy of the contingency plan to respond to current conditions, and such plans may be modified accordingly.
-
-(Pub. L. 102–250, title II, §203, Mar. 5, 1992, 106 Stat. 57.)
-
-References in Text
-
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare.
-For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-The Fish and Wildlife Coordination Act, referred to in subsec. (d), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation.
-For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
-
-§2224. Recommendations
-
-(a) Approval
-
-The Secretary shall submit each plan prepared pursuant to section 2222 of this title to the Congress, together with the Secretary's recommendations, including recommendations for authorizing legislation, if needed.
-
-(b) Pacific Northwest region
-
-A contingency plan under subsection (a) of this section for the State of Washington, Oregon, Idaho, or Montana, may be approved by the Secretary only at the request of the Governor of the affected State in coordination with the other States in the region and the Administrator of the Bonneville Power Administration.
-
-(Pub. L. 102–250, title II, §204, Mar. 5, 1992, 106 Stat. 57.)
-
-§2225. Reclamation Drought Response Fund
-
-The Secretary shall undertake a study of the need, if any, to establish a Reclamation Drought Response Fund to be available for defraying those expenses which the Secretary determines necessary to implement plans prepared under section 2222 of this title and to make loans for nonstructural and minor structural activities for the prevention or mitigation of the adverse effects of drought.
-
-(Pub. L. 102–250, title II, §205, Mar. 5, 1992, 106 Stat. 58.)
-
-§2226. Technical assistance and transfer of precipitation management technology
-
-(a) Technical assistance
-
-The Secretary is authorized to provide technical assistance for drought contingency planning in any of the States not identified in section 391 of this title, and the District of Columbia, Puerto Rico, the Republic of the Marshall Islands, the Federated States of Micronesia, the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship, the Republic of Palau, the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
-
-(b) Technology Transfer Program
-
-The Secretary is authorized to conduct a Precipitation Management Technology Transfer Program to help alleviate problems caused by precipitation variability and droughts in the West, as part of a balanced long-term water resources development and management program.
-In consultation with State, tribal, and local water, hydropower, water quality and instream flow interests, areas shall be selected for conducting field studies cost-shared on a 50–50 basis to validate and quantify the potential for appropriate precipitation management technology to augment stream flows.
-Validated technologies shall be transferred to non-Federal interests for operational implementation.
-
-(Pub. L. 102–250, title II, §206, Mar. 5, 1992, 106 Stat. 58.)
-
-Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS
-
-§2241. Authorization of appropriations
-
-Except as otherwise provided in section 2243 of this title (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $90,000,000 in total for the period of fiscal years 2006 through 2012.
-
-(Pub. L. 102–250, title III, §301, Mar. 5, 1992, 106 Stat. 58; Pub. L. 104–206, title II, Sept. 30, 1996, 110 Stat. 2992; Pub. L. 106–60, title II, Sept. 29, 1999, 113 Stat. 488; Pub. L. 106–377, §1(a)(2) [title II], Oct. 27, 2000, 114 Stat. 1441, 1441A–67; Pub. L. 107–66, title II, Nov. 12, 2001, 115 Stat. 498; Pub. L. 108–7, div. D, title II, Feb. 20, 2003, 117 Stat. 144; Pub. L. 108–137, title II, Dec. 1, 2003, 117 Stat. 1847; Pub. L. 109–234, title II, §2306(b), June 15, 2006, 120 Stat. 457; Pub. L. 111–212, title I, §404(b), July 29, 2010, 124 Stat. 2314.)
 
 §2242. Authority of Secretary
 

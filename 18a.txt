@@ -564,7 +564,7 @@ Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to
 
 FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to January 7, 2011)
+(As amended to January 3, 2012)
 
 Historical Note
 
@@ -604,7 +604,8 @@ Dec. 1, 2006; Apr. 30, 2007, eff.
 Dec. 1, 2007; Apr. 23, 2008, eff.
 Dec. 1, 2008; Mar. 26, 2009, eff.
 Dec. 1, 2009; Apr. 28, 2010, eff.
-Dec. 1, 2010.
+Dec. 1, 2010; Apr. 26, 2011, eff.
+Dec. 1, 2011.
 
 TITLE I. APPLICABILITY
 
@@ -625,6 +626,9 @@ The Complaint.
 
 4.
 Arrest Warrant or Summons on a Complaint.
+
+4.1.
+Complaint, Warrant, or Summons by Telephone or Other Reliable Electronic Means.
 
 5.
 Initial Appearance.
@@ -946,7 +950,9 @@ The following definitions apply to these rules:
 
 (B) a judicial officer empowered by statute in the District of Columbia or in any commonwealth, territory, or possession to perform a function to which a particular rule relates.
 
-(11) “Victim” means a “crime victim” as defined in 18 U.S.C. §3771(e).
+(11) “Telephone” means any technology for transmitting live electronic voice communication.
+
+(12) “Victim” means a “crime victim” as defined in 18 U.S.C. §3771(e).
 
 (c) Authority of a Justice or Judge of the United States.
 When these rules authorize a magistrate judge to act, any other federal judge may also act.
@@ -956,7 +962,8 @@ Oct. 1, 1972; Apr. 28, 1982, eff.
 Aug. 1, 1982; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
+Dec. 1, 2008; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -984,12 +991,13 @@ TITLE II. PRELIMINARY PROCEEDINGS
 Rule 3. The Complaint
 
 The complaint is a written statement of the essential facts constituting the offense charged.
-It must be made under oath before a magistrate judge or, if none is reasonably available, before a state or local judicial officer.
+Except as provided in Rule 4.1, it must be made under oath before a magistrate judge or, if none is reasonably available, before a state or local judicial officer.
 
 (As amended Apr. 24, 1972, eff.
 Oct. 1, 1972; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -1032,8 +1040,8 @@ A warrant may be executed, or a summons served, within the jurisdiction of the U
 (3) Manner.
 
 (A) A warrant is executed by arresting the defendant.
-Upon arrest, an officer possessing the warrant must show it to the defendant.
-If the officer does not possess the warrant, the officer must inform the defendant of the warrant's existence and of the offense charged and, at the defendant's request, must show the warrant to the defendant as soon as possible.
+Upon arrest, an officer possessing the original or a duplicate original warrant must show it to the defendant.
+If the officer does not possess the warrant, the officer must inform the defendant of the warrant's existence and of the offense charged and, at the defendant's request, must show the original or a duplicate original warrant to the defendant as soon as possible.
 
 (B) A summons is served on an individual defendant:
 
@@ -1046,11 +1054,15 @@ A copy must also be mailed to the organization's last known address within the d
 
 (4) Return.
 
-(A) After executing a warrant, the officer must return it to the judge before whom the defendant is brought in accordance with Rule 5. At the request of an attorney for the government, an unexecuted warrant must be brought back to and canceled by a magistrate judge or, if none is reasonably available, by a state or local judicial officer.
+(A) After executing a warrant, the officer must return it to the judge before whom the defendant is brought in accordance with Rule 5. The officer may do so by reliable electronic means.
+At the request of an attorney for the government, an unexecuted warrant must be brought back to and canceled by a magistrate judge or, if none is reasonably available, by a state or local judicial officer.
 
 (B) The person to whom a summons was delivered for service must return it on or before the return day.
 
 (C) At the request of an attorney for the government, a judge may deliver an unexecuted warrant, an unserved summons, or a copy of the warrant or summons to the marshal or other authorized person for execution or service.
+
+(d) Warrant by Telephone or Other Reliable Electronic Means.
+In accordance with Rule 4.1, a magistrate judge may issue a warrant or summons based on information communicated by telephone or other reliable electronic means.
 
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Apr. 24, 1972, eff.
@@ -1058,7 +1070,8 @@ Oct. 1, 1972; Apr. 22, 1974, eff.
 Dec. 1, 1975; Pub. L. 94–64, §3(1)–(3), July 31, 1975, 89 Stat. 370; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -1091,6 +1104,103 @@ If such were the law, criminals could circulate freely from one end of the land 
 2. Service of summons under the rule is substantially the same as in civil actions under Federal Rules of Civil Procedure, Rule 4(d)(1) [28 U.S.C., Appendix].
 
 Note to Subdivision (c)(4). Return of a warrant or summons to the commissioner or other officer is provided by 18 U.S.C. 603 [now 4084] (Writs; copy as jailer's authority). The return of all “copies of process” by the commissioner to the clerk of the court is provided by 18 U.S.C. 591 [now 3041]; and see Rule 5(c), infra.
+
+Rule 4.1. Complaint, Warrant, or Summons by Telephone or Other Reliable Electronic Means
+
+(a) In General.
+A magistrate judge may consider information communicated by telephone or other reliable electronic means when reviewing a complaint or deciding whether to issue a warrant or summons.
+
+(b) Procedures.
+If a magistrate judge decides to proceed under this rule, the following procedures apply:
+
+(1) Taking Testimony Under Oath.
+The judge must place under oath—and may examine—the applicant and any person on whose testimony the application is based.
+
+(2) Creating a Record of the Testimony and Exhibits.
+
+(A) Testimony Limited to Attestation.
+If the applicant does no more than attest to the contents of a written affidavit submitted by reliable electronic means, the judge must acknowledge the attestation in writing on the affidavit.
+
+(B) Additional Testimony or Exhibits.
+If the judge considers additional testimony or exhibits, the judge must:
+
+(i) have the testimony recorded verbatim by an electronic recording device, by a court reporter, or in writing;
+
+(ii) have any recording or reporter's notes transcribed, have the transcription certified as accurate, and file it;
+
+(iii) sign any other written record, certify its accuracy, and file it; and
+
+(iv) make sure that the exhibits are filed.
+
+(3) Preparing a Proposed Duplicate Original of a Complaint, Warrant, or Summons.
+The applicant must prepare a proposed duplicate original of a complaint, warrant, or summons, and must read or otherwise transmit its contents verbatim to the judge.
+
+(4) Preparing an Original Complaint, Warrant, or Summons.
+If the applicant reads the contents of the proposed duplicate original, the judge must enter those contents into an original complaint, warrant, or summons.
+If the applicant transmits the contents by reliable electronic means, the transmission received by the judge may serve as the original.
+
+(5) Modification.
+The judge may modify the complaint, warrant, or summons.
+The judge must then:
+
+(A) transmit the modified version to the applicant by reliable electronic means; or
+
+(B) file the modified original and direct the applicant to modify the proposed duplicate original accordingly.
+
+(6) Issuance.
+To issue the warrant or summons, the judge must:
+
+(A) sign the original documents;
+
+(B) enter the date and time of issuance on the warrant or summons; and
+
+(C) transmit the warrant or summons by reliable electronic means to the applicant or direct the applicant to sign the judge's name and enter the date and time on the duplicate original.
+
+(c) Suppression Limited.
+Absent a finding of bad faith, evidence obtained from a warrant issued under this rule is not subject to suppression on the ground that issuing the warrant in this manner was unreasonable under the circumstances.
+
+(Added Apr. 26, 2011, eff.
+Dec. 1, 2011.)
+
+Committee Notes on Rules—2011
+
+New Rule 4.1 brings together in one rule the procedures for using a telephone or other reliable electronic means for reviewing complaints and applying for and issuing warrants and summonses.
+In drafting Rule 4.1, the Committee recognized that modern technological developments have improved access to judicial officers, thereby reducing the necessity of government action without prior judicial approval.
+Rule 4.1 prescribes uniform procedures and ensures an accurate record.
+
+The procedures that have governed search warrants “by telephonic or other means,” formerly in Rule 41(d)(3) and (e)(3), have been relocated to this rule, reordered for easier application, and extended to arrest warrants, complaints, and summonses.
+Successful experience using electronic applications for search warrants under Rule 41, combined with increased access to reliable electronic communication, support the extension of these procedures to arrest warrants, complaints, and summonses.
+
+With one exception noted in the next paragraph, the new rule preserves the procedures formerly in Rule 41 without change.
+By using the term “magistrate judge,” the rule continues to require, as did former Rule 41(d)(3) and (e)(3), that a federal judge (and not a state judge) handle electronic applications, approvals, and issuances.
+The rule continues to require that the judge place an applicant under oath over the telephone, and permits the judge to examine the applicant, as Rule 41 had provided.
+Rule 4.1(b) continues to require that when electronic means are used to issue the warrant, the magistrate judge retain the original warrant.
+Minor changes in wording and reorganization of the language formerly in Rule 41 were made to aid in application of the rules, with no intended change in meaning.
+
+The only substantive change to the procedures formerly in Rule 41(d)(3) and (e)(3) appears in new Rule 4.1(b)(2)(A). Former Rule 41(d)(3)(B)(ii) required the magistrate judge to make a verbatim record of the entire conversation with the applicant.
+New Rule 4.1(b)(2)(A) provides that when a warrant application and affidavit are sent electronically to the magistrate judge and the telephone conversation between the magistrate judge and affiant is limited to attesting to those written documents, a verbatim record of the entire conversation is no longer required.
+Rather, the magistrate judge should simply acknowledge in writing the attestation on the affidavit.
+This may be done, for example, by signing the jurat included on the Administrative Office of U.S. Courts form.
+Rule 4.1(b)(2)(B) carries forward the requirements formerly in Rule 41 to cases in which the magistrate judge considers testimony or exhibits in addition to the affidavit.
+In addition, Rule 4.1(b)(6) specifies that in order to issue a warrant or summons the magistrate judge must sign all of the original documents and enter the date and time of issuance on the warrant or summons.
+This procedure will create and maintain a complete record of the warrant application process.
+
+Changes Made to Proposed Amendment Released for Public Comment.
+Published subdivision (a) referred to the action of a magistrate judge as “deciding whether to approve a complaint.” To accurately describe the judge's action, it was rephrased to refer to the judge “reviewing a complaint.”
+
+Subdivisions (b)(2) and (3) were combined into subdivisions (b)(2)(A) and (B) to clarify the procedures applicable when the applicant does no more than attest to the contents of a written affidavit and those applicable when additional testimony or exhibits are presented.
+The clauses in subparagraph (B) were reordered and further divided into items (i) through (iv). Subsequent subdivisions were renumbered because of the merger of (b)(2) and (3).
+
+In subdivision (b)(5), language was added requiring the judge to file the modified original if the judge has directed an applicant to modify a duplicate original.
+This will ensure that a complete record is preserved.
+Additionally, the clauses in this subdivision were broken out into subparagraphs (A) and (B).
+
+In subdivision (b)(6), introductory language erroneously referring to a judge's approval of a complaint was deleted, and the rule was revised to refer only to the steps necessary to issue a warrant or summons, which are the actions taken by the judicial officer.
+
+In subdivision (b)(6)(A), the requirement that the judge “sign the original” was amended to require signing of “the original documents.” This is broad enough to encompass signing a summons, an arrest or search warrant, and the current practice of the judge signing the jurat on complaint forms.
+Depending on the nature of the case, it might also include many other kinds of documents, such as the jurat on affidavits, the certifications of written records supplementing the transmitted affidavit, or papers that correct or modify affidavits or complaints.
+
+In subdivision (b)(6)(B), the superfluous and anachronistic reference to the “face” of a document was deleted, and rephrasing clarified that the action is the entry of the date and time of “the approval of a warrant or summons.” Additionally, subdivision (b)(6)(C) was modified to require that the judge must direct the applicant not only to sign the duplicate original with the judge's name, but also to note the date and time.
 
 Rule 5. Initial Appearance
 
@@ -1335,225 +1445,102 @@ A defendant who claims the right to a free transcript does not, under our cases,
 In this case, however, petitioner has conceded that he had available an informal alternative which appears to be substantially equivalent to a transcript.
 Accordingly, we cannot conclude that the court below was in error in rejecting his claim.
 
-TITLE III. THE GRAND JURY, THE INDICTMENT, AND THE INFORMATION
-
-Rule 6. The Grand Jury
-
-(a) Summoning a Grand Jury.
-
-(1) In General.
-When the public interest so requires, the court must order that one or more grand juries be summoned.
-A grand jury must have 16 to 23 members, and the court must order that enough legally qualified persons be summoned to meet this requirement.
-
-(2) Alternate Jurors.
-When a grand jury is selected, the court may also select alternate jurors.
-Alternate jurors must have the same qualifications and be selected in the same manner as any other juror.
-Alternate jurors replace jurors in the same sequence in which the alternates were selected.
-An alternate juror who replaces a juror is subject to the same challenges, takes the same oath, and has the same authority as the other jurors.
-
-(b) Objection to the Grand Jury or to a Grand Juror.
-
-(1) Challenges.
-Either the government or a defendant may challenge the grand jury on the ground that it was not lawfully drawn, summoned, or selected, and may challenge an individual juror on the ground that the juror is not legally qualified.
-
-(2) Motion to Dismiss an Indictment.
-A party may move to dismiss the indictment based on an objection to the grand jury or on an individual juror's lack of legal qualification, unless the court has previously ruled on the same objection under Rule 6(b)(1). The motion to dismiss is governed by 28 U.S.C. §1867(e). The court must not dismiss the indictment on the ground that a grand juror was not legally qualified if the record shows that at least 12 qualified jurors concurred in the indictment.
-
-(c) Foreperson and Deputy Foreperson.
-The court will appoint one juror as the foreperson and another as the deputy foreperson.
-In the foreperson's absence, the deputy foreperson will act as the foreperson.
-The foreperson may administer oaths and affirmations and will sign all indictments.
-The foreperson—or another juror designated by the foreperson—will record the number of jurors concurring in every indictment and will file the record with the clerk, but the record may not be made public unless the court so orders.
-
-(d) Who May Be Present.
-
-(1) While the Grand Jury Is in Session.
-The following persons may be present while the grand jury is in session: attorneys for the government, the witness being questioned, interpreters when needed, and a court reporter or an operator of a recording device.
-
-(2) During Deliberations and Voting.
-No person other than the jurors, and any interpreter needed to assist a hearing-impaired or speech-impaired juror, may be present while the grand jury is deliberating or voting.
-
-(e) Recording and Disclosing the Proceedings.
-
-(1) Recording the Proceedings.
-Except while the grand jury is deliberating or voting, all proceedings must be recorded by a court reporter or by a suitable recording device.
-But the validity of a prosecution is not affected by the unintentional failure to make a recording.
-Unless the court orders otherwise, an attorney for the government will retain control of the recording, the reporter's notes, and any transcript prepared from those notes.
-
-(2) Secrecy.
-
-(A) No obligation of secrecy may be imposed on any person except in accordance with Rule 6(e)(2)(B).
-
-(B) Unless these rules provide otherwise, the following persons must not disclose a matter occurring before the grand jury:
-
-(i) a grand juror;
-
-(ii) an interpreter;
-
-(iii) a court reporter;
-
-(iv) an operator of a recording device;
-
-(v) a person who transcribes recorded testimony;
-
-(vi) an attorney for the government; or
-
-(vii) a person to whom disclosure is made under Rule 6(e)(3)(A)(ii) or (iii).
-
-(3) Exceptions.
-
-(A) Disclosure of a grand-jury matter—other than the grand jury's deliberations or any grand juror's vote—may be made to:
-
-(i) an attorney for the government for use in performing that attorney's duty;
-
-(ii) any government personnel—including those of a state, state subdivision, Indian tribe, or foreign government—that an attorney for the government considers necessary to assist in performing that attorney's duty to enforce federal criminal law; or
-
-(iii) a person authorized by 18 U.S.C. §3322.
-
-(B) A person to whom information is disclosed under Rule 6(e)(3)(A)(ii) may use that information only to assist an attorney for the government in performing that attorney's duty to enforce federal criminal law.
-An attorney for the government must promptly provide the court that impaneled the grand jury with the names of all persons to whom a disclosure has been made, and must certify that the attorney has advised those persons of their obligation of secrecy under this rule.
-
-(C) An attorney for the government may disclose any grand-jury matter to another federal grand jury.
-
-(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. §401a), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official's duties.
-An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
-
-(i) Any official who receives information under Rule 6(e)(3)(D) may use the information only as necessary in the conduct of that person's official duties subject to any limitations on the unauthorized disclosure of such information.
-Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
-
-(ii) Within a reasonable time after disclosure is made under Rule 6(e)(3)(D), an attorney for the government must file, under seal, a notice with the court in the district where the grand jury convened stating that such information was disclosed and the departments, agencies, or entities to which the disclosure was made.
-
-(iii) As used in Rule 6(e)(3)(D), the term “foreign intelligence information” means:
-
-(a) information, whether or not it concerns a United States person, that relates to the ability of the United States to protect against—
-
-• actual or potential attack or other grave hostile acts of a foreign power or its agent;
-
-• sabotage or international terrorism by a foreign power or its agent; or
-
-• clandestine intelligence activities by an intelligence service or network of a foreign power or by its agent; or
-
-(b) information, whether or not it concerns a United States person, with respect to a foreign power or foreign territory that relates to—
-
-• the national defense or the security of the United States; or
-
-• the conduct of the foreign affairs of the United States.
-
-(E) The court may authorize disclosure—at a time, in a manner, and subject to any other conditions that it directs—of a grand-jury matter:
-
-(i) preliminarily to or in connection with a judicial proceeding;
-
-(ii) at the request of a defendant who shows that a ground may exist to dismiss the indictment because of a matter that occurred before the grand jury;
-
-(iii) at the request of the government, when sought by a foreign court or prosecutor for use in an official criminal investigation;
-
-(iv) at the request of the government if it shows that the matter may disclose a violation of State, Indian tribal, or foreign criminal law, as long as the disclosure is to an appropriate state, state-subdivision, Indian tribal, or foreign government official for the purpose of enforcing that law; or
-
-(v) at the request of the government if it shows that the matter may disclose a violation of military criminal law under the Uniform Code of Military Justice, as long as the disclosure is to an appropriate military official for the purpose of enforcing that law.
-
-(F) A petition to disclose a grand-jury matter under Rule 6(e)(3)(E)(i) must be filed in the district where the grand jury convened.
-Unless the hearing is ex parte—as it may be when the government is the petitioner—the petitioner must serve the petition on, and the court must afford a reasonable opportunity to appear and be heard to:
-
-(i) an attorney for the government;
-
-(ii) the parties to the judicial proceeding; and
-
-(iii) any other person whom the court may designate.
-
-(G) If the petition to disclose arises out of a judicial proceeding in another district, the petitioned court must transfer the petition to the other court unless the petitioned court can reasonably determine whether disclosure is proper.
-If the petitioned court decides to transfer, it must send to the transferee court the material sought to be disclosed, if feasible, and a written evaluation of the need for continued grand-jury secrecy.
-The transferee court must afford those persons identified in Rule 6(e)(3)(F) a reasonable opportunity to appear and be heard.
-
-(4) Sealed Indictment.
-The magistrate judge to whom an indictment is returned may direct that the indictment be kept secret until the defendant is in custody or has been released pending trial.
-The clerk must then seal the indictment, and no person may disclose the indictment's existence except as necessary to issue or execute a warrant or summons.
-
-(5) Closed Hearing.
-Subject to any right to an open hearing in a contempt proceeding, the court must close any hearing to the extent necessary to prevent disclosure of a matter occurring before a grand jury.
-
-(6) Sealed Records.
-Records, orders, and subpoenas relating to grand-jury proceedings must be kept under seal to the extent and as long as necessary to prevent the unauthorized disclosure of a matter occurring before a grand jury.
-
-(7) Contempt.
-A knowing violation of Rule 6, or of any guidelines jointly issued by the Attorney General and the Director of National Intelligence under Rule 6, may be punished as a contempt of court.
-
-(f) Indictment and Return.
-A grand jury may indict only if at least 12 jurors concur.
-The grand jury—or its foreperson or deputy foreperson—must return the indictment to a magistrate judge in open court.
-If a complaint or information is pending against the defendant and 12 jurors do not concur in the indictment, the foreperson must promptly and in writing report the lack of concurrence to the magistrate judge.
-
-(g) Discharging the Grand Jury.
-A grand jury must serve until the court discharges it, but it may serve more than 18 months only if the court, having determined that an extension is in the public interest, extends the grand jury's service.
-An extension may be granted for no more than 6 months, except as otherwise provided by statute.
-
-(h) Excusing a Juror.
-At any time, for good cause, the court may excuse a juror either temporarily or permanently, and if permanently, the court may impanel an alternate juror in place of the excused juror.
-
-(i) “Indian Tribe” Defined. “Indian tribe” means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. §479a–1.
-
-(As amended Feb. 28, 1966, eff.
-July 1, 1966; Apr. 24, 1972, eff.
-Oct. 1, 1972; Apr. 26 and July 8, 1976, eff.
-Aug. 1, 1976; Pub. L. 95–78, §2(a), July 30, 1977, 91 Stat. 319; Apr. 30, 1979, eff.
-Aug. 1, 1979; Apr. 28, 1983, eff.
-Aug. 1, 1983; Pub. L. 98–473, title II, §215(f), Oct. 12, 1984, 98 Stat. 2016; Apr. 29, 1985, eff.
-Aug. 1, 1985; Mar. 9, 1987, eff.
-Aug. 1, 1987; Apr. 22, 1993, eff.
-Dec. 1, 1993; Apr. 26, 1999, eff.
-Dec. 1, 1999; Pub. L. 107–56, title II, §203(a), Oct. 26, 2001, 115 Stat. 278; Apr. 29, 2002, eff.
-Dec. 1, 2002; Pub. L. 107–296, title VIII, §895, Nov. 25, 2002, 116 Stat. 2256; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 12, 2006, eff.
-Dec. 1, 2006.)
-
-Notes of Advisory Committee on Rules—1944
-
-Note to Subdivision (a). 1. The first sentence of this rule vests in the court full discretion as to the number of grand juries to be summoned and as to the times when they should be convened.
-This provision supersedes the existing law, which limits the authority of the court to summon more than one grand jury at the same time.
-At present two grand juries may be convened simultaneously only in a district which has a city or borough of at least 300,000 inhabitants, and three grand juries only in the Southern District of New York, 28 U.S.C. [former] 421 (Grand juries; when, how and by whom summoned; length of service). This statute has been construed, however, as only limiting the authority of the court to summon more than one grand jury for a single place of holding court, and as not circumscribing the power to convene simultaneously several grand juries at different points within the same district, Morris v. United States, 128 F.2d 912 (C.C.A. 5th); United States v. Perlstein, 39 F.Supp. 965 (D.N.J.).
-
-2. The provision that the grand jury shall consist of not less than 16 and not more than 23 members continues existing law, 28 U.S.C. 419 [now 18 U.S.C. 3321] (Grand jurors; number when less than required number).
-
-3. The rule does not affect or deal with the method of summoning and selecting grand juries.
-Existing statutes on the subjects are not superseded.
-See 28 U.S.C. 411–426 [now 1861–1870]. As these provisions of law relate to jurors for both criminal and civil cases, it seemed best not to deal with this subject.
-
-Note to Subdivision (b)(1). Challenges to the array and to individual jurors, although rarely invoked in connection with the selection of grand juries, are nevertheless permitted in the Federal courts and are continued by this rule, United States v. Gale, 109 U.S. 65, 69–70; Clawson v. United States, 114 U.S. 477; Agnew v. United States, 165 U.S. 36, 44. It is not contemplated, however, that defendants held for action of the grand jury shall receive notice of the time and place of the impaneling of a grand jury, or that defendants in custody shall be brought to court to attend at the selection of the grand jury.
-Failure to challenge is not a waiver of any objection.
-The objection may still be interposed by motion under Rule 6(b)(2).
-
-Note to Subdivision (b)(2). 1. The motion provided by this rule takes the place of a plea in abatement, or motion to quash.
-Crowley v. United States, 194 U.S. 461, 469–474; United States v. Gale, supra.
-
-2. The second sentence of the rule is a restatement of 18 U.S.C. [former] 554(a) (Indictments and presentments; objection on ground of unqualified juror barred where twelve qualified jurors concurred; record of number concurring), and introduces no change in existing law.
-
-Note to Subdivision (c). 1. This rule generally is a restatement of existing law, 18 U.S.C. [former] 554(a) and 28 U.S.C. [former] 420. Failure of the foreman to sign or endorse the indictment is an irregularity and is not fatal, Frisbie v. United States, 157 U.S. 160, 163–165.
-
-2. The provision for the appointment of a deputy foreman is new.
-Its purpose is to facilitate the transaction of business if the foreman is absent.
-Such a provision is found in the law of at least one State, N.Y. Code Criminal Procedure, sec. 244.
-
-Note to Subdivision (d). This rule generally continues existing law.
-See 18 U.S.C. [former] 556 (Indictments and presentments; defects of form); and 5 U.S.C. 310 [now 28 U.S.C. 515(a)] (Conduct of legal proceedings).
-
-Note to Subdivision (e). 1. This rule continues the traditional practice of secrecy on the party of members of the grand jury, except when the court permits a disclosure, Schmidt v. United States, 115 F.2d 394 (C.C.A. 6th); United States v. American Medical Association, 26 F.Supp. 429 (D.C.); Cf. Atwell v. United States, 162 F. 97 (C.C.A. 4th); and see 18 U.S.C. [former] 554(a) (Indictments and presentments; objection on ground of unqualified juror barred where twelve qualified jurors concurred; record of number concurring). Government attorneys are entitled to disclosure of grand jury proceedings, other than the deliberations and the votes of the jurors, inasmuch as they may be present in the grand jury room during the presentation of evidence.
-The rule continues this practice.
-
-2. The rule does not impose any obligation of secrecy on witnesses.
-The existing practice on this point varies among the districts.
-The seal of secrecy on witnesses seems an unnecessary hardship and may lead to injustice if a witness is not permitted to make a disclosure to counsel or to an associate.
-
-3. The last sentence authorizing the court to seal indictments continues present practice.
-
-Note to Subdivision (f). This rule continues existing law, 18 U.S.C. [former] 554 (Indictments and presentments; by twelve grand jurors). The purpose of the last sentence is to provide means for a prompt release of a defendant if in custody, or exoneration of bail if he is on bail, in the event that the grand jury considers the case of a defendant held for its action and finds no indictment.
-
-Note to Subdivision (g). Under existing law a grand jury serves only during the term for which it is summoned, but the court may extend its period of service for as long as 18 months, 28 U.S.C. [former] 421. During the extended period, however, a grand jury may conduct only investigations commenced during the original term.
-The rule continues the 18 months’ maximum for the period of service of a grand jury, but provides for such service as a matter of course, unless the court terminates it at an earlier date.
-The matter is left in the discretion of the court, as it is under existing law.
-The expiration of a term of court as a time limitation is elsewhere entirely eliminated (Rule 45(c)) and specific time limitations are substituted therefor.
-This was previously done by the Federal Rules of Civil Procedure for the civil side of the courts (Federal Rules of Civil Procedure, Rule 6(c) [28 U.S.C., Appendix]). The elimination of the requirement that at an extended period the grand jury may continue only investigations previously commenced, will obviate such a controversy as was presented in United States v. Johnson, 319 U.S. 503.
-
 References in Text
 
 The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is classified to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
+
+Rule 7. The Indictment and the Information
+
+(a) When Used.
+
+(1) Felony.
+An offense (other than criminal contempt) must be prosecuted by an indictment if it is punishable:
+
+(A) by death; or
+
+(B) by imprisonment for more than one year.
+
+(2) Misdemeanor.
+An offense punishable by imprisonment for one year or less may be prosecuted in accordance with Rule 58(b)(1).
+
+(b) Waiving Indictment.
+An offense punishable by imprisonment for more than one year may be prosecuted by information if the defendant—in open court and after being advised of the nature of the charge and of the defendant's rights—waives prosecution by indictment.
+
+(c) Nature and Contents.
+
+(1) In General.
+The indictment or information must be a plain, concise, and definite written statement of the essential facts constituting the offense charged and must be signed by an attorney for the government.
+It need not contain a formal introduction or conclusion.
+A count may incorporate by reference an allegation made in another count.
+A count may allege that the means by which the defendant committed the offense are unknown or that the defendant committed it by one or more specified means.
+For each count, the indictment or information must give the official or customary citation of the statute, rule, regulation, or other provision of law that the defendant is alleged to have violated.
+For purposes of an indictment referred to in section 3282 of title 18, United States Code, for which the identity of the defendant is unknown, it shall be sufficient for the indictment to describe the defendant as an individual whose name is unknown, but who has a particular DNA profile, as that term is defined in that section 3282.
+
+(2) Citation Error.
+Unless the defendant was misled and thereby prejudiced, neither an error in a citation nor a citation's omission is a ground to dismiss the indictment or information or to reverse a conviction.
+
+(d) Surplusage.
+Upon the defendant's motion, the court may strike surplusage from the indictment or information.
+
+(e) Amending an Information.
+Unless an additional or different offense is charged or a substantial right of the defendant is prejudiced, the court may permit an information to be amended at any time before the verdict or finding.
+
+(f) Bill of Particulars.
+The court may direct the government to file a bill of particulars.
+The defendant may move for a bill of particulars before or within 14 days after arraignment or at a later time if the court permits.
+The government may amend a bill of particulars subject to such conditions as justice requires.
+
+(As amended Feb. 28, 1966, eff.
+July 1, 1966; Apr. 24, 1972, eff.
+Oct. 1, 1972; Apr. 30, 1979, eff.
+Aug. 1, 1979; Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 17, 2000, eff.
+Dec. 1, 2000; Apr. 29, 2002, eff.
+Dec. 1, 2002; Pub. L. 108–21, title VI, §610(b), Apr. 30, 2003, 117 Stat. 692; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
+
+Notes of Advisory Committee on Rules—1944
+
+Note to Subdivision (a). 1. This rule gives effect to the following provision of the Fifth Amendment to the Constitution of the United States: “No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury * * *”. An infamous crime has been defined as a crime punishable by death or by imprisonment in a penitentiary or at hard labor, Ex parte Wilson, 114 U.S. 417, 427; United States v. Moreland, 258 U.S. 433. Any sentence of imprisonment for a term of over one year may be served in a penitentiary, if so directed by the Attorney General, 18 U.S.C. 753f [now 4082, 4083] (Commitment of persons by any court of the United States and the juvenile court of the District of Columbia; place of confinement; transfers). Consequently any offense punishable by imprisonment for a term of over one year is an infamous crime.
+
+2. Petty offenses and misdemeanors for which no infamous punishment is prescribed may now be prosecuted by information, 18 U.S.C. 541 [see 1] (Felonies and misdemeanors); Duke v. United States, 301 U.S. 492.
+
+3. For a discussion of the provision for waiver of indictment, see Note to Rule 7(b), infra.
+
+4. Presentment is not included as an additional type of formal accusation, since presentments as a method of instituting prosecutions are obsolete, at least as concerns the Federal courts.
+
+Note to Subdivision (b). 1. Opportunity to waive indictment and to consent to prosecution by information will be a substantial aid to defendants, especially those who, because of inability to give bail, are incarcerated pending action of the grand jury, but desire to plead guilty.
+This rule is particularly important in those districts in which considerable intervals occur between sessions of the grand jury.
+In many districts where the grand jury meets infrequently a defendant unable to give bail and desiring to plead guilty is compelled to spend many days, and sometimes many weeks, and even months, in jail before he can begin the service of his sentence, whatever it may be, awaiting the action of a grand jury.
+Homer Cummings, 29 A.B.A.Jour. 654–655; Vanderbilt, 29 A.B.A.Jour. 376, 377; Robinson, 27 Jour. of the Am. Judicature Soc. 38, 45; Medalie, 4 Lawyers Guild R. (3)1, 3. The rule contains safeguards against improvident waivers.
+
+The Judicial Conference of Senior Circuit Judges, in September 1941, recommended that “existing law or established procedure be so changed, that a defendant may waive indictment and plead guilty to an information filed by a United States attorney in all cases except capital felonies.” Report of the Judicial Conference of Senior Circuit Judges (1941) 13. In September 1942 the Judicial Conference recommended that provision be made “for waiver of indictment and jury trial, so that persons accused of crime may not be held in jail needlessly pending trial.” Id. (1942) 8.
+
+Attorneys General of the United States have from time to time recommended legislation to permit defendants to waive indictment and to consent to prosecution by information.
+See Annual Report of the Attorney General of the United States (Mitchell) (1931) 3; Id. (Mitchell) (1932) 6; Id. (Cummings) (1933) 1, (1936) 2, (1937) 11, (1938) 9; Id. (Murphy) (1939) 7.
+
+The Federal Juvenile Delinquency Act [now 18 U.S.C. 5031–5037], now permits a juvenile charged with an offense not punishable by death or life imprisonment to consent to prosecution by information on a charge of juvenile delinquency, 18 U.S.C. 922 [now 5032, 5033].
+
+2. On the constitutionality of this rule, see United States v. Gill, 55 F.2d 399 (D.N.M.), holding that the constitutional guaranty of indictment by grand jury may be waived by defendant.
+It has also been held that other constitutional guaranties may be waived by the defendant, e. g., Patton v. United States, 281 U.S. 276 (trial by jury); Johnson v. Zerbst, 304 U.S. 458, 465 (right of counsel); Trono v. United States, 199 U.S. 521, 534 (protection against double jeopardy); United States v. Murdock, 284 U.S. 141, 148 (privilege against self-incrimination); Diaz v. United States, 223 U.S. 442, 450 (right of confrontation).
+
+Note to Subdivision (c). 1. This rule introduces a simple form of indictment, illustrated by Forms 1 to 11 in the Appendix of Forms.
+Cf. Rule 8(a) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix]. For discussion of the effect of this rule and a comparison between the present form of indictment and the simple form introduced by this rule, see Vanderbilt, 29 A.B.A.Jour. 376, 377; Homer Cummings, 29 A.B.A.Jour. 654, 655; Holtzoff, 3 F.R.D. 445, 448–449; Holtzoff, 12 Geo.
+Washington L.R. 119, 123–126; Medalie, 4 Lawyers Guild R. (3)1, 3.
+
+2. The provision contained in the fifth sentence that it may be alleged in a single count that the means by which the defendant committed the offense are unknown, or that he committed it by one or more specified means, is intended to eliminate the use of multiple counts for the purpose of alleging the commission of the offense by different means or in different ways.
+Cf. Federal Rules of Civil Procedure, Rule 8(e)(2) [28 U.S.C., Appendix].
+
+3. The law at present regards citations to statutes or regulations as not a part of the indictment.
+A conviction may be sustained on the basis of a statute or regulation other than that cited.
+Williams v. United States, 168 U.S. 382, 389; United States v. Hutcheson, 312 U.S. 219, 229. The provision of the rule, in view of the many statutes and regulations, is for the benefit of the defendant and is not intended to cause a dismissal of the indictment, but simply to provide a means by which he can be properly informed without danger to the prosecution.
+
+Note to Subdivision (d). This rule introduces a means of protecting the defendant against immaterial or irrelevant allegations in an indictment or information, which may, however, be prejudicial.
+The authority of the court to strike such surplusage is to be limited to doing so on defendant's motion, in the light of the rule that the guaranty of indictment by a grand jury implies that an indictment may not be amended, Ex parte Bain, 121 U.S. 1. By making such a motion, the defendant would, however, waive his rights in this respect.
+
+Note to Subdivision (e). This rule continues the existing law that, unlike an indictment, an information may be amended, Muncy v. United States, 289 F. 780 (C.C.A. 4th).
+
+Note to Subdivision (f). This rule is substantially a restatement of existing law on bills of particulars.
 
 Rule 8. Joinder of Offenses or Defendants
 
@@ -1605,13 +1592,17 @@ A warrant or summons must be returned in accordance with Rule 4(c)(4).
 (3) Initial Appearance.
 When an arrested or summoned defendant first appears before the court, the judge must proceed under Rule 5.
 
+(d) Warrant by Telephone or Other Means.
+In accordance with Rule 4.1, a magistrate judge may issue an arrest warrant or summons based on information communicated by telephone or other reliable electronic means.
+
 (As amended Apr. 24, 1972, eff.
 Oct. 1, 1972; Apr. 22, 1974, eff.
 Dec. 1, 1975; Pub. L. 94–64, §3(4), July 31, 1975, 89 Stat. 370; Pub. L. 94–149, §5, Dec. 12, 1975, 89 Stat. 806; Apr. 30, 1979, eff.
 Aug. 1, 1979; Apr. 28, 1982, eff.
 Aug. 1, 1982; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3559,9 +3550,9 @@ The presentence report must also contain the following:
 
 (E) if the court orders a study under 18 U.S.C. §3552(b), any resulting report and recommendation;
 
-(F) any other information that the court requires, including information relevant to the factors under 18 U.S.C. §3553(a); and
+(F) a statement of whether the government seeks forfeiture under Rule 32.2 and any other law; and
 
-(G) specify whether the government seeks forfeiture under Rule 32.2 and any other provision of law.
+(G) any other information that the court requires, including information relevant to the factors under 18 U.S.C. §3553(a).
 
 (3) Exclusions.
 The presentence report must exclude the following:
@@ -3688,7 +3679,8 @@ Dec. 1, 2000; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 30, 2007, eff.
 Dec. 1, 2007; Apr. 23, 2008, eff.
 Dec. 1, 2008; Mar. 26, 2009, eff.
-Dec. 1, 2009.)
+Dec. 1, 2009; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4394,6 +4386,77 @@ References in Text
 
 The Federal Rules of Appellate Procedure, referred to in subds. (c), (e)(1), and (g), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+Rule 39. [Reserved]
+
+TITLE VIII. SUPPLEMENTARY AND SPECIAL PROCEEDINGS
+
+Rule 40. Arrest for Failing to Appear in Another District or for Violating Conditions of Release Set in Another District
+
+(a) In General.
+A person must be taken without unnecessary delay before a magistrate judge in the district of arrest if the person has been arrested under a warrant issued in another district for:
+
+(i) failing to appear as required by the terms of that person's release under 18 U.S.C. §§3141–3156 or by a subpoena; or
+
+(ii) violating conditions of release set in another district.
+
+(b) Proceedings.
+The judge must proceed under Rule 5(c)(3) as applicable.
+
+(c) Release or Detention Order.
+The judge may modify any previous release or detention order issued in another district, but must state in writing the reasons for doing so.
+
+(d) Video Teleconferencing.
+Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
+
+(As amended Feb. 28, 1966, eff.
+July 1, 1966; Apr. 24, 1972, eff.
+Oct. 1, 1972; Apr. 30, 1979, eff.
+Aug. 1, 1979; Pub. L. 96–42, §1(2), July 31, 1979, 93 Stat. 326; Apr. 28, 1982, eff.
+Aug. 1, 1982; Pub. L. 98–473, title II, §§209(c), 215(d), Oct. 12, 1984, 98 Stat. 1986, 2016; Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 25, 1989, eff.
+Dec. 1, 1989; Apr. 22, 1993, eff.
+Dec. 1, 1993; Apr. 29, 1994, eff.
+Dec. 1, 1994; Apr. 27, 1995, eff.
+Dec. 1, 1995; Apr. 29, 2002, eff.
+Dec. 1, 2002; Apr. 12, 2006, eff.
+Dec. 1, 2006; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
+
+Notes of Advisory Committee on Rules—1944
+
+1. This rule modifies and revamps existing procedure.
+The present practice has developed as a result of a series of judicial decisions, the only statute dealing with the subject being exceedingly general, 18 U.S.C. 591 [now 3041] (Arrest and removal for trial):
+
+For any crime or offense against the United States, the offender may, by any justice or judge of the United States, or by any United States commissioner, or by any chancellor, judge of a supreme or superior court, chief or first judge of common pleas, mayor of a city, justice of the peace, or other magistrate, of any State where he may be found, and agreeably to the usual mode of process against offenders in such State, and at the expense of the United States, be arrested and imprisoned, or bailed, as the case may be, for trial before such court of the United States as by law has cognizance of the offense. * * * Where any offender or witness is committed in any district other than that where the offense is to be tried, it shall be the duty of the judge of the district where such offender or witness is imprisoned, seasonably to issue, and of the marshal to execute, a warrant for his removal to the district where the trial is to be had.
+
+The scope of a removal hearing, the issues to be considered, and other similar matters are governed by judicial decisions, Beavers v. Henkel, 194 U.S. 73; Tinsley v. Treat, 205 U.S. 20; Henry v. Henkel, 235 U.S. 219; Rodman v. Pothier, 264 U.S. 399; Morse v. United States, 267 U.S. 80; Fetters v. United States ex rel.
+Cunningham, 283 U.S. 638; United States ex rel.
+Kassin v. Mulligan, 295 U.S. 396; see, also, 9 Edmunds, Cyclopedia of Federal Procedure 39053, et seq.
+
+2. The purpose of removal proceedings is to accord safeguards to a defendant against an improvident removal to a distant point for trial.
+On the other hand, experience has shown that removal proceedings have at times been used by defendants for dilatory purposes and in attempting to frustrate prosecution by preventing or postponing transportation even as between adjoining districts and between places a few miles apart.
+The object of the rule is adequately to meet each of these two situations.
+
+3. For the purposes of removal, all cases in which the accused is apprehended in a district other than that in which the prosecution is pending have been divided into two groups: first, those in which the place of arrest is either in another district of the same State, or if in another State, then less than 100 miles from the place where the prosecution is pending; and second, cases in which the arrest occurs in a State other than that in which the prosecution is pending and the place of arrest is 100 miles or more distant from the latter place.
+
+In the first group of cases, removal proceedings are abolished.
+The defendant's right to the usual preliminary hearing is, of course, preserved, but the committing magistrate, if he holds defendant would bind him over to the district court in which the prosecution is pending.
+As ordinarily there are no removal proceedings in State prosecutions as between different parts of the same State, but the accused is transported by virtue of the process under which he was arrested, it seems reasonable that no removal proceedings should be required in the Federal courts as between districts in the same State.
+The provision as to arrest in another State but at a place less than 100 miles from the place where the prosecution is pending was added in order to preclude obstruction against bringing the defendant a short distance for trial.
+
+In the second group of cases mentioned in the first paragraph, removal proceedings are continued.
+The practice to be followed in removal hearings will depend on whether the demand for removal is based upon an indictment or upon an information or complaint.
+In the latter case, proof of identity and proof of reasonable cause to believe the defendant guilty will have to be adduced in order to justify the issuance of a warrant of removal.
+In the former case, proof of identity coupled with a certified copy of the indictment will be sufficient, as the indictment will be conclusive proof of probable cause.
+The distinction is based on the fact that in case of an indictment, the grand jury, which is an arm of the court, has already found probable cause.
+Since the action of the grand jury is not subject to review by a district judge in the district in which the grand jury sits, it seems illogical to permit such review collaterally in a removal proceeding by a judge in another district.
+
+4. For discussions of this rule see, Homer Cummings, 29 A.B.A.Jour. 654, 656; Holtzoff, 3 F.R.D. 445, 450–452; Holtzoff, 12 George Washington L.R. 119, 127–130; Holtzoff, The Federal Bar Journal, October 1944, 18–37; Berge, 42 Mich.L.R. 353, 374; Medalie, 4 Lawyers Guild R. (3)1, 4.
+
+Note to Subdivision (b). The rule provides that all removal hearings shall take place before a United States commissioner or a Federal judge.
+It does not confer such jurisdiction on State or local magistrates.
+While theoretically under existing law State and local magistrates have authority to conduct removal hearings, nevertheless as a matter of universal practice, such proceedings are always conducted before a United States commissioner or a Federal judge, 9 Edmunds, Cyclopedia of Federal Procedure 3919.
+
 Rule 41. Search and Seizure
 
 (a) Scope and Definitions.
@@ -4460,24 +4523,8 @@ The judge may wholly or partially dispense with a written affidavit and base a w
 (C) Recording Testimony.
 Testimony taken in support of a warrant must be recorded by a court reporter or by a suitable recording device, and the judge must file the transcript or recording with the clerk, along with any affidavit.
 
-(3) Requesting a Warrant by Telephonic or Other Means.
-
-(A) In General.
-A magistrate judge may issue a warrant based on information communicated by telephone or other reliable electronic means.
-
-(B) Recording Testimony.
-Upon learning that an applicant is requesting a warrant under Rule 41(d)(3)(A), a magistrate judge must:
-
-(i) place under oath the applicant and any person on whose testimony the application is based; and
-
-(ii) make a verbatim record of the conversation with a suitable recording device, if available, or by a court reporter, or in writing.
-
-(C) Certifying Testimony.
-The magistrate judge must have any recording or court reporter's notes transcribed, certify the transcription's accuracy, and file a copy of the record and the transcription with the clerk.
-Any written verbatim record must be signed by the magistrate judge and filed with the clerk.
-
-(D) Suppression Limited.
-Absent a finding of bad faith, evidence obtained from a warrant issued under Rule 41(d)(3)(A) is not subject to suppression on the ground that issuing the warrant in that manner was unreasonable under the circumstances.
+(3) Requesting a Warrant by Telephonic or Other Reliable Electronic Means.
+In accordance with Rule 4.1, a magistrate judge may issue a warrant based on information communicated by telephone or other reliable electronic means.
 
 (e) Issuing the Warrant.
 
@@ -4507,28 +4554,11 @@ The time must not exceed 45 days from the date the warrant was issued.
 The court may, for good cause, grant one or more extensions for a reasonable period not to exceed 45 days each.
 The warrant must command the officer to:
 
-(i) complete any installation authorized by the warrant within a specified time no longer than 10 calendar days;
+(i) complete any installation authorized by the warrant within a specified time no longer than 10 days;
 
 (ii) perform any installation authorized by the warrant during the daytime, unless the judge for good cause expressly authorizes installation at another time; and
 
 (iii) return the warrant to the judge designated in the warrant.
-
-(3) Warrant by Telephonic or Other Means.
-If a magistrate judge decides to proceed under Rule 41(d)(3)(A), the following additional procedures apply:
-
-(A) Preparing a Proposed Duplicate Original Warrant.
-The applicant must prepare a “proposed duplicate original warrant” and must read or otherwise transmit the contents of that document verbatim to the magistrate judge.
-
-(B) Preparing an Original Warrant.
-If the applicant reads the contents of the proposed duplicate original warrant, the magistrate judge must enter those contents into an original warrant.
-If the applicant transmits the contents by reliable electronic means, that transmission may serve as the original warrant.
-
-(C) Modification.
-The magistrate judge may modify the original warrant.
-The judge must transmit any modified warrant to the applicant by reliable electronic means under Rule 41(e)(3)(D) or direct the applicant to modify the proposed duplicate original warrant accordingly.
-
-(D) Signing the Warrant.
-Upon determining to issue the warrant, the magistrate judge must immediately sign the original warrant, enter on its face the exact date and time it is issued, and transmit it by reliable electronic means to the applicant or direct the applicant to sign the judge's name on the duplicate original warrant.
 
 (f) Executing and Returning the Warrant.
 
@@ -4549,6 +4579,7 @@ The officer executing the warrant must give a copy of the warrant and a receipt 
 
 (D) Return.
 The officer executing the warrant must promptly return it—together with a copy of the inventory—to the magistrate judge designated on the warrant.
+The officer may do so by reliable electronic means.
 The judge must, on request, give a copy of the inventory to the person from whom, or from whose premises, the property was taken and to the applicant for the warrant.
 
 (2) Warrant for a Tracking Device.
@@ -4557,10 +4588,11 @@ The judge must, on request, give a copy of the inventory to the person from whom
 The officer executing a tracking-device warrant must enter on it the exact date and time the device was installed and the period during which it was used.
 
 (B) Return.
-Within 10 calendar days after the use of the tracking device has ended, the officer executing the warrant must return it to the judge designated in the warrant.
+Within 10 days after the use of the tracking device has ended, the officer executing the warrant must return it to the judge designated in the warrant.
+The officer may do so by reliable electronic means.
 
 (C) Service.
-Within 10 calendar days after the use of the tracking device has ended, the officer executing a tracking-device warrant must serve a copy of the warrant on the person who was tracked or whose property was tracked.
+Within 10 days after the use of the tracking device has ended, the officer executing a tracking-device warrant must serve a copy of the warrant on the person who was tracked or whose property was tracked.
 Service may be accomplished by delivering a copy to the person who, or whose property, was tracked; or by leaving a copy at the person's residence or usual place of abode with an individual of suitable age and discretion who resides at that location and by mailing a copy to the person's last known address.
 Upon request of the government, the judge may delay notice as provided in Rule 41(f)(3).
 
@@ -4594,7 +4626,8 @@ Dec. 1, 1993; Pub. L. 107–56, title II, §219, Oct. 26, 2001, 115 Stat. 291; A
 Dec. 1, 2002; Apr. 12, 2006, eff.
 Dec. 1, 2006; Apr. 23, 2008, eff.
 Dec. 1, 2008; Mar. 26, 2009, eff.
-Dec. 1, 2009.)
+Dec. 1, 2009; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4669,6 +4702,154 @@ U.S.C., Title 49:
 
  Section 784 [now 80306] (Application of related laws)
 
+Rule 42. Criminal Contempt
+
+(a) Disposition After Notice.
+Any person who commits criminal contempt may be punished for that contempt after prosecution on notice.
+
+(1) Notice.
+The court must give the person notice in open court, in an order to show cause, or in an arrest order.
+The notice must:
+
+(A) state the time and place of the trial;
+
+(B) allow the defendant a reasonable time to prepare a defense; and
+
+(C) state the essential facts constituting the charged criminal contempt and describe it as such.
+
+(2) Appointing a Prosecutor.
+The court must request that the contempt be prosecuted by an attorney for the government, unless the interest of justice requires the appointment of another attorney.
+If the government declines the request, the court must appoint another attorney to prosecute the contempt.
+
+(3) Trial and Disposition.
+A person being prosecuted for criminal contempt is entitled to a jury trial in any case in which federal law so provides and must be released or detained as Rule 46 provides.
+If the criminal contempt involves disrespect toward or criticism of a judge, that judge is disqualified from presiding at the contempt trial or hearing unless the defendant consents.
+Upon a finding or verdict of guilty, the court must impose the punishment.
+
+(b) Summary Disposition.
+Notwithstanding any other provision of these rules, the court (other than a magistrate judge) may summarily punish a person who commits criminal contempt in its presence if the judge saw or heard the contemptuous conduct and so certifies; a magistrate judge may summarily punish a person as provided in 28 U.S.C. §636(e). The contempt order must recite the facts, be signed by the judge, and be filed with the clerk.
+
+(As amended Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 29, 2002, eff.
+Dec. 1, 2002.)
+
+Notes of Advisory Committee on Rules—1944
+
+The rule-making power of the Supreme Court with respect to criminal proceedings was extended to proceedings to punish for criminal contempt of court by the Act of November 21, 1941 (55 Stat. 779), 18 U.S.C. 689.
+
+Note to Subdivision (a). This rule is substantially a restatement of existing law, Ex parte Terry, 128 U.S. 289; Cooke v. United States, 267 U.S. 517, 534.
+
+Note to Subdivision (b). 1. This rule is substantially a restatement of the procedure prescribed in 28 U.S.C. 386–390 [now 18 U.S.C. 401, 402, 3285, 3691], and 29 U.S.C. 111 [now 18 U.S.C. 3692].
+
+2. The requirement in the second sentence that the notice shall describe the criminal contempt as such is intended to obviate the frequent confusion between criminal and civil contempt proceedings and follows the suggestion made in McCann v. New York Stock Exchange, 80 F.2d 211 (C.C.A. 2d). See also Nye v. United States, 313 U.S. 33, 42–43.
+
+3. The fourth sentence relating to trial by jury preserves the right to a trial by jury in those contempt cases in which it is granted by statute, but does not enlarge the right or extend it to additional cases.
+The respondent in a contempt proceeding may demand a trial by jury as of right if the proceeding is brought under the Act of March 23, 1932, c. 90, sec. 11, 47 Stat. 72, 29 U.S.C. 111 [now 18 U.S.C. 3692] (Norris-La Guardia Act), or the Act of October 15, 1914, c. 323, sec. 22, 38 Stat. 738, 28 U.S.C. 387 (Clayton Act).
+
+4. The provision in the sixth sentence disqualifying the judge affected by the contempt if the charge involves disrespect to or criticism of him, is based, in part, on 29 U.S.C. former §112 (Contempts; demand for retirement of judge sitting in proceeding) and the observations of Chief Justice Taft in Cooke v. United States, 267 U.S. 517, 539, 45 S.Ct. 390, 69 L.Ed. 767.
+
+5. Among the statutory provisions defining criminal contempts are the following:
+
+U.S.C., Title 7:
+
+ Section 499m (Perishable Agricultural Commodities Act; investigation of complaints; procedure; penalties; etc.—(c) Disobedience to subpenas; remedy; contempt)
+
+U.S.C., Title 9:
+
+ Section 7 (Witnesses before arbitrators; fees, compelling attendance)
+
+U.S.C., Title 11:
+
+ Section 69 [former] (Referees; contempts before)
+
+U.S.C., Title 15:
+
+ Section 49 (Federal Trade Commission; documentary evidence; depositions; witnesses)
+
+ Section 78u (Regulation of Securities Exchanges; investigation; injunctions and prosecution of offenses)
+
+ Section 100 (Trademarks; destruction of infringing labels; service of injunction, and proceedings for enforcement)
+
+ Section 155 (China Trade Act; authority of registrar in obtaining evidence)
+
+U.S.C., Title 17:
+
+ Section 36 [now 502] (Injunctions; service and enforcement)
+
+U.S.C., Title 19:
+
+ Section 1333 (Tariff Commission; testimony and production of papers—(b) Witnesses and evidence)
+
+U.S.C., Title 22:
+
+ Section 270f (International Bureaus; Congresses, etc.; perjury; contempts; penalties)
+
+U.S.C., Title 28:
+
+ Section 385 [now 459; 18 U.S.C. 401] (Administration of oaths; contempts)
+
+ Section 386 [now 18 U.S.C. 402, 3691] (Contempts; when constituting also criminal offense)
+
+ Section 387 [now 18 U.S.C. 402] (Same; procedure; bail; attachment; trial; punishment) (Clayton Act; jury trial; section)
+
+ Section 388 [former] (Same; review of conviction)
+
+ Section 389 [now 18 U.S.C. 402, 3691] (Same; not specifically enumerated)
+
+ Section 390 [now 18 U.S.C. 3285] (Same; limitations)
+
+ Section 390a [now 18 U.S.C. 402] (“Person” or “persons” defined)
+
+ Section 648 [now Rule 17(f), FRCP, 18 U.S.C., Appendix; Rule 45(d), FRCP, 28 U.S.C., Appendix] (Depositions under dedimus potestatem; witnesses; when required to attend)
+
+ Section 703 [former] (Punishment of witness for contempt)
+
+ Section 714 [now 1784] (Failure of witness to obey subpena; order to show cause in contempt proceedings)
+
+ Section 715 [now 1784] (Direction in order to show cause for seizure of property of witness in contempt)
+
+ Section 716 [now 1784] (Service of order to show cause)
+
+ Section 717 [now 1784] (Hearing on order to show cause; judgment; satisfaction)
+
+ Section 750 [now 2405] (Garnishees in suits by United States against a corporation; garnishee failing to appear)
+
+U.S.C., Title 29:
+
+ Section 111 [now 18 U.S.C. 3692] (Contempts; speedy and public trial; jury) (Norris-La Guardia Act)
+
+ Section 112 [now Rule 42, FRCP, 18 U.S.C., Appendix] (Contempts; demands for retirement of judge sitting in proceeding)
+
+ Section 160 (Prevention of unfair labor practices—(h) Jurisdiction of courts unaffected by limitations prescribed in sections 101–115 of Title 29)
+
+ Section 161 (Investigatory powers of Board—(2) Court aid in compelling production of evidence and attendance of witnesses)
+
+ Section 209 (Fair Labor Standards Act; attendance of witnesses)
+
+U.S.C., Title 33:
+
+ Section 927 (Longshoremen's and Harbor Workers’ Compensation Act; powers of deputy commissioner)
+
+U.S.C., Title 35:
+
+ Section 56 [now 24] (Failing to attend or testify)
+
+U.S.C., Title 47:
+
+ Section 409 (Federal Communications Commission; hearing; subpenas; oaths; witnesses; production of books and papers; contempts; depositions; penalties)
+
+U.S.C., Title 48:
+
+ Section 1345a (Canal Zone; general jurisdiction of district court; issue of process at request of officials; witnesses; contempt)
+
+U.S.C., Title 49:
+
+ Section 12 [see 721(c)(2), 13301(c)(2)] (Interstate Commerce Commission; authority and duties of commission; witnesses; depositions—(3) Compelling attendance and testimony of witnesses, etc.)
+
+Federal Rules of Civil Procedure:
+
+ Rule 45 (Subpoena) subdivision (f) (Contempt)
+
 TITLE IX. GENERAL PROVISIONS
 
 Rule 43. Defendant's Presence
@@ -4689,7 +4870,7 @@ A defendant need not be present under any of the following circumstances:
 The defendant is an organization represented by counsel who is present.
 
 (2) Misdemeanor Offense.
-The offense is punishable by fine or by imprisonment for not more than one year, or both, and with the defendant's written consent, the court permits arraignment, plea, trial, and sentencing to occur in the defendant's absence.
+The offense is punishable by fine or by imprisonment for not more than one year, or both, and with the defendant's written consent, the court permits arraignment, plea, trial, and sentencing to occur by video teleconferencing or in the defendant's absence.
 
 (3) Conference or Hearing on a Legal Question.
 The proceeding involves only a conference or hearing on a question of law.
@@ -4716,7 +4897,8 @@ Dec. 1, 1975; Pub. L. 94–64, §3(35), July 31, 1975, 89 Stat. 376; Mar. 9, 198
 Aug. 1, 1987; Apr. 27, 1995, eff.
 Dec. 1, 1995; Apr. 24, 1998, eff.
 Dec. 1, 1998; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -5073,6 +5255,11 @@ Except as Federal Rule of Appellate Procedure 4(b) provides otherwise, the clerk
 A party must file with the court a copy of any paper the party is required to serve.
 A paper must be filed in a manner provided for in a civil action.
 
+(e) Electronic Service and Filing.
+A court may, by local rule, allow papers to be filed, signed, or verified by electronic means that are consistent with any technical standards established by the Judicial Conference of the United States.
+A local rule may require electronic filing only if reasonable exceptions are allowed.
+A paper filed electronically in compliance with a local rule is written or in writing under these rules.
+
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Dec. 4, 1967, eff.
 July 1, 1968; Apr. 29, 1985, eff.
@@ -5080,7 +5267,8 @@ Aug. 1, 1985; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 27, 1995, eff.
 Dec. 1, 1995; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
 
 Notes of Advisory Committee on Rules—1944
 
