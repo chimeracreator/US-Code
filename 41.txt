@@ -764,6 +764,8 @@ Similar Provisions
 
 Provisions similar to those in this section and section 10b–3 of this title were contained in the following acts:
 
+Pub. L. 110–329, div. C, title VIII, §8030, Sept. 30, 2008, 122 Stat. 3627.
+
 Pub. L. 110–116, div. A, title VIII, §8029, Nov. 13, 2007, 121 Stat. 1321.
 
 Pub. L. 109–289, div. A, title VIII, §8027, Sept. 29, 2006, 120 Stat. 1279.
@@ -3310,6 +3312,10 @@ Effective Date
 
 Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
+Short Title of 2008 Amendment
+
+Pub. L. 110–417, [div. A], title VIII, §861, Oct. 14, 2008, 122 Stat. 4546, provided that: “This subtitle [subtitle G (§§861–874) of title VIII of Pub. L. 110–417, enacting sections 417b and 440 of this title, amending sections 253, 254d, and 417 of this title and sections 2304 and 2313 of Title 10, Armed Forces, enacting provisions set out as notes under this section, sections 253h, 254, 254b, 405, and 433a of this title, and sections 1535 and 6101 of Title 31, Money and Finance, and repealing provisions set out as a note under section 2304 of Title 10] may be cited as the ‘Clean Contracting Act of 2008’.”
+
 Short Title of 1996 Amendment
 
 Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) [title VIII, §808(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: “This division [div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification] and division E [§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification] may be cited as the ‘Clinger-Cohen Act of 1996’.”
@@ -3379,6 +3385,58 @@ Pub. L. 103–355, title X, §10002, Oct. 13, 1994, 108 Stat. 3404, provided tha
 Separability
 
 Section 604, formerly §504, of act June 30, 1949, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: “If any provision of this Act [see Tables for classification], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+
+Linking of Award and Incentive Fees to Acquisition Outcomes
+
+Pub. L. 110–417, [div. A], title VIII, §867, Oct. 14, 2008, 122 Stat. 4551, provided that:
+
+“(a) Guidance for Executive Agencies on Linking of Award and Incentive Fees to Acquisition Outcomes.—Not later than 1 year after the date of the enactment of this Act [Oct. 14, 2008], the Federal Acquisition Regulation shall be amended to provide executive agencies other than the Department of Defense with instructions, including definitions, on the appropriate use of award and incentive fees in Federal acquisition programs.
+
+“(b) Elements.—The regulations under subsection (a) shall—
+
+“(1) ensure that all new contracts using award fees link such fees to acquisition outcomes (which shall be defined in terms of program cost, schedule, and performance);
+
+“(2) establish standards for identifying the appropriate level of officials authorized to approve the use of award and incentive fees in new contracts;
+
+“(3) provide guidance on the circumstances in which contractor performance may be judged to be ‘excellent’ or ‘superior’ and the percentage of the available award fee which contractors should be paid for such performance;
+
+“(4) establish standards for determining the percentage of the available award fee, if any, which contractors should be paid for performance that is judged to be ‘acceptable’, ‘average’, ‘expected’, ‘good’, or ‘satisfactory’;
+
+“(5) ensure that no award fee may be paid for contractor performance that is judged to be below satisfactory performance or performance that does not meet the basic requirements of the contract;
+
+“(6) provide specific direction on the circumstances, if any, in which it may be appropriate to roll over award fees that are not earned in one award fee period to a subsequent award fee period or periods;
+
+“(7) ensure consistent use of guidelines and definitions relating to award and incentive fees across the Federal Government;
+
+“(8) ensure that each executive agency—
+
+“(A) collects relevant data on award and incentive fees paid to contractors; and
+
+“(B) has mechanisms in place to evaluate such data on a regular basis;
+
+“(9) include performance measures to evaluate the effectiveness of award and incentive fees as a tool for improving contractor performance and achieving desired program outcomes; and
+
+“(10) provide mechanisms for sharing proven incentive strategies for the acquisition of different types of products and services among contracting and program management officials.
+
+“(c) Guidance for Department of Defense.—The Department of Defense shall continue to be subject to guidance on award and incentive fees issued by the Secretary of Defense pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2321 [10 U.S.C. 2302 note]).
+
+“(d) Executive Agency Defined.—In this section, the term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).”
+
+Close the Contractor Fraud Loophole
+
+Pub. L. 110–252, title VI, ch. 1, June 30, 2008, 122 Stat. 2386, provided that:
+
+“short title
+
+“Sec. 6101. This chapter may be cited as the ‘Close the Contractor Fraud Loophole Act’.
+
+“revision of the federal acquisition regulation
+
+“Sec. 6102. The Federal Acquisition Regulation shall be amended within 180 days after the date of the enactment of this Act [June 30, 2008] pursuant to FAR Case 2007–006 (as published at 72 Fed Reg. 64019, November 14, 2007) or any follow-on FAR case to include provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.
+
+“definition
+
+“Sec. 6103. In this chapter, the term ‘covered contract’ means any contract in an amount greater than $5,000,000 and more than 120 days in duration.”
 
 Evaluation by Comptroller General
 
@@ -3776,6 +3834,18 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (2) The authority of the head of an executive agency under subsection (c)(7) of this section may not be delegated.
 
+(3)(A) The contract period of a contract described in subparagraph (B) that is entered into by an executive agency pursuant to the authority provided under subsection (c)(2)—
+
+(i) may not exceed the time necessary—
+
+(I) to meet the unusual and compelling requirements of the work to be performed under the contract; and
+
+(II) for the executive agency to enter into another contract for the required goods or services through the use of competitive procedures; and
+
+(ii) may not exceed one year unless the head of the executive agency entering into such contract determines that exceptional circumstances apply.
+
+(B) This paragraph applies to any contract in an amount greater than the simplified acquisition threshold.
+
 (e) Offer requests to potential sources
 
 An executive agency using procedures other than competitive procedures to procure property or services by reason of the application of subsection (c)(2) or (c)(6) of this section shall request offers from as many potential sources as is practicable under the circumstances.
@@ -3821,9 +3891,7 @@ The justification and approval required by paragraph (1) is not required—
 
 (F) a statement of the actions, if any, the agency may take to remove or overcome a barrier to competition before a subsequent procurement for such needs.
 
-(4) The justification required by paragraph (1)(A) and any related information shall be made available for inspection by the public consistent with the provisions of section 552 of title 5.
-
-(5) In no case may an executive agency—
+(4) In no case may an executive agency—
 
 (A) enter into a contract for property or services using procedures other than competitive procedures on the basis of the lack of advance planning or concerns related to the amount of funds available to the agency for procurement functions; or
 
@@ -3870,7 +3938,15 @@ It is further the policy of Congress that any program, project, or technology id
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to the Congress or any agency of the Federal Government.
 
-(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 90–268, §2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, §504(a)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 101–510, div. A, title VIII, §806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), Oct. 13, 1994, 108 Stat. 3260, 3261, 3265, 3348, 3380; Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), Feb. 10, 1996, 110 Stat. 642, 643, 653, 674; Pub. L. 104–320, §§7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850.)
+(j)(1)(A) Except as provided in subparagraph (B), in the case of a procurement permitted by subsection (c), the head of an executive agency shall make publicly available, within 14 days after the award of the contract, the documents containing the justification and approval required by subsection (f)(1) with respect to the procurement.
+
+(B) In the case of a procurement permitted by subsection (c)(2), subparagraph (A) shall be applied by substituting “30 days” for “14 days”.
+
+(2) The documents shall be made available on the website of the agency and through a government-wide website selected by the Administrator for Federal Procurement Policy.
+
+(3) This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
+
+(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 90–268, §2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, §504(a)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 101–510, div. A, title VIII, §806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), Oct. 13, 1994, 108 Stat. 3260, 3261, 3265, 3348, 3380; Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), Feb. 10, 1996, 110 Stat. 642, 643, 653, 674; Pub. L. 104–320, §§7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 110–181, div. A, title VIII, §844(a), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, [div. A], title VIII, §862(a), Oct. 14, 2008, 122 Stat. 4546.)
 
 References in Text
 
@@ -4446,7 +4522,23 @@ The head of an executive agency may use procedures other than competitive proced
 
 (2) No determination under section 253(b) of this title is required for an award of multiple task or delivery order contracts under paragraph (1)(B).
 
-(3) The regulations implementing this subsection shall—
+(3)(A) No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the executive agency determines in writing that—
+
+(i) the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
+
+(ii) the contract provides only for firm, fixed price task orders or delivery orders for—
+
+(I) products for which unit prices are established in the contract; or
+
+(II) services for which prices are established in the contract for the specific tasks to be performed;
+
+(iii) only one source is qualified and capable of performing the work at a reasonable price to the government; or
+
+(iv) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
+
+(B) The head of the executive agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).
+
+(4) The regulations implementing this subsection shall—
 
 (A) establish a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under the authority of paragraph (1)(B); and
 
@@ -4465,7 +4557,7 @@ Except as otherwise specifically provided in section 253i of this title, this se
 
 Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(June 30, 1949, ch. 288, title III, §303H, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3261.)
+(June 30, 1949, ch. 288, title III, §303H, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3261; amended Pub. L. 110–181, div. A, title VIII, §843(b)(1), Jan. 28, 2008, 122 Stat. 238.)
 
 Effective Date
 
@@ -4478,6 +4570,68 @@ Section 1054(b) of Pub. L. 103–355 provided that: “Nothing in section 303H, 
 “(1) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 ([former] 40 U.S.C. 759)); and
 
 “(2) the Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) [now 40 U.S.C. 1101–1104]).”
+
+Requirements for Purchase of Property and Services Pursuant to Multiple Award Contracts
+
+Pub. L. 110–417, [div. A], title VIII, §863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, 4548, provided that:
+
+“(a) Regulations Required.—Not later than one year after the date of the enactment of this Act [Oct. 14, 2008], the Federal Acquisition Regulation shall be amended to require enhanced competition in the purchase of property and services by all executive agencies pursuant to multiple award contracts.
+
+“(b) Content of Regulations.—
+
+“(1) In general.—The regulations required by subsection (a) shall provide, at a minimum, that each individual purchase of property or services in excess of the simplified acquisition threshold that is made under a multiple award contract shall be made on a competitive basis unless a contracting officer—
+
+“(A) waives the requirement on the basis of a determination that—
+
+“(i) one of the circumstances described in paragraphs (1) through (4) of section 303J(b) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(b)) or section 2304c(b) of title 10, United States Code, applies to such individual purchase; or
+
+“(ii) a law expressly authorizes or requires that the purchase be made from a specified source; and
+
+“(B) justifies the determination in writing.
+
+“(2) Competitive basis procedures.—For purposes of this subsection, an individual purchase of property or services is made on a competitive basis only if it is made pursuant to procedures that—
+
+“(A) except as provided in paragraph (3), require fair notice of the intent to make that purchase (including a description of the work to be performed and the basis on which the selection will be made) to be provided to all contractors offering such property or services under the multiple award contract; and
+
+“(B) afford all contractors responding to the notice a fair opportunity to make an offer and have that offer fairly considered by the official making the purchase.
+
+“(3) Exception to notice requirement.—
+
+“(A) In general.—Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than all contractors offering such property or services under a multiple award contract as described in subsection (d)(2)(A) [sic] if notice is provided to as many contractors as practicable.
+
+“(B) Limitation on exception.—A purchase may not be made pursuant to a notice that is provided to fewer than all contractors under subparagraph (A) unless—
+
+“(i) offers were received from at least 3 qualified contractors; or
+
+“(ii) a contracting officer of the executive agency determines in writing that no additional qualified contractors were able to be identified despite reasonable efforts to do so.
+
+“(c) Public Notice Requirements Related to Sole Source Task or Delivery Orders.—
+
+“(1) Public notice required.—Not later than one year after the date of the enactment of this Act [Oct. 14, 2008], the Federal Acquisition Regulation shall be amended to require the head of each executive agency to—
+
+“(A) publish on FedBizOpps notice of all sole source task or delivery orders in excess of the simplified acquisition threshold that are placed against multiple award contracts not later than 14 days after such orders are placed, except in the event of extraordinary circumstances or classified orders; and
+
+“(B) disclose the determination required by subsection (b)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 2304(f)(1) of title 10, United States Code, and section 303(f)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)), except in the event of extraordinary circumstances or classified orders.
+
+“(2) Exemption.—This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5, United States Code.
+
+“(d) Definitions.—In this section:
+
+“(1) The term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
+
+“(2) The term ‘individual purchase’ means a task order, delivery order, or other purchase.
+
+“(3) The term ‘multiple award contract’ means—
+
+“(A) a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 2302(2)(C) of title 10, United States Code;
+
+“(B) a multiple award task order contract that is entered into under the authority of sections 2304a through 2304d of title 10, United States Code, or sections 303H through 303K of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h through 253k); and
+
+“(C) any other indefinite delivery, indefinite quantity contract that is entered into by the head of an executive agency with 2 or more sources pursuant to the same solicitation.
+
+“(4) The term ‘sole source task or delivery order’ means any order that does not follow the competitive procedures in subsection (b)(2) or (b)(3).
+
+“(e) Applicability.—The regulations required by subsection (a) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of such regulations, without regard to whether the multiple award contracts were entered into before, on, or after such effective date.”
 
 Guidance on Use of Task Order and Delivery Order Contracts
 
@@ -4695,20 +4849,42 @@ When multiple contracts are awarded under section 253h(d)(1)(B) or 253i(e) of th
 
 A task or delivery order shall include a statement of work that clearly specifies all tasks to be performed or property to be delivered under the order.
 
-(d) Protests
+(d) Enhanced competition for orders in excess of $5,000,000
 
-A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.
+In the case of a task or delivery order in excess of $5,000,000, the requirement to provide all contractors a fair opportunity to be considered under subsection (b) is not met unless all such contractors are provided, at a minimum—
 
-(e) Task and delivery order ombudsman
+(1) a notice of the task or delivery order that includes a clear statement of the executive agency's requirements;
+
+(2) a reasonable period of time to provide a proposal in response to the notice;
+
+(3) disclosure of the significant factors and subfactors, including cost or price, that the executive agency expects to consider in evaluating such proposals, and their relative importance;
+
+(4) in the case of an award that is to be made on a best value basis, a written statement documenting the basis for the award and the relative importance of quality and price or cost factors; and
+
+(5) an opportunity for a post-award debriefing consistent with the requirements of section 253b(e) of this title.
+
+(e) Protests
+
+(1) A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for—
+
+(A) a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
+
+(B) a protest of an order valued in excess of $10,000,000.
+
+(2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
+
+(3) This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008.
+
+(f) Task and delivery order ombudsman
 
 The head of each executive agency who awards multiple task or delivery order contracts pursuant to section 253h(d)(1)(B) or 253i(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b) of this section.
 The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's competition advocate.
 
-(f) Applicability
+(g) Applicability
 
 This section applies to task and delivery order contracts entered into under sections 253h and 253i of this title.
 
-(June 30, 1949, ch. 288, title III, §303J, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3264.)
+(June 30, 1949, ch. 288, title III, §303J, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3264; amended Pub. L. 110–181, div. A, title VIII, §843(b)(2), Jan. 28, 2008, 122 Stat. 238.)
 
 Effective Date
 
@@ -4975,6 +5151,42 @@ The cost-plus-a-percentage-of-cost system of contracting shall not be used, and 
 Effective Date
 
 Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+
+Regulations on the Use of Cost-Reimbursement Contracts
+
+Pub. L. 110–417, [div. A], title VIII, §864, Oct. 14, 2008, 122 Stat. 4549, provided that:
+
+“(a) In General.—Not later than 270 days after the date of the enactment of this Act [Oct. 14, 2008], the Federal Acquisition Regulation shall be revised to address the use of cost-reimbursement contracts.
+
+“(b) Content.—The regulations promulgated under subsection (a) shall include, at a minimum, guidance regarding—
+
+“(1) when and under what circumstances cost-reimbursement contracts are appropriate;
+
+“(2) the acquisition plan findings necessary to support a decision to use cost-reimbursement contracts; and
+
+“(3) the acquisition workforce resources necessary to award and manage cost-reimbursement contracts.
+
+“(c) Inspector General Review.—Not later than one year after the regulations required by subsection (a) are promulgated, the Inspector General for each executive agency shall review the use of cost-reimbursement contracts by such agency for compliance with such regulations and shall include the results of the review in the Inspector General's next semiannual report.
+
+“(d) Report.—Subject to subsection (f), the Director of the Office of Management and Budget shall submit an annual report to Congressional committees identified in subsection (e) on the use of cost-reimbursement contracts and task or delivery orders by all executive agencies.
+The report shall be submitted no later than March 1 and shall cover the fiscal year ending September 30 of the prior year.
+The report shall include—
+
+“(1) the total number and value of contracts awarded and orders issued during the covered fiscal year;
+
+“(2) the total number and value of cost-reimbursement contracts awarded and orders issued during the covered fiscal year; and
+
+“(3) an assessment of the effectiveness of the regulations promulgated pursuant to subsection (a) in ensuring the appropriate use of cost-reimbursement contracts.
+
+“(e) Congressional Committees Defined.—The report required by subsection (d) shall be submitted to the Committee on Oversight and Government Reform of the House of Representatives; the Committee on Homeland Security and Governmental Affairs of the Senate; the Committees on Appropriations of the House of Representatives and the Senate; and, in the case of the Department of Defense and the Department of Energy, the Committees on Armed Services of the Senate and the House of Representatives.
+
+“(f) Requirements Limited to Certain Agencies and Years.—
+
+“(1) Agencies.—The requirement in subsection (c) shall apply only to those executive agencies that awarded contracts or issued orders (under contracts previously awarded) in a total amount of at least $1,000,000,000 in the fiscal year proceeding the fiscal year in which the assessments and reports are submitted.
+
+“(2) Years.—The report required by subsection (d) shall be submitted from March 1, 2009, until March 1, 2014.
+
+“(g) Executive Agency Defined.—In this section, the term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).”
 
 Exemption of Functions
 
@@ -5293,6 +5505,36 @@ Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, t
 
 [Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section to section 1251(b) of Pub. L. 103–355, set out above, is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.]
 
+Limitations on Tiering of Subcontractors
+
+Pub. L. 110–417, [div. A], title VIII, §866, Oct. 14, 2008, 122 Stat. 4551, provided that:
+
+“(a) Regulations.—Not later than one year after the date of the enactment of this Act [Oct. 14, 2008], the Federal Acquisition Regulation shall be amended, for executive agencies other than the Department of Defense, to minimize the excessive use by contractors of subcontractors, or of tiers of subcontractors, that add no or negligible value, and to ensure that neither a contractor nor a subcontractor receives indirect costs or profit on work performed by a lower-tier subcontractor to which the higher-tier contractor or subcontractor adds no, or negligible, value (but not to limit charges for indirect costs and profit based on the direct costs of managing lower-tier subcontracts).
+
+“(b) Covered Contracts.—This section applies to any cost-reimbursement type contract or task or delivery order in an amount greater than the simplified acquisition threshold (as defined by section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)).
+
+“(c) Rule of Construction.—Nothing in this section shall be construed as limiting the ability of the Department of Defense to implement more restrictive limitations on the tiering of subcontractors.
+
+“(d) Applicability.—The Department of Defense shall continue to be subject to guidance on limitations on tiering of subcontractors issued by the Department pursuant to section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2340 [10 U.S.C. 2324 note]).
+
+“(e) Executive Agency Defined.—In this section, the term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).”
+
+Minimizing Abuse of Commercial Services Item Authority
+
+Pub. L. 110–417, [div. A], title VIII, §868, Oct. 14, 2008, 122 Stat. 4552, provided that:
+
+“(a) Regulations Required.—Not later than 180 days after the date of the enactment of this Act [Oct. 14, 2008], the Federal Acquisition Regulation shall be amended with respect to the procurement of commercial services.
+
+“(b) Applicability of Commercial Procedures.—
+
+“(1) Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of section 254b of title 41, United States Code (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
+
+“(2) Information submitted.—To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
+
+“(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+
+“(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.”
+
 Eligibility for Contracts and Subcontracts To Be Conditioned on Compliance
 
 Pub. L. 105–261, div. A, title VIII, §808(c), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 17, 1998], the Federal Acquisition Regulation shall be amended to provide that an offeror's compliance with a requirement to submit data for a contract or subcontract in accordance with section 2306a(d)(1) of title 10, United States Code, or section 304A(d)(1) of the Federal Property and Administrative Services Act of 1949 [41 U.S.C. 254b(d)(1)] shall be a condition for the offeror to be eligible to enter into the contract or subcontract, subject to such exceptions as the Federal Acquisition Regulatory Council determines appropriate.”
@@ -5371,7 +5613,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 (c) Comptroller General authority
 
-(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
+(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract and to interview any current employee regarding such transactions.
 
 (2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest.
 However, the concurrence of the Comptroller General or his designee is not required—
@@ -5416,12 +5658,11 @@ An executive agency shall not require a contractor or subcontractor to provide o
 
 In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(June 30, 1949, ch. 288, title III, §304C, as added and amended Pub. L. 103–355, title II, §2251(a), title IV, §4103(d), Oct. 13, 1994, 108 Stat. 3318, 3341; Pub. L. 104–106, div. D, title XLIII, §4321(e)(5), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–201, div. A, title VIII, §808(b), Sept. 23, 1996, 110 Stat. 2607.)
+(June 30, 1949, ch. 288, title III, §304C, as added and amended Pub. L. 103–355, title II, §2251(a), title IV, §4103(d), Oct. 13, 1994, 108 Stat. 3318, 3341; Pub. L. 104–106, div. D, title XLIII, §4321(e)(5), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–201, div. A, title VIII, §808(b), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 110–417, [div. A], title VIII, §871(a), Oct. 14, 2008, 122 Stat. 4555.)
 
 References in Text
 
 Section 3 and 8G of the Inspector General Act of 1978, referred to in subsec. (b)(1), are sections 3 and 8G of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
-The reference to section 8G of the Act probably means the section 8G which was renumbered by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and which relates to requirements for Federal entities and designated Federal entities.
 
 Change of Name
 
@@ -5516,6 +5757,274 @@ Any such report shall be available to any Member of Congress upon request.
 References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (g)(8), is set out in section 5315 of Title 5, Government Organization and Employees.
+
+Effective Date
+
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+
+Exemption of Functions
+
+Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord.
+No. 11223, eff.
+May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
+
+Relationship to Prompt Payment Requirements
+
+Section 2051(f) of Pub. L. 103–355 provided that: “The amendments made by this section [amending this section] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act [Oct. 13, 1994]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
+
+Definitions
+
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+
+§256. Allowable costs
+
+(a) Indirect cost that violates FAR cost principle
+
+An executive agency shall require that a covered contract provide that if the contractor submits to the executive agency a proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued and if that proposal includes the submission of a cost which is unallowable because the cost violates a cost principle in the Federal Acquisition Regulation (referred to in section 421(c)(1) of this title) or an executive agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
+
+(b) Penalty for violation of cost principle
+
+(1) If the executive agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) of this section that defines the allowability of specific selected costs, the executive agency shall assess a penalty against the contractor in an amount equal to—
+
+(A) the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted; plus
+
+(B) interest (to be computed based on provisions in the Federal Acquisition Regulation) to compensate the United States for the use of any funds which a contractor has been paid in excess of the amount to which the contractor was entitled.
+
+(2) If the executive agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the executive agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
+
+(c) Waiver of penalty
+
+The Federal Acquisition Regulation shall provide for a penalty under subsection (b) of this section to be waived in the case of a contractor's proposal for settlement of indirect costs when—
+
+(1) the contractor withdraws the proposal before the formal initiation of an audit of the proposal by the Federal Government and resubmits a revised proposal;
+
+(2) the amount of unallowable costs subject to the penalty is insignificant; or
+
+(3) the contractor demonstrates, to the contracting officer's satisfaction, that—
+
+(A) it has established appropriate policies and personnel training and an internal control and review system that provide assurances that unallowable costs subject to penalties are precluded from being included in the contractor's proposal for settlement of indirect costs; and
+
+(B) the unallowable costs subject to the penalty were inadvertently incorporated into the proposal.
+
+(d) Applicability of contract disputes procedure to disallowance of cost and assessment of penalty
+
+An action of an executive agency under subsection (a) or (b) of this section—
+
+(1) shall be considered a final decision for the purposes of section 605 of this title; and
+
+(2) is appealable in the manner provided in section 606 of this title.
+
+(e) Specific costs not allowable
+
+(1) The following costs are not allowable under a covered contract:
+
+(A) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
+
+(B) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
+
+(C) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the United States where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
+
+(D) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance such payments in accordance with applicable provisions of the Federal Acquisition Regulation.
+
+(E) Costs of membership in any social, dining, or country club or organization.
+
+(F) Costs of alcoholic beverages.
+
+(G) Contributions or donations, regardless of the recipient.
+
+(H) Costs of advertising designed to promote the contractor or its products.
+
+(I) Costs of promotional items and memorabilia, including models, gifts, and souvenirs.
+
+(J) Costs for travel by commercial aircraft which exceed the amount of the standard commercial fare.
+
+(K) Costs incurred in making any payment (commonly known as a “golden parachute payment”) which is—
+
+(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
+
+(ii) is paid to the employee contingent upon, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
+
+(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
+
+(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+
+(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
+
+(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k) of this section.
+
+(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 435 of this title.
+
+(2)(A) Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, an executive agency, in awarding a covered contract, may waive the application of the provisions of paragraphs (1)(M) and (1)(N) to that contract if the executive agency determines that—
+
+(i) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activity that provides significant support services for employees of the executive agency posted outside the United States;
+
+(ii) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals; and
+
+(iii) the payment of severance pay is necessary in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract or is necessary to comply with a collective bargaining agreement.
+
+(B) An executive agency shall include in the solicitation for a covered contract a statement indicating—
+
+(i) that a waiver has been granted under subparagraph (A) for the contract; or
+
+(ii) whether the executive agency will consider granting such a waiver, and, if the executive agency will consider granting a waiver, the criteria to be used in granting the waiver.
+
+(C) An executive agency shall make the final determination regarding whether to grant a waiver under subparagraph (A) with respect to a covered contract before award of the contract.
+
+(3) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications.
+Any submission by a contractor of costs which are incurred by the contractor and which are claimed to be allowable under Department of Energy management and operating contracts shall be considered a “proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued”, as used in this section.
+
+(f) Required regulations
+
+(1) The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs.
+Such provisions shall define in detail and in specific terms those costs which are unallowable, in whole or in part, under covered contracts.
+The regulations shall, at a minimum, clarify the cost principles applicable to contractor costs of the following:
+
+(A) Air shows.
+
+(B) Membership in civic, community, and professional organizations.
+
+(C) Recruitment.
+
+(D) Employee morale and welfare.
+
+(E) Actions to influence (directly or indirectly) executive branch action on regulatory and contract matters (other than costs incurred in regard to contract proposals pursuant to solicited or unsolicited bids).
+
+(F) Community relations.
+
+(G) Dining facilities.
+
+(H) Professional and consulting services, including legal services.
+
+(I) Compensation.
+
+(J) Selling and marketing.
+
+(K) Travel.
+
+(L) Public relations.
+
+(M) Hotel and meal expenses.
+
+(N) Expense of corporate aircraft.
+
+(O) Company-furnished automobiles.
+
+(P) Advertising.
+
+(Q) Conventions.
+
+(2) The Federal Acquisition Regulation shall require that a contracting officer not resolve any questioned costs until the contracting officer has obtained—
+
+(A) adequate documentation with respect to such costs; and
+
+(B) the opinion of the contract auditor on the allowability of such costs.
+
+(3) The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, a contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
+
+(4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of the individual questioned costs that are paid will be reflected in the settlement.
+
+(g) Applicability of regulations to subcontractors
+
+The regulations referred to in subsections (e) and (f)(1) of this section shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of such regulations to all subcontractors of the covered contract.
+
+(h) Contractor certification required
+
+(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable.
+Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
+
+(2) An executive agency may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the agency—
+
+(A) determines in such case that it would be in the interest of the United States to waive such certification; and
+
+(B) states in writing the reasons for that determination and makes such determination available to the public.
+
+(i) Penalties for submission of cost known as not allowable
+
+The submission to an executive agency of a proposal for settlement of costs for any period after such costs have been accrued that includes a cost that is expressly specified by statute or regulation as being unallowable, with the knowledge that such cost is unallowable, shall be subject to the provisions of section 287 of title 18 and section 3729 of title 31.
+
+(j) Contractor to have burden of proof
+
+In a proceeding before a board of contract appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the United States is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
+
+(k) Proceeding costs not allowable
+
+(1) Except as otherwise provided in this subsection, costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State are not allowable as reimbursable costs under a covered contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation, and (B) results in a disposition described in paragraph (2).
+
+(2) A disposition referred to in paragraph (1)(B) is any of the following:
+
+(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
+
+(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
+
+(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty by reason of the violation or failure referred to in paragraph (1).
+
+(D) A final decision—
+
+(i) to debar or suspend the contractor,
+
+(ii) to rescind or void the contract, or
+
+(iii) to terminate the contract for default,
+
+by reason of the violation or failure referred to in paragraph (1).
+
+(E) A disposition of the proceeding by consent or compromise if such action could have resulted in a disposition described in subparagraph (A), (B), (C), or (D).
+
+(3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
+
+(4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the executive agency that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the executive agency.
+
+(5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
+
+(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
+
+(ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
+
+(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of such other proceeding are not allowable under paragraph (1).
+
+(6) In this subsection:
+
+(A) The term “proceeding” includes an investigation.
+
+(B) The term “costs”, with respect to a proceeding—
+
+(i) means all costs incurred by a contractor, whether before or after the commencement of any such proceeding; and
+
+(ii) includes—
+
+(I) administrative and clerical expenses;
+
+(II) the cost of legal services, including legal services performed by an employee of the contractor;
+
+(III) the cost of the services of accountants and consultants retained by the contractor; and
+
+(IV) the pay of directors, officers, and employees of the contractor for time devoted by such directors, officers, and employees to such proceeding.
+
+(C) The term “penalty” does not include restitution, reimbursement, or compensatory damages.
+
+(l) “Covered contract” defined
+
+(1) In this section, the term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that such term does not include a fixed-price contract without cost incentives or any firm, fixed price contract for the purchase of commercial items.
+
+(2) Effective on October 1 of each year that is divisible by five, the amount set forth in paragraph (1) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars.
+An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
+
+(m) Other definitions
+
+In this section:
+
+(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+
+(2) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
+
+(3) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
+
+(June 30, 1949, ch. 288, title III, §306, as added Pub. L. 100–700, §8(a)(1), Nov. 19, 1988, 102 Stat. 4634; amended Pub. L. 103–355, title II, §2151, Oct. 13, 1994, 108 Stat. 3309; Pub. L. 105–85, div. A, title VIII, §808(b), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(b), Oct. 17, 1998, 112 Stat. 2083.)
+
+Prior Provisions
+
+A prior section 256, act June 30, 1949, ch. 288, title III, §306, 63 Stat. 396, related to waiver of liquidated damages, prior to repeal by act Sept. 5, 1950, ch. 849, §10(b), 64 Stat. 591, eff.
+July 1, 1949. See section 256a of this title.
 
 Effective Date
 
@@ -5654,8 +6163,7 @@ The term does not include routine training, force rotation, or stationing.
 
 References in Text
 
-This Act, referred to in subsec. (b)(1), is the Federal Property and Administrative Services Act of 1949, approved June 30, 1949, ch. 288, 63 Stat. 377, as amended.
-Title IX of this Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works.
+This Act, referred to in subsec. (b)(1), is the Federal Property and Administrative Services Act of 1949, approved June 30, 1949, ch. 288, 63 Stat. 377. Title IX of this Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works.
 For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 Effective Date
@@ -6325,18 +6833,6 @@ Subject to limitations in annual appropriation Acts but notwithstanding any othe
 
 (Pub. L. 89–286, §4, Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, §3, Oct. 9, 1972, 86 Stat. 789.)
 
-§354. List of violators; prohibition of contract award to firms appearing on list; actions to recover underpayments; payment of sums recovered
-
-(a) The Comptroller General is directed to distribute a list to all agencies of the Government giving the names of persons or firms that the Federal agencies or the Secretary have found to have violated this chapter.
-Unless the Secretary otherwise recommends because of unusual circumstances, no contract of the United States shall be awarded to the persons or firms appearing on this list or to any firm, corporation, partnership, or association in which such persons or firms have a substantial interest until three years have elapsed from the date of publication of the list containing the name of such persons or firms.
-Where the Secretary does not otherwise recommend because of unusual circumstances, he shall, not later than ninety days after a hearing examiner has made a finding of a violation of this chapter, forward to the Comptroller General the name of the individual or firm found to have violated the provisions of this chapter.
-
-(b) If the accrued payments withheld under the terms of the contract are insufficient to reimburse all service employees with respect to whom there has been a failure to pay the compensation required pursuant to this chapter, the United States may bring action against the contractor, subcontractor, or any sureties in any court of competent jurisdiction to recover the remaining amount of underpayments.
-Any sums thus recovered by the United States shall be held in the deposit fund and shall be paid, on order of the Secretary, directly to the underpaid employee or employees.
-Any sum not paid to an employee because of inability to do so within three years shall be covered into the Treasury of the United States as miscellaneous receipts.
-
-(Pub. L. 89–286, §5, Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, §4, Oct. 9, 1972, 86 Stat. 790.)
-
 §355. Exclusion of fringe benefit payments in determining overtime pay
 
 In determining any overtime pay to which such service employees are entitled under any Federal law, the regular or basic hourly rate of pay of such an employee shall not include any fringe benefit payments computed hereunder which are excluded from the regular rate under the Fair Labor Standards Act [29 U.S.C. 201 et seq.] by provisions of section 7(d) thereof [29 U.S.C. 207(d)].
@@ -6442,6 +6938,9 @@ Uniform Federal procurement regulations and procedures.
 405b.
 Conflict of interest standards for individuals providing consulting services.
 
+405c.
+Ethics safeguards related to contractor conflicts of interest.
+
 406.
 Administrative powers.
 
@@ -6486,6 +6985,9 @@ Record requirements.
 
 417a.
 Procurement data.
+
+417b.
+Database for Federal agency contract and grant officers and suspension and debarment officials.
 
 418.
 Advocates for competition.
@@ -6550,6 +7052,9 @@ Value engineering.
 433.
 Acquisition workforce.
 
+433a.
+Federal acquisition workforce improvements.
+
 434.
 Modular contracting for information technology.
 
@@ -6564,6 +7069,12 @@ Incentives for efficient performance of services contracts.
 
 438.
 Civilian Board of Contract Appeals.
+
+439.
+Public-private competition required before conversion to contractor performance.
+
+440.
+Contingency Contracting Corps.
 
         
 
@@ -7086,6 +7597,15 @@ References in Text
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended.
 Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
+Enhanced Transparency on Interagency Contracting and Other Transactions
+
+Pub. L. 110–417, [div. A], title VIII, §874(a), Oct. 14, 2008, 122 Stat. 4558, provided that: “Not later than one year after the date of the enactment of this Act [Oct. 14, 2008], the Director of the Office of Management and Budget shall direct appropriate revisions to the Federal Procurement Data System or any successor system to facilitate the collection of complete, timely, and reliable data on interagency contracting actions and on transactions other than contracts, grants, and cooperative agreements issued pursuant to section 2371 of title 10, United States Code, or similar authorities.
+The Director shall ensure that data, consistent with what is collected for contract actions, is obtained on—
+
+“(1) interagency contracting actions, including data at the task or delivery-order level; and
+
+“(2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).”
+
 Pilot Program To Inventory Cost and Size of Service Contracts
 
 Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: “No later than 180 days after enactment of this Act [Dec. 26, 2007], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition.
@@ -7268,6 +7788,80 @@ Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d) of this section is listed on page 156), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
+§405c. Ethics safeguards related to contractor conflicts of interest
+
+(a) Policy on personal conflicts of interest by employees of Federal Government contractors
+
+Not later than 270 days after October 14, 2008, the Administrator for Federal Procurement Policy shall develop and issue a standard policy to prevent personal conflicts of interest by contractor employees performing acquisition functions closely associated with inherently governmental functions (including the development, award, and administration of Government contracts) for or on behalf of a Federal agency or department.
+
+(1) Elements of policy
+
+The policy required under subsection (a) shall—
+
+(A) provide a definition of the term “personal conflict of interest” as it relates to contractor employees performing acquisition functions closely associated with inherently governmental functions; and
+
+(B) require each contractor whose employees perform acquisition functions closely associated with inherently governmental functions to—
+
+(i) identify and prevent personal conflicts of interest for employees of the contractor who are performing such functions;
+
+(ii) prohibit contractor employees who have access to non-public government information obtained while performing such functions from using such information for personal gain;
+
+(iii) report any personal conflict-of-interest violation by such an employee to the applicable contracting officer or contracting officer's representative as soon as it is identified;
+
+(iv) maintain effective oversight to verify compliance with personal conflict-of-interest safeguards;
+
+(v) have procedures in place to screen for potential conflicts of interest for all employees performing such functions; and
+
+(vi) take appropriate disciplinary action in the case of employees who fail to comply with policies established pursuant to this section.
+
+(2) Contract clause
+
+(A) The Administrator shall develop a personal conflicts-of-interest clause or a set of clauses for inclusion in solicitations and contracts (and task or delivery orders) for the performance of acquisition functions closely associated with inherently governmental functions that sets forth the personal conflicts-of-interest policy developed under this subsection and that sets forth the contractor's responsibilities under such policy.
+
+(B) Subparagraph (A) shall take effect 300 days after October 14, 2008, and shall apply to—
+
+(i) contracts entered into on or after that effective date; and
+
+(ii) task or delivery orders awarded on or after that effective date, regardless of whether the contracts pursuant to which such task or delivery orders are awarded are entered before, on, or after October 14, 2008.
+
+(3) Applicability
+
+(A) Except as provided in subparagraph (B), this subsection shall apply to any contract for an amount in excess of the simplified acquisition threshold (as defined in section 403(11) of this title) if the contract is for the performance of acquisition functions closely associated with inherently governmental functions.
+
+(B) If only a portion of a contract described in subparagraph (A) is for the performance of acquisition functions described in that subparagraph, then this subsection applies only to that portion of the contract.
+
+(b) Review of Federal acquisition regulation relating to conflicts of interest
+
+(1) Review
+
+Not later than 12 months after October 14, 2008, the Administrator for Federal Procurement Policy, in consultation with the Director of the Office of Government Ethics, shall review the Federal Acquisition Regulation to—
+
+(A) identify contracting methods, types and services that raise heightened concerns for potential personal and organizational conflicts of interest; and
+
+(B) determine whether revisions to the Federal Acquisition Regulation are necessary to—
+
+(i) address personal conflicts of interest by contractor employees with respect to functions other than those described in subsection (a); or
+
+(ii) achieve sufficiently rigorous, comprehensive, and uniform government-wide policies to prevent and mitigate organizational conflicts of interest in Federal contracting.
+
+(2) Regulatory revisions
+
+If the Administrator determines pursuant to the review under paragraph (1)(B) that revisions to the Federal Acquisition Regulation are necessary, the Administrator shall work with the Federal Acquisition Regulatory Council to prescribe appropriate revisions to the regulations, including the development of appropriate contract clauses.
+
+(3) Report
+
+Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary.
+
+(c) Best practices
+
+The Administrator for Federal Procurement Policy shall, in consultation with the Director of the Office Government Ethics, develop and maintain a repository of best practices relating to the prevention and mitigation of organizational and personal conflicts of interest in Federal contracting.
+
+(Pub. L. 110–417, [div. A], title VIII, §841, Oct. 14, 2008, 122 Stat. 4537.)
+
+Codification
+
+Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
+
 §406. Administrative powers
 
 Upon the request of the Administrator, each executive agency is directed to—
@@ -7315,15 +7909,6 @@ There is authorized to be appropriated for the Office of Federal Procurement Pol
 (b) The Administrator may make and authorize such delegations within the Office as he determines to be necessary to carry out the provisions of this chapter.
 
 (Pub. L. 93–400, §12, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §8, Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §8(c), Dec. 1, 1983, 97 Stat. 1331.)
-
-§412. Comptroller General's access to information from Administrator; rule making procedure
-
-(a) The Administrator and personnel in his Office shall furnish such information as the Comptroller General may require for the discharge of his responsibilities.
-For this purpose, the Comptroller General or his representatives shall have access to all books, documents, papers, and records of the Office.
-
-(b) The Administrator shall, by regulation, require that formal meetings of the Office, as designated by him, for the purpose of developing procurement policies and regulations shall be open to the public, and that public notice of each such meeting shall be given not less than ten days prior thereto.
-
-(Pub. L. 93–400, §14, Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, §9, Oct. 10, 1979, 93 Stat. 652.)
 
 §413. Tests of innovative procurement methods and procedures
 
@@ -7745,49 +8330,6 @@ Effective Date
 
 Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
 
-Applicability to Tennessee Valley Authority
-
-Section 303(c) of Pub. L. 98–577 provided that: “The provisions of the amendments made by subsection (a) of this section [amending this section] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
-
-§417. Record requirements
-
-(a) Establishment and maintenance of computer file by executive agency; time period coverage
-
-Each executive agency shall establish and maintain for a period of five years a computer file, by fiscal year, containing unclassified records of all procurements greater than the simplified acquisition threshold in such fiscal year.
-
-(b) Contents
-
-The record established under subsection (a) of this section shall include—
-
-(1) with respect to each procurement carried out using competitive procedures—
-
-(A) the date of contract award;
-
-(B) information identifying the source to whom the contract was awarded;
-
-(C) the property or services obtained by the Government under the procurement; and
-
-(D) the total cost of the procurement;
-
-(2) with respect to each procurement carried out using procedures other than competitive procedures—
-
-(A) the information described in clauses (1)(A), (1)(B), (1)(C), and (1)(D);
-
-(B) the reason under section 253(c) of this title or section 2304(c) of title 10, as the case may be, for the use of such procedures; and
-
-(C) the identity of the organization or activity which conducted the procurement.
-
-(c) Record categories
-
-The information that is included in such record pursuant to subsection (b)(1) of this section and relates to procurements resulting in the submission of a bid or proposal by only one responsible source shall be separately categorized from the information relating to other procurements included in such record.
-The record of such information shall be designated “noncompetitive procurements using competitive procedures”.
-
-(d) Transmission and data system entry of information
-
-The information included in the record established and maintained under subsection (a) of this section shall be transmitted to the General Services Administration and shall be entered in the Federal Procurement Data System referred to in section 405(d)(4) of this title.
-
-(Pub. L. 93–400, §19, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; amended Pub. L. 103–355, title IV, §4403, Oct. 13, 1994, 108 Stat. 3349.)
-
 Effective Date
 
 Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
@@ -7814,6 +8356,100 @@ Codification
 Section was enacted as part of the Women's Business Ownership Act of 1988, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
 
 1 So in original.
+
+§417b. Database for Federal agency contract and grant officers and suspension and debarment officials
+
+(a) In general
+
+Subject to the authority, direction, and control of the Director of the Office of Management and Budget, the Administrator of General Services shall establish, not later than one year after October 14, 2008, and maintain a database of information regarding the integrity and performance of certain persons awarded Federal agency contracts and grants for use by Federal agency officials having authority over contracts and grants.
+
+(b) Persons covered
+
+The database shall cover the following:
+
+(1) Any person awarded a Federal agency contract or grant in excess of $500,000, if any information described in subsection (c) exists with respect to such person.
+
+(2) Any person awarded such other category or categories of Federal agency contract as the Federal Acquisition Regulation may provide, if such information exists with respect to such person.
+
+(c) Information included
+
+With respect to a covered person the database shall include information (in the form of a brief description) for the most recent 5-year period regarding the following:
+
+(1) Each civil or criminal proceeding, or any administrative proceeding, in connection with the award or performance of a contract or grant with the Federal Government with respect to the person during the period to the extent that such proceeding results in the following dispositions:
+
+(A) In a criminal proceeding, a conviction.
+
+(B) In a civil proceeding, a finding of fault and liability that results in the payment of a monetary fine, penalty, reimbursement, restitution, or damages of $5,000 or more.
+
+(C) In an administrative proceeding, a finding of fault and liability that results in—
+
+(i) the payment of a monetary fine or penalty of $5,000 or more; or
+
+(ii) the payment of a reimbursement, restitution, or damages in excess of $100,000.
+
+(D) To the maximum extent practicable and consistent with applicable laws and regulations, in a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the person if the proceeding could have led to any of the outcomes specified in subparagraph (A), (B), or (C).
+
+(2) Each Federal contract and grant awarded to the person that was terminated in such period due to default.
+
+(3) Each Federal suspension and debarment of the person in that period.
+
+(4) Each Federal administrative agreement entered into by the person and the Federal Government in that period to resolve a suspension or debarment proceeding.
+
+(5) Each final finding by a Federal official in that period that the person has been determined not to be a responsible source under subparagraph (C) or (D) of section 403(7) of this title.
+
+(6) Such other information as shall be provided for purposes of this section in the Federal Acquisition Regulation.
+
+(7) To the maximum extent practical, information similar to the information covered by paragraphs (1) through (4) in connection with the award or performance of a contract or grant with a State government.
+
+(d) Requirements relating to information in database
+
+(1) Direct input and update
+
+The Administrator shall design and maintain the database in a manner that allows the appropriate Federal agency officials to directly input and update information in the database relating to actions such officials have taken with regard to contractors or grant recipients.
+
+(2) Timeliness and accuracy
+
+The Administrator shall develop policies to require—
+
+(A) the timely and accurate input of information into the database;
+
+(B) the timely notification of any covered person when information relevant to the person is entered into the database; and
+
+(C) opportunities for any covered person to submit comments pertaining to information about such person for inclusion in the database.
+
+(e) Use of database
+
+(1) Availability to government officials
+
+The Administrator shall ensure that the information in the database is available to appropriate acquisition officials of Federal agencies, to such other government officials as the Administrator determines appropriate, and, upon request, to the Chairman and Ranking Member of the committees of Congress having jurisdiction.
+
+(2) Review and assessment of data
+
+(A) In general
+
+Before awarding a contract or grant in excess of the simplified acquisition threshold under section 403(11) of this title, the Federal agency official responsible for awarding the contract or grant shall review the database and shall consider all information in the database with regard to any offer or proposal, and, in the case of a contract, shall consider other past performance information available with respect to the offeror in making any responsibility determination or past performance evaluation for such offeror.
+
+(B) Documentation in contract file
+
+The contract file for each contract of a Federal agency in excess of the simplified acquisition threshold shall document the manner in which the material in the database was considered in any responsibility determination or past performance evaluation.
+
+(f) Disclosure in applications
+
+Not later than one year after October 14, 2008, the Federal Acquisition Regulation shall be amended to require that persons with Federal agency contracts and grants valued in total greater than $10,000,000 shall—
+
+(1) submit to the Administrator, in a manner determined appropriate by the Administrator, the information subject to inclusion in the database as listed in subsection (c) current as of the date of submittal of such information under this subsection; and
+
+(2) update such information on a semiannual basis.
+
+(g) Rulemaking
+
+The Administrator shall promulgate such regulations as may be necessary to carry out this section.
+
+(Pub. L. 110–417, [div. A], title VIII, §872, Oct. 14, 2008, 122 Stat. 4555.)
+
+Codification
+
+Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
 
 §418. Advocates for competition
 
@@ -9206,8 +9842,6 @@ The Administrator shall manage the fund through the Federal Acquisition Institut
 
 (G) Amounts credited to the fund shall remain available to be expended only in the fiscal year for which credited and the two succeeding fiscal years.
 
-(H) This paragraph shall cease to be effective five years after November 24, 2003.
-
 (i) Provisions relating to reemployment
 
 (1) Policies and procedures
@@ -9239,7 +9873,7 @@ The Administrator shall submit annually to the Committee on Government Reform of
 
 The authority under this subsection shall expire on December 31, 2011.
 
-(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 109–313, §4, Oct. 6, 2006, 120 Stat. 1737.)
+(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 109–313, §4, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 110–181, div. A, title VIII, §854, Jan. 28, 2008, 122 Stat. 251.)
 
 References in Text
 
@@ -9259,11 +9893,11 @@ Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, 
 
 Acquisition Workforce Recruitment Program
 
-Pub. L. 108–136, div. A, title XIV, §1413, Nov. 24, 2003, 117 Stat. 1665, provided that:
+Pub. L. 108–136, div. A, title XIV, §1413, Nov. 24, 2003, 117 Stat. 1665, as amended by Pub. L. 110–181, div. A, title VIII, §853, title X, §1063(g)(2), Jan. 28, 2008, 122 Stat. 250, 323, provided that:
 
-“(a) Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))[)] are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
+“(a) Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))) are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
 
-“(b) Termination of Authority.—The head of a department or agency may not appoint a person to a position of employment under this section after September 30, 2007.
+“(b) Termination of Authority.—The head of a department or agency may not appoint a person to a position of employment under this section after September 30, 2012.
 
 “(c) Report.—Not later than March 31, 2007, the Director of the Office of Personnel Management, in consultation with the Administrator for Federal Procurement Policy, shall submit to Congress a report on the implementation of this section.
 The report shall include—
@@ -9290,6 +9924,122 @@ Pub. L. 108–136, div. A, title XIV, §1414, Nov. 24, 2003, 117 Stat. 1666, pro
 
 1 So in original.
 Probably should be “Policies”.
+
+§433a. Federal acquisition workforce improvements
+
+(a) Associate Administrator for Acquisition Workforce Programs
+
+The Administrator for Federal Procurement Policy shall designate a member of the Senior Executive Service as the Associate Administrator for Acquisition Workforce Programs.
+The Associate Administrator for Acquisition Workforce Programs shall be located in the Federal Acquisition Institute (or its successor). The Associate Administrator shall be responsible for—
+
+(1) supervising the acquisition workforce training fund established under section 433(h)(3) of this title;
+
+(2) developing, in coordination with Chief Acquisition Officers and Chief Human Capital Officers, a strategic human capital plan for the acquisition workforce of the Federal Government;
+
+(3) reviewing and providing input to individual agency acquisition workforce succession plans;
+
+(4) recommending to the Administrator and other senior government officials appropriate programs, policies, and practices to increase the quantity and quality of the Federal acquisition workforce; and
+
+(5) carrying out such other functions as the Administrator may assign.
+
+(b) Acquisition and contracting training programs within executive agencies
+
+(1) Requirement
+
+The head of each executive agency, after consultation with the Associate Administrator for Acquisition Workforce Programs, shall establish and operate acquisition and contracting training programs.
+Such programs shall—
+
+(A) have curricula covering a broad range of acquisition and contracting disciplines corresponding to the specific acquisition and contracting needs of the agency involved;
+
+(B) be developed and applied according to rigorous standards; and
+
+(C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever such features can be applied without reducing the effectiveness of the training or negatively affecting academic standards.
+
+(2) Chief Acquisition Officer authorities and responsibilities
+
+Subject to the authority, direction, and control of the head of an executive agency, the Chief Acquisition Officer for such agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementation of this subsection.
+The Chief Acquisition Officer shall ensure that the policies established by the head of the agency in accordance with this subsection are implemented throughout the agency.
+
+(c) Government-wide policies and evaluation
+
+The Administrator for Federal Procurement Policy shall issue policies to promote the development of performance standards for training and uniform implementation of this section by executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission.
+The Administrator shall evaluate the implementation of the provisions of subsection (b) by executive agencies.
+
+(d) Acquisition and contracting training reporting
+
+The Administrator for Federal Procurement Policy shall ensure that the heads of executive agencies collect and maintain standardized information on the acquisition and contracting workforce related to the implementation of subsection (b).
+
+(e) Acquisition workforce human capital succession plan
+
+(1) In general
+
+Not later than 1 year after January 28, 2008, each Chief Acquisition Officer for an executive agency shall develop, in consultation with the Chief Human Capital Officer for the agency and the Associate Administrator for Acquisition Workforce Programs, a succession plan consistent with the agency's strategic human capital plan for the recruitment, development, and retention of the agency's acquisition workforce, with a particular focus on warranted contracting officers and program managers of the agency.
+
+(2) Content of plan
+
+The acquisition workforce succession plan shall address—
+
+(A) recruitment goals for personnel from procurement intern programs;
+
+(B) the agency's acquisition workforce training needs;
+
+(C) actions to retain high performing acquisition professionals who possess critical relevant skills;
+
+(D) recruitment goals for personnel from the Federal Career Intern Program; and
+
+(E) recruitment goals for personnel from the Presidential Management Fellows Program.
+
+(f) Training in the acquisition of architect and engineering services
+
+The Administrator for Federal Procurement Policy shall ensure that a sufficient number of Federal employees are trained in the acquisition of architect and engineering services.
+
+(g) Utilization of recruitment and retention authorities
+
+The Administrator for Federal Procurement Policy, in coordination with the Director of the Office of Personnel Management, shall encourage executive agencies to utilize existing authorities, including direct hire authority and tuition assistance programs, to recruit and retain acquisition personnel and consider recruiting acquisition personnel who may be retiring from the private sector, consistent with existing laws and regulations.
+
+(h) Definitions
+
+In this section:
+
+(1) Executive agency
+
+The term “executive agency” has the meaning provided in section 403(1) of this title.
+
+(2) Chief acquisition Officer
+
+The term “Chief Acquisition Officer” means a Chief Acquisition Officer for an executive agency appointed pursuant to section 414 of this title.
+
+(Pub. L. 110–181, div. A, title VIII, §855, Jan. 28, 2008, 122 Stat. 251.)
+
+Codification
+
+Section was enacted as part of the Acquisition Improvement and Accountability Act of 2007, and also as part of the National Defense Authorization Act for Fiscal Year 2008, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
+
+Acquisition Workforce Development Strategic Plan
+
+Pub. L. 110–417, [div. A], title VIII, §869, Oct. 14, 2008, 122 Stat. 4553, provided that:
+
+“(a) Purpose.—The purpose of this section is to authorize the preparation and completion of a plan (to be known as the ‘Acquisition Workforce Development Strategic Plan’) for Federal agencies other than the Department of Defense to develop a specific and actionable 5-year plan to increase the size of the acquisition workforce, and to operate a government-wide acquisition intern program, for such Federal agencies.
+
+“(b) Establishment of Plan.—The Associate Administrator for Acquisition Workforce Programs designated under section 855(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 251; 41 U.S.C. 433(a) [433a(a)]) shall be responsible for the management, oversight, and administration of the Acquisition Workforce Development Strategic Plan in cooperation and consultation with the Office of Federal Procurement Policy and the assistance of the Federal Acquisition Institute.
+
+“(c) Criteria.—The Acquisition Workforce Development Strategic Plan shall include, at a minimum, an examination of the following matters:
+
+“(1) The variety and complexity of acquisitions conducted by each Federal agency covered by the plan, and the workforce needed to effectively carry out such acquisitions.
+
+“(2) The development of a sustainable funding model to support efforts to hire, retain, and train an acquisition workforce of appropriate size and skill to effectively carry out the acquisition programs of the Federal agencies covered by the plan, including an examination of interagency funding methods and a discussion of how the model of the Defense Acquisition Workforce Development Fund could be applied to civilian agencies.
+
+“(3) Any strategic human capital planning necessary to hire, retain, and train an acquisition workforce of appropriate size and skill at each Federal agency covered by the plan.
+
+“(4) Methodologies that Federal agencies covered by the plan can use to project future acquisition workforce personnel hiring requirements, including an appropriate distribution of such personnel across each category of positions designated as acquisition workforce personnel under section 37(j) [probably should be 37(g)] of the Office of Federal Procurement Policy Act (41 U.S.C. 433(j) [433(g)]).
+
+“(5) Government-wide training standards and certification requirements necessary to enhance the mobility and career opportunities of the Federal acquisition workforce within the Federal agencies covered by the plan.
+
+“(6) If the Associate Administrator recommends as part of the plan a growth in the acquisition workforce of the Federal agencies covered by the plan below 25 percent over the next 5 years, an examination of each of the matters specified in paragraphs (1) through (5) in the context of a 5-year plan that increases the size of such acquisition workforce by not less than 25 percent, or an explanation why such a level of growth would not be in the best interest of the Federal Government.
+
+“(d) Deadline for Completion.—The Acquisition Workforce Development Strategic Plan shall be completed not later than one year after the date of the enactment of this Act [Oct. 14, 2008] and in a fashion that allows for immediate implementation of its recommendations and guidelines.
+
+“(e) Funds.—The Acquisition Workforce Development Strategic Plan shall be funded from the Acquisition Workforce Training Fund under section 37(h)(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(h)(3)).”
 
 §434. Modular contracting for information technology
 
@@ -9495,6 +10245,156 @@ Section effective 1 year after Jan. 6, 2006, see section 847(g) of Pub. L. 109�
 Transfers
 
 For transfer of personnel, property, etc. of agency boards of contract appeals to the Civilian Board of Contract Appeals, with certain exceptions, see section 847(b) of Pub. L. 109–163, set out as a note under section 607 of this title.
+
+§439. Public-private competition required before conversion to contractor performance
+
+(a) Public-private competition
+
+(1) A function of an executive agency performed by 10 or more agency civilian employees may not be converted, in whole or in part, to performance by a contractor unless the conversion is based on the results of a public-private competition that—
+
+(A) formally compares the cost of performance of the function by agency civilian employees with the cost of performance by a contractor;
+
+(B) creates an agency tender, including a most efficient organization plan, in accordance with Office of Management and Budget Circular A–76, as implemented on May 29, 2003, or any successor circular;
+
+(C) includes the issuance of a solicitation;
+
+(D) determines whether the submitted offers meet the needs of the executive agency with respect to factors other than cost, including quality, reliability, and timeliness;
+
+(E) examines the cost of performance of the function by agency civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the Government over the life of the contract, including—
+
+(i) the estimated cost to the Government (based on offers received) for performance of the function by a contractor;
+
+(ii) the estimated cost to the Government for performance of the function by agency civilian employees; and
+
+(iii) an estimate of all other costs and expenditures that the Government would incur because of the award of such a contract;
+
+(F) requires continued performance of the function by agency civilian employees unless the difference in the cost of performance of the function by a contractor compared to the cost of performance of the function by agency civilian employees would, over all performance periods required by the solicitation, be equal to or exceed the lesser of—
+
+(i) 10 percent of the personnel-related costs for performance of that function in the agency tender; or
+
+(ii) $10,000,000; and
+
+(G) examines the effect of performance of the function by a contractor on the agency mission associated with the performance of the function.
+
+(2) A function that is performed by the executive agency and is reengineered, reorganized, modernized, upgraded, expanded, or changed to become more efficient, but still essentially provides the same service, shall not be considered a new requirement.
+
+(3) In no case may a function being performed by executive agency personnel be—
+
+(A) modified, reorganized, divided, or in any way changed for the purpose of exempting the conversion of the function from the requirements of this section; or
+
+(B) converted to performance by a contractor to circumvent a civilian personnel ceiling.
+
+(b) Requirement to consult employees
+
+(1) Each civilian employee of an executive agency responsible for determining under Office of Management and Budget Circular A–76 whether to convert to contractor performance any function of the executive agency—
+
+(A) shall, at least monthly during the development and preparation of the performance work statement and the management efficiency study used in making that determination, consult with civilian employees who will be affected by that determination and consider the views of such employees on the development and preparation of that statement and that study; and
+
+(B) may consult with such employees on other matters relating to that determination.
+
+(2)(A) In the case of employees represented by a labor organization accorded exclusive recognition under section 7111 of title 5, consultation with representatives of that labor organization shall satisfy the consultation requirement in paragraph (1).
+
+(B) In the case of employees other than employees referred to in subparagraph (A), consultation with appropriate representatives of those employees shall satisfy the consultation requirement in paragraph (1).
+
+(C) The head of each executive agency shall prescribe regulations to carry out this subsection.
+The regulations shall include provisions for the selection or designation of appropriate representatives of employees referred to in paragraph (2)(B) for purposes of consultation required by paragraph (1).
+
+(c) Congressional notification
+
+(1) Before commencing a public-private competition under subsection (a), the head of an executive agency shall submit to Congress a report containing the following:
+
+(A) The function for which such public-private competition is to be conducted.
+
+(B) The location at which the function is performed by agency civilian employees.
+
+(C) The number of agency civilian employee positions potentially affected.
+
+(D) The anticipated length and cost of the public-private competition, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the public-private competition.
+
+(E) A certification that a proposed performance of the function by a contractor is not a result of a decision by an official of an executive agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
+
+(2) The report required under paragraph (1) shall include an examination of the potential economic effect of performance of the function by a contractor on—
+
+(A) agency civilian employees who would be affected by such a conversion in performance; and
+
+(B) the local community and the Government, if more than 50 agency civilian employees perform the function.
+
+(3)(A) A representative individual or entity at a facility where a public-private competition is conducted may submit to the head of the executive agency an objection to the public-private competition on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the public-private competition.
+The objection shall be in writing and shall be submitted within 90 days after the following date:
+
+(i) In the case of a failure to submit the report when required, the date on which the representative individual or an official of the representative entity authorized to pose the objection first knew or should have known of that failure.
+
+(ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
+
+(B) If the head of the executive agency determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
+
+(d) Exemption for the purchase of products and services of the blind and other severely handicapped persons
+
+This section shall not apply to a commercial or industrial type function of an executive agency that—
+
+(1) is included on the procurement list established pursuant to section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47); or
+
+(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act [41 U.S.C. 46 et seq.].
+
+(e) Inapplicability during war or emergency
+
+The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
+
+(Pub. L. 93–400, §43, as added Pub. L. 110–181, div. A, title III, §327(a), Jan. 28, 2008, 122 Stat. 63.)
+
+References in Text
+
+That Act, referred to in subsec. (d)(2), meaning the Javits-Wagner-O'Day Act, is act June 25, 1938, ch. 697, 52 Stat. 1196, which is classified to sections 46 to 48c of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 46 of this title and Tables.
+
+§440. Contingency Contracting Corps
+
+(a) Establishment
+
+The Administrator of General Services, pursuant to policies established by the Office of Management and Budget, and in consultation with the Secretary of Defense and the Secretary of Homeland Security, shall establish a Governmentwide Contingency Contracting Corps (in this section referred to as the “Corps”). The members of the Corps shall be available for deployment in responding to an emergency or major disaster, or a contingency operation, both within or outside the continental United States.
+
+(b) Applicability
+
+The authorities provided in this section apply with respect to any procurement of property or services by or for an executive agency that, as determined by the head of such executive agency, are to be used—
+
+(1) in support of a contingency operation as defined in section 101(a)(13) of title 10; or
+
+(2) to respond to an emergency or major disaster as defined in section 5122 of title 42.
+
+(c) Membership
+
+Membership in the Corps shall be voluntary and open to all Federal employees and members of the Armed Forces who are members of the Federal acquisition workforce.
+
+(d) Education and training
+
+The Administrator may, in consultation with the Director of the Federal Acquisition Institute and the Chief Acquisition Officers Council, establish educational and training requirements for members of the Corps.
+Education and training carried out pursuant to such requirements shall be paid for from funds available in the acquisition workforce training fund established pursuant to section 433(h)(3) of this title.
+
+(e) Salary
+
+The salary for a member of the Corps shall be paid—
+
+(1) in the case of a member of the Armed Forces, out of funds available to the Armed Force concerned; and
+
+(2) in the case of a Federal employee, out of funds available to the employing agency.
+
+(f) Authority to deploy the Corps
+
+(1) The Director of the Office of Management and Budget shall have the authority, upon request by an executive agency, to determine when members of the Corps shall be deployed, with the concurrence of the head of the agency or agencies employing the members to be deployed.
+
+(2) Nothing in this section shall preclude the Secretary of Defense or the Secretary's designee from deploying members of the Armed Forces or civilian personnel of the Department of Defense in support of a contingency operation as defined in section 101(a)(13) of title 10.
+
+(g) Annual report
+
+(1) In general
+
+The Administrator of General Services shall provide to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform and the Committee on Armed Services of the House of Representatives an annual report on the status of the Contingency Contracting Corps as of September 30 of each fiscal year.
+
+(2) Content
+
+At a minimum, each report under paragraph (1) shall include the number of members of the Contingency Contracting Corps, the total cost of operating the program, the number of deployments of members of the program, and the performance of members of the program in deployment.
+
+(Pub. L. 93–400, §44, as added Pub. L. 110–417, [div. A], title VIII, §870(a), Oct. 14, 2008, 122 Stat. 4554.)
 
 CHAPTER 8—FEDERAL GRANTS AND COOPERATIVE AGREEMENTS
 
