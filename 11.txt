@@ -266,13 +266,13 @@ the taxable year in which the case concerning such individual or such individual
 
 (22) The term “financial institution” means—
 
-(A) a Federal reserve bank, or an entity (domestic or foreign) that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, federally-insured credit union, or receiver, liquidating agent, or conservator for such entity and, when any such Federal reserve bank, receiver, liquidating agent, conservator or entity is acting as agent or custodian for a customer in connection with a securities contract (as defined in section 741) such customer; or
+(A) a Federal reserve bank, or an entity that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, federally-insured credit union, or receiver, liquidating agent, or conservator for such entity and, when any such Federal reserve bank, receiver, liquidating agent, conservator or entity is acting as agent or custodian for a customer (whether or not a “customer”, as defined in section 741) in connection with a securities contract (as defined in section 741) such customer; or
 
 (B) in connection with a securities contract (as defined in section 741) an investment company registered under the Investment Company Act of 1940.
 
 (22A) The term “financial participant” means—
 
-(A) an entity that, at the time it enters into a securities contract, commodity contract, swap agreement, repurchase agreement, or forward contract, or at the time of the date of the filing of the petition, has one or more agreements or transactions described in paragraph (1), (2), (3), (4), (5), or (6) of section 561(a) with the debtor or any other entity (other than an affiliate) of a total gross dollar value of not less than $1,000,000,000 in notional or actual principal amount outstanding on any day during the previous 15-month period, or has gross mark-to-market positions of not less than $100,000,000 (aggregated across counterparties) in one or more such agreements or transactions with the debtor or any other entity (other than an affiliate) on any day during the previous 15-month period; or
+(A) an entity that, at the time it enters into a securities contract, commodity contract, swap agreement, repurchase agreement, or forward contract, or at the time of the date of the filing of the petition, has one or more agreements or transactions described in paragraph (1), (2), (3), (4), (5), or (6) of section 561(a) with the debtor or any other entity (other than an affiliate) of a total gross dollar value of not less than $1,000,000,000 in notional or actual principal amount outstanding (aggregated across counterparties) at such time or on any day during the 15-month period preceding the date of the filing of the petition, or has gross mark-to-market positions of not less than $100,000,000 (aggregated across counterparties) in one or more such agreements or transactions with the debtor or any other entity (other than an affiliate) at such time or on any day during the 15-month period preceding the date of the filing of the petition; or
 
 (B) a clearing organization (as defined in section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991).
 
@@ -282,7 +282,7 @@ the taxable year in which the case concerning such individual or such individual
 
 (25) The term “forward contract” means—
 
-(A) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+(A) a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in this section) 1 consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
 (B) any combination of agreements or transactions referred to in subparagraphs (A) and (C);
 
@@ -508,7 +508,7 @@ shall be considered, for purposes of section 1102 of this title, to be a person 
 
 (ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
 
-(42) The term “petition” means petition filed under section 301, 302, 303, or 304 1 of this title, as the case may be, commencing a case under this title.
+(42) The term “petition” means petition filed under section 301, 302, 303, or 304 2 of this title, as the case may be, commencing a case under this title.
 
 (42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
 
@@ -632,7 +632,7 @@ shall be considered, for purposes of section 1102 of this title, to be a person 
 
 (I) an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap;
 
-(II) a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement;
+(II) a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement;
 
 (III) a currency swap, option, future, or forward agreement;
 
@@ -642,15 +642,19 @@ shall be considered, for purposes of section 1102 of this title, to be a person 
 
 (VI) a total return, credit spread or credit swap, option, future, or forward agreement;
 
-(VII) a commodity index or a commodity swap, option, future, or forward agreement; or
+(VII) a commodity index or a commodity swap, option, future, or forward agreement;
 
-(VIII) a weather swap, weather derivative, or weather option;
+(VIII) a weather swap, option, future, or forward agreement;
+
+(IX) an emissions swap, option, future, or forward agreement; or
+
+(X) an inflation swap, option, future, or forward agreement;
 
 (ii) any agreement or transaction that is similar to any other agreement or transaction referred to in this paragraph and that—
 
-(I) is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap markets (including terms and conditions incorporated by reference therein); and
+(I) is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference therein); and
 
-(II) is a forward, swap, future, or option on one or more rates, currencies, commodities, equity securities, or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+(II) is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities, or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
 
 (iii) any combination of agreements or transactions referred to in this subparagraph;
 
@@ -660,11 +664,11 @@ shall be considered, for purposes of section 1102 of this title, to be a person 
 
 (vi) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in clause (i) through (v), including any guarantee or reimbursement obligation by or to a swap participant or financial participant in connection with any agreement or transaction referred to in any such clause, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
-(B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000.
+(B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act.
 
 (53C) The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor.
 
-(56A) 2 The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
+(56A) 3 The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
 
 (53D) The term “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years.
 A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
@@ -687,7 +691,7 @@ A “timeshare interest” is that interest purchased in a timeshare plan which 
 
 (55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) [title I, §112(c)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) [title I, §112(c)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, §5(a)(1), Dec. 12, 2006, 120 Stat. 2695.)
 
 Historical and Revision Notes
 
@@ -918,7 +922,7 @@ Section 3 of the Federal Deposit Insurance Act, referred to in pars. (12A)(D), (
 
 Sections 101 and 206(r) of the Federal Credit Union Act, referred to in pars. (12A)(D), (33)(B), and (34), are classified to sections 1752 and 1786(r), respectively, of Title 12, Banks and Banking.
 
-The Investment Company Act of 1940, referred to in pars. (22)(B) and (53B)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade.
+The Investment Company Act of 1940, referred to in par. (22)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade.
 For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 Section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22A)(B), is classified to section 4402 of Title 12, Banks and Banking.
@@ -928,28 +932,23 @@ Section 304 of this title, referred to in par. (42), was repealed by Pub. L. 109
 The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade.
 Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78o–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Securities Act of 1933, referred to in pars. (49)(A)(xii) and (53B)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade.
+The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade.
 Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
-
-The Public Utility Holding Company Act of 1935, referred to in par. (53B)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
-
-The Trust Indenture Act of 1939, referred to in par. (53B)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade.
-For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
-
-The Investment Advisers Act of 1940, referred to in par. (53B)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade.
-For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
-
-The Securities Investor Protection Act of 1970, referred to in par. (53B)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade.
-For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
-
-The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture.
-For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended.
 For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture.
 For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+
+The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture.
+For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+Short Title of 2006 Amendment
+
+Pub. L. 109–439, §1, Dec. 20, 2006, 120 Stat. 3285, provided that: “This Act [amending section 1325 of this title] may be cited as the ‘Religious Liberty and Charitable Donation Clarification Act of 2006’.”
+
+Pub. L. 109–390, §1, Dec. 12, 2006, 120 Stat. 2692, provided that: “This Act [amending this section, sections 362, 546, and 741 of this title, sections 1787, 1821, 4403, and 4404 of Title 12, Banks and Banking, and section 78eee of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section] may be cited as the ‘Financial Netting Improvements Act of 2006’.”
 
 Short Title of 2005 Amendment
 
@@ -989,6 +988,10 @@ Short Title of 1984 Amendment
 
 Section 361 of subtitle C (§§361–363) of title III of Pub. L. 98–353 provided that: “This subtitle [amending sections 362, 365, and 541 of this title] may be cited as the ‘Leasehold Management Bankruptcy Amendments Act of 1983’.”
 
+Savings Provision
+
+Pub. L. 109–8, title IX, §912, as added Pub. L. 109–390, §5(d), Dec. 12, 2006, 120 Stat. 2698, provided that: “The meanings of terms used in this title [see Tables for classification] are applicable for the purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act [Pub. L. 106–102, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking], the Legal Certainty for Bank Products Act of 2000 [7 U.S.C. 27 to 27f], the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(47)]), and the Commodity Exchange Act [7 U.S.C. 1 et seq.].”
+
 Separability
 
 Section 701 of Pub. L. 103–394 provided that: “If any provision of this Act [see Tables for classification] or amendment made by this Act or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remaining provisions of and amendments made by this Act and the application of such other provisions and amendments to any person or circumstance shall not be affected thereby.”
@@ -1009,9 +1012,16 @@ Judicial Education
 
 Pub. L. 109–8, title XII, §1226, Apr. 20, 2005, 119 Stat. 199, provided that: “The Director of the Federal Judicial Center, in consultation with the Director of the Executive Office for United States Trustees, shall develop materials and conduct such training as may be useful to courts in implementing this Act [see Short Title of 2005 Amendment note above] and the amendments made by this Act, including the requirements relating to the means test under section 707(b), and reaffirmation agreements under section 524, of title 11 of the United States Code, as amended by this Act.”
 
-1 See References in Text note below.
+Adjustment of Dollar Amounts
 
-2 So in original.
+For adjustment of dollar amounts specified in pars. (3), (18), (19A), and (51D) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+
+1 So in original.
+Probably should be followed by a comma.
+
+2 See References in Text note below.
+
+3 So in original.
 
 §102. Rules of construction
 
@@ -1202,103 +1212,78 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Adjustment of Dollar Amounts
 
-By notice dated Feb. 18, 2004, 69 F.R. 8482, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 2004, as follows:
+By notice dated Feb. 14, 2007, 72 F.R. 7082, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 2007, as follows:
+
+ 	28 U.S.C.	Dollar amount to be adjusted	New (adjusted) dollar amount
+	1409(b)—a trustee may commence a proceeding arising in or related to a case to recover:		
+	(1)—money judgment of or property worth less than 	$1,000 	$1,100
+	(2)—a consumer debt less than 	15,000 	16,425
+	(3)—a non consumer debt against a non insider less than 	10,000 	10,950
 
  	11 U.S.C.	Dollar amount to be adjusted	New (adjusted) dollar amount
-	Section 109(e)—allowable debt limits for filing bankruptcy under Chapter 13 	$290,525 1871,550 1
+	Section 101(3)—definition of assisted person 	$150,000 	$164,250
+	Section 101(18)—definition of family farmer 	3,237,000 1 	3,544,525 1
+	101(19A)—definition of family fisherman 	1,500,000 1 	1,642,500 1
+	101(51D)—definition of small business debtor 	2,000,000 1 	2,190,000 1
+	Section 109(e)—allowable debt limits for individual filing bankruptcy under Chapter 13 	307,675 1922,975 1 
 
-	$307,675 1.922,975 1.
+	336,900 11,010,650 1
 
-	Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary bankruptcy:		
-	(1)—in paragraph (1) 	11,625 	12,300.
-	(2)—in paragraph (2) 	11,625 	12,300.
-	Section 507(a)—priority claims:		
-	(1)—in paragraph (3) 	4,650 	4,925.
-	(2)—in paragraph (4)(B)(i) 	4,650 	4,925.
-	(3)—in paragraph (5) 	4,650 	4,925.
-	(4)—in paragraph (6) 	2,100 	2,225.
-	Section 522(d)—value of property exemptions allowed to the debtor:		
-	(1)—in paragraph (1) 	17,425 	18,450.
-	(2)—in paragraph (2) 	2,775 	2,950.
-	(3)—in paragraph (3) 	4509,300 
+	Section 303(b)—minimum aggregate claims needed for the commencement of involuntary chapter 7 or chapter 11 bankruptcy:		
+	(1)—in paragraph (1) 	12,300 	13,475
+	(2)—in paragraph (2) 	12,300 	13,475
+	Section 507(a)—priority expenses and claims		
+	(1)—in paragraph (4) 	10,000 	10,950
+	(2)—in paragraph (5) 	10,000 	10,950
+	(3)—in paragraph (6) 	4,925 	5,400
+	(4)—in paragraph (7) 	2,225 	2,425
+	Section 522(d)—value of property exemptions allowed to the debtor		
+	(1)—in paragraph (1) 	18,450 	20,200
+	(2)—in paragraph (2) 	2,950 	3,225
+	(3)—in paragraph (3) 	4759,850 
 
-	4759,850.
+	52510,775
 
-	(4)—in paragraph (4) 	1,150 	1,225.
-	(5)—in paragraph (5) 	9258,725 
+	(4)—in paragraph (4) 	1,225 	1,350
+	(5)—in paragraph (5) 	9759,250 
 
-	9759,250.
+	1,07510,125
 
-	(6)—in paragraph (6) 	1,750 	1,850.
-	(7)—in paragraph (8) 	9,300 	9,850.
-	(8)—in paragraph (11)(D) 	17,425 	18,450.
-	Section 523(a)(2)(C)—“luxury goods and services” or cash advances obtained by the consumer debtor within 60 days before the filing of a bankruptcy petition, which are considered nondischargeable. 	1,150 1 	1,225 1.
+	(6)—in paragraph (6) 	1,850 	2,025
+	(7)—in paragraph (8) 	9,850 	10,775
+	(8)—in paragraph (11)(D) 	18,450 	20,200
+	522(f)(3)—exception to lien avoidance under certain state laws 	5,000 	5,475
+	522(f)(4)—items excluded from definition of household goods for lien avoidance purposes 	500 1 	550 1
+	522(n)—maximum aggregate value of assets in individual retirement accounts exempted 	1,000,000 	1,095,000
+	522(p)—qualified homestead exemption 	125,000 	136,875
+	522(q)—state homestead exemption. 	125,000 	136,875
+	523(a)(2)(C)—exceptions to discharge:		
+	in subclause (i)(I)—consumer debts, incurred < = 90 days before filing owed to a single creditor in the aggregate 	500 	550
+	in subclause (i)(II)—cash advances incurred < = 70 days before filing in the aggregate 	750 	825
+	541(b)—property of the estate exclusions:		
+	(1)—in paragraph (5)(C)—education IRA funds in the aggregate 	5,000 	5,475
+	(2)—in paragraph (6)(C)—pre-purchased tuition credits in the aggregate 	5,000 	5,475
+	547(c)(9)—preferences, trustee may not avoid a transfer if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of property is less than 	5,000 	5,475
+	707(b)—dismissal of a case or conversion to a case under chapter 11 or 13 (means test):		
+	(1)—in paragraph (2)(A)(i)(I) 	6,000 	6,575
+	(2)—in paragraph (2)(A)(i)(II) 	10,000 	10,950
+	(3)—in paragraph (2)(A)(ii)(IV) 	1,500 	1,650
+	(4)—in paragraph (5)(B) 	1,000 	1,100
+	(5)—in paragraph 6(C) 	525 	575
+	(6)—in paragraph 7(A) 	525 	575
+	1322(d)—contents of chapter 13 plan, monthly income 	525 1 	575 1
+	1325(b)—chapter 13 confirmation of plan, disposable income 	525 1 	575 1
+	1326(b)(3)—payments to former chapter 7 trustee 	25 	25
 
 1 Each time it appears.
 
-By notice dated Feb. 13, 2001, 66 F.R. 10910, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 2001, as follows:
+Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in subsec. (b) of this section, were contained in the following:
 
- 	11 U.S.C.	Dollar amount to be adjusted	New (adjusted) dollar amount
-	Section 109(e)—allowable debt limits for filing bankruptcy under Chapter 13 	$269,250 (each time it appears)807,750 (each time it appears) 
+Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004.
 
-	$290,525 (each time it appears).871,550 (each time it appears).
+Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001.
 
-	Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary bankruptcy:		
-	(1)—in paragraph (1) 	10,775 	11,625.
-	(2)—in paragraph (2) 	10,775 	11,625.
-	Section 507(a)—priority claims:		
-	(1)—in paragraph (3) 	4,300 	4,650.
-	(2)—in paragraph (4)(B)(i) 	4,300 	4,650.
-	(3)—in paragraph (5) 	4,300 	4,650.
-	(4)—in paragraph (6) 	1,950 	2,100.
-	Section 522(d)—value of property exemptions allowed to the debtor:		
-	(1)—in paragraph (1) 	16,150 	17,425.
-	(2)—in paragraph (2) 	2,575 	2,775.
-	(3)—in paragraph (3) 	4258,625 
-
-	4509,300.
-
-	(4)—in paragraph (4) 	1,075 	1,150.
-	(5)—in paragraph (5) 	8508,075 
-
-	9258,725.
-
-	(6)—in paragraph (6) 	1,625 	1,750.
-	(7)—in paragraph (8) 	8,625 	9,300.
-	(8)—in paragraph (11)(D) 	16,150 	17,425.
-	Section 523(a)(2)(C)—“luxury goods and services” or cash advances obtained by the consumer debtor within 60 days before the filing of a bankruptcy petition, which are considered nondischargeable. 	1,075 (each time it appears) 	1,150 (each time it appears).
-
-By notice dated Feb. 3, 1998, 63 F.R. 7179, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 1998, as follows:
-
- 	11 U.S.C.	Dollar amount to be adjusted	New (adjusted) dollar amount
-	Section 109(e)—allowable debt limits for filing bankruptcy under Chapter 13 	$250,000 (each time it appears)750,000 (each time it appears) 
-
-	$269,250 (each time it appears).807,750 (each time it appears).
-
-	Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary bankruptcy:		
-	(1)—in paragraph (1) 	10,000 	10,775.
-	(2)—in paragraph (2) 	10,000 	10,775.
-	Section 507(a)—priority claims:		
-	(1)—in paragraph (3) 	4,000 	4,300.
-	(2)—in paragraph (4)(B)(i) 	4,000 	4,300.
-	(3)—in paragraph (5) 	4,000 	4,300.
-	(4)—in paragraph (6) 	1,800 	1,950.
-	Section 522(d)—value of property exemptions allowed to the debtor:		
-	(1)—in paragraph (1) 	15,000 	16,150.
-	(2)—in paragraph (2) 	2,400 	2,575.
-	(3)—in paragraph (3) 	4008,000 
-
-	4258,625.
-
-	(4)—in paragraph (4) 	1,000 	1,075.
-	(5)—in paragraph (5) 	8007,500 
-
-	8508,075.
-
-	(6)—in paragraph (6) 	1,500 	1,625.
-	(7)—in paragraph (8) 	8,000 	8,625.
-	(8)—in paragraph (11)(D) 	15,000 	16,150.
-	Section 523(a)(2)(C)—“luxury goods and services” or cash advances obtained by the consumer debtor within 60 days before the filing of a bankruptcy petition, which are considered nondischargeable. 	1,000 (each time it appears) 	1,075 (each time it appears).
+Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998.
 
 §105. Power of court
 
@@ -1630,7 +1615,7 @@ Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b
 
 Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (e) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (e) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 1 So in original.
 Probably should be followed by a closing parenthesis.
@@ -2279,7 +2264,7 @@ An involuntary case commenced under this subsection gives the foreign representa
 
 Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 [§304. Repealed.
 Pub. L. 109–8, title VIII, §802(d)(3), Apr. 20, 2005, 119 Stat. 146]
@@ -3709,9 +3694,9 @@ It is the general category, and as such, is defined by the concept involved rath
 [(5) Repealed.
 Pub. L. 105–277, div. I, title VI, §603(1), Oct. 21, 1998, 112 Stat. 2681–866;]
 
-(6) under subsection (a) of this section, of the setoff by a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency of any mutual debt and claim under or in connection with commodity contracts, as defined in section 761 of this title, forward contracts, or securities contracts, as defined in section 741 of this title, that constitutes the setoff of a claim against the debtor for a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, arising out of commodity contracts, forward contracts, or securities contracts against cash, securities, or other property held by, pledged to, under the control of, or due from such commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency to margin, guarantee, secure, or settle commodity contracts, forward contracts, or securities contracts;
+(6) under subsection (a) of this section, of the exercise by a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency of any contractual right (as defined in section 555 or 556) under any security agreement or arrangement or other credit enhancement forming a part of or related to any commodity contract, forward contract or securities contract, or of any contractual right (as defined in section 555 or 556) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such contracts, including any master agreement for such contracts;
 
-(7) under subsection (a) of this section, of the setoff by a repo participant or financial participant, of any mutual debt and claim under or in connection with repurchase agreements that constitutes the setoff of a claim against the debtor for a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, arising out of repurchase agreements against cash, securities, or other property held by, pledged to, under the control of, or due from such repo participant or financial participant to margin, guarantee, secure or settle repurchase agreements;
+(7) under subsection (a) of this section, of the exercise by a repo participant or financial participant of any contractual right (as defined in section 559) under any security agreement or arrangement or other credit enhancement forming a part of or related to any repurchase agreement, or of any contractual right (as defined in section 559) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such agreements, including any master agreement for such agreements;
 
 (8) under subsection (a) of this section, of the commencement of any action by the Secretary of Housing and Urban Development to foreclose a mortgage or deed of trust in any case in which the mortgage or deed of trust held by the Secretary is insured or was formerly insured under the National Housing Act and covers property, or combinations of property, consisting of five or more living units;
 
@@ -3729,9 +3714,9 @@ Pub. L. 105–277, div. I, title VI, §603(1), Oct. 21, 1998, 112 Stat. 2681–8
 
 (11) under subsection (a) of this section, of the presentment of a negotiable instrument and the giving of notice of and protesting dishonor of such an instrument;
 
-(12) under subsection (a) of this section, after the date which is 90 days after the filing of such petition, of the commencement or continuation, and conclusion to the entry of final judgment, of an action which involves a debtor subject to reorganization pursuant to chapter 11 of this title and which was brought by the Secretary of Transportation under section 31325 of title 46 (including distribution of any proceeds of sale) to foreclose a preferred ship or fleet mortgage, or a security interest in or relating to a vessel or vessel under construction, held by the Secretary of Transportation under section 207 or title XI of the Merchant Marine Act, 1936, or under applicable State law;
+(12) under subsection (a) of this section, after the date which is 90 days after the filing of such petition, of the commencement or continuation, and conclusion to the entry of final judgment, of an action which involves a debtor subject to reorganization pursuant to chapter 11 of this title and which was brought by the Secretary of Transportation under section 31325 of title 46 (including distribution of any proceeds of sale) to foreclose a preferred ship or fleet mortgage, or a security interest in or relating to a vessel or vessel under construction, held by the Secretary of Transportation under chapter 537 of title 46 or section 109(h) of title 49, or under applicable State law;
 
-(13) under subsection (a) of this section, after the date which is 90 days after the filing of such petition, of the commencement or continuation, and conclusion to the entry of final judgment, of an action which involves a debtor subject to reorganization pursuant to chapter 11 of this title and which was brought by the Secretary of Commerce under section 31325 of title 46 (including distribution of any proceeds of sale) to foreclose a preferred ship or fleet mortgage in a vessel or a mortgage, deed of trust, or other security interest in a fishing facility held by the Secretary of Commerce under section 207 or title XI of the Merchant Marine Act, 1936;
+(13) under subsection (a) of this section, after the date which is 90 days after the filing of such petition, of the commencement or continuation, and conclusion to the entry of final judgment, of an action which involves a debtor subject to reorganization pursuant to chapter 11 of this title and which was brought by the Secretary of Commerce under section 31325 of title 46 (including distribution of any proceeds of sale) to foreclose a preferred ship or fleet mortgage in a vessel or a mortgage, deed of trust, or other security interest in a fishing facility held by the Secretary of Commerce under chapter 537 of title 46;
 
 (14) under subsection (a) of this section, of any action by an accrediting agency regarding the accreditation status of the debtor as an educational institution;
 
@@ -3739,7 +3724,7 @@ Pub. L. 105–277, div. I, title VI, §603(1), Oct. 21, 1998, 112 Stat. 2681–8
 
 (16) under subsection (a) of this section, of any action by a guaranty agency, as defined in section 435(j) of the Higher Education Act of 1965 or the Secretary of Education regarding the eligibility of the debtor to participate in programs authorized under such Act;
 
-(17) under subsection (a), of the setoff by a swap participant or financial participant of a mutual debt and claim under or in connection with one or more swap agreements that constitutes the setoff of a claim against the debtor for any payment or other transfer of property due from the debtor under or in connection with any swap agreement against any payment due to the debtor from the swap participant or financial participant under or in connection with any swap agreement or against cash, securities, or other property held by, pledged to, under the control of, or due from such swap participant or financial participant to margin, guarantee, secure, or settle any swap agreement;
+(17) under subsection (a) of this section, of the exercise by a swap participant or financial participant of any contractual right (as defined in section 560) under any security agreement or arrangement or other credit enhancement forming a part of or related to any swap agreement, or of any contractual right (as defined in section 560) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such agreements, including any master agreement for such agreements;
 
 (18) under subsection (a) of the creation or perfection of a statutory lien for an ad valorem property tax, or a special tax or special assessment on real property whether or not ad valorem, imposed by a governmental unit, if such tax or assessment comes due after the date of the filing of the petition;
 
@@ -3775,7 +3760,7 @@ but nothing in this paragraph may be construed to provide that any loan made und
 
 (26) under subsection (a), of the setoff under applicable nonbankruptcy law of an income tax refund, by a governmental unit, with respect to a taxable period that ended before the date of the order for relief against an income tax liability for a taxable period that also ended before the date of the order for relief, except that in any case in which the setoff of an income tax refund is not permitted under applicable nonbankruptcy law because of a pending action to determine the amount or legality of a tax liability, the governmental unit may hold the refund pending the resolution of the action, unless the court, on the motion of the trustee and after notice and a hearing, grants the taxing authority adequate protection (within the meaning of section 361) for the secured claim of such authority in the setoff under section 506(a);
 
-(27) under subsection (a), of the setoff by a master netting agreement participant of a mutual debt and claim under or in connection with one or more master netting agreements or any contract or agreement subject to such agreements that constitutes the setoff of a claim against the debtor for any payment or other transfer of property due from the debtor under or in connection with such agreements or any contract or agreement subject to such agreements against any payment due to the debtor from such master netting agreement participant under or in connection with such agreements or any contract or agreement subject to such agreements or against cash, securities, or other property held by, pledged to, under the control of, or due from such master netting agreement participant to margin, guarantee, secure, or settle such agreements or any contract or agreement subject to such agreements, to the extent that such participant is eligible to exercise such offset rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue; and
+(27) under subsection (a) of this section, of the exercise by a master netting agreement participant of any contractual right (as defined in section 555, 556, 559, or 560) under any security agreement or arrangement or other credit enhancement forming a part of or related to any master netting agreement, or of any contractual right (as defined in section 555, 556, 559, or 560) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such master netting agreements to the extent that such participant is eligible to exercise such rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue; and
 
 (28) under subsection (a), of the exclusion by the Secretary of Health and Human Services of the debtor from participation in the medicare program or any other Federal health care program (as defined in section 1128B(f) of the Social Security Act pursuant to title XI or XVIII of such Act).
 
@@ -3986,7 +3971,7 @@ If the court does not so determine, the stay provided by subsection (a) shall te
 
 (o) The exercise of rights not subject to the stay arising under subsection (a) pursuant to paragraph (6), (7), (17), or (27) of subsection (b) shall not be stayed by any order of a court or administrative agency in any proceeding under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (o)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (o)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199; Pub. L. 109–304, §17(b)(1), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 109–390, §5(a)(2), Dec. 12, 2006, 120 Stat. 2696.)
 
 Historical and Revision Notes
 
@@ -4096,11 +4081,6 @@ Sections 464, 466, and 1128B of the Act are classified to sections 664, 666, and
 
 The National Housing Act, referred in subsec. (b)(8), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking.
 For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
-
-The Merchant Marine Act, 1936, referred to in subsec. (b)(12), (13), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended.
-Title XI of the Act is classified generally to subchapter XI (§1271 et seq.) of chapter 27 of Title 46, Appendix, Shipping.
-Section 207 of the Act is classified to section 1117 of Title 46, Appendix.
-For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(16), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education.
 Section 435(j) of the Act is classified to section 1085(j) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -5902,7 +5882,7 @@ Subsection (b) also provides that a claim arising from an erroneous refund or cr
 
 Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (a)(5), (6) [now (a)(6), (7)] of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (a)(4) to (7) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 1 So in original.
 The period probably should be “; or”.
@@ -6181,9 +6161,520 @@ Sections 530(b)(1) and 529(b)(1) of the Internal Revenue Code of 1986, referred 
 
 Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
 
+Confidentiality of Tax Information
+
+Pub. L. 109–8, title III, §315(c), Apr. 20, 2005, 119 Stat. 91, provided that:
+
+“(1) Not later than 180 days after the date of the enactment of this Act [Apr. 20, 2005], the Director of the Administrative Office of the United States Courts shall establish procedures for safeguarding the confidentiality of any tax information required to be provided under this section.
+
+“(2) The procedures under paragraph (1) shall include restrictions on creditor access to tax information that is required to be provided under this section.
+
+“(3) Not later than 540 days after the date of enactment of this Act, the Director of the Administrative Office of the United States Courts shall prepare and submit to the President pro tempore of the Senate and the Speaker of the House of Representatives a report that—
+
+“(A) assesses the effectiveness of the procedures established under paragraph (1); and
+
+“(B) if appropriate, includes proposed legislation to—
+
+“(i) further protect the confidentiality of tax information; and
+
+“(ii) provide penalties for the improper use by any person of the tax information required to be provided under this section.”
+
+Providing Requested Tax Documents to the Court
+
+Pub. L. 109–8, title XII, §1228, Apr. 20, 2005, 119 Stat. 200, provided that:
+
+“(a) Chapter 7 Cases.—The court shall not grant a discharge in the case of an individual who is a debtor in a case under chapter 7 of title 11, United States Code, unless requested tax documents have been provided to the court.
+
+“(b) Chapter 11 and Chapter 13 Cases.—The court shall not confirm a plan of reorganization in the case of an individual under chapter 11 or 13 of title 11, United States Code, unless requested tax documents have been filed with the court.
+
+“(c) Document Retention.—The court shall destroy documents submitted in support of a bankruptcy claim not sooner than 3 years after the date of the conclusion of a case filed by an individual under chapter 7, 11, or 13 of title 11, United States Code.
+In the event of a pending audit or enforcement action, the court may extend the time for destruction of such requested tax documents.”
+
+§522. Exemptions
+
+(a) In this section—
+
+(1) “dependent” includes spouse, whether or not actually dependent; and
+
+(2) “value” means fair market value as of the date of the filing of the petition or, with respect to property that becomes property of the estate after such date, as of the date such property becomes property of the estate.
+
+(b)(1) Notwithstanding section 541 of this title, an individual debtor may exempt from property of the estate the property listed in either paragraph (2) or, in the alternative, paragraph (3) of this subsection.
+In joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Federal Rules of Bankruptcy Procedure, one debtor may not elect to exempt property listed in paragraph (2) and the other debtor elect to exempt property listed in paragraph (3) of this subsection.
+If the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (2), where such election is permitted under the law of the jurisdiction where the case is filed.
+
+(2) Property listed in this paragraph is property that is specified under subsection (d), unless the State law that is applicable to the debtor under paragraph (3)(A) specifically does not so authorize.
+
+(3) Property listed in this paragraph is—
+
+(A) subject to subsections (o) and (p), any property that is exempt under Federal law, other than subsection (d) of this section, or State or local law that is applicable on the date of the filing of the petition at the place in which the debtor's domicile has been located for the 730 days immediately preceding the date of the filing of the petition or if the debtor's domicile has not been located at a single State for such 730-day period, the place in which the debtor's domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place;
+
+(B) any interest in property in which the debtor had, immediately before the commencement of the case, an interest as a tenant by the entirety or joint tenant to the extent that such interest as a tenant by the entirety or joint tenant is exempt from process under applicable nonbankruptcy law; and
+
+(C) retirement funds to the extent that those funds are in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
+
+If the effect of the domiciliary requirement under subparagraph (A) is to render the debtor ineligible for any exemption, the debtor may elect to exempt property that is specified under subsection (d).
+
+(4) For purposes of paragraph (3)(C) and subsection (d)(12), the following shall apply:
+
+(A) If the retirement funds are in a retirement fund that has received a favorable determination under section 7805 of the Internal Revenue Code of 1986, and that determination is in effect as of the date of the filing of the petition in a case under this title, those funds shall be presumed to be exempt from the estate.
+
+(B) If the retirement funds are in a retirement fund that has not received a favorable determination under such section 7805, those funds are exempt from the estate if the debtor demonstrates that—
+
+(i) no prior determination to the contrary has been made by a court or the Internal Revenue Service; and
+
+(ii)(I) the retirement fund is in substantial compliance with the applicable requirements of the Internal Revenue Code of 1986; or
+
+(II) the retirement fund fails to be in substantial compliance with the applicable requirements of the Internal Revenue Code of 1986 and the debtor is not materially responsible for that failure.
+
+(C) A direct transfer of retirement funds from 1 fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under section 401(a)(31) of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such direct transfer.
+
+(D)(i) Any distribution that qualifies as an eligible rollover distribution within the meaning of section 402(c) of the Internal Revenue Code of 1986 or that is described in clause (ii) shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such distribution.
+
+(ii) A distribution described in this clause is an amount that—
+
+(I) has been distributed from a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986; and
+
+(II) to the extent allowed by law, is deposited in such a fund or account not later than 60 days after the distribution of such amount.
+
+(c) Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such debt had arisen, before the commencement of the case, except—
+
+(1) a debt of a kind specified in paragraph (1) or (5) of section 523(a) (in which case, notwithstanding any provision of applicable nonbankruptcy law to the contrary, such property shall be liable for a debt of a kind specified in section 523(a)(5));
+
+(2) a debt secured by a lien that is—
+
+(A)(i) not avoided under subsection (f) or (g) of this section or under section 544, 545, 547, 548, 549, or 724(a) of this title; and
+
+(ii) not void under section 506(d) of this title; or
+
+(B) a tax lien, notice of which is properly filed;
+
+(3) a debt of a kind specified in section 523(a)(4) or 523(a)(6) of this title owed by an institution-affiliated party of an insured depository institution to a Federal depository institutions regulatory agency acting in its capacity as conservator, receiver, or liquidating agent for such institution; or
+
+(4) a debt in connection with fraud in the obtaining or providing of any scholarship, grant, loan, tuition, discount, award, or other financial assistance for purposes of financing an education at an institution of higher education (as that term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
+
+(d) The following property may be exempted under subsection (b)(2) of this section:
+
+(1) The debtor's aggregate interest, not to exceed $15,000 in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
+
+(2) The debtor's interest, not to exceed $2,400 in value, in one motor vehicle.
+
+(3) The debtor's interest, not to exceed $400 in value in any particular item or $8,000 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+
+(4) The debtor's aggregate interest, not to exceed $1,000 in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+
+(5) The debtor's aggregate interest in any property, not to exceed in value $800 plus up to $7,500 of any unused amount of the exemption provided under paragraph (1) of this subsection.
+
+(6) The debtor's aggregate interest, not to exceed $1,500 in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
+
+(7) Any unmatured life insurance contract owned by the debtor, other than a credit life insurance contract.
+
+(8) The debtor's aggregate interest, not to exceed in value $8,000 less any amount of property of the estate transferred in the manner specified in section 542(d) of this title, in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
+
+(9) Professionally prescribed health aids for the debtor or a dependent of the debtor.
+
+(10) The debtor's right to receive—
+
+(A) a social security benefit, unemployment compensation, or a local public assistance benefit;
+
+(B) a veterans’ benefit;
+
+(C) a disability, illness, or unemployment benefit;
+
+(D) alimony, support, or separate maintenance, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
+
+(E) a payment under a stock bonus, pension, profitsharing, annuity, or similar plan or contract on account of illness, disability, death, age, or length of service, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor, unless—
+
+(i) such plan or contract was established by or under the auspices of an insider that employed the debtor at the time the debtor's rights under such plan or contract arose;
+
+(ii) such payment is on account of age or length of service; and
+
+(iii) such plan or contract does not qualify under section 401(a), 403(a), 403(b), or 408 of the Internal Revenue Code of 1986.
+
+(11) The debtor's right to receive, or property that is traceable to—
+
+(A) an award under a crime victim's reparation law;
+
+(B) a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
+
+(C) a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
+
+(D) a payment, not to exceed $15,000, on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
+
+(E) a payment in compensation of loss of future earnings of the debtor or an individual of whom the debtor is or was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor.
+
+(12) Retirement funds to the extent that those funds are in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
+
+(e) A waiver of an exemption executed in favor of a creditor that holds an unsecured claim against the debtor is unenforceable in a case under this title with respect to such claim against property that the debtor may exempt under subsection (b) of this section.
+A waiver by the debtor of a power under subsection (f) or (h) of this section to avoid a transfer, under subsection (g) or (i) of this section to exempt property, or under subsection (i) of this section to recover property or to preserve a transfer, is unenforceable in a case under this title.
+
+(f)(1) Notwithstanding any waiver of exemptions but subject to paragraph (3), the debtor may avoid the fixing of a lien on an interest of the debtor in property to the extent that such lien impairs an exemption to which the debtor would have been entitled under subsection (b) of this section, if such lien is—
+
+(A) a judicial lien, other than a judicial lien that secures a debt of a kind that is specified in section 523(a)(5); or
+
+(B) a nonpossessory, nonpurchase-money security interest in any—
+
+(i) household furnishings, household goods, wearing apparel, appliances, books, animals, crops, musical instruments, or jewelry that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor;
+
+(ii) implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor; or
+
+(iii) professionally prescribed health aids for the debtor or a dependent of the debtor.
+
+(2)(A) For the purposes of this subsection, a lien shall be considered to impair an exemption to the extent that the sum of—
+
+(i) the lien;
+
+(ii) all other liens on the property; and
+
+(iii) the amount of the exemption that the debtor could claim if there were no liens on the property;
+
+exceeds the value that the debtor's interest in the property would have in the absence of any liens.
+
+(B) In the case of a property subject to more than 1 lien, a lien that has been avoided shall not be considered in making the calculation under subparagraph (A) with respect to other liens.
+
+(C) This paragraph shall not apply with respect to a judgment arising out of a mortgage foreclosure.
+
+(3) In a case in which State law that is applicable to the debtor—
+
+(A) permits a person to voluntarily waive a right to claim exemptions under subsection (d) or prohibits a debtor from claiming exemptions under subsection (d); and
+
+(B) either permits the debtor to claim exemptions under State law without limitation in amount, except to the extent that the debtor has permitted the fixing of a consensual lien on any property or prohibits avoidance of a consensual lien on property otherwise eligible to be claimed as exempt property;
+
+the debtor may not avoid the fixing of a lien on an interest of the debtor or a dependent of the debtor in property if the lien is a nonpossessory, nonpurchase-money security interest in implements, professional books, or tools of the trade of the debtor or a dependent of the debtor or farm animals or crops of the debtor or a dependent of the debtor to the extent the value of such implements, professional books, tools of the trade, animals, and crops exceeds $5,000.
+
+(4)(A) Subject to subparagraph (B), for purposes of paragraph (1)(B), the term “household goods” means—
+
+(i) clothing;
+
+(ii) furniture;
+
+(iii) appliances;
+
+(iv) 1 radio;
+
+(v) 1 television;
+
+(vi) 1 VCR;
+
+(vii) linens;
+
+(viii) china;
+
+(ix) crockery;
+
+(x) kitchenware;
+
+(xi) educational materials and educational equipment primarily for the use of minor dependent children of the debtor;
+
+(xii) medical equipment and supplies;
+
+(xiii) furniture exclusively for the use of minor children, or elderly or disabled dependents of the debtor;
+
+(xiv) personal effects (including the toys and hobby equipment of minor dependent children and wedding rings) of the debtor and the dependents of the debtor; and
+
+(xv) 1 personal computer and related equipment.
+
+(B) The term “household goods” does not include—
+
+(i) works of art (unless by or of the debtor, or any relative of the debtor);
+
+(ii) electronic entertainment equipment with a fair market value of more than $500 in the aggregate (except 1 television, 1 radio, and 1 VCR);
+
+(iii) items acquired as antiques with a fair market value of more than $500 in the aggregate;
+
+(iv) jewelry with a fair market value of more than $500 in the aggregate (except wedding rings); and
+
+(v) a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
+
+(g) Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such property under subsection (b) of this section if such property had not been transferred, if—
+
+(1)(A) such transfer was not a voluntary transfer of such property by the debtor; and
+
+(B) the debtor did not conceal such property; or
+
+(2) the debtor could have avoided such transfer under subsection (f)(1)(B) of this section.
+
+(h) The debtor may avoid a transfer of property of the debtor or recover a setoff to the extent that the debtor could have exempted such property under subsection (g)(1) of this section if the trustee had avoided such transfer, if—
+
+(1) such transfer is avoidable by the trustee under section 544, 545, 547, 548, 549, or 724(a) of this title or recoverable by the trustee under section 553 of this title; and
+
+(2) the trustee does not attempt to avoid such transfer.
+
+(i)(1) If the debtor avoids a transfer or recovers a setoff under subsection (f) or (h) of this section, the debtor may recover in the manner prescribed by, and subject to the limitations of, section 550 of this title, the same as if the trustee had avoided such transfer, and may exempt any property so recovered under subsection (b) of this section.
+
+(2) Notwithstanding section 551 of this title, a transfer avoided under section 544, 545, 547, 548, 549, or 724(a) of this title, under subsection (f) or (h) of this section, or property recovered under section 553 of this title, may be preserved for the benefit of the debtor to the extent that the debtor may exempt such property under subsection (g) of this section or paragraph (1) of this subsection.
+
+(j) Notwithstanding subsections (g) and (i) of this section, the debtor may exempt a particular kind of property under subsections (g) and (i) of this section only to the extent that the debtor has exempted less property in value of such kind than that to which the debtor is entitled under subsection (b) of this section.
+
+(k) Property that the debtor exempts under this section is not liable for payment of any administrative expense except—
+
+(1) the aliquot share of the costs and expenses of avoiding a transfer of property that the debtor exempts under subsection (g) of this section, or of recovery of such property, that is attributable to the value of the portion of such property exempted in relation to the value of the property recovered; and
+
+(2) any costs and expenses of avoiding a transfer under subsection (f) or (h) of this section, or of recovery of property under subsection (i)(1) of this section, that the debtor has not paid.
+
+(l) The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section.
+If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor.
+Unless a party in interest objects, the property claimed as exempt on such list is exempt.
+
+(m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
+
+(n) For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
+
+(o) For purposes of subsection (b)(3)(A), and notwithstanding subsection (a), the value of an interest in—
+
+(1) real or personal property that the debtor or a dependent of the debtor uses as a residence;
+
+(2) a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence;
+
+(3) a burial plot for the debtor or a dependent of the debtor; or
+
+(4) real or personal property that the debtor or a dependent of the debtor claims as a homestead;
+
+shall be reduced to the extent that such value is attributable to any portion of any property that the debtor disposed of in the 10-year period ending on the date of the filing of the petition with the intent to hinder, delay, or defraud a creditor and that the debtor could not exempt, or that portion that the debtor could not exempt, under subsection (b), if on such date the debtor had held the property so disposed of.
+
+(p)(1) Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 in value in—
+
+(A) real or personal property that the debtor or a dependent of the debtor uses as a residence;
+
+(B) a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence;
+
+(C) a burial plot for the debtor or a dependent of the debtor; or
+
+(D) real or personal property that the debtor or dependent of the debtor claims as a homestead.
+
+(2)(A) The limitation under paragraph (1) shall not apply to an exemption claimed under subsection (b)(3)(A) by a family farmer for the principal residence of such farmer.
+
+(B) For purposes of paragraph (1), any amount of such interest does not include any interest transferred from a debtor's previous principal residence (which was acquired prior to the beginning of such 1215-day period) into the debtor's current principal residence, if the debtor's previous and current residences are located in the same State.
+
+(q)(1) As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 if—
+
+(A) the court determines, after notice and a hearing, that the debtor has been convicted of a felony (as defined in section 3156 of title 18), which under the circumstances, demonstrates that the filing of the case was an abuse of the provisions of this title; or
+
+(B) the debtor owes a debt arising from—
+
+(i) any violation of the Federal securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws;
+
+(ii) fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 or under section 6 of the Securities Act of 1933;
+
+(iii) any civil remedy under section 1964 of title 18; or
+
+(iv) any criminal act, intentional tort, or willful or reckless misconduct that caused serious physical injury or death to another individual in the preceding 5 years.
+
+(2) Paragraph (1) shall not apply to the extent the amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) is reasonably necessary for the support of the debtor and any dependent of the debtor.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, §4, Nov. 1, 2000, 114 Stat. 1868; Pub. L. 109–8, title II, §§216, 224(a), (e)(1), title III, §§307, 308, 313(a), 322(a), Apr. 20, 2005, 119 Stat. 55, 62, 65, 81, 87, 96.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 522 of the House amendment represents a compromise on the issue of exemptions between the position taken in the House bill, and that taken in the Senate amendment.
+Dollar amounts specified in section 522(d) of the House bill have been reduced from amounts as contained in H.R. 8200 as passed by the House.
+The States may, by passing a law, determine whether the Federal exemptions will apply as an alternative to State exemptions in bankruptcy cases.
+
+Section 522(c)(1) tracks the House bill and provides that dischargeable tax claims may not be collected out of exempt property.
+
+Section 522(f)(2) is derived from the Senate amendment restricting the debtor to avoidance of nonpossessory, nonpurchase money security interests.
+
+Exemptions: Section 522(c)(1) of the House amendment adopts a provision contained in the House bill that dischargeable taxes cannot be collected from exempt assets.
+This changes present law, which allows collection of dischargeable taxes from exempt property, a rule followed in the Senate amendment.
+Nondischargeable taxes, however, will continue to the [be] collectable out of exempt property.
+It is anticipated that in the next session Congress will review the exemptions from levy currently contained in the Internal Revenue Code [title 26] with a view to increasing the exemptions to more realistic levels.
+
+senate report no. 95–989
+
+Subsection (a) of this section defines two terms: “dependent” includes the debtor's spouse, whether or not actually dependent; and “value” means fair market value as of the date of the filing of the petition.
+
+Subsection (b) tracks current law.
+It permits a debtor the exemptions to which he is entitled under other Federal law and the law of the State of his domicile.
+Some of the items that may be exempted under Federal laws other than title 11 include:
+
+Foreign Service Retirement and Disability payments, 22 U.S.C. 1104; 1
+
+Social security payments, 42 U.S.C. 407;
+
+Injury or death compensation payments from war risk hazards, 42 U.S.C. 1717;
+
+Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601; 2
+
+Civil service retirement benefits, 5 U.S.C. 729, 2265; 3
+
+Longshoremen's and Harbor Workers’ Compensation Act death and disability benefits, 33 U.S.C. 916;
+
+Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(L); 4
+
+Veterans benefits, 45 U.S.C. 352(E); 5
+
+Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; 6 and
+
+Federal homestead lands on debts contracted before issuance of the patent, 43 U.S.C. 175.
+
+He may also exempt an interest in property in which the debtor had an interest as a tenant by the entirety or joint tenant to the extent that interest would have been exempt from process under applicable nonbankruptcy law.
+
+Under proposed section 541, all property of the debtor becomes property of the estate, but the debtor is permitted to exempt certain property from property of the estate under this section.
+Property may be exempted even if it is subject to a lien, but only the unencumbered portion of the property is to be counted in computing the “value” of the property for the purposes of exemption.
+
+As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition.
+The practice is not fraudulent as to creditors, and permits the debtor to make full use of the exemptions to which he is entitled under the law.
+
+Subsection (c) insulates exempt property from prepetition claims other than tax claims (whether or not dischargeable), and other than alimony, maintenance, or support claims that are excepted from discharge.
+The bankruptcy discharge does not prevent enforcement of valid liens.
+The rule of Long v. Bullard, 117 U.S. 617 (1886), is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property.
+Cf. Louisville Joint Stock Land Bank v. Radford, 295 U.S. 555, 583 (1935).
+
+Subsection (c)(3) permits the collection of dischargeable taxes from exempt assets.
+Only assets exempted from levy under Section 6334 of the Internal Revenue Code [title 26] or under applicable state or local tax law cannot be applied to satisfy these tax claims.
+This rule applies to prepetition tax claims against the debtor regardless of whether the claims do or do not receive priority and whether they are dischargeable or nondischargeable.
+Thus, even if a tax is dischargeable vis-a-vis the debtor's after-acquired assets, it may nevertheless be collectible from exempt property held by the estate. (Taxes incurred by the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's exempt assets.)
+
+Subsection (d) protects the debtor's exemptions, either Federal or State, by making unenforceable in a bankruptcy case a waiver of exemptions or a waiver of the debtor's avoiding powers under the following subsections.
+
+Subsection (e) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting him to avoid certain liens on exempt property.
+The debtor may avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods.
+The avoiding power is independent of any waiver of exemptions.
+
+Subsection (f) gives the debtor the ability to exempt property that the trustee recovers under one of the trustee's avoiding powers if the property was involuntarily transferred away from the debtor (such as by the fixing of a judicial lien) and if the debtor did not conceal the property.
+The debtor is also permitted to exempt property that the trustee recovers as the result of the avoiding of the fixing of certain security interests to the extent that the debtor could otherwise have exempted the property.
+
+Subsection (g) provides that if the trustee does not exercise an avoiding power to recover a transfer of property that would be exempt, the debtor may exercise it and exempt the property, if the transfer was involuntary and the debtor did not conceal the property.
+If the debtor wishes to preserve his right to pursue any action under this provision, then he must intervene in any action brought by the trustee based on the same cause of action.
+It is not intended that the debtor be given an additional opportunity to avoid a transfer or that the transferee should have to defend the same action twice.
+Rather, the section is primarily designed to give the debtor the rights the trustee could have, but has not, pursued.
+The debtor is given no greater rights under this provision than the trustee, and thus, the debtor's avoiding powers under proposed sections 544, 545, 547, and 548, are subject to proposed 546, as are the trustee's powers.
+
+These subsections are cumulative.
+The debtor is not required to choose which he will use to gain an exemption.
+Instead, he may use more than one in any particular instance, just as the trustee's avoiding powers are cumulative.
+
+Subsection (h) permits recovery by the debtor of property transferred by an avoided transfer from either the initial or subsequent transferees.
+It also permits preserving a transfer for the benefit of the debtor.
+In either event, the debtor may exempt the property recovered or preserved.
+
+Subsection (i) makes clear that the debtor may exempt property under the avoiding subsections (f) and (h) only to the extent he has exempted less property than allowed under subsection (b).
+
+Subsection (j) makes clear that the liability of the debtor's exempt property is limited to the debtor's aliquot share of the costs and expenses recovery of property that the trustee recovers and the debtor later exempts, and any costs and expenses of avoiding a transfer by the debtor that the debtor has not already paid.
+
+Subsection (k) requires the debtor to file a list of property that he claims as exempt from property of the estate.
+Absent an objection to the list, the property is exempted.
+A dependent of the debtor may file it and thus be protected if the debtor fails to file the list.
+
+Subsection (l) provides the rule for a joint case.
+
+house report no. 95–595
+
+Subsection (a) of this section defines two terms: “dependent” includes the debtor's spouse, whether or not actually dependent; and “value” means fair market value as of the date of the filing of the petition.
+
+Subsection (b), the operative subsection of this section, is a significant departure from present law.
+It permits an individual debtor in a bankruptcy case a choice between exemption systems.
+The debtor may choose the Federal exemptions prescribed in subsection (d), or he may choose the exemptions to which he is entitled under other Federal law and the law of the State of his domicile.
+If the debtor chooses the latter, some of the items that may be exempted under other Federal laws include:
+
+—Foreign Service Retirement and Disability payments, 22 U.S.C. 1104; 7
+
+—Social security payments, 42 U.S.C. 407;
+
+—Injury or death compensation payments from war risk hazards, 42 U.S.C. 1717;
+
+—Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601;
+
+—Civil service retirement benefits, 5 U.S.C. 729, 2265; 8
+
+—Longshoremen's and Harbor Workers’ Compensation Act death and disability benefits, 33 U.S.C. 916;
+
+—Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(l); 9
+
+—Veterans benefits, 45 U.S.C. 352(E); 10
+
+—Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; 11 and
+
+—Federal homestead lands on debts contracted before issuance of the patent, 43 U.S.C. 175.
+
+He may also exempt an interest in property in which the debtor had an interest as a tenant by the entirety or joint tenant to the extent that interest would have been exempt from process under applicable nonbankruptcy law.
+The Rules will provide for the situation where the debtor's choice of exemption, Federal or State, was improvident and should be changed, for example, where the court has ruled against the debtor with respect to a major exemption.
+
+Under proposed 11 U.S.C. 541, all property of the debtor becomes property of the estate, but the debtor is permitted to exempt certain property from property of the estate under this section.
+Property may be exempted even if it is subject to a lien, but only the unencumbered portion of the property is to be counted in computing the “value” of the property for the purposes of exemption.
+Thus, for example, a residence worth $30,000 with a mortgage of $25,000 will be exemptable [sic] to the extent of $5,000. This follows current law.
+The remaining value of the property will be dealt with in the bankruptcy case as is any interest in property that is subject to a lien.
+
+As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition.
+See Hearings, pt. 3, at 1355–58. The practice is not fraudulent as to creditors and permits the debtor to make full use of the exemptions to which he is entitled under the law.
+
+Subsection (c) insulates exempt property from prepetition claims, except tax and alimony, maintenance, or support claims that are excepted from discharge.
+The bankruptcy discharge will not prevent enforcement of valid liens.
+The rule of Long v. Bullard, 117 U.S. 617 (1886) [6 S.Ct. 917, 29 L.Ed. 1004], is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property.
+Cf. Louisville Joint Stock Land Bank v. Radford, 295 U.S. 555, 583 (1935) [55 S.Ct. 854].
+
+Subsection (d) specifies the Federal exemptions to which the debtor is entitled.
+They are derived in large part from the Uniform Exemptions Act, promulgated by the Commissioners of Uniform State Laws in August, 1976. Eleven categories of property are exempted.
+First is a homestead to the extent of $10,000, which may be claimed in real or personal property that the debtor or a dependent of the debtor uses as a residence.
+Second, the debtor may exempt a motor vehicle to the extent of $1500. Third, the debtor may exempt household goods, furnishings, clothing, and similar household items, held primarily for the personal, family, or household use of the debtor or a dependent of the debtor. “Animals” includes all animals, such as pets, livestock, poultry, and fish, if they are held primarily for personal, family or household use.
+The limitation for third category items is $300 on any particular item.
+The debtor may also exempt up to $750 of personal jewelry.
+
+Paragraph (5) permits the exemption of $500, plus any unused amount of the homestead exemption, in any property, in order not to discriminate against the nonhomeowner.
+Paragraph (6) grants the debtor up to $1000 in implements, professional books, or tools, of the trade of the debtor or a dependent.
+Paragraph (7) exempts a life insurance contract, other than a credit life insurance contract, owned by the debtor.
+This paragraph refers to the life insurance contract itself.
+It does not encompass any other rights under the contract, such as the right to borrow out the loan value.
+Because of this provision, the trustee may not surrender a life insurance contract, which remains property of the debtor if he chooses the Federal exemptions.
+Paragraph (8) permits the debtor to exempt up to $5000 in loan value in a life insurance policy owned by the debtor under which the debtor or an individual of whom the debtor is a dependent is the insured.
+The exemption provided by this paragraph and paragraph (7) will also include the debtor's rights in a group insurance certificate under which the insured is an individual of whom the debtor is a dependent (assuming the debtor has rights in the policy that could be exempted) or the debtor.
+A trustee is authorized to collect the entire loan value on every life insurance policy owned by the debtor as property of the estate.
+First, however, the debtor will choose which policy or policies under which the loan value will be exempted.
+The $5000 figure is reduced by the amount of any automatic premium loan authorized after the date of the filing of the petition under section 542(d). Paragraph (9) exempts professionally prescribed health aids.
+
+Paragraph (10) exempts certain benefits that are akin to future earnings of the debtor.
+These include social security, unemployment compensation, or public assistance benefits, veteran's benefits, disability, illness, or unemployment benefits, alimony, support, or separate maintenance (but only to the extent reasonably necessary for the support of the debtor and any dependents of the debtor), and benefits under a certain stock bonus, pension, profitsharing, annuity or similar plan based on illness, disability, death, age or length of service.
+Paragraph (11) allows the debtor to exempt certain compensation for losses.
+These include crime victim's reparation benefits, wrongful death benefits (with a reasonably necessary for support limitation), life insurance proceeds (same limitation), compensation for bodily injury, not including pain and suffering ($10,000 limitation), and loss of future earnings payments (support limitation). This provision in subparagraph (D)(11) is designed to cover payments in compensation of actual bodily injury, such as the loss of a limb, and is not intended to include the attendant costs that accompany such a loss, such as medical payments, pain and suffering, or loss of earnings.
+Those items are handled separately by the bill.
+
+Subsection (e) protects the debtor's exemptions, either Federal or State, by making unenforceable in a bankruptcy case a waiver of exemptions or a waiver of the debtor's avoiding powers under the following subsections.
+
+Subsection (f) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting him to avoid certain liens on exempt property.
+The debtor may avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods.
+The avoiding power is independent of any waiver of exemptions.
+
+Subsection (g) gives the debtor the ability to exempt property that the trustee recovers under one of the trustee's avoiding powers if the property was involuntarily transferred away from the debtor (such as by the fixing of a judicial lien) and if the debtor did not conceal the property.
+The debtor is also permitted to exempt property that the trustee recovers as the result of the avoiding of the fixing of certain security interests to the extent that the debtor could otherwise have exempted the property.
+
+If the trustee does not pursue an avoiding power to recover a transfer of property that would be exempt, the debtor may pursue it and exempt the property, if the transfer was involuntary and the debtor did not conceal the property.
+If the debtor wishes to preserve his right to pursue an action under this provision, then he must intervene in any action brought by the trustee based on the same cause of action.
+It is not intended that the debtor be given an additional opportunity to avoid a transfer or that the transferee have to defend the same action twice.
+Rather, the section is primarily designed to give the debtor the rights the trustee could have pursued if the trustee chooses not to pursue them.
+The debtor is given no greater rights under this provision than the trustee, and thus the debtor's avoiding powers under proposed 11 U.S.C. 544, 545, 547, and 548, are subject to proposed 11 U.S.C. 546, as are the trustee's powers.
+
+These subsections are cumulative.
+The debtor is not required to choose which he will use to gain an exemption.
+Instead, he may use more than one in any particular instance, just as the trustee's avoiding powers are cumulative.
+
+Subsection (i) permits recovery by the debtor of property transferred in an avoided transfer from either the initial or subsequent transferees.
+It also permits preserving a transfer for the benefit of the debtor.
+Under either case the debtor may exempt the property recovered or preserved.
+
+Subsection (k) makes clear that the debtor's aliquot share of the costs and expenses [for] recovery of property that the trustee recovers and the debtor later exempts, and any costs and expenses of avoiding a transfer by the debtor that the debtor has not already paid.
+
+Subsection (l) requires the debtor to file a list of property that he claims as exempt from property of the estate.
+Absent an objection to the list, the property is exempted.
+A dependent of the debtor may file it and thus be protected if the debtor fails to file the list.
+
+Subsection (m) requires the clerk of the bankruptcy court to give notice of any exemptions claimed under subsection (l), in order that parties in interest may have an opportunity to object to the claim.
+
+Subsection (n) provides the rule for a joint case: each debtor is entitled to the Federal exemptions provided under this section or to the State exemptions, whichever the debtor chooses.
+
+References in Text
+
+The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(1), are set out in the Appendix to this title.
+
+The Internal Revenue Code of 1986, referred to in subsecs. (b)(3)(C), (4), (d)(10)(E)(iii), (12), and (n), is classified generally to Title 26, Internal Revenue Code.
+
+Sections 3(a)(47), 12, and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (q)(1)(B)(i), (ii), are classified to sections 78c(a)(47), 78l, and 78o(d), respectively, of Title 15, Commerce and Trade.
+
+Section 6 of the Securities Exchange Act of 1933, referred to in subsec. (q)(1)(B)(ii), is classified to section 77f of Title 15, Commerce and Trade.
+
 Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (d)(1) to (6), (8), (11)(D) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsecs. (d)(1) to (6), (8), (11)(D), (f)(3), (4), (n), (p), and (q) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 1 Replaced by 22 U.S.C. 4060(c).
 
@@ -6517,6 +7008,10 @@ Section 3(a)(47) of the Securities Exchange Act of 1934, referred to in subsec. 
 Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to section 1087–3 of Title 20, Education, and was repealed by Pub. L. 95–598, title III, §317, Nov. 6, 1978, 92 Stat. 2678.
 
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, §327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, §2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
+
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (a)(2)(C)(i) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 1 See References in Text note below.
 
@@ -7418,6 +7913,10 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(
 Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor.
 For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b)(5)(C), (6)(C) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+
 §542. Turnover of property to the estate
 
 (a) Except as provided in subsection (c) or (d) of this section, an entity, other than a custodian, in possession, custody, or control, during the case, of property that the trustee may use, sell, or lease under section 363 of this title, or that the debtor may exempt under section 522 of this title, shall deliver to the trustee, and account for, such property or the value of such property, unless such property is of inconsequential value or benefit to the estate.
@@ -7641,11 +8140,11 @@ such interest in such property shall be perfected, or perfection of such interes
 
 (2) the court may deny reclamation to such a producer or fisherman with a right of reclamation that has made such a demand only if the court secures such claim by a lien.
 
-(e) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, made by or to a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+(e) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract, that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(f) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, made by or to a repo participant or financial participant, in connection with a repurchase agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+(f) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer made by or to (or for the benefit of) a repo participant or financial participant, in connection with a repurchase agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer, made by or to a swap participant or financial participant, under or in connection with any swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+(g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer, made by or to (or for the benefit of) a swap participant or financial participant, under or in connection with any swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
 (h) Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor and subject to the prior rights of holders of security interests in such goods or the proceeds of such goods, may return goods shipped to the debtor by the creditor before the commencement of the case, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
 
@@ -7653,9 +8152,9 @@ such interest in such property shall be perfected, or perfection of such interes
 
 (2) The prohibition under paragraph (1) shall be applied in a manner consistent with any State statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
 
-(j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
+(j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to (or for the benefit of) a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(l), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, §406, title IX, §907(e), (o)(2), (3), title XII, §1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(l), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, §406, title IX, §907(e), (o)(2), (3), title XII, §1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199; Pub. L. 109–390, §5(b), Dec. 12, 2006, 120 Stat. 2697.)
 
 Historical and Revision Notes
 
@@ -7905,6 +8404,10 @@ Subsection (e) is designed to reach the different results under the 1962 version
 Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case.
 The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill.
 The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
+
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (c)(9) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 §548. Fraudulent transfers and obligations
 
@@ -8767,6 +9270,112 @@ If it does, creditors may elect a successor in the same manner as they may elect
 Pending the election of a successor, the court may appoint an interim trustee in the usual manner if necessary to preserve or prevent loss to the estate.
 If creditors do not elect a successor, or if a trustee is needed in a reopened case, then the court appoints a disinterested member of the panel of private trustees to serve.
 
+§704. Duties of trustee
+
+(a) The trustee shall—
+
+(1) collect and reduce to money the property of the estate for which such trustee serves, and close such estate as expeditiously as is compatible with the best interests of parties in interest;
+
+(2) be accountable for all property received;
+
+(3) ensure that the debtor shall perform his intention as specified in section 521(2)(B) of this title;
+
+(4) investigate the financial affairs of the debtor;
+
+(5) if a purpose would be served, examine proofs of claims and object to the allowance of any claim that is improper;
+
+(6) if advisable, oppose the discharge of the debtor;
+
+(7) unless the court orders otherwise, furnish such information concerning the estate and the estate's administration as is requested by a party in interest;
+
+(8) if the business of the debtor is authorized to be operated, file with the court, with the United States trustee, and with any governmental unit charged with responsibility for collection or determination of any tax arising out of such operation, periodic reports and summaries of the operation of such business, including a statement of receipts and disbursements, and such other information as the United States trustee or the court requires;
+
+(9) make a final report and file a final account of the administration of the estate with the court and with the United States trustee;
+
+(10) if with respect to the debtor there is a claim for a domestic support obligation, provide the applicable notice specified in subsection (c);
+
+(11) if, at the time of the commencement of the case, the debtor (or any entity designated by the debtor) served as the administrator (as defined in section 3 of the Employee Retirement Income Security Act of 1974) of an employee benefit plan, continue to perform the obligations required of the administrator; and
+
+(12) use all reasonable and best efforts to transfer patients from a health care business that is in the process of being closed to an appropriate health care business that—
+
+(A) is in the vicinity of the health care business that is closing;
+
+(B) provides the patient with services that are substantially similar to those provided by the health care business that is in the process of being closed; and
+
+(C) maintains a reasonable quality of care.
+
+(b)(1) With respect to a debtor who is an individual in a case under this chapter—
+
+(A) the United States trustee (or the bankruptcy administrator, if any) shall review all materials filed by the debtor and, not later than 10 days after the date of the first meeting of creditors, file with the court a statement as to whether the debtor's case would be presumed to be an abuse under section 707(b); and
+
+(B) not later than 5 days after receiving a statement under subparagraph (A), the court shall provide a copy of the statement to all creditors.
+
+(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30 days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to be an abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
+
+(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner; or
+
+(B) in the case of a debtor in a household of 2 or more individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals.
+
+(c)(1) In a case described in subsection (a)(10) to which subsection (a)(10) applies, the trustee shall—
+
+(A)(i) provide written notice to the holder of the claim described in subsection (a)(10) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for the State in which such holder resides, for assistance in collecting child support during and after the case under this title;
+
+(ii) include in the notice provided under clause (i) the address and telephone number of such State child support enforcement agency; and
+
+(iii) include in the notice provided under clause (i) an explanation of the rights of such holder to payment of such claim under this chapter;
+
+(B)(i) provide written notice to such State child support enforcement agency of such claim; and
+
+(ii) include in the notice provided under clause (i) the name, address, and telephone number of such holder; and
+
+(C) at such time as the debtor is granted a discharge under section 727, provide written notice to such holder and to such State child support enforcement agency of—
+
+(i) the granting of the discharge;
+
+(ii) the last recent known address of the debtor;
+
+(iii) the last recent known name and address of the debtor's employer; and
+
+(iv) the name of each creditor that holds a claim that—
+
+(I) is not discharged under paragraph (2), (4), or (14A) of section 523(a); or
+
+(II) was reaffirmed by the debtor under section 524(c).
+
+(2)(A) The holder of a claim described in subsection (a)(10) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
+
+(B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, §102(c), title II, §219(a), title IV, §446(b), title XI, §1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 704(8) of the Senate amendment is deleted in the House amendment.
+Trustees should give constructive notice of the commencement of the case in the manner specified under section 549(c) of title 11.
+
+senate report no. 95–989
+
+The essential duties of the trustee are enumerated in this section.
+Others, or elaborations on these, may be prescribed by the Rules of Bankruptcy Procedure to the extent not inconsistent with those prescribed by this section.
+The duties are derived from section 47a of the Bankruptcy Act [section 75(a) of former title 11].
+
+The trustee's principal duty is to collect and reduce to money the property of the estate for which he serves, and to close up the estate as expeditiously as is compatible with the best interests of parties in interest.
+He must be accountable for all property received, and must investigate the financial affairs of the debtor.
+If a purpose would be served (such as if there are assets that will be distributed), the trustee is required to examine proofs of claims and object to the allowance of any claim that is improper.
+If advisable, the trustee must oppose the discharge of the debtor, which is for the benefit of general unsecured creditors whom the trustee represents.
+
+The trustee is responsible to furnish such information concerning the estate and its administration as is requested by a party in interest.
+If the business of the debtor is authorized to be operated, then the trustee is required to file with governmental units charged with the responsibility for collection or determination of any tax arising out of the operation of the business periodic reports and summaries of the operation, including a statement of receipts and disbursements, and such other information as the court requires.
+He is required to give constructive notice of the commencement of the case in the manner specified under section 342(b).
+
+References in Text
+
+Section 3 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(11), is classified to section 1002 of Title 29, Labor.
+
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
+
 §705. Creditors’ committee
 
 (a) At the meeting under section 341(a) of this title, creditors that may vote for a trustee under section 702(a) of this title may elect a committee of not fewer than three, and not more than eleven, creditors, each of whom holds an allowable unsecured claim of a kind entitled to distribution under section 726(a)(2) of this title.
@@ -8786,6 +9395,42 @@ senate report no. 95–989
 This section is derived from section 44b of the Bankruptcy Act [section 72(b) of former title 11] without substantial change.
 It permits election by general unsecured creditors of a committee of not fewer than 3 members and not more than 11 members to consult with the trustee in connection with the administration of the estate, to make recommendations to the trustee respecting the performance of his duties, and to submit to the court any question affecting the administration of the estate.
 There is no provision for compensation or reimbursement of its counsel.
+
+§706. Conversion
+
+(a) The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 of this title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title.
+Any waiver of the right to convert a case under this subsection is unenforceable.
+
+(b) On request of a party in interest and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 of this title at any time.
+
+(c) The court may not convert a case under this chapter to a case under chapter 12 or 13 of this title unless the debtor requests or consents to such conversion.
+
+(d) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 99–554, title II, §257(q), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title V, §501(d)(22), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title I, §101, Apr. 20, 2005, 119 Stat. 27.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 706(a) of the House amendment adopts a provision contained in the Senate amendment indicating that a waiver of the right to convert a case under section 706(a) is unenforceable.
+The explicit reference in title 11 forbidding the waiver of certain rights is not intended to imply that other rights, such as the right to file a voluntary bankruptcy case under section 301, may be waived.
+
+Section 706 of the House amendment adopts a similar provision contained in H.R. 8200 as passed by the House.
+Competing proposals contained in section 706(c) and section 706(d) of the Senate amendment are rejected.
+
+senate report no. 95–989
+
+Subsection (a) of this section gives the debtor the one-time absolute right of conversion of a liquidation case to a reorganization or individual repayment plan case.
+If the case has already once been converted from chapter 11 or 13 to chapter 7, then the debtor does not have that right.
+The policy of the provision is that the debtor should always be given the opportunity to repay his debts, and a waiver of the right to convert a case is unenforceable.
+
+Subsection (b) permits the court, on request of a party in interest and after notice and a hearing, to convert the case to chapter 11 at any time.
+The decision whether to convert is left in the sound discretion of the court, based on what will most inure to the benefit of all parties in interest.
+
+Subsection (c) is part of the prohibition against involuntary chapter 13 cases, and prohibits the court from converting a case to chapter 13 without the debtor's consent.
+
+Subsection (d) reinforces section 109 by prohibiting conversion to a chapter unless the debtor is eligible to be a debtor under that chapter.
 
 §707. Dismissal of a case or conversion to a case under chapter 11 or 13
 
@@ -8976,6 +9621,10 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A), (B)
 Schedules of Reasonable and Necessary Expenses
 
 Pub. L. 109–8, title I, §107, Apr. 20, 2005, 119 Stat. 42, provided that: “For purposes of section 707(b) of title 11, United States Code, as amended by this Act, the Director of the Executive Office for United States Trustees shall, not later than 180 days after the date of enactment of this Act [Apr. 20, 2005], issue schedules of reasonable and necessary administrative expenses of administering a chapter 13 plan for each judicial district of the United States.”
+
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b)(2)(A)(i), (ii)(IV), (5)(B), (6)(C), (7)(A) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 Rules Promulgated by Supreme Court
 
@@ -9523,23 +10172,27 @@ In this subchapter—
 
 (A) means—
 
-(i) a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including an interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+(i) a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including an interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in section 101);
 
 (ii) any option entered into on a national securities exchange relating to foreign currencies;
 
-(iii) the guarantee by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+(iii) the guarantee (including by novation) by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi));
 
 (iv) any margin loan;
 
-(v) any other agreement or transaction that is similar to an agreement or transaction referred to in this subparagraph;
+(v) any extension of credit for the clearance or settlement of securities transactions;
 
-(vi) any combination of the agreements or transactions referred to in this subparagraph;
+(vi) any loan transaction coupled with a securities collar transaction, any prepaid forward securities transaction, or any total return swap transaction coupled with a securities sale transaction;
 
-(vii) any option to enter into any agreement or transaction referred to in this subparagraph;
+(vii) any other agreement or transaction that is similar to an agreement or transaction referred to in this subparagraph;
 
-(viii) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), or (vii), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), or (vii); or
+(viii) any combination of the agreements or transactions referred to in this subparagraph;
 
-(ix) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
+(ix) any option to enter into any agreement or transaction referred to in this subparagraph;
+
+(x) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
+
+(xi) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
 (B) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan;
 
@@ -9547,7 +10200,7 @@ In this subchapter—
 
 (9) “SIPC” means Securities Investor Protection Corporation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 97–222, §8, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, §482, July 10, 1984, 98 Stat. 382; Pub. L. 103–394, title V, §501(d)(25), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, §907(a)(2), Apr. 20, 2005, 119 Stat. 173.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 97–222, §8, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, §482, July 10, 1984, 98 Stat. 382; Pub. L. 103–394, title V, §501(d)(25), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, §907(a)(2), Apr. 20, 2005, 119 Stat. 173; Pub. L. 109–390, §5(a)(3), Dec. 12, 2006, 120 Stat. 2697.)
 
 Historical and Revision Notes
 
@@ -10052,6 +10705,37 @@ References in Text
 
 The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture.
 Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+§762. Notice to the Commission and right to be heard
+
+(a) The clerk shall give the notice required by section 342 of this title to the Commission.
+
+(b) The Commission may raise and may appear and be heard on any issue in a case under this chapter.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2618.)
+
+Historical and Revision Notes
+
+senate report no. 95–989
+
+Section 762 provides that the Commission shall be given such notice as is appropriate of an order for relief in a bankruptcy case and that the Commission may raise and may appear and may be heard on any issue in case involving a commodity broker liquidation.
+
+§763. Treatment of accounts
+
+(a) Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.
+
+(b) A member of a clearing organization shall be deemed to hold such member's proprietary account in a separate capacity from such member's customers’ account.
+
+(c) The net equity in a customer's account may not be offset against the net equity in the account of any other customer.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2618; Pub. L. 98–353, title III, §486, July 10, 1984, 98 Stat. 383.)
+
+Historical and Revision Notes
+
+senate report no. 95–989
+
+Section 763 provides for separate treatment of accounts held in separate capacities.
+A deficit in one account held for a customer may not be offset against the net equity in another account held by the same customer in a separate capacity or held by another customer.
 
 §764. Voidable transfers
 
@@ -11925,7 +12609,7 @@ The Commission is merely prevented from initiating the appeal in any capacity.
 
 (i) an aircraft, aircraft engine, propeller, appliance, or spare part (as defined in section 40102 of title 49) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that, at the time such transaction is entered into, holds an air carrier operating certificate issued pursuant to chapter 447 of title 49 for aircraft capable of carrying 10 or more individuals or 6,000 pounds or more of cargo; or
 
-(ii) a documented vessel (as defined in section 30101(1) of title 46) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that is a water carrier that, at the time such transaction is entered into, holds a certificate of public convenience and necessity or permit issued by the Department of Transportation; and
+(ii) a vessel documented under chapter 121 of title 46 that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that is a water carrier that, at the time such transaction is entered into, holds a certificate of public convenience and necessity or permit issued by the Department of Transportation; and
 
 (B) includes all records and documents relating to such equipment that are required, under the terms of the security agreement, lease, or conditional sale contract, to be surrendered or returned by the debtor in connection with the surrender or return of such equipment.
 
@@ -11943,7 +12627,7 @@ The Commission is merely prevented from initiating the appeal in any capacity.
 
 (2) the term “security interest” means a purchase-money equipment security interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 103–272, §5(c), July 5, 1994, 108 Stat. 1373; Pub. L. 103–394, title II, §201(a), Oct. 22, 1994, 108 Stat. 4119; Pub. L. 106–181, title VII, §744(b), Apr. 5, 2000, 114 Stat. 177.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 103–272, §5(c), July 5, 1994, 108 Stat. 1373; Pub. L. 103–394, title II, §201(a), Oct. 22, 1994, 108 Stat. 4119; Pub. L. 106–181, title VII, §744(b), Apr. 5, 2000, 114 Stat. 177; Pub. L. 109–304, §17(b)(2), Oct. 6, 2006, 120 Stat. 1707.)
 
 Historical and Revision Notes
 
@@ -14373,6 +15057,62 @@ Codification
 
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding section 1201 of this title.
 
+§1207. Property of the estate
+
+(a) Property of the estate includes, in addition to the property specified in section 541 of this title—
+
+(1) all property of the kind specified in such section that the debtor acquires after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7 of this title, whichever occurs first; and
+
+(2) earnings from services performed by the debtor after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7 of this title, whichever occurs first.
+
+(b) Except as provided in section 1204, a confirmed plan, or an order confirming a plan, the debtor shall remain in possession of all property of the estate.
+
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §1001(a)(1), Apr. 20, 2005, 119 Stat. 185.)
+
+Codification
+
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding section 1201 of this title.
+
+§1208. Conversion or dismissal
+
+(a) The debtor may convert a case under this chapter to a case under chapter 7 of this title at any time.
+Any waiver of the right to convert under this subsection is unenforceable.
+
+(b) On request of the debtor at any time, if the case has not been converted under section 706 or 1112 of this title, the court shall dismiss a case under this chapter.
+Any waiver of the right to dismiss under this subsection is unenforceable.
+
+(c) On request of a party in interest, and after notice and a hearing, the court may dismiss a case under this chapter for cause, including—
+
+(1) unreasonable delay, or gross mismanagement, by the debtor that is prejudicial to creditors;
+
+(2) nonpayment of any fees and charges required under chapter 123 of title 28;
+
+(3) failure to file a plan timely under section 1221 of this title;
+
+(4) failure to commence making timely payments required by a confirmed plan;
+
+(5) denial of confirmation of a plan under section 1225 of this title and denial of a request made for additional time for filing another plan or a modification of a plan;
+
+(6) material default by the debtor with respect to a term of a confirmed plan;
+
+(7) revocation of the order of confirmation under section 1230 of this title, and denial of confirmation of a modified plan under section 1229 of this title;
+
+(8) termination of a confirmed plan by reason of the occurrence of a condition specified in the plan;
+
+(9) continuing loss to or diminution of the estate and absence of a reasonable likelihood of rehabilitation; and
+
+(10) failure of the debtor to pay any domestic support obligation that first becomes payable after the date of the filing of the petition.
+
+(d) On request of a party in interest, and after notice and a hearing, the court may dismiss a case under this chapter or convert a case under this chapter to a case under chapter 7 of this title upon a showing that the debtor has committed fraud in connection with the case.
+
+(e) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
+
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §213(2), title X, §1001(a)(1), Apr. 20, 2005, 119 Stat. 52, 185.)
+
+Codification
+
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding section 1201 of this title.
+
 SUBCHAPTER II—THE PLAN
 
 §1221. Filing of plan
@@ -14655,72 +15395,6 @@ In the event of an actual controversy, the court may declare such effects after 
 Codification
 
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding section 1201 of this title.
-
-CHAPTER 13—ADJUSTMENT OF DEBTS OF AN INDIVIDUAL WITH REGULAR INCOME
-
-SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE
-
-Sec.
-
-1301.
-Stay of action against codebtor.
-
-1302.
-Trustee.
-
-1303.
-Rights and powers of debtor.
-
-1304.
-Debtor engaged in business.
-
-1305.
-Filing and allowance of postpetition claims.
-
-1306.
-Property of the estate.
-
-1307.
-Conversion or dismissal.
-
-1308.
-Filing of prepetition tax returns.
-
-        
-
-SUBCHAPTER II—THE PLAN
-
-1321.
-Filing of plan.
-
-1322.
-Contents of plan.
-
-1323.
-Modification of plan before confirmation.
-
-1324.
-Confirmation hearing.
-
-1325.
-Confirmation of plan.
-
-1326.
-Payments.
-
-1327.
-Effect of confirmation.
-
-1328.
-Discharge.
-
-1329.
-Modification of plan after confirmation.
-
-1330.
-Revocation of an order of confirmation.
-
-        
 
 SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE
 
@@ -15202,6 +15876,10 @@ Subsection (b) permits a chapter 13 plan to (1) divide unsecured claims not enti
 
 Subsection (c) limits the payment period under the plan to 3 years, except that a 4–year payment period may be permitted by the court.
 
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (d) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+
 §1323. Modification of plan before confirmation
 
 (a) The debtor may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of section 1322 of this title.
@@ -15296,7 +15974,7 @@ For purposes of paragraph (5), section 506 shall not apply to a claim described 
 
 (B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
 
-(3) Amounts reasonably necessary to be expended under paragraph (2) shall be determined in accordance with subparagraphs (A) and (B) of section 707(b)(2), if the debtor has current monthly income, when multiplied by 12, greater than—
+(3) Amounts reasonably necessary to be expended under paragraph (2), other than subparagraph (A)(ii) of paragraph (2), shall be determined in accordance with subparagraphs (A) and (B) of section 707(b)(2), if the debtor has current monthly income, when multiplied by 12, greater than—
 
 (A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
 
@@ -15322,7 +16000,7 @@ For purposes of paragraph (5), section 506 shall not apply to a claim described 
 
 (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129; Pub. L. 109–439, §2, Dec. 20, 2006, 120 Stat. 3285.)
 
 Historical and Revision Notes
 
@@ -15340,6 +16018,10 @@ The bankruptcy court must confirm a plan if (1) the plan satisfies the provision
 
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee.
 Any governmental unit is an entity subject to such an order.
+
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 1 So in original.
 Probably should be followed by a second closing parenthesis.
@@ -15402,6 +16084,10 @@ Subsection (b) makes it clear that the chapter 13 trustee is normally to make di
 house report no. 95–595
 
 Subsection (a) requires that before or at the time of each payment any outstanding administrative expenses [and] any percentage fee due for a private standing chapter 13 trustee be paid in full.
+
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b)(3) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
 
 §1327. Effect of confirmation
 

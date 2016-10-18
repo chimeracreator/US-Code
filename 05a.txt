@@ -707,7 +707,7 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (m) President's Council on Physical Fitness and Sports; Executive Order 13265 (Department of Health and Human Services) [42 U.S.C. 300u note].
 
-(n) President's Export Council; Executive Order 12131, as amended (Department of Commerce) [50 App. U.S.C. 2401 note].
+(n) President's Export Council; Executive Order 12131, as amended (Department of Commerce) [50 U.S.C. App. 2401 note].
 
 (o) President's National Security Telecommunications Advisory Committee; Executive Order 12382, as amended (Department of Homeland Security) [47 U.S.C. 901 note].
 
@@ -819,13 +819,17 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 
 INSPECTOR GENERAL ACT OF 1978
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242
 
 §1. Short title
 
 This Act be cited as the “Inspector General Act of 1978”.
 
 (Pub. L. 95–452, §1, Oct. 12, 1978, 92 Stat. 1101.)
+
+Short Title of 2006 Amendment
+
+Pub. L. 109–440, §1, Dec. 20, 2006, 120 Stat. 3286, provided that: “This Act [amending provisions set out as a note under section 8G of Pub. L. 95–452, set out in this Appendix] may be cited as the ‘Iraq Reconstruction Accountability Act of 2006’.”
 
 Short Title of 1998 Amendment
 
@@ -1305,7 +1309,9 @@ Pub. L. 107–296, title VIII, §812(b), Nov. 25, 2002, 116 Stat. 2223, provided
 
 Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Establishment of Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory
 
@@ -1475,7 +1481,7 @@ A prior section 8C of the Inspector General Act of 1978 was renumbered section 8
 
 (E) intelligence or counterintelligence matters; or
 
-(F) other matters the disclosure of which would constitute a serious threat to national security or to the protection of any person or property authorized protection by section 3056 of title 18, United States Code, section 202 of title 3, United States Code, or any provision of the Presidential Protection Assistance Act of 1976 (18 U.S.C. 3056 note; Public Law 94–524).
+(F) other matters the disclosure of which would constitute a serious threat to national security or to the protection of any person or property authorized protection by section 3056 of title 18, United States Code, section 3056A of title 18, United States Code, or any provision of the Presidential Protection Assistance Act of 1976 (18 U.S.C. 3056 note; Public Law 94–524).
 
 (2) With respect to the information described under paragraph (1), the Secretary of the Treasury may prohibit the Inspector General of the Department of the Treasury from carrying out or completing any audit or investigation, or from issuing any subpena, after such Inspector General has decided to initiate, carry out, or complete such audit or investigation or to issue such subpena, if the Secretary determines that such prohibition is necessary to prevent the disclosure of any information described under paragraph (1) or to prevent significant impairment to the national interests of the United States.
 
@@ -1552,7 +1558,7 @@ If the Treasury Inspector General for Tax Administration determines not to condu
 
 (C) This paragraph applies regardless of whether the applicable audit or investigation is requested under paragraph (1).
 
-(Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered §8D, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, §1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, §1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, §104(c)(2), Feb. 20, 2003, 117 Stat. 531.)
+(Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered §8D, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, §1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, §1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, §104(c)(2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 109–177, title VI, §605(e)(3), Mar. 9, 2006, 120 Stat. 255.)
 
 References in Text
 
@@ -1709,7 +1715,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (F) any entity in the judicial or legislative branches of the Government, including the Administrative Office of the United States Courts and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol;
 
-(2) the term “designated Federal entity” means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System, the Board for International Broadcasting, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Labor Relations Board, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, and the United States Postal Service;
+(2) the term “designated Federal entity” means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System, the Board for International Broadcasting, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Labor Relations Board, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, the Postal Regulatory Commission, and the United States Postal Service;
 
 (3) the term “head of the Federal entity” means any person or persons designated by statute as the head of a Federal entity, and if no such designation exists, the chief policymaking officer or board of a Federal entity as identified in the list published pursuant to subsection (h)(1) of this section;
 
@@ -1788,11 +1794,23 @@ Within 30 days after receipt of any such notice, the Inspector General shall tra
 
 (C) summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
 
-(Pub. L. 95–452, §8G, formerly §8E, as added Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, §702(c), Aug. 9, 1989, 103 Stat. 415; renumbered §8F and amended Pub. L. 103–82, title II, §202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8G and amended Pub. L. 103–204, §23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, §1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 95–452, §8G, formerly §8E, as added Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, §702(c), Aug. 9, 1989, 103 Stat. 415; renumbered §8F and amended Pub. L. 103–82, title II, §202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8G and amended Pub. L. 103–204, §23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, §1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242.)
 
 Amendment of Subsection (a)(2)
 
 Pub. L. 105–134, title IV, §409(a), Dec. 2, 1997, 111 Stat. 2586, provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking “Amtrak,”.
+
+Amendment of Subsection (f)
+
+Pub. L. 109–435, title VI, §603(b), (d), Dec. 20, 2006, 120 Stat. 3240, 3241, provided that, applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subsection (f) of this section is amended—
+
+(1) by redesignating paragraph (4) as paragraph (5);
+
+(2) by redesignating the second paragraph (3) (relating to employees and labor organizations) as paragraph (4); and
+
+(3) by adding at the end the following:
+
+(6) There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Office of Inspector General of the United States Postal Service.
 
 References in Text
 
@@ -1809,11 +1827,27 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+Effective Date of 2006 Amendment; Savings Provision
+
+Pub. L. 109–435, title VI, §603(d), Dec. 20, 2006, 120 Stat. 3241, provided that:
+
+“(1) In general.—The amendments made by this section [amending this section and sections 504, 2003, and 2009 of Title 39, Postal Service] shall apply with respect to fiscal years beginning on or after October 1, 2008.
+
+“(2) Savings provision.—The provisions of title 39, United States Code, and the Inspector General Act of 1978 (5 U.S.C. App.) that are amended by this section shall, for purposes of any fiscal year before the first fiscal year to which the amendments made by this section apply, continue to apply in the same way as if this section had never been enacted.”
+
 Effective Date
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
 
-Inspector General of EPA as Inspector General of Chemical Safety and Hazard Investigation Board
+Deadline Relating to Postal Regulatory Commission
+
+Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided that: “No later than 180 days after the date of the enactment of this Act [Dec. 20, 2006]—
+
+“(1) the first Inspector General of the Postal Regulatory Commission shall be appointed; and
+
+“(2) the Office of Inspector General of the Postal Regulatory Commission shall be established.”
+
+Inspector General of Chemical Safety and Hazard Investigation Board
 
 Pub. L. 109–54, title III, Aug. 2, 2005, 119 Stat. 543, provided in part: “That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: Provided further, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
 
@@ -1823,11 +1857,29 @@ Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3322.
 
 Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 399.
 
+Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, provided in part: “That, hereafter, there shall be an Inspector General at the [Chemical Safety and Hazard Investigation] Board who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978, as amended [Pub. L. 95–452, set out in this Appendix]: Provided further, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: Provided further, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
+
+[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.]
+
+[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 106–377, §1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–36.
+
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 515, provided in part: “That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall hereafter also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board.”
+
+Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 688.
+
+Pub. L. 106–377, §1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–46.
+
 Special Inspector General for Iraq Reconstruction
 
 Pub. L. 108–375, div. A, title XII, §1203(b), Oct. 28, 2004, 118 Stat. 2079, provided that: “The individual serving as the Inspector General of the Coalition Provisional Authority as of the date of the enactment of this Act [Oct. 28, 2004] may continue to serve in that position after that date without reappointment under paragraph (1) of section 3001(c) of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 [Pub. L. 108–106, set out below], but remaining subject to removal as specified in paragraph (4) of that section.”
 
-Pub. L. 108–106, title III, §3001, Nov. 6, 2003, 117 Stat. 1234, as amended by Pub. L. 108–375, div. A, title XII, §1203(a)(1)–(3)(A), (c)–(j), Oct. 28, 2004, 118 Stat. 2078–2081; Pub. L. 109–102, title V, §599, Nov. 14, 2005, 119 Stat. 2240, provided that:
+Pub. L. 108–106, title III, §3001, Nov. 6, 2003, 117 Stat. 1234, as amended by Pub. L. 108–375, div. A, title XII, §1203(a)(1)–(3)(A), (c)–(j), Oct. 28, 2004, 118 Stat. 2078–2081; Pub. L. 109–102, title V, §599, Nov. 14, 2005, 119 Stat. 2240; Pub. L. 109–364, div. A, title X, §§1054(b), 1071(g)(13), Oct. 17, 2006, 120 Stat. 2397, 2403; Pub. L. 109–440, §2, Dec. 20, 2006, 120 Stat. 3286, provided that:
 
 “(a) Purposes.—The purposes of this section are as follows:
 
@@ -1975,9 +2027,11 @@ The reports required under paragraph (1) or (3) of subsection (i) shall specify 
 
 “(2) The amount available under paragraph (1) shall remain available until expended.
 
-“(o) Termination.—The Office of the Inspector General shall terminate on the date that is 10 months after the date, as determined by the Secretary of State and the Secretary of Defense, on which 80 percent of the amounts appropriated or otherwise made available to the Iraq Relief and Reconstruction Fund by chapter 2 of title II of this Act [117 Stat. 1224] have been expended.”
+“(o) Termination.—(1)(A) The Office of the Inspector General shall terminate 10 months after 80 percent of the funds appropriated or otherwise made available to the Iraq Relief and Reconstruction Fund have been expended.
 
-[Pub. L. 108—375, §1203(e)(2)(B), which directed amendment of section 3001(h)(5) of Pub. L. 108—106, set out above, by substituting “within the Department of Defense or at appropriate locations of the Department of State in Iraq” for “at the central and field locations of the Coalition Provisional Authority”, was executed by making the substitution for “at the central and field office locations of the Coalition Provisional Authority”, to reflect the probable intent of Congress.]
+“(B) For purposes of calculating the termination of the Office of the Inspector General under this subsection, any United States funds appropriated or otherwise made available for fiscal year 2006 for the reconstruction of Iraq, irrespective of the designation of such funds, shall be deemed to be amounts appropriated or otherwise made available to the Iraq Relief and Reconstruction Fund.
+
+“(2) The Special Inspector General for Iraq Reconstruction shall, prior to the termination of the Office of the Special Inspector General under paragraph (1), prepare a final forensic audit report on all funds deemed to be amounts appropriated or otherwise made available to the Iraq Relief and Reconstruction Fund.”
 
 Tennessee Valley Authority; Findings
 
@@ -1986,24 +2040,6 @@ Pub. L. 106–422, §1(a), Nov. 1, 2000, 114 Stat. 1872, provided that: “Congr
 “(1) Inspectors General serve an important function in preventing and eliminating fraud, waste, and abuse in the Federal Government; and
 
 “(2) independence is vital for an Inspector General to function effectively.”
-
-Inspector General of FEMA as Inspector General of Chemical Safety and Hazard Investigation Board
-
-Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, provided in part: “That, hereafter, there shall be an Inspector General at the [Chemical Safety and Hazard Investigation] Board who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978, as amended [Pub. L. 95–452, set out in this Appendix]: Provided further, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: Provided further, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
-
-[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
-
-Similar provisions were contained in the following prior appropriations act:
-
-Pub. L. 106–377, §1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–36.
-
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 515, provided in part: “That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall hereafter also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board.”
-
-Similar provisions were contained in the following prior appropriations acts:
-
-Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 688.
-
-Pub. L. 106–377, §1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–46.
 
 Amtrak Not Federal Entity; Federal Subsidy
 
@@ -2128,7 +2164,7 @@ Pub. L. 105–272, title VII, §701(b), Oct. 20, 1998, 112 Stat. 2413, provided 
 
 (D) the identity of confidential sources, including protected witnesses;
 
-(E) other matters the disclosure of which would, in the Secretary's judgment, constitute a serious threat to the protection of any person or property authorized protection by section 3056 of title 18, United States Code, section 202 of title 3 of such Code, or any provision of the Presidential Protection Assistance Act of 1976 (18 U.S.C. 3056 note); or
+(E) other matters the disclosure of which would, in the Secretary's judgment, constitute a serious threat to the protection of any person or property authorized protection by section 3056 of title 18, United States Code, section 3056A of title 18 of such Code, or any provision of the Presidential Protection Assistance Act of 1976 (18 U.S.C. 3056 note); or
 
 (F) other matters the disclosure of which would constitute a serious threat to national security.
 
@@ -2180,7 +2216,7 @@ The head of each such office or bureau shall promptly report to the Inspector Ge
 
 (I) inform the Officer for Civil Rights and Civil Liberties of any weaknesses, problems, and deficiencies within the Department relating to civil rights or civil liberties.
 
-(Pub. L. 95–452, §8I, as added Pub. L. 108–7, div. L, §104(b)(3), Feb. 20, 2003, 117 Stat. 529; amended Pub. L. 108–458, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3868.)
+(Pub. L. 95–452, §8I, as added Pub. L. 108–7, div. L, §104(b)(3), Feb. 20, 2003, 117 Stat. 529; amended Pub. L. 108–458, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3868; Pub. L. 109–177, title VI, §605(e)(4), Mar. 9, 2006, 120 Stat. 255.)
 
 References in Text
 
@@ -2218,6 +2254,8 @@ If the Director of National Intelligence determines that an Office of Inspector 
 (Pub. L. 95–452, §8K, as added Pub. L. 108–458, title I, §1078, Dec. 17, 2004, 118 Stat. 3695.)
 
 Effective Date
+
+For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
 
@@ -2315,7 +2353,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Termination of Office of Chief Inspector
 
@@ -2341,15 +2381,17 @@ The Inspector General of the Department of Defense shall fill such positions wit
 1 So in original.
 The word “and” at end of subpar. (U) probably should appear at end of subpar. (V).
 
-§10. Conforming and technical amendments
+§10. Omitted
 
-[Section amended sections 5315 and 5316 of Title 5, Government Organization and Employees, and section 3522 of Title 42, The Public Health and Welfare, which amendments have been executed to text.]
+Codification
+
+Section, Pub. L. 95–452, §10, Oct. 12, 1978, 92 Stat. 1108, amended sections 5315 and 5316 of Title 5, Government Organization and Employees, and section 3522 of Title 42, The Public Health and Welfare, which amendments have been executed to text.
 
 §11. Definitions
 
 As used in this Act—
 
-(1) the term “head of the establishment” means the Secretary of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Labor, State, Transportation, Homeland Security, or the Treasury; the Attorney General; the Administrator of the Agency for International Development, Environmental Protection, General Services, National Aeronautics and Space, Small Business, or Veterans’ Affairs; the Director of the Federal Emergency Management Agency, or the Office of Personnel Management; the Chairman of the Nuclear Regulatory Commission or the Railroad Retirement Board; the Chairperson of the Thrift Depositor Protection Oversight Board; the Chief Executive Officer of the Corporation for National and Community Service; the Administrator of the Community Development Financial Institutions Fund; the chief executive officer of the Resolution Trust Corporation; the Chairperson of the Federal Deposit Insurance Corporation; the Commissioner of Social Security, Social Security Administration; the Board of Directors of the Tennessee Valley Authority; or the President of the Export-Import Bank; as the case may be;
+(1) the term “head of the establishment” means the Secretary of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Labor, State, Transportation, Homeland Security, or the Treasury; the Attorney General; the Administrator of the Agency for International Development, Environmental Protection, General Services, National Aeronautics and Space, Small Business, or Veterans’ Affairs; the Administrator of the Federal Emergency Management Agency, or the Office of Personnel Management; the Chairman of the Nuclear Regulatory Commission or the Railroad Retirement Board; the Chairperson of the Thrift Depositor Protection Oversight Board; the Chief Executive Officer of the Corporation for National and Community Service; the Administrator of the Community Development Financial Institutions Fund; the chief executive officer of the Resolution Trust Corporation; the Chairperson of the Federal Deposit Insurance Corporation; the Commissioner of Social Security, Social Security Administration; the Board of Directors of the Tennessee Valley Authority; or the President of the Export-Import Bank; as the case may be;
 
 (2) the term “establishment” means the Department of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Justice, Labor, State, Transportation, Homeland Security, or the Treasury; the Agency for International Development, the Community Development Financial Institutions Fund, the Environmental Protection Agency, the Federal Emergency Management Agency, the General Services Administration, the National Aeronautics and Space Administration, the Nuclear Regulatory Commission, the Office of Personnel Management, the Railroad Retirement Board, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Small Business Administration, the Corporation for National and Community Service, the Veterans’ Administration, the Social Security Administration, the Tennessee Valley Authority, or the Export-Import Bank, as the case may be;
 
@@ -2359,7 +2401,7 @@ As used in this Act—
 
 (5) the term “Federal agency” means an agency as defined in section 552(f) of title 5 (including an establishment as defined in paragraph (2)), United States Code, but shall not be construed to include the Government Accountability Office.
 
-(Pub. L. 95–452, §11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, §509(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, §705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 750; Pub. L. 99–93, title I, §150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, §13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, §23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, §1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, §22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, §1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 95–452, §11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, §509(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, §705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 750; Pub. L. 99–93, title I, §150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, §13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, §23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, §1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, §22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, §1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 Codification
 
@@ -2367,11 +2409,16 @@ Amendment by Pub. L. 100–527 amended section as it existed prior to amendment 
 
 Change of Name
 
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par. (1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.
+Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
 References to Administrator of Veterans’ Affairs and to Veterans’ Administration deemed to refer to Secretary of Veterans Affairs and to Department of Veterans Affairs, respectively, pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
 Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Community Services Administration
 
@@ -2401,7 +2448,7 @@ The provisions of this Act and the amendments made by this Act [see section 10 o
 
 ETHICS IN GOVERNMENT ACT OF 1978
 
-Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572
+Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 109–435, title VI, §604(c), Dec. 20, 2006, 120 Stat. 3241
 
 TITLE I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL
 
@@ -2464,7 +2511,7 @@ Rules and regulations.
 Authorization of appropriations.
 
 406.
-Annual pay.
+Omitted.
 
 407.
 Annual pay of Director.
@@ -2526,7 +2573,7 @@ Nothing in this Act shall prevent any Congressional committee from requesting, a
 
 (5) any employee not described in paragraph (3) who is in a position in the executive branch which is excepted from the competitive service by reason of being of a confidential or policymaking character, except that the Director of the Office of Government Ethics may, by regulation, exclude from the application of this paragraph any individual, or group of individuals, who are in such positions, but only in cases in which the Director determines such exclusion would not affect adversely the integrity of the Government or the public's confidence in the integrity of the Government;
 
-(6) the Postmaster General, the Deputy Postmaster General, each Governor of the Board of Governors of the United States Postal Service and each officer or employee of the United States Postal Service or Postal Rate Commission who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule;
+(6) the Postmaster General, the Deputy Postmaster General, each Governor of the Board of Governors of the United States Postal Service and each officer or employee of the United States Postal Service or Postal Regulatory Commission who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule;
 
 (7) the Director of the Office of Government Ethics and each designated agency ethics official;
 
@@ -2566,7 +2613,7 @@ Nothing in this Act shall prevent any Congressional committee from requesting, a
 
 (4) public financial disclosure by such individual is not necessary in the circumstances.
 
-(Pub. L. 95–521, title I, §101, Oct. 26, 1978, 92 Stat. 1824; Pub. L. 96–19, §§2(a)(1), (b), (c)(1), 4(b)(1), (d)–(f), 5, June 13, 1979, 93 Stat. 37, 38, 40; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1725; Pub. L. 101–280, §3(1), (2), May 4, 1990, 104 Stat. 152; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–378, §4(a)(1), Oct. 2, 1992, 106 Stat. 1356.)
+(Pub. L. 95–521, title I, §101, Oct. 26, 1978, 92 Stat. 1824; Pub. L. 96–19, §§2(a)(1), (b), (c)(1), 4(b)(1), (d)–(f), 5, June 13, 1979, 93 Stat. 37, 38, 40; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1725; Pub. L. 101–280, §3(1), (2), May 4, 1990, 104 Stat. 152; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–378, §4(a)(1), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 109–435, title VI, §604(c), Dec. 20, 2006, 120 Stat. 3241.)
 
 References in Text
 
@@ -3112,6 +3159,32 @@ Codification
 
 Section was formerly classified to section 706 of Title 2, The Congress.
 
+§107. Confidential reports and other additional requirements
+
+(a)(1) Each supervising ethics office may require officers and employees under its jurisdiction (including special Government employees as defined in section 202 of title 18, United States Code) to file confidential financial disclosure reports, in such form as the supervising ethics office may prescribe.
+The information required to be reported under this subsection by the officers and employees of any department or agency shall be set forth in rules or regulations prescribed by the supervising ethics office, and may be less extensive than otherwise required by this title, or more extensive when determined by the supervising ethics office to be necessary and appropriate in light of sections 202 through 209 of title 18, United States Code, regulations promulgated thereunder, or the authorized activities of such officers or employees.
+Any individual required to file a report pursuant to section 101 shall not be required to file a confidential report pursuant to this subsection, except with respect to information which is more extensive than information otherwise required by this title.
+Subsections (a), (b), and (d) of section 105 shall not apply with respect to any such report.
+
+(2) Any information required to be provided by an individual under this subsection shall be confidential and shall not be disclosed to the public.
+
+(3) Nothing in this subsection exempts any individual otherwise covered by the requirement to file a public financial disclosure report under this title from such requirement.
+
+(b) The provisions of this title requiring the reporting of information shall supersede any general requirement under any other provision of law or regulation with respect to the reporting of information required for purposes of preventing conflicts of interest or apparent conflicts of interest.
+Such provisions of this title shall not supersede the requirements of section 7342 of title 5, United States Code.
+
+(c) Nothing in this Act requiring reporting of information shall be deemed to authorize the receipt of income, gifts, or reimbursements; the holding of assets, liabilities, or positions; or the participation in transactions that are prohibited by law, Executive order, rule, or regulation.
+
+(Pub. L. 95–521, title I, §107, Oct. 26, 1978, 92 Stat. 1834; Pub. L. 96–19, §9(d), (g), June 13, 1979, 93 Stat. 42, 43; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1740.)
+
+References in Text
+
+This Act, referred to in subsec. (c), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended, known as the Ethics in Government Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this Appendix and Tables.
+
+Codification
+
+Section was formerly classified to section 707 of Title 2, The Congress.
+
 §108. Authority of Comptroller General
 
 (a) The Comptroller General shall have access to financial disclosure reports filed under this title for the purposes of carrying out his statutory responsibilities.
@@ -3516,9 +3589,11 @@ There are authorized to be appropriated to carry out this title such sums as may
 
 (Pub. L. 95–521, title IV, §405, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, §12, Nov. 11, 1983, 97 Stat. 963; Pub. L. 100–598, §2, Nov. 3, 1988, 102 Stat. 3031; Pub. L. 101–334, §2, July 16, 1990, 104 Stat. 318; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 104–179, §3, Aug. 6, 1996, 110 Stat. 1566; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382.)
 
-§406. Annual pay
+§406. Omitted
 
-[Section amended section 5316 of Title 5, Government Organization and Employees.]
+Codification
+
+Section, Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864, amended section 5316 of Title 5, Government Organization and Employees.
 
 §407. Annual pay of Director
 
@@ -5468,7 +5543,7 @@ Section 101. Functions of the Alien Property Custodian
 
 (a) Except as provided by subsection (b) of this section, all functions vested by law in the Alien Property Custodian or the Office of Alien Property Custodian are transferred to the Attorney General and shall be performed by him or, subject to his direction and control, by such officers and agencies of the Department of Justice as he may designate.
 
-(b) The functions vested by law in the Alien Property Custodian or the Office of Alien Property Custodian with respect to property or interests located in the Philippines or which were so located at the time of vesting in or transfer to an officer or agency of the United States under the Trading With the Enemy Act, as amended [50 App. U.S.C. 1 et seq.], are transferred to the President and shall be performed by him or, subject to his direction and control, by such officers and agencies as he may designate.
+(b) The functions vested by law in the Alien Property Custodian or the Office of Alien Property Custodian with respect to property or interests located in the Philippines or which were so located at the time of vesting in or transfer to an officer or agency of the United States under the Trading With the Enemy Act, as amended [50 U.S.C. App. 1 et seq.], are transferred to the President and shall be performed by him or, subject to his direction and control, by such officers and agencies as he may designate.
 
 Sec. 102. Approval of Agricultural Marketing Orders
 
@@ -6031,72 +6106,8 @@ Plan No. 5 of 1949, 14 F.R. 5227, 63 Stat. 1067, which related to the Civil Serv
 
 REORGANIZATION PLAN NO. 6 OF 1949
 
-Eff.
-Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1069
-
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 20, 1949, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see 5 U.S.C. 901 et seq.].
-
-UNITED STATES MARITIME COMMISSION
-
-Section 1. Administration of Functions of Commission
-
-The Chairman of the United States Maritime Commission shall be the chief executive and administrative officer of the United States Maritime Commission.
-In executing and administering on behalf of the Commission its functions (exclusive of functions transferred by the provisions of section 2 of this reorganization plan) the Chairman shall be governed by the policies, regulatory decisions, findings, and determinations of the Commission.
-
-Sec. 2. Transfer of Functions
-
-There are hereby transferred from the United States Maritime Commission to the Chairman of the Commission the functions of the Commission with respect to (1) the appointment and supervision of all personnel employed under the Commission, (2) the distribution of business among such personnel and among organizational units of the Commission, and (3) the use and expenditure of funds for administrative purposes: Provided, That the provisions of this section do not extend to personnel employed regularly and full time in the offices of members of the Commission other than the Chairman: Provided further, That the heads of the major administrative units shall be appointed by the Chairman only after consultation with the other members of the Commission.
-
-Sec. 3. Performance of Transferred Functions
-
-The functions of the Chairman under the provisions of this reorganization plan shall be performed by him or, subject to his supervision and direction, by such officers and employees under his jurisdiction as he shall designate.
-
-Message of the President
-
-To the Congress of the United States:
-
-I transmit herewith Reorganization Plan No. 6 of 1949, prepared in accordance with the Reorganization Act of 1949. This plan is designed to strengthen the administration of the United States Maritime Commission by making the Chairman and the chief executive and administrative officer of the Commission and vesting in him responsibility for the appointment of its personnel and the supervision and direction of their activities.
-After investigation, I have found and hereby declare that each reorganization included in this plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
-
-Unlike other major regulatory commissions, the Maritime Commission is responsible not only for the performance of important regulatory functions but also for the administration of large and complex operating and promotional programs.
-Whereas the budgets of most regulatory agencies amount to only a few million dollars annually, the expenditures of the Maritime Commission exceed $130,000,000 a year.
-As a result of the war the Commission is the owner of a fleet of over 2,300 ships, aggregating more than 23,000,000 dead-weight tons.
-
-While it is the policy of the Government, as set forth by the Merchant Marine Act of 1936 and the Merchant Ship Sales Act of 1946, to develop and maintain an adequate and effective merchant marine under private ownership, the Commission is still confronted with the necessity of carrying on substantial programs for the charter and sale of Government-owned vessels and with the continuing task of maintaining the reserve merchant fleet.
-
-Apart from its functions with respect to the war-built fleet, the accomplishment of the Government's permanent objective with respect to the development of the American merchant marine inevitably involves the Commission to a wide variety of activities.
-Among these are the regulation of rates and competitive practices of water carriers, the determination of essential trade routes and services, the award of subsidies to offset differences between American and foreign costs, the design and construction of ships, the inspection of subsidized vessels, and the training of seamen.
-
-In the last 2 years the operation of the Maritime Commission has been subjected to independent examination by three bodies—the President's Advisory Committee on the Merchant Marine, the Senate Committee on Expenditures in the Executive Departments, and the Commission on Organization of the Executive Branch of the Government.
-All of these studies have pointed to difficulties in the conduct of the Commission's business and the necessity of improved organization to strengthen the administration of the agencies.
-The remedies proposed have differed in some respects, but all the studies have emphasized the need of concentrating in a single official the management of a large part of the agency's work.
-
-During the war such a concentration was temporarily accomplished by Executive order under the authority of the First War Powers Act.
-In effect, the Chairman of the Commission, as War Shipping Administrator, was made directly responsible for the administration of several major operating programs of the Commission.
-This arrangement proved its value under the stress of war.
-About a year after the end of the fighting, however, it was terminated and the organization reverted to the prewar pattern.
-
-As a result of postwar experience, the Commission appointed a general manager in 1948. While this has brought considerable improvement, it has not extricated the Commission from administration to the degree which is desirable.
-
-After careful consideration of the problems involved in improving the operation of the Maritime Commission, I have concluded that the proper action at this time is to concentrate in the Chairman the responsibility for the internal administration of the agency.
-This is achieved by the proposed reorganization plan by transferring to the Chairman the appointment of the personnel of the agency, except for the immediate assistants of the Commissioners, and the supervision and direction of their work.
-This is substantially the arrangement recommended for regulatory commissions by the Commission on Organization of the Executive Branch of the Government.
-
-Such a plan of organization has many advantages.
-It leaves in the Commission as a body the performance of regulatory functions, the determination of subsidies, and the determination of major policies.
-Thus, it utilizes the Commission for the type of work for which such a body is best adapted.
-At the same time the plan places under a single official the day-to-day direction of the work of the staff within the policies and determinations adopted by the Commission in the exercise of its functions.
-This will provide more businesslike administration and help to overcome the delays, backlogs, and operating difficulties which have hampered the agency.
-At the same time by freeing the members of the Commission of much detail, the plan will enable them to concentrate on major questions of policy and program and thereby will obtain earlier and better considered resolution of the basic problems of the agency.
-
-Though the taking effect of this plan in itself may not result in substantial immediate economies, it is probable that the improved organizational arrangements will bring about, over a period of time, improved operations and substantially reduced expenditures.
-An itemization of these reductions, however, in advance if actual experience under the plan is not practicable.
-
-I am convinced that this reorganization plan will contribute importantly to the more businesslike and efficient administration of the programs of the Maritime Commission.
-
-Harry S. Truman.      
-
-The White House, June 20, 1949.
+Reorg.
+Plan No. 6 of 1949, 14 F.R. 5228, 63 Stat. 1069, which related to the United States Maritime Commission, was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 301 of Title 46, Shipping.
 
 REORGANIZATION PLAN NO. 7 OF 1949
 
@@ -6673,7 +6684,7 @@ Except as otherwise provided in section 2 of this reorganization plan, there are
 
 (1) the Act of October 13, 1949, entitled “An Act to provide for the advance planning of non-Federal public works [former 40 U.S.C. 451 et seq.],”
 
-(2) title V of the War Mobilization and Reconversion Act of 1944, 58 Stat. 791, as amended [50 App. U.S.C. 1671], and
+(2) title V of the War Mobilization and Reconversion Act of 1944, 58 Stat. 791, as amended [50 U.S.C. App. 1671], and
 
 (3) title II of the Act of October 14, 1940, entitled “An Act to expedite the provision of housing in connection with national defense, and for other purposes,” as amended [42 U.S.C. 1531–1535], together with so much of any other function of the Administrator of General Services or of the General Services Administration as is incidental to or necessary for the carrying out of the foregoing provisions of law.
 
@@ -6908,13 +6919,13 @@ REORGANIZATION PLAN NO. 21 OF 1950
 Eff.
 May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, as amended Reorg.
 Plan No. 7 of 1961, §305, eff.
-Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840; Oct. 21, 1970, Pub. L. 91–469, §37, 84 Stat. 1036
+Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840; Oct. 21, 1970, Pub. L. 91–469, §37, 84 Stat. 1036; Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 13, 1950, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see 5 U.S.C. 901 et seq.].
 
 PART I. FEDERAL MARITIME BOARD
 
-Sections 101–106. [Superseded.
+Secs. 101–106. [Superseded.
 Reorg.
 Plan No. 7 of 1961, §305, eff.
 Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840. Section 101 established the Federal Maritime Board.
@@ -6926,24 +6937,19 @@ Section 106 provided that the Board was to be an agency within the Department of
 
 PART II. MARITIME ADMINISTRATION
 
-Sec. 201. Creation of Maritime Administration
+Sec. 201. [Repealed.
+Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section related to the creation of Maritime Administration in the Department of Commerce.
+See section 109 of Title 49, Transportation.]
 
-There is hereby established in the Department of Commerce a Maritime Administration.
-
-Sec. 202 [Superseded.
+Sec. 202. [Superseded.
 Reorg.
 Plan No. 7 of 1961, §305, eff.
 Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840. Section provided for a Maritime Administrator to be at the head of the Maritime Administration, and that the Chairman of the Federal Maritime Board would be such Administrator and would perform duties prescribed by the Secretary of Commerce.]
 
-Sec. 203. Deputy Maritime Administrator
-
-There shall be in the Maritime Administration a Deputy Maritime Administrator, who shall be appointed by the Secretary of Commerce, after consultation with the Administrator, under the classified civil service, and who shall perform such duties as the Administrator shall prescribe.
-The Deputy Maritime Administrator shall be Acting Maritime Administrator during the absence or disability of the Administrator and, unless the Secretary of Commerce shall designate another person, during a vacancy in the office of Administrator: Provided, That such Deputy Administrator shall at no time sit as a member or acting member of the Federal Maritime Board.
-
-Sec. 204. Transfer of Functions
-
-Except as otherwise provided in part I of this reorganization plan, all functions of the United States Maritime Commission and of the Chairman of said Commission are hereby transferred to the Secretary of Commerce.
-The Secretary of Commerce may from time to time make such provisions as he shall deem appropriate authorizing the performance by the Maritime Administrator of any function transferred to such Secretary by the provisions of this reorganization plan.
+Secs. 203, 204. [Repealed.
+Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section 203 related to the Deputy Maritime Administrator.
+Section 204 related to transfer of functions of the United States Maritime Commission to the Secretary of Commerce.
+See section 109 of Title 49.]
 
 PART III. GENERAL PROVISIONS
 
@@ -8557,7 +8563,7 @@ There are hereby vested in the Chairman all functions of the Commission with res
 
 Sec. 4. Abolitions
 
-(a) The War Claims Commission, provided for in the War Claims Act of 1948, 62 Stat. 1240, as amended [50 App. U.S.C. 2001–2013], and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended [22 U.S.C. 1621–1627], including the offices of the members of each of the said Commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
+(a) The War Claims Commission, provided for in the War Claims Act of 1948, 62 Stat. 1240, as amended [50 U.S.C. App. 2001–2013], and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended [22 U.S.C. 1621–1627], including the offices of the members of each of the said Commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
 
 (b) The functions of the Secretary of State under the third and fourth sentences of section 3(c) of the International Claims Settlement Act of 1949, as amended [22 U.S.C. 1622(c)], are hereby abolished.
 
@@ -9124,7 +9130,7 @@ The White House, June 12, 1961.
 REORGANIZATION PLAN NO. 7 OF 1961
 
 Eff.
-Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, as amended Pub. L. 88–426, title III, §305(19), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–469, §38, Oct. 21, 1970, 84 Stat. 1036; Pub. L. 105–258, title II, §202, Oct. 14, 1998, 112 Stat. 1915
+Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, as amended Pub. L. 88–426, title III, §305(19), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–469, §38, Oct. 21, 1970, 84 Stat. 1036; Pub. L. 105–258, title II, §202, Oct. 14, 1998, 112 Stat. 1915; Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 12, 1961, pursuant to the provisions of the Reorganization Act of 1949, 63 Stat. 203, as amended [see 5 U.S.C. 901 et seq.].
 
@@ -9132,71 +9138,19 @@ MARITIME FUNCTIONS
 
 Part I. Federal Maritime Commission
 
-Section 101. Creation of Federal Maritime Commission
-
-(a) There is hereby established a Federal Maritime Commission, hereinafter referred to as the Commission.
-
-(b) The Commission shall not be a part of any executive department or under the authority of the head of any executive department.
-
-Sec. 102. Composition of the Commission
-
-(a) The Commission shall be composed of five Commissioners, who shall be appointed by the President by and with the advice and consent of the Senate.
-Each Commissioner shall be removable by the President for inefficiency, neglect of duty, or malfeasance in office.
-
-(b) The President shall from time to time designate one of the Commissioners to be the Chairman of the Commission.
-
-(c) Of the first five Commissioners appointed hereunder, one shall be appointed for a term expiring on June 30, 1962, one for a term expiring on June 30, 1963, one for a term expiring on June 30, 1964, and two for terms expiring on June 30, 1965. Their successors shall be appointed for terms of four years, except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the Commissioner whom he succeeds.
-Not more than three of the Commissioners shall be appointed from the same political party.
-A vacancy in the office of any such Commissioner shall be filled in the same manner as the original appointment.
-
-(d) A vacancy or vacancies in the membership of Commission shall not impair the power of the Commission to execute its functions.
-The affirmative vote of a majority of the members serving on the Commission is required to dispose of any matter before the Commission. [As amended Pub. L. 88–426, title III, §305(19)(A), Aug. 14, 1964, 78 Stat. 425; Pub. L. 105–258, title II, §202, Oct. 14, 1998, 112 Stat. 1915.]
-
-[Commissioners of the Federal Maritime Commission appointed to five-year terms, appointed to vacancies only for unexpired term, and to serve until appointment and qualification of successor, see Pub. L. 89–56, set out as a Federal Maritime Commission; Term of Office; Vacancies; Continuity of Service note under section 1111 of Title 46, Appendix, Shipping.]
-
-Sec. 103. Transfer of Functions to Commission
-
-The following functions, which are now vested in the Federal Maritime Board under the provisions of Reorganization Plan No. 21 of 1950 (64 Stat. 1273), are hereby transferred from that Board to the Commission:
-
-(a) All functions under the provisions of sections 14–20, inclusive, and sections 22–33, inclusive, of the Shipping Act, 1916, as amended ([former] 46 U.S.C. 812–819 and 821–832), including such functions with respect to the regulation and control of rates, services, practices, and agreements of common carriers by water and of other persons.
-
-(b) All functions with respect of the regulation and control of rates, fares, charges, classifications, tariffs, regulations, and practices of common carriers by water under the provisions of the Intercoastal Shipping Act, 1933, as amended ([former] 46 U.S.C. 843–848).
-
-(c) The functions with respect to the making of rules and regulations affecting shipping in the foreign trade to adjust or meet conditions unfavorable to such shipping, and with respect to the approval, suspension, modification, or annulment of rules or regulations of other Federal agencies affecting shipping in the foreign trade, under the provisions of section 19 of the Merchant Marine Act, 1920, as amended (46 U.S.C. 876), exclusive of subsection (1)(a) thereof.
-
-(d) The functions with respect to investigating discriminatory rates, charges, classifications, and practices in the foreign trade, and with respect to recommending legislation to correct such discrimination, under the provisions of section 212(e) of the Merchant Marine Act, 1936, as amended (46 U.S.C. 1122(f)).
-
-(e) To the extent that they relate to functions transferred to the Commission by the foregoing provisions of this section:
-
-(1) The functions with respect to requiring the filing of reports, accounts, records, rates, charges, and memoranda, under the provisions of section 21 of the Shipping Act, 1916, as amended ([former] 46 U.S.C. 820).
-
-(2) The functions with respect to adopting rules and regulations, making reports and recommendations to Congress, subpoenaing witnesses, administering oaths, taking evidence, and requiring the production of books, papers, and documents, under the provisions of sections 204, 208, and 214 of the Merchant Marine Act, 1936, as amended (46 U.S.C. 1114, 1118, and 1124).
-
-Sec. 104. Transfer of Functions to Chairman
-
-There are hereby transferred to the Chairman of the Commission:
-
-(a) The functions of the Chairman of the Federal Maritime Board, including his functions derived from the provisions of Reorganization Plan No. 6 of 1949, to the extent that they relate to the functions transferred to the Commission by the provisions of section 103 of this reorganization plan.
-
-(b) The functions of the Secretary of Commerce to the extent that they are necessary for, or incidental to, the administration of the functions transferred to the Commission by the provisions of section 103 of this reorganization plan.
-
-Sec. 105. Authority To Delegate
-
-(a) The Commission shall have the authority to delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, a hearing examiner, or an employee or employee board, including functions with respect to hearing, determining, ordering, certifying, reporting or otherwise acting as to any work, business, or matter: Provided, however, That nothing herein contained shall be deemed to supersede the provisions of sections 7(a) of the Administrative Procedure Act (60 Stat. 241), as amended [see 5 U.S.C. 556].
-
-(b) With respect to the delegation of any of its functions, as provided in subsection (a) of this section, the Commission shall retain a discretionary right to review the action of any such division of the Commission, individual Commissioner, hearing examiner, employee or employee board, upon its own initiative or upon petition of a party to or an intervenor in such action, within such time and in such manner as the Commission shall by rule prescribe: Provided, however, That the vote of a majority of the Commission less one member thereof shall be sufficient to bring any such action before the Commission for review.
-
-(c) Should the right to exercise such discretionary review be declined, or should no such review be sought within the time stated in the rules promulgated by the Commission, then the action of any such division of the Commission, individual Commissioner, hearing examiner, employee or employee board, shall, for all purposes, including appeal or review thereof, be deemed to be the action of the Commission.
-
-(d) There are hereby transferred to the Chairman of the Commission the functions with respect to the assignment of Commission personnel, including Commissioners, to perform such functions as may have been delegated by the Commission to Commission personnel, including Commissioners, pursuant to the foregoing subsections of this section.
+Secs. 101–105. [Repealed.
+Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section 101 related to creation of Federal Maritime Commission.
+Section 102 related to composition of the Commission.
+Section 103 related to transfer of functions to Commission.
+Section 104 related to transfer of functions to Chairman.
+Section 105 related to authority to delegate.
+See sections 301 et seq. of Title 46, Shipping.]
 
 Part II. Department of Commerce
 
-Section 201. Maritime Administrator
-
-There shall be at the head of the Maritime Administration (established by the provisions of Part II of Reorganization Plan No. 21 of 1950) a Maritime Administrator, hereinafter referred to as the Administrator.
-The Assistant Secretary of Commerce for Maritime Affairs shall, ex officio, be the Administrator.
-The Administrator shall perform such duties as the Secretary of Commerce shall prescribe. [As amended Pub. L. 88–426, title III, §305(19)(B), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–469, §38(a), Oct. 21, 1970, 84 Stat. 1036.]
+Sec. 201. [Repealed.
+Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section related to the Maritime Administrator's function as head of the Maritime Administration.
+See section 109 of Title 49, Transportation.]
 
 Sec. 202. Functions of Secretary of Commerce
 
@@ -9218,15 +9172,9 @@ The provisions of sections 2 and 4 of Reorganization Plan No. 5 of 1950 (64 Stat
 
 Part III. General Provisions
 
-Section 301. Conflict of Interest
-
-The provisions of the last sentence of section 201(b) of the Merchant Marine Act, 1936, as affected by the provisions of Reorganization Plan No. 21 of 1950 (46 U.S.C. 1111(b)) (prohibiting the members of the Federal Maritime Board and all officers and employees of that Board or of the Maritime Administration from being in the employ of any other person, firm, or corporation, or from having any pecuniary interest in or holding any official relationship with any carrier by water, shipbuilder, contractor, or other person, firm, association, or corporation with whom the Federal Maritime Board or the Maritime Administration may have business relations) shall hereafter be applicable to the Commissioners composing the Commission and all officers and employees of the Commission. [As amended Pub. L. 91–469, §38(b), Oct. 21, 1970, 84 Stat. 1036.]
-
-Sec. 302. Interim Appointments
-
-Pending the initial appointments hereunder of the Commissioners composing the Commission and of the Maritime Administrator, but not for a period exceeding 90 days, such officers of the executive branch of the Government (including any person who is a member of the Federal Maritime Board or Deputy Maritime Administrator immediately prior to the taking effect of the provisions of this reorganization plan) as the President shall designate under the provisions of this section shall be Acting Commissioners of the Federal Maritime Commission or Acting Maritime Administrator.
-The President may designate one of such Acting Commissioners as Acting Chairman of the Commission.
-Any person who is not while serving under an interim appointment pursuant to the foregoing provisions of this section receiving compensation attached to another Federal office shall receive the compensation herein provided for the office wherein he serves in an interim capacity.
+Secs. 301, 302. [Repealed.
+Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section 301 related to conflict of interest.
+Section 302 related to interim appointments.]
 
 Sec. 303. Incidental Transfers
 
@@ -9250,7 +9198,7 @@ The following provisions of Reorganization Plan No. 21 of 1950 are hereby supers
 
 (3) Sections 302 to 307, inclusive.
 
-[For further details relating to the Federal Maritime Commission, see 46 U.S.C. 1111 and notes set out thereunder.]
+[For further details relating to the Federal Maritime Commission, see chapter 3 of Title 46, Shipping.]
 
 Message of the President
 
@@ -10025,7 +9973,7 @@ Within 90 days after this reorganization plan becomes effective, the Secretary o
 
 (1) Section 702(a) of the Housing and Urban Development Act of 1965 (79 Stat. 490) [42 U.S.C. §3102(a)].
 
-(2) Section 212 of the Appalachian Regional Development Act of 1965 (79 Stat. 16) [former 40 App. U.S.C. 212].
+(2) Section 212 of the Appalachian Regional Development Act of 1965 (79 Stat. 16) [former 40 U.S.C. App. 212].
 
 (3) Section 106 of the Public Works and Economic Development Act of 1965 (79 Stat. 554) [42 U.S.C. §3136].
 
@@ -14607,7 +14555,7 @@ The White House, June 19, 1978.
 
 REORGANIZATION PLAN NO. 4 OF 1978
 
-43 F.R. 47713, 92 Stat. 3790, as amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095
+43 F.R. 47713, 92 Stat. 3790, as amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–280, title I, §107(c), Aug. 17, 2006, 120 Stat. 820
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, August 10, 1978, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.1
 
@@ -14663,7 +14611,7 @@ The fact of such a notification, except for such notification for documents desc
 
 (i) amendments to regulations issued pursuant to subsections 202(a)(3), 203(b)(2) and (3)(A), 204(b)(3)(A), (C), and (E), and 210(a)(2) of ERISA [29 U.S.C. 1052(a)(3), 1053(b)(2) and (3)(A), 1054(b)(3)(A), (C), and (E), and 1060(a)(2)], and subsections 410(a)(3) and 411(a)(5), (6)(A), and (b)(3)(A), (C), and (E), 413(b)(4) and (c)(3) and 414(f) of the Code [26 U.S.C. 410(a)(3) and 411(a)(5), (6)(A), and (b)(3)(A), (C), and (E), 413(b)(4) and (c)(3) and 414(f)];
 
-(ii) regulations issued pursuant to subsections 204(b)(3)(D), 302(c)(8), and 304(a) and (b)(2)(A) of ERISA [29 U.S.C. 1054(b)(3)(D), 1082(c)(8), and 1084(a) and (b)(2)(A)], and subsections 411(b)(3)(D), 412(c)(8), (e), and (f)(2)(A) of the Code [26 U.S.C. 411(b)(3)(D), 412(c)(8), (e), and (f)(2)(A)]; and
+(ii) regulations issued pursuant to subsections 204(b)(3)(D), 302(d)(2), and 304(d)(1), (d)(2), and (e)(2)(A) of ERISA [29 U.S.C. 1054(b)(3)(D), 1082(d)(2), and 1084(d)(1), (d)(2), and (e)(2)(A)], and subsections 411(b)(3)(D), 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A) of the Code [26 U.S.C. 411(b)(3)(D), 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A)]; and [As amended Pub. L. 109–280, title I, §107(c), Aug. 17, 2006, 120 Stat. 820.]
 
 (iii) revenue rulings (within the meaning of 26 CFR Section 601.201(a)(6)), revenue procedures, and similar publications, if the rulings, procedures and publications are issued under one of the statutory provisions listed in (i) and (ii) of this subsection; and
 
@@ -14683,6 +14631,10 @@ The Director of the Office of Management and Budget shall provide for terminatin
 Sec. 109. Effective Date
 
 The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 30, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+
+[Amendment by section 107(c) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of Title 29, Labor.]
+
+[For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.]
 
 [Pursuant to Ex. Ord.
 No. 12108, Dec. 28, 1978, 44 F.R. 1065, this Reorg.

@@ -242,6 +242,44 @@ References in Text
 
 Executive Order 10834, referred to in text, is set out as a note under section 1 of this title.
 
+Freedom To Display the American Flag
+
+Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that:
+
+“SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Freedom to Display the American Flag Act of 2005’.
+
+“SEC. 2. DEFINITIONS.
+
+“For purposes of this Act—
+
+“(1) the term ‘flag of the United States’ has the meaning given the term ‘flag, standard, colors, or ensign’ under section 3 of title 4, United States Code;
+
+“(2) the terms ‘condominium association’ and ‘cooperative association’ have the meanings given such terms under section 604 of Public Law 96–399 (15 U.S.C. 3603);
+
+“(3) the term ‘residential real estate management association’ has the meaning given such term under section 528 of the Internal Revenue Code of 1986 (26 U.S.C. 528); and
+
+“(4) the term ‘member’—
+
+“(A) as used with respect to a condominium association, means an owner of a condominium unit (as defined under section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association;
+
+“(B) as used with respect to a cooperative association, means a cooperative unit owner (as defined under section 604 of Public Law 96–399 (15 U.S.C. 3603)) within such association; and
+
+“(C) as used with respect to a residential real estate management association, means an owner of a residential property within a subdivision, development, or similar area subject to any policy or restriction adopted by such association.
+
+“SEC. 3. RIGHT TO DISPLAY THE FLAG OF THE UNITED STATES.
+
+“A condominium association, cooperative association, or residential real estate management association may not adopt or enforce any policy, or enter into any agreement, that would restrict or prevent a member of the association from displaying the flag of the United States on residential property within the association with respect to which such member has a separate ownership interest or a right to exclusive possession or use.
+
+“SEC. 4. LIMITATIONS.
+
+“Nothing in this Act shall be considered to permit any display or use that is inconsistent with—
+
+“(1) any provision of chapter 1 of title 4, United States Code, or any rule or custom pertaining to the proper display or use of the flag of the United States (as established pursuant to such chapter or any otherwise applicable provision of law); or
+
+“(2) any reasonable restriction pertaining to the time, place, or manner of displaying the flag of the United States necessary to protect a substantial interest of the condominium association, cooperative association, or residential real estate management association.”
+
 §6. Time and occasions for display
 
 (a) It is the universal custom to display the flag only from sunrise to sunset on buildings and on stationary flagstaffs in the open.
@@ -882,9 +920,9 @@ Pub. L. 99–190, §101(c) [H.R. 3067, §131], Dec. 19, 1985, 99 Stat. 1224; Pub
 
 (H) a trust described in section 501(c)(18) of such Code; or
 
-(I) any plan, program, or arrangement described in section 3121(v)(2)(C) of such Code, if such income—
+(I) any plan, program, or arrangement described in section 3121(v)(2)(C) of such Code (or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins), if such income—
 
-(i) is part of a series of substantially equal periodic payments (not less frequently than annually) made for—
+(i) is part of a series of substantially equal periodic payments (not less frequently than annually which may include income described in subparagraphs (A) through (H)) made for—
 
 (I) the life or life expectancy of the recipient (or the joint lives or joint life expectancies of the recipient and the designated beneficiary of the recipient), or
 
@@ -892,19 +930,23 @@ Pub. L. 99–190, §101(c) [H.R. 3067, §131], Dec. 19, 1985, 99 Stat. 1224; Pub
 
 (ii) is a payment received after termination of employment and under a plan, program, or arrangement (to which such employment relates) maintained solely for the purpose of providing retirement benefits for employees in excess of the limitations imposed by 1 or more of sections 401(a)(17), 401(k), 401(m), 402(g), 403(b), 408(k), or 415 of such Code or any other limitation on contributions or benefits in such Code on plans to which any of such sections apply.
 
+The fact that payments may be adjusted from time to time pursuant to such plan, program, or arrangement to limit total disbursements under a predetermined formula, or to provide cost of living or similar adjustments, will not cause the periodic payments provided under such plan, program, or arrangement to fail the “substantially equal periodic payments” test.
+
 Such term includes any retired or retainer pay of a member or former member of a uniform service computed under chapter 71 of title 10, United States Code.
 
 (2) The term “income tax” has the meaning given such term by section 110(c).
 
 (3) The term “State” includes any political subdivision of a State, the District of Columbia, and the possessions of the United States.
 
+(4) For purposes of this section, the term “retired partner” is an individual who is described as a partner in section 7701(a)(2) of the Internal Revenue Code of 1986 and who is retired under such individual's partnership agreement.
+
 (e) 1 Nothing in this section shall be construed as having any effect on the application of section 514 of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 104–95, §1(a), Jan. 10, 1996, 109 Stat. 979.)
+(Added Pub. L. 104–95, §1(a), Jan. 10, 1996, 109 Stat. 979; amended Pub. L. 109–264, §1(a), Aug. 3, 2006, 120 Stat. 667.)
 
 References in Text
 
-The Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (b)(1), (4), is classified generally to Title 26, Internal Revenue Code.
 
 Section 514 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (e), is classified to section 1144 of Title 29, Labor.
 
@@ -999,27 +1041,6 @@ Each address shall be provided in standard postal format.
 The home service provider shall reflect changes made to such database during a calendar quarter not later than 30 days after the end of such calendar quarter for each State that issues notice of the availability of an electronic database reflecting such changes under subsection (b).
 
 (Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 627.)
-
-§120. Procedure if no electronic database provided
-
-(a) Safe Harbor.—If neither a State nor designated database provider provides an electronic database under section 119, a home service provider shall be held harmless from any tax, charge, or fee liability in such State that otherwise would be due solely as a result of an assignment of a street address to an incorrect taxing jurisdiction if, subject to section 121, the home service provider employs an enhanced zip code to assign each street address to a specific taxing jurisdiction for each level of taxing jurisdiction and exercises due diligence at each level of taxing jurisdiction to ensure that each such street address is assigned to the correct taxing jurisdiction.
-If an enhanced zip code overlaps boundaries of taxing jurisdictions of the same level, the home service provider must designate one specific jurisdiction within such enhanced zip code for use in taxing the activity for such enhanced zip code for each level of taxing jurisdiction.
-Any enhanced zip code assignment changed in accordance with section 121 is deemed to be in compliance with this section.
-For purposes of this section, there is a rebuttable presumption that a home service provider has exercised due diligence if such home service provider demonstrates that it has—
-
-(1) expended reasonable resources to implement and maintain an appropriately detailed electronic database of street address assignments to taxing jurisdictions;
-
-(2) implemented and maintained reasonable internal controls to promptly correct misassignments of street addresses to taxing jurisdictions; and
-
-(3) used all reasonably obtainable and usable data pertaining to municipal annexations, incorporations, reorganizations and any other changes in jurisdictional boundaries that materially affect the accuracy of such database.
-
-(b) Termination of Safe Harbor.—Subsection (a) applies to a home service provider that is in compliance with the requirements of subsection (a), with respect to a State for which an electronic database is not provided under section 119 until the later of—
-
-(1) 18 months after the nationwide standard numeric code described in section 119(a) has been approved by the Federation of Tax Administrators and the Multistate Tax Commission; or
-
-(2) 6 months after such State or a designated database provider in such State provides such database as prescribed in section 119(a).
-
-(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 628.)
 
 §121. Correction of erroneous data for place of primary use
 
@@ -1181,23 +1202,6 @@ Authorization of appropriations.
 
 Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
 
-Similar provisions were contained in former chapter 5, comprising former sections 141 to 146, which was set out here but which was not a part of this title.
-Former sections 141 to 146 were derived from: acts Mar. 3, 1925, ch. 419, §§1, 2, 43 Stat. 1104; Mar. 3, 1925, ch. 419, §§3, 4, as added Feb. 28, 1929, ch. 385, 45 Stat. 1412, 1413; Feb. 28, 1929, ch. 385, 45 Stat. 1412 (in addition to the provisions added to said act Mar. 3, 1925); Mar. 22, 1935, ch. 39, §1 (part), 49 Stat. 69; Feb. 14, 1936, ch. 70, 49 Stat. 1139; May 15, 1936, ch. 405, §1 (part), 49 Stat. 1311; June 16, 1937, ch. 359, §1 (part), 50 Stat. 262, 263; June 28, 1937, ch. 386, 50 Stat. 323, 324; Apr. 27, 1938, ch. 180, §1 (part), 52 Stat. 249; June 29, 1939, ch. 248, title I (part), 53 Stat. 886; July 31, 1945, ch. 336, 59 Stat. 510, 511; 1946 Proc.
-No. 2714, Dec. 31, 1946, 12 F.R. 1; act Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; 1950 Reorg.
-Plan No. 20, §1, eff.
-May 24, 1950, 15 F.R. 3178, 64 Stat. 1272; act July 7, 1950, ch. 452, 64 Stat. 320. All of the foregoing provisions, with the exception of 1946 Proc.
-No. 2714, act Oct. 28, 1949, §1106(a), and 1950 Reorg.
-Plan No. 20, §1, were repealed by act Oct. 31, 1951, ch. 655, §56(k)(1)–(11), 65 Stat. 730. Subsec. (l) of section 56 provided that the repeal should not affect any rights or liabilities existing under the repealed statutes on the effective date of the repeal (Oct. 31, 1951). For delegation of functions under the repealed statutes, and for transfer of records, property, personnel, and funds, see sections 3 and 4 of said 1950 Reorg.
-Plan No. 20, set out in the Appendix to Title 5, Government Organization and Employees.
-
-§141. Collection, preparation and publication
-
-The Archivist of the United States, hereinafter referred to in this chapter as the “Archivist”, shall continue to completion the work of collecting, editing, copying, and suitably arranging for issuance as a Government publication, the official papers relating to the Territories from which States of the United States were formed, in the national archives, as listed in Parker's “Calendar of Papers in Washington” Archives Relating to the Territories of the United States (to 1873)”, being publication numbered 148 of the Carnegie Institution of Washington, together with such additional papers of like character which may be found.
-
-(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 713; amended Pub. L. 98–497, title I, §107(f), Oct. 19, 1984, 98 Stat. 2292.)
-
-Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
-
 See note preceding this section.
 
 §142. Appointment of experts
@@ -1211,6 +1215,18 @@ References in Text
 The Classification Act of 1949, referred to in text, is act Oct. 28, 1949, ch. 782, 63 Stat. 954, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
 The civil service laws, referred to in text, are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5.
+
+Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
+
+See note preceding section 141 of this title.
+
+§143. Employment and utilization of other personnel; cost of copy reading and indexing
+
+(a) In carrying out his functions under this chapter, the Archivist may employ such clerical assistants as may be necessary.
+
+(b) The work of copy reading and index making for the publication of the papers described in section 141 of this title shall be done by the regular editorial staff of the National Archives and Records Administration, and the cost of this particular phase of the work (prorated each month according to the number of hours spent and the annual salaries of the clerks employed) shall be charged against the annual appropriations made under section 146 of this title.
+
+(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Pub. L. 98–497, title I, §107(f), Oct. 19, 1984, 98 Stat. 2292.)
 
 Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
 
