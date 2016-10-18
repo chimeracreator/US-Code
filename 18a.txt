@@ -212,7 +212,7 @@ In determining whether to dismiss the case with or without prejudice, the court 
 
 (Pub. L. 91–538, §9, as added Pub. L. 100–690, title VII, §7059, Nov. 18, 1988, 102 Stat. 4403.)
 
-  
+ 
 
 CLASSIFIED INFORMATION PROCEDURES ACT
 
@@ -575,11 +575,9 @@ FEDERAL RULES OF EVIDENCE
 The text of the Federal Rules of Evidence enacted into law by Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1929, is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to civil actions and proceedings, including admiralty and maritime cases, to criminal cases and proceedings, to contempt proceedings except those in which the court may act summarily, and to proceedings and cases under the Bankruptcy Act.
 
- 
-
 FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to January 4, 1995)
+(As amended to January 16, 1996)
 
 Historical Note
 
@@ -605,7 +603,8 @@ Dec. 1, 1989; May 1, 1990, eff.
 Dec. 1, 1990; Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 1994, eff.
-Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141.
+Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff.
+Dec. 1, 1995.
 
 I. SCOPE, PURPOSE, AND CONSTRUCTION
 
@@ -1774,7 +1773,7 @@ Notice of Orders.
 Filing.
 
 (e)
-Filing of Dangerous Offender Notice.
+Abrogated.
 
 50.
 Calendars; Plans for Prompt Disposition.
@@ -1843,6 +1842,15 @@ Courts and Clerks.
 
 57.
 Rules by District Courts.
+
+(a)
+In General.
+
+(b)
+Procedure When There Is No Controlling Law.
+
+(c)
+Effective Date and Notice.
 
 58.
 Procedure for Misdemeanors and Other Petty Offenses.
@@ -1973,6 +1981,8 @@ Title.
         
 
 APPENDIX OF FORMS (Abrogated)
+
+ 
 
 I. SCOPE, PURPOSE, AND CONSTRUCTION
 
@@ -2145,8 +2155,9 @@ Probably should be preceded by “a”.
 Rule 5. Initial Appearance Before the Magistrate Judge
 
 (a) In General.
-An officer making an arrest under a warrant issued upon a complaint or any person making an arrest without a warrant shall take the arrested person without unnecessary delay before the nearest available federal magistrate judge or, in the event that a federal magistrate judge is not reasonably available, before a state or local judicial officer authorized by 18 U.S.C. §3041. If a person arrested without a warrant is brought before a magistrate judge, a complaint shall be filed forthwith which shall comply with the requirements of Rule 4(a) with respect to the showing of probable cause.
+Except as otherwise provided in this rule, an officer making an arrest under a warrant issued upon a complaint or any person making an arrest without a warrant shall take the arrested person without unnecessary delay before the nearest available federal magistrate judge or, if a federal magistrate judge is not reasonably available, before a state or local judicial officer authorized by 18 U.S.C. §3041. If a person arrested without a warrant is brought before a magistrate judge, a complaint, satisfying the probable cause requirements of Rule 4(a), shall be promptly filed.
 When a person, arrested with or without a warrant or given a summons, appears initially before the magistrate judge, the magistrate judge shall proceed in accordance with the applicable subdivisions of this rule.
+An officer making an arrest under a warrant issued upon a complaint charging solely a violation of 18 U.S.C. §1073 need not comply with this rule if the person arrested is transferred without unnecessary delay to the custody of appropriate state or local authorities in the district of arrest and an attorney for the government moves promptly, in the district in which the warrant was issued, to dismiss the complaint.
 
 (b) Misdemeanors and Other Petty Offenses.
 If the charge against the defendant is a misdemeanor or other petty offense triable by a United States magistrate judge under 18 U.S.C. §3401, the magistrate judge shall proceed in accordance with Rule 58.
@@ -2171,7 +2182,8 @@ Oct. 1, 1972; Apr. 28, 1982, eff.
 Aug. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title II, §209(a), 98 Stat. 1986; Mar. 9, 1987, eff.
 Aug. 1, 1987; May 1, 1990, eff.
 Dec. 1, 1990; Apr. 22, 1993, eff.
-Dec. 1, 1993.)
+Dec. 1, 1993; Apr. 27, 1995, eff.
+Dec. 1, 1995.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -2210,6 +2222,8 @@ Return of warrant, see rule 4.
 Subpoena, issuance by magistrate judge, see rule 17.
 
 Trial of misdemeanors, see section 3401 of this title.
+
+ 
 
 Rule 5.1. Preliminary Examination
 
@@ -2307,6 +2321,161 @@ A defendant who claims the right to a free transcript does not, under our cases,
 In this case, however, petitioner has conceded that he had available an informal alternative which appears to be substantially equivalent to a transcript.
 Accordingly, we cannot conclude that the court below was in error in rejecting his claim.
 
+III. INDICTMENT AND INFORMATION
+
+Rule 6. The Grand Jury
+
+(a) Summoning Grand Juries.
+
+(1) Generally.
+The court shall order one or more grand juries to be summoned at such time as the public interest requires.
+The grand jury shall consist of not less than 16 nor more than 23 members.
+The court shall direct that a sufficient number of legally qualified persons be summoned to meet this requirement.
+
+(2) Alternate Jurors.
+The court may direct that alternate jurors may be designated at the time a grand jury is selected.
+Alternate jurors in the order in which they were designated may thereafter be impanelled as provided in subdivision (g) of this rule.
+Alternate jurors shall be drawn in the same manner and shall have the same qualifications as the regular jurors, and if impanelled shall be subject to the same challenges, shall take the same oath and shall have the same functions, powers, facilities and privileges as the regular jurors.
+
+(b) Objections to Grand Jury and to Grand Jurors.
+
+(1) Challenges.
+The attorney for the government or a defendant who has been held to answer in the district court may challenge the array of jurors on the ground that the grand jury was not selected, drawn or summoned in accordance with law, and may challenge an individual juror on the ground that the juror is not legally qualified.
+Challenges shall be made before the administration of the oath to the jurors and shall be tried by the court.
+
+(2) Motion To Dismiss.
+A motion to dismiss the indictment may be based on objections to the array or on the lack of legal qualification of an individual juror, if not previously determined upon challenge.
+It shall be made in the manner prescribed in 28 U.S.C. §1867(e) and shall be granted under the conditions prescribed in that statute.
+An indictment shall not be dismissed on the ground that one or more members of the grand jury were not legally qualified if it appears from the record kept pursuant to subdivision (c) of this rule that 12 or more jurors, after deducting the number not legally qualified, concurred in finding the indictment.
+
+(c) Foreperson and Deputy Foreperson.
+The court shall appoint one of the jurors to be foreperson and another to be deputy foreperson.
+The foreperson shall have power to administer oaths and affirmations and shall sign all indictments.
+The foreperson or another juror designated by the foreperson shall keep a record of the number of jurors concurring in the finding of every indictment and shall file the record with the clerk of the court, but the record shall not be made public except on order of the court.
+During the absence of the foreperson, the deputy foreperson shall act as foreperson.
+
+(d) Who May Be Present.
+Attorneys for the government, the witness under examination, interpreters when needed and, for the purpose of taking the evidence, a stenographer or operator of a recording device may be present while the grand jury is in session, but no person other than the jurors may be present while the grand jury is deliberating or voting.
+
+(e) Recording and Disclosure of Proceedings.
+
+(1) Recording of Proceedings.
+All proceedings, except when the grand jury is deliberating or voting, shall be recorded stenographically or by an electronic recording device.
+An unintentional failure of any recording to reproduce all or any portion of a proceeding shall not affect the validity of the prosecution.
+The recording or reporter's notes or any transcript prepared therefrom shall remain in the custody or control of the attorney for the government unless otherwise ordered by the court in a particular case.
+
+(2) General Rule of Secrecy.
+A grand juror, an interpreter, a stenographer, an operator of a recording device, a typist who transcribes recorded testimony, an attorney for the government, or any person to whom disclosure is made under paragraph (3)(A)(ii) of this subdivision shall not disclose matters occurring before the grand jury, except as otherwise provided for in these rules.
+No obligation of secrecy may be imposed on any person except in accordance with this rule.
+A knowing violation of Rule 6 may be punished as a contempt of court.
+
+(3) Exceptions.
+
+(A) Disclosure otherwise prohibited by this rule of matters occurring before the grand jury, other than its deliberations and the vote of any grand juror, may be made to—
+
+(i) an attorney for the government for use in the performance of such attorney's duty; and
+
+(ii) such government personnel (including personnel of a state or subdivision of a state) as are deemed necessary by an attorney for the government to assist an attorney for the government in the performance of such attorney's duty to enforce federal criminal law.
+
+(B) Any person to whom matters are disclosed under subparagraph (A)(ii) of this paragraph shall not utilize that grand jury material for any purpose other than assisting the attorney for the government in the performance of such attorney's duty to enforce federal criminal law.
+An attorney for the government shall promptly provide the district court, before which was impaneled the grand jury whose material has been so disclosed, with the names of the persons to whom such disclosure has been made, and shall certify that the attorney has advised such persons of their obligation of secrecy under this rule.
+
+(C) Disclosure otherwise prohibited by this rule of matters occurring before the grand jury may also be made—
+
+(i) when so directed by a court preliminarily to or in connection with a judicial proceeding;
+
+(ii) when permitted by a court at the request of the defendant, upon a showing that grounds may exist for a motion to dismiss the indictment because of matters occurring before the grand jury;
+
+(iii) when the disclosure is made by an attorney for the government to another federal grand jury; or
+
+(iv) when permitted by a court at the request of an attorney for the government, upon a showing that such matters may disclose a violation of state criminal law, to an appropriate official of a state or subdivision of a state for the purpose of enforcing such law.
+
+If the court orders disclosure of matters occurring before the grand jury, the disclosure shall be made in such manner, at such time, and under such conditions as the court may direct.
+
+(D) A petition for disclosure pursuant to subdivision (e)(3)(C)(i) shall be filed in the district where the grand jury convened.
+Unless the hearing is ex parte, which it may be when the petitioner is the government, the petitioner shall serve written notice of the petition upon (i) the attorney for the government, (ii) the parties to the judicial proceeding if disclosure is sought in connection with such a proceeding, and (iii) such other persons as the court may direct.
+The court shall afford those persons a reasonable opportunity to appear and be heard.
+
+(E) If the judicial proceeding giving rise to the petition is in a federal district court in another district, the court shall transfer the matter to that court unless it can reasonably obtain sufficient knowledge of the proceeding to determine whether disclosure is proper.
+The court shall order transmitted to the court to which the matter is transferred the material sought to be disclosed, if feasible, and a written evaluation of the need for continued grand jury secrecy.
+The court to which the matter is transferred shall afford the aforementioned persons a reasonable opportunity to appear and be heard.
+
+(4) Sealed Indictments.
+The federal magistrate judge to whom an indictment is returned may direct that the indictment be kept secret until the defendant is in custody or has been released pending trial.
+Thereupon the clerk shall seal the indictment and no person shall disclose the return of the indictment except when necessary for the issuance and execution of a warrant or summons.
+
+(5) Closed Hearing.
+Subject to any right to an open hearing in contempt proceedings, the court shall order a hearing on matters affecting a grand jury proceeding to be closed to the extent necessary to prevent disclosure of matters occurring before a grand jury.
+
+(6) Sealed Records.
+Records, orders and subpoenas relating to grand jury proceedings shall be kept under seal to the extent and for such time as is necessary to prevent disclosure of matters occurring before a grand jury.
+
+(f) Finding and Return of Indictment.
+An indictment may be found only upon the concurrence of 12 or more jurors.
+The indictment shall be returned by the grand jury to a federal magistrate judge in open court.
+If a complaint or information is pending against the defendant and 12 jurors do not concur in finding an indictment, the foreperson shall so report to a federal magistrate judge in writing forthwith.
+
+(g) Discharge and Excuse.
+A grand jury shall serve until discharged by the court, but no grand jury may serve more than 18 months unless the court extends the service of the grand jury for a period of six months or less upon a determination that such extension is in the public interest.
+At any time for cause shown the court may excuse a juror either temporarily or permanently, and in the latter event the court may impanel another person in place of the juror excused.
+
+(As amended Feb. 28, 1966, eff.
+July 1, 1966; Apr. 24, 1972, eff.
+Oct. 1, 1972; Apr. 26 and July 8, 1976, eff.
+Aug. 1, 1976; July 30, 1977, Pub. L. 95–78, §2(a), 91 Stat. 319; Apr. 30, 1979, eff.
+Aug. 1, 1979; Apr. 28, 1983, eff.
+Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §215(f), 98 Stat. 2016; Apr. 29, 1985, eff.
+Aug. 1, 1985; Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 22, 1993, eff.
+Dec. 1, 1993.)
+
+Notes of Advisory Committee on Rules—1944
+
+Note to Subdivision (a). 1. The first sentence of this rule vests in the court full discretion as to the number of grand juries to be summoned and as to the times when they should be convened.
+This provision supersedes the existing law, which limits the authority of the court to summon more than one grand jury at the same time.
+At present two grand juries may be convened simultaneously only in a district which has a city or borough of at least 300,000 inhabitants, and three grand juries only in the Southern District of New York, 28 U.S.C. [former] 421 (Grand juries; when, how and by whom summoned; length of service). This statute has been construed, however, as only limiting the authority of the court to summon more than one grand jury for a single place of holding court, and as not circumscribing the power to convene simultaneously several grand juries at different points within the same district, Morris v. United States, 128 F.2d 912 (C.C.A. 5th); United States v. Perlstein, 39 F.Supp. 965 (D.N.J.).
+
+2. The provision that the grand jury shall consist of not less than 16 and not more than 23 members continues existing law, 28 U.S.C. 419 [now 18 U.S.C. 3321] (Grand jurors; number when less than required number).
+
+3. The rule does not affect or deal with the method of summoning and selecting grand juries.
+Existing statutes on the subjects are not superseded.
+See 28 U.S.C. 411–426 [now 1861–1870]. As these provisions of law relate to jurors for both criminal and civil cases, it seemed best not to deal with this subject.
+
+Note to Subdivision (b)(1). Challenges to the array and to individual jurors, although rarely invoked in connection with the selection of grand juries, are nevertheless permitted in the Federal courts and are continued by this rule, United States v. Gale, 109 U.S. 65, 69–70; Clawson v. United States, 114 U.S. 477; Agnew v. United States, 165 U.S. 36, 44. It is not contemplated, however, that defendants held for action of the grand jury shall receive notice of the time and place of the impaneling of a grand jury, or that defendants in custody shall be brought to court to attend at the selection of the grand jury.
+Failure to challenge is not a waiver of any objection.
+The objection may still be interposed by motion under Rule 6(b)(2).
+
+Note to Subdivision (b)(2). 1. The motion provided by this rule takes the place of a plea in abatement, or motion to quash.
+Crowley v. United States, 194 U.S. 461, 469–474; United States v. Gale, supra.
+
+2. The second sentence of the rule is a restatement of 18 U.S.C. [former] 554(a) (Indictments and presentments; objection on ground of unqualified juror barred where twelve qualified jurors concurred; record of number concurring), and introduces no change in existing law.
+
+Note to Subdivision (c). 1. This rule generally is a restatement of existing law, 18 U.S.C. [former] 554(a) and 28 U.S.C. [former] 420. Failure of the foreman to sign or endorse the indictment is an irregularity and is not fatal, Frisbie v. United States, 157 U.S. 160, 163–165.
+
+2. The provision for the appointment of a deputy foreman is new.
+Its purpose is to facilitate the transaction of business if the foreman is absent.
+Such a provision is found in the law of at least one State, N.Y. Code Criminal Procedure, sec. 244.
+
+Note to Subdivision (d). This rule generally continues existing law.
+See 18 U.S.C. [former] 556 (Indictments and presentments; defects of form); and 5 U.S.C. 310 [now 28 U.S.C. 515(a)] (Conduct of legal proceedings).
+
+Note to Subdivision (e). 1. This rule continues the traditional practice of secrecy on the party of members of the grand jury, except when the court permits a disclosure, Schmidt v. United States, 115 F.2d 394 (C.C.A. 6th); United States v. American Medical Association, 26 F.Supp. 429 (D.C.); Cf. Atwell v. United States, 162 F. 97 (C.C.A. 4th); and see 18 U.S.C. [former] 554(a) (Indictments and presentments; objection on ground of unqualified juror barred where twelve qualified jurors concurred; record of number concurring). Government attorneys are entitled to disclosure of grand jury proceedings, other than the deliberations and the votes of the jurors, inasmuch as they may be present in the grand jury room during the presentation of evidence.
+The rule continues this practice.
+
+2. The rule does not impose any obligation of secrecy on witnesses.
+The existing practice on this point varies among the districts.
+The seal of secrecy on witnesses seems an unnecessary hardship and may lead to injustice if a witness is not permitted to make a disclosure to counsel or to an associate.
+
+3. The last sentence authorizing the court to seal indictments continues present practice.
+
+Note to Subdivision (f). This rule continues existing law, 18 U.S.C. [former] 554 (Indictments and presentments; by twelve grand jurors). The purpose of the last sentence is to provide means for a prompt release of a defendant if in custody, or exoneration of bail if he is on bail, in the event that the grand jury considers the case of a defendant held for its action and finds no indictment.
+
+Note to Subdivision (g). Under existing law a grand jury serves only during the term for which it is summoned, but the court may extend its period of service for as long as 18 months, 28 U.S.C. [former] 421. During the extended period, however, a grand jury may conduct only investigations commenced during the original term.
+The rule continues the 18 months’ maximum for the period of service of a grand jury, but provides for such service as a matter of course, unless the court terminates it at an earlier date.
+The matter is left in the discretion of the court, as it is under existing law.
+The expiration of a term of court as a time limitation is elsewhere entirely eliminated (Rule 45(c)) and specific time limitations are substituted therefor.
+This was previously done by the Federal Rules of Civil Procedure for the civil side of the courts (Federal Rules of Civil Procedure, Rule 6(c) [28 U.S.C., Appendix]). The elimination of the requirement that at an extended period the grand jury may continue only investigations previously commenced, will obviate such a controversy as was presented in United States v. Johnson, 319 U.S. 503.
+
 1984 Amendment
 
 Subd. (e)(3)(C)(iv). Pub. L. 98–473, eff.
@@ -2328,8 +2497,6 @@ Intimidation of grand jury, obstructing justice by, see sections 1503 and 1504 o
 Qualifications of grand jurors, generally, see section 1861 of Title 28, Judiciary and Judicial Procedure.
 
 Unnecessary delay in presenting charge, dismissal for, see rule 48.
-
- 
 
 Rule 7. The Indictment and the Information
 
@@ -2528,8 +2695,6 @@ See Albrecht v. United States, 273 U.S. 1, 5.
 Cross References
 
 Commitment to another district, see rule 40.
-
- 
 
 IV. ARRAIGNMENT, AND PREPARATION FOR TRIAL
 
@@ -2791,8 +2956,6 @@ Time for service of motions and affidavits generally, see rule 45.
 
 Withdrawal of plea of guilty, see rule 32.
 
- 
-
 Rule 12.1. Notice of Alibi
 
 (a) Notice by Defendant.
@@ -2987,60 +3150,6 @@ Pub. L. 98–473, §404(d), which directed the amendment of subd. (d) by deletin
 1975 Amendment
 
 Pub. L. 94–64 amended subd. (c) generally.
-
-Rule 12.3. Notice of Defense Based Upon Public Authority
-
-(a) Notice by Defendant; Government Response; Disclosure of Witnesses.
-
-(1) Defendant's Notice and Government's Response.
-A defendant intending to claim a defense of actual or believed exercise of public authority on behalf of a law enforcement or Federal intelligence agency at the time of the alleged offense shall, within the time provided for the filing of pretrial motions or at such later time as the court may direct, serve upon the attorney for the Government a written notice of such intention and file a copy of such notice with the clerk.
-Such notice shall identify the law enforcement or Federal intelligence agency and any member of such agency on behalf of which and the period of time in which the defendant claims the actual or believed exercise of public authority occurred.
-If the notice identifies a Federal intelligence agency, the copy filed with the clerk shall be under seal.
-Within ten days after receiving the defendant's notice, but in no event less than twenty days before the trial, the attorney for the Government shall serve upon the defendant or the defendant's attorney a written response which shall admit or deny that the defendant exercised the public authority identified in the defendant's notice.
-
-(2) Disclosure of Witnesses.
-At the time that the Government serves its response to the notice or thereafter, but in no event less than twenty days before the trial, the attorney for the Government may serve upon the defendant or the defendant's attorney a written demand for the names and addresses of the witnesses, if any, upon whom the defendant intends to rely in establishing the defense identified in the notice.
-Within seven days after receiving the Government's demand, the defendant shall serve upon the attorney for the Government a written statement of the names and addresses of any such witnesses.
-Within seven days after receiving the defendant's written statement, the attorney for the Government shall serve upon the defendant or the defendant's attorney a written statement of the names and addresses of the witnesses, if any, upon whom the Government intends to rely in opposing the defense identified in the notice.
-
-(3) Additional Time.
-If good cause is shown, the court may allow a party additional time to comply with any obligation imposed by this rule.
-
-(b) Continuing Duty to Disclose.
-If, prior to or during trial, a party learns of any additional witness whose identity, if known, should have been included in the written statement furnished under subdivision (a)(2) of this rule, that party shall promptly notify in writing the other party or the other party's attorney of the name and address of any such witness.
-
-(c) Failure to Comply.
-If a party fails to comply with the requirements of this rule, the court may exclude the testimony of any undisclosed witness offered in support of or in opposition to the defense, or enter such other order as it deems just under the circumstances.
-This rule shall not limit the right of the defendant to testify.
-
-(d) Protective Procedures Unaffected.
-This rule shall be in addition to and shall not supersede the authority of the court to issue appropriate protective orders, or the authority of the court to order that any pleading be filed under seal.
-
-(e) Inadmissibility of Withdrawn Defense Based Upon Public Authority.
-Evidence of an intention as to which notice was given under subdivision (a), later withdrawn, is not, in any civil or criminal proceeding, admissible against the person who gave notice of the intention.
-
-(Added Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, 102 Stat. 4382.)
-
-Rule 13. Trial Together of Indictments or Informations
-
-The court may order two or more indictments or informations or both to be tried together if the offenses, and the defendants if there is more than one, could have been joined in a single indictment or information.
-The procedure shall be the same as if the prosecution were under such single indictment or information.
-
-Notes of Advisory Committee on Rules—1944
-
-This rule is substantially a restatement of existing law, 18 U.S.C. [former] 557 (Indictments and presentments; joinder of charges); Logan v. United States, 144 U.S. 263, 296; Showalter v. United States, 260 F. 719 (C.C.A. 4th)—cert. den., 250 U.S. 672; Hostetter v. United States, 16 F.2d 921 (C.C.A. 8th); Capone v. United States, 51 F.2d 609, 619–620 (C.C.A. 7th).
-
-Rule 14. Relief From Prejudicial Joinder
-
-If it appears that a defendant or the government is prejudiced by a joinder of offenses or of defendants in an indictment or information or by such joinder for trial together, the court may order an election or separate trials of counts, grant a severance of defendants or provide whatever other relief justice requires.
-In ruling on a motion by a defendant for severance the court may order the attorney for the government to deliver to the court for inspection in camera any statements or confessions made by the defendants which the government intends to introduce in evidence at the trial.
-
-(As amended Feb. 28, 1966, eff.
-July 1, 1966.)
-
-Notes of Advisory Committee on Rules—1944
-
-This rule is a restatement of existing law under which severance and other similar relief is entirely in the discretion of the court, 18 U.S.C. [former] 557 (Indictments and presentments; joinder of charges); Pointer v. United States, 151 U.S. 396; Pierce v. United States, 160 U.S. 355; United States v. Ball, 163 U.S. 662, 673; Stilson v. United States, 250 U.S. 583.
 
 Rule 15. Depositions
 
@@ -3244,8 +3353,6 @@ Demands for production of statements and reports of witnesses, see section 3500 
 
 Subpoena to produce books, papers or other documents, see rule 17.
 
- 
-
 Rule 17. Subpoena
 
 (a) For Attendance of Witnesses; Form; Issuance.
@@ -3362,6 +3469,125 @@ See, generally, Brewster, Criminal Pre-Trials—Useful Techniques, 29 F.R.D. 442
 The rule is cast in broad language so as to accommodate all types of pretrial conferences.
 As the third sentence suggests, in some cases it may be desirable or necessary to have the defendant present.
 See Committee on Pretrial Procedure of the Judicial Conference of the United States, Recommended Procedures in Criminal Pretrials, 37 F.R.D. 95 (1965).
+
+V. VENUE
+
+Rule 18. Place of Prosecution and Trial
+
+Except as otherwise permitted by statute or by these rules, the prosecution shall be had in a district in which the offense was committed.
+The court shall fix the place of trial within the district with due regard to the convenience of the defendant and the witnesses and the prompt administration of justice.
+
+(As amended Feb. 28, 1966, eff.
+July 1, 1966; Apr. 30, 1979, eff.
+Aug. 1, 1979.)
+
+Notes of Advisory Committee on Rules—1944
+
+1. The Constitution of the United States, Article III. Section 2, Paragraph 3, provides:
+
+The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed.
+
+Amendment VI provides:
+
+In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law * * *
+
+28 U.S.C. former §114 (now §§1393, 1441) provides:
+
+All prosecutions for crimes or offenses shall be had within the division of such districts where the same were committed, unless the court, or the judge thereof, upon the application of the defendant, shall order the cause to be transferred for prosecution to another division of the district.
+
+The word “prosecutions,” as used in this statute, does not include the finding and return of an indictment.
+The prevailing practice of impaneling a grand jury for the entire district at a session in some division and of distributing the indictments among the divisions in which the offenses were committed is deemed proper and legal, Salinger v. Loisel, 265 U.S. 224, 237. The court stated that this practice is “attended with real advantages.” The rule is a restatement of existing law and is intended to sanction the continuance of this practice.
+For this reason, the rule requires that only the trial be held in the division in which the offense was committed and permits other proceedings to be had elsewhere in the same district.
+
+2. Within the framework of the foregoing constitutional provisions and the provisions of the general statute, 28 U.S.C. 114 [now 1393, 1441], supra, numerous statutes have been enacted to regulate the venue of criminal proceedings, particularly in respect to continuing offenses and offenses consisting of several transactions occurring in different districts.
+Armour Packing Co. v. United States, 209 U.S. 56, 73–77; United States v. Johnson, 323 U.S. 273. These special venue provisions are not affected by the rule.
+Among these statutes are the following:
+
+U.S.C., Title 8:
+
+ Section 138 [see 1326, 1328, 1329] (Importation of aliens for immoral purposes; attempt to reenter after deportation; penalty)
+
+U.S.C., Title 15:
+
+ Section 78aa (Regulation of Securities Exchanges; jurisdiction of offenses and suits)
+
+ Section 79y (Control of Public Utility Holding Companies; jurisdiction of offenses and suits)
+
+ Section 80a–43 (Investment Companies; jurisdiction of offenses and suits)
+
+ Section 80b–14 (Investment Advisers; jurisdiction of offenses and suits)
+
+ Section 298 (Falsely Stamped Gold or Silver, etc., violations of law; penalty; jurisdiction of prosecutions)
+
+ Section 715i (Interstate Transportation of Petroleum Products; restraining violations; civil and criminal proceedings; jurisdiction of District Courts; review)
+
+ Section 717u (Natural Gas Act; jurisdiction of offenses; enforcement of liabilities and duties)
+
+U.S.C., Title 18:
+
+ Section 39 [now 5, 3241] (Enforcement of neutrality; United States defined; jurisdiction of offenses; prior offenses; partial invalidity of provisions)
+
+ Section 336 [now 1302] (Lottery, or gift enterprise circulars not mailable; place of trial)
+
+ Section 338a [now 876, 3239] (Mailing threatening communications)
+
+ Section 338b [now 877, 3239] (Same; mailing in foreign country for delivery in the United States)
+
+ Section 345 [now 1717] (Using or attempting to use mails for transmission of matter declared nonmailable by title; jurisdiction of offense)
+
+ Section 396e [now 1762] (Transportation or importation of convict-made goods with intent to use in violation of local law; jurisdiction of violations)
+
+ Section 401 [now 2421] (White slave traffic; jurisdiction of prosecutions)
+
+ Section 408 [now 10, 2311 to 2313] (Motor vehicles; transportation, etc., of stolen vehicles)
+
+ Section 408d [now 875, 3239] (Threatening communications in interstate commerce)
+
+ Section 408e [now 1073] (Moving in interstate or foreign commerce to avoid prosecution for felony or giving testimony)
+
+ Section 409 [now 659, 660, 2117] (Larceny, etc., of goods in interstate or foreign commerce; penalty)
+
+ Section 412 [now 660] (Embezzlement, etc., by officers of carrier; jurisdiction; double jeopardy)
+
+ Section 418 [now 3237] (National Stolen Property Act; jurisdiction)
+
+ Section 419d [now 3237] (Transportation of stolen cattle in interstate or foreign commerce; jurisdiction of offense)
+
+ Section 420d [now 1951] (Interference with trade and commerce by violence, threats, etc., jurisdiction of offenses)
+
+ Section 494 [now 1654] (Arming vessel to cruise against citizen; trials)
+
+ Section 553 [now 3236] (Place of committal of murder or manslaughter determined)
+
+U.S.C., Title 21:
+
+ Section 17 (Introduction into, or sale in, State or Territory or District of Columbia of dairy or food products falsely labeled or branded; penalty; jurisdiction of prosecutions)
+
+ Section 118 (Prevention of introduction and spread of contagion; duty of district attorneys)
+
+U.S.C., Title 28:
+
+ Section 101 [now 18 U.S.C. 3235] (Capital cases)
+
+ Section 102 [now 18 U.S.C. 3238] (Offenses on the high seas)
+
+ Section 103 [now 18 U.S.C. 3237] (Offenses begun in one district and completed in another)
+
+ Section 121 [now 18 U.S.C. 3240] (Creation of new district or division)
+
+U.S.C., Title 47:
+
+        
+
+ Section 33 (Submarine Cables; jurisdiction and venue of actions and offenses)
+
+ Section 505 (Special Provisions Relating to Radio; venue of trials)
+
+U.S.C., Title 49:
+
+ Section 41 [now 11902, 11903, 11915, 11916] (Legislation Supplementary to Interstate Commerce Act; liability of corporation carriers and agents; offenses and penalties—(1) Liability of corporation common carriers; offenses; penalties; Jurisdiction)
+
+ Section 623 [repealed] (Civil Aeronautics Act; venue and prosecution of offenses)
 
 Cross References
 
@@ -3490,6 +3716,8 @@ Cf. Rule 12(b)(3).
 Cross References
 
 Time of motion raising defenses and objections before trial, see rule 12.
+
+ 
 
 VI. TRIAL
 
@@ -3724,6 +3952,76 @@ This freedom, made necessary by the peculiar nature of the issue of foreign law,
 The issue is essentially one of law rather than of fact.
 Furthermore, the cases have held that the Sixth Amendment does not serve as a rigid barrier against the development of reasonable and necessary exceptions to the hearsay rule.
 See Kay v. United States, 255 F.2d 476, 480 (4th Cir. 1958), cert. den., 358 U.S. 825 (1958); Matthews v. United States, 217 F.2d 409, 418 (5th Cir. 1954); United States v. Leathers, 135 F.2d 507 (2d Cir. 1943); and cf., Painter v. Texas, 85 S.Ct. 1065 (1965); Douglas v. Alabama, 85 S.Ct. 1074 (1965).
+
+Rule 26.2. Production of Witness Statements
+
+(a) Motion for Production.
+After a witness other than the defendant has testified on direct examination, the court, on motion of a party who did not call the witness, shall order the attorney for the government or the defendant and the defendant's attorney, as the case may be, to produce, for the examination and use of the moving party, any statement of the witness that is in their possession and that relates to the subject matter concerning which the witness has testified.
+
+(b) Production of Entire Statement.
+If the entire contents of the statement relate to the subject matter concerning which the witness has testified, the court shall order that the statement be delivered to the moving party.
+
+(c) Production of Excised Statement.
+If the other party claims that the statement contains privileged information or matter that does not relate to the subject matter concerning which the witness has testified, the court shall order that it be delivered to the court in camera.
+Upon inspection, the court shall excise the portions of the statement that are privileged or that do not relate to the subject matter concerning which the witness has testified, and shall order that the statement, with such material excised, be delivered to the moving party.
+Any portion of the statement that is withheld from the defendant over the defendant's objection must be preserved by the attorney for the government, and, if the defendant appeals a conviction, must be made available to the appellate court for the purpose of determining the correctness of the decision to excise the portion of the statement.
+
+(d) Recess for Examination of Statement.
+Upon delivery of the statement to the moving party, the court, upon application of that party, may recess the proceedings so that counsel may examine the statement and prepare to use it in the proceedings.
+
+(e) Sanction for Failure to Produce Statement.
+If the other party elects not to comply with an order to deliver a statement to the moving party, the court shall order that the testimony of the witness be stricken from the record and that the trial proceed, or, if it is the attorney for the government who elects not to comply, shall declare a mistrial if required by the interest of justice.
+
+(f) Definition.
+As used in this rule, a “statement” of a witness means:
+
+(1) a written statement made by the witness that is signed or otherwise adopted or approved by the witness;
+
+(2) a substantially verbatim recital of an oral statement made by the witness that is recorded contemporaneously with the making of the oral statement and that is contained in a stenographic, mechanical, electrical, or other recording or a transcription thereof; or
+
+(3) a statement, however taken or recorded, or a transcription thereof, made by the witness to a grand jury.
+
+(g) Scope of Rule.
+This rule applies at a suppression hearing conducted under Rule 12, at trial under this rule, and to the extent specified:
+
+(1) in Rule 32(e) at sentencing;
+
+(2) in Rule 32.1(c) at a hearing to revoke or modify probation or supervised release;
+
+(3) in Rule 46(i) at a detention hearing; and
+
+(4) in Rule 8 of the Rules Governing Proceedings under 28 U.S.C. §2255.
+
+(Added Apr. 30, 1979, eff.
+Dec. 1, 1980; amended Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 22, 1993, eff.
+Dec. 1, 1993.)
+
+Notes of Advisory Committee on Rules—1979
+
+S. 1437, 95th Cong., 1st Sess. (1977), would place in the criminal rules the substance of what is now 18 U.S.C. §3500 (the Jencks Act). Underlying this and certain other additions to the rules contemplated by S. 1437 is the notion that provisions which are purely procedural in nature should appear in the Federal Rules of Criminal Procedure rather than in Title 18. See Reform of the Federal Criminal Laws, Part VI: Hearings on S. 1, S. 716, and S. 1400, Subcomm. on Criminal Laws and Procedures, Senate Judiciary Comm., 93rd Cong., 1st Sess. (statement of Judge Albert B. Maris, at page 5503). Rule 26.2 is identical to the S.1437 rule except as indicated by the marked additions and deletions.
+As those changes show, rule 26.2 provides for production of the statements of defense witnesses at trial in essentially the same manner as is now provided for with respect to the statements of government witnesses.
+Thus, the proposed rule reflects these two judgments: (i) that the subject matter—production of the statements of witnesses—is more appropriately dealt with in the criminal rules; and (ii) that in light of United States v. Nobles, 422 U.S. 225 (1975), it is important to establish procedures for the production of defense witnesses’ statements as well.
+The rule is not intended to discourage the practice of voluntary disclosure at an earlier time so as to avoid delays at trial.
+
+In Nobles, defense counsel sought to introduce the testimony of a defense investigator who prior to trial had interviewed prospective prosecution witnesses and had prepared a report embodying the essence of their conversation.
+When the defendant called the investigator to impeach eyewitness testimony identifying the defendant as the robber, the trial judge granted the prosecutor the right to inspect those portions of the investigator's report relating to the witnesses’ statements, as a potential basis for cross-examination of the investigator.
+When the defense declined to produce the report, the trail judge refused to permit the investigator to testify.
+The Supreme Court unanimously upheld the trail court's actions, finding that neither the Fifth nor Sixth Amendments nor the attorney work product doctrine prevented disclosure of such a document at trial.
+Noting “the federal judiciary's inherent power to require the prosecution to produce the previously recorded statements of its witnesses so that the defense may get the full benefit of cross-examinations and the truth-finding process may be enhanced,” the Court rejected the notion “that the Fifth amendment renders criminal discovery ‘basically a one-way street,’ÿ7Eÿ7E” and thus concluded that “in a proper case, the prosecution can call upon that same power for production of witness statements that facilitate ‘full disclosure of all the [relevant] facts.’ÿ7Eÿ7E”
+
+The rule, consistent with the reasoning in Nobles, is designed to place the disclosure of prior relevant statements of a defense witness in the possession of the defense on the same legal footing as is the disclosure of prior statements of prosecution witnesses in the hands of the government under the Jencks Act, 18 U.S.C. §3500 (which S. 1437 would replace with the rule set out therein). See United States v. Pulvirenti, 408 F.Supp. 12 (E.D.Mich. 1976), holding that under Nobles “[t]he obligation [of disclosure] placed on the defendant should be the reciprocal of that placed upon the government * * * [as] defined by the Jencks Act.” Several state courts have likewise concluded that witness statements in the hands of the defense at trial should be disclosed on the same basis that prosecution witness statements are disclosed, in order to promote the concept of the trail as a search for truth.
+See, e.g., People v. Sanders, 110 Ill.App.2d 85, 249 N.E.2d 124 (1969); State v. Montague, 55 N.J. 371, 262 A.2d 398 (1970); People v. Damon, 24 N.Y.2d 256, 299 N.Y.S.2d 830, 247 N.E.2d 651 (1959).
+
+The rule, with minor exceptions, makes the procedure identical for both prosecution and defense witnesses, including the provision directing the court, whenever a claim is made that disclosure would be improper because the statement contains irrelevant matter, to examine the statements in camera and excise such matter as should not be disclosed.
+This provision acts as a safeguard against abuse and will enable a defendant who believes that a demand is being improperly made to secure a swift and just resolution of the issue.
+
+The treatment as to defense witnesses of necessity differs slightly from the treatment as to prosecution witnesses in terms of the sanction for a refusal to comply with the court's disclosure order.
+Under the Jencks Act and the rule proposed in S. 1437, if the prosecution refuses to abide by the court's order, the court is required to strike the witness's testimony unless in its discretion it determines that the more serious sanction of a mistrial in favor of the accused is warranted.
+Under this rule, if a defendant refuses to comply with the court's disclosure order, the court's only alternative is to enter an order striking or precluding the testimony of the witness, as was done in Nobles.
+
+Under subdivision (a) of the rule, the motion for production may be made by “a party who did not call the witness.” Thus, it also requires disclosure of statements in the possession of either party when the witness is called neither by the prosecution nor the defense but by the court pursuant to the Federal Rules of Evidence.
+Present law does not deal with this situation, which consistency requires be treated in an identical manner as the disclosure of statements of witnesses called by a party to the case.
 
 Effective Date of Rule
 
@@ -4059,6 +4357,8 @@ Power of Supreme Court to prescribe, see section 2072 of Title 28, Judiciary and
 
 Setting aside verdict of guilty, new trial or entry of judgment of acquittal, see rule 29.
 
+ 
+
 VII. JUDGMENT
 
 Rule 32. Sentence and Judgment
@@ -4298,8 +4598,6 @@ Reduction of sentence, generally, see rule 35.
 
 Sentences, see section 3551 et seq. of this title.
 
- 
-
 Rule 32.1. Revocation or Modification of Probation or Supervised Release
 
 (a) Revocation of Probation or Supervised Release.
@@ -4470,6 +4768,8 @@ See Rule II (2) of Criminal Appeals Rules of 1933, 292 U.S.C. 661.
 Cross References
 
 Enlargement of time not permitted for motion under this rule, see rule 45.
+
+ 
 
 Rule 35. Correction or Reduction of Sentence
 
@@ -4666,9 +4966,8 @@ IX. SUPPLEMENTARY AND SPECIAL PROCEEDINGS
 Rule 40. Commitment to Another District
 
 (a) Appearance Before Federal Magistrate Judge.
-If a person is arrested in a district other than that in which the offense is alleged to have been committed, that person must be taken without unnecessary delay before the nearest available federal magistrate judge.
-Preliminary proceedings concerning the defendant must be conducted in accordance with Rules 5 and 5.1, except that if no preliminary examination is held because an indictment has been returned or an information filed or because the defendant elects to have the preliminary examination conducted in the district in which the prosecution is pending, the person must be held to answer upon a finding that such person is the person named in the indictment, information or warrant.
-If held to answer, the defendant must be held to answer in the district court in which the prosecution is pending—provided that a warrant is issued in that district if the arrest was made without a warrant—upon production of the warrant or a certified copy thereof.
+If a person is arrested in a district other than that in which the offense is alleged to have been committed, that person shall be taken without unnecessary delay before the nearest available federal magistrate judge, in accordance with the provisions of Rule 5. Preliminary proceedings concerning the defendant shall be conducted in accordance with Rules 5 and 5.1, except that if no preliminary examination is held because an indictment has been returned or an information filed or because the defendant elects to have the preliminary examination conducted in the district in which the prosecution is pending, the person shall be held to answer upon a finding that such person is the person named in the indictment, information or warrant.
+If held to answer, the defendant shall be held to answer in the district court in which the prosecution is pending—provided that a warrant is issued in that district if the arrest was made without a warrant—upon production of the warrant or a certified copy thereof.
 The warrant or certified copy may be produced by facsimile transmission.
 
 (b) Statement by Federal Magistrate Judge.
@@ -4703,7 +5002,8 @@ Aug. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title II, §§209(c), 215(d), 98 
 Aug. 1, 1987; Apr. 25, 1989, eff.
 Dec. 1, 1989; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 1994, eff.
-Dec. 1, 1994.)
+Dec. 1, 1994; Apr. 27, 1995, eff.
+Dec. 1, 1995.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4739,6 +5039,18 @@ Since the action of the grand jury is not subject to review by a district judge 
 Note to Subdivision (b). The rule provides that all removal hearings shall take place before a United States commissioner or a Federal judge.
 It does not confer such jurisdiction on State or local magistrates.
 While theoretically under existing law State and local magistrates have authority to conduct removal hearings, nevertheless as a matter of universal practice, such proceedings are always conducted before a United States commissioner or a Federal judge, 9 Edmunds, Cyclopedia of Federal Procedure 3919.
+
+1984 Amendment
+
+Subd. (d)(1). Pub. L. 98–473, §215(d), substituted “3605” for “3653”.
+
+Subd. (f). Pub. L. 98–473, §209(c), substituted “Release or Detention” for “Bail” as the subdivision heading and, in text, substituted “If a person was previously detained or conditionally released, pursuant to chapter 207 of title 18, United States Code,” for “If bail was previously fixed”, “decision previously made” for “amount of bail previously fixed”, “by that decision” for “by the amount of bail previously fixed”, and “amends the release or detention decision or alters the conditions of release” for “fixes bail different from that previously fixed”.
+
+1979 Amendment
+
+Subd. (d)(1). Pub. L. 96–42, §1(2)(A), struck out “in accordance with Rule 32.1(a)” after “Proceed in”.
+
+Subd. (d)(2). Pub. L. 96–42, §1(2)(B), struck out “in accordance with Rule 32.1(a)(1)” after “Hold a prompt preliminary hearing”.
 
 Cross References
 
@@ -4964,8 +5276,6 @@ Search without, federal officer, agent or employee, see section 2236 of this tit
 
 Wire or oral communications, authorization for interception, to provide evidence of certain offenses, see section 2516 of this title.
 
- 
-
 Rule 42. Criminal Contempt
 
 (a) Summary Disposition.
@@ -5095,7 +5405,7 @@ U.S.C., Title 48:
 
 U.S.C., Title 49:
 
- Section 12 [now 10321(c)(3)] (Interstate Commerce Commission; authority and duties of commission; witnesses; depositions—(3) Compelling attendance and testimony of witnesses, etc.)
+ Section 12 [see 721(c)(2), 13301(c)(2)] (Interstate Commerce Commission; authority and duties of commission; witnesses; depositions—(3) Compelling attendance and testimony of witnesses, etc.)
 
 Federal Rules of Civil Procedure:
 
@@ -5137,26 +5447,29 @@ Rule 43. Presence of the Defendant
 The defendant shall be present at the arraignment, at the time of the plea, at every stage of the trial including the impaneling of the jury and the return of the verdict, and at the imposition of sentence, except as otherwise provided by this rule.
 
 (b) Continued Presence Not Required.
-The further progress of the trial to and including the return of the verdict shall not be prevented and the defendant shall be considered to have waived the right to be present whenever a defendant, initially present,
+The further progress of the trial to and including the return of the verdict, and the imposition of sentence, will not be prevented and the defendant will be considered to have waived the right to be present whenever a defendant, initially present at trial, or having pleaded guilty or nolo contendere,
 
-(1) is voluntarily absent after the trial has commenced (whether or not the defendant has been informed by the court of the obligation to remain during the trial), or
+(1) is voluntarily absent after the trial has commenced (whether or not the defendant has been informed by the court of the obligation to remain during the trial),
 
-(2) after being warned by the court that disruptive conduct will cause the removal of the defendant from the courtroom, persists in conduct which is such as to justify exclusion from the courtroom.
+(2) in a noncapital case, is voluntarily absent at the imposition of sentence, or
+
+(3) after being warned by the court that disruptive conduct will cause the removal of the defendant from the courtroom, persists in conduct which is such as to justify exclusion from the courtroom.
 
 (c) Presence Not Required.
-A defendant need not be present in the following situations:
+A defendant need not be present:
 
-(1) A corporation may appear by counsel for all purposes.
+(1) when represented by counsel and the defendant is an organization, as defined in 18 U.S.C. §18;
 
-(2) In prosecutions for offenses punishable by fine or by imprisonment for not more than one year or both, the court, with the written consent of the defendant, may permit arraignment, plea, trial, and imposition of sentence in the defendant's absence.
+(2) when the offense is punishable by fine or by imprisonment for not more than one year or both, and the court, with the written consent of the defendant, permits arraignment, plea, trial, and imposition of sentence in the defendant's absence;
 
-(3) At a conference or argument upon a question of law.
+(3) when the proceeding involves only a conference or hearing upon a question of law; or
 
-(4) At a reduction of sentence under Rule 35.
+(4) when the proceeding involves a correction of sentence under Rule 35.
 
 (As amended Apr. 22, 1974, eff.
 Dec. 1, 1975; July 31, 1975, Pub. L. 94–64, §3(35), 89 Stat. 376; Mar. 9, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 27, 1995, eff.
+Dec. 1, 1995.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -5536,16 +5849,16 @@ Lack of notice of the entry by the clerk does not affect the time to appeal or r
 Papers required to be served shall be filed with the court.
 Papers shall be filed in the manner provided in civil actions.
 
-(e) Filing of Dangerous Offender Notice.
-A filing with the court pursuant to 18 U.S.C. §3575(a) or 21 U.S.C. §849(a) shall be made by filing the notice with the clerk of the court.
-The clerk shall transmit the notice to the chief judge or, if the chief judge is the presiding judge in the case, to another judge or United States magistrate judge in the district, except that in a district having a single judge and no United States magistrate judge, the clerk shall transmit the notice to the court only after the time for disclosure specified in the aforementioned statutes and shall seal the notice as permitted by local rule.
+[(e) Filing of Dangerous Offender Notice.] (Abrogated Apr. 27, 1995, eff.
+Dec. 1, 1995.)
 
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Dec. 4, 1967, eff.
 July 1, 1968; Apr. 29, 1985, eff.
 Aug. 1, 1985; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 22, 1993, eff.
-Dec. 1, 1993.)
+Dec. 1, 1993; Apr. 27, 1995, eff.
+Dec. 1, 1995.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -5578,7 +5891,7 @@ Enlargement of time for taking appeal not permitted, see rule 45.
 
 Service of notice of motion and affidavits, see rule 45.
 
- 
+  
 
 Rule 50. Calendars; Plans for Prompt Disposition
 
@@ -5668,8 +5981,6 @@ While the matter to which the rule refers has not been a problem in the Federal 
 Cross References
 
 Power of court to punish for contempt, see section 401 of this title.
-
- 
 
 Rule 54. Application and Exception
 
@@ -6062,7 +6373,7 @@ The rule is equally applicable to any other statute employing the same terminolo
 References in Text
 
 Act of March 24, 1976 (90 Stat. 263), referred to in subd. (a), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of Title 48, Territories and Insular Possessions.
-For complete classification of this Act to the Code, see Tables.
+The covenant provided by the Act is set out as a note under section 1801 of Title 48. For complete classification of this Act to the Code, see Tables.
 
 1988 Amendment
 
@@ -6102,8 +6413,6 @@ Removal of State criminal proceedings against certain Federal officers to distri
 
 Scope of rules, generally, see rule 1.
 
- 
-
 1 The word “District” probably should be “District Court”.
 
 2 The words “Canal Zone” probably should be “Canal Zone Code”.
@@ -6125,32 +6434,6 @@ Notes of Advisory Committee on Rules—1944
 The Federal Rules of Civil Procedure Rule 79 [28 U.S.C., Appendix], prescribed in detail the books and records to be kept by the clerk in civil cases.
 Subsequently to the effective date of the civil rules, however, the Act establishing the Administrative Office of the United States Courts became law (Act of August 7, 1939; 53 Stat. 1223; 28 U.S.C. 444–450 [now 332–333, 456, 601–610]). One of the duties of the Director of that Office is to have charge, under the supervision and direction of the Conference of Senior Circuit Judges, of all administrative matters relating to the offices of the clerks and other clerical and administrative personnel of the courts, 28 U.S.C. 446 [now 604, 609]. In view of this circumstance it seemed best not to prescribe the records to be kept by the clerks of the district courts and by the United States commissioners, in criminal proceedings, but to vest the power to do so in the Director of the Administrative Office of the United States Courts with the approval of the Conference of Senior Circuit Judges.
 
-Cross References
-
-Supervisory duties of Director of Administrative Office of the United States Courts, see section 604 of Title 28, Judiciary and Judicial Procedure.
-
-Rule 56. Courts and Clerks
-
-The district court shall be deemed always open for the purpose of filing any proper paper, of issuing and returning process and of making motions and orders.
-The clerk's office with the clerk or a deputy in attendance shall be open during business hours on all days except Saturdays, Sundays, and legal holidays, but a court may provide by local rule or order that its clerk's office shall be open for specified hours on Saturdays or particular legal holidays other than New Year's Day, Birthday of Martin Luther King, Jr., Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, and Christmas Day.
-
-(As amended Dec. 27, 1948, eff.
-Oct. 20, 1949; Feb. 28, 1966, eff.
-July 1, 1966; Dec. 4, 1967, eff.
-July 1, 1968; Mar. 1, 1971, eff.
-July 1, 1971; Apr. 25, 1988, eff.
-Aug. 1, 1988.)
-
-Notes of Advisory Committee on Rules—1944
-
-1. The first sentence of this rule is substantially the same as Rule 77(a) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix], except that it is applicable to circuit courts of appeals as well as to district courts.
-
-2. In connection with this rule, see 28 U.S.C. [former] 14 (Monthly adjournments for trial of criminal causes) and sec. 15 [now 141] (Special terms). These sections “indicate a policy of avoiding the hardships consequent upon a closing of the court during vacations,” Abbott v. Brown, 241 U.S. 606, 611.
-
-3. The second sentence of the rule is identical with the first sentence of Rule 77(c) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix].
-
-4. The term “legal holidays” includes Federal holidays as well as holidays prescribed by the laws of the State where the clerk's office is located.
-
 Federal Rules of Civil Procedure
 
 District courts always open, see rule 77, Title 28, Appendix, Judiciary and Judicial Procedure.
@@ -6161,16 +6444,27 @@ Courts always open, see section 452 of Title 28, Judiciary and Judicial Procedur
 
 Rule 57. Rules by District Courts
 
-Each district court by action of a majority of the judges thereof may from time to time, after giving appropriate public notice and an opportunity to comment, make and amend rules governing its practice not inconsistent with these rules.
+(a) In General.
+
+(1) Each district court acting by a majority of its district judges may, after giving appropriate public notice and an opportunity to comment, make and amend rules governing its practice.
+A local rule shall be consistent with—but not duplicative of—Acts of Congress and rules adopted under 28 U.S.C. §2072 and shall conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
+
+(2) A local rule imposing a requirement of form shall not be enforced in a manner that causes a party to lose rights because of a nonwillful failure to comply with the requirement.
+
+(b) Procedure When There Is No Controlling Law.
+A judge may regulate practice in any manner consistent with federal law, these rules, and local rules of the district.
+No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, or the local district rules unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
+
+(c) Effective Date and Notice.
 A local rule so adopted shall take effect upon the date specified by the district court and shall remain in effect unless amended by the district court or abrogated by the judicial council of the circuit in which the district is located.
-Copies of the rules and amendments so made by any district court shall upon their promulgation be furnished to the judicial council and the Administrative Office of the United States Courts and be made available to the public.
-In all cases not provided for by rule, the district judges and magistrate judges may regulate their practice in any manner not inconsistent with these rules or those of the district in which they act.
+Copies of the rules and amendments so made by any district court shall upon their promulgation be furnished to the judicial council and the Administrative Office of the United States Courts and shall be made available to the public.
 
 (As amended Dec. 27, 1948, eff.
 Oct. 20, 1949; Dec. 4, 1967, eff.
 July 1, 1968; Apr. 29, 1985, eff.
 Aug. 1, 1985; Apr. 22, 1993, eff.
-Dec. 1, 1993.)
+Dec. 1, 1993; Apr. 27, 1995, eff.
+Dec. 1, 1995.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -6410,4 +6704,3 @@ Rule 58 and the Appendix of Forms are unnecessary and have been abrogated.
 Forms of indictment and information are made available to United States Attorneys’ offices by the Department of Justice.
 Forms used by the courts are made available by the Director of the Administrative Office of the United States Courts.
 
- 

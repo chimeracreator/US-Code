@@ -99,23 +99,14 @@ Sec. 33. Executive Order No. 10798 of January 3, 1959, is hereby revoked.
 
 Dwight D. Eisenhower.      
 
-Standard proportions	Hoist (width) of flag 1.0	Fly (length) of flag 1.9	Hoist (width) of Union 0.5385(7/13)
-
-	Fly (length) of Union 0.76	0.054
-
-	0.054
-
-	0.063
-
-	0.063
-
-	Diameter of star 0.0616	Width of stripe 0.0769(1/13)
-
-	A	B	C	D	E	F	G	H	K	L
+Standard proportions 	Hoist (width) of flag 1.0	Fly (length) of flag 1.9	Hoist (width) of Union 0.5385 (7/13)	Fly (length) of Union 0.76	0.054                  	0.054                  	0.063                  	0.063                  	Diameter of star 0.0616	Width of stripe 0.0769 (1/13)
+	A     	B     	C     	D     	E     	F     	G     	H     	K     	L     
 
 Section Referred to in Other Sections
 
 This section is referred to in title 36 section 173.
+
+ 
 
 §2. Same; additional stars
 
@@ -232,6 +223,8 @@ Section Referred to in Other Sections
 
 This section is referred to in title 42 section 97.
 
+ 
+
 CHAPTER 4—THE STATES
 
 Sec.
@@ -277,6 +270,9 @@ Compacts between States for cooperation in prevention of crime; consent of Congr
 113.
 Residence of Members of Congress for State income tax laws.
 
+114.
+Limitation on State income taxation of certain pension income 1
+
         
 
 Civil and Criminal Jurisdiction over Indians
@@ -287,6 +283,9 @@ Consent of United States to other States to assume jurisdiction with respect to 
 
 1 So in original.
 Does not conform to section catchline.
+
+1 So in original.
+Probably should be followed by a period.
 
 §101. Oath by members of legislatures and officers
 
@@ -442,7 +441,7 @@ See also section 7852(b) of Title 26, Internal Revenue Code, for provision that 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 108, 113 of this title.
+This section is referred to in sections 108, 113, 114 of this title.
 
 §111. Same; taxation affecting Federal employees; income tax
 
@@ -475,7 +474,7 @@ Admission of Alaska and Hawaii to Statehood
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc.
 No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc.
 No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions.
-For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48. 
+For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 
 §113. Residence of Members of Congress for State income tax laws
 
@@ -514,6 +513,63 @@ Pub. L. 99–190, §101(c) [H.R. 3067, §131], Dec. 19, 1985, 99 Stat. 1224; Pub
 “(3) the term ‘personal property tax’ means any tax imposed on an annual basis and levied on, with respect to, or measured by, the market value or assessed value of an item of personal property.
 
 “(c) This section shall apply to all taxable periods beginning on or after January 1, 1985.”
+
+§114. Limitation on State income taxation of certain pension income
+
+(a) No State may impose an income tax on any retirement income of an individual who is not a resident or domiciliary of such State (as determined under the laws of such State).
+
+(b) For purposes of this section—
+
+(1) The term “retirement income” means any income from—
+
+(A) a qualified trust under section 401(a) of the Internal Revenue Code of 1986 that is exempt under section 501(a) from taxation;
+
+(B) a simplified employee pension as defined in section 408(k) of such Code;
+
+(C) an annuity plan described in section 403(a) of such Code;
+
+(D) an annuity contract described in section 403(b) of such Code;
+
+(E) an individual retirement plan described in section 7701(a)(37) of such Code;
+
+(F) an eligible deferred compensation plan (as defined in section 457 of such Code);
+
+(G) a governmental plan (as defined in section 414(d) of such Code);
+
+(H) a trust described in section 501(c)(18) of such Code; or
+
+(I) any plan, program, or arrangement described in section 3121(v)(2)(C) of such Code, if such income—
+
+(i) is part of a series of substantially equal periodic payments (not less frequently than annually) made for—
+
+(I) the life or life expectancy of the recipient (or the joint lives or joint life expectancies of the recipient and the designated beneficiary of the recipient), or
+
+(II) a period of not less than 10 years, or
+
+(ii) is a payment received after termination of employment and under a plan, program, or arrangement (to which such employment relates) maintained solely for the purpose of providing retirement benefits for employees in excess of the limitations imposed by 1 or more of sections 401(a)(17), 401(k), 401(m), 402(g), 403(b), 408(k), or 415 of such Code or any other limitation on contributions or benefits in such Code on plans to which any of such sections apply.
+
+Such term includes any retired or retainer pay of a member or former member of a uniform service computed under chapter 71 of title 10, United States Code.
+
+(2) The term “income tax” has the meaning given such term by section 110(c).
+
+(3) The term “State” includes any political subdivision of a State, the District of Columbia, and the possessions of the United States.
+
+(e) 1 Nothing in this section shall be construed as having any effect on the application of section 514 of the Employee Retirement Income Security Act of 1974.
+
+(Added Pub. L. 104–95, §1(a), Jan. 10, 1996, 109 Stat. 979.)
+
+References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified generally to Title 26, Internal Revenue Code.
+
+Section 514 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (e), is classified to section 1144 of Title 29, Labor.
+
+Effective Date
+
+Section 1(c) of Pub. L. 104–95 provided that: “The amendments made by this section [enacting this section] shall apply to amounts received after December 31, 1995.”
+
+1 So in original.
+No subsecs. (c) and (d) have been enacted.
 
 CHAPTER 5—OFFICIAL TERRITORIAL PAPERS
 
@@ -580,18 +636,6 @@ Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of 
 
 See note preceding section 141 of this title.
 
-§143. Employment and utilization of other personnel; cost of copy reading and indexing
-
-(a) In carrying out his functions under this chapter, the Archivist may employ such clerical assistants as may be necessary.
-
-(b) The work of copy reading and index making for the publication of the papers described in section 141 of this title shall be done by the regular editorial staff of the National Archives and Records Administration, and the cost of this particular phase of the work (prorated each month according to the number of hours spent and the annual salaries of the clerks employed) shall be charged against the annual appropriations made under section 146 of this title.
-
-(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Oct. 19, 1984, Pub. L. 98–497, title I, §107(f), 98 Stat. 2292.)
-
-Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
-
-See note preceding section 141 of this title.
-
 §144. Cooperation of departments and agencies
 
 The heads of the several executive departments and independent agencies and establishments shall cooperate with the Archivist in the work prescribed by section 141 of this title by permitting access to any records deemed by him to be necessary to the completion of such work.
@@ -633,5 +677,6 @@ See note preceding section 141 of this title.
 
 Section Referred to in Other Sections
 
-This section is referred to in section 143 of this title. 
+This section is referred to in section 143 of this title.
 
+ 

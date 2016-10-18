@@ -159,6 +159,8 @@ A work consisting of editorial revisions, annotations, elaborations, or other mo
 
 A “device”, “machine”, or “process” is one now known or later developed.
 
+A “digital transmission” is a transmission in whole or in part in a digital or other non-analog format.
+
 To “display” a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially.
 
 A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration.
@@ -240,13 +242,17 @@ For the purpose of the foregoing sentence, a “supplementary work” is a work 
 
 A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348.)
 
 Historical and Revision Notes
 
 house report no. 94–1476
 
 The significant definitions in this section will be mentioned or summarized in connection with the provisions to which they are most relevant.
+
+Short Title of 1995 Amendment
+
+Section 1 of Pub. L. 104–39 provided that: “This Act [amending this section and sections 106, 111, 114, 115, 119, and 801 to 803 of this title and enacting provisions set out as a note above] may be cited as the ‘Digital Performance Right in Sound Recordings Act of 1995’.”
 
 Short Title of 1994 Amendment
 
@@ -326,7 +332,9 @@ Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: 
 
 Section Referred to in Other Sections
 
-This section is referred to in section 106A of this title; title 2 section 179i; title 18 sections 2318, 2319.
+This section is referred to in sections 106A, 114 of this title; title 2 section 179i; title 18 sections 2318, 2319.
+
+ 
 
 §102. Subject matter of copyright: In general
 
@@ -549,6 +557,8 @@ Preemption of other laws that come within subject matter of this section, see se
 Section Referred to in Other Sections
 
 This section is referred to in sections 104, 301 of this title; title 19 section 2242.
+
+ 
 
 §104. Subject matter of copyright: National origin
 
@@ -1333,7 +1343,7 @@ The Director-General shall send certified copies to the signatory States to the 
 
 Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on Treaties in Force, as of January 1, 1995, published by the Department of State:
+The following is based on Treaties in Force, as of January 1, 1996, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries.
 This appendix is an attempt to present a complete and annotated list of those countries.
@@ -1412,6 +1422,11 @@ Pcss
 Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite.
 Done at Brussels May 21, 1974. Entered into force with respect to the United States on March 7, 1985.
 
+WTO
+Member of the World Trade Organization, established pursuant to the Marrakesh Agreement of April 15, 1994, to implement the Uruguay Round Agreements.
+These Agreements affect, among other things, intangible property rights, including copyright and other intellectual property rights.
+The effective date of United States membership in the WTO is January 1, 1995. A country's membership in the World Trade Organization is effective as of the date indicated.
+
         
 
 Proclamations, Treaties, and Conventions Establishing Copyright Relations Between the United States and Other Countries	Country	Document	Date of document	Effective date for party 28	Reference
@@ -1419,11 +1434,13 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	Algeria	UCC	Sept. 6, 1952	Aug. 28, 1973	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	Andorra	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
+	Antigua and Barbuda 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Argentina	Pm	Aug. 23, 1934	Aug. 23, 1934	49 Stat. 3413.
 	 	BAC	Aug. 11, 1910	Apr. 19, 1950	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	Feb. 13, 1958	6 UST 2731.
 	 	Berne (Brussels)	June 26, 1948	June 10, 1967	331 UNTS 217.
 	 	Pg \32\	Oct. 29, 1971	June 30, 1973	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Armenia 	Pcss 	May 21, 1974 	Dec. 13, 1993 	T. Doc. 98–31.
 	Australia 1	Pm	Apr. 3, 1918	Mar. 15, 1918	40 Stat. 1764.
 	 	Pxx 2	Dec. 29, 1949	Dec. 29, 1949	64 Stat. A385.
@@ -1432,6 +1449,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	Feb. 28, 1978	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Mar. 1, 1978	T. Doc. 99–27.
 	 	Pcss	May 21, 1974	Oct. 26, 1990	T. Doc. 98–31.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Austria 3	P	Sept. 20, 1907	Sept. 20, 1907	35 Stat. 2155.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Px	May 25, 1922	May 25, 1922	42 Stat. 2273.
@@ -1442,49 +1460,67 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	Aug. 14, 1982	25 UST 1341.
 	 	Pg	Oct. 29, 1971	Aug. 21, 1982	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	Aug. 21, 1982	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Bahamas, The	UCC	Sept. 6, 1952	Dec. 27, 1976	6 UST 2731.
 	 	Berne (Brussels)	June 26, 1948	July 10, 1973	331 UNTS 217.
 	 	UCC rev.	July 24, 1971	Dec. 27, 1976	25 UST 1341.
+	Bahrain 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Bangladesh	UCC	Sept. 6, 1952	Aug. 5, 1975	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Aug. 5, 1975	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Barbados	UCC	Sept. 6, 1952	June 18, 1983	6 UST 2731.
 	 	UCC rev.	July 24, 1971	June 18, 1983	25 UST 1341.
 	 	Pg	Oct. 29, 1971	July 29, 1983	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	July 30, 1983	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Belarus 	UCC 	Sept. 6, 1952 	May 27, 1973 	6UST 2731.
 	Belgium	P	July 1, 1891	July 1, 1891	27 Stat. 981.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	June 14, 1911	July 1, 1909	37 Stat. 1688.
 	 	Berne (Brussels)	June 26, 1948	Aug. 1, 1951	331 UNTS 217.
 	 	UCC	Sept. 6, 1952	Aug. 31, 1960	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Belize	UCC \20\	Sept. 6, 1952	Dec. 1, 1982	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Benin	Berne (Paris)	July 24, 1971	Mar. 12, 1975	T. Doc. 99–27.
 	Bolivia	BAC	Aug. 11, 1910	May 15, 1914	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	Mar. 22, 1990	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Mar. 22, 1990	25 UST 1341.
 	 	Berne (Paris) 	July 24, 1971 	Nov. 4, 1993 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Sept. 13, 1995 	33 ILM 15.
 	Bosnia and Herzegovina 	UCC 	Sept. 6, 1952 	May 11, 1966 	6 UST 2731.
 	 	UCC rev. 	July 24, 1971 	July 10, 1974 	25 UST 1341.
 	 	Berne (Paris) 	July 24, 1971 	Mar. 6, 1992 	T. Doc. 99–27.
 	 	Pcss 	May 21, 1974 	Mar. 6, 1992 	T. Doc. 98–31.
+	Botswana 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Brazil	BAC	Aug. 11, 1910	Aug. 31, 1915	38 Stat. 1785.
 	 	Pm	Apr. 2, 1957	Apr. 2, 1957	8 UST 424.
 	 	UCC	Sept. 6, 1952	Jan. 13, 1960	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Apr. 20, 1975	T. Doc. 99–27.
 	 	Pg	Oct. 29, 1971	Nov. 28, 1975	25 UST 309.
 	 	UCC rev.	July 24, 1971	Dec. 11, 1975	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Brunei 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Bulgaria	Berne (Paris)	July 24, 1971	Dec. 4, 1974	T. Doc. 99–27.
 	 	UCC	Sept. 6, 1952	June 7, 1975	6 UST 2731.
 	 	UCC rev.	July 24, 1971	June 7, 1975	25 UST 1341.
+	 	Pg 	Oct. 29, 1971 	Sept. 6, 1995 	25 UST 309.
 	Burkina Faso	Berne (Paris)	July 24, 1971	Jan. 24, 1976	T. Doc. 99–27.
 	 	Pg	Oct. 29, 1971	Jan. 30, 1988	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	June 3, 1995 	33 ILM 15.
+	Burma 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Burundi 	WTO 	Apr. 15, 1994 	July 23, 1995 	33 ILM 15.
 	Cambodia 6	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
 	Cameroon	UCC	Sept. 6, 1952	May 1, 1973	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Oct. 10, 1974	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Dec. 13, 1995 	33 ILM 15.
 	Canada 1	Pm	Dec. 27, 1923	Jan. 1, 1924	43 Stat. 1932.
 	 	Berne (Rome)	June 2, 1928	Aug. 1, 1931	123 LNTS 232.
 	 	UCC	Sept. 6, 1952	Aug. 10, 1962	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Central African Republic	Berne (Paris)	July 24, 1971	Sept. 3, 1977	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Chad	Berne (Brussels)	June 26, 1948	Nov. 25, 1971	331 UNTS 217.
 	Chile	P	May 25, 1896	May 25, 1896	29 Stat. 880.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
@@ -1493,6 +1529,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	July 10, 1975	T. Doc. 99–27.
 	 	Pg	Oct. 29, 1971	Mar. 24, 1977	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	China	T	Oct. 8, 1903	Jan. 13, 1904	33 Stat. 2208.
 	 	T	Nov. 4, 1946	Nov. 30, 1948	63 Stat. 1299.
 	 	P 4	Mar. 17, 1992	Mar. 17, 1992	57 F. Reg. 9647.
@@ -1505,6 +1542,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	June 18, 1976	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Mar. 7, 1988	T. Doc. 99–27.
 	 	Pg 	Oct. 29, 1971 	May 16, 1994 	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Apr. 30, 1995 	33 ILM 15.
 	Congo	Berne (Paris)	July 24, 1971	Dec. 5, 1975	T. Doc. 99–27.
 	Costa Rica	P	Oct. 19, 1899	Oct. 19, 1899	31 Stat. 1955.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
@@ -1514,7 +1552,9 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Berne (Paris)	July 24, 1971	June 10, 1978	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	Mar. 7, 1980	25 UST 1341.
 	 	Pg	Oct. 29, 1971	June 17, 1982	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Cote d'Ivoire	Berne (Paris)	July 24, 1971	Oct. 10, 1974	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Croatia	UCC	Sept. 6, 1952	May 11, 1966	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Oct. 8, 1991	T. Doc. 99–27.
@@ -1523,15 +1563,18 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	Nov. 27, 1911	May 29, 1911	37 Stat. 1721.
 	 	UCC	Sept. 6, 1952	June 18, 1957	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Apr. 20, 1995 	33 ILM 15.
 	Cyprus	Berne (Paris)	July 24, 1971	July 27, 1983	T. Doc. 99–27.
 	 	UCC	Sept. 6, 1952	Dec. 19, 1990	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Dec. 19, 1990	25 UST 1341.
 	  	Pg 	Oct. 29, 1971 	Sept. 30, 1993 	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	July 30, 1995 	33 ILM 15.
 	Czech Republic \33\ 	UCC 	Sept. 6, 1952 	Jan. 6, 1960 	6 UST 2731.
 	 	UCC rev. 	July 24, 1971 	Apr. 17, 1980 	25 UST 1341.
 	 	Berne (Paris) 	July 24, 1971 	Jan. 1, 1993 	T. Doc. 99–27.
 	 	Pg 	Oct. 29, 1971 	Jan. 1, 1993 	25 UST 309.
-	Czechoslovakia \34\	Pm	Apr. 27, 1927	Mar. 1, 1927	45 Stat. 2906.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Czechoslovakia 34, 35	Pm	Apr. 27, 1927	Mar. 1, 1927	45 Stat. 2906.
 	Danzig 	Pm 	Apr. 7, 1934	Apr. 7, 1934	48 Stat. 1737.
 	Denmark 5	P	May 8, 1893	May 8, 1893	28 Stat. 1219.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
@@ -1541,24 +1584,31 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Pg	Oct. 29, 1971	Mar. 24, 1977	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	June 30, 1979	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	July 11, 1979	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Djibouti 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
+	Dominica 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Dominican Republic	MCC	Jan. 27, 1902	June 30, 1908	35 Stat. 1934.
 	 	BAC	Aug. 11, 1910	Oct. 31, 1912	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	May 8, 1983	6 UST 2731.
 	 	UCC rev.	July 24, 1971	May 8, 1983	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Mar. 9, 1995 	33 ILM 15.
 	Ecuador	BAC	Aug. 11, 1910	Aug. 31, 1914	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	June 5, 1957	6 UST 2731.
 	 	Pg	Oct. 29, 1971	Sept. 14, 1974	25 UST 309.
-	 	UCC rev.	July 24, 1971	June 6, 1991	25 UST 1341.
+	 	UCC rev.	July 24, 1971	Sept. 6, 1991	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Oct. 9, 1991	T. Doc. 99–27.
 	Egypt	Berne (Paris)	July 24, 1971	June 7, 1977	T. Doc. 99–27.
 	 	Pg	Oct. 29, 1971	Apr. 23, 1978	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	June 30, 1995 	33 ILM 15.
 	El Salvador	MCC	Jan. 27, 1902	June 30, 1908	35 Stat. 1934.
 	 	Pg	Oct. 29, 1971	Feb. 9, 1979	25 UST 309.
 	 	UCC	Sept. 6, 1952	Mar. 29, 1979	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Mar. 29, 1979	25 UST 1341.
 	 	Berne (Paris) 	July 24, 1971 	Feb. 19, 1994 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 7, 1995 	33 ILM 15.
 	Estonia 	Berne (Paris) 	July 24, 1971 	Oct. 26, 1994 	T. Doc. 99–27.
-	Fiji	UCC	Sept. 6, 1952	Oct. 10, 1970	6 UST 2731.
+	European Community 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Fiji	UCC	Sept. 6, 1952	Mar. 13, 1972	6 UST 2731.
 	 	Berne (Brussels)	June 26, 1948	Dec. 1, 1971	331 UNTS 217.
 	 	Pg \32\	Oct. 29, 1971	Apr. 18, 1973	25 UST 309.
 	Finland	Pm	Dec. 15, 1928	Jan. 1, 1929	45 Stat. 2980.
@@ -1567,6 +1617,8 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Pg \32\	Oct. 29, 1971	Apr. 18, 1973	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	Nov. 1, 1986	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	Nov. 1, 1986	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Former Yugoslav Republic of Macedonia 	Berne (Paris) 	July 24, 1971 	Sept. 8, 1991 	T. Doc. 99–27.
 	France 6	P	July 1, 1891	July 1, 1891	27 Stat. 981.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	May 24, 1918	May 24, 1918	40 Stat. 1784.
@@ -1576,9 +1628,12 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Pg \32\	Oct. 29, 1971	Apr. 18, 1973	25 UST 309.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Oct. 10, 1974	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Gabon	Berne (Paris)	July 24, 1971	June 10, 1975	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Gambia, The 	Berne (Paris) 	July 24, 1971 	Mar. 7, 1993 	T. Doc. 99–27.
-	Germany 3, \29\	P	Apr. 15, 1892	Apr. 15, 1892	27 Stat. 1021.
+	Georgia 	Berne (Paris) 	July 24, 1971 	May 16, 1995 	T. Doc. 99–27.
+	Germany 3, \29\, \36\ 	P	Apr. 15, 1892	Apr. 15, 1892	27 Stat. 1021.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	Dec. 8, 1910	Dec. 8, 1910	36 Stat. 2761.
 	 	Px	May 25, 1922	May 25, 1922	42 Stat. 2271.
@@ -1588,22 +1643,29 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Oct. 10, 1974	T. Doc. 99–27.
 	 	Pcss \31\	May 21, 1974	Aug. 25, 1979	T. Doc. 98–31.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Ghana	UCC	Sept. 6, 1952	Aug. 22, 1962	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Oct. 11, 1991	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Greece	Pm	Feb. 23, 1932	Mar. 1, 1932	47 Stat. 2502.
 	 	UCC	Sept. 6, 1952	Aug. 24, 1963	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Mar. 8, 1976	T. Doc. 99–27.
 	 	Pcss	May 21, 1974	Oct. 22, 1991	T. Doc. 98–31.
 	 	Pg 	Oct. 29, 1971 	Feb. 9, 1994 	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Guatemala	MCC	Jan. 27, 1902	June 30, 1908	35 Stat. 1934.
 	 	BAC	Aug. 11, 1910	Mar. 28, 1913	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	Oct. 28, 1964	6 UST 2731.
 	 	Pg	Oct. 29, 1971	Feb. 1, 1977	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	July 21, 1995 	33 ILM 15.
 	Guinea	Berne (Paris)	July 24, 1971	Nov. 20, 1980	T. Doc. 99–27.
 	 	UCC	Sept. 6, 1952	Nov. 13, 1981	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Nov. 13, 1981	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Oct. 25, 1995 	33 ILM 15.
 	Guinea-Bissau	Berne (Paris)	July 24, 1971	July 22, 1991	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Guyana 	Berne (Paris) 	July 24, 1971 	Oct. 25, 1994 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Haiti	BAC	Aug. 11, 1910	Nov. 27, 1919	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
 	Holy See (See entry under Vatican City).				
@@ -1611,6 +1673,8 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	BAC	Aug. 11, 1910	Apr. 27, 1914	38 Stat. 1785.
 	 	Berne (Paris)	July 24, 1971	Jan. 25, 1990	T. Doc. 99–27.
 	 	Pg	Oct. 29, 1971	Mar. 6, 1990	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Hong Kong 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Hungary 3	Cm 7	Jan. 30, 1912	Oct. 16, 1912	37 Stat. 1631.
 	 	Px	June 3, 1922	June 3, 1922	42 Stat. 2277.
 	 	T 8, 9	Feb. 10, 1947	Sept. 15, 1947	61 Stat. 2065.
@@ -1618,21 +1682,27 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Oct. 10, 1974	T. Doc. 99–27.
 	 	Pg	Oct. 29, 1971	May 28, 1975	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Iceland	Berne (Rome)	June 2, 1928	Sept. 7, 1947	123 LNTS 232.
 	 	UCC	Sept. 6, 1952	Dec. 18, 1956	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	India 1, \10\	Pm	Oct. 21, 1954	Aug. 15, 1947	5 UST 2529.
 	 	UCC	Sept. 6, 1952	Jan. 21, 1958	6 UST 2731.
 	 	Pg	Oct. 29, 1971	Feb. 12, 1975	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	May 6, 1984	T. Doc. 99–27.
-	 	UCC rev.	July 24, 1971	Jan. 7, 1988	25 UST 1341.
+	 	UCC rev.	July 24, 1971	Apr. 7, 1988	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Indonesia	P	July 31, 1989	Aug. 1, 1989	103 Stat. 3069.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Ireland 1	Pm \11\	Sept. 28, 1929	Oct. 1, 1929	46 Stat. 3005.
 	 	UCC	Sept. 6, 1952	Jan. 20, 1959	6 UST 2731.
 	 	Berne (Brussels)	June 26, 1948	July 5, 1959	331 UNTS 217.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Israel \12\	Pm	May 4, 1950	May 15, 1948	64 Stat. A402.
 	 	Berne (Brussels)	June 26, 1948	Aug. 1, 1951	331 UNTS 217.
 	 	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
 	 	Pg	Oct. 29, 1971	May 1, 1978	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Apr. 21, 1995 	33 ILM 15.
 	Italy	P \13\	Oct. 31, 1892	Oct. 31, 1892	27 Stat. 1043.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm \13\	May 1, 1915	May 1, 1915	39 Stat. 1725.
@@ -1643,9 +1713,11 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Pg	Oct. 29, 1971	Mar. 24, 1977	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	Nov. 14, 1979	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	Jan. 25, 1980	25 UST 1341.
-	 	Pcss\31\	May 21, 1974	July 7, 1981	T. Doc. 98–31.
+	 	Pcss \31\	May 21, 1974	July 7, 1981	T. Doc. 98–31.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Jamaica 	Berne (Paris) 	July 24, 1971 	Jan. 1, 1994 	T. Doc. 99–27.
 	 	Pg 	Oct. 29, 1971 	Jan. 11, 1994 	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Mar. 9, 1995 	33 ILM 15.
 	Japan	C \15\	Nov. 10, 1905	May 10, 1906	34 Stat. 2890.
 	 	C \16\	May 19, 1908	Aug. 6, 1908	35 Stat. 2044.
 	 	T \17\	Sept. 8, 1951	Apr. 28, 1952	3 UST 3169.
@@ -1654,42 +1726,57 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Berne (Paris)	July 24, 1971	Apr. 24, 1975	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	Oct. 21, 1977	25 UST 1341.
 	 	Pg	Oct. 29, 1971	Oct. 14, 1978	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Kazakhstan	UCC	Sept. 6, 1952	May 27, 1973	6 UST 2731.
 	Kenya	UCC	Sept. 6, 1952	Sept. 7, 1966	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Pg	Oct. 29, 1971	Apr. 21, 1976	25 UST 309.
 	 	Pcss \31\	May 21, 1974	Aug. 25, 1979	T. Doc. 98–31.
 	 	Berne (Paris) 	July 24, 1971 	June 11, 1993 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Korea	C \19\	May 19, 1908	Aug. 6, 1908	35 Stat. 2041.
 	Korea, Republic of	UCC	Sept. 6, 1952	Oct. 1, 1987	6 UST 2731.
 		UCC rev.	July 24, 1971	Oct. 1, 1987	25 UST 1341.
 		Pg	Oct. 29, 1971	Oct. 10, 1987	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Laos 6	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
-	Lebanon	Berne (Rome)	June 2, 1928	Sept. 30, 1947	123 LNTS 232.
-	 	UCC	Sept. 6, 1952	Oct. 17, 1959	6 UST 2731.
-	Lesotho	Berne (Paris)	July 24, 1971	Sept. 28, 1989	T. Doc. 99–27.
+	Latvia 	Berne (Paris) 	July 24, 1971 	Aug. 11, 1995 	T. Doc. 99–27.
+	Lebanon 	Berne (Rome) 	June 2, 1928 	Sept. 30, 1947 	123 LNTS 232.
+	 	UCC 	Sept. 6, 1952 	Oct. 17, 1959 	6 UST 2731.
+	Lesotho 	Berne (Paris) 	July 24, 1971 	Sept. 28, 1989 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Liberia	UCC	Sept. 6, 1952	July 27, 1956	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Mar. 8, 1989	T. Doc. 99–27.
 	Libya	Berne (Paris)	July 24, 1971	Sept. 28, 1976	T. Doc. 99–27.
 	Liechtenstein	Berne (Brussels)	June 26, 1948	Aug. 1, 1951	331 UNTS 217.
 	 	UCC	Sept. 6, 1952	Jan. 22, 1959	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Sept. 1, 1995 	33 ILM 15.
 	Lithuania 	Berne (Paris) 	July 24, 1971 	Dec. 14, 1994 	T. Doc. 99–27.
 	Luxembourg	P	June 29, 1910	June 29, 1910	36 Stat. 2716.
 	 	Pm	June 14, 1911	June 29, 1910	37 Stat. 1689.
 	 	UCC	Sept. 6, 1952	Oct. 15, 1955	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Apr. 20, 1975	T. Doc. 99–27.
 	 	Pg	Oct. 29, 1971	Mar. 8, 1976	25 UST 309.
-	Macedonia (Former Yugoslav Republic) 	Berne (Paris) 	July 24, 1971 	Sept. 8, 1991 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Macau 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Madagascar	Berne (Brussels)	June 26, 1948	Jan. 1, 1966	331 UNTS 217.
+	 	WTO 	Apr. 15, 1994 	Nov. 17, 1995 	33 ILM 15.
 	Malawi	UCC	Sept. 6, 1952	Oct. 26, 1965	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Oct. 12, 1991	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Malaysia	Berne (Paris)	July 24, 1971	Oct. 1, 1990	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Maldives 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Mali 	Berne (Paris) 	July 24, 1971 	Dec. 5, 1977 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Malta	Berne (Rome)	June 2, 1928	Sept. 21, 1964	123 LNTS 232.
 	 	UCC	Sept. 6, 1952	Nov. 19, 1968	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Mauritania	Berne (Paris)	July 24, 1971	Sept. 21, 1976	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Mauritius	UCC	Sept. 6, 1952	Mar. 12, 1968	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	May 10, 1989	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Mexico	P	Feb. 27, 1896	Feb. 27, 1896	29 Stat. 877.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	UCC	Sept. 6, 1952	May 12, 1957	6 UST 2731.
@@ -1698,6 +1785,8 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Berne (Paris)	July 24, 1971	Dec. 17, 1974	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	Oct. 31, 1975	25 UST 1341.
 	 	Pcss \31\	May 21, 1974	Aug. 25, 1979	T. Doc. 98–31.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Moldova 	Berne (Paris) 	July 24, 1971 	Nov. 2, 1995 	T. Doc. 99–27.
 	Monaco	Pm	Oct. 15, 1952	Oct. 15, 1952	67 Stat. C16.
 	 	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Nov. 23, 1974	T. Doc. 99–27.
@@ -1707,7 +1796,10 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	Jan. 28, 1976	25 UST 1341.
 	 	Pcss \31\	May 21, 1974	June 30, 1983	T. Doc. 98–31.
 	 	Berne (Paris)	July 24, 1971	May 17, 1987	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Mozambique 	WTO 	Apr. 15, 1994 	Aug. 26, 1995 	33 ILM 15.
 	Namibia 	Berne (Paris) 	July 24, 1971 	Dec. 24, 1993 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Netherlands and Possessions	P	Nov. 20, 1899	Nov. 20, 1899	31 Stat. 1961.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	Feb. 26, 1923	Oct. 2, 1922	42 Stat. 2297.
@@ -1715,6 +1807,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	Nov. 30, 1985	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Jan. 30, 1986	T. Doc. 99–27.
 	 	Pg 	Oct. 29, 1971 	Oct. 12, 1993 	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	New Zealand 1	Pm	Feb. 9, 1917	Dec. 1, 1916	39 Stat. 1815.
 	 	Px	May 25, 1922	May 25, 1922	42 Stat. 2274.
 	 	Pxx	Apr. 24, 1947	Apr. 24, 1947	61 Stat. 1065.
@@ -1722,25 +1815,30 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Po	May 26, 1950	Dec. 29, 1950	64 Stat. A414.
 	 	UCC	Sept. 6, 1952	Sept. 11, 1964	6 UST 2731.
 	 	Pg	Oct. 29, 1971	Aug. 13, 1976	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Nicaragua	MCC	Jan. 27, 1902	June 30, 1908	35 Stat. 1934.
 	 	BAC	Aug. 11, 1910	Dec. 15, 1913	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	Aug. 16, 1961	6 UST 2731.
 	 	Pcss \31\	May 21, 1974	Aug. 25, 1979	T. Doc. 98–31.
+	 	WTO 	Apr. 15, 1994 	Sept. 3, 1995 	33 ILM 15.
 	Niger	Berne (Paris)	July 24, 1971	May 21, 1975	T. Doc. 99–27.
 	 	UCC	Sept. 6, 1952	May 15, 1989	6 UST 2731.
 	 	UCC rev.	July 24, 1971	May 15, 1989	25 UST 1341.
 	Nigeria	UCC	Sept. 6, 1952	Feb. 14, 1962	6 UST 2731.
 	 	Berne (Paris) 	July 24, 1971 	Sept. 14, 1993 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Norway	P	July 1, 1905	July 1, 1905	34 Stat. 3111.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	June 14, 1911	Sept. 9, 1910	37 Stat. 1687.
 	 	UCC	Sept. 6, 1952	Jan. 23, 1963	6 UST 2731.
-	 	Berne (Brussels)	June 26, 1948	Jan. 28, 1963	331 UNTS 217.
+	 	Berne (Paris)	July 24, 1971	Oct. 11, 1995	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	Aug. 7, 1974	25 UST 1341.
 	 	Pg	Oct. 29, 1971	Aug. 1, 1978	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Pakistan 1	Berne (Rome)	June 2, 1928	July 5, 1948	123 LNTS 232.
 	 	UCC	Sept. 6, 1952	Sept. 16, 1955	6 UST 2731.
-	Palestine (Excluding Trans-Jordan) 	Pm	Sept. 29, 1933	Oct. 1, 1933	48 Stat. 1713.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Palestine (excluding Trans-Jordan) 	Pm	Sept. 29, 1933	Oct. 1, 1933	48 Stat. 1713.
 		Pxx \12\	Mar. 10, 1944	Mar. 10, 1944	58 Stat. 1129.
 		Po \12\	May 26, 1950	Dec. 29, 1950	64 Stat. A412.
 	Panama	BAC	Aug. 11, 1910	Nov. 25, 1913	38 Stat. 1785.
@@ -1752,51 +1850,70 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC	Sept. 6, 1952	Mar. 11, 1962	6 UST 2731.
 	 	Pg	Oct. 29, 1971	Feb. 13, 1979	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	Jan. 2, 1992	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Peru	BAC	Aug. 11, 1910	Apr. 30, 1920	38 Stat. 1785.
 	 	UCC	Sept. 6, 1952	Oct. 16, 1963	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 22, 1985	25 UST 1341.
 	 	Pcss	May 21, 1974	Aug. 7, 1985	T. Doc. 98–31.
 	 	Pg	Oct. 29, 1971	Aug. 24, 1985	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	Aug. 20, 1988	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Philippines	Pm	Oct. 21, 1948	Oct. 21, 1948	62 Stat. 1568.
 	 	UCC \21\	Sept. 6, 1952	Nov. 19, 1955	6 UST 2731.
 	 	Berne (Brussels)	June 26, 1948	Aug. 1, 1951	331 UNTS 217.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Poland	Pm	Feb. 14, 1927	Feb. 16, 1927	44 Stat. 2634.
 	 	Berne (Paris) 	July 24, 1971 	Oct. 22, 1994 	T. Doc. 99–27.
 	 	UCC	Sept. 6, 1952	Mar. 9, 1977	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Mar. 9, 1977	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	July 1, 1995 	33 ILM 15.
 	Portugal	P	July 20, 1893	July 20, 1893	28 Stat. 1222.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	UCC	Sept. 6, 1952	Dec. 25, 1956	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Jan. 12, 1979	T. Doc. 99–27.
 	 	UCC rev.	July 24, 1971	July 30, 1981	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Romania	Pm \22\	May 14, 1928	May 14, 1928	45 Stat. 2949.
 	 	Berne (Rome)	June 2, 1928	Aug. 6, 1936	123 LNTS 232.
 	 	T 9, \23\	Feb. 10, 1947	Sept. 15, 1947	61 Stat. 1757.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Russian Federation	UCC	Sept. 6, 1952	May 27, 1973	6 UST 2731.
 	 	Pcss \30\	May 21, 1974	Dec. 25, 1991	T. Doc. 98–31.
+	 	UCC rev. 	July 24, 1971 	Mar. 9, 1995 	25 UST 1341.
+	 	Berne (Paris) 	July 24, 1971 	Mar. 13, 1995 	T. Doc. 99–27.
+	 	Pg 	Oct. 29, 1971 	Mar. 13, 1995 	25 UST 309.
 	Rwanda	Berne (Paris)	July 24, 1971	Mar. 1, 1984	T. Doc. 99–27.
 	 	UCC	Sept. 6, 1952	Nov. 10, 1989	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Nov. 10, 1989	25 UST 1341.
+	St. Kitts and Nevis 	Berne (Paris) 	July 24, 1971 	Apr. 9, 1995 	T. Doc. 99–27.
 	Saint Lucia 	Berne (Paris) 	July 24, 1971 	Aug. 24, 1993 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Saint Vincent and the Grenadines	UCC	Sept. 6, 1952	Apr. 22, 1985	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Apr. 22, 1985	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	 	Berne (Paris) 	July 24, 1971 	Aug. 29, 1995 	T. Doc. 99–27.
 	Saudi Arabia 	UCC 	Sept. 6, 1952 	July 13, 1994 	6 UST 2731.
 	 	UCC rev. 	July 24, 1971 	July 13, 1994 	25 UST 1341.
 	Senegal	UCC	Sept. 6, 1952	July 9, 1974	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Aug. 12, 1975	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Sierra Leone 	WTO 	Apr. 15, 1994 	July 23, 1995 	33 ILM 15.
 	Singapore	P	May 18, 1987	May 18, 1987	101 Stat. 2134.
-	Slovakia \35\ 	UCC 	Sept. 6, 1952 	Jan. 6, 1960 	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Slovakia \37\ 	UCC 	Sept. 6, 1952 	Jan. 6, 1960 	6 UST 2731.
 	 	UCC rev. 	July 24, 1971 	Apr. 17, 1980 	25 UST 1341.
 	 	Berne (Paris) 	July 24, 1971 	Jan. 1, 1993 	T. Doc. 99–27.
 	 	Pg 	Oct. 29, 1971 	Jan. 1, 1993 	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Slovenia	UCC	Sept. 6, 1952	May 11, 1966	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	June 25, 1991	T. Doc. 99–27.
 	 	Pcss	May 21, 1974	June 25, 1991	T. Doc. 98–31.
+	 	WTO 	Apr. 15, 1994 	July 30, 1995 	33 ILM 15.
 	South Africa 1	Pm	June 26, 1924	July 1, 1924	43 Stat. 1957.
 	 	Berne (Brussels)	June 26, 1948	Aug. 1, 1951	331 UNTS 217.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Spain 5	P \24\	July 10, 1895	July 10, 1895	29 Stat. 871.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	Oct. 10, 1934	Oct. 10, 1934	49 Stat. 3420.
@@ -1804,16 +1921,21 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Pg	Oct. 29, 1971	Aug. 24, 1974	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	Oct. 10, 1974	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Sri Lanka (formerly Ceylon)	Berne (Rome)	June 2, 1928	July 20, 1959	123 LNTS 232.
 	 	UCC	Sept. 6, 1952	Jan. 25, 1984	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Jan. 25, 1984	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Suriname	Berne (Paris)	July 24, 1971	Feb. 23, 1977	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Swaziland 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Sweden	P	May 26, 1911	June 1, 1911	37 Stat. 1682.
 	 	Pm	Feb. 27, 1920	Feb. 1, 1920	41 Stat. 1787.
 	 	UCC	Sept. 6, 1952	July 1, 1961	6 UST 2731.
 	 	Pg \32\	Oct. 29, 1971	Apr. 18, 1973	25 UST 309.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Oct. 10, 1974	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Switzerland	P	July 1, 1891	July 1, 1891	27 Stat. 981.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	 	Pm	Nov. 22, 1924	July 1, 1923	43 Stat. 1976.
@@ -1822,27 +1944,37 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Pcss 	May 21, 1974 	Sept. 24, 1993 	T. Doc. 98–31.
 	 	Berne (Paris) 	July 24, 1971 	Sept. 25, 1993 	T. Doc. 99–27.
 	 	Pg 	Oct. 29, 1971 	Sept. 30, 1993 	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	July 1, 1995 	33 ILM 15.
 	Tajikistan	UCC	Sept. 6, 1952	May 27, 1973	6 UST 2731.
 	Tanzania (United Republic of) 	Berne (Paris) 	July 24, 1971 	July 25, 1994 	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Thailand	T \25\	Dec. 16, 1920	Sept. 1, 1921	42 Stat. 1928.
-	 	Berne (Berlin)	Nov. 13, 1908	July 17, 1931	1 LNTS 217.
 	 	T \25\	Nov. 13, 1937	Oct. 1, 1938	53 Stat. 1731.
 	 	T \25\	May 29, 1966	June 8, 1968	19 UST 5843.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	 	Berne (Paris) 	July 24, 1971 	Sept. 2, 1995 	T. Doc. 99–27.
 	Togo	Berne (Paris)	July 24, 1971	Apr. 30, 1975	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Trinidad and Tobago	Berne (Paris)	July 24, 1971	Aug. 16, 1988	T. Doc. 99–27.
 	 	UCC	Sept. 6, 1952	Aug. 19, 1988	6 UST 2731.
 	 	UCC rev.	July 24, 1971	Aug. 19, 1988	25 UST 1341.
 	 	Pg	Oct. 29, 1971	Oct. 1, 1988	25 UST 309.
+	 	WTO 	Apr. 15, 1994 	Mar. 1, 1995 	33 ILM 15.
 	Tunisia	P \26\	Oct. 4, 1912	Oct. 4, 1912	37 Stat. 1765.
 	 	UCC	Sept. 6, 1952	June 19, 1969	6 UST 2731.
 	 	UCC rev.	July 24, 1971	June 10, 1975	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Aug. 16, 1975	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Mar. 29, 1995 	33 ILM 15.
 	Turkey	Berne (Brussels)	June 26, 1948	Jan. 1, 1952	331 UNTS 217.
+	 	WTO 	Apr. 15, 1994 	Mar. 26, 1995 	33 ILM 15.
+	Uganda 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Ukraine 	UCC 	Sept. 6, 1952 	May 27, 1973 	6 UST 2731.
+	 	Berne (Paris) 	July 24, 1971 	Oct. 25, 1995 	T. Doc. 99–27.
 	United Kingdom 1	UCC	Sept. 6, 1952	Sept. 27, 1957	6 UST 2731.
 	 	Pg \32\	Oct. 29, 1971	Apr. 18, 1973	25 UST 309.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Jan. 2, 1990	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	United Kingdom and Possessions 1	P	July 1, 1891	July 1, 1891	27 Stat. 981.
 	 	P	Apr. 9, 1910	July 1, 1909	36 Stat. 2685.
 	United Kingdom and the British Dominions, Colonies and Possessions with the exception of Canada, Australia, New Zealand, South Africa and Newfoundland 1	PmPmx
@@ -1866,6 +1998,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Pg	Oct. 29, 1971	Jan. 18, 1983	25 UST 309.
 	 	UCC 	Sept. 6, 1952 	Apr. 12, 1993 	6 UST 2731.
 	 	UCC rev. 	July 24, 1971 	Apr. 12, 1993 	25 UST 1341.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Vatican City (Holy See) 	UCC 	Sept. 6, 1952 	Oct. 5, 1955 	6 UST 2731.
 	 	Berne (Paris) 	July 24, 1971 	Apr. 24, 1975 	T. Doc. 99–27.
 	 	Pg 	Oct. 29, 1971 	July 18, 1977 	25 UST 309.
@@ -1873,7 +2006,8 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	Venezuela	UCC	Sept. 6, 1952	Sept. 30, 1966	6 UST 2731.
 	 	Pg	Oct. 29, 1971	Nov. 18, 1982	25 UST 309.
 	 	Berne (Paris)	July 24, 1971	Dec. 30, 1982	T. Doc. 99–27.
-	Yugoslavia	UCC	Sept. 6, 1952	May 11, 1966	6 UST 2731.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Yugoslavia \38\ 	UCC	Sept. 6, 1952 	May 11, 1966 	6 UST 2731.
 	 	UCC rev.	July 24, 1971	July 10, 1974	25 UST 1341.
 	 	Berne (Paris)	July 24, 1971	Sept. 2, 1975	T. Doc. 99–27.
 	 	Pcss \31\	May 21, 1974	Aug. 25, 1979	T. Doc. 98–31.
@@ -1881,7 +2015,9 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	 	Pg	Oct. 29, 1971	Nov. 29, 1977	25 UST 309.
 	Zambia	UCC	Sept. 6, 1952	June 1, 1965	6 UST 2731.
 	 	Berne (Paris)	July 24, 1971	Jan. 2, 1992	T. Doc. 99–27.
+	 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Zimbabwe	Berne (Rome)	June 2, 1928	Apr. 18, 1980	123 LNTS 232.
+	 	WTO 	Apr. 15, 1994 	Mar. 3, 1995 	33 ILM 15.
 
 1 The proclamations of July 1, 1891 and April 9, 1910, apply to “Great Britain and the British possessions,” but the proclamations of January 1, 1915 and April 10, 1920, specifically except Australia, Canada, Newfoundland, New Zealand, and South Africa.
 The proclamations of March 10, 1944 and May 26, 1950, enumerate the various British territories to which they apply; the enumeration does not mention the areas specifically excepted in the proclamations of 1915 and 1920. Proclamations establishing individual copyright relations with Australia, Canada, Ireland, New Zealand, Palestine, and South Africa are listed separately.
@@ -1970,8 +2106,14 @@ Previously, the German Democratic Republic had become party to the Paris Act of 
 
 34 See also Czech Republic, Slovak Republic, and Slovakia.
 
-35 Also known as Slovak Republic.
+35 See note under Czechoslovakia in bilateral section.
+
+36 See note under Germany, Federal Republic of in bilateral section.
+
+37 Also known as Slovak Republic.
 For 1992 and prior years, see Czechoslovakia.
+
+38 See note under Yugoslavia in bilateral section.
 
 Proc.
 No. 3792. Copyright Extension: Germany
@@ -2007,6 +2149,8 @@ Lyndon B. Johnson.      
 Presidential Proclamations Issued Under Predecessor Provisions
 
 Section 104 of Pub. L. 94–553 provided that: “All proclamations issued by the President under section 1(e) or 9(b) of title 17 as it existed on December 31, 1977, or under previous copyright statutes of the United States, shall continue in force until terminated, suspended, or revised by the President.”
+
+      
 
 §104A. Copyright in restored works
 
@@ -2250,6 +2394,8 @@ Section Referred to in Other Sections
 
 This section is referred to in title 15 section 290e.
 
+ 
+
 §106. Exclusive rights in copyrighted works
 
 Subject to sections 107 through 120, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:
@@ -2260,11 +2406,13 @@ Subject to sections 107 through 120, the owner of copyright under this title has
 
 (3) to distribute copies or phonorecords of the copyrighted work to the public by sale or other transfer of ownership, or by rental, lease, or lending;
 
-(4) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and motion pictures and other audiovisual works, to perform the copyrighted work publicly; and
+(4) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and motion pictures and other audiovisual works, to perform the copyrighted work publicly;
 
-(5) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works, including the individual images of a motion picture or other audiovisual work, to display the copyrighted work publicly.
+(5) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works, including the individual images of a motion picture or other audiovisual work, to display the copyrighted work publicly; and
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134.)
+(6) in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, §2, Nov. 1, 1995, 109 Stat. 336.)
 
 Historical and Revision Notes
 
@@ -2775,6 +2923,8 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 106, 106A, 108, 118, 501, 504, 511 of this title; title 18 section 2319.
 
+ 
+
 §108. Limitations on exclusive rights: Reproduction by libraries and archives
 
 (a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for a library or archives, or any of its employees acting within the scope of their employment, to reproduce no more than one copy or phonorecord of a work, or to distribute such copy or phonorecord, under the conditions specified by this section, if—
@@ -3033,6 +3183,8 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 104A, 106, 501, 511 of this title; title 18 section 2319.
 
+ 
+
 §110. Limitations on exclusive rights: Exemption of certain performances and displays
 
 Notwithstanding the provisions of section 106, the following are not infringements of copyright:
@@ -3237,6 +3389,8 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 106, 111, 112, 118, 501, 511 of this title; title 18 section 2319.
 
+ 
+
 §111. Limitations on exclusive rights: Secondary transmissions
 
 (a) Certain Secondary Transmissions Exempted.—The secondary transmission of a primary transmission embodying a performance or display of a work is not an infringement of copyright if—
@@ -3261,7 +3415,7 @@ This section is referred to in sections 106, 111, 112, 118, 501, 511 of this tit
 
 (c) Secondary Transmissions by Cable Systems.—
 
-(1) Subject to the provisions of clauses (2), (3), and (4) of this subsection, secondary transmissions to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work shall be subject to compulsory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission.
+(1) Subject to the provisions of clauses (2), (3), and (4) of this subsection and section 114(d), secondary transmissions to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work shall be subject to compulsory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission.
 
 (2) Notwithstanding the provisions of clause (1) of this subsection, the willful or repeated secondary transmission to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, in the following cases:
 
@@ -3371,7 +3525,7 @@ An “independent station” is a commercial television broadcast station other 
 
 A “noncommercial educational station” is a television station that is a noncommercial educational broadcast station as defined in section 397 of title 47.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2550; Pub. L. 99–397, §§1, 2(a), (b), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–667, title II, §202(1), Nov. 16, 1988, 102 Stat. 3949; Pub. L. 101–318, §3(a), July 3, 1990, 104 Stat. 288; Pub. L. 103–198, §6(a), Dec. 17, 1993, 107 Stat. 2311; Pub. L. 103–369, §3, Oct. 18, 1994, 108 Stat. 3480.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2550; Pub. L. 99–397, §§1, 2(a), (b), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–667, title II, §202(1), Nov. 16, 1988, 102 Stat. 3949; Pub. L. 101–318, §3(a), July 3, 1990, 104 Stat. 288; Pub. L. 103–198, §6(a), Dec. 17, 1993, 107 Stat. 2311; Pub. L. 103–369, §3, Oct. 18, 1994, 108 Stat. 3480; Pub. L. 104–39, §5(b), Nov. 1, 1995, 109 Stat. 348.)
 
 Historical and Revision Notes
 
@@ -3686,7 +3840,9 @@ Distribution of copyright royalty fees, see section 801 of this title.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 106, 110, 119, 501, 510, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 534.
+This section is referred to in sections 106, 110, 114, 119, 501, 510, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 534.
+
+ 
 
 §112. Limitations on exclusive rights: Ephemeral recordings
 
@@ -3864,19 +4020,216 @@ This section is referred to in sections 106, 106A, 301, 501, 511 of this title; 
 
 §114. Scope of exclusive rights in sound recordings
 
-(a) The exclusive rights of the owner of copyright in a sound recording are limited to the rights specified by clauses (1), (2), and (3) of section 106, and do not include any right of performance under section 106(4).
+(a) The exclusive rights of the owner of copyright in a sound recording are limited to the rights specified by clauses (1), (2), (3) and (6) of section 106, and do not include any right of performance under section 106(4).
 
-(b) The exclusive right of the owner of copyright in a sound recording under clause (1) of section 106 is limited to the right to duplicate the sound recording in the form of phonorecords, or of copies of motion pictures and other audiovisual works, that directly or indirectly recapture the actual sounds fixed in the recording.
+(b) The exclusive right of the owner of copyright in a sound recording under clause (1) of section 106 is limited to the right to duplicate the sound recording in the form of phonorecords or copies that directly or indirectly recapture the actual sounds fixed in the recording.
 The exclusive right of the owner of copyright in a sound recording under clause (2) of section 106 is limited to the right to prepare a derivative work in which the actual sounds fixed in the sound recording are rearranged, remixed, or otherwise altered in sequence or quality.
 The exclusive rights of the owner of copyright in a sound recording under clauses (1) and (2) of section 106 do not extend to the making or duplication of another sound recording that consists entirely of an independent fixation of other sounds, even though such sounds imitate or simulate those in the copyrighted sound recording.
 The exclusive rights of the owner of copyright in a sound recording under clauses (1), (2), and (3) of section 106 do not apply to sound recordings included in educational television and radio programs (as defined in section 397 of title 47) distributed or transmitted by or through public broadcasting entities (as defined by section 118(g)): Provided, That copies or phonorecords of said programs are not commercially distributed by or through public broadcasting entities to the general public.
 
 (c) This section does not limit or impair the exclusive right to perform publicly, by means of a phonorecord, any of the works specified by section 106(4).
 
-(d) On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material.
-The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.
+(d) Limitations on Exclusive Right.—Notwithstanding the provisions of section 106(6)—
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560.)
+(1) Exempt transmissions and retransmissions.—The performance of a sound recording publicly by means of a digital audio transmission, other than as a part of an interactive service, is not an infringement of section 106(6) if the performance is part of—
+
+(A)(i) a nonsubscription transmission other than a retransmission;
+
+(ii) an initial nonsubscription retransmission made for direct reception by members of the public of a prior or simultaneous incidental transmission that is not made for direct reception by members of the public; or
+
+(iii) a nonsubscription broadcast transmission;
+
+(B) a retransmission of a nonsubscription broadcast transmission: Provided, That, in the case of a retransmission of a radio station's broadcast transmission—
+
+(i) the radio station's broadcast transmission is not willfully or repeatedly retransmitted more than a radius of 150 miles from the site of the radio broadcast transmitter, however—
+
+(I) the 150 mile limitation under this clause shall not apply when a nonsubscription broadcast transmission by a radio station licensed by the Federal Communications Commission is retransmitted on a nonsubscription basis by a terrestrial broadcast station, terrestrial translator, or terrestrial repeater licensed by the Federal Communications Commission; and
+
+(II) in the case of a subscription retransmission of a nonsubscription broadcast retransmission covered by subclause (I), the 150 mile radius shall be measured from the transmitter site of such broadcast retransmitter;
+
+(ii) the retransmission is of radio station broadcast transmissions that are—
+
+(I) obtained by the retransmitter over the air;
+
+(II) not electronically processed by the retransmitter to deliver separate and discrete signals; and
+
+(III) retransmitted only within the local communities served by the retransmitter;
+
+(iii) the radio station's broadcast transmission was being retransmitted to cable systems (as defined in section 111(f)) by a satellite carrier on January 1, 1995, and that retransmission was being retransmitted by cable systems as a separate and discrete signal, and the satellite carrier obtains the radio station's broadcast transmission in an analog format: Provided, That the broadcast transmission being retransmitted may embody the programming of no more than one radio station; or
+
+(iv) the radio station's broadcast transmission is made by a noncommercial educational broadcast station funded on or after January 1, 1995, under section 396(k) of the Communications Act of 1934 (47 U.S.C. 396(k)), consists solely of noncommercial educational and cultural radio programs, and the retransmission, whether or not simultaneous, is a nonsubscription terrestrial broadcast retransmission; or
+
+(C) a transmission that comes within any of the following categories—
+
+(i) a prior or simultaneous transmission incidental to an exempt transmission, such as a feed received by and then retransmitted by an exempt transmitter: Provided, That such incidental transmissions do not include any subscription transmission directly for reception by members of the public;
+
+(ii) a transmission within a business establishment, confined to its premises or the immediately surrounding vicinity;
+
+(iii) a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12) of the Communications Act of 1934 (47 U.S.C. 522(12)), of a transmission by a transmitter licensed to publicly perform the sound recording as a part of that transmission, if the retransmission is simultaneous with the licensed transmission and authorized by the transmitter; or
+
+(iv) a transmission to a business establishment for use in the ordinary course of its business: Provided, That the business recipient does not retransmit the transmission outside of its premises or the immediately surrounding vicinity, and that the transmission does not exceed the sound recording performance complement.
+Nothing in this clause shall limit the scope of the exemption in clause (ii).
+
+(2) Subscription transmissions.—In the case of a subscription transmission not exempt under subsection (d)(1), the performance of a sound recording publicly by means of a digital audio transmission shall be subject to statutory licensing, in accordance with subsection (f) of this section, if—
+
+(A) the transmission is not part of an interactive service;
+
+(B) the transmission does not exceed the sound recording performance complement;
+
+(C) the transmitting entity does not cause to be published by means of an advance program schedule or prior announcement the titles of the specific sound recordings or phonorecords embodying such sound recordings to be transmitted;
+
+(D) except in the case of transmission to a business establishment, the transmitting entity does not automatically and intentionally cause any device receiving the transmission to switch from one program channel to another; and
+
+(E) except as provided in section 1002(e) of this title, the transmission of the sound recording is accompanied by the information encoded in that sound recording, if any, by or under the authority of the copyright owner of that sound recording, that identifies the title of the sound recording, the featured recording artist who performs on the sound recording, and related information, including information concerning the underlying musical work and its writer.
+
+(3) Licenses for transmissions by interactive services.—
+
+(A) No interactive service shall be granted an exclusive license under section 106(6) for the performance of a sound recording publicly by means of digital audio transmission for a period in excess of 12 months, except that with respect to an exclusive license granted to an interactive service by a licensor that holds the copyright to 1,000 or fewer sound recordings, the period of such license shall not exceed 24 months: Provided, however, That the grantee of such exclusive license shall be ineligible to receive another exclusive license for the performance of that sound recording for a period of 13 months from the expiration of the prior exclusive license.
+
+(B) The limitation set forth in subparagraph (A) of this paragraph shall not apply if—
+
+(i) the licensor has granted and there remain in effect licenses under section 106(6) for the public performance of sound recordings by means of digital audio transmission by at least 5 different interactive services: Provided, however, That each such license must be for a minimum of 10 percent of the copyrighted sound recordings owned by the licensor that have been licensed to interactive services, but in no event less than 50 sound recordings; or
+
+(ii) the exclusive license is granted to perform publicly up to 45 seconds of a sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
+
+(C) Notwithstanding the grant of an exclusive or nonexclusive license of the right of public performance under section 106(6), an interactive service may not publicly perform a sound recording unless a license has been granted for the public performance of any copyrighted musical work contained in the sound recording: Provided, That such license to publicly perform the copyrighted musical work may be granted either by a performing rights society representing the copyright owner or by the copyright owner.
+
+(D) The performance of a sound recording by means of a retransmission of a digital audio transmission is not an infringement of section 106(6) if—
+
+(i) the retransmission is of a transmission by an interactive service licensed to publicly perform the sound recording to a particular member of the public as part of that transmission; and
+
+(ii) the retransmission is simultaneous with the licensed transmission, authorized by the transmitter, and limited to that particular member of the public intended by the interactive service to be the recipient of the transmission.
+
+(E) For the purposes of this paragraph—
+
+(i) a “licensor” shall include the licensing entity and any other entity under any material degree of common ownership, management, or control that owns copyrights in sound recordings; and
+
+(ii) a “performing rights society” is an association or corporation that licenses the public performance of nondramatic musical works on behalf of the copyright owner, such as the American Society of Composers, Authors and Publishers, Broadcast Music, Inc., and SESAC, Inc.
+
+(4) Rights not otherwise limited.—
+
+(A) Except as expressly provided in this section, this section does not limit or impair the exclusive right to perform a sound recording publicly by means of a digital audio transmission under section 106(6).
+
+(B) Nothing in this section annuls or limits in any way—
+
+(i) the exclusive right to publicly perform a musical work, including by means of a digital audio transmission, under section 106(4);
+
+(ii) the exclusive rights in a sound recording or the musical work embodied therein under sections 106(1), 106(2) and 106(3); or
+
+(iii) any other rights under any other clause of section 106, or remedies available under this title, as such rights or remedies exist either before or after the date of enactment of the Digital Performance Right in Sound Recordings Act of 1995.
+
+(C) Any limitations in this section on the exclusive right under section 106(6) apply only to the exclusive right under section 106(6) and not to any other exclusive rights under section 106. Nothing in this section shall be construed to annul, limit, impair or otherwise affect in any way the ability of the owner of a copyright in a sound recording to exercise the rights under sections 106(1), 106(2) and 106(3), or to obtain the remedies available under this title pursuant to such rights, as such rights and remedies exist either before or after the date of enactment of the Digital Performance Right in Sound Recordings Act of 1995.
+
+(e) Authority for Negotiations.—
+
+(1) Notwithstanding any provision of the antitrust laws, in negotiating statutory licenses in accordance with subsection (f), any copyright owners of sound recordings and any entities performing sound recordings affected by this section may negotiate and agree upon the royalty rates and license terms and conditions for the performance of such sound recordings and the proportionate division of fees paid among copyright owners, and may designate common agents on a nonexclusive basis to negotiate, agree to, pay, or receive payments.
+
+(2) For licenses granted under section 106(6), other than statutory licenses, such as for performances by interactive services or performances that exceed the sound recording performance complement—
+
+(A) copyright owners of sound recordings affected by this section may designate common agents to act on their behalf to grant licenses and receive and remit royalty payments: Provided, That each copyright owner shall establish the royalty rates and material license terms and conditions unilaterally, that is, not in agreement, combination, or concert with other copyright owners of sound recordings; and
+
+(B) entities performing sound recordings affected by this section may designate common agents to act on their behalf to obtain licenses and collect and pay royalty fees: Provided, That each entity performing sound recordings shall determine the royalty rates and material license terms and conditions unilaterally, that is, not in agreement, combination, or concert with other entities performing sound recordings.
+
+(f) Licenses for Nonexempt Subscription Transmissions.—
+
+(1) No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2000. Such terms and rates shall distinguish among the different types of digital audio transmission services then in operation.
+Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings.
+The parties to each negotiation proceeding shall bear their own costs.
+
+(2) In the absence of license agreements negotiated under paragraph (1), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (1), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings.
+In addition to the objectives set forth in section 801(b)(1), in establishing such rates and terms, the copyright arbitration royalty panel may consider the rates and terms for comparable types of digital audio transmission services and comparable circumstances under voluntary license agreements negotiated as provided in paragraph (1). The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings.
+
+(3) License agreements voluntarily negotiated at any time between one or more copyright owners of sound recordings and one or more entities performing sound recordings shall be given effect in lieu of any determination by a copyright arbitration royalty panel or decision by the Librarian of Congress.
+
+(4)(A) Publication of a notice of the initiation of voluntary negotiation proceedings as specified in paragraph (1) shall be repeated, in accordance with regulations that the Librarian of Congress shall prescribe—
+
+(i) no later than 30 days after a petition is filed by any copyright owners of sound recordings or any entities performing sound recordings affected by this section indicating that a new type of digital audio transmission service on which sound recordings are performed is or is about to become operational; and
+
+(ii) in the first week of January, 2000 and at 5-year intervals thereafter.
+
+(B)(i) The procedures specified in paragraph (2) shall be repeated, in accordance with regulations that the Librarian of Congress shall prescribe, upon the filing of a petition in accordance with section 803(a)(1) during a 60-day period commencing—
+
+(I) six months after publication of a notice of the initiation of voluntary negotiation proceedings under paragraph (1) pursuant to a petition under paragraph (4)(A)(i); or
+
+(II) on July 1, 2000 and at 5-year intervals thereafter.
+
+(ii) The procedures specified in paragraph (2) shall be concluded in accordance with section 802.
+
+(5)(A) Any person who wishes to perform a sound recording publicly by means of a nonexempt subscription transmission under this subsection may do so without infringing the exclusive right of the copyright owner of the sound recording—
+
+(i) by complying with such notice requirements as the Librarian of Congress shall prescribe by regulation and by paying royalty fees in accordance with this subsection; or
+
+(ii) if such royalty fees have not been set, by agreeing to pay such royalty fees as shall be determined in accordance with this subsection.
+
+(B) Any royalty payments in arrears shall be made on or before the twentieth day of the month next succeeding the month in which the royalty fees are set.
+
+(g) Proceeds From Licensing of Subscription Transmissions.—
+
+(1) Except in the case of a subscription transmission licensed in accordance with subsection (f) of this section—
+
+(A) a featured recording artist who performs on a sound recording that has been licensed for a subscription transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the artist's contract; and
+
+(B) a nonfeatured recording artist who performs on a sound recording that has been licensed for a subscription transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the nonfeatured recording artist's applicable contract or other applicable agreement.
+
+(2) The copyright owner of the exclusive right under section 106(6) of this title to publicly perform a sound recording by means of a digital audio transmission shall allocate to recording artists in the following manner its receipts from the statutory licensing of subscription transmission performances of the sound recording in accordance with subsection (f) of this section:
+
+(A) 21/2 percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians) who have performed on sound recordings.
+
+(B) 21/2 percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists) who have performed on sound recordings.
+
+(C) 45 percent of the receipts shall be allocated, on a per sound recording basis, to the recording artist or artists featured on such sound recording (or the persons conveying rights in the artists’ performance in the sound recordings).
+
+(h) Licensing to Affiliates.—
+
+(1) If the copyright owner of a sound recording licenses an affiliated entity the right to publicly perform a sound recording by means of a digital audio transmission under section 106(6), the copyright owner shall make the licensed sound recording available under section 106(6) on no less favorable terms and conditions to all bona fide entities that offer similar services, except that, if there are material differences in the scope of the requested license with respect to the type of service, the particular sound recordings licensed, the frequency of use, the number of subscribers served, or the duration, then the copyright owner may establish different terms and conditions for such other services.
+
+(2) The limitation set forth in paragraph (1) of this subsection shall not apply in the case where the copyright owner of a sound recording licenses—
+
+(A) an interactive service; or
+
+(B) an entity to perform publicly up to 45 seconds of the sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
+
+(i) No Effect on Royalties for Underlying Works.—License fees payable for the public performance of sound recordings under section 106(6) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works.
+It is the intent of Congress that royalties payable to copyright owners of musical works for the public performance of their works shall not be diminished in any respect as a result of the rights granted by section 106(6).
+
+(j) Definitions.—As used in this section, the following terms have the following meanings:
+
+(1) An “affiliated entity” is an entity engaging in digital audio transmissions covered by section 106(6), other than an interactive service, in which the licensor has any direct or indirect partnership or any ownership interest amounting to 5 percent or more of the outstanding voting or non-voting stock.
+
+(2) A “broadcast” transmission is a transmission made by a terrestrial broadcast station licensed as such by the Federal Communications Commission.
+
+(3) A “digital audio transmission” is a digital transmission as defined in section 101, that embodies the transmission of a sound recording.
+This term does not include the transmission of any audiovisual work.
+
+(4) An “interactive service” is one that enables a member of the public to receive, on request, a transmission of a particular sound recording chosen by or on behalf of the recipient.
+The ability of individuals to request that particular sound recordings be performed for reception by the public at large does not make a service interactive.
+If an entity offers both interactive and non-interactive services (either concurrently or at different times), the non-interactive component shall not be treated as part of an interactive service.
+
+(5) A “nonsubscription” transmission is any transmission that is not a subscription transmission.
+
+(6) A “retransmission” is a further transmission of an initial transmission, and includes any further retransmission of the same transmission.
+Except as provided in this section, a transmission qualifies as a “retransmission” only if it is simultaneous with the initial transmission.
+Nothing in this definition shall be construed to exempt a transmission that fails to satisfy a separate element required to qualify for an exemption under section 114(d)(1).
+
+(7) The “sound recording performance complement” is the transmission during any 3-hour period, on a particular channel used by a transmitting entity, of no more than—
+
+(A) 3 different selections of sound recordings from any one phonorecord lawfully distributed for public performance or sale in the United States, if no more than 2 such selections are transmitted consecutively; or
+
+(B) 4 different selections of sound recordings—
+
+(i) by the same featured recording artist; or
+
+(ii) from any set or compilation of phonorecords lawfully distributed together as a unit for public performance or sale in the United States,
+
+if no more than three such selections are transmitted consecutively:
+
+Provided, That the transmission of selections in excess of the numerical limits provided for in clauses (A) and (B) from multiple phonorecords shall nonetheless qualify as a sound recording performance complement if the programming of the multiple phonorecords was not willfully intended to avoid the numerical limitations prescribed in such clauses.
+
+(8) A “subscription” transmission is a transmission that is controlled and limited to particular recipients, and for which consideration is required to be paid or otherwise given by or on behalf of the recipient to receive the transmission or a package of transmissions including the transmission.
+
+(9) A “transmission” includes both an initial transmission and a retransmission.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336.)
 
 Historical and Revision Notes
 
@@ -3904,6 +4257,14 @@ The Register has agreed to report to Congress if further legislative considerati
 
 Section 114(c) states explicitly that nothing in the provisions of section 114 should be construed to “limit or impair the exclusive right to perform publicly, by means of a phonorecord, any of the works specified by section 106(4).” This principle is already implicit in the bill, but it is restated to avoid the danger of confusion between rights in a sound recording and rights in the musical composition or other work embodied in the recording.
 
+References in Text
+
+The date of enactment of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsecs. (d)(4)(B)(iii), (C) and (f)(1), is the date of enactment of Pub. L. 104–39, which was approved Nov. 1, 1995.
+
+The antitrust laws, referred to in subsec. (e)(1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+
+For effective date of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsec. (f)(1), see section 6 of Pub. L. 104–39, set out as an Effective Date of 1995 Amendment note under section 101 of this title.
+
 Cross References
 
 Ephemeral recordings, see section 112 of this title.
@@ -3912,7 +4273,9 @@ Exclusive rights in copyrighted work, see section 106 of this title.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 106, 112, 501, 511 of this title; title 18 section 2319.
+This section is referred to in sections 106, 111, 112, 115, 119, 501, 511, 801, 802, 803 of this title; title 18 section 2319.
+
+  
 
 §115. Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords
 
@@ -3920,8 +4283,8 @@ In the case of nondramatic musical works, the exclusive rights provided by claus
 
 (a) Availability and Scope of Compulsory License.—
 
-(1) When phonorecords of a nondramatic musical work have been distributed to the public in the United States under the authority of the copyright owner, any other person may, by complying with the provisions of this section, obtain a compulsory license to make and distribute phonorecords of the work.
-A person may obtain a compulsory license only if his or her primary purpose in making phonorecords is to distribute them to the public for private use.
+(1) When phonorecords of a nondramatic musical work have been distributed to the public in the United States under the authority of the copyright owner, any other person, including those who make phonorecords or digital phonorecord deliveries, may, by complying with the provisions of this section, obtain a compulsory license to make and distribute phonorecords of the work.
+A person may obtain a compulsory license only if his or her primary purpose in making phonorecords is to distribute them to the public for private use, including by means of a digital phonorecord delivery.
 A person may not obtain a compulsory license for use of the work in the making of phonorecords duplicating a sound recording fixed by another, unless: (i) such sound recording was fixed lawfully; and (ii) the making of the phonorecords was authorized by the owner of copyright in the sound recording or, if the sound recording was fixed before February 15, 1972, by any person who fixed the sound recording pursuant to an express license from the owner of the copyright in the musical work or pursuant to a valid compulsory license for use of such work in a sound recording.
 
 (2) A compulsory license includes the privilege of making a musical arrangement of the work to the extent necessary to conform it to the style or manner of interpretation of the performance involved, but the arrangement shall not change the basic melody or fundamental character of the work, and shall not be subject to protection as a derivative work under this title, except with the express consent of the copyright owner.
@@ -3940,21 +4303,71 @@ The notice shall comply, in form, content, and manner of service, with requireme
 The owner is entitled to royalties for phonorecords made and distributed after being so identified, but is not entitled to recover for any phonorecords previously made and distributed.
 
 (2) Except as provided by clause (1), the royalty under a compulsory license shall be payable for every phonorecord made and distributed in accordance with the license.
-For this purpose, a phonorecord is considered “distributed” if the person exercising the compulsory license has voluntarily and permanently parted with its possession.
+For this purpose, and other than as provided in paragraph (3), a phonorecord is considered “distributed” if the person exercising the compulsory license has voluntarily and permanently parted with its possession.
 With respect to each work embodied in the phonorecord, the royalty shall be either two and three-fourths cents, or one-half of one cent per minute of playing time or fraction thereof, whichever amount is larger.
 
-(3) A compulsory license under this section includes the right of the maker of a phonorecord of a nondramatic musical work under subsection (a)(1) to distribute or authorize distribution of such phonorecord by rental, lease, or lending (or by acts or practices in the nature of rental, lease, or lending). In addition to any royalty payable under clause (2) and chapter 8 of this title, a royalty shall be payable by the compulsory licensee for every act of distribution of a phonorecord by or in the nature of rental, lease, or lending, by or under the authority of the compulsory licensee.
+(3)(A) A compulsory license under this section includes the right of the compulsory licensee to distribute or authorize the distribution of a phonorecord of a nondramatic musical work by means of a digital transmission which constitutes a digital phonorecord delivery, regardless of whether the digital transmission is also a public performance of the sound recording under section 106(6) of this title or of any nondramatic musical work embodied therein under section 106(4) of this title.
+For every digital phonorecord delivery by or under the authority of the compulsory licensee—
+
+(i) on or before December 31, 1997, the royalty payable by the compulsory licensee shall be the royalty prescribed under paragraph (2) and chapter 8 of this title; and
+
+(ii) on or after January 1, 1998, the royalty payable by the compulsory licensee shall be the royalty prescribed under subparagraphs (B) through (F) and chapter 8 of this title.
+
+(B) Notwithstanding any provision of the antitrust laws, any copyright owners of nondramatic musical works and any persons entitled to obtain a compulsory license under subsection (a)(1) may negotiate and agree upon the terms and rates of royalty payments under this paragraph and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay or receive such royalty payments.
+Such authority to negotiate the terms and rates of royalty payments includes, but is not limited to, the authority to negotiate the year during which the royalty rates prescribed under subparagraphs (B) through (F) and chapter 8 of this title shall next be determined.
+
+(C) During the period of June 30, 1996, through December 31, 1996, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subparagraph (A) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as the parties may agree.
+Such terms and rates shall distinguish between (i) digital phonorecord deliveries where the reproduction or distribution of a phonorecord is incidental to the transmission which constitutes the digital phonorecord delivery, and (ii) digital phonorecord deliveries in general.
+Any copyright owners of nondramatic musical works and any persons entitled to obtain a compulsory license under subsection (a)(1) may submit to the Librarian of Congress licenses covering such activities.
+The parties to each negotiation proceeding shall bear their own costs.
+
+(D) In the absence of license agreements negotiated under subparagraphs (B) and (C), upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to subparagraph (E), shall be binding on all copyright owners of nondramatic musical works and persons entitled to obtain a compulsory license under subsection (a)(1) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as may be determined pursuant to subparagraphs (B) and (C). Such terms and rates shall distinguish between (i) digital phonorecord deliveries where the reproduction or distribution of a phonorecord is incidental to the transmission which constitutes the digital phonorecord delivery, and (ii) digital phonorecord deliveries in general.
+In addition to the objectives set forth in section 801(b)(1), in establishing such rates and terms, the copyright arbitration royalty panel may consider rates and terms under voluntary license agreements negotiated as provided in subparagraphs (B) and (C). The royalty rates payable for a compulsory license for a digital phonorecord delivery under this section shall be established de novo and no precedential effect shall be given to the amount of the royalty payable by a compulsory licensee for digital phonorecord deliveries on or before December 31, 1997. The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their works under this section, and under which records of such use shall be kept and made available by persons making digital phonorecord deliveries.
+
+(E)(i) License agreements voluntarily negotiated at any time between one or more copyright owners of nondramatic musical works and one or more persons entitled to obtain a compulsory license under subsection (a)(1) shall be given effect in lieu of any determination by the Librarian of Congress.
+Subject to clause (ii), the royalty rates determined pursuant to subparagraph (C), (D) or (F) shall be given effect in lieu of any contrary royalty rates specified in a contract pursuant to which a recording artist who is the author of a nondramatic musical work grants a license under that person's exclusive rights in the musical work under sections 1 106(1) and (3) or commits another person to grant a license in that musical work under sections 1 106(1) and (3), to a person desiring to fix in a tangible medium of expression a sound recording embodying the musical work.
+
+(ii) The second sentence of clause (i) shall not apply to—
+
+(I) a contract entered into on or before June 22, 1995, and not modified thereafter for the purpose of reducing the royalty rates determined pursuant to subparagraph (C), (D) or (F) or of increasing the number of musical works within the scope of the contract covered by the reduced rates, except if a contract entered into on or before June 22, 1995, is modified thereafter for the purpose of increasing the number of musical works within the scope of the contract, any contrary royalty rates specified in the contract shall be given effect in lieu of royalty rates determined pursuant to subparagraph (C), (D) or (F) for the number of musical works within the scope of the contract as of June 22, 1995; and
+
+(II) a contract entered into after the date that the sound recording is fixed in a tangible medium of expression substantially in a form intended for commercial release, if at the time the contract is entered into, the recording artist retains the right to grant licenses as to the musical work under sections 106(1) and 106(3). 2
+
+(F) The procedures specified in subparagraphs (C) and (D) shall be repeated and concluded, in accordance with regulations that the Librarian of Congress shall prescribe, in each fifth calendar year after 1997, except to the extent that different years for the repeating and concluding of such proceedings may be determined in accordance with subparagraphs (B) and (C).
+
+(G) Except as provided in section 1002(e) of this title, a digital phonorecord delivery licensed under this paragraph shall be accompanied by the information encoded in the sound recording, if any, by or under the authority of the copyright owner of that sound recording, that identifies the title of the sound recording, the featured recording artist who performs on the sound recording, and related information, including information concerning the underlying musical work and its writer.
+
+(H)(i) A digital phonorecord delivery of a sound recording is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 509, unless—
+
+(I) the digital phonorecord delivery has been authorized by the copyright owner of the sound recording; and
+
+(II) the owner of the copyright in the sound recording or the entity making the digital phonorecord delivery has obtained a compulsory license under this section or has otherwise been authorized by the copyright owner of the musical work to distribute or authorize the distribution, by means of a digital phonorecord delivery, of each musical work embodied in the sound recording.
+
+(ii) Any cause of action under this subparagraph shall be in addition to those available to the owner of the copyright in the nondramatic musical work under subsection (c)(6) and section 106(4) and the owner of the copyright in the sound recording under section 106(6).
+
+(I) The liability of the copyright owner of a sound recording for infringement of the copyright in a nondramatic musical work embodied in the sound recording shall be determined in accordance with applicable law, except that the owner of a copyright in a sound recording shall not be liable for a digital phonorecord delivery by a third party if the owner of the copyright in the sound recording does not license the distribution of a phonorecord of the nondramatic musical work.
+
+(J) Nothing in section 1008 shall be construed to prevent the exercise of the rights and remedies allowed by this paragraph, paragraph (6), and chapter 5 in the event of a digital phonorecord delivery, except that no action alleging infringement of copyright may be brought under this title against a manufacturer, importer or distributor of a digital audio recording device, a digital audio recording medium, an analog recording device, or an analog recording medium, or against a consumer, based on the actions described in such section.
+
+(K) Nothing in this section annuls or limits (i) the exclusive right to publicly perform a sound recording or the musical work embodied therein, including by means of a digital transmission, under sections 106(4) and 106(6), (ii) except for compulsory licensing under the conditions specified by this section, the exclusive rights to reproduce and distribute the sound recording and the musical work embodied therein under sections 106(1) and 106(3), including by means of a digital phonorecord delivery, or (iii) any other rights under any other provision of section 106, or remedies available under this title, as such rights or remedies exist either before or after the date of enactment of the Digital Performance Right in Sound Recordings Act of 1995.
+
+(L) The provisions of this section concerning digital phonorecord deliveries shall not apply to any exempt transmissions or retransmissions under section 114(d)(1). The exemptions created in section 114(d)(1) do not expand or reduce the rights of copyright owners under section 106(1) through (5) with respect to such transmissions and retransmissions.
+
+(4) A compulsory license under this section includes the right of the maker of a phonorecord of a nondramatic musical work under subsection (a)(1) to distribute or authorize distribution of such phonorecord by rental, lease, or lending (or by acts or practices in the nature of rental, lease, or lending). In addition to any royalty payable under clause (2) and chapter 8 of this title, a royalty shall be payable by the compulsory licensee for every act of distribution of a phonorecord by or in the nature of rental, lease, or lending, by or under the authority of the compulsory licensee.
 With respect to each nondramatic musical work embodied in the phonorecord, the royalty shall be a proportion of the revenue received by the compulsory licensee from every such act of distribution of the phonorecord under this clause equal to the proportion of the revenue received by the compulsory licensee from distribution of the phonorecord under clause (2) that is payable by a compulsory licensee under that clause and under chapter 8. The Register of Copyrights shall issue regulations to carry out the purpose of this clause.
 
-(4) Royalty payments shall be made on or before the twentieth day of each month and shall include all royalties for the month next preceding.
+(5) Royalty payments shall be made on or before the twentieth day of each month and shall include all royalties for the month next preceding.
 Each monthly payment shall be made under oath and shall comply with requirements that the Register of Copyrights shall prescribe by regulation.
 The Register shall also prescribe regulations under which detailed cumulative annual statements of account, certified by a certified public accountant, shall be filed for every compulsory license under this section.
 The regulations covering both the monthly and the annual statements of account shall prescribe the form, content, and manner of certification with respect to the number of records made and the number of records distributed.
 
-(5) If the copyright owner does not receive the monthly payment and the monthly and annual statements of account when due, the owner may give written notice to the licensee that, unless the default is remedied within thirty days from the date of the notice, the compulsory license will be automatically terminated.
+(6) If the copyright owner does not receive the monthly payment and the monthly and annual statements of account when due, the owner may give written notice to the licensee that, unless the default is remedied within thirty days from the date of the notice, the compulsory license will be automatically terminated.
 Such termination renders either the making or the distribution, or both, of all phonorecords for which the royalty has not been paid, actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506 and 509.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2561; Pub. L. 98–450, §3, Oct. 4, 1984, 98 Stat. 1727.)
+(d) Definition.—As used in this section, the following term has the following meaning: A “digital phonorecord delivery” is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein.
+A digital phonorecord delivery does not result from a real-time, non-interactive subscription transmission of a sound recording where no reproduction of the sound recording or the musical work embodied therein is made from the inception of the transmission through to its receipt by the transmission recipient in order to make the sound recording audible.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2561; Pub. L. 98–450, §3, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 104–39, §4, Nov. 1, 1995, 109 Stat. 344.)
 
 Historical and Revision Notes
 
@@ -4038,6 +4451,12 @@ A source of criticism with respect to the compulsory licensing provisions of the
 Clause (4) of section 115(c) corrects this defect by permitting the copyright owner to serve written notice on a defaulting licensee, and by providing for termination of the compulsory license if the default is not remedied within 30 days after notice is given.
 Termination under this clause “renders either the making or the distribution, or both, of all phonorecords for which the royalty had not been paid, actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506.”
 
+References in Text
+
+The antitrust laws, referred to in subsec. (c)(3)(B), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+
+The date of enactment of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsec. (c)(3)(K), is the date of enactment of Pub. L. 104–39, which was approved Nov. 1, 1995.
+
 Persons Operating Under Predecessor Compulsory Licensing Provisions
 
 Section 106 of Pub. L. 94–553 provided that: “In any case where, before January 1, 1978, a person has lawfully made parts of instruments serving to reproduce mechanically a copyrighted work under the compulsory license provisions of section 1(e) of title 17 as it existed on December 31, 1977, such person may continue to make and distribute such parts embodying the same mechanical reproduction without obtaining a new compulsory license under the terms of section 115 of title 17 as amended by the first section of this Act [this section]. However, such parts made on or after January 1, 1978, constitute phonorecords and are otherwise subject to the provisions of said section 115 [this section].”
@@ -4057,6 +4476,14 @@ Institution and conclusion of proceedings concerning adjustment of royalty rates
 Section Referred to in Other Sections
 
 This section is referred to in sections 106, 501, 511, 708, 801, 802, 803 of this title; title 18 section 2319.
+
+    
+
+1 So in original.
+Probably should be “section”.
+
+2 So in original.
+Probably should be “section 106(1) and (3).”
 
 §116. Negotiated licenses for public performances by means of coin-operated phonorecord players
 
@@ -4270,11 +4697,11 @@ This section is referred to in sections 106, 114, 501, 504, 511, 801, 802, 803 o
 
 (a) Secondary Transmissions by Satellite Carriers.—
 
-(1) Superstations.—Subject to the provisions of paragraphs (3), (4), and (6) of this subsection, secondary transmissions of a primary transmission made by a superstation and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for each retransmission service to each household receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing.
+(1) Superstations.—Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a primary transmission made by a superstation and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for each retransmission service to each household receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing.
 
 (2) Network stations.—
 
-(A) In general.—Subject to the provisions of subparagraphs (B) and (C) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection, secondary transmissions of programming contained in a primary transmission made by a network station and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission.
+(A) In general.—Subject to the provisions of subparagraphs (B) and (C) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of programming contained in a primary transmission made by a network station and embodying a performance or display of a work shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, and the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission.
 
 (B) Secondary transmissions to unserved households.—The statutory license provided for in subparagraph (A) shall be limited to secondary transmissions to persons who reside in unserved households.
 
@@ -4461,7 +4888,7 @@ In determining the fair market value, the Panel shall base its decision on econo
 
 (e) Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for private home viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.
 
-(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477.)
+(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348.)
 
 Termination of Section
 
@@ -4504,7 +4931,7 @@ Section 4(a) of Pub. L. 103–369 provided that: “Section 119 of title 17, Uni
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 106, 111, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 548, 613.
+This section is referred to in sections 106, 111, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 548.
 
 1 So in original.
 The word “until” probably should not appear.
@@ -5032,336 +5459,6 @@ Subsection (c) makes clear that nothing contained in Title 17 annuls or limits a
 References in Text
 
 Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], referred to in subsec. (f)(1), (2)(A), is set out as an Effective Date note under section 106A of this title.
-
-§302. Duration of copyright: Works created on or after January 1, 1978
-
-(a) In General.—Copyright in a work created on or after January 1, 1978, subsists from its creation and, except as provided by the following subsections, endures for a term consisting of the life of the author and fifty years after the author's death.
-
-(b) Joint Works.—In the case of a joint work prepared by two or more authors who did not work for hire, the copyright endures for a term consisting of the life of the last surviving author and fifty years after such last surviving author's death.
-
-(c) Anonymous Works, Pseudonymous Works, and Works Made for Hire.—In the case of an anonymous work, a pseudonymous work, or a work made for hire, the copyright endures for a term of seventy-five years from the year of its first publication, or a term of one hundred years from the year of its creation, whichever expires first.
-If, before the end of such term, the identity of one or more of the authors of an anonymous or pseudonymous work is revealed in the records of a registration made for that work under subsections (a) or (d) of section 408, or in the records provided by this subsection, the copyright in the work endures for the term specified by subsection (a) or (b), based on the life of the author or authors whose identity has been revealed.
-Any person having an interest in the copyright in an anonymous or pseudonymous work may at any time record, in records to be maintained by the Copyright Office for that purpose, a statement identifying one or more authors of the work; the statement shall also identify the person filing it, the nature of that person's interest, the source of the information recorded, and the particular work affected, and shall comply in form and content with requirements that the Register of Copyrights shall prescribe by regulation.
-
-(d) Records Relating to Death of Authors.—Any person having an interest in a copyright may at any time record in the Copyright Office a statement of the date of death of the author of the copyrighted work, or a statement that the author is still living on a particular date.
-The statement shall identify the person filing it, the nature of that person's interest, and the source of the information recorded, and shall comply in form and content with requirements that the Register of Copyrights shall prescribe by regulation.
-The Register shall maintain current records of information relating to the death of authors of copyrighted works, based on such recorded statements and, to the extent the Register considers practicable, on data contained in any of the records of the Copyright Office or in other reference sources.
-
-(e) Presumption as to Author's Death.—After a period of seventy-five years from the year of first publication of a work, or a period of one hundred years from the year of its creation, whichever expires first, any person who obtains from the Copyright Office a certified report that the records provided by subsection (d) disclose nothing to indicate that the author of the work is living, or died less than fifty years before, is entitled to the benefits of a presumption that the author has been dead for at least fifty years.
-Reliance in good faith upon this presumption shall be a complete defense to any action for infringement under this title.
-
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2572.)
-
-Historical and Revision Notes
-
-house report no. 94–1476
-
-In General.
-The debate over how long a copyright should last is as old as the oldest copyright statute and will doubtless continue as long as there is a copyright law.
-With certain exceptions, there appears to be strong support for the principle, as embodied in the bill, of a copyright term consisting of the life of the author and 50 years after his death.
-In particular, the authors and their representatives stressed that the adoption of a life-plus-50 term was by far their most important legislative goal in copyright law revision.
-The Register of Copyrights now regards a life-plus-50 term as the foundation of the entire bill.
-
-Under the present law statutory copyright protection begins on the date of publication (or on the date of registration in unpublished form) and continues for 28 years from that date; it may be renewed for a second 28 years, making a total potential term of 56 years in all cases. [Under Public Laws 87–668, 89–142, 90–141, 90–416, 91–147, 91–555, 92–170, 92–566, and 93–573, copyrights that were subsisting in their renewal term on September 19, 1962, and that were scheduled to expire before Dec. 31, 1976, have been extended to that later date, in anticipation that general revision legislation extending their terms still further will be enacted by then.] The principal elements of this system—a definite number of years, computed from either publication or registration, with a renewal feature—have been a part of the U.S. copyright law since the first statute in 1790. The arguments for changing this system to one based on the life of the author can be summarized as follows:
-
-1. The present 56-year term is not long enough to insure an author and his dependents the fair economic benefits from his works.
-Life expectancy has increased substantially, and more and more authors are seeing their works fall into the public domain during their lifetimes, forcing later works to compete with their own early works in which copyright has expired.
-
-2. The tremendous growth in communications media has substantially lengthened the commercial life of a great many works.
-A short term is particularly discriminatory against serious works of music, literature, and art, whose value may not be recognized until after many years.
-
-3. Although limitations on the term of copyright are obviously necessary, too short a term harms the author without giving any substantial benefit to the public.
-The public frequently pays the same for works in the public domain as it does for copyrighted works, and the only result is a commercial windfall to certain users at the author's expense.
-In some cases the lack of copyright protection actually restrains dissemination of the work, since publishers and other users cannot risk investing in the work unless assured of exclusive rights.
-
-4. A system based on the life of the author would go a long way toward clearing up the confusion and uncertainty involved in the vague concept of “publication,” and would provide a much simpler, clearer method for computing the term.
-The death of the author is a definite, determinable event, and it would be the only date that a potential user would have to worry about.
-All of a particular author's works, including successive revisions of them, would fall into the public domain at the same time, thus avoiding the present problems of determining a multitude of publication dates and of distinguishing “old” and “new” matter in later editions.
-The bill answers the problems of determining when relatively obscure authors died, by establishing a registry of death dates and a system of presumptions.
-
-5. One of the worst features of the present copyright law is the provision for renewal of copyright.
-A substantial burden and expense, this unclear and highly technical requirement results in incalculable amounts of unproductive work.
-In a number of cases it is the cause of inadvertent and unjust loss of copyright.
-Under a life-plus-50 system the renewal device would be inappropriate and unnecessary.
-
-6. Under the preemption provisions of section 301 and the single Federal system they would establish, authors will be giving up perpetual, unlimited exclusive common law rights in their unpublished works, including works that have been widely disseminated by means other than publication.
-A statutory term of life-plus-50 years is no more than a fair recompense for the loss of these perpetual rights.
-
-7. A very large majority of the world's countries have adopted a copyright term of the life of the author and 50 years after the author's death.
-Since American authors are frequently protected longer in foreign countries than in the United States, the disparity in the duration of copyright has provoked considerable resentment and some proposals for retaliatory legislation.
-Copyrighted works move across national borders faster and more easily than virtually any other economic commodity, and with the techniques now in common use this movement has in many cases become instantaneous and effortless.
-The need to conform the duration of U.S. copyright to that prevalent throughout the rest of the world is increasingly pressing in order to provide certainty and simplicity in international business dealings.
-Even more important, a change in the basis of our copyright term would place the United States in the forefront of the international copyright community.
-Without this change, the possibility of future United States adherence to the Berne Copyright Union would evaporate, but with it would come a great and immediate improvement in our copyright relations.
-All of these benefits would accrue directly to American and foreign authors alike.
-
-The need for a longer total term of copyright has been conclusively demonstrated.
-It is true that a major reason for the striking statistical increase in life expectancy since 1909 is the reduction in infant mortality, but this does not mean that the increase can be discounted.
-Although not nearly as great as the total increase in life expectancy, there has been a marked increase in longevity, and with medical discoveries and health programs for the elderly this trend shows every indication of continuing.
-If life expectancy in 1909, which was in the neighborhood of 56 years, offered a rough guide to the length of copyright protection, then life expectancy in the 1970's which is well over 70 years, should offer a similar guide; the Register's 1961 Report included statistics indicating that something between 70 and 76 years was then the average equivalent of life-plus-50 years.
-A copyright should extend beyond the author's lifetime, and judged by this standard the present term of 56 years is too short.
-
-The arguments as to the benefits of uniformity with foreign laws, and the advantages of international comity that would result from adoption of a life-plus-50 term, are also highly significant.
-The system has worked well in other countries, and on the whole it would appear to make computation of terms considerably simpler and easier.
-The registry of death dates and the system of presumptions established in section 302 would solve most of the problems in determining when an individual author died.
-
-No country in the world has provisions on the duration of copyright like ours.
-Virtually every other copyright law in the world bases the term of protection for works by natural persons on the life of the author, and a substantial majority of these accord protection for 50 years after the author's death.
-This term is required for adherence to the Berne Convention.
-It is worth noting that the 1965 revision of the copyright law of the Federal Republic of Germany adopted a term of life plus 70 years.
-
-A point that has concerned some educational groups arose from the possibility that, since a large majority (now about 85 percent) of all copyrighted works are not renewed, a life-plus-50 year term would tie up a substantial body of material that is probably of no commercial interest but that would be more readily available for scholarly use if free of copyright restrictions.
-A statistical study of renewal registrations made by the Copyright Office in 1966 supports the generalization that most material which is considered to be of continuing or potential commercial value is renewed.
-Of the remainder, a certain proportion is of practically no value to anyone, but there are a large number of unrenewed works that have scholarly value to historians, archivists, and specialists in a variety of fields.
-This consideration lay behind the proposals for retaining the renewal device or for limiting the term for unpublished or unregistered works.
-
-It is true that today's ephemera represent tomorrow's social history, and that works of scholarly value, which are now falling into the public domain after 28 years, would be protected much longer under the bill.
-Balanced against this are the burdens and expenses of renewals, the near impossibility of distinguishing between types of works in fixing a statutory term, and the extremely strong case in favor of a life-plus-50 system.
-Moreover, it is important to realize that the bill would not restrain scholars from using any work as source material or from making “fair use” of it; the restrictions would extend only to the unauthorized reproduction or distribution of copies of the work, its public performance, or some other use that would actually infringe the copyright owner's exclusive rights.
-The advantages of a basic term of copyright enduring for the life of the author and for 50 years after the author's death outweigh any possible disadvantages.
-
-Basic Copyright Term.
-Under subsection (a) of section 302, a work “created” on or after the effective date of the revised statute [Jan. 1, 1978] would be protected by statutory copyright “from its creation” and, with exceptions to be noted below, “endures for a term consisting of the life of the author and 50 years after the author's death.”
-
-Under this provision, as a general rule, the life-plus-50 term would apply equally to unpublished works, to works published during the author's lifetime, and to works published posthumously.
-
-The definition of “created” in section 101, which will be discussed in more detail in connection with section 302(c) below, makes clear that “creation” for this purpose means the first time the work is fixed in a copy or phonorecord; up to that point the work is not “created,” and is subject to common law protection, even though it may exist in someone's mind and may have been communicated to others in unfixed form.
-
-Joint Works.
-Since by definition a “joint work” has two or more authors, a statute basing the term of copyright on the life of the author must provide a special method of computing the term of “joint works.” Under the system in effect in many foreign countries, the term of copyright is measured from the death of the last survivor of a group of joint authors, no matter how many there are.
-The bill adopts this system as the simplest and fairest of the alternatives for dealing with the problem.
-
-Anonymous Works, Pseudonymous Works, and Works Made for Hire.
-Computing the term from the author's death also requires special provisions to deal with cases where the authorship is not revealed or where the “author” is not an individual.
-Section 302(c) therefore provides a special term for anonymous works, pseudonymous works, and works made for hire: 75 years from publication or 100 years from creation, whichever is shorter.
-The definitions in section 101 make the status of anonymous and pseudonymous works depend on what is revealed on the copies or phonorecords of a work; a work is “anonymous” if “no natural person is identified as author,” and is “pseudonymous” if “the author is identified under a fictitious name.”
-
-Section 302(c) provides that the 75- and 100-year terms for an anonymous or pseudonymous work can be converted to the ordinary life-plus-50 term if “the identity of one or more authors * * * is revealed” in special records maintained for this purpose in the Copyright Office.
-The term in such cases would be “based on the life of the author or authors whose identity has been revealed.” Instead of forcing a user to search through countless Copyright Office records to determine if an author's identity has been revealed, the bill sets up a special registry for the purpose, with requirements concerning the filing of identifying statements that parallel those of the following subsection (d) with respect to statements of the date of an author's death.
-
-The alternative terms established in section 302(c)—75 years from publication or 100 years from creation, whichever expires first—are necessary to set a time limit on protection of unpublished material.
-For example, copyright in a work created in 1978 and published in 1988 would expire in 2063 (75 years from publication). A question arises as to when the copyright should expire if the work is never published.
-Both the Constitution and the underlying purposes of the bill require the establishment of an alternative term for unpublished work and the only practicable basis for this alternative is “creation.” Under the bill a work created in 1980 but not published until after 2005 (or never published) would fall into the public domain in 2080 (100 years after creation).
-
-The definition in section 101 provides that “creation” takes place when a work “is fixed in a copy or phonorecord for the first time.” Although the concept of “creation” is inherently lacking in precision, its adoption in the bill would, for example, enable a scholar to use an unpublished manuscript written anonymously, pseudonymously, or for hire, if he determines on the basis of internal or external evidence that the manuscript is at least 100 years old.
-In the case of works written over a period of time or in successive revised versions, the definition provides that the portion of the work “that has been fixed at any particular time constitutes the work as of that time,” and that, “where the work has been prepared in different versions, each version constitutes a separate work.” Thus, a scholar or other user, in attempting to determine whether a particular work is in the public domain, needs to look no further than the particular version he wishes to use.
-
-Although “publication” would no longer play the central role assigned to it under the present law, the concept would still have substantial significance under provisions throughout the bill, including those on Federal preemption and duration.
-Under the definition in section 101, a work is “published” if one or more copies or phonorecords embodying it are distributed to the public—that is, generally to persons under no explicit or implicit restrictions with respect to disclosure of its contents—without regard to the manner in which the copies or phonorecords changed hands.
-The definition clears up the question of whether the sale of phonorecords constitutes publication, and it also makes plain that any form or dissemination in which a material object does not change hands—performances or displays on television, for example—is not a publication no matter how many people are exposed to the work.
-On the other hand, the definition also makes clear that, when copies or phonorecords are offered to a group of wholesalers, broadcasters, motion picture theaters, etc., publication takes place if the purpose is “further distribution, public performance, or public display.”
-
-Although the periods of 75 or 100 years for anonymous and pseudonymous works and works made for hire seem to be longer than the equivalent term provided by foreign laws and the Berne Conventions, this difference is more apparent than real.
-In general, the terms in these special cases approximate, on the average, the term of the life of the author plus 50 years established for other works.
-The 100-year maximum term for unpublished works, although much more limited than the perpetual term now available under common law in the United States and under statute in some foreign countries, is sufficient to guard against unjustified invasions of privacy and to fulfill our obligations under the Universal Copyright Convention.
-
-Records and Presumption as to Author's Death.
-Subsections (d) and (e) of section 302 together furnish an answer to the practical problems of how to discover the death dates of obscure or unknown authors.
-Subsection (d) provides a procedure for recording statements that an author died, or that he was still living, on a particular date, and also requires the Register of Copyrights to maintain obituary records on a current basis.
-Under subsection (e) anyone who, after a specified period, obtains certification from the Copyright Office that its records show nothing to indicate that the author is living or died less than 50 years before, is entitled to rely upon a presumption that the author has been dead for more than 50 years.
-The period specified in subsection (e)—75 years from publication or 100 years from creation—is purposely uniform with the special term provided in subsection (c).
-
-Cross References
-
-Duration and renewal of registration of trade-marks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
-
-Duration of term of patents, see section 154 of Title 35, Patents.
-
-Fee for recordation of statement revealing identity of author of anonymous or pseudonymous work or for statement relating to death of author, see section 708 of this title.
-
-Notice of copyright, error in date as affecting duration, see section 406 of this title.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 303, 305, 406, 708 of this title.
-
-§303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978
-
-Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.
-
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573.)
-
-Historical and Revision Notes
-
-house report no. 94–1476
-
-Theoretically, at least, the legal impact of section 303 would be far reaching.
-Under it, every “original work of authorship” fixed in tangible form that is in existence would be given statutory copyright protection as long as the work is not in the public domain in this country.
-The vast majority of these works consist of private material that no one is interested in protecting or infringing, but section 303 would still have practical effects for a prodigious body of material already in existence.
-
-Looked at another way, however, section 303 would have a genuinely restrictive effect.
-Its basic purpose is to substitute statutory for common law copyright for everything now protected at common law, and to substitute reasonable time limits for the perpetual protection now available.
-In general, the substituted time limits are those applicable to works created after the effective date of the law [Jan. 1, 1978]; for example, an unpublished work written in 1945 whose author dies in 1980 would be protected under the statute from the effective date [Jan. 1, 1978] through 2030 (50 years after the author's death).
-
-A special problem under this provision is what to do with works whose ordinary statutory terms will have expired or will be nearing expiration on the effective date [Jan. 1, 1978]. The committee believes that a provision taking away subsisting common law rights and substituting statutory rights for a reasonable period is fully in harmony with the constitutional requirements of due process, but it is necessary to fix a “reasonable period” for this purpose.
-Section 303 provides that under no circumstances would copyright protection expire before December 31, 2002, and also attempts to encourage publication by providing 25 years more protection (through 2027) if the work were published before the end of 2002.
-
-Cross References
-
-Duration and renewal of registration of trade-marks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
-
-Duration of term of patents, see section 154 of Title 35, Patents.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 301, 305 of this title.
-
-§304. Duration of copyright: Subsisting copyrights
-
-(a) Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for 28 years from the date it was originally secured.
-
-(B) In the case of—
-
-(i) any posthumous work or of any periodical, cyclopedic, or other composite work upon which the copyright was originally secured by the proprietor thereof, or
-
-(ii) any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire,
-
-the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of 47 years.
-
-(C) In the case of any other copyrighted work, including a contribution by an individual author to a periodical or to a cyclopedic or other composite work—
-
-(i) the author of such work, if the author is still living,
-
-(ii) the widow, widower, or children of the author, if the author is not living,
-
-(iii) the author's executors, if such author, widow, widower, or children are not living, or
-
-(iv) the author's next of kin, in the absence of a will of the author,
-
-shall be entitled to a renewal and extension of the copyright in such work for a further term of 47 years.
-
-(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure for a renewed and extended further term of 47 years, which—
-
-(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expiration of the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in the proprietor of the copyright who is entitled to claim the renewal of copyright at the time the application is made; or
-
-(ii) if no such application is made or the claim pursuant to such application is not registered, shall vest, upon the beginning of such further term, in the person or entity that was the proprietor of the copyright as of the last day of the original term of copyright.
-
-(B) At the expiration of the original term of copyright in a work specified in paragraph (1)(C) of this subsection, the copyright shall endure for a renewed and extended further term of 47 years, which—
-
-(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expiration of the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in any person who is entitled under paragraph (1)(C) to the renewal and extension of the copyright at the time the application is made; or
-
-(ii) if no such application is made or the claim pursuant to such application is not registered, shall vest, upon the beginning of such further term, in any person entitled under paragraph (1)(C), as of the last day of the original term of copyright, to the renewal and extension of the copyright.
-
-(3)(A) An application to register a claim to the renewed and extended term of copyright in a work may be made to the Copyright Office—
-
-(i) within 1 year before the expiration of the original term of copyright by any person entitled under paragraph (1)(B) or (C) to such further term of 47 years; and
-
-(ii) at any time during the renewed and extended term by any person in whom such further term vested, under paragraph (2)(A) or (B), or by any successor or assign of such person, if the application is made in the name of such person.
-
-(B) Such an application is not a condition of the renewal and extension of the copyright in a work for a further term of 47 years.
-
-(4)(A) If an application to register a claim to the renewed and extended term of copyright in a work is not made within 1 year before the expiration of the original term of copyright in a work, or if the claim pursuant to such application is not registered, then a derivative work prepared under authority of a grant of a transfer or license of the copyright that is made before the expiration of the original term of copyright may continue to be used under the terms of the grant during the renewed and extended term of copyright without infringing the copyright, except that such use does not extend to the preparation during such renewed and extended term of other derivative works based upon the copyrighted work covered by such grant.
-
-(B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate of such registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate.
-The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court.
-
-(b) Copyrights in Their Renewal Term or Registered for Renewal Before January 1, 1978.—The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.
-
-(c) Termination of Transfers and Licenses Covering Extended Renewal Term.—In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by the 1 subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:
-
-(1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it.
-In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest.
-
-(2) Where an author is dead, his or her termination interest is owned, and may be exercised, by his widow or her widower and his or her children or grandchildren as follows:
-
-(A) the widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest;
-
-(B) the author's surviving children, and the surviving children of any dead child of the author, own the author's entire termination interest unless there is a widow or widower, in which case the ownership of one-half of the author's interest is divided among them;
-
-(C) the rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them.
-
-(3) Termination of the grant may be effected at any time during a period of five years beginning at the end of fifty-six years from the date copyright was originally secured, or beginning on January 1, 1978, whichever is later.
-
-(4) The termination shall be effected by serving an advance notice in writing upon the grantee or the grantee's successor in title.
-In the case of a grant executed by a person or persons other than the author, the notice shall be signed by all of those entitled to terminate the grant under clause (1) of this subsection, or by their duly authorized agents.
-In the case of a grant executed by one or more of the authors of the work, the notice as to any one author's share shall be signed by that author or his or her duly authorized agent or, if that author is dead, by the number and proportion of the owners of his or her termination interest required under clauses (1) and (2) of this subsection, or by their duly authorized agents.
-
-(A) The notice shall state the effective date of the termination, which shall fall within the five-year period specified by clause (3) of this subsection, and the notice shall be served not less than two or more than ten years before that date.
-A copy of the notice shall be recorded in the Copyright Office before the effective date of termination, as a condition to its taking effect.
-
-(B) The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation.
-
-(5) Termination of the grant may be effected notwithstanding any agreement to the contrary, including an agreement to make a will or to make any future grant.
-
-(6) In the case of a grant executed by a person or persons other than the author, all rights under this title that were covered by the terminated grant revert, upon the effective date of termination, to all of those entitled to terminate the grant under clause (1) of this subsection.
-In the case of a grant executed by one or more of the authors of the work, all of a particular author's rights under this title that were covered by the terminated grant revert, upon the effective date of termination, to that author or, if that author is dead, to the persons owning his or her termination interest under clause (2) of this subsection, including those owners who did not join in signing the notice of termination under clause (4) of this subsection.
-In all cases the reversion of rights is subject to the following limitations:
-
-(A) A derivative work prepared under authority of the grant before its termination may continue to be utilized under the terms of the grant after its termination, but this privilege does not extend to the preparation after the termination of other derivative works based upon the copyrighted work covered by the terminated grant.
-
-(B) The future rights that will revert upon termination of the grant become vested on the date the notice of termination has been served as provided by clause (4) of this subsection.
-
-(C) Where the author's rights revert to two or more persons under clause (2) of this subsection, they shall vest in those persons in the proportionate shares provided by that clause.
-In such a case, and subject to the provisions of subclause (D) of this clause, a further grant, or agreement to make a further grant, of a particular author's share with respect to any right covered by a terminated grant is valid only if it is signed by the same number and proportion of the owners, in whom the right has vested under this clause, as are required to terminate the grant under clause (2) of this subsection.
-Such further grant or agreement is effective with respect to all of the persons in whom the right it covers has vested under this subclause, including those who did not join in signing it.
-If any person dies after rights under a terminated grant have vested in him or her, that person's legal representatives, legatees, or heirs at law represent him or her for purposes of this subclause.
-
-(D) A further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is made after the effective date of the termination.
-As an exception, however, an agreement for such a further grant may be made between the author or any of the persons provided by the first sentence of clause (6) of this subsection, or between the persons provided by subclause (C) of this clause, and the original grantee or such grantee's successor in title, after the notice of termination has been served as provided by clause (4) of this subsection.
-
-(E) Termination of a grant under this subsection affects only those rights covered by the grant that arise under this title, and in no way affects rights arising under any other Federal, State, or foreign laws.
-
-(F) Unless and until termination is effected under this subsection, the grant, if it does not provide otherwise, continues in effect for the remainder of the extended renewal term.
-
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, §102(a), (d), June 26, 1992, 106 Stat. 264, 266.)
-
-Historical and Revision Notes
-
-house report no. 94–1476
-
-The arguments in favor of lengthening the duration of copyright apply to subsisting as well as future copyrights.
-The bill's basic approach is to increase the present 56-year term to 75 years in the case of copyrights subsisting in both their first and their renewal terms.
-
-Copyrights in Their First Term.
-Subsection (a) of section 304 reenacts and preserves the renewal provision, now in Section 24 of the statute [section 24 of former title 17], for all of the works presently in their first 28-year term.
-A great many of the present expectancies in these cases are the subject of existing contracts, and it would be unfair and immensely confusing to cut off or alter these interests.
-Renewal registration will be required during the 28th year of the copyright but the length of the renewal term will be increased from 28 to 47 years.
-
-Although the bill preserves the language of the present renewal provision without any change in substance, the Committee intends that the reference to a “posthumous work” in this section has the meaning given to it in Bartok v. Boosey & Hawkes, Inc., 523 F.2d 941 (2d Cir. 1975)—one as to which no copyright assignment or other contract for exploitation of the work has occurred during an author's lifetime, rather than one which is simply first published after the author's death.
-
-Copyrights in Their Renewal Term.
-Renewed copyrights that are subsisting in their second term at any time during the period between December 31, 1976, and December 31, 1977, inclusive, would be extended under section 304(b) to run for a total of 75 years.
-This provision would add another 19 years to the duration of any renewed copyright whose second term started during the 28 years immediately preceding the effective date of the act (January 1, 1978). In addition, it would extend by varying lesser amounts the duration of renewal copyrights already extended under Public Laws 87–668, 89–142, 90–141, 90–416, 91–147, 91–555, 92–170, 92–566, and 93–573, all of which would otherwise expire on December 31, 1976. The subsection would also extend the duration of renewal copyrights whose second 28-year term is scheduled to expire during 1977. In none of these cases, however, would the total terms of copyright for the work be longer than 75 years.
-
-Subsection (b) also covers the special situation of a subsisting first-term copyright that becomes eligible for renewal registration during the year before the act comes into effect.
-If a renewal registration is not made before the effective date [Jan. 1, 1978], the case is governed by the provisions of section 304(a) [subsec. (a) of this section]. If a renewal registration is made during the year before the new law takes effect, however, the copyright would be treated as if it were already subsisting in its second term and would be extended to the full period of 75 years without the need for further renewal.
-
-Termination of Grants Covering Extended Term.
-An issue underlying the 19-year extension of renewal terms under both subsections (a) and (b) of section 304 [subsecs. (a) and (b) of this section] is whether, in a case where their rights have already been transferred, the author or the dependents of the author should be given a chance to benefit from the extended term.
-The arguments for granting rights of termination are even more persuasive under section 304 than they are under section 203; the extended term represents a completely new property right, and there are strong reasons for giving the author, who is the fundamental beneficiary of copyright under the Constitution, an opportunity to share in it.
-
-Subsection (c) of section 304 is a close but not exact counterpart of section 203. In the case of either a first-term or renewal copyright already subsisting when the new statute becomes effective [Jan. 1, 1978], any grant of rights covering the renewal copyright in the work, executed before the effective date [Jan. 1, 1978], may be terminated under conditions and limitations similar to those provided in section 203. Except for transfers and licenses covering renewal copyrights already extended under Public Laws 87–668, 89–142, 90–141, 90–416, 91–147, 91–555, 92–170, 92–566, and 93–573, which would become subject to termination immediately upon the coming into effect of the revised law, the 5-year period during which termination could be made effective would start 56 years after copyright was originally secured.
-
-The bill distinguishes between the persons who can terminate a grant under section 203 and those entitled to terminate a grant covering an extended term under section 304. Instead of being limited to transfers and licenses executed by the author, the right of termination under section 304(c) also extends to grants executed by those beneficiaries of the author who can claim renewal under the present law: his or her widow or widower, children, executors, or next of kin.
-
-There is good reason for this difference.
-Under section 203, an author's widow or widower and children are given rights of termination if the author is dead, but these rights apply only to grants by the author, and any effort by a widow, widower, or child to transfer contingent future interests under a termination would be ineffective.
-In contrast, under the present renewal provisions, any statutory beneficiary of the author can make a valid transfer or license of future renewal rights, which is completely binding if the author is dead and the person who executed the grant turns out to be the proper renewal claimant.
-Because of this, a great many contingent transfers of future renewal rights have been obtained from widows, widowers, children, and next of kin, and a substantial number of these will be binding.
-After the present 28-year renewal period has ended, a statutory beneficiary who has signed a disadvantageous grant of this sort should have the opportunity to reclaim the extended term.
-
-As explained above in connection with section 203, the bill adopts the principle that, where a transfer or license by the author is involved, termination may be effected by a per stirpes majority of those entitled to terminate, and this principle also applies to the ownership of rights under a termination and to the making of further grants of reverted rights.
-In general, this principle has also been adopted with respect to the termination of rights under an extended renewal copyright in section 304, but with several differences made necessary by the differences between the legal status of transfers and licenses made after the effective date of the new law [Jan. 1, 1978] (governed by section 203) and that of grants of renewal rights made earlier and governed by section 304(c). The following are the most important distinctions between the termination rights under the two sections:
-
-1. Joint Authorship.—Under section 304, a grant of renewal rights executed by joint authors during the first term of copyright would be effective only as to those who were living at the time of renewal; where any of them are dead, their statutory beneficiaries are entitled to claim the renewal independently as a new estate.
-It would therefore be inappropriate to impose a requirement of majority action with respect to transfers executed by two or more joint authors.
-
-2. Grants Not Executed by Author.—Section 304(c) adopts the majority principle underlying the amendments of section 203 [section 203 of this title] with respect to the termination rights of a dead author's widow or widower and children.
-There is much less reason, as a matter of policy, to apply this principle in the case of transfers and licenses of renewal rights executed under the present law by the author's widow, widower, children, executors, or next of kin, and the practical arguments against doing so are conclusive.
-It is not clear how the shares of a class of renewal beneficiaries are to be divided under the existing law, and greater difficulties would be presented if any attempt were made to apply the majority principle to further beneficiaries in cases where one or more of the renewal beneficiaries are dead.
-Therefore, where the grant was executed by a person or persons other than the author, termination can be effected only by the unanimous action of the survivors of those who executed it.
-
-3. Further Grants.—The reason against adopting a principle of majority action with respect to the right to terminate grants by joint authors and grants not executed by the author apply equally with respect to the right to make further grants under section 304(c). The requirement for majority action in clause (6)(C) is therefore confined to cases where the rights under a grant by the author have reverted to his or her widow or widower, or children, or both.
-Where the extended term reverts to joint authors or to a class of renewal beneficiaries who have joined in executing a grant, their rights would be governed by the general rules of tenancy in common; each coowner would have an independent right to sell his share, or to use or license the work subject to an accounting.
-
-Nothing contained in this section or elsewhere in this legislation is intended to extend the duration of any license, transfer, or assignment made for a period of less than fifty-six years.
-If, for example, an agreement provides an earlier termination date or lesser duration, or if it allows the author the right of cancelling or terminating the agreement under certain circumstances, the duration is governed by the agreement.
-Likewise, nothing in this section or legislation is intended to change the existing state of the law of contracts concerning the circumstances in which an author may terminate a license, transfer or assignment.
-
-Section 304(c)(6)(E) provides that, unless and until termination is effected under this section, the grant, “if it does not provide otherwise,” continues for the term of copyright.
-This section means that, if the agreement does not contain provisions specifying its term or duration, and the author has not terminated the agreement under this section, the agreement continues for the term of the copyright, subject to any right of termination under circumstances which may be specified therein.
-If, however, an agreement does contain provisions governing its duration—for example, a term of sixty years—and the author has not exercised his or her right of termination under the statute, the agreement will continue according to its terms—in this example, for only sixty years.
-The quoted language is not to be construed as requiring agreements to reserve the right of termination.
 
 Effective Date
 
@@ -6196,7 +6293,7 @@ Liability of States, instrumentalities of States, and State officials for infrin
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 104A, 912 of this title.
+This chapter is referred to in sections 104A, 115, 912 of this title.
 
 1 So in original.
 Does not conform to section catchline.
@@ -6371,6 +6468,8 @@ Works consisting of sounds, images, or both, the first fixation of which is made
 Section Referred to in Other Sections
 
 This section is referred to in sections 109, 111, 115, 119, 411, 510, 511, 1101 of this title.
+
+ 
 
 §504. Remedies for infringement: Damages and profits
 
@@ -7359,7 +7458,7 @@ Chapter effective Oct. 19, 1976, see section 102 of Pub. L. 94–533, set out as
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 111, 115, 118, 119, 912 of this title.
+This chapter is referred to in sections 111, 114, 115, 118, 119, 912 of this title.
 
 1 So in original.
 Does not conform to section catchline.
@@ -7370,7 +7469,7 @@ Does not conform to section catchline.
 
 (b) Purposes.—Subject to the provisions of this chapter, the purposes of the copyright arbitration royalty panels shall be—
 
-(1) to make determinations concerning the adjustment of reasonable copyright royalty rates as provided in sections 115 and 116, and to make determinations as to reasonable terms and rates of royalty payments as provided in section 118. The rates applicable under sections 115 and 116 shall be calculated to achieve the following objectives:
+(1) to make determinations concerning the adjustment of reasonable copyright royalty rates as provided in sections 114, 115, and 116, and to make determinations as to reasonable terms and rates of royalty payments as provided in section 118. The rates applicable under sections 114, 115, and 116 shall be calculated to achieve the following objectives:
 
 (A) To maximize the availability of creative works to the public;
 
@@ -7398,7 +7497,7 @@ In determining the reasonableness of rates proposed following an amendment of Fe
 
 (d) Administrative Support of Copyright Arbitration Royalty Panels.—The Library of Congress, upon the recommendation of the Register of Copyrights, shall provide the copyright arbitration royalty panels with the necessary administrative services related to proceedings under this chapter.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348.)
 
 References in Text
 
@@ -7424,7 +7523,7 @@ Trade-marks registrable on principal register, see section 1052 of Title 15, Com
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 104A, 802, 803 of this title; title 47 section 545.
+This section is referred to in sections 104A, 114, 115, 802, 803 of this title; title 47 section 545.
 
 §802. Membership and proceedings of copyright arbitration royalty panels
 
@@ -7436,7 +7535,7 @@ The 2 arbitrators so selected shall, within 10 days after their selection, choos
 If such 2 arbitrators fail to agree upon the selection of a third arbitrator, the Librarian of Congress shall promptly select the third arbitrator.
 The Librarian of Congress, upon the recommendation of the Register of Copyrights, shall adopt regulations regarding standards of conduct which shall govern arbitrators and the proceedings under this chapter.
 
-(c) Arbitration Proceedings.—Copyright arbitration royalty panels shall conduct arbitration proceedings, subject to subchapter II of chapter 5 of title 5, for the purpose of making their determinations in carrying out the purposes set forth in section 801. The arbitration panels shall act on the basis of a fully documented written record, prior decisions of the Copyright Royalty Tribunal, prior copyright arbitration panel determinations, and rulings by the Librarian of Congress under section 801(c). Any copyright owner who claims to be entitled to royalties under section 111, 116, or 119, or any interested copyright party who claims to be entitled to royalties under section 1006, may submit relevant information and proposals to the arbitration panels in proceedings applicable to such copyright owner or interested copyright party, and any other person participating in arbitration proceedings may submit such relevant information and proposals to the arbitration panel conducting the proceedings.
+(c) Arbitration Proceedings.—Copyright arbitration royalty panels shall conduct arbitration proceedings, subject to subchapter II of chapter 5 of title 5, for the purpose of making their determinations in carrying out the purposes set forth in section 801. The arbitration panels shall act on the basis of a fully documented written record, prior decisions of the Copyright Royalty Tribunal, prior copyright arbitration panel determinations, and rulings by the Librarian of Congress under section 801(c). Any copyright owner who claims to be entitled to royalties under section 111, 114, 116, or 119, any person entitled to a compulsory license under section 114(d), any person entitled to a compulsory license under section 115, or any interested copyright party who claims to be entitled to royalties under section 1006, may submit relevant information and proposals to the arbitration panels in proceedings applicable to such copyright owner or interested copyright party, and any other person participating in arbitration proceedings may submit such relevant information and proposals to the arbitration panel conducting the proceedings.
 In ratemaking proceedings, the parties to the proceedings shall bear the entire cost thereof in such manner and proportion as the arbitration panels shall direct.
 In distribution proceedings, the parties shall bear the cost in direct proportion to their share of the distribution.
 
@@ -7454,7 +7553,7 @@ The Librarian shall also make the report of the arbitration panel and the accomp
 
 (g) Judicial Review.—Any decision of the Librarian of Congress under subsection (f) with respect to a determination of an arbitration panel may be appealed, by any aggrieved party who would be bound by the determination, to the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the publication of the decision in the Federal Register.
 If no appeal is brought within such 30-day period, the decision of the Librarian is final, and the royalty fee or determination with respect to the distribution of fees, as the case may be, shall take effect as set forth in the decision.
-The pendency of an appeal under this paragraph shall not relieve persons obligated to make royalty payments under sections 111, 115, 116, 118, 119, or 1003 who would be affected by the determination on appeal to deposit the statement of account and royalty fees specified in those sections.
+The pendency of an appeal under this paragraph shall not relieve persons obligated to make royalty payments under sections 111, 114, 115, 116, 118, 119, or 1003 who would be affected by the determination on appeal to deposit the statement of account and royalty fees specified in those sections.
 The court shall have jurisdiction to modify or vacate a decision of the Librarian only if it finds, on the basis of the record before the Librarian, that the Librarian acted in an arbitrary manner.
 If the court modifies the decision of the Librarian, the court shall have jurisdiction to enter its own determination with respect to the amount or distribution of royalty fees and costs, to order the repayment of any excess fees, and to order the payment of any underpaid fees, and the interest pertaining respectively thereto, in accordance with its final judgment.
 The court may further vacate the decision of the arbitration panel and remand the case to the Librarian for arbitration proceedings in accordance with subsection (c).
@@ -7465,9 +7564,9 @@ The court may further vacate the decision of the arbitration panel and remand th
 Such deduction may be made before the fees are distributed to any copyright claimants.
 If no royalty pool exists from which their costs can be deducted, the Librarian of Congress and the Copyright Office may assess their reasonable costs directly to the parties to the most recent relevant arbitration proceeding.
 
-(2) Positions required for administration of compulsory licensing.—Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 115, 116, 118, or 119 or chapter 10.
+(2) Positions required for administration of compulsory licensing.—Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 114, 115, 116, 118, or 119 or chapter 10.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, §5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349.)
 
 References in Text
 
@@ -7477,23 +7576,25 @@ Section 307 of the Legislative Branch Appropriations Act, 1994, referred to in s
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 119, 803 of this title.
+This section is referred to in sections 114, 119, 803 of this title.
 
 §803. Institution and conclusion of proceedings
 
-(a)(1) With respect to proceedings under section 801(b)(1) concerning the adjustment of royalty rates as provided in sections 115 and 116, and with respect to proceedings under subparagraphs (A) and (D) of section 801(b)(2), during the calendar years specified in the schedule set forth in paragraphs (2), (3), and (4), any owner or user of a copyrighted work whose royalty rates are specified by this title, established by the Copyright Royalty Tribunal before the date of the enactment of the Copyright Royalty Tribunal Reform Act of 1993, or established by a copyright arbitration royalty panel after such date of enactment, may file a petition with the Librarian of Congress declaring that the petitioner requests an adjustment of the rate.
+(a)(1) With respect to proceedings under section 801(b)(1) concerning the adjustment of royalty rates as provided in sections 114, 115 and 116, and with respect to proceedings under subparagraphs (A) and (D) of section 801(b)(2), during the calendar years specified in the schedule set forth in paragraphs (2), (3), (4) and (5), any owner or user of a copyrighted work whose royalty rates are specified by this title, established by the Copyright Royalty Tribunal before the date of the enactment of the Copyright Royalty Tribunal Reform Act of 1993, or established by a copyright arbitration royalty panel after such date of enactment, may file a petition with the Librarian of Congress declaring that the petitioner requests an adjustment of the rate.
 The Librarian of Congress shall, upon the recommendation of the Register of Copyrights, make a determination as to whether the petitioner has such a significant interest in the royalty rate in which an adjustment is requested.
 If the Librarian determines that the petitioner has such a significant interest, the Librarian shall cause notice of this determination, with the reasons therefor, to be published in the Federal Register, together with the notice of commencement of proceedings under this chapter.
 
 (2) In proceedings under section 801(b)(2)(A) and (D), a petition described in paragraph (1) may be filed during 1995 and in each subsequent fifth calendar year.
 
-(3) In proceedings under section 801(b)(1) concerning the adjustment of royalty rates as provided in section 115, a petition described in paragraph (1) may be filed in 1997 and in each subsequent tenth calendar year.
+(3) In proceedings under section 801(b)(1) concerning the adjustment of royalty rates as provided in section 115, a petition described in paragraph (1) may be filed in 1997 and in each subsequent tenth calendar year or as prescribed in section 115(c)(3)(D).
 
 (4)(A) In proceedings under section 801(b)(1) concerning the adjustment of royalty rates as provided in section 116, a petition described in paragraph (1) may be filed at any time within 1 year after negotiated licenses authorized by section 116 are terminated or expire and are not replaced by subsequent agreements.
 
 (B) If a negotiated license authorized by section 116 is terminated or expires and is not replaced by another such license agreement which provides permission to use a quantity of musical works not substantially smaller than the quantity of such works performed on coin-operated phonorecord players during the 1-year period ending March 1, 1989, the Librarian of Congress shall, upon petition filed under paragraph (1) within 1 year after such termination or expiration, convene a copyright arbitration royalty panel.
 The arbitration panel shall promptly establish an interim royalty rate or rates for the public performance by means of a coin-operated phonorecord player of non-dramatic musical works embodied in phonorecords which had been subject to the terminated or expired negotiated license agreement.
 Such rate or rates shall be the same as the last such rate or rates and shall remain in force until the conclusion of proceedings by the arbitration panel, in accordance with section 802, to adjust the royalty rates applicable to such works, or until superseded by a new negotiated license agreement, as provided in section 116(b).
+
+(5) With respect to proceedings under section 801(b)(1) concerning the determination of reasonable terms and rates of royalty payments as provided in section 114, the Librarian of Congress shall proceed when and as provided by that section.
 
 (b) With respect to proceedings under subparagraph (B) or (C) of section 801(b)(2), following an event described in either of those subsections, any owner or user of a copyrighted work whose royalty rates are specified by section 111, or by a rate established by the Copyright Royalty Tribunal or the Librarian of Congress, may, within twelve months, file a petition with the Librarian declaring that the petitioner requests an adjustment of the rate.
 In this event the Librarian shall proceed as in subsection subsection 1 (a) of this section.
@@ -7503,7 +7604,7 @@ Any change in royalty rates made by the Copyright Royalty Tribunal or the Librar
 
 (d) With respect to proceedings under section 801(b)(3) or (4), concerning the distribution of royalty fees in certain circumstances under section 111, 116, 119, or 1007, the Librarian of Congress shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2597, §804; Pub. L. 100–568, §11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered §803 and amended Pub. L. 103–198, §2(d), Dec. 17, 1993, 107 Stat. 2307.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2597, §804; Pub. L. 100–568, §11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered §803 and amended Pub. L. 103–198, §2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, §5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349.)
 
 References in Text
 
@@ -7515,7 +7616,7 @@ A prior section 803, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2
 
 Section Referred to in Other Sections
 
-This section is referred to in section 802 of this title.
+This section is referred to in sections 114, 115, 802 of this title.
 
 1 So in original.
 
@@ -7535,6 +7636,8 @@ Section 808, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2598, rel
 Section 809, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2598, related to effective date of final determinations of Tribunal.
 
 Section 810, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2598, related to judicial review of final decisions of Tribunal.
+
+  
 
 CHAPTER 9—PROTECTION OF SEMICONDUCTOR CHIP PRODUCTS
 
@@ -7996,6 +8099,8 @@ Section 1 of Pub. L. 100–159 provided that:
 
 “(2) to codify the President's existing authority to revoke, suspend, or limit the protection extended to mask works of foreign entities in nations that extend mask work protection to United States nationals.”
 
+ 
+
 CHAPTER 10—DIGITAL AUDIO RECORDING DEVICES AND MEDIA
 
 SUBCHAPTER A—DEFINITIONS
@@ -8177,7 +8282,7 @@ Any such person who does transmit or otherwise communicate such copyright status
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1009, 1010 of this title.
+This section is referred to in sections 114, 115, 1009, 1010 of this title.
 
 SUBCHAPTER C—ROYALTY PAYMENTS
 
@@ -8308,6 +8413,8 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 803, 1005, 1006 of this title.
 
+ 
+
 SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITRATION
 
 §1008. Prohibition on certain infringement actions
@@ -8318,7 +8425,7 @@ No action may be brought under this title alleging infringement of copyright bas
 
 Section Referred to in Other Sections
 
-This section is referred to in title 19 section 1337.
+This section is referred to in section 115 of this title; title 19 section 1337.
 
 §1009. Civil remedies
 
@@ -8436,4 +8543,6 @@ shall be subject to the remedies provided in sections 502 through 505, to the sa
 References in Text
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+
+ 
 
