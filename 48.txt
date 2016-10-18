@@ -297,7 +297,7 @@ Every national bank in any State shall, upon commencing business or within ninet
 
 “Sec. 28. [Mines and mining.] (a) The last sentence of section 9 of the Act entitled ‘An Act to provide for the leasing of coal lands in the Territory of Alaska, and for other purposes’, approved October 20, 1914 (48 U.S.C. 439), is hereby amended to read as follows: ‘All net profits from operation of Government mines, and all bonuses, royalties, and rentals under leases as herein provided and all other payments received under this Act shall be distributed as follows as soon as practicable after December 31 and June 30 of each year: (1) 90 per centum thereof shall be paid by the Secretary of the Treasury to the State of Alaska for disposition by the legislature thereof; and (2) 10 per centum shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts.’
 
-“(b) Section 35 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended (30 U.S.C. 191), is hereby amended by inserting immediately before the colon preceding the first proviso thereof the following: ‘, and of those from Alaska 521/2 per centum thereof shall be paid to the State of Alaska for disposition by the legislature thereof’.
+“(b) Section 35 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended (30 U.S.C. 191), is hereby amended by inserting immediately before the colon preceding the first proviso thereof the following: ‘, and of those from Alaska 52½ per centum thereof shall be paid to the State of Alaska for disposition by the legislature thereof’.
 
 “Sec. 29. [Separability clause.] If any provision of this Act, or any section, subsection, sentence, clause, phrase, or individual word, or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of any such provision, section, subsection, sentence, clause, phrase, or individual word to other persons and circumstances shall not be affected thereby.
 
@@ -571,7 +571,7 @@ There are hereby authorized to be appropriated for the fiscal year ending June 3
 
 “ ‘(f) the term “continental United States” means the States and the District of Columbia.’
 
-“Sec. 43. [Buy American Act; amendment.] Section 1(b) of Title III of the Act of March 3, 1933 (41 U.S.C. 10c(b)), is amended by striking out the word ‘Alaska,’.
+“Sec. 43. [Buy American Act; amendment.] Section 1(b) of Title III of the Act of March 3, 1933 ([former] 41 U.S.C. 10c(b)) [now 41 U.S.C. 8301(1)], is amended by striking out the word ‘Alaska,’.
 
 “Sec. 44. [Transitional grants.] (a) In order to assist the State of Alaska in accomplishing an orderly transition from Territorial status to statehood, and in order to facilitate the assumption by the State of Alaska of responsibilities hitherto performed in Alaska by the Federal Government, there are hereby authorized to be appropriated to the President, for the purpose of making transitional grants to the State of Alaska, the sum of $10,500,000 for the fiscal year ending June 30, 1960; the sum of $6,000,000 for each of the fiscal years ending June 30, 1961, and June 30, 1962; the sum of $3,000,000 for each of the fiscal years ending June 30, 1963, and June 30, 1964; and the sum of $23,500,000 for the period ending June 30, 1966.
 
@@ -2886,7 +2886,7 @@ The Secretary of Commerce shall apportion funds to the State of Hawaii for the I
 
 “(d) striking out the words ‘and the Territory of Hawaii’ in section 702(a).
 
-“Sec. 28. [Buy American Act; amendment.] Section 1(b) of title III of the Act of March 3, 1933 (47 Stat. 1520), as amended, is amended by striking out the word ‘Hawaii,’.
+“Sec. 28. [Buy American Act; amendment.] Section 1(b) of title III of the Act of March 3, 1933 (47 Stat. 1520) [now 41 U.S.C. 8301(1)], as amended, is amended by striking out the word ‘Hawaii,’.
 
 “Sec. 29. [Public Health Service Act; amendment.] (a) Subsection (f) of section 2 of the Public Health Service Act, relating to definition of State, is amended by striking out ‘Hawaii,’.
 
@@ -6391,7 +6391,7 @@ Section 8(c) of the Revised Organic Act, set out as section 1574(c) of this titl
 
 Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization
 
-Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479, provided:
+Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479; Pub. L. 111–194, §2, June 30, 2010, 124 Stat. 1310, provided:
 
 “[Section 1. Authorization to organize governments] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorities the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
 
@@ -6418,9 +6418,25 @@ Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, 
 “Sec. 4. [Submittal of proposed constitutions to governors and President] The conventions shall submit to the Governor of the Virgin Islands a proposed constitution for the Virgin Islands and to the Governor of Guam a proposed constitution for Guam which shall comply with the requirements set forth in section 2(b) above.
 Such constitutions shall be submitted to the President of the United States by the Governors of the Virgin Islands and Guam.
 
-“Sec. 5. [Transmittal to Congress and submittal to voters] Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress.
-The constitution, in each case, shall be deemed to have been approved by the Congress within sixty legislative days (not interrupted by an adjournment sine die of the Congress) after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, by joint resolution.
-As so approved or modified, the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) [Oct. 21, 1976]. Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+“Sec. 5. [Transmittal to Congress and submittal to voters] (a) Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress.
+
+“(b) The constitution, in each case, shall be deemed to have been approved by the Congress within 60 legislative days after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, or has urged the constitutional convention to reconvene, by joint resolution.
+
+“(c) Revision of Proposed Constitution.—
+
+“(1) In general.—If a convention reconvenes and revises the proposed constitution, the convention shall resubmit the revised proposed constitution simultaneously to the Governor of the Virgin Islands and the President.
+
+“(2) Comments of president.—Not later than 60 calendar days after the date of receipt of the revised proposed constitution, the President shall—
+
+“(A) notify the convention, the Governor, and Congress of the comments of the President on the revised proposed constitution; and
+
+“(B) publish the comments in the Federal Register.
+
+“(d) As so approved or modified under subsection (b) (or, if revised pursuant to subsection (c), on publication of the comments of the President in the Federal Register), the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) [Oct. 21, 1976].
+
+“(e) Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+
+[Pub. L. 94–584 is also set out as a note preceding section 1541 of this title.]
 
 Delegate to Congress From Virgin Islands
 
@@ -6468,6 +6484,17 @@ There shall be levied, collected, and paid upon all articles coming into the Uni
 In determining whether such a Virgin Islands article contains foreign material to the value of more than 20 per centum, no material shall be considered foreign which, at the time the Virgin Islands article is entered, or withdrawn from warehouse, for consumption, may be imported into the continental United States free of duty generally.
 
 (Mar. 3, 1917, ch. 171, §3, 39 Stat. 1133; Sept. 7, 1950, ch. 909, 64 Stat. 784.)
+
+§1395. Tax laws continued; tax on sugar
+
+Until Congress shall otherwise provide all laws now imposing taxes in the said West Indian Islands, including the customs laws and regulations, shall, insofar as compatible with the changed sovereignty and not otherwise herein provided, continue in force and effect, except that articles the growth, product, or manufacture of the United States shall be admitted there free of duty: Provided, That upon exportation of sugar to any foreign country, or the shipment thereof to the United States or any of its possessions, there shall be levied, collected, and paid thereon an export duty of $6 per ton of two thousand pounds, irrespective of polariscope test, in lieu of any export tax now required by law: Provided further, That the internal revenue taxes levied by the Colonial Council of Saint Croix, or by the Colonial Council of Saint Thomas and Saint John, in pursuance of the authority granted by this section and sections 1391,1 1392, 1394, and 1396 of this title on articles, goods, wares, or merchandise may be levied and collected as the Colonial Council of Saint Croix, or as the Colonial Council of Saint Thomas and Saint John, may direct, on the articles subject to said tax, as soon as the same are manufactured, sold, used, or brought into the island: And provided further, That no discrimination be made between the articles imported from the United States or foreign countries and similar articles produced or manufactured in the municipality of Saint Croix, or in the municipality of Saint Thomas and Saint John, respectively.
+The officials of the Customs and Postal Services of the United States are directed to assist the appropriate officials of the municipality of Saint Croix, or of the municipality of Saint Thomas and Saint John, in the collection of these taxes.
+
+(Mar. 3, 1917, ch. 171, §4, 39 Stat. 1133; Feb. 25, 1927, ch. 192, §5, 44 Stat. 1235; June 24, 1932, ch. 275, 47 Stat. 333.)
+
+References in Text
+
+Section 1391 of this title, referred to in text, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 643.
 
 1 See References in Text note below.
 
@@ -6638,8 +6665,6 @@ References in Text
 
 The National Prohibition Act, as amended, referred to in text, is act Oct. 28, 1919, ch. 85, 41 Stat. 305, as amended.
 Title III of such Act was classified principally to chapter 3 (§71 et seq.) of Title 27, Intoxicating Liquors, and was omitted from the Code in view of the incorporation of such provisions in the Internal Revenue Code of 1939, and subsequently into the Internal Revenue Code of 1986.
-
-The internal revenue laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
 
 Codification
 
@@ -6872,10 +6897,6 @@ The export duties in effect on June 22, 1936 may be from time to time reduced, r
 
 (June 22, 1936, ch. 699, §36, 49 Stat. 1816.)
 
-References in Text
-
-The customs laws, referred to in text, are classified generally to Title 19, Customs Duties.
-
 §1406j. Repealed.
 Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649
 
@@ -7049,7 +7070,7 @@ Section 1409e, acts Dec. 20, 1944, ch. 615, §6, 58 Stat. 829; June 30, 1949, ch
 Plan No. 15, §1, eff.
 May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, related to procurement, warehousing and distribution of property, and establishment of a revolving fund for purchase, repairs, etc., of materials and supplies.
 
-Section 1409f, act Dec. 20, 1944, ch. 615, §7, 58 Stat. 829, made inapplicable to projects authorized the provisions of section 5 of title 41, relating to advertising for bids in purchase of materials and services, where aggregate amount is less than $500.
+Section 1409f, act Dec. 20, 1944, ch. 615, §7, 58 Stat. 829, made inapplicable to projects authorized the provisions of section 5 of former title 41, relating to advertising for bids in purchase of materials and services, where aggregate amount is less than $500.
 
 Section 1409g, act Dec. 20, 1944, ch. 615, §8, 58 Stat. 829, related to disability and death benefits for certain employees receiving compensation from funds appropriated under this subchapter, subject to certain exceptions.
 
@@ -7784,9 +7805,7 @@ When such certificate has been issued, the Governor shall order the payment of s
 
 References in Text
 
-The income tax laws, referred to in subsec. (a), are classified generally to Title 26, Internal Revenue Code.
-
-The Internal Revenue Code of 1986, referred to in subsecs. (d) to (f), is classified generally to Title 26.
+The Internal Revenue Code of 1986, referred to in subsecs. (d) to (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Internal Revenue Code of 1939, referred to in subsecs. (d)(1), (e), and (f), was generally repealed by section 7851 of the Internal Revenue Code of 1986, Title 26. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code.
 See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
@@ -7996,9 +8015,9 @@ Nothing in this section shall be construed to authorize amounts made available u
 
 (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Fund such sums as may be necessary to carry out this section 1
+There are authorized to be appropriated to the Fund such sums as may be necessary to carry out this section.
 
-(Pub. L. 110–417, div. C, title XXXV, §3512, Oct. 14, 2008, 122 Stat. 4770.)
+(Pub. L. 110–417, div. C, title XXXV, §3512, Oct. 14, 2008, 122 Stat. 4770; Pub. L. 111–383, div. A, title X, §1075(e)(20), Jan. 7, 2011, 124 Stat. 4375.)
 
 References in Text
 
@@ -8008,9 +8027,6 @@ For complete classification of this Act to the Code, see Short Title note set ou
 Codification
 
 Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 and not as part of the Organic Act of Guam which comprises this chapter.
-
-1 So in original.
-Probably should be followed by a period.
 
 SUBCHAPTER II—THE EXECUTIVE BRANCH
 
@@ -8830,46 +8846,70 @@ No. 2695, eff.
 July 4, 1946, set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse.
 The other possessions, such as Samoa, are covered by special provisions set out elsewhere in this title.
 
-Ex. Ord.
-No. 13299. Interagency Group on Insular Areas
+Executive Order No. 13299
 
 Ex. Ord.
-No. 13299, May 12, 2003, 68 F.R. 25477, provided:
+No. 13299, May 12, 2003, 68 F.R. 25477, which established the Interagency Group on Insular Areas, was superseded by Ex. Ord.
+No. 13537, §4(d), Apr. 14, 2010, 75 F.R. 20238, set out below.
+
+Ex. Ord.
+No. 13537. Interagency Group on Insular Areas
+
+Ex. Ord.
+No. 13537, Apr. 14, 2010, 75 F.R. 20237, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. Interagency Group on Insular Areas. (a) There is established, within the Department of the Interior for administrative purposes, the Interagency Group on Insular Areas (IGIA). The group shall consist exclusively of:
+Section 1. Interagency Group on Insular Areas.
 
-(i) the heads of the executive departments; and
+(a) There is established, within the Department of the Interior for administrative purposes, the Interagency Group on Insular Areas (IGIA) to address policies concerning Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands (Insular Areas).
 
-(ii) the heads of such agencies as the Secretary of the Interior may designate.
+(b) The IGIA shall consist of:
 
-(b) The Secretary of the Interior, or the Secretary's designee under section 1(c) of this order, shall convene and preside at the meetings of the IGIA, determine its agenda, direct its work and, as appropriate to deal with particular subject matters, establish and direct subgroups of the IGIA that shall consist exclusively of members of the IGIA.
+(i) the heads of the executive departments, as defined in 5 U.S.C. 101;
 
-(c) A member of the IGIA may designate, to perform the IGIA or IGIA subgroup functions of the member, any person who is a part of the member's department or agency (agency) and who is either an officer of the United States appointed by the President or a member of the Senior Executive Service.
+(ii) the heads of such other executive agencies as the Co-Chairs of the IGIA may designate; and (iii) the Deputy Assistant to the President and Director of Intergovernmental Affairs.
+
+(c) The Secretary of the Interior and the Deputy Assistant to the President and Director of Intergovernmental Affairs shall serve as Co-Chairs of the IGIA, convene and preside at its meetings, direct its work, and establish such subgroups of the IGIA as they deem appropriate, consisting exclusively of members of the IGIA.
+
+(d) Members of the IGIA may designate a senior department or agency official who is a full-time officer or employee of the Federal Government to perform their IGIA functions.
 
 Sec. 2. Functions of the IGIA. The IGIA shall:
 
-(a) provide advice on establishment or implementation of policies concerning American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of Northern Mariana Islands (Insular Areas) to:
+(a) advise the President on establishment or implementation of policies concerning the Insular Areas;
 
-(i) the President, through the Office of Intergovernmental Affairs in the White House Office, in written reports, at least once each year; and
+(b) solicit information and advice concerning the Insular Areas from the Governors of, and other elected officials in, the Insular Areas (including through at least one meeting each year with any Governors of the Insular Areas who may wish to attend) in a manner that seeks their individual advice and does not involve collective judgment, or consensus advice or deliberation;
 
-(ii) the Secretary of the Interior;
+(c) solicit information and advice concerning the Insular Areas, as the IGIA determines appropriate, from representatives of entities or other individuals in a manner that seeks their individual advice and does not involve collective judgment, or consensus advice or deliberation;
 
-(b) obtain information and advice concerning Insular Areas from governors and other elected officials in the Insular Areas (including through a meeting at least once each year with such governors of the Insular Areas who may wish to attend) in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
+(d) solicit information from executive departments or agencies for purposes of carrying out its mission; and
 
-(c) obtain information and advice concerning Insular Areas, as the IGIA determines appropriate, from representatives of entities or other individuals in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation; and
+(e) at the request of the head of any executive department or agency who is a member of the IGIA, with the approval of the Co-Chairs, promptly review and provide advice on a policy or policy implementation action affecting the Insular Areas proposed by that department or agency.
 
-(d) at the request of the head of any agency who is a member of the IGIA, unless the Secretary of the Interior declines the request, promptly review and provide advice on a policy or policy implementation action affecting one of the Insular Areas proposed by that agency.
+Sec. 3. Recommendations.
+The IGIA shall:
 
-Sec. 3. General Provisions. (a) The Secretary of the Interior may, as the Secretary determines appropriate, make recommendations to the President, or to the heads of agencies, regarding policy or policy implementation actions of the Federal Government affecting the Insular Areas.
+(a) submit annually to the President a report containing recommendations regarding the establishment or implementation of policies concerning the Insular Areas; and
 
-(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+(b) provide to the President, from time to time, as appropriate, recommendations concerning proposed or existing Federal programs and policies affecting the Insular Areas.
 
-Sec. 4. Judicial Review.
-This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
+Sec. 4. General Provisions.
 
-George W. Bush.      
+(a) The heads of executive departments and agencies shall assist and provide information to the IGIA, consistent with applicable law, as may be necessary to carry out the functions of the IGIA. Each executive department and agency shall bear its own expenses of participating in the IGIA.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order shall supersede Executive Order 13299 of May 8, 2003.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.      
 
 §1451. Rights of Indians not impaired; boundaries
 
@@ -9973,7 +10013,7 @@ Remittance of duties, taxes, and fees to be collected in next fiscal year; autho
 
 Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization
 
-Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479, provided:
+Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479; Pub. L. 111–194, §2, June 30, 2010, 124 Stat. 1310, provided:
 
 “[Section 1. Authorization to organize governments] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorizes the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
 
@@ -10000,9 +10040,25 @@ Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, 
 “Sec. 4. [Submittal of proposed constitutions to governors and President] The conventions shall submit to the Governor of the Virgin Islands a proposed constitution for the Virgin Islands and to the Governor of Guam a proposed constitution for Guam which shall comply with the requirements set forth in section 2(b) above.
 Such constitutions shall be submitted to the President of the United States by the Governors of the Virgin Islands and Guam.
 
-“Sec. 5. [Transmittal to Congress and submittal to voters] Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress.
-The constitution, in each case, shall be deemed to have been approved by the Congress within sixty legislative days (not interrupted by an adjournment sine die of the Congress) after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, by joint resolution.
-As so approved or modified, the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) [Oct. 21, 1976]. Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+“Sec. 5. [Transmittal to Congress and submittal to voters] (a) Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress.
+
+“(b) The constitution, in each case, shall be deemed to have been approved by the Congress within 60 legislative days after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, or has urged the constitutional convention to reconvene, by joint resolution.
+
+“(c) Revision of Proposed Constitution.—
+
+“(1) In general.—If a convention reconvenes and revises the proposed constitution, the convention shall resubmit the revised proposed constitution simultaneously to the Governor of the Virgin Islands and the President.
+
+“(2) Comments of president.—Not later than 60 calendar days after the date of receipt of the revised proposed constitution, the President shall—
+
+“(A) notify the convention, the Governor, and Congress of the comments of the President on the revised proposed constitution; and
+
+“(B) publish the comments in the Federal Register.
+
+“(d) As so approved or modified under subsection (b) (or, if revised pursuant to subsection (c), on publication of the comments of the President in the Federal Register), the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) [Oct. 21, 1976].
+
+“(e) Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+
+[Pub. L. 94–584 is also set out as a note preceding section 1391 of this title.]
 
 SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -10163,6 +10219,29 @@ References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning act July 22, 1954, ch. 558, 68 Stat. 497, as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter.
 For complete classification of this Act to the Code, see Short Title note set out under section 1541 of this title and Tables.
+
+1 So in original.
+Probably should be “assemble”.
+
+2 So in original.
+Probably should be “section”.
+
+SUBCHAPTER III—LEGISLATIVE BRANCH
+
+§1571. Legislature
+
+(a) Designation and unicameral character
+
+The legislative power and authority of the Virgin Islands shall be vested in a legislature, consisting of one house, to be designated the “Legislature of the Virgin Islands”, herein referred to as the legislature.
+
+(b) Composition; legislative districts; method of elections
+
+The legislature shall be composed of members to be known as senators.
+The number of such senators shall be determined by the laws of the Virgin Islands.
+The apportionment of the legislature shall be as provided by the laws of the Virgin Islands: Provided, That such apportionment shall not deny to any person in the Virgin Islands the equal protection of the law: And provided further, That every voter in any district election or at large election shall be permitted to vote for the whole number of persons to be elected in that district election or at large election as the case may be.
+Until the legislature shall provide otherwise, four members shall be elected at large, five shall be elected from the District of Saint Thomas, five from the District of Saint Croix, and one from the District of Saint John, as those Districts were constituted on July 22, 1954,
+
+(July 22, 1954, ch. 558, §5, 68 Stat. 498; Pub. L. 89–548, §1, Aug. 30, 1966, 80 Stat. 371; Pub. L. 106–364, §1, Oct. 27, 2000, 114 Stat. 1408.)
 
 §1572. Legislators
 
@@ -11397,6 +11476,86 @@ References in Text
 Section 103, referred to in subsec. (a), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds.
 Section 103(b)(2), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
+1 See References in Text note below.
+
+CHAPTER 14—TRUST TERRITORY OF THE PACIFIC ISLANDS
+
+Sec.
+
+1681.
+Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement.
+
+1681a.
+Appointment of High Commissioner.
+
+1681b.
+Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior.
+
+1681c, 1682. Repealed or Omitted.
+
+1683.
+Auditing of transactions of Trust Territory of the Pacific Islands.
+
+1684.
+Expenditure of funds for administration of Trust Territory of the Pacific Islands.
+
+1685.
+Transfer of property or money for administration of Trust Territory of the Pacific Islands.
+
+1686, 1687. Omitted.
+
+1688.
+Trust Territory of the Pacific Islands Economic Development Loan Fund.
+
+1689.
+Plan for use of grant to Trust Territory of the Pacific Islands Economic Development Loan Fund; loans; terms.
+
+1690.
+Loans from Trust Territory of the Pacific Islands Economic Loan Fund; restrictions; guarantees.
+
+1691.
+Fiscal control and accounting procedures for plan for use of grant.
+
+1692.
+Comprehensive annual financial report by chief executives of governments of the Marshall Islands, Federated States of Micronesia, Palau, and Northern Mariana Islands; contents; other reports.
+
+1693.
+Audit of government; access to books, records, etc.
+
+1694 to 1694e. Transferred.
+
+1695.
+Federal education and health care programs; nonapplicability or nonparticipation.
+
+        
+
+Termination of Trust Territory of the Pacific Islands
+
+The Trust Territory of the Pacific Islands, which included the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau, terminated.
+The Trusteeship Agreement terminated with respect to the Republic of the Marshall Islands on Oct. 21, 1986, with respect to the Federated States of Micronesia and the Commonwealth of the Northern Mariana Islands on Nov. 3, 1986, and with respect to the Republic of Palau on Oct. 1, 1994. See Proc.
+No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title, and Proc.
+No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of this title.
+
+For provisions relating to the Northern Mariana Islands, formerly set out as notes under section 1681 of this title, see chapter 17 (§1801 et seq.) of this title.
+For provisions relating to the Federated States of Micronesia, the Marshall Islands, and Palau, formerly set out as notes under section 1681 of this title, see chapter 18 (§1901 et seq.) of this title.
+
+§1681. Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement
+
+(a) Until Congress shall further provide for the government of the Trust Territory of the Pacific Islands, all executive, legislative, and judicial authority necessary for the civil administration of the Trust Territory shall continue to be vested in such person or persons and shall be exercised in such manner and through such agency or agencies as the President of the United States may direct or authorize.
+
+(b) The head of any department, corporation, or other agency of the executive branch of the Government may, upon the request of the Secretary of the Interior, extend to the Trust Territory of the Pacific Islands, with or without reimbursement, scientific, technical, and other assistance under any program administered by such agency, or extend to the Trust Territory any Federal program administered by such agency, if the assistance or program will promote the welfare of the Trust Territory, notwithstanding any provision of law under which the Trust Territory may otherwise be ineligible for the assistance or program: Provided, That the Secretary of the Interior shall not request assistance pursuant to this subsection that involves, in the aggregate, an estimated nonreimbursable cost in any one fiscal year in excess of $150,000: Provided further, That the cost of any program extended to the Trust Territory under this subsection shall be reimbursable out of appropriations authorized and made for the government of the Trust Territory pursuant to section 2 of this Act, as amended.
+The provisions of this subsection shall not apply to financial assistance under a grant-in-aid program.
+
+(June 30, 1954, ch. 423, §1, 68 Stat. 330; Pub. L. 88–487, §1, Aug. 22, 1964, 78 Stat. 601.)
+
+References in Text
+
+Section 2 of this Act, as amended, referred to in subsec. (b), means section 2 of act June 30, 1954, set out as a note below.
+
+Codification
+
+Section was formerly classified to section 1435 of this title.
+
 Notes Transferred
 
 For provisions relating to the Northern Mariana Islands, formerly set out as notes under this section, see chapter 17 (§1801 et seq.) of this title.
@@ -11701,20 +11860,15 @@ Similar provisions were contained in the Interior Department Appropriation Act, 
 
 §1685. Transfer of property or money for administration of Trust Territory of the Pacific Islands
 
-After June 30, 1952, transfers to the Department of the Interior pursuant to the Federal Property and Administrative Services Act of 1949 1 of equipment, material and supplies, excess to the needs of Federal agencies may be made at the request of the Secretary of the Interior without reimbursement or transfer of funds when required by the Interior Department for operations conducted in the administration of the Territories and the Trust Territory of the Pacific Islands.
+After June 30, 1952, transfers to the Department of the Interior pursuant to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 of equipment, material and supplies, excess to the needs of Federal agencies may be made at the request of the Secretary of the Interior without reimbursement or transfer of funds when required by the Interior Department for operations conducted in the administration of the Territories and the Trust Territory of the Pacific Islands.
 
 (July 9, 1952, ch. 597, title I, §108, 66 Stat. 460.)
-
-References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended.
-Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 Codification
 
 Section was formerly classified to section 1438 of this title.
 
-1 See References in Text note below.
+In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 §§1686, 1687. Omitted
 
@@ -12975,7 +13129,7 @@ Section was formerly set out as a note under section 1681 of this title.
 §1803. Financial assistance to Government of Northern Mariana Islands
 
 Pursuant to section 701 of the foregoing Covenant, enactment of this section shall constitute a commitment and pledge of the full faith and credit of the United States for the payment of $228 million at guaranteed annual amounts of direct grant assistance for the Government of the Northern Mariana Islands for an additional period of seven fiscal years after the expiration of the initial seven-year period specified in section 702 of said Covenant, which assistance shall be provided according to the schedule of payments contained in the Agreement of the Special Representatives on Future United States Financial Assistance for the Government of the Northern Mariana Islands, executed July 10, 1985, between the special representative of the President of the United States and the special representatives of the Governor of the Northern Mariana Islands.
-The islands of Rota and Tinian shall each receive no less than a 1/8 share and the island of Saipan shall receive no less than a 1/4 share of annualized capital improvement project funds, which shall be no less than 80 per centum of the capital development funds identified in the schedule of payments in paragraph 2 of part II of the Agreement of the Special Representatives.
+The islands of Rota and Tinian shall each receive no less than a 1/8 share and the island of Saipan shall receive no less than a ¼ share of annualized capital improvement project funds, which shall be no less than 80 per centum of the capital development funds identified in the schedule of payments in paragraph 2 of part II of the Agreement of the Special Representatives.
 Funds shall be granted according to such regulations as are applicable to such grants.
 
 (Pub. L. 94–241, §3, as added Pub. L. 99–396, §10, Aug. 27, 1986, 100 Stat. 840.)
@@ -13583,9 +13737,6 @@ For complete classification of this Act to the Code, see Short Title note set ou
 
 Section 1421q–1 or 1574–1 of this title, referred to in subsec. (c), was in the original “section 403 of Public Law 95–135”, and was translated as reading “section 403 of Public Law 95–134”, to reflect the probable intent of Congress, because Public Law 95–135 does not contain a section 403.
 
-The United States Civil Service hiring or job classification laws, referred to in subsec. (d)(2), are set out generally in Title 5, Government Organization and Employees.
-For civil service laws, see particularly section 3301 et seq. of Title 5. For classification laws, see chapter 51 (§5101 et seq.) and subchapter III of chapter 53 (§5331 et seq.) of Title 5.
-
 Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section.
@@ -13594,59 +13745,6 @@ The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110
 Subsecs. (b)(2), (3), (c), and (d) of this section were formerly set out as notes under section 1681 of this title.
 
 March 12, 1980, referred to in subsec. (d)(2), was in the original “the date of enactment”, and was translated as meaning the date of enactment of Pub. L. 96–205, which enacted pars. (2) and (3) of subsec. (d) of this section, to reflect the probable intent of Congress.
-
-1 See References in Text note below.
-
-§1842. Covering into Commonwealth treasury of tax proceeds collected pursuant to Covenant
-
-The Secretary shall take such steps as are necessary to ensure that the proceeds of taxes collected under the provisions of sections 601, 602, 603, and 604 of the Covenant (Public Law 94–241) are covered directly upon collection into the treasury of the Commonwealth of the Northern Mariana Islands.
-
-(Pub. L. 96–205, title II, §204(b), Mar. 12, 1980, 94 Stat. 87.)
-
-References in Text
-
-The Covenant, referred to in text, is the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
-
-Public Law 94–241, referred to in text, is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of this chapter.
-For complete classification of this Act to the Code, see Tables.
-
-Codification
-
-Section was formerly set out as a note under section 1681 of this title.
-
-Authority of Guam, American Samoa, and the Northern Mariana Islands To Enact Revenue Laws
-
-See section 1271 of Pub. L. 99–514, set out as a note under section 931 of Title 26, Internal Revenue Code.
-
-§1843. Exemption from taxation for income derived from sources within Commonwealth
-
-(a) Taxable years beginning after December 31, 1978, but not after January 1, 1985
-
-Except as provided in subsection (c) of this section, any person, including an individual, trust, estate, partnership, association, company, or corporation, which is a resident of or which is organized under the laws of the Commonwealth of the Northern Mariana Islands and which is subject to the provisions of section 601 of the Covenant to Establish the Commonwealth of the Northern Mariana Islands in Political Union with the United States (Public Law 94–241), shall be exempted from the requirements of such section with respect to income derived from sources within the Commonwealth of the Northern Mariana Islands for taxable years beginning after December 31, 1978, until, but not after, January 1, 1985. Nothing in this section shall be construed as relieving such person from the obligation to comply with the requirements of section 601 with respect to income derived from sources outside of the Commonwealth of the Northern Mariana Islands.
-
-(b) Taxable years beginning after December 31, 1980, and before January 1, 1982
-
-Except as provided in subsection (c) of this section, any person, including an individual, trust, estate, partnership, association, company, or corporation, which is a resident of or which is organized under the laws of the Commonwealth of the Northern Mariana Islands and which is subject to the provisions of section 601 of the Covenant to Establish the Commonwealth of the Northern Mariana Islands (Public Law 94–241), shall be exempt from the requirements of such section with respect to income from sources within the Northern Mariana Islands for its taxable year beginning after December 31, 1980, and before January 1, 1982: Provided, That the Secretary receives written notice from the Governor of the Northern Mariana Islands not later than September 30, 1980, that sections 1, 2, 3, 4, and 5 of chapter 2 of Public Law 1–30 of the Commonwealth of the Northern Mariana Islands or its successor, have been repealed in their entirety, effective December 31, 1981.
-
-(c) Tax rebates
-
-As provided in section 602 1 of Public Law 94–241 (90 Stat. 263, 270) the term “rebate of any taxes” shall, effective January 1, 1985, apply only to the extent taxes have actually been paid pursuant to section 601 1 of said Act, shall not exceed the amount of tax actually paid for any tax year, and may only be paid following the close of the tax year involved.
-Notwithstanding any other provision of law, effective January 1, 1985, the Commonwealth of the Northern Mariana Islands shall maintain, as a matter of public record, the name and address of each person receiving such a rebate, together with the amount of the rebate, and the year for which such rebate was made.
-
-(Pub. L. 96–205, title II, §205, Mar. 12, 1980, 94 Stat. 87; Pub. L. 96–597, title III, §303(a), Dec. 24, 1980, 94 Stat. 3478; Pub. L. 98–213, §3(a), (b), Dec. 8, 1983, 97 Stat. 1459.)
-
-References in Text
-
-The Covenant, referred to in subsecs. (a) and (b), is the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
-
-Public Law 94–241, referred to in subsecs. (a) and (b), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of this chapter.
-For complete classification of this Act to the Code, see Tables.
-
-Sections 601 and 602 of Public Law 94–241, referred to in subsec. (c), probably mean sections 601 and 602 of the Covenant, because Pub. L. 94–241 does not contain a section 601 or 602.
-
-Codification
-
-Section was formerly set out as a note under section 1681 of this title.
 
 Suspension of Prohibition of Abatement of Taxation in Commonwealth of Northern Mariana Islands
 
@@ -15982,6 +16080,287 @@ Subsec. (q) of this section, which required the President to report annually to 
 See, also, 14th item on page 37 of House Document No. 103–7.
 
 Section was formerly set out as a note under section 1681 of this title.
+
+Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
+
+Federated States of Micronesia and Marshall Islands; Programs and Services Provided on Nonreimbursable Basis
+
+Pub. L. 99–396, §20(b), Aug. 27, 1986, 100 Stat. 844, provided that: “The programs and services specified in section 105(h)(1), sections [sic] 105(i)(1) and (2), section 111(a) [48 U.S.C. 1905(h)(1), (i)(1), (2), 1911(a)], the services of the National Health Service Corps pursuant to section 105(k), and the Technical Assistance and National Historic Preservation Act [16 U.S.C. 470 et seq.] grants pursuant to section 105(l), of Public Law 99–239 shall be provided on a nonreimbursable basis.”
+
+1 So in original.
+
+2 So in original.
+Probably should be “(6)”.
+
+§1906. Construction contract assistance
+
+(a) Assistance to U.S. firms
+
+In order to assist the Governments of the Federated States of Micronesia and of the Marshall Islands through private sector firms which may be awarded contracts for construction or major repair of capital infrastructure within the Federated States of Micronesia or the Republic of the Marshall Islands, the President shall consult with the Governments of the Federated States of Micronesia and the Marshall Islands with respect to any such contracts, and the President shall enter into agreements with such firms whereby such firms will, consistent with applicable requirements of such Governments—
+
+(1) to the maximum extent possible, employ citizens of the Federated States of Micronesia and the Marshall Islands;
+
+(2) to the extent that necessary skills are not possessed by citizens of the Federated States of Micronesia and the Marshall Islands, provide on the job training, with particular emphasis on the development of skills relating to operation of machinery and routine and preventative maintenance of machinery and other facilities; and
+
+(3) provide specific training or other assistance in order to enable the Government to engage in long-term maintenance of infrastructure.
+
+Assistance by such firms pursuant to this section may not exceed 20 percent of the amount of the contract and shall be made available only to such firms which meet the definition of United States firm under the nationality rule for suppliers of services of the Agency for International Development (hereafter in this section referred to as “United States firms”). There are authorized to be appropriated such sums as may be necessary for the purposes of this subsection.
+
+(b) Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to cover any additional costs incurred by the Government of the Federated States of Micronesia or the Republic of the Marshall Islands if such Governments, pursuant to an agreement entered into with the United States, apply a preference on the award of contracts to United States firms, provided that the amount of such preference does not exceed 10 percent of the amount of the lowest qualified bid from a non-United States firm for such contract.
+
+(Pub. L. 99–239, title I, §106, Jan. 14, 1986, 99 Stat. 1797.)
+
+Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+§1907. Limitations
+
+(a) Prohibition
+
+The provisions of Chapter 11 of title 18 shall apply in full to any individual who has served as the President's Personal Representative for Micronesian Status Negotiations or who is or was an officer or employee of the Office for Micronesian Status Negotiations or who is or was assigned or detailed to that Office or who served on the Micronesia Interagency Group, except that for the purposes of this section, clauses (i) and (ii) of section 207(b) 1 of such title shall read as follows: “(i) having been so employed, within three years after his employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, any other person (except the United States), in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of any other person (except the United States) to, or (ii) having been so employed and as specified in subsection (d) of this section, within three years after his employment has ceased, knowingly represents or aids, counsels, advises, consults, or assists in representing any other person (except the United States) by personal presence at any formal or informal appearance before—”.
+
+(b) Termination
+
+Effective upon the date of the termination of the Trust Territory of the Pacific Islands with respect to Palau, the Office for Micronesian Status Negotiations is abolished and no department, agency, or instrumentality of the United States shall thereafter contribute funds for the support of such Office.
+
+(Pub. L. 99–239, title I, §107, Jan. 14, 1986, 99 Stat. 1797.)
+
+References in Text
+
+Section 207 of title 18, referred to in subsec. (a), was amended generally by Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716, and, as so amended, subsec. (b) of that section no longer contains cls. (i) and (ii). For text of section 207 of Title 18, Crimes and Criminal Procedure, as it appeared prior to amendment by Pub. L. 101–194, see Effective Date of 1989 Amendment; Effect on Employment note set out under section 207 of Title 18.
+
+Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands with respect to Palau, see note set out preceding section 1681 of this title.
+
+1 See References in Text note below.
+
+§1908. Transitional immigration rules
+
+(a) Citizen of Northern Mariana Islands
+
+Any person who is a citizen of the Northern Mariana Islands, as that term is defined in section 24(b) of the Act of December 8, 1983 (97 Stat. 1465), is considered a citizen of the United States for purposes of entry into, permanent residence, and employment in the United States and its territories and possessions.
+
+(b) Termination
+
+The provisions of this section shall cease to be effective when section 301 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States (Public Law 94–241) becomes effective pursuant to section 1003(c) of the Covenant.
+
+(Pub. L. 99–239, title I, §108, Jan. 14, 1986, 99 Stat. 1798.)
+
+References in Text
+
+Section 24(b) of the Act of December 8, 1983, referred to in subsec. (a), is Pub. L. 98–213, §24(b), Dec. 8, 1983, 97 Stat. 1465, which was formerly set out as a note under section 1801 of this title.
+
+The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States, referred to in subsec. (b), is contained in section 1 of Pub. L. 94–241, as amended, set out as a note under section 1801 of this title.
+For November 4, 1986, as the effective date of section 301 of the Covenant, see Proc.
+No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title.
+
+Public Law 94–241, referred to in subsec. (b), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of this title.
+For complete classification of this Act to the Code, see Tables.
+
+Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+§1909. Timing
+
+No payment may be made pursuant to the Compact nor under any provision of this joint resolution prior to October 1, 1985.
+
+(Pub. L. 99–239, title I, §109, Jan. 14, 1986, 99 Stat. 1798.)
+
+References in Text
+
+The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
+
+This joint resolution, referred to in text, is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§2001 et seq.) of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+
+Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+§1910. Implementation of audit agreements
+
+(a) Transmission of annual financial statement
+
+Upon receipt of the annual financial statement described in sections 1902(c)(4) and 1903(m)(4) of this title, the President shall promptly transmit a copy of such statement to the Congress.
+
+(b) Annual audits by President
+
+(1) The President shall cause an annual audit to be conducted of the annual financial statements described in sections 1902(c)(4) and 1903(m)(4) of this title.
+Such audit shall be conducted in accordance with the Generally Accepted Government Auditing Standards promulgated by the Comptroller General of the United States.
+Such audit shall be submitted to the Congress not later than 180 days after the end of the United States fiscal year.
+
+(2) The President shall develop and implement procedures to carry out such audits.
+Such procedures shall include the matters described in sections 1902(c)(2) and 1903(m)(2) of this title.
+
+(c) Authority of GAO
+
+The Comptroller General of the United States shall have the authority to conduct the audits referred to in sections 1902(c)(1) and 1903(m)(1) of this title.
+
+(Pub. L. 99–239, title I, §110, Jan. 14, 1986, 99 Stat. 1798.)
+
+Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the requirement that the annual audit be submitted to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 13th item on page 37 of House Document No. 103–7.
+
+§1911. Compensatory adjustments
+
+(a) Additional programs and services
+
+In addition to the programs and services set forth in Section 221 of the Compact, and pursuant to Section 224 of the Compact, the services and programs of the following U.S. agencies shall be made available to the Federated States of Micronesia and the Marshall Islands: The Federal Deposit Insurance Corporation, Small Business Administration, Economic Development Administration, the Rural Electrification Administration, Job Partnership Training Act, Job Corps, and the programs and services of the Department of Commerce relating to tourism and to marine resource development.
+
+(b) Investment Development Funds
+
+(1) In order to further close economic and commercial relations between the United States and the Federated States of Micronesia and the Marshall Islands, and in order to encourage the presence of the United States private sector in such areas, there are hereby created two Investment Development Funds, to be established and administered by the Federated States of Micronesia and the Marshall Islands respectively in consultation with the United States as follows:
+
+(i) For the Investment Development Fund for the Federated States of Micronesia there is hereby authorized to be appropriated for fiscal 1986, $20 million, backed by the full faith and credit of the United States, of which $12 million shall be made available for obligation for the first full fiscal year after the effective date of the Compact, and of which $8 million shall be made available for obligation for the third full fiscal year after the effective date of the Compact.
+
+(ii) For the Investment Development Fund for the Marshall Islands there is hereby authorized to be appropriated $10 million for fiscal 1986, backed by the full faith and credit of the United States, of which $6 million for the first full fiscal year after the effective date of the Compact, and of which $4 million shall be made available for obligation for the third full fiscal year after the effective date of the Compact.
+
+(2) The amounts specified in this subsection shall be in addition to the sums and amounts specified in Articles I and III of Title Two of the Compact, and shall be deemed to be included in the sums and amounts referred to in section 236 of the Compact.
+
+(c) Board of Advisors
+
+To provide policy guidance for the Funds established by subsection (b) of this section, the President is hereby authorized to establish a Board of Advisors, pursuant to appropriate agreements between the United States and the Federated States of Micronesia and the Marshall Islands.
+
+(d) Further amounts
+
+The governments of the Federated States of Micronesia and the Marshall Islands may submit to Congress reports concerning the overall financial and economic impacts on such areas resulting from the effect of Title IV of this joint resolution upon Title Two of the Compact.
+There are hereby authorized to be appropriated for fiscal years beginning after September 30, 1990, such amounts as may be necessary, but not to exceed $40 million for the Federated States of Micronesia and $20 million for the Marshall Islands, as provided in appropriation acts, to further compensate the governments of such islands (in addition to the compensation provided in subsections (a) and (b) of this section) for adverse impacts, if any, on the finances and economies of such areas resulting from the effect of Title IV of this joint resolution upon Title Two of the Compact.
+At the end of the initial fifteen-year term of the Compact, should any portion of the total amount of funds authorized in this subsection not have been appropriated, such amount not yet appropriated may be appropriated, without regard to divisions between amounts authorized in this subsection for the Federated States of Micronesia and for the Marshall Islands, based on either or both such government's showing of such adverse impact, if any, as provided in this subsection.
+
+(Pub. L. 99–239, title I, §111, Jan. 14, 1986, 99 Stat. 1799.)
+
+References in Text
+
+The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
+
+The Job Partnership Training Act, referred to in subsec. (a), probably means the Job Training Partnership Act, Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables.
+For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsec. (b)(1), see Proc.
+No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title.
+
+This joint resolution, referred to in subsec. (d), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985. Title IV of this Act is set out as a note under section 1901 of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+
+Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+§1912. Jurisdiction
+
+(a) With respect to section 321 of the Compact of Free Association and its related agreements, the jurisdictional provisions set forth in subsection (b) of this section shall apply only to the citizens and nationals of the United States and aliens lawfully admitted to the United States for permanent residence who are in the Marshall Islands or the Federated States of Micronesia.
+
+(b)(1) The defense sites of the United States established in the Marshall Islands or the Federated States of Micronesia in accordance with the Compact of Free Association and its related agreements are within the special maritime and territorial jurisdiction of the United States as set forth in section 7, title 18.
+
+(2) Any person referred to in subsection (a) of this section who within or upon such defense sites is guilty of any act or omission which, although not made punishable by any enactment of Congress, would be punishable if committed or omitted within the jurisdiction of the State of Hawaii by the laws thereof, in force at the time of such act or omission, shall be guilty of a like offense and subject to a like punishment.
+
+(3) The United States District Court for the District of Hawaii shall have jurisdiction to try all criminal offenses against the United States, including the laws of the State of Hawaii made applicable to the defense sites in the Marshall Islands or the Federated States of Micronesia by virtue of paragraph (2) of this subsection, committed by any person referred to in subsection (a) of this section.
+
+(4) The United States District Court for the District of Hawaii may appoint one or more magistrate judges for the defense sites in the Marshall Islands.
+Such Magistrate Judges shall have the power and the status of Magistrate Judges appointed pursuant to chapter 43, title 28, provided, however that such Magistrate Judges shall have the power to try persons accused of and sentence persons convicted of petty offenses, as defined in section 1(3),1 title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
+
+(Pub. L. 99–239, title II, §202, Jan. 14, 1986, 99 Stat. 1835; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+References in Text
+
+The Compact of Free Association, referred to in subsecs. (a) and (b)(1), is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
+
+Section 1 of title 18, referred to in subsec. (b)(4), was repealed by Pub. L. 98–473, title II, §218(a)(1), Oct. 12, 1984, 98 Stat. 2027.
+
+Codification
+
+Section was formerly set out as a note under section 1681 of this title.
+
+Section was enacted as part of title II of Pub. L. 99–239, and not as part of title I of Pub. L. 99–239 which comprises this part.
+
+Change of Name
+
+Words “magistrate judges” and “Magistrate Judges” substituted for “magistrates” and “Magistrates”, respectively, wherever appearing in subsec. (b)(4) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+1 See References in Text note below.
+
+Part B—Approval and Implementation of Compacts, As Amended
+
+§1921. Approval of U.S.-FSM Compact of Free Association and the U.S.-RMI Compact of Free Association; references to subsidiary agreements or separate agreements
+
+(a) Federated States of Micronesia
+
+The Compact of Free Association, as amended with respect to the Federated States of Micronesia and signed by the United States and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution, is hereby approved, and Congress hereby consents to the subsidiary agreements and amended subsidiary agreements listed in section 462 of the U.S.-FSM Compact, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Federated States of Micronesia, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 30, 2004, which shall serve as the authority to implement the provisions thereof.
+Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the U.S.-FSM Compact, to an effective date for and thereafter to implement such U.S.-FSM Compact.
+
+(b) Republic of the Marshall Islands
+
+The Compact of Free Association, as amended with respect to the Republic of the Marshall Islands and signed by the United States and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution, is hereby approved, and Congress hereby consents to the subsidiary agreements and amended subsidiary agreements listed in section 462 of the U.S.-RMI Compact, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Republic of the Marshall Islands, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 18, 2004, which shall serve as the authority to implement the provisions thereof.
+Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the U.S.-RMI Compact, to an effective date for and thereafter to implement such U.S.-RMI Compact.
+
+(c) References to the Compact, the U.S.-FSM Compact, and the U.S.-RMI Compact; References to subsidiary agreements or separate agreements
+
+(1) Any reference in this joint resolution (except references in Title II) to “the Compact” shall be treated as a reference to the Compact of Free Association set forth in title II of Public Law 99–239, January 14, 1986, 99 Stat. 1770. Any reference in this joint resolution to the “U.S.-FSM Compact” shall be treated as a reference to the Compact of Free Association, as amended between the Government of the United States of America and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution.
+Any reference in this joint resolution to the “U.S.-RMI Compact” shall be treated as a reference to the Compact of Free Association, as amended between the Government of the United States of America and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution.
+
+(2) Any reference to the term “subsidiary agreements” or “separate agreements” in this joint resolution shall be treated as a reference to agreements listed in section 462 of the U.S.-FSM Compact and the U.S.-RMI Compact, and any other agreements that the United States may from time to time enter into with either the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands, or with both such governments in accordance with the provisions of the U.S.-FSM Compact and the U.S.-RMI Compact.
+
+(d) Amendment, change, or termination in the U.S.-FSM compact and U.S.-RMI compact and certain agreements
+
+(1) Any amendment, change, or termination by mutual agreement or by unilateral action of the Government of the United States of all or any part of the U.S.-FSM Compact or U.S.-RMI Compact shall not enter into force until after Congress has incorporated it in an Act of Congress.
+
+(2) The provisions of paragraph (1) shall apply—
+
+(A) to all actions of the Government of the United States under the U.S.-FSM Compact or U.S.-RMI Compact including, but not limited to, actions taken pursuant to sections 431, 441, or 442;
+
+(B) to any amendment, change, or termination in the Agreement Between the Government of the United States and the Government of the Federated States of Micronesia Regarding Friendship, Cooperation and Mutual Security Concluded Pursuant to Sections 321 and 323 of the Compact of Free Association referred to in section 462(a)(2) of the U.S.-FSM Compact and the Agreement Between the Government of the United States and the Government of the Marshall Islands Regarding Mutual Security Concluded Pursuant to Sections 321 and 323 of the Compact of Free Association referred to in section 462(a)(5) of the U.S.-RMI Compact;
+
+(C) to any amendment, change, or termination of the agreements concluded pursuant to Compact section 177, and section 215(a) of the U.S.-FSM Compact and section 216(a) of the U.S.-RMI Compact, the terms of which are incorporated by reference into the U.S.-FSM Compact and the U.S.-RMI Compact; and
+
+(D) to the following subsidiary agreements, or portions thereof:
+
+(i) Articles III, IV, and X of the agreement referred to in section 462(b)(6) of the U.S.-RMI Compact.
+
+(ii) Article III and IV of the agreement referred to in section 462(b)(6) of the U.S.-FSM Compact.
+
+(iii) Articles VI, XV, and XVII of the agreement referred to in section 462(b)(7) of the U.S.-FSM Compact and U.S.-RMI Compact.
+
+(e) Subsidiary agreements deemed bilateral
+
+For purposes of implementation of the U.S.-FSM Compact and the U.S.-RMI Compact and this joint resolution, the Agreement Concluded Pursuant to Section 234 of the Compact of Free Association and referred to in section 462(a)(1) of the U.S.-FSM Compact and section 462(a)(4) of the U.S.-RMI Compact shall be deemed to be a bilateral agreement between the United States and each other party to such subsidiary agreement.
+The consent or concurrence of any other party shall not be required for the effectiveness of any actions taken by the United States in conjunction with either the Federated States of Micronesia or the Republic of the Marshall Islands which are intended to affect the implementation, modification, suspension, or termination of such subsidiary agreement (or any provision thereof) as regards the mutual responsibilities of the United States and the party in conjunction with whom the actions are taken.
+
+(f) Entry into force of future amendments to subsidiary agreements
+
+No agreement between the United States and the government of either the Federated States of Micronesia or the Republic of the Marshall Islands which would amend, change, or terminate any subsidiary agreement or portion thereof, other than those set forth in subsection (d) of this section shall enter into force until 90 days after the President has transmitted such agreement to the President of the Senate and the Speaker of the House of Representatives together with an explanation of the agreement and the reasons therefor.
+In the case of the agreement referred to in section 462(b)(3) of the U.S.-FSM Compact and the U.S.-RMI Compact, such transmittal shall include a specific statement by the Secretary of Labor as to the necessity of such amendment, change, or termination, and the impact thereof.
+
+(Pub. L. 108–188, title I, §101, Dec. 17, 2003, 117 Stat. 2723; Pub. L. 110–229, title VIII, §801(a), May 8, 2008, 122 Stat. 869.)
+
+References in Text
+
+The Compact of Free Association, as amended with respect to the Federated States of Micronesia and signed by the United States and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution, referred to in subsecs. (a) and (c)(1), is contained in section 201(a) of Pub. L. 108–188, set out below.
+
+This joint resolution, referred to in text, is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under this section and section 1901 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees.
+Title II of this joint resolution enacted provisions set out as notes under this section.
+For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
+
+The Compact of Free Association, as amended with respect to the Republic of the Marshall Islands and signed by the United States and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution, referred to in subsecs. (b) and (c)(1), is contained in section 201(b) of Pub. L. 108–188, set out below.
 
 Clarification of Tax-Free Status of Trust Funds
 

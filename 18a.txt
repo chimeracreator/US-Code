@@ -564,7 +564,7 @@ Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to
 
 FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to February 1, 2010)
+(As amended to January 7, 2011)
 
 Historical Note
 
@@ -603,7 +603,8 @@ Dec. 1, 2005; Apr. 12, 2006, eff.
 Dec. 1, 2006; Apr. 30, 2007, eff.
 Dec. 1, 2007; Apr. 23, 2008, eff.
 Dec. 1, 2008; Mar. 26, 2009, eff.
-Dec. 1, 2009.
+Dec. 1, 2009; Apr. 28, 2010, eff.
+Dec. 1, 2010.
 
 TITLE I. APPLICABILITY
 
@@ -2161,17 +2162,29 @@ An attorney for the government may serve the request when the government serves 
 Within 14 days after receiving the government's request, the defendant must serve on an attorney for the government a written statement of the name, address, and telephone number of each witness.
 
 (C) Government's Reply.
-Within 14 days after receiving the defendant's statement, an attorney for the government must serve on the defendant or the defendant's attorney a written statement of the name, address, and telephone number of each witness the government intends to rely on to oppose the defendant's public-authority defense.
+Within 14 days after receiving the defendant's statement, an attorney for the government must serve on the defendant or the defendant's attorney a written statement of the name of each witness—and the address and telephone number of each witness other than a victim—that the government intends to rely on to oppose the defendant's public-authority defense.
+
+(D) Victim's Address and Telephone Number.
+If the government intends to rely on a victim's testimony to oppose the defendant's public-authority defense and the defendant establishes a need for the victim's address and telephone number, the court may:
+
+(i) order the government to provide the information in writing to the defendant or the defendant's attorney; or
+
+(ii) fashion a reasonable procedure that allows for preparing the defense and also protects the victim's interests.
 
 (5) Additional Time.
 The court may, for good cause, allow a party additional time to comply with this rule.
 
 (b) Continuing Duty to Disclose.
-Both an attorney for the government and the defendant must promptly disclose in writing to the other party the name, address, and telephone number of any additional witness if:
 
-(1) the disclosing party learns of the witness before or during trial; and
+(1) In General.
+Both an attorney for the government and the defendant must promptly disclose in writing to the other party the name of any additional witness—and the address, and telephone number of any additional witness other than a victim—if:
 
-(2) the witness should have been disclosed under Rule 12.3(a)(4) if the disclosing party had known of the witness earlier.
+(A) the disclosing party learns of the witness before or during trial; and
+
+(B) the witness should have been disclosed under Rule 12.3(a)(4) if the disclosing party had known of the witness earlier.
+
+(2) Address and Telephone Number of an Additional Victim-Witness.
+The address and telephone number of an additional victim-witness must not be disclosed except as provided in Rule 12.3(a)(4)(D).
 
 (c) Failure to Comply.
 If a party fails to comply with this rule, the court may exclude the testimony of any undisclosed witness regarding the public-authority defense.
@@ -2185,7 +2198,8 @@ Evidence of an intention as to which notice was given under Rule 12.3(a), later 
 
 (Added Pub. L. 100–690, title VI, §6483, Nov. 18, 1988, 102 Stat. 4382; amended Apr. 29, 2002, eff.
 Dec. 1, 2002; Mar. 26, 2009, eff.
-Dec. 1, 2009.)
+Dec. 1, 2009; Apr. 28, 2010, eff.
+Dec. 1, 2010.)
 
 Rule 12.4. Disclosure Statement
 
@@ -2788,7 +2802,7 @@ Rule 21. Transfer for Trial
 Upon the defendant's motion, the court must transfer the proceeding against that defendant to another district if the court is satisfied that so great a prejudice against the defendant exists in the transferring district that the defendant cannot obtain a fair and impartial trial there.
 
 (b) For Convenience.
-Upon the defendant's motion, the court may transfer the proceeding, or one or more counts, against that defendant to another district for the convenience of the parties and witnesses and in the interest of justice.
+Upon the defendant's motion, the court may transfer the proceeding, or one or more counts, against that defendant to another district for the convenience of the parties, any victim, and the witnesses, and in the interest of justice.
 
 (c) Proceedings on Transfer.
 When the court orders a transfer, the clerk must send to the transferee district the file, or a certified copy, and any bail taken.
@@ -2800,7 +2814,8 @@ A motion to transfer may be made at or before arraignment or at any other time t
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 28, 2010, eff.
+Dec. 1, 2010.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3733,8 +3748,8 @@ If the person is arrested or appears in a district that does not have jurisdicti
 (ii) the judge finds that the person is the same person named in the warrant.
 
 (6) Release or Detention.
-The magistrate judge may release or detain the person under 18 U.S.C. §3143(a) pending further proceedings.
-The burden of establishing that the person will not flee or pose a danger to any other person or to the community rests with the person.
+The magistrate judge may release or detain the person under 18 U.S.C. §3143(a)(1) pending further proceedings.
+The burden of establishing by clear and convincing evidence that the person will not flee or pose a danger to any other person or to the community rests with the person.
 
 (b) Revocation.
 
@@ -3801,7 +3816,8 @@ Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 25, 2005, eff.
 Dec. 1, 2005; Apr. 12, 2006, eff.
-Dec. 1, 2006.)
+Dec. 1, 2006; Apr. 28, 2010, eff.
+Dec. 1, 2010.)
 
 Notes of Advisory Committee on Rules—1979
 
@@ -4378,73 +4394,6 @@ References in Text
 
 The Federal Rules of Appellate Procedure, referred to in subds. (c), (e)(1), and (g), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Rule 39. [Reserved]
-
-TITLE VIII. SUPPLEMENTARY AND SPECIAL PROCEEDINGS
-
-Rule 40. Arrest for Failing to Appear in Another District or for Violating Conditions of Release Set in Another District
-
-(a) In General.
-A person must be taken without unnecessary delay before a magistrate judge in the district of arrest if the person has been arrested under a warrant issued in another district for:
-
-(i) failing to appear as required by the terms of that person's release under 18 U.S.C. §§3141–3156 or by a subpoena; or
-
-(ii) violating conditions of release set in another district.
-
-(b) Proceedings.
-The judge must proceed under Rule 5(c)(3) as applicable.
-
-(c) Release or Detention Order.
-The judge may modify any previous release or detention order issued in another district, but must state in writing the reasons for doing so.
-
-(As amended Feb. 28, 1966, eff.
-July 1, 1966; Apr. 24, 1972, eff.
-Oct. 1, 1972; Apr. 30, 1979, eff.
-Aug. 1, 1979; Pub. L. 96–42, §1(2), July 31, 1979, 93 Stat. 326; Apr. 28, 1982, eff.
-Aug. 1, 1982; Pub. L. 98–473, title II, §§209(c), 215(d), Oct. 12, 1984, 98 Stat. 1986, 2016; Mar. 9, 1987, eff.
-Aug. 1, 1987; Apr. 25, 1989, eff.
-Dec. 1, 1989; Apr. 22, 1993, eff.
-Dec. 1, 1993; Apr. 29, 1994, eff.
-Dec. 1, 1994; Apr. 27, 1995, eff.
-Dec. 1, 1995; Apr. 29, 2002, eff.
-Dec. 1, 2002; Apr. 12, 2006, eff.
-Dec. 1, 2006.)
-
-Notes of Advisory Committee on Rules—1944
-
-1. This rule modifies and revamps existing procedure.
-The present practice has developed as a result of a series of judicial decisions, the only statute dealing with the subject being exceedingly general, 18 U.S.C. 591 [now 3041] (Arrest and removal for trial):
-
-For any crime or offense against the United States, the offender may, by any justice or judge of the United States, or by any United States commissioner, or by any chancellor, judge of a supreme or superior court, chief or first judge of common pleas, mayor of a city, justice of the peace, or other magistrate, of any State where he may be found, and agreeably to the usual mode of process against offenders in such State, and at the expense of the United States, be arrested and imprisoned, or bailed, as the case may be, for trial before such court of the United States as by law has cognizance of the offense. * * * Where any offender or witness is committed in any district other than that where the offense is to be tried, it shall be the duty of the judge of the district where such offender or witness is imprisoned, seasonably to issue, and of the marshal to execute, a warrant for his removal to the district where the trial is to be had.
-
-The scope of a removal hearing, the issues to be considered, and other similar matters are governed by judicial decisions, Beavers v. Henkel, 194 U.S. 73; Tinsley v. Treat, 205 U.S. 20; Henry v. Henkel, 235 U.S. 219; Rodman v. Pothier, 264 U.S. 399; Morse v. United States, 267 U.S. 80; Fetters v. United States ex rel.
-Cunningham, 283 U.S. 638; United States ex rel.
-Kassin v. Mulligan, 295 U.S. 396; see, also, 9 Edmunds, Cyclopedia of Federal Procedure 39053, et seq.
-
-2. The purpose of removal proceedings is to accord safeguards to a defendant against an improvident removal to a distant point for trial.
-On the other hand, experience has shown that removal proceedings have at times been used by defendants for dilatory purposes and in attempting to frustrate prosecution by preventing or postponing transportation even as between adjoining districts and between places a few miles apart.
-The object of the rule is adequately to meet each of these two situations.
-
-3. For the purposes of removal, all cases in which the accused is apprehended in a district other than that in which the prosecution is pending have been divided into two groups: first, those in which the place of arrest is either in another district of the same State, or if in another State, then less than 100 miles from the place where the prosecution is pending; and second, cases in which the arrest occurs in a State other than that in which the prosecution is pending and the place of arrest is 100 miles or more distant from the latter place.
-
-In the first group of cases, removal proceedings are abolished.
-The defendant's right to the usual preliminary hearing is, of course, preserved, but the committing magistrate, if he holds defendant would bind him over to the district court in which the prosecution is pending.
-As ordinarily there are no removal proceedings in State prosecutions as between different parts of the same State, but the accused is transported by virtue of the process under which he was arrested, it seems reasonable that no removal proceedings should be required in the Federal courts as between districts in the same State.
-The provision as to arrest in another State but at a place less than 100 miles from the place where the prosecution is pending was added in order to preclude obstruction against bringing the defendant a short distance for trial.
-
-In the second group of cases mentioned in the first paragraph, removal proceedings are continued.
-The practice to be followed in removal hearings will depend on whether the demand for removal is based upon an indictment or upon an information or complaint.
-In the latter case, proof of identity and proof of reasonable cause to believe the defendant guilty will have to be adduced in order to justify the issuance of a warrant of removal.
-In the former case, proof of identity coupled with a certified copy of the indictment will be sufficient, as the indictment will be conclusive proof of probable cause.
-The distinction is based on the fact that in case of an indictment, the grand jury, which is an arm of the court, has already found probable cause.
-Since the action of the grand jury is not subject to review by a district judge in the district in which the grand jury sits, it seems illogical to permit such review collaterally in a removal proceeding by a judge in another district.
-
-4. For discussions of this rule see, Homer Cummings, 29 A.B.A.Jour. 654, 656; Holtzoff, 3 F.R.D. 445, 450–452; Holtzoff, 12 George Washington L.R. 119, 127–130; Holtzoff, The Federal Bar Journal, October 1944, 18–37; Berge, 42 Mich.L.R. 353, 374; Medalie, 4 Lawyers Guild R. (3)1, 4.
-
-Note to Subdivision (b). The rule provides that all removal hearings shall take place before a United States commissioner or a Federal judge.
-It does not confer such jurisdiction on State or local magistrates.
-While theoretically under existing law State and local magistrates have authority to conduct removal hearings, nevertheless as a matter of universal practice, such proceedings are always conducted before a United States commissioner or a Federal judge, 9 Edmunds, Cyclopedia of Federal Procedure 3919.
-
 Rule 41. Search and Seizure
 
 (a) Scope and Definitions.
@@ -4719,154 +4668,6 @@ U.S.C., Title 49:
  Section 782 [now 80303] (Seizure and forfeiture)
 
  Section 784 [now 80306] (Application of related laws)
-
-Rule 42. Criminal Contempt
-
-(a) Disposition After Notice.
-Any person who commits criminal contempt may be punished for that contempt after prosecution on notice.
-
-(1) Notice.
-The court must give the person notice in open court, in an order to show cause, or in an arrest order.
-The notice must:
-
-(A) state the time and place of the trial;
-
-(B) allow the defendant a reasonable time to prepare a defense; and
-
-(C) state the essential facts constituting the charged criminal contempt and describe it as such.
-
-(2) Appointing a Prosecutor.
-The court must request that the contempt be prosecuted by an attorney for the government, unless the interest of justice requires the appointment of another attorney.
-If the government declines the request, the court must appoint another attorney to prosecute the contempt.
-
-(3) Trial and Disposition.
-A person being prosecuted for criminal contempt is entitled to a jury trial in any case in which federal law so provides and must be released or detained as Rule 46 provides.
-If the criminal contempt involves disrespect toward or criticism of a judge, that judge is disqualified from presiding at the contempt trial or hearing unless the defendant consents.
-Upon a finding or verdict of guilty, the court must impose the punishment.
-
-(b) Summary Disposition.
-Notwithstanding any other provision of these rules, the court (other than a magistrate judge) may summarily punish a person who commits criminal contempt in its presence if the judge saw or heard the contemptuous conduct and so certifies; a magistrate judge may summarily punish a person as provided in 28 U.S.C. §636(e). The contempt order must recite the facts, be signed by the judge, and be filed with the clerk.
-
-(As amended Mar. 9, 1987, eff.
-Aug. 1, 1987; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
-
-Notes of Advisory Committee on Rules—1944
-
-The rule-making power of the Supreme Court with respect to criminal proceedings was extended to proceedings to punish for criminal contempt of court by the Act of November 21, 1941 (55 Stat. 779), 18 U.S.C. 689.
-
-Note to Subdivision (a). This rule is substantially a restatement of existing law, Ex parte Terry, 128 U.S. 289; Cooke v. United States, 267 U.S. 517, 534.
-
-Note to Subdivision (b). 1. This rule is substantially a restatement of the procedure prescribed in 28 U.S.C. 386–390 [now 18 U.S.C. 401, 402, 3285, 3691], and 29 U.S.C. 111 [now 18 U.S.C. 3692].
-
-2. The requirement in the second sentence that the notice shall describe the criminal contempt as such is intended to obviate the frequent confusion between criminal and civil contempt proceedings and follows the suggestion made in McCann v. New York Stock Exchange, 80 F.2d 211 (C.C.A. 2d). See also Nye v. United States, 313 U.S. 33, 42–43.
-
-3. The fourth sentence relating to trial by jury preserves the right to a trial by jury in those contempt cases in which it is granted by statute, but does not enlarge the right or extend it to additional cases.
-The respondent in a contempt proceeding may demand a trial by jury as of right if the proceeding is brought under the Act of March 23, 1932, c. 90, sec. 11, 47 Stat. 72, 29 U.S.C. 111 [now 18 U.S.C. 3692] (Norris-La Guardia Act), or the Act of October 15, 1914, c. 323, sec. 22, 38 Stat. 738, 28 U.S.C. 387 (Clayton Act).
-
-4. The provision in the sixth sentence disqualifying the judge affected by the contempt if the charge involves disrespect to or criticism of him, is based, in part, on 29 U.S.C. former §112 (Contempts; demand for retirement of judge sitting in proceeding) and the observations of Chief Justice Taft in Cooke v. United States, 267 U.S. 517, 539, 45 S.Ct. 390, 69 L.Ed. 767.
-
-5. Among the statutory provisions defining criminal contempts are the following:
-
-U.S.C., Title 7:
-
- Section 499m (Perishable Agricultural Commodities Act; investigation of complaints; procedure; penalties; etc.—(c) Disobedience to subpenas; remedy; contempt)
-
-U.S.C., Title 9:
-
- Section 7 (Witnesses before arbitrators; fees, compelling attendance)
-
-U.S.C., Title 11:
-
- Section 69 [former] (Referees; contempts before)
-
-U.S.C., Title 15:
-
- Section 49 (Federal Trade Commission; documentary evidence; depositions; witnesses)
-
- Section 78u (Regulation of Securities Exchanges; investigation; injunctions and prosecution of offenses)
-
- Section 100 (Trademarks; destruction of infringing labels; service of injunction, and proceedings for enforcement)
-
- Section 155 (China Trade Act; authority of registrar in obtaining evidence)
-
-U.S.C., Title 17:
-
- Section 36 [now 502] (Injunctions; service and enforcement)
-
-U.S.C., Title 19:
-
- Section 1333 (Tariff Commission; testimony and production of papers—(b) Witnesses and evidence)
-
-U.S.C., Title 22:
-
- Section 270f (International Bureaus; Congresses, etc.; perjury; contempts; penalties)
-
-U.S.C., Title 28:
-
- Section 385 [now 459; 18 U.S.C. 401] (Administration of oaths; contempts)
-
- Section 386 [now 18 U.S.C. 402, 3691] (Contempts; when constituting also criminal offense)
-
- Section 387 [now 18 U.S.C. 402] (Same; procedure; bail; attachment; trial; punishment) (Clayton Act; jury trial; section)
-
- Section 388 [former] (Same; review of conviction)
-
- Section 389 [now 18 U.S.C. 402, 3691] (Same; not specifically enumerated)
-
- Section 390 [now 18 U.S.C. 3285] (Same; limitations)
-
- Section 390a [now 18 U.S.C. 402] (“Person” or “persons” defined)
-
- Section 648 [now Rule 17(f), FRCP, 18 U.S.C., Appendix; Rule 45(d), FRCP, 28 U.S.C., Appendix] (Depositions under dedimus potestatem; witnesses; when required to attend)
-
- Section 703 [former] (Punishment of witness for contempt)
-
- Section 714 [now 1784] (Failure of witness to obey subpena; order to show cause in contempt proceedings)
-
- Section 715 [now 1784] (Direction in order to show cause for seizure of property of witness in contempt)
-
- Section 716 [now 1784] (Service of order to show cause)
-
- Section 717 [now 1784] (Hearing on order to show cause; judgment; satisfaction)
-
- Section 750 [now 2405] (Garnishees in suits by United States against a corporation; garnishee failing to appear)
-
-U.S.C., Title 29:
-
- Section 111 [now 18 U.S.C. 3692] (Contempts; speedy and public trial; jury) (Norris-La Guardia Act)
-
- Section 112 [now Rule 42, FRCP, 18 U.S.C., Appendix] (Contempts; demands for retirement of judge sitting in proceeding)
-
- Section 160 (Prevention of unfair labor practices—(h) Jurisdiction of courts unaffected by limitations prescribed in sections 101–115 of Title 29)
-
- Section 161 (Investigatory powers of Board—(2) Court aid in compelling production of evidence and attendance of witnesses)
-
- Section 209 (Fair Labor Standards Act; attendance of witnesses)
-
-U.S.C., Title 33:
-
- Section 927 (Longshoremen's and Harbor Workers’ Compensation Act; powers of deputy commissioner)
-
-U.S.C., Title 35:
-
- Section 56 [now 24] (Failing to attend or testify)
-
-U.S.C., Title 47:
-
- Section 409 (Federal Communications Commission; hearing; subpenas; oaths; witnesses; production of books and papers; contempts; depositions; penalties)
-
-U.S.C., Title 48:
-
- Section 1345a (Canal Zone; general jurisdiction of district court; issue of process at request of officials; witnesses; contempt)
-
-U.S.C., Title 49:
-
- Section 12 [see 721(c)(2), 13301(c)(2)] (Interstate Commerce Commission; authority and duties of commission; witnesses; depositions—(3) Compelling attendance and testimony of witnesses, etc.)
-
-Federal Rules of Civil Procedure:
-
- Rule 45 (Subpoena) subdivision (f) (Contempt)
 
 TITLE IX. GENERAL PROVISIONS
 
