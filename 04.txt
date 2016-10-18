@@ -46,6 +46,10 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 (July 30, 1947, ch. 389, 61 Stat. 642.)
 
+Short Title of 2000 Amendment
+
+Pub. L. 106–252, §1, July 28, 2000, 114 Stat. 626, provided that: “This Act [enacting sections 116 to 126 of this title and provisions set out as a note under section 116 of this title] may be cited as the ‘Mobile Telecommunications Sourcing Act’.”
+
 Executive Order No. 10798
 
 Ex. Ord.
@@ -154,12 +158,6 @@ Any person who, within the District of Columbia, in any manner, for exhibition o
 The words “flag, standard, colors, or ensign”, as used herein, shall include any flag, standard, colors, ensign, or any picture or representation of either, or of any part or parts of either, made of any substance or represented on any substance, of any size evidently purporting to be either of said flag, standard, colors, or ensign of the United States of America or a picture or a representation of either, upon which shall be shown the colors, the stars and the stripes, in any number of either thereof, or of any part or parts of either, by which the average person seeing the same without deliberation may believe the same to represent the flag, colors, standard, or ensign of the United States of America.
 
 (July 30, 1947, ch. 389, 61 Stat. 642; Pub. L. 90–381, §3, July 5, 1968, 82 Stat. 291.)
-
-Cross References
-
-Penalty for desecration of the flag, see section 700 of Title 18, Crimes and Criminal Procedure.
-
-Police uniforms to display U.S. flag emblem or colors, see section 210a of Title 40, Public Buildings, Property, and Works.
 
 §4. Pledge of allegiance to the flag; manner of delivery
 
@@ -438,10 +436,6 @@ The seal heretofore used by the United States in Congress assembled is declared 
 
 (July 30, 1947, ch. 389, 61 Stat. 643.)
 
-Cross References
-
-National motto, see section 302 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
-
 §42. Same; custody and use of
 
 The Secretary of State shall have the custody and charge of such seal.
@@ -559,6 +553,39 @@ Limitation on State income taxation of certain pension income 2
 115.
 Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky.
 
+116.
+Rules for determining State and local government treatment of charges related to mobile telecommunications services.
+
+117.
+Sourcing rules.
+
+118.
+Limitations.
+
+119.
+Electronic databases for nationwide standard numeric jurisdictional codes.
+
+120.
+Procedure if no electronic database provided.
+
+121.
+Correction of erroneous data for place of primary use.
+
+122.
+Determination of place of primary use.
+
+123.
+Scope; special rules.
+
+124.
+Definitions.
+
+125.
+Nonseverability.
+
+126.
+No inference.
+
         
 
 Civil and Criminal Jurisdiction over Indians
@@ -648,10 +675,6 @@ Pub. L. 100–202, §101(i) [title III, §307], Dec. 22, 1987, 101 Stat. 1329–
 “(4) the term ‘State’ means a State of the United States, the District of Columbia, or a territory or possession of the United States.
 
 “(c) This section shall apply to any sale, receipt, purchase, storage, possession, use, or valuation taking place after December 31, 1986.”
-
-Cross References
-
-Imposition of net income taxes by State on income derived from interstate commerce, see chapter 10B (§381 et seq.) of Title 15, Commerce and Trade.
 
 Section Referred to in Other Sections
 
@@ -887,6 +910,280 @@ Pay and compensation paid to an individual for personal services at Fort Campbel
 Effective Date
 
 Pub. L. 105–261, div. A, title X, §1075(a)(3), Oct. 17, 1998, 112 Stat. 2138, provided that: “The amendments made by this subsection [enacting this section] shall apply to pay and compensation paid after the date of the enactment of this Act [Oct. 17, 1998].”
+
+§116. Rules for determining State and local government treatment of charges related to mobile telecommunications services
+
+(a) Application of This Section Through Section 126.—This section through 1 126 of this title apply to any tax, charge, or fee levied by a taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunications services, regardless of whether such tax, charge, or fee is imposed on the vendor or customer of the service and regardless of the terminology used to describe the tax, charge, or fee.
+
+(b) General Exceptions.—This section through 1 126 of this title do not apply to—
+
+(1) any tax, charge, or fee levied upon or measured by the net income, capital stock, net worth, or property value of the provider of mobile telecommunications service;
+
+(2) any tax, charge, or fee that is applied to an equitably apportioned amount that is not determined on a transactional basis;
+
+(3) any tax, charge, or fee that represents compensation for a mobile telecommunications service provider's use of public rights of way or other public property, provided that such tax, charge, or fee is not levied by the taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunication services;
+
+(4) any generally applicable business and occupation tax that is imposed by a State, is applied to gross receipts or gross proceeds, is the legal liability of the home service provider, and that statutorily allows the home service provider to elect to use the sourcing method required in this section through 1 126 of this title;
+
+(5) any fee related to obligations under section 254 of the Communications Act of 1934; or
+
+(6) any tax, charge, or fee imposed by the Federal Communications Commission.
+
+(c) Specific Exceptions.—This section through 1 126 of this title—
+
+(1) do not apply to the determination of the taxing situs of prepaid telephone calling services;
+
+(2) do not affect the taxability of either the initial sale of mobile telecommunications services or subsequent resale of such services, whether as sales of such services alone or as a part of a bundled product, if the Internet Tax Freedom Act would preclude a taxing jurisdiction from subjecting the charges of the sale of such services to a tax, charge, or fee, but this section provides no evidence of the intent of Congress with respect to the applicability of the Internet Tax Freedom Act to such charges; and
+
+(3) do not apply to the determination of the taxing situs of air-ground radiotelephone service as defined in section 22.99 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 626.)
+
+References in Text
+
+Section 254 of the Communications Act of 1934, referred to in subsec. (b)(5), is classified to section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+
+The Internet Tax Freedom Act, referred to in subsec. (c)(2), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 117, 118, 123, 124, 125, 126 of this title.
+
+1 So in original.
+Probably should be followed by “section”.
+
+§117. Sourcing rules
+
+(a) Treatment of Charges for Mobile Telecommunications Services.—Notwithstanding the law of any State or political subdivision of any State, mobile telecommunications services provided in a taxing jurisdiction to a customer, the charges for which are billed by or for the customer's home service provider, shall be deemed to be provided by the customer's home service provider.
+
+(b) Jurisdiction.—All charges for mobile telecommunications services that are deemed to be provided by the customer's home service provider under sections 116 through 126 of this title are authorized to be subjected to tax, charge, or fee by the taxing jurisdictions whose territorial limits encompass the customer's place of primary use, regardless of where the mobile telecommunication services originate, terminate, or pass through, and no other taxing jurisdiction may impose taxes, charges, or fees on charges for such mobile telecommunications services.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 627.)
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 118, 123, 124, 125, 126 of this title.
+
+§118. Limitations
+
+Sections 116 through 126 of this title do not—
+
+(1) provide authority to a taxing jurisdiction to impose a tax, charge, or fee that the laws of such jurisdiction do not authorize such jurisdiction to impose; or
+
+(2) modify, impair, supersede, or authorize the modification, impairment, or supersession of the law of any taxing jurisdiction pertaining to taxation except as expressly provided in sections 116 through 126 of this title.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 627.)
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 123, 124, 125, 126 of this title.
+
+§119. Electronic databases for nationwide standard numeric jurisdictional codes
+
+(a) Electronic Database.—
+
+(1) Provision of database.—A State may provide an electronic database to a home service provider or, if a State does not provide such an electronic database to home service providers, then the designated database provider may provide an electronic database to a home service provider.
+
+(2) Format.—(A) Such electronic database, whether provided by the State or the designated database provider, shall be provided in a format approved by the American National Standards Institute's Accredited Standards Committee X12, that, allowing for de minimis deviations, designates for each street address in the State, including to the extent practicable, any multiple postal street addresses applicable to one street location, the appropriate taxing jurisdictions, and the appropriate code for each taxing jurisdiction, for each level of taxing jurisdiction, identified by one nationwide standard numeric code.
+
+(B) Such electronic database shall also provide the appropriate code for each street address with respect to political subdivisions which are not taxing jurisdictions when reasonably needed to determine the proper taxing jurisdiction.
+
+(C) The nationwide standard numeric codes shall contain the same number of numeric digits with each digit or combination of digits referring to the same level of taxing jurisdiction throughout the United States using a format similar to FIPS 55–3 or other appropriate standard approved by the Federation of Tax Administrators and the Multistate Tax Commission, or their successors.
+Each address shall be provided in standard postal format.
+
+(b) Notice; Updates.—A State or designated database provider that provides or maintains an electronic database described in subsection (a) shall provide notice of the availability of the then current electronic database, and any subsequent revisions thereof, by publication in the manner normally employed for the publication of informational tax, charge, or fee notices to taxpayers in such State.
+
+(c) User Held Harmless.—A home service provider using the data contained in an electronic database described in subsection (a) shall be held harmless from any tax, charge, or fee liability that otherwise would be due solely as a result of any error or omission in such database provided by a State or designated database provider.
+The home service provider shall reflect changes made to such database during a calendar quarter not later than 30 days after the end of such calendar quarter for each State that issues notice of the availability of an electronic database reflecting such changes under subsection (b).
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 627.)
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 120, 123, 124, 125, 126 of this title.
+
+§120. Procedure if no electronic database provided
+
+(a) Safe Harbor.—If neither a State nor designated database provider provides an electronic database under section 119, a home service provider shall be held harmless from any tax, charge, or fee liability in such State that otherwise would be due solely as a result of an assignment of a street address to an incorrect taxing jurisdiction if, subject to section 121, the home service provider employs an enhanced zip code to assign each street address to a specific taxing jurisdiction for each level of taxing jurisdiction and exercises due diligence at each level of taxing jurisdiction to ensure that each such street address is assigned to the correct taxing jurisdiction.
+If an enhanced zip code overlaps boundaries of taxing jurisdictions of the same level, the home service provider must designate one specific jurisdiction within such enhanced zip code for use in taxing the activity for such enhanced zip code for each level of taxing jurisdiction.
+Any enhanced zip code assignment changed in accordance with section 121 is deemed to be in compliance with this section.
+For purposes of this section, there is a rebuttable presumption that a home service provider has exercised due diligence if such home service provider demonstrates that it has—
+
+(1) expended reasonable resources to implement and maintain an appropriately detailed electronic database of street address assignments to taxing jurisdictions;
+
+(2) implemented and maintained reasonable internal controls to promptly correct misassignments of street addresses to taxing jurisdictions; and
+
+(3) used all reasonably obtainable and usable data pertaining to municipal annexations, incorporations, reorganizations and any other changes in jurisdictional boundaries that materially affect the accuracy of such database.
+
+(b) Termination of Safe Harbor.—Subsection (a) applies to a home service provider that is in compliance with the requirements of subsection (a), with respect to a State for which an electronic database is not provided under section 119 until the later of—
+
+(1) 18 months after the nationwide standard numeric code described in section 119(a) has been approved by the Federation of Tax Administrators and the Multistate Tax Commission; or
+
+(2) 6 months after such State or a designated database provider in such State provides such database as prescribed in section 119(a).
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 628.)
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 121, 123, 124, 125, 126 of this title.
+
+§121. Correction of erroneous data for place of primary use
+
+(a) 1 In General.—A taxing jurisdiction, or a State on behalf of any taxing jurisdiction or taxing jurisdictions within such State, may—
+
+(1) determine that the address used for purposes of determining the taxing jurisdictions to which taxes, charges, or fees for mobile telecommunications services are remitted does not meet the definition of place of primary use in section 124(8) and give binding notice to the home service provider to change the place of primary use on a prospective basis from the date of notice of determination if—
+
+(A) if the taxing jurisdiction making such determination is not a State, such taxing jurisdiction obtains the consent of all affected taxing jurisdictions within the State before giving such notice of determination; and
+
+(B) before the taxing jurisdiction gives such notice of determination, the customer is given an opportunity to demonstrate in accordance with applicable State or local tax, charge, or fee administrative procedures that the address is the customer's place of primary use;
+
+(2) determine that the assignment of a taxing jurisdiction by a home service provider under section 120 does not reflect the correct taxing jurisdiction and give binding notice to the home service provider to change the assignment on a prospective basis from the date of notice of determination if—
+
+(A) if the taxing jurisdiction making such determination is not a State, such taxing jurisdiction obtains the consent of all affected taxing jurisdictions within the State before giving such notice of determination; and
+
+(B) the home service provider is given an opportunity to demonstrate in accordance with applicable State or local tax, charge, or fee administrative procedures that the assignment reflects the correct taxing jurisdiction.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 629.)
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 120, 122, 123, 124, 125, 126 of this title.
+
+1 So in original.
+No subsec. (b) was enacted.
+
+§122. Determination of place of primary use
+
+(a) Place of Primary Use.—A home service provider shall be responsible for obtaining and maintaining the customer's place of primary use (as defined in section 124). Subject to section 121, and if the home service provider's reliance on information provided by its customer is in good faith, a taxing jurisdiction shall—
+
+(1) allow a home service provider to rely on the applicable residential or business street address supplied by the home service provider's customer; and
+
+(2) not hold a home service provider liable for any additional taxes, charges, or fees based on a different determination of the place of primary use for taxes, charges, or fees that are customarily passed on to the customer as a separate itemized charge.
+
+(b) Address Under Existing Agreements.—Except as provided in section 121, a taxing jurisdiction shall allow a home service provider to treat the address used by the home service provider for tax purposes for any customer under a service contract or agreement in effect 2 years after the date of the enactment of the Mobile Telecommunications Sourcing Act as that customer's place of primary use for the remaining term of such service contract or agreement, excluding any extension or renewal of such service contract or agreement, for purposes of determining the taxing jurisdictions to which taxes, charges, or fees on charges for mobile telecommunications services are remitted.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 630.)
+
+References in Text
+
+The date of the enactment of the Mobile Telecommunications Sourcing Act, referred to in subsec. (b), is the date of enactment of Pub. L. 106–252, which was approved July 28, 2000.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 123, 124, 125, 126 of this title.
+
+§123. Scope; special rules
+
+(a) Act Does Not Supersede Customer's Liability to Taxing Jurisdiction.—Nothing in sections 116 through 126 modifies, impairs, supersedes, or authorizes the modification, impairment, or supersession of, any law allowing a taxing jurisdiction to collect a tax, charge, or fee from a customer that has failed to provide its place of primary use.
+
+(b) Additional Taxable Charges.—If a taxing jurisdiction does not otherwise subject charges for mobile telecommunications services to taxation and if these charges are aggregated with and not separately stated from charges that are subject to taxation, then the charges for nontaxable mobile telecommunications services may be subject to taxation unless the home service provider can reasonably identify charges not subject to such tax, charge, or fee from its books and records that are kept in the regular course of business.
+
+(c) Nontaxable Charges.—If a taxing jurisdiction does not subject charges for mobile telecommunications services to taxation, a customer may not rely upon the nontaxability of charges for mobile telecommunications services unless the customer's home service provider separately states the charges for nontaxable mobile telecommunications services from taxable charges or the home service provider elects, after receiving a written request from the customer in the form required by the provider, to provide verifiable data based upon the home service provider's books and records that are kept in the regular course of business that reasonably identifies the nontaxable charges.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 630.)
+
+References in Text
+
+Act, referred to in subsec. (a), probably means the Mobile Telecommunications Sourcing Act, Pub. L. 106–252, July 28, 2000, 114 Stat. 626, which enacted sections 116 to 126 of this title and provisions set out as notes under sections 1 and 116 of this title.
+For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of this title and Tables.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 124, 125, 126 of this title.
+
+§124. Definitions
+
+In sections 116 through 126 of this title:
+
+(1) Charges for mobile telecommunications services.—The term “charges for mobile telecommunications services” means any charge for, or associated with, the provision of commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999, or any charge for, or associated with, a service provided as an adjunct to a commercial mobile radio service, that is billed to the customer by or for the customer's home service provider regardless of whether individual transmissions originate or terminate within the licensed service area of the home service provider.
+
+(2) Customer.—
+
+(A) In general.—The term “customer” means—
+
+(i) the person or entity that contracts with the home service provider for mobile telecommunications services; or
+
+(ii) if the end user of mobile telecommunications services is not the contracting party, the end user of the mobile telecommunications service, but this clause applies only for the purpose of determining the place of primary use.
+
+(B) The term “customer” does not include—
+
+(i) a reseller of mobile telecommunications service; or
+
+(ii) a serving carrier under an arrangement to serve the customer outside the home service provider's licensed service area.
+
+(3) Designated database provider.—The term “designated database provider” means a corporation, association, or other entity representing all the political subdivisions of a State that is—
+
+(A) responsible for providing an electronic database prescribed in section 119(a) if the State has not provided such electronic database; and
+
+(B) approved by municipal and county associations or leagues of the State whose responsibility it would otherwise be to provide such database prescribed by sections 116 through 126 of this title.
+
+(4) Enhanced zip code.—The term “enhanced zip code” means a United States postal zip code of 9 or more digits.
+
+(5) Home service provider.—The term “home service provider” means the facilities-based carrier or reseller with which the customer contracts for the provision of mobile telecommunications services.
+
+(6) Licensed service area.—The term “licensed service area” means the geographic area in which the home service provider is authorized by law or contract to provide commercial mobile radio service to the customer.
+
+(7) Mobile telecommunications service.—The term “mobile telecommunications service” means commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999.
+
+(8) Place of primary use.—The term “place of primary use” means the street address representative of where the customer's use of the mobile telecommunications service primarily occurs, which must be—
+
+(A) the residential street address or the primary business street address of the customer; and
+
+(B) within the licensed service area of the home service provider.
+
+(9) Prepaid telephone calling services.—The term “prepaid telephone calling service” means the right to purchase exclusively telecommunications services that must be paid for in advance, that enables the origination of calls using an access number, authorization code, or both, whether manually or electronically dialed, if the remaining amount of units of service that have been prepaid is known by the provider of the prepaid service on a continuous basis.
+
+(10) Reseller.—The term “reseller”—
+
+(A) means a provider who purchases telecommunications services from another telecommunications service provider and then resells, uses as a component part of, or integrates the purchased services into a mobile telecommunications service; and
+
+(B) does not include a serving carrier with which a home service provider arranges for the services to its customers outside the home service provider's licensed service area.
+
+(11) Serving carrier.—The term “serving carrier” means a facilities-based carrier providing mobile telecommunications service to a customer outside a home service provider's or reseller's licensed service area.
+
+(12) Taxing jurisdiction.—The term “taxing jurisdiction” means any of the several States, the District of Columbia, or any territory or possession of the United States, any municipality, city, county, township, parish, transportation district, or assessment jurisdiction, or any other political subdivision within the territorial limits of the United States with the authority to impose a tax, charge, or fee.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 631.)
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 121, 122, 123, 125, 126 of this title.
+
+§125. Nonseverability
+
+If a court of competent jurisdiction enters a final judgment on the merits that—
+
+(1) is based on Federal law;
+
+(2) is no longer subject to appeal; and
+
+(3) substantially limits or impairs the essential elements of sections 116 through 126 of this title,
+
+then sections 116 through 126 of this title are invalid and have no legal effect as of the date of entry of such judgment.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 632.)
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 123, 124, 126 of this title.
+
+§126. No inference
+
+(a) Internet Tax Freedom Act.—Nothing in sections 116 through this section of this title shall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
+
+(b) Telecommunications Act of 1996.—Nothing in sections 116 through this section of this title shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 or the amendments made by such Act.
+
+(Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 632.)
+
+References in Text
+
+The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+
+The Telecommunications Act of 1996, referred to in subsec. (b), is Pub. L. 104–104, Feb. 8, 1996, 110 Stat. 56. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and Tables.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 116, 117, 118, 123, 124, 125 of this title.
 
 CHAPTER 5—OFFICIAL TERRITORIAL PAPERS
 

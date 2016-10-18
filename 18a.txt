@@ -30,10 +30,6 @@ This Act may be cited as the “Interstate Agreement on Detainers Act”.
 
 (Pub. L. 91–538, §1, Dec. 9, 1970, 84 Stat. 1397.)
 
-Codification
-
-The Interstate Agreement on Detainers is also set out in sections 24–701 to 24–705 of the District of Columbia Code.
-
 §2. Enactment into law of Interstate Agreement on Detainers
 
 The Interstate Agreement on Detainers is hereby enacted into law and entered into by the United States on its own behalf and on behalf of the District of Columbia with all jurisdictions legally joining in substantially the following form:
@@ -150,7 +146,7 @@ The term “Governor” as used in the agreement on detainers shall mean with re
 Transfer of Functions
 
 “Mayor of the District of Columbia” substituted in text for “Commissioner of the District of Columbia” pursuant to section 421 of Pub. L. 93–198. Office of Commissioner of District of Columbia, as established by Reorg.
-Plan No. 3, of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of the District of Columbia Code.
+Plan No. 3, of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 
 §4. Definition of term “appropriate court”
 
@@ -173,7 +169,7 @@ For the United States, the Attorney General, and for the District of Columbia, t
 Transfer of Functions
 
 “Mayor of the District of Columbia” substituted in text for “Commissioner of the District of Columbia” pursuant to section 421 of Pub. L. 93–198. Office of Commissioner of District of Columbia, as established by Reorg.
-Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of the District of Columbia Code.
+Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 
 §7. Reservation of right to alter, amend, or repeal
 
@@ -204,7 +200,7 @@ In determining whether to dismiss the case with or without prejudice, the court 
 
 CLASSIFIED INFORMATION PROCEDURES ACT
 
-Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, as amended by Pub. L. 100–690, title VII, §7020(g), Nov. 18, 1988, 102 Stat. 4396
+Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, as amended by Pub. L. 100–690, title VII, §7020(g), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 106–567, title VI, §607, Dec. 27, 2000, 114 Stat. 2855
 
 §1. Definitions
 
@@ -474,6 +470,24 @@ Chief Justice of the       
 
 United States        
 
+§9A. Coordination requirements relating to the prosecution of cases involving classified information
+
+(a) Briefings Required.—The Assistant Attorney General for the Criminal Division and the appropriate United States attorney, or the designees of such officials, shall provide briefings to the senior agency official, or the designee of such official, with respect to any case involving classified information that originated in the agency of such senior agency official.
+
+(b) Timing of Briefings.—Briefings under subsection (a) with respect to a case shall occur—
+
+(1) as soon as practicable after the Department of Justice and the United States attorney concerned determine that a prosecution or potential prosecution could result; and
+
+(2) at such other times thereafter as are necessary to keep the senior agency official concerned fully and currently informed of the status of the prosecution.
+
+(c) Senior Agency Official Defined.—In this section, the term “senior agency official” has the meaning given that term in section 1.1 of Executive Order No. 12958.
+
+(Pub. L. 96–456, §9A, as added Pub. L. 106–567, title VI, §607, Dec. 27, 2000, 114 Stat. 2855.)
+
+References in Text
+
+Executive Order No. 12958, referred to in subsec. (c), is set out as a note under section 435 of Title 50, War and National Defense.
+
 §10. Identification of information related to the national defense
 
 In any prosecution in which the United States must establish that material relates to the national defense or constitutes classified information, the United States shall notify the defendant, within the time before trial specified by the court, of the portions of the material that it reasonably expects to rely upon to establish the national defense or classified information element of the offense.
@@ -547,7 +561,7 @@ Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to
 
 FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to January 23, 2000)
+(As amended to January 2, 2001)
 
 Historical Note
 
@@ -578,7 +592,8 @@ Dec. 1, 1995; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff.
 Dec. 1, 1997; Apr. 24, 1998, eff.
 Dec. 1, 1998; Apr. 26, 1999, eff.
-Dec. 1, 1999.
+Dec. 1, 1999; Apr. 17, 2000, eff.
+Dec. 1, 2000.
 
 I. SCOPE, PURPOSE, AND CONSTRUCTION
 
@@ -1373,7 +1388,7 @@ Conviction of Less Offense.
 Poll of Jury.
 
 (e)
-Criminal Forfeiture.
+Abrogated.
 
         
 
@@ -1490,6 +1505,24 @@ In General.
 
 Sanctions for Failure to Produce Statement.
 
+Rule 32.2.
+Criminal Forfeiture.
+
+(a)
+Notice to the Defendant.
+
+(b)
+Entry of Preliminary Order of Forfeiture; Post Verdict Hearing.
+
+(c)
+Ancillary Proceeding; Final Order of Forfeiture.
+
+(d)
+Stay Pending Appeal.
+
+(e)
+Subsequently Located Property; Substitute Property.
+
 33.
 New Trial.
 
@@ -1534,7 +1567,7 @@ Fine.
 Probation.
 
 (e)
-Criminal Forfeiture, Notice to Victims, and Restitution.
+Notice to Victims and Restitution.
 
 (f)
 Disabilities.
@@ -2010,10 +2043,6 @@ In the Canal Zone only the rules governing proceedings after verdict, finding or
 3. While the rules apply to proceedings before commissioners when acting as committing magistrates, they do not govern when a commissioner acts as a trial magistrate for the trial of petty offenses committed on Federal reservations.
 That procedure is governed by rules adopted by order promulgated by the Supreme Court on January 6, 1941 (311 U.S. 733), pursuant to the Act of October 9, 1940, c. 785, secs. 1–5. See 18 U.S.C. 576–576d [now 3401, 3402] (relating to trial of petty offenses on Federal reservations by United States commissioners).
 
-Cross References
-
-Power of Supreme Court to prescribe rules of procedure and evidence, see section 2072 of Title 28, Judiciary and Judicial Procedure.
-
 Rule 2. Purpose and Construction
 
 These rules are intended to provide for the just determination of every criminal proceeding.
@@ -2038,26 +2067,6 @@ Notes of Advisory Committee on Rules—1944
 
 The rule generally states existing law and practice, 18 U.S.C. 591 [now 3041] (Arrest and removal for trial); United States v. Simon (E.D.Pa.), 248 F. 980; United States v. Maresca (S.D.N.Y.), 266 F. 713, 719–721. It eliminates, however, the requirement of conformity to State law as to the form and sufficiency of the complaint.
 See, also, rule 57(b).
-
-Cross References
-
-Arrest without warrant, filing of complaint on bringing arrested person before magistrate judge, see rule 5.
-
-Copy of complaint, issuance of warrant of removal, see rule 40.
-
-Dismissal of complaint, by Attorney General or United States attorney, see rule 48.
-
-Extradition of fugitives from foreign country, complaint on oath, see section 3184 of this title.
-
-Internal revenue law violations, see section 3045 of this title.
-
-Warrant for arrest—
-
-Description of offense charged in complaint, see rule 4.
-
-Issued upon complaint, see rule 5.
-
-Warrant of removal, issuance on copy of complaint, see rule 40.
 
 Rule 4. Arrest Warrant or Summons Upon Complaint
 
@@ -2143,14 +2152,6 @@ Note to Subdivision (c)(4). Return of a warrant or summons to the commissioner o
 
 Pub. L. 94–64 struck out subds. (a), (b), and (c) and inserted in lieu new subds. (a) and (b); redesignated subd. (d) as (c); and redesignated subd. (e) as (d) and amended par. (3) thereof generally.
 
-Cross References
-
-Arrest without warrant, appearance before magistrate judge, see rule 5.
-
-Commitment to another district and removal, use of warrant, see rule 40.
-
-Indictment or information, warrant issued on, see rule 9.
-
 1 So in original.
 Probably should be “magistrate judge”.
 
@@ -2209,24 +2210,6 @@ Wood v. United States, 128 F.2d 265 (App. D.C.) The rule expressly provides for 
 1984 Amendment
 
 Subd. (c). Pub. L. 98–473 substituted “shall detain or conditionally release the defendant” for “shall admit the defendant to bail”.
-
-Cross References
-
-Appeal from conviction by United States magistrate judge, see section 3402 of this title.
-
-Appearance before magistrate judge, see rule 9.
-
-Commitment to another district and removal, see rule 40.
-
-Powers of courts and magistrate judges, arrest and commitment, see section 3041 of this title.
-
-Records, duty to keep, see rule 55.
-
-Return of warrant, see rule 4.
-
-Subpoena, issuance by magistrate judge, see rule 17.
-
-Trial of misdemeanors, see section 3401 of this title.
 
 Rule 5.1. Preliminary Examination
 
@@ -2500,22 +2483,6 @@ Subd. (e)(3)(C)(iv). Pub. L. 98–473, eff.
 Nov. 1, 1987, added subcl. (iv), identical to subcl. (iv) which had been previously added by Order of the Supreme Court dated Apr. 29, 1985, eff.
 Aug. 1, 1985, thereby requiring no change in text.
 
-Cross References
-
-Additional jurors, summoning, see section 3321 of this title.
-
-Bankruptcy investigation, presentation to grand jury, see section 3057 of this title.
-
-Dismissal of grand jury, reindictment affected by statute of limitations, see sections 3288 and 3289 of this title.
-
-Grand jurors, qualifications, fees and manner of drawing, see section 1861 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Intimidation of grand jury, obstructing justice by, see sections 1503 and 1504 of this title.
-
-Qualifications of grand jurors, generally, see section 1861 of Title 28, Judiciary and Judicial Procedure.
-
-Unnecessary delay in presenting charge, dismissal for, see rule 48.
-
 Rule 7. The Indictment and the Information
 
 (a) Use of Indictment or Information.
@@ -2538,7 +2505,7 @@ It may be alleged in a single count that the means by which the defendant commit
 The indictment or information shall state for each count the official or customary citation of the statute, rule, regulation or other provision of law which the defendant is alleged therein to have violated.
 
 (2) Criminal Forfeiture.
-No judgment of forfeiture may be entered in a criminal proceeding unless the indictment or the information shall allege the extent of the interest or property subject to forfeiture.
+No judgment of forfeiture may be entered in a criminal proceeding unless the indictment or the information provides notice that the defendant has an interest in property that is subject to forfeiture in accordance with the applicable statute.
 
 (3) Harmless Error.
 Error in the citation or its omission shall not be ground for dismissal of the indictment or information or for reversal of a conviction if the error or omission did not mislead the defendant to the defendant's prejudice.
@@ -2558,7 +2525,8 @@ A bill of particulars may be amended at any time subject to such conditions as j
 July 1, 1966; Apr. 24, 1972, eff.
 Oct. 1, 1972; Apr. 30, 1979, eff.
 Aug. 1, 1979; Mar. 9, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -2611,32 +2579,6 @@ Virgin Islands
 
 Prosecutions in District Court of the Virgin Islands to be by information except such as may be required by local law to be by indictment by grand jury, see section 1615 of Title 48, Territories and Insular Possessions.
 
-Cross References
-
-Arraignment, reading of indictment or information to defendant, see rule 10.
-
-Arrest of judgment, indictment or information not charging offense, see rule 34.
-
-Capital offense, copy of indictment or information furnished to person charged, see section 3432 of this title.
-
-Dismissal of indictment or information—
-
-By Attorney General or United States attorney, see rule 48.
-
-Raising defenses or objections before trial, see rule 12.
-
-Election, prejudicial joinder, see rule 14.
-
-Judgment of acquittal, insufficiency of indictment or information, see rule 29.
-
-Juvenile delinquents, proceeding against by information, see section 5032 of this title.
-
-Removal proceedings, generally, see rule 40.
-
-Setting aside or dismissing indictment, direct appeal from district court to Supreme Court, see section 3731 of this title.
-
-Trial together of indictments or informations, see rule 13.
-
 Rule 8. Joinder of Offenses and of Defendants
 
 (a) Joinder of Offenses.
@@ -2652,12 +2594,6 @@ Note to Subdivision (a). This rule is substantially a restatement of existing la
 
 Note to Subdivision (b). The first sentence of the rule is substantially a restatement of existing law, 9 Edmunds, Cyclopedia of Federal Procedure (2d Ed.) 4116. The second sentence formulates a practice now approved in some circuits.
 Caringella v. United States, 78 F.2d 563, 567 (C.C.A. 7th).
-
-Cross References
-
-Consolidation of indictments or informations, see rule 13.
-
-Election of counts, see rule 14.
 
 Rule 9. Warrant or Summons Upon Indictment or Information
 
@@ -2710,10 +2646,6 @@ See Albrecht v. United States, 273 U.S. 1, 5.
 
 3. The provision of Rule 9(b)(1) that the amount of bail may be fixed by the court and endorsed on the warrant states a practice now prevailing in many districts and is intended to facilitate the giving of bail by the defendant and eliminate delays between the arrest and the giving of bail, which might ensue if bail cannot be fixed until after arrest.
 
-Cross References
-
-Commitment to another district, see rule 40.
-
 IV. ARRAIGNMENT, AND PREPARATION FOR TRIAL
 
 Rule 10. Arraignment
@@ -2731,12 +2663,6 @@ Notes of Advisory Committee on Rules—1944
 2. The requirement that the defendant shall be given a copy of the indictment or information before he is called upon to plead, contained in the second sentence, is new.
 
 3. Failure to comply with arraignment requirements has been held not to be jurisdictional, but a mere technical irregularity not warranting a reversal of a conviction, if not raised before trial, Garland v. State of Washington, 232 U.S. 642.
-
-Cross References
-
-Assignment of counsel in preliminary proceedings, see note under rule 44.
-
-Bill of particulars before arraignment, see rule 7.
 
 Rule 11. Pleas
 
@@ -2849,16 +2775,6 @@ Subd. (c)(1). Pub. L. 100–690 inserted “or term of supervised release” aft
 
 Pub. L. 94–64 amended subds. (c) and (e)(1)–(4), (6) generally.
 
-Cross References
-
-Assignment of counsel, see rule 44.
-
-Motion before entry of plea or reasonable time thereafter, see rule 12.
-
-Pleadings and motions before trial, see rule 12.
-
-Withdrawal of plea of guilty, see rule 32.
-
 Rule 12. Pleadings and Motions Before Trial; Defenses and Objections
 
 (a) Pleadings and Motions.
@@ -2952,32 +2868,6 @@ Note to Subdivision (b)(5). 1. The first sentence substantially restates existin
 1975 Amendment
 
 Pub. L. 94–64 amended subds. (e) and (h) generally.
-
-Cross References
-
-Affidavit to support motion, see rule 47.
-
-Application for order by motion, see rule 47.
-
-Former pleas, demurrers, and motions to quash used in acts of Congress, see rule 54.
-
-Motion for order—
-
-Bill of particulars, see rule 7.
-
-Dismissal of indictment on objections to array of grand jury, see rule 6.
-
-Striking surplusage from indictment or information, see rule 7.
-
-Pleas, see rule 11.
-
-Reindictment before and after periods of limitations, see sections 3288 and 3289 of this title.
-
-Service and filing of motion papers, see rule 49.
-
-Time for service of motions and affidavits generally, see rule 45.
-
-Withdrawal of plea of guilty, see rule 32.
 
 Rule 12.1. Notice of Alibi
 
@@ -3298,24 +3188,6 @@ Subd. (a). Pub. L. 98–473 substituted “detained pursuant to section 3144 of 
 
 Pub. L. 94–64 amended subds. (a), (b), (c), and (e) generally, struck out subd. (g), and redesignated subd. (h) as (g).
 
-Federal Rules of Civil Procedure
-
-Deposition of witnesses upon written interrogatories, see rule 31, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Depositions, see rules 26 to 32 and 37.
-
-Interrogatories to a party, see rule 33.
-
-Cross References
-
-Affidavit upon motion, see rule 47.
-
-Assignment of counsel, see rule 44.
-
-Demands for production of statements and reports of witnesses, see section 3500 of this title.
-
-Subpoena and place for taking deposition, see rule 17.
-
 Rule 16. Discovery and Inspection
 
 (a) Governmental Disclosure of Evidence.
@@ -3422,16 +3294,6 @@ Subd. (c). Pub. L. 94–64 amended subd. (c) generally.
 
 Subd. (d)(1). Pub. L. 94–64 amended par. (1) generally.
 
-Federal Rules of Civil Procedure
-
-Motion for order to inspect, copy or photograph, see rule 34, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Cross References
-
-Demands for production of statements and reports of witnesses, see section 3500 of this title.
-
-Subpoena to produce books, papers or other documents, see rule 17.
-
 Rule 17. Subpoena
 
 (a) For Attendance of Witnesses; Form; Issuance.
@@ -3513,20 +3375,6 @@ Subd. (f)(2). Pub. L. 94–64 amended par. (2) generally.
 Supersedure
 
 Provision of subd. (d) of this rule that witness shall be tendered the fee for 1 day's attendance and mileage allowed by law as superseded by section 1825 of Title 28, Judiciary and Judicial Procedure, see such section and Reviser's Note thereunder.
-
-Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Cross References
-
-Demands for production of statements and reports of witnesses, see section 3500 of this title.
-
-Deposition of witnesses, see rule 15.
-
-Marshal's fee for service of subpoena, see section 1921 of Title 28, Judiciary and Judicial Procedure.
-
-Per diem and mileage of witnesses generally, see section 1821 of Title 28.
 
 Rule 17.1. Pretrial Conference
 
@@ -3668,33 +3516,6 @@ U.S.C., Title 49:
 
  Section 623 [repealed] (Civil Aeronautics Act; venue and prosecution of offenses)
 
-Cross References
-
-Constitutional restrictions on venue of criminal prosecutions, see Const.
-Art. III, sec. 2, cl. 3 and Amend. 6.
-
-Divisions within judicial district, see sections 81 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Judicial districts within State, see sections 81 et seq. of Title 28.
-
-Transfer from district—
-
-For plea and sentence, see rule 20.
-
-Or division for trial, see rule 21.
-
-Venue—
-
-Capital cases, see section 3235 of this title.
-
-Creation of new district or division, see section 3240 of this title.
-
-Murder or manslaughter, see section 3236 of this title.
-
-Offenses begun in one district and completed in another, see section 3237 of this title.
-
-Offenses not committed in any district, see section 3238 of this title.
-
 [Rule 19. Transfer Within the District] (Rescinded Feb. 28, 1966, eff.
 July 1, 1966)
 
@@ -3736,12 +3557,6 @@ In order to prevent possible interference with the administration of justice, ho
 
 Subd. (d). Pub. L. 94–64 amended subd. (d) generally.
 
-Cross References
-
-Time of motion to transfer, see rule 22.
-
-Transfer from the district or division for trial, see rule 21.
-
 Rule 21. Transfer From the District for Trial
 
 (a) For Prejudice in the District.
@@ -3778,12 +3593,6 @@ Constitution of the United States, Article III, Sec. 2, Par. 3; Amendment VI. By
 
 Note to Subdivision (c). Cf. 28 U.S.C. 114 [now 1393, 1441] and Rule 20, supra.
 
-Cross References
-
-Bias or prejudice of judge, see section 144 of Title 28, Judiciary and Judicial Procedure.
-
-Time of motion to transfer, see rule 22.
-
 Rule 22. Time of Motion To Transfer
 
 A motion to transfer under these rules may be made at or before arraignment or at such other time as the court or these rules may prescribe.
@@ -3791,10 +3600,6 @@ A motion to transfer under these rules may be made at or before arraignment or a
 Notes of Advisory Committee on Rules—1944
 
 Cf. Rule 12(b)(3).
-
-Cross References
-
-Time of motion raising defenses and objections before trial, see rule 12.
 
 VI. TRIAL
 
@@ -3838,21 +3643,6 @@ Jury trial, criminal prosecutions in the District Court of Guam, see section 142
 Virgin Islands; Jury Trial
 
 Trial by jury in the Virgin Islands, see section 1616 of Title 48, Territories and Insular Possessions.
-
-Federal Rules of Civil Procedure
-
-Juries of less than twelve, see rule 48, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Jury trial of right, see rule 38.
-
-Trial by court and advisory jury, see rule 39.
-
-Cross References
-
-Guaranty of trial by jury, see Const.
-Art. III, sec. 2, cl. 3 and Amend. 6.
-
-Trial by jury, see section 1861 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 Rule 24. Trial Jurors
 
@@ -3900,16 +3690,6 @@ Experience with cases involving numerous defendants indicates the desirability o
 
 Note to Subdivision (c). This rule embodies existing law, 28 U.S.C. [former] 417a (Alternate jurors), as well as the practice prescribed for civil cases by Rule 47(b) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix], except that the number of possible alternate jurors that may be impaneled is increased from two to four, with a corresponding adjustment of challenges.
 
-Federal Rules of Civil Procedure
-
-Alternate jurors, see rule 47, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Examination of jurors, see rule 47.
-
-Cross References
-
-Challenges of jurors, see section 1870 of Title 28, Judiciary and Judicial Procedure.
-
 Rule 25. Judge; Disability
 
 (a) During Trial.
@@ -3925,10 +3705,6 @@ Aug. 1, 1987.)
 Notes of Advisory Committee on Rules—1944
 
 This rule is similar to Rule 63 of the Federal Rules of Civil Procedure [28 U.S.C., Appendix]. See also, 28 U.S.C. [former] 776 (Bill of exceptions; authentication; signing of by judge).
-
-Federal Rules of Civil Procedure
-
-Disability of judge, see rule 63, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 Rule 26. Taking of Testimony
 
@@ -3961,7 +3737,7 @@ U.S.C., Title 28:
 
  Section 633 [former] (Competency of witnesses governed by State laws; husband or wife of defendant in prosecution for bigamy)
 
- Section 634 [now 18 U.S.C. 3486] (Testimony of witnesses before Congress)
+ Section 634 [former] (Testimony of witnesses before Congress)
 
  Section 638 [now 1731] (Comparison of handwriting to determine genuineness)
 
@@ -3976,40 +3752,6 @@ U.S.C., Title 46:
 References in Text
 
 The Federal Rules of Evidence, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-Cross References
-
-Depositions, objections to admissibility, see rule 15.
-
-Expert witnesses, see rule 28.
-
-Foreign documents, see sections 3491 to 3496 of this title.
-
-Informing defendant he is not required to make statement and of use against him, see rules 5 and 40.
-
-Mental competency of accused, determination of, see section 4241 et seq. of this title.
-
-Motions—
-
-New trial for newly discovered evidence, see rule 33.
-
-Return of property unlawfully seized, see rule 41.
-
-Suppression of evidence, see rule 41 and form 16.
-
-Offer of evidence after refusal of motion for acquittal, see rule 29.
-
-Official record, proof, see rule 27.
-
-Shop book rule, records made in regular course of business, see sections 3491 and 3492 of this title.
-
-Subpoenas, see rule 17 and form 21.
-
-Witnesses—
-
-Absence, use of depositions, see rule 15.
-
-Accused, competency, see section 3481 of this title.
 
 Rule 26.1. Determination of Foreign Law
 
@@ -4268,16 +4010,6 @@ U.S.C., Title 49:
 
  Section 16 [now 10303] (Orders of Commission and enforcement thereof; forfeitures—(13) copies of schedules, tariffs, contracts, etc., kept as public records; evidence)
 
-Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Cross References
-
-Commission to consular offices to authenticate foreign documents, see section 3492 of this title.
-
-Foreign documents, see sections 3491 to 3496 of this title.
-
 Rule 28. Interpreters
 
 The court may appoint an interpreter of its own selection and may fix the reasonable compensation of such interpreter.
@@ -4375,10 +4107,6 @@ Notes of Advisory Committee on Rules—1944
 This rule corresponds to Rule 51 of the Federal Rules of Civil Procedure [28 U.S.C., Appendix], the second sentence alone being new.
 It seemed appropriate that on a point such as instructions to juries there should be no difference in procedure between civil and criminal cases.
 
-Cross References
-
-Harmless error, and plain error, generally, see rule 52.
-
 Rule 31. Verdict
 
 (a) Return.
@@ -4395,12 +4123,13 @@ The defendant may be found guilty of an offense necessarily included in the offe
 After a verdict is returned but before the jury is discharged, the court shall, on a party's request, or may on its own motion, poll the jurors individually.
 If the poll reveals a lack of unanimity, the court may direct the jury to deliberate further or may declare a mistrial and discharge the jury.
 
-(e) Criminal Forfeiture.
-If the indictment or the information alleges that an interest or property is subject to criminal forfeiture, a special verdict shall be returned as to the extent of the interest or property subject to forfeiture, if any.
+[(e) Criminal Forfeiture.] (Abrogated Apr. 17, 2000, eff.
+Dec. 1, 2000)
 
 (As amended Apr. 24, 1972, eff.
 Oct. 1, 1972; Apr. 24, 1998, eff.
-Dec. 1, 1998.)
+Dec. 1, 1998; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4413,40 +4142,6 @@ Note to Subdivision (b). This rule is a restatement of existing law, 18 U.S.C. [
 Note to Subdivision (c). This rule is a restatement of existing law, 18 U.S.C. [former] 565 (Verdicts; less offense than charged).
 
 Note to Subdivision (d). This rule is a restatement of existing law and practice, Mackett v. United States, 90 F.2d 462, 465 (C.C.A. 7th); Bruce v. Chestnut Farms Chevy Chase Dairy, 126 F.2d 224, App.D.C.
-
-Cross References
-
-Amendment of information before verdict, see rule 7.
-
-Canal Zone, application of rules governing proceedings after verdict of guilty, see rule 54.
-
-Criminal contempt, verdict of guilty, see rule 42.
-
-Directed verdict, motion for abolished, see rule 29.
-
-Disability of judge after verdict, see rule 25.
-
-Judgment, setting forth verdict, see rule 32.
-
-Judgment of acquittal, before or after verdict, see rule 29.
-
-Jurors, stipulation for number less than twelve before verdict, see rule 23.
-
-New trial—
-
-No verdict returned, see rule 29.
-
-Time for motion, see rule 33.
-
-Objections to instructions, before retirement of jury to consider verdict, see rule 30.
-
-Presence of defendant, return of verdict, see rule 43.
-
-Rules of Procedure—
-
-Power of Supreme Court to prescribe, see section 2072 of Title 28, Judiciary and Judicial Procedure.
-
-Setting aside verdict of guilty, new trial or entry of judgment of acquittal, see rule 29.
 
 VII. JUDGMENT
 
@@ -4558,10 +4253,7 @@ If the defendant is found not guilty or for any other reason is entitled to be d
 The judgment must be signed by the judge and entered by the clerk.
 
 (2) Criminal Forfeiture.
-If a verdict contains a finding that property is subject to a criminal forfeiture, or if a defendant enters a guilty plea subjecting property to such forfeiture, the court may enter a preliminary order of forfeiture after providing notice to the defendant and a reasonable opportunity to be heard on the timing and form of the order.
-The order of forfeiture shall authorize the Attorney General to seize the property subject to forfeiture, to conduct any discovery that the court considers proper to help identify, locate, or dispose of the property, and to begin proceedings consistent with any statutory requirements pertaining to ancillary hearings and the rights of third parties.
-At sentencing, a final order of forfeiture shall be made part of the sentence and included in the judgment.
-The court may include in the final order such conditions as may be reasonably necessary to preserve the value of the property pending any appeal.
+Forfeiture procedures are governed by Rule 32.2.
 
 (e) Plea Withdrawal.
 If a motion to withdraw a plea of guilty or nolo contendere is made before sentence is imposed, the court may permit the plea to be withdrawn if the defendant shows any fair and just reason.
@@ -4590,7 +4282,8 @@ Dec. 1, 1989; Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 1994, eff.
 Dec. 1, 1994; Pub. L. 103–322, title XXIII, §230101(b), Sept. 13, 1994, 108 Stat. 2078; Apr. 23, 1996, eff.
-Dec. 1, 1996; Pub. L. 104–132, title II, §207(a), Apr. 24, 1996, 110 Stat. 1236.)
+Dec. 1, 1996; Pub. L. 104–132, title II, §207(a), Apr. 24, 1996, 110 Stat. 1236; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4683,24 +4376,6 @@ Subdiv. (c)(2). Pub. L. 97–291 substituted provision directing that the presen
 
 Pub. L. 94–64 amended subds. (a)(1) and (c)(1), (3)(A), (D) generally.
 
-Cross References
-
-Appeal as stay of sentence, see rule 38.
-
-Correction of sentence, see rule 35.
-
-Criminal contempt, punishment for, see rule 42.
-
-Expenses of execution of sentence, payments, see section 4007 of this title.
-
-Motions attacking sentence, vacating, setting aside or correcting, see section 2255 of Title 28, Judiciary and Judicial Procedure.
-
-Presence of defendant, imposition of sentence, see rule 43.
-
-Reduction of sentence, generally, see rule 35.
-
-Sentences, see section 3551 et seq. of this title.
-
 Rule 32.1. Revocation or Modification of Probation or Supervised Release
 
 (a) Revocation of Probation or Supervised Release.
@@ -4713,7 +4388,7 @@ The person shall be given
 
 (B) an opportunity to appear at the hearing and present evidence in the person's own behalf;
 
-(C) upon request, the opportunity to question witnesses against the person unless, for good cause, the federal magistrate decides that justice does not require the appearance of the witness; and
+(C) upon request, the opportunity to question witnesses against the person unless, for good cause, the federal magistrate 1 decides that justice does not require the appearance of the witness; and
 
 (D) notice of the person's right to be represented by counsel.
 
@@ -4826,6 +4501,73 @@ Probably should be “magistrate judge”.
 2 So in original.
 Probably should be “probable”.
 
+Rule 32.2. Criminal Forfeiture
+
+(a) Notice to the Defendant.
+A court shall not enter a judgment of forfeiture in a criminal proceeding unless the indictment or information contains notice to the defendant that the government will seek the forfeiture of property as part of any sentence in accordance with the applicable statute.
+
+(b) Entry of Preliminary Order of Forfeiture; Post Verdict Hearing.
+
+(1) As soon as practicable after entering a guilty verdict or accepting a plea of guilty or nolo contendere on any count in an indictment or information with regard to which criminal forfeiture is sought, the court shall determine what property is subject to forfeiture under the applicable statute.
+If forfeiture of specific property is sought, the court shall determine whether the government has established the requisite nexus between the property and the offense.
+If the government seeks a personal money judgment against the defendant, the court shall determine the amount of money that the defendant will be ordered to pay.
+The court's determination may be based on evidence already in the record, including any written plea agreement or, if the forfeiture is contested, on evidence or information presented by the parties at a hearing after the verdict or finding of guilt.
+
+(2) If the court finds that property is subject to forfeiture, it shall promptly enter a preliminary order of forfeiture setting forth the amount of any money judgment or directing the forfeiture of specific property without regard to any third party's interest in all or part of it.
+Determining whether a third party has such an interest shall be deferred until any third party files a claim in an ancillary proceeding under Rule 32.2(c).
+
+(3) The entry of a preliminary order of forfeiture authorizes the Attorney General (or a designee) to seize the specific property subject to forfeiture; to conduct any discovery the court considers proper in identifying, locating, or disposing of the property; and to commence proceedings that comply with any statutes governing third-party rights.
+At sentencing—or at any time before sentencing if the defendant consents—the order of forfeiture becomes final as to the defendant and shall be made a part of the sentence and included in the judgment.
+The court may include in the order of forfeiture conditions reasonably necessary to preserve the property's value pending any appeal.
+
+(4) Upon a party's request in a case in which a jury returns a verdict of guilty, the jury shall determine whether the government has established the requisite nexus between the property and the offense committed by the defendant.
+
+(c) Ancillary Proceeding; Final Order of Forfeiture.
+
+(1) If, as prescribed by statute, a third party files a petition asserting an interest in the property to be forfeited, the court shall conduct an ancillary proceeding but no ancillary proceeding is required to the extent that the forfeiture consists of a money judgment.
+
+(A) In the ancillary proceeding, the court may, on motion, dismiss the petition for lack of standing, for failure to state a claim, or for any other lawful reason.
+For purposes of the motion, the facts set forth in the petition are assumed to be true.
+
+(B) After disposing of any motion filed under Rule 32.2(c)(1)(A) and before conducting a hearing on the petition, the court may permit the parties to conduct discovery in accordance with the Federal Rules of Civil Procedure if the court determines that discovery is necessary or desirable to resolve factual issues.
+When discovery ends, a party may move for summary judgment under Rule 56 of the Federal Rules of Civil Procedure.
+
+(2) When the ancillary proceeding ends, the court shall enter a final order of forfeiture by amending the preliminary order as necessary to account for any third-party rights.
+If no third party files a timely claim, the preliminary order becomes the final order of forfeiture, if the court finds that the defendant (or any combination of defendants convicted in the case) had an interest in the property that is forfeitable under the applicable statute.
+The defendant may not object to the entry of the final order of forfeiture on the ground that the property belongs, in whole or in part, to a codefendant or third party, nor may a third party object to the final order on the ground that the third party had an interest in the property.
+
+(3) If multiple third-party petitions are filed in the same case, an order dismissing or granting one petition is not appealable until rulings are made on all petitions, unless the court determines that there is no just reason for delay.
+
+(4) An ancillary proceeding is not part of sentencing.
+
+(d) Stay Pending Appeal.
+If a defendant appeals from a conviction or order of forfeiture, the court may stay the order of forfeiture on terms appropriate to ensure that the property remains available pending appellate review.
+A stay does not delay the ancillary proceeding or the determination of a third party's rights or interests.
+If the court rules in favor of any third party while an appeal is pending, the court may amend the order of forfeiture but shall not transfer any property interest to a third party until the decision on appeal becomes final, unless the defendant consents in writing or on the record.
+
+(e) Subsequently Located Property; Substitute Property.
+
+(1) On the government's motion, the court may at any time enter an order of forfeiture or amend an existing order of forfeiture to include property that:
+
+(A) is subject to forfeiture under an existing order of forfeiture but was located and identified after that order was entered; or
+
+(B) is substitute property that qualifies for forfeiture under an applicable statute.
+
+(2) If the government shows that the property is subject to forfeiture under Rule 32.2(e)(1), the court shall:
+
+(A) enter an order forfeiting that property, or amend an existing preliminary or final order to include it; and
+
+(B) if a third party files a petition claiming an interest in the property, conduct an ancillary proceeding under Rule 32.2(c).
+
+(3) There is no right to trial by jury under Rule 32.2(e).
+
+(Added Apr. 17, 2000, eff.
+Dec. 1, 2000.)
+
+References in Text
+
+The Federal Rules of Civil Procedure, referred to in subsec. (c)(1)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
 Rule 33. New Trial
 
 On a defendant's motion, the court may grant a new trial to that defendant if the interests of justice so require.
@@ -4845,18 +4587,6 @@ This rule enlarges the time limit for motions for new trial on the ground of new
 Otherwise, it substantially continues existing practice.
 See Rule II of the Criminal Appeals Rules of 1933, 292 U.S. 661. Cf. Rule 59(a) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix].
 
-Cross References
-
-Acquittal, alternative on renewal of motion for, see rule 29.
-
-Enlargement of time for action not permitted, see rule 45.
-
-Judges, disability after verdict or finding of guilt, see rule 25.
-
-Remedies on motion attacking sentence of prisoner in Federal custody, see section 2255 of Title 28, Judiciary and Judicial Procedure.
-
-Several defendants, inability of jury to agree as to verdict, see rule 31.
-
 Rule 34. Arrest of Judgment
 
 The court on motion of a defendant shall arrest judgment if the indictment or information does not charge an offense or if the court was without jurisdiction of the offense charged.
@@ -4869,10 +4599,6 @@ Notes of Advisory Committee on Rules—1944
 
 This rule continues existing law except that it enlarges the time for making motions in arrest of judgment from 3 days to 5 days.
 See Rule II (2) of Criminal Appeals Rules of 1933, 292 U.S.C. 661.
-
-Cross References
-
-Enlargement of time not permitted for motion under this rule, see rule 45.
 
 Rule 35. Correction or Reduction of Sentence
 
@@ -4943,16 +4669,6 @@ Authority To Lower a Sentence Below Statutory Minimum for Old Offenses
 
 Subd. (b) of this rule as amended by section 215(b) of Pub. L. 98–473 and subd. (b) of this rule as in effect before the taking effect of the initial set of guidelines promulgated by the United States Sentencing Commission pursuant to chapter 58 (§991 et seq.) of Title 28, Judiciary and Judicial Procedure, applicable in the case of an offense committed before the taking effect of such guidelines notwithstanding section 235 of Pub. L. 98–473, see section 24 of Pub. L. 100–182, set out as a note under section 3553 of this title.
 
-Cross References
-
-Enlargement of time not permitted for motion under this rule, see rule 45.
-
-Expiration of term of court affecting power to act, see rule 45.
-
-Presence of defendant, necessity of, see rule 43.
-
-Remedies on motion attacking sentence while in Federal custody, see section 2255 of Title 28, Judiciary and Judicial Procedure.
-
 Rule 36. Clerical Mistakes
 
 Clerical mistakes in judgments, orders or other parts of the record and errors in the record arising from oversight or omission may be corrected by the court at any time and after such notice, if any, as the court orders.
@@ -4961,14 +4677,6 @@ Notes of Advisory Committee on Rules—1944
 
 This rule continues existing law.
 Rupinski v. United States, 4 F.2d 17 (C.C.A. 6th). The rule is similar to Rule 60(a) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix].
-
-Federal Rules of Civil Procedure
-
-Correction of clerical mistakes, see rule 60, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Cross References
-
-Remedies on motion attacking sentence while in Federal custody, see section 2255 of Title 28, Judiciary and Judicial Procedure.
 
 [VIII. APPEAL] (Abrogated Dec. 4, 1967, eff.
 July 1, 1968)
@@ -4997,8 +4705,8 @@ The court may require the defendant pending appeal to deposit the whole or any p
 A sentence of probation may be stayed if an appeal from the conviction or sentence is taken.
 If the sentence is stayed, the court shall fix the terms of the stay.
 
-(e) Criminal Forfeiture, Notice to Victims, and Restitution.
-A sanction imposed as part of the sentence pursuant to 18 U.S.C. 3554, 3555, or 3556 may, if an appeal of the conviction or sentence is taken, be stayed by the district court or by the court of appeals upon such terms as the court finds appropriate.
+(e) Notice to Victims and Restitution.
+A sanction imposed as part of the sentence pursuant to 18 U.S.C. 3555 or 3556 may, if an appeal of the conviction or sentence is taken, be stayed by the district court or by the court of appeals upon such terms as the court finds appropriate.
 The court may issue such orders as may be reasonably necessary to ensure compliance with the sanction upon disposition of the appeal, including the entering of a restraining order or an injunction or requiring a deposit in whole or in part of the monetary amount involved into the registry of the district court or execution of a performance bond.
 
 (f) Disabilities.
@@ -5010,7 +4718,8 @@ Jan. 1, 1949; Feb. 28, 1966, eff.
 July 1, 1966; Dec. 4, 1967, eff.
 July 1, 1968; Apr. 24, 1972, eff.
 Oct. 1, 1972; Pub. L. 98–473, title II, §215(c), Oct. 12, 1984, 98 Stat. 2016; Mar. 9, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -5047,10 +4756,6 @@ If not stayed, the court shall specify when the term of probation shall commence
 If the order is stayed the court shall fix the terms of the stay.”
 
 Subds. (e), (f). Pub. L. 98–473, §215(c)(7), added subds. (e) and (f).
-
-Cross References
-
-Bail, generally, see rule 46.
 
 [Rule 39. Supervision of Appeal] (Abrogated Dec. 4, 1967, eff.
 July 1, 1968)
@@ -5150,12 +4855,6 @@ Subd. (f). Pub. L. 98–473, §209(c), substituted “Release or Detention” fo
 Subd. (d)(1). Pub. L. 96–42, §1(2)(A), struck out “in accordance with Rule 32.1(a)” after “Proceed in”.
 
 Subd. (d)(2). Pub. L. 96–42, §1(2)(B), struck out “in accordance with Rule 32.1(a)(1)” after “Hold a prompt preliminary hearing”.
-
-Cross References
-
-Habeas corpus, no right of appeal from detention pending removal proceedings, see section 2253 of Title 28, Judiciary and Judicial Procedure.
-
-Warrant for removal of prisoner from one district to another, see section 3049 of this title.
 
 Rule 41. Search and Seizure
 
@@ -5318,63 +5017,6 @@ U.S.C., Title 49:
 
  Section 784 (Application of related laws)
 
-Cross References
-
-Assault on persons authorized to serve or execute warrant, see section 2231 of this title.
-
-Conveyances carrying liquor, see section 3669 of this title.
-
-Counterfeiting, seizure of paraphernalia, see section 492 of this title.
-
-Deadly weapon, resistance with of person authorized to serve or execute warrant, see section 2231 of this title.
-
-Destruction of property to prevent seizure, penalty, see section 2232 of this title.
-
-Discovery and inspection of evidence obtained by seizure by defendant, see rule 16.
-
-False representation as officer and search by impersonator, see section 913 of this title.
-
-Federal Bureau of Investigation, service of warrants and seizures by, see section 3107 of this title.
-
-Indian liquor traffic violation, see section 3113 of this title.
-
-Intimidation or interference with person authorized to serve or execute warrant, see section 2231 of this title.
-
-Intoxicating liquors, containers and vehicles used in violation of law, see section 3667 of this title.
-
-Liquor law violations, remission or mitigation of forfeitures, see section 3668 of this title.
-
-Officers and employees of government, searches without warrant, see section 2236 of this title.
-
-Probable cause, procuring search warrant without, see section 2235 of this title.
-
-Removal of property to prevent seizure, penalty, see section 2232 of this title.
-
-Rescue of seized property, penalty, see section 2233 of this title.
-
-Resistance to person authorized to serve or execute warrant, see section 2231 of this title.
-
-Searches and seizures, see Const.
-Amend. 4.
-
-Vessels used as place of resort for persons conspiring to commit offense against United States, see section 2274 of this title.
-
-Violation of laws of United States, authority to make seizures under warrants, see section 3107 of this title.
-
-Warrants—
-
-Breaking doors or windows to execute, see section 3109 of this title.
-
-Offenses exceeding authority in executing, see section 2234 of this title.
-
-Persons authorized to serve, see section 3105 of this title.
-
-Procuring maliciously and without probable cause, see section 2235 of this title.
-
-Search without, federal officer, agent or employee, see section 2236 of this title.
-
-Wire or oral communications, authorization for interception, to provide evidence of certain offenses, see section 2516 of this title.
-
 Rule 42. Criminal Contempt
 
 (a) Summary Disposition.
@@ -5510,25 +5152,61 @@ Federal Rules of Civil Procedure:
 
  Rule 45 (Subpoena) subdivision (f) (Contempt)
 
+Taft-Hartley Injunctions
+
+Former section 112 of Title 29, Labor, upon which subd. (b) of this rule is in part based, as inapplicable to injunctions issued under the Taft-Hartley Act, see section 178 of said Title 29.
+
+X. GENERAL PROVISIONS
+
+Rule 43. Presence of the Defendant
+
+(a) Presence Required.
+The defendant shall be present at the arraignment, at the time of the plea, at every stage of the trial including the impaneling of the jury and the return of the verdict, and at the imposition of sentence, except as otherwise provided by this rule.
+
+(b) Continued Presence Not Required.
+The further progress of the trial to and including the return of the verdict, and the imposition of sentence, will not be prevented and the defendant will be considered to have waived the right to be present whenever a defendant, initially present at trial, or having pleaded guilty or nolo contendere,
+
+(1) is voluntarily absent after the trial has commenced (whether or not the defendant has been informed by the court of the obligation to remain during the trial),
+
+(2) in a noncapital case, is voluntarily absent at the imposition of sentence, or
+
+(3) after being warned by the court that disruptive conduct will cause the removal of the defendant from the courtroom, persists in conduct which is such as to justify exclusion from the courtroom.
+
+(c) Presence Not Required.
+A defendant need not be present:
+
+(1) when represented by counsel and the defendant is an organization, as defined in 18 U.S.C. §18;
+
+(2) when the offense is punishable by fine or by imprisonment for not more than one year or both, and the court, with the written consent of the defendant, permits arraignment, plea, trial, and imposition of sentence in the defendant's absence;
+
+(3) when the proceeding involves only a conference or hearing upon a question of law; or
+
+(4) when the proceeding involves a reduction or correction of sentence under Rule 35(b) or (c) or 18 U.S.C. §3582(c).
+
+(As amended Apr. 22, 1974, eff.
+Dec. 1, 1975; Pub. L. 94–64, §3(35), July 31, 1975, 89 Stat. 376; Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 27, 1995, eff.
+Dec. 1, 1995; Apr. 24, 1998, eff.
+Dec. 1, 1998.)
+
+Notes of Advisory Committee on Rules—1944
+
+1. The first sentence of the rule setting forth the necessity of the defendant's presence at arraignment and trial is a restatement of existing law, Lewis v. United States, 146 U.S. 370; Diaz v. United States, 223 U.S. 442, 455. This principle does not apply to hearings on motions made prior to or after trial, United States v. Lynch, 132 F.2d 111 (C.C.A. 3d).
+
+2. The second sentence of the rule is a restatement of existing law that, except in capital cases, the defendant may not defeat the proceedings by voluntarily absenting himself after the trial has been commenced in his presence, Diaz v. United States, 223 U.S. 442, 455; United States v. Noble, 294 F. 689 (D.Mont.)—affirmed, 300 F. 689 (C.C.A. 9th); United States v. Barracota, 45 F.Supp. 38 (S.D.N.Y.); United States v. Vassalo, 52 F.2d 699 (E.D.Mich.).
+
+3. The fourth sentence of the rule empowering the court in its discretion, with the defendant's written consent, to conduct proceedings in misdemeanor cases in defendant's absence adopts a practice prevailing in some districts comprising very large areas.
+In such districts appearance in court may require considerable travel, resulting in expense and hardship not commensurate with the gravity of the charge, if a minor infraction is involved and a small fine is eventually imposed.
+The rule, which is in the interest of defendants in such situations, leaves it discretionary with the court to permit defendants in misdemeanor cases to absent themselves and, if so, to determine in what types of misdemeanors and to what extent.
+Similar provisions are found in the statutes of a number of States.
+See A.L.I. Code of Criminal Procedure, pp. 881–882.
+
+4. The purpose of the last sentence of the rule is to resolve a doubt that at times has arisen as to whether it is necessary to bring the defendant to court from an institution in which he is confined, possibly at a distant point, if the court determines to reduce the sentence previously imposed.
+It seems in the interest of both the Government and the defendant not to require such presence, because of the delay and expense that are involved.
+
 1975 Amendment
 
 Pub. L. 94–62 amended subd. (b)(2) generally.
-
-Cross References
-
-Arraignment, see rule 10.
-
-Correction or reduction of sentence, see rule 35.
-
-Impaneling of jury, see sections 1861 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Motion for new trial, see rule 33.
-
-Motions prior to trial, see rules 6 and 12.
-
-Pleas, see rule 11.
-
-Sentence, see rule 32.
 
 Rule 44. Right to and Assignment of Counsel
 
@@ -5570,19 +5248,6 @@ See, also, Holtzoff, 20 N.Y.U.L.Q.R. 1.
 2. The rule is intended to indicate that the right of the defendant to have counsel assigned by the court relates only to proceedings in court and, therefore, does not include preliminary proceedings before a committing magistrate.
 Although the defendant is not entitled to have counsel assigned to him in connection with preliminary proceedings, he is entitled to be represented by counsel retained by him, if he so chooses, Rule 5(b) (Proceedings before the Commissioner; Statement by the Commissioner) and Rule 40(b)(2) (Commitment to Another District; Removal—Arrest in Distant District—Statement by Commissioner or Judge). As to defendant's right of counsel in connection with the taking of depositions, see Rule 15(c) (Depositions—Defendant's Counsel and Payment of Expenses).
 
-Cross References
-
-Appearance personally or by counsel, see section 1654 of Title 28, Judiciary and Judicial Procedure.
-
-Arrest in distant district, informing defendant of right to retain counsel, see rule 40.
-
-Assignment of counsel in treason or other capital offenses, see section 3005 of this title.
-
-Assistance of counsel, see Const.
-Amend. 6.
-
-Magistrate judge to inform defendant of right to retain counsel in preliminary examination, see rule 5.
-
 Rule 45. Time
 
 (a) Computation.
@@ -5622,22 +5287,6 @@ Note to Subdivision (a). This rule supersedes the method of computing time presc
 Note to Subdivision (c). This rule abolishes the expiration of a term of court as a time limitation for the taking of any step in a criminal proceeding, as is done for civil cases by Rule 6(c) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix]. In view of the fact that the duration of terms of court varies among the several districts and the further fact that the length of time for the taking of any step limited by a term of court depends on the stage within the term when the time begins to run, specific time limitations have been substituted for the taking of any step which previously had to be taken within the term of court.
 
 Note to Subdivision (d). Cf. Rule 47 (Motions) and Rule 49 (Service and filing of papers).
-
-Federal Rules of Civil Procedure
-
-Additional time after service by mail, see rule 6, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Computation of time, see rule 6.
-
-Enlargement of time, see rule 6.
-
-Time for motions and affidavits, see rule 6.
-
-Cross References
-
-Motions generally, see rule 47.
-
-Service and filing of papers, see rule 49.
 
 Rule 46. Release From Custody
 
@@ -5737,30 +5386,6 @@ Subd. (e)(2). Pub. L. 98–473, §209(d)(3), substituted “be set aside in whol
 
 Subd. (h). Pub. L. 98–473, §209(d)(4), added subd. (h).
 
-Cross References
-
-Appeal, stay of sentence of imprisonment, see rule 38.
-
-Continuation of bail after granting motion to dismiss for defects in institution of prosecution or in indictment or information, pending filing of new indictment or information, see rule 12.
-
-Grand jury, secrecy of indictment until bail is given, see rule 6.
-
-Obstructing justice by false bail, see section 1506 of this title.
-
-Surety bonds—
-
-Government obligations instead of surety bonds, see section 9303 of Title 31, Money and Finance.
-
-Surety corporations as sureties, see sections 9304 to 9308 of Title 31.
-
-Transfer of proceedings from district or division for trial, transmission of bail, see rule 21.
-
-Witnesses—
-
-Appearance in criminal case, return to clerk of court, see section 3041 of this title.
-
-Direction for taking deposition when committed for failure to give bail to appear to testify at trial or hearing, see rule 15.
-
 Rule 47. Motions
 
 An application to the court for an order shall be by motion.
@@ -5776,52 +5401,6 @@ Notes of Advisory Committee on Rules—1944
 For particular provisions applying to specific motions, see Rules 6(b)(2), 12, 14, 15, 16, 17(b) and (c), 21, 22, 29 and Rule 41(e). See also Rule 49.
 
 3. The last sentence providing that a motion may be supported by affidavit is not intended to permit “speaking motions” (e.g. motion to dismiss an indictment for insufficiency supported by affidavits), but to authorize the use of affidavits when affidavits are appropriate to establish a fact (e.g. authority to take a deposition or former jeopardy).
-
-Federal Rules of Civil Procedure
-
-Affidavits on motions, see rules 6 and 43, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Motion day, see rule 78.
-
-Notice of motion, see rules 6 and 7.
-
-Cross References
-
-Motion for order—
-
-Arrest of judgment, see rule 34.
-
-Consolidation of indictments and informations, see rule 13.
-
-Correct or reduce sentence, see rule 35.
-
-Dismiss, see rules 6, 12, and 48.
-
-Enforcement of surety liability, see rule 46.
-
-Enlargement of time, see rule 45.
-
-Inspect and copy seized evidence, see rule 16.
-
-New trial, see rule 33.
-
-Notice of hearing, see rule 45.
-
-Quash or modify subpoena, see rule 17.
-
-Return of property and suppress evidence, see rule 41.
-
-Separate trial, see rule 14.
-
-Severance, see rule 14.
-
-Transfer of proceedings from district or division for trial, see rule 21.
-
-Time for—
-
-Making motion raising defenses and objections before trial, see rule 12.
-
-Motion to transfer proceedings, see rule 22.
 
 Rule 48. Dismissal
 
@@ -5851,10 +5430,6 @@ Cases No. 16, 279 (C.C.Ill.). If the trial has commenced, the defendant has a ri
 
 Note to Subdivision (b). This rule is a restatement of the inherent power of the court to dismiss a case for want of prosecution.
 Ex parte Altman, 34 F.Supp. 106 (S.D.Cal.).
-
-Federal Rules of Civil Procedure
-
-Dismissal for failure to prosecute by the plaintiff, see rule 41, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 Rule 49. Service and Filing of Papers
 
@@ -5899,22 +5474,6 @@ References in Text
 
 The Federal Rules of Appellate Procedure, referred to in subd. (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Federal Rules of Civil Procedure
-
-Notice of entry of judgments or orders, see rule 77, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Service and filing of papers, see rule 5.
-
-Cross References
-
-Affidavits used on motions, see rule 47.
-
-Application for order by motion, see rule 47.
-
-Enlargement of time for taking appeal not permitted, see rule 45.
-
-Service of notice of motion and affidavits, see rule 45.
-
 Rule 50. Calendars; Plans for Prompt Disposition
 
 (a) Calendars.
@@ -5935,12 +5494,6 @@ Notes of Advisory Committee on Rules—1944
 This rule is a restatement of the inherent residual power of the court over its own calendars, although as a matter of practice in most districts the assignment of criminal cases for trial is handled by the United States attorney.
 Cf. Federal Rules of Civil Procedure, Rules 40 and 78 [28 U.S.C., Appendix]. The direction that preference shall be given to criminal proceedings as far as practicable is generally recognized as desirable in the orderly administration of justice.
 
-Federal Rules of Civil Procedure
-
-Court calendars for jury and non-jury actions, see rule 79, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Trial calendar, see rule 40.
-
 Rule 51. Exceptions Unnecessary
 
 Exceptions to rulings or orders of the court are unnecessary and for all purposes for which an exception has heretofore been necessary it is sufficient that a party, at the time the ruling or order of the court is made or sought, makes known to the court the action which that party desires the court to take or that party's objection to the action of the court and the grounds therefor; but if a party has no opportunity to object to a ruling or order, the absence of an objection does not thereafter prejudice that party.
@@ -5958,18 +5511,6 @@ See, e.g., Cal.Pen.
 Code (Deering, 1941), sec. 1259; Mich.Stat.Ann. (Henderson, 1938), secs. 28.1046, 28.1053; Ohio Gen Code Ann. (Page, 1938), secs. 11560, 13442–7; Oreg.Comp.
 Laws Ann. (1940), secs. 5–704, 26–1001.
 
-Federal Rules of Civil Procedure
-
-Exceptions unnecessary, see rule 46, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Objections to instructions to jury, see rule 51.
-
-Cross References
-
-Notice of plain errors or defects affecting substantial right by appellate courts, see rule 52.
-
-Objections to instructions to jury, see rule 30.
-
 Rule 52. Harmless Error and Plain Error
 
 (a) Harmless Error.
@@ -5984,14 +5525,6 @@ Note to Subdivision (a). This rule is a restatement of existing law, 28 U.S.C. [
 
 Note to Subdivision (b). This rule is a restatement of existing law, Wiborg v. United States, 163 U.S. 632, 658; Hemphill v. United States, 112 F.2d 505 (C.C.A. 9th), reversed 312 U.S. 657. Rule 27 of the Rules of the Supreme Court [28 U.S.C., Appendix] provides that errors not specified will be disregarded, “save as the court, at its option, may notice a plain error not assigned or specified.” Similar provisions are found in the rules of several circuit courts of appeals.
 
-Federal Rules of Civil Procedure
-
-Harmless error, civil proceedings, see rule 61, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Cross References
-
-Harmless error, appellate courts, see section 2111 of Title 28, Judiciary and Judicial Procedure.
-
 Rule 53. Regulation of Conduct in the Court Room
 
 The taking of photographs in the court room during the progress of judicial proceedings or radio broadcasting of judicial proceedings from the court room shall not be permitted by the court.
@@ -5999,10 +5532,6 @@ The taking of photographs in the court room during the progress of judicial proc
 Notes of Advisory Committee on Rules—1944
 
 While the matter to which the rule refers has not been a problem in the Federal courts as it has been in some State tribunals, the rule was nevertheless included with a view to giving expression to a standard which should govern the conduct of judicial proceedings, Orfield, 22 Texas L.R. 194, 222–3; Robbins, 21 A.B.A.Jour. 301, 304. See, also, Report of the Special Committee on Cooperation between Press, Radio and Bar, as to Publicity Interfering with Fair Trial of Judicial and Quasi-Judicial Proceedings (1937), 62 A.B.A.Rep. 851, 862–865; (1932) 18 A.B.A.Jour. 762; (1926) 12 Id. 488; (1925) 11 Id. 64.
-
-Cross References
-
-Power of court to punish for contempt, see section 401 of this title.
 
 Rule 54. Application and Exception
 
@@ -6412,30 +5941,6 @@ Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-Federal Rules of Civil Procedure
-
-Applicability in general, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Scope of rules, see rule 1.
-
-Cross References
-
-Extradition proceedings, see section 3181 et seq. of this title.
-
-Minor offense proceedings before United States magistrate judges, see sections 3401 and 3402 of this title.
-
-Motions substituted for pleas, see rule 12.
-
-Power of state magistrates to commit persons for Federal offenses, see section 3041 of this title.
-
-Power of Supreme Court to prescribe rules of criminal procedure, see section 2072 of Title 28, Judiciary and Judicial Procedure.
-
-Proceedings relating to juvenile delinquents, see section 5031 et seq. of this title.
-
-Removal of State criminal proceedings against certain Federal officers to district courts, see section 1442 of Title 28, Judiciary and Judicial Procedure.
-
-Scope of rules, generally, see rule 1.
-
 Rule 55. Records
 
 The clerk of the district court and each United States magistrate judge shall keep records in criminal proceedings in such form as the Director of the Administrative Office of the United States Courts may prescribe.
@@ -6452,10 +5957,6 @@ Notes of Advisory Committee on Rules—1944
 
 The Federal Rules of Civil Procedure Rule 79 [28 U.S.C., Appendix], prescribed in detail the books and records to be kept by the clerk in civil cases.
 Subsequently to the effective date of the civil rules, however, the Act establishing the Administrative Office of the United States Courts became law (Act of August 7, 1939; 53 Stat. 1223; 28 U.S.C. 444–450 [now 332–333, 456, 601–610]). One of the duties of the Director of that Office is to have charge, under the supervision and direction of the Conference of Senior Circuit Judges, of all administrative matters relating to the offices of the clerks and other clerical and administrative personnel of the courts, 28 U.S.C. 446 [now 604, 609]. In view of this circumstance it seemed best not to prescribe the records to be kept by the clerks of the district courts and by the United States commissioners, in criminal proceedings, but to vest the power to do so in the Director of the Administrative Office of the United States Courts with the approval of the Conference of Senior Circuit Judges.
-
-Cross References
-
-Supervisory duties of Director of Administrative Office of the United States Courts, see section 604 of Title 28, Judiciary and Judicial Procedure.
 
 Rule 56. Courts and Clerks
 
@@ -6478,14 +5979,6 @@ Notes of Advisory Committee on Rules—1944
 3. The second sentence of the rule is identical with the first sentence of Rule 77(c) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix].
 
 4. The term “legal holidays” includes Federal holidays as well as holidays prescribed by the laws of the State where the clerk's office is located.
-
-Federal Rules of Civil Procedure
-
-District courts always open, see rule 77, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Cross References
-
-Courts always open, see section 452 of Title 28, Judiciary and Judicial Procedure.
 
 Rule 57. Rules by District Courts
 
@@ -6520,20 +6013,6 @@ The Federal Rules of Civil Procedure [28 U.S.C., Appendix] have been held to rep
 
 2. While the rules are intended to constitute a comprehensive procedural code for criminal cases in the Federal courts, nevertheless it seemed best not to endeavor to prescribe a uniform practice as to some matters of detail, but to leave the individual courts free to regulate them, either by local rules or by usage.
 Among such matters are the mode of impaneling a jury, the manner and order of interposing challenges to jurors, the manner of selecting the foreman of a trial jury, the matter of sealed verdicts, the order of counsel's arguments to the jury, and other similar details.
-
-Federal Rules of Civil Procedure
-
-Local rules not inconsistent with court rules, see rule 83, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Cross References
-
-Administrative Office of United States courts, see section 601 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Appeal rules in criminal codes, see various rules of courts of appeals.
-
-Local rules of criminal procedures, see various local rules of district courts.
-
-Rule-making power generally, see section 2071 of Title 28, Judiciary and Judicial Procedure.
 
 Rule 58. Procedure for Misdemeanors and Other Petty Offenses
 
@@ -6724,10 +6203,6 @@ Notes of Advisory Committee on Rules—1944
 
 This rule is based on Act of June 29, 1940 (54 Stat. 688; 18 U.S.C. 687 [now 3771]). It is substantially the same as Rule 86 of the Federal Rules of Civil Procedure [28 U.S.C., Appendix].
 
-Federal Rules of Civil Procedure
-
-Effective date, see rule 86, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 Rule 60. Title
 
 These rules may be known and cited as the Federal Rules of Criminal Procedure.
@@ -6741,10 +6216,6 @@ Notes of Advisory Committee on Rules—1944
 This rule is similar to Rule 85 of the Federal Rules of Civil Procedure [28 U.S.C., Appendix], which reads as follows:
 
 These rules may be known and cited as the Federal Rules of Civil Procedure.
-
-Federal Rules of Civil Procedure
-
-Title, see rule 85, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 __________
 

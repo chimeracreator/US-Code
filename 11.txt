@@ -178,7 +178,15 @@ In this title—
 
 (D) with respect to any insured depository institution for which the Federal Deposit Insurance Corporation has been appointed conservator or receiver, the Federal Deposit Insurance Corporation;
 
-(22) “financial institution” means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;
+(22) the term “financial institution”—
+
+(A) means—
+
+(i) a Federal reserve bank or an entity (domestic or foreign) that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, or receiver or conservator for such entity and, when any such Federal reserve bank, receiver, conservator, or entity is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, the customer; or
+
+(ii) in connection with a securities contract, as defined in section 741 of this title, an investment company registered under the Investment Company Act of 1940; and
+
+(B) includes any person described in subparagraph (A) which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991;
 
 (23) “foreign proceeding” means proceeding, whether judicial or administrative and whether or not under bankruptcy law, in a foreign country in which the debtor's domicile, residence, principal place of business, or principal assets were located at the commencement of such proceeding, for the purpose of liquidating an estate, adjusting debts by composition, extension, or discharge, or effecting a reorganization;
 
@@ -429,9 +437,11 @@ A “timeshare interest” is that interest purchased in a timeshare plan which 
 
 (54) “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the debtor's equity of redemption;
 
+(54A) the term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation; and
+
 (55) “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States;
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) [title I, §112(c)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394.)
 
 Historical and Revision Notes
 
@@ -653,7 +663,12 @@ A deposit in a bank account or similar account is a transfer.
 
 References in Text
 
-Section 3 of the Federal Deposit Insurance Act, referred to in pars. (21B)(A), (33)(A), and (35)(A), is classified to section 1813 of Title 12, Banks and Banking.
+Section 3 of the Federal Deposit Insurance Act, referred to in pars. (21B)(A), (33)(A), (35)(A), and (54A), is classified to section 1813 of Title 12, Banks and Banking.
+
+The Investment Company Act of 1940, referred to in par. (22)(A)(ii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade.
+For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22)(B), is classified to section 4422 of Title 12, Banks and Banking.
 
 Sections 101(7) and 206(r) of the Federal Credit Union Act, referred to in pars. (33)(B) and (34), are classified to sections 1752(7) and 1786(r), respectively, of Title 12.
 
@@ -809,17 +824,19 @@ When an item is specified in the plural, the plural is intended.
 
 (d) Subchapter IV of chapter 7 of this title applies only in a case under such chapter concerning a commodity broker.
 
-(e) Except as provided in section 901 of this title, only chapters 1 and 9 of this title apply in a case under such chapter 9.
+(e) Scope of Application.—Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
-(f) Except as provided in section 901 of this title, subchapters I, II, and III of chapter 11 of this title apply only in a case under such chapter.
+(f) Except as provided in section 901 of this title, only chapters 1 and 9 of this title apply in a case under such chapter 9.
 
-(g) Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
+(g) Except as provided in section 901 of this title, subchapters I, II, and III of chapter 11 of this title apply only in a case under such chapter.
 
-(h) Chapter 13 of this title applies only in a case under such chapter.
+(h) Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
 
-(i) Chapter 12 of this title applies only in a case under such chapter.
+(i) Chapter 13 of this title applies only in a case under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, §2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §252, Oct. 27, 1986, 100 Stat. 3104.)
+(j) Chapter 12 of this title applies only in a case under such chapter.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, §2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §252, Oct. 27, 1986, 100 Stat. 3104; Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
 
 Historical and Revision Notes
 
@@ -828,6 +845,13 @@ senate report no. 95–989
 Section 103 prescribes which chapters of the proposed bankruptcy code apply in various cases.
 All cases, other than cases ancillary to foreign proceedings, are filed under chapter 7, 9, 11, or 13, the operative chapters of the proposed bankruptcy code.
 The general provisions that apply no matter which chapter a case is filed under are found in chapters 1, 3, and 5. Subsection (a) makes this explicit, with an exception for chapter 9. The other provisions, which are self-explanatory, provide the special rules for Stockbroker Liquidations, Commodity Broker Liquidations, Municipal Debt Adjustments, and Railroad Reorganizations.
+
+References in Text
+
+Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking.
+For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), is classified to section 4422 of Title 12, Banks and Banking.
 
 Section Referred to in Other Sections
 
@@ -872,6 +896,10 @@ Instead, Congress is required to take affirmative action, by passing a law amend
 
 If the Judicial Conference has policy recommendations concerning the appropriate dollar amounts in the bankruptcy code based other than on cost of living considerations there are adequate channels through which it may communicate its views.
 This section is solely for the housekeeping function of maintaining the dollar amounts in the code at fairly constant real dollar levels.
+
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (a) of this section is listed on page 12), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 Adjustment of Dollar Amounts
 
@@ -1098,7 +1126,7 @@ This section is referred to in section 106 of this title.
 
 (1) a railroad;
 
-(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a small business investment company licensed by the Small Business Administration under subsection (c) or (d) 1 of section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act; or
+(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under subsection (c) or (d) 1 of section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
 (3) a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.
 
@@ -1120,7 +1148,7 @@ This section is referred to in section 106 of this title.
 
 (D) reasonably believes that a creditor may attempt to obtain a transfer that is avoidable under section 547 of this title.
 
-(d) Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.
+(d) Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
 (e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.
 
@@ -1132,7 +1160,7 @@ This section is referred to in section 106 of this title.
 
 (2) the debtor requested and obtained the voluntary dismissal of the case following the filing of a request for relief from the automatic stay provided by section 362 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) [title I, §112(c)(1), (2)], §1(a)(8) [§1(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665.)
 
 Historical and Revision Notes
 
@@ -1194,14 +1222,245 @@ However, if the partnership is found to be a partnership by agreement, even info
 
 References in Text
 
+Section 351 of the Small Business Investment Act of 1958, referred to in subsec. (b)(2), is classified to section 689 of Title 15, Commerce and Trade.
+
 Section 301 of the Small Business Investment Act of 1958, referred to in subsec. (b)(2), is classified to section 681 of Title 15, Commerce and Trade.
 Subsec. (d) of section 301 was repealed by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
 Section 3(h) of the Federal Deposit Insurance Act, referred to in subsec. (b)(2), is classified to section 1813(h) of Title 12, Banks and Banking.
 
+Section 25A of the Federal Reserve Act, referred to in subsecs. (b)(2) and (d), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking.
+For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), is classified to section 4422 of Title 12, Banks and Banking.
+
+Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (e) of this section by the Judicial Conference of the United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 104, 349, 921 of this title.
+
+1 See References in Text note below.
+
+§110. Penalty for persons who negligently or fraudulently prepare bankruptcy petitions
+
+(a) In this section—
+
+(1) “bankruptcy petition preparer” means a person, other than an attorney or an employee of an attorney, who prepares for compensation a document for filing; and
+
+(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
+
+(b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer's name and address.
+
+(2) A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.
+
+(c)(1) A bankruptcy petition preparer who prepares a document for filing shall place on the document, after the preparer's signature, an identifying number that identifies individuals who prepared the document.
+
+(2) For purposes of this section, the identifying number of a bankruptcy petition preparer shall be the Social Security account number of each individual who prepared the document or assisted in its preparation.
+
+(3) A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.
+
+(d)(1) A bankruptcy petition preparer shall, not later than the time at which a document for filing is presented for the debtor's signature, furnish to the debtor a copy of the document.
+
+(2) A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.
+
+(e)(1) A bankruptcy petition preparer shall not execute any document on behalf of a debtor.
+
+(2) A bankruptcy petition preparer may be fined not more than $500 for each document executed in violation of paragraph (1).
+
+(f)(1) A bankruptcy petition preparer shall not use the word “legal” or any similar term in any advertisements, or advertise under any category that includes the word “legal” or any similar term.
+
+(2) A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).
+
+(g)(1) A bankruptcy petition preparer shall not collect or receive any payment from the debtor or on behalf of the debtor for the court fees in connection with filing the petition.
+
+(2) A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).
+
+(h)(1) Within 10 days after the date of the filing of a petition, a bankruptcy petition preparer shall file a declaration under penalty of perjury disclosing any fee received from or on behalf of the debtor within 12 months immediately prior to the filing of the case, and any unpaid fee charged to the debtor.
+
+(2) The court shall disallow and order the immediate turnover to the bankruptcy trustee of any fee referred to in paragraph (1) found to be in excess of the value of services rendered for the documents prepared.
+An individual debtor may exempt any funds so recovered under section 522(b).
+
+(3) The debtor, the trustee, a creditor, or the United States trustee may file a motion for an order under paragraph (2).
+
+(4) A bankruptcy petition preparer shall be fined not more than $500 for each failure to comply with a court order to turn over funds within 30 days of service of such order.
+
+(i)(1) If a bankruptcy case or related proceeding is dismissed because of the failure to file bankruptcy papers, including papers specified in section 521(1) of this title, the negligence or intentional disregard of this title or the Federal Rules of Bankruptcy Procedure by a bankruptcy petition preparer, or if a bankruptcy petition preparer violates this section or commits any fraudulent, unfair, or deceptive act, the bankruptcy court shall certify that fact to the district court, and the district court, on motion of the debtor, the trustee, or a creditor and after a hearing, shall order the bankruptcy petition preparer to pay to the debtor—
+
+(A) the debtor's actual damages;
+
+(B) the greater of—
+
+(i) $2,000; or
+
+(ii) twice the amount paid by the debtor to the bankruptcy petition preparer for the preparer's services; and
+
+(C) reasonable attorneys’ fees and costs in moving for damages under this subsection.
+
+(2) If the trustee or creditor moves for damages on behalf of the debtor under this subsection, the bankruptcy petition preparer shall be ordered to pay the movant the additional amount of $1,000 plus reasonable attorneys’ fees and costs incurred.
+
+(j)(1) A debtor for whom a bankruptcy petition preparer has prepared a document for filing, the trustee, a creditor, or the United States trustee in the district in which the bankruptcy petition preparer resides, has conducted business, or the United States trustee in any other district in which the debtor resides may bring a civil action to enjoin a bankruptcy petition preparer from engaging in any conduct in violation of this section or from further acting as a bankruptcy petition preparer.
+
+(2)(A) In an action under paragraph (1), if the court finds that—
+
+(i) a bankruptcy petition preparer has—
+
+(I) engaged in conduct in violation of this section or of any provision of this title a violation of which subjects a person to criminal penalty;
+
+(II) misrepresented the preparer's experience or education as a bankruptcy petition preparer; or
+
+(III) engaged in any other fraudulent, unfair, or deceptive conduct; and
+
+(ii) injunctive relief is appropriate to prevent the recurrence of such conduct,
+
+the court may enjoin the bankruptcy petition preparer from engaging in such conduct.
+
+(B) If the court finds that a bankruptcy petition preparer has continually engaged in conduct described in subclause (I), (II), or (III) of clause (i) and that an injunction prohibiting such conduct would not be sufficient to prevent such person's interference with the proper administration of this title, or has not paid a penalty imposed under this section, the court may enjoin the person from acting as a bankruptcy petition preparer.
+
+(3) The court shall award to a debtor, trustee, or creditor that brings a successful action under this subsection reasonable attorney's 1 fees and costs of the action, to be paid by the bankruptcy petition preparer.
+
+(k) Nothing in this section shall be construed to permit activities that are otherwise prohibited by law, including rules and laws that prohibit the unauthorized practice of law.
+
+(Added Pub. L. 103–394, title III, §308(a), Oct. 22, 1994, 108 Stat. 4135.)
+
+References in Text
+
+The Federal Rules of Bankruptcy Procedure, referred to in subsec. (i)(1), are set out in the Appendix to this title.
+
+Effective Date
+
+Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of this title.
+
+1 So in original.
+Probably should be “attorneys’ ”.
+
+CHAPTER 3—CASE ADMINISTRATION
+
+SUBCHAPTER I—COMMENCEMENT OF A CASE
+
+Sec.
+
+301.
+Voluntary cases.
+
+302.
+Joint cases.
+
+303.
+Involuntary cases.
+
+304.
+Cases ancillary to foreign proceedings.
+
+305.
+Abstention.
+
+306.
+Limited appearance.
+
+307.
+United States trustee.
+
+        
+
+SUBCHAPTER II—OFFICERS
+
+321.
+Eligibility to serve as trustee.
+
+322.
+Qualification of trustee.
+
+323.
+Role and capacity of trustee.
+
+324.
+Removal of trustee or examiner.
+
+325.
+Effect of vacancy.
+
+326.
+Limitation on compensation of trustee.
+
+327.
+Employment of professional persons.
+
+328.
+Limitation on compensation of professional persons.
+
+329.
+Debtor's transactions with attorneys.
+
+330.
+Compensation of officers.
+
+331.
+Interim compensation.
+
+        
+
+SUBCHAPTER III—ADMINISTRATION
+
+341.
+Meetings of creditors and equity security holders.
+
+342.
+Notice.
+
+343.
+Examination of the debtor.
+
+344.
+Self-incrimination; immunity.
+
+345.
+Money of estates.
+
+346.
+Special tax provisions.
+
+347.
+Unclaimed property.
+
+348.
+Effect of conversion.
+
+349.
+Effect of dismissal.
+
+350.
+Closing and reopening cases.
+
+        
+
+SUBCHAPTER IV—ADMINISTRATIVE POWERS
+
+361.
+Adequate protection.
+
+362.
+Automatic stay.
+
+363.
+Use, sale, or lease of property.
+
+364.
+Obtaining credit.
+
+365.
+Executory contracts and unexpired leases.
+
+366.
+Utility service.
+
+        
+
 Chapter Referred to in Other Sections
 
-This chapter is referred to in section 103 of this title; title 15 section 78fff.
+This chapter is referred to in sections 103, 782 of this title; title 15 section 78fff.
 
 SUBCHAPTER I—COMMENCEMENT OF A CASE
 
@@ -1871,7 +2130,7 @@ This section is referred to in sections 330, 541 of this title.
 
 (2) The court may, on its own motion or on the motion of the United States Trustee, the United States Trustee for the District or Region, the trustee for the estate, or any other party in interest, award compensation that is less than the amount of compensation that is requested.
 
-(3)(A) In determining the amount of reasonable compensation to be awarded, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
+(3)(A) 1 In determining the amount of reasonable compensation to be awarded, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
 
 (A) the time spent on such services;
 
@@ -2000,6 +2259,8 @@ The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in s
 Section Referred to in Other Sections
 
 This section is referred to in sections 326, 331, 503, 1107, 1203 of this title; title 28 sections 586, 589a.
+
+1 So in original.
 
 §331. Interim compensation
 
@@ -3226,7 +3487,7 @@ Section 7A of the Clayton Act, referred to in subsec. (b)(2), is classified to s
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 106, 303, 361, 507, 541, 542, 552, 553, 557, 1110, 1111, 1129, 1168, 1205, 1206, 1303, 1304 of this title.
+This section is referred to in sections 106, 303, 361, 507, 541, 542, 552, 553, 557, 1111, 1129, 1205, 1206, 1303, 1304 of this title.
 
 §364. Obtaining credit
 
@@ -4944,9 +5205,11 @@ Such property is—
 
 (ii) not void under section 506(d) of this title; or
 
-(B) a tax lien, notice of which is properly filed; or
+(B) a tax lien, notice of which is properly filed;
 
-(3) a debt of a kind specified in section 523(a)(4) or 523(a)(6) of this title owed by an institution-affiliated party of an insured depository institution to a Federal depository institutions regulatory agency acting in its capacity as conservator, receiver, or liquidating agent for such institution.
+(3) a debt of a kind specified in section 523(a)(4) or 523(a)(6) of this title owed by an institution-affiliated party of an insured depository institution to a Federal depository institutions regulatory agency acting in its capacity as conservator, receiver, or liquidating agent for such institution; or
+
+(4) a debt in connection with fraud in the obtaining or providing of any scholarship, grant, loan, tuition, discount, award, or other financial assistance for purposes of financing an education at an institution of higher education (as that term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
 
 (d) The following property may be exempted under subsection (b)(1) of this section:
 
@@ -5075,7 +5338,7 @@ Unless a party in interest objects, the property claimed as exempt on such list 
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, §4, Nov. 1, 2000, 114 Stat. 1868.)
 
 Historical and Revision Notes
 
@@ -6185,6 +6448,44 @@ This section requires a custodian appointed before the bankruptcy case to delive
 The section requires the court to protect any obligations incurred by the custodian, provide for the payment of reasonable compensation for services rendered and costs and expenses incurred by the custodian, and to surcharge the custodian for any improper or excessive disbursement, unless it has been approved by a court of competent jurisdiction.
 Subsection (d) reinforces the general abstention policy in section 305 by permitting the bankruptcy court to authorize the custodianship to proceed notwithstanding this section.
 
+Section Referred to in Other Sections
+
+This section is referred to in sections 106, 349, 502, 503, 522, 541, 726 of this title.
+
+§544. Trustee as lien creditor and as successor to certain creditors and purchasers
+
+(a) The trustee shall have, as of the commencement of the case, and without regard to any knowledge of the trustee or of any creditor, the rights and powers of, or may avoid any transfer of property of the debtor or any obligation incurred by the debtor that is voidable by—
+
+(1) a creditor that extends credit to the debtor at the time of the commencement of the case, and that obtains, at such time and with respect to such credit, a judicial lien on all property on which a creditor on a simple contract could have obtained such a judicial lien, whether or not such a creditor exists;
+
+(2) a creditor that extends credit to the debtor at the time of the commencement of the case, and obtains, at such time and with respect to such credit, an execution against the debtor that is returned unsatisfied at such time, whether or not such a creditor exists; or
+
+(3) a bona fide purchaser of real property, other than fixtures, from the debtor, against whom applicable law permits such transfer to be perfected, that obtains the status of a bona fide purchaser and has perfected such transfer at the time of the commencement of the case, whether or not such a purchaser exists.
+
+(b)(1) Except as provided in paragraph (2), the trustee may avoid any transfer of an interest of the debtor in property or any obligation incurred by the debtor that is voidable under applicable law by a creditor holding an unsecured claim that is allowable under section 502 of this title or that is not allowable only under section 502(e) of this title.
+
+(2) Paragraph (1) shall not apply to a transfer of a charitable contribution (as that term is defined in section 548(d)(3)) that is not covered under section 548(a)(1)(B), by reason of section 548(a)(2). Any claim by any person to recover a transferred contribution described in the preceding sentence under Federal or State law in a Federal or State court shall be preempted by the commencement of the case.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2596; Pub. L. 98–353, title III, §459, July 10, 1984, 98 Stat. 377; Pub. L. 105–183, §3(b), June 19, 1998, 112 Stat. 518.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 544(a)(3) modifies similar provisions contained in the House bill and Senate amendment so as not to require a creditor to perform the impossible in order to perfect his interest.
+Both the lien creditor test in section 544(a)(1), and the bona fide purchaser test in section 544(a)(3) should not require a transferee to perfect a transfer against an entity with respect to which applicable law does not permit perfection.
+The avoiding powers under section 544(a)(1), (2), and (3) are new.
+In particular, section 544(a)(1) overrules Pacific Finance Corp. v. Edwards, 309 F.2d 224 (9th Cir. 1962), and In re Federals, Inc., 553 F.2d 509 (6th Cir. 1977), insofar as those cases held that the trustee did not have the status of a creditor who extended credit immediately prior to the commencement of the case.
+
+The House amendment deletes section 544(c) of the House bill.
+
+senate report no. 95–989
+
+Subsection (a) is the “strong arm clause” of current law, now found in Bankruptcy Act §70c [section 110(c) of former title 11]. It gives the trustee the rights of a creditor on a simple contract with a judicial lien on the property of the debtor as of the date of the petition; of a creditor with a writ of execution against the property of the debtor unsatisfied as of the date of the petition; and a bona fide purchaser of the real property of the debtor as of the date of the petition. “Simple contract” as used here is derived from Bankruptcy Act §60a(4) [section 96(a)(4) of former title 11]. The third status, that of a bona fide purchaser of real property, is new.
+
+Subsection (b) is derived from current section 70e [section 110(e) of former title 11]. It gives the trustee the rights of actual unsecured creditors under applicable law to void transfers.
+It follows Moore v. Bay, 284 U.S. 4 (1931), and overrules those cases that hold section 70e gives the trustee the rights of secured creditors.
+
 Construction of 1998 Amendment
 
 Pub. L. 105–183, §6, June 19, 1998, 112 Stat. 519, provided that: “Nothing in the amendments made by this Act [amending this section and sections 546, 548, 707, and 1325 of this title] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb [2000bb] et seq.).”
@@ -7216,6 +7517,22 @@ Treatment of customer property.
 
         
 
+SUBCHAPTER V—CLEARING BANK LIQUIDATION
+
+781.
+Definitions.
+
+782.
+Selection of trustee.
+
+783.
+Additional powers of trustee.
+
+784.
+Right to be heard.
+
+        
+
 Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 103, 109, 303, 321, 326, 327, 330, 341, 346, 347, 362, 365, 502, 508, 521, 524, 547, 1106, 1112, 1129, 1141, 1173, 1174, 1201, 1207, 1208, 1225, 1228, 1301, 1306, 1307, 1325, 1328 of this title; title 7 section 24; title 15 section 78fff–1; title 20 section 1087; title 21 section 356c; title 26 sections 108, 1398, 4980, 6012; title 28 sections 586, 1930; title 29 section 1362.
@@ -7385,7 +7702,7 @@ He is required to give constructive notice of the commencement of the case in th
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1106, 1202, 1302, 1304 of this title; title 29 section 1342.
+This section is referred to in sections 782, 1106, 1202, 1302, 1304 of this title; title 29 section 1342.
 
 §705. Creditors’ committee
 
@@ -7406,6 +7723,10 @@ senate report no. 95–989
 This section is derived from section 44b of the Bankruptcy Act [section 72(b) of former title 11] without substantial change.
 It permits election by general unsecured creditors of a committee of not fewer than 3 members and not more than 11 members to consult with the trustee in connection with the administration of the estate, to make recommendations to the trustee respecting the performance of his duties, and to submit to the court any question affecting the administration of the estate.
 There is no provision for compensation or reimbursement of its counsel.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 782 of this title.
 
 §706. Conversion
 
@@ -7660,6 +7981,31 @@ If there are any liens that are equal in status to the tax lien, they share pari
 References in Text
 
 Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), is classified to section 6323 of Title 26, Internal Revenue Code.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 106, 303, 349, 502, 522, 550, 551, 764 of this title; title 26 sections 6327, 7437.
+
+§725. Disposition of certain property
+
+After the commencement of a case under this chapter, but before final distribution of property of the estate under section 726 of this title, the trustee, after notice and a hearing, shall dispose of any property in which an entity other than the estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, §478, July 10, 1984, 98 Stat. 381.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 725 of the House amendment adopts the substance contained in both the House bill and Senate amendment but transfers an administrative function to the trustee in accordance with the general thrust of this legislation to separate the administrative and the judicial functions where appropriate.
+
+senate report no. 95–989
+
+This section requires the court to determine the appropriate disposition of property in which the estate and an entity other than the estate have an interest.
+It would apply, for example, to property subject to a lien or property co-owned by the estate and another entity.
+The court must make the determination with respect to property that is not disposed of under another section of the bankruptcy code, such as by abandonment under section 554, by sale or distribution under 363, or by allowing foreclosure by a secured creditor by lifting the stay under section 362. The purpose of the section is to give the court appropriate authority to ensure that collateral or its proceeds is returned to the proper secured creditor, that consigned or bailed goods are returned to the consignor or bailor and so on.
+Current law is curiously silent on this point, though case law has grown to fill the void.
+The section is in lieu of a section that would direct a certain distribution to secured creditors.
+It gives the court greater flexibility to meet the circumstances, and it is broader, permitting disposition of property subject to a co-ownership interest.
 
 §726. Distribution of property of the estate
 
@@ -7968,7 +8314,7 @@ SUBCHAPTER III—STOCKBROKER LIQUIDATION
 
 Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 103 of this title.
+This subchapter is referred to in sections 103, 783 of this title.
 
 §741. Definitions for this subchapter
 
@@ -8335,7 +8681,7 @@ SUBCHAPTER IV—COMMODITY BROKER LIQUIDATION
 
 Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 103 of this title; title 7 section 24; title 15 section 78fff–1.
+This subchapter is referred to in sections 103, 783 of this title; title 7 section 24; title 15 section 78fff–1.
 
 §761. Definitions for this subchapter
 
@@ -8343,7 +8689,7 @@ In this subchapter—
 
 (1) “Act” means Commodity Exchange Act;
 
-(2) “clearing organization” means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;
+(2) “clearing organization” means a derivatives clearing organization registered under the Act;
 
 (3) “Commission” means Commodity Futures Trading Commission;
 
@@ -8363,9 +8709,9 @@ In this subchapter—
 
 (6) “commodity options dealer” means person that extends credit to, or that accepts cash, a security, or other property from, a customer of such person for the purchase or sale of an interest in a commodity option;
 
-(7) “contract market” means board of trade designated as a contract market by the Commission under the Act;
+(7) “contract market” means a registered entity;
 
-(8) “contract of sale”, “commodity”, “future delivery”, “board of trade”, and “futures commission merchant” have the meanings assigned to those terms in the Act;
+(8) “contract of sale”, “commodity”, “derivatives clearing organization”, “future delivery”, “board of trade”, “registered entity”, and “futures commission merchant” have the meanings assigned to those terms in the Act;
 
 (9) “customer” means—
 
@@ -8469,7 +8815,7 @@ In this subchapter—
 
 (ii) any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) [title I, §112(c)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)
 
 Historical and Revision Notes
 
@@ -8551,7 +8897,7 @@ This definition places the risk of market fluctuations on the customer until com
 
 References in Text
 
-The Commodity Exchange Act, referred to in pars. (1), (7), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture.
 Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 Section Referred to in Other Sections
@@ -8866,6 +9212,79 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 365, 702, 761, 765 of this title; title 7 section 24.
 
+SUBCHAPTER V—CLEARING BANK LIQUIDATION
+
+Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 103 of this title.
+
+§781. Definitions
+
+For purposes of this subchapter, the following definitions shall apply:
+
+(1) Board.—The term “Board” means the Board of Governors of the Federal Reserve System.
+
+(2) Depository institution.—The term “depository institution” has the same meaning as in section 3 of the Federal Deposit Insurance Act.
+
+(3) Clearing bank.—The term “clearing bank” means an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+
+(Added Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
+
+References in Text
+
+Section 3 of the Federal Deposit Insurance Act, referred to in par. (2), is classified to section 1813 of Title 12, Banks and Banking.
+
+Section 25A of the Federal Reserve Act, referred to in par. (3), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking.
+For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), is classified to section 4422 of Title 12, Banks and Banking.
+
+§782. Selection of trustee
+
+(a) In General.—
+
+(1) Appointment.—Notwithstanding any other provision of this title, the conservator or receiver who files the petition shall be the trustee under this chapter, unless the Board designates an alternative trustee.
+
+(2) Successor.—The Board may designate a successor trustee if required.
+
+(b) Authority of Trustee.—Whenever the Board appoints or designates a trustee, chapter 3 and sections 704 and 705 of this title shall apply to the Board in the same way and to the same extent that they apply to a United States trustee.
+
+(Added Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
+
+§783. Additional powers of trustee
+
+(a) Distribution of Property Not of the Estate.—The trustee under this subchapter has power to distribute property not of the estate, including distributions to customers that are mandated by subchapters III and IV of this chapter.
+
+(b) Disposition of Institution.—The trustee under this subchapter may, after notice and a hearing—
+
+(1) sell the clearing bank to a depository institution or consortium of depository institutions (which consortium may agree on the allocation of the clearing bank among the consortium);
+
+(2) merge the clearing bank with a depository institution;
+
+(3) transfer contracts to the same extent as could a receiver for a depository institution under paragraphs (9) and (10) of section 11(e) of the Federal Deposit Insurance Act;
+
+(4) transfer assets or liabilities to a depository institution; and
+
+(5) transfer assets and liabilities to a bridge bank as provided in paragraphs (1), (3)(A), (5), and (6) of section 11(n) of the Federal Deposit Insurance Act, paragraphs (9) through (13) of such section, and subparagraphs (A) through (H) and subparagraph (K) of paragraph (4) of such section 11(n), except that—
+
+(A) the bridge bank to which such assets or liabilities are transferred shall be treated as a clearing bank for the purpose of this subsection; and
+
+(B) any references in any such provision of law to the Federal Deposit Insurance Corporation shall be construed to be references to the appointing agency and that references to deposit insurance shall be omitted.
+
+(c) Certain Transfers Included.—Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.
+
+(Added Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)
+
+References in Text
+
+Section 11 of the Federal Deposit Insurance Act, referred to in subsec. (b)(3), (5), is classified to section 1821 of Title 12, Banks and Banking.
+
+§784. Right to be heard
+
+The Board or a Federal reserve bank (in the case of a clearing bank that is a member of that bank) may raise and may appear and be heard on any issue in a case under this subchapter.
+
+(Added Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)
+
 CHAPTER 9—ADJUSTMENT OF DEBTS OF A MUNICIPALITY
 
 SUBCHAPTER I—GENERAL PROVISIONS
@@ -8952,7 +9371,7 @@ SUBCHAPTER I—GENERAL PROVISIONS
 
 (a) Sections 301, 344, 347(b), 349, 350(b), 361, 362, 364(c), 364(d), 364(e), 364(f), 365, 366, 501, 502, 503, 504, 506, 507(a)(1), 509, 510, 524(a)(1), 524(a)(2), 544, 545, 546, 547, 548, 549(a), 549(c), 549(d), 550, 551, 552, 553, 557, 1102, 1103, 1109, 1111(b), 1122, 1123(a)(1), 1123(a)(2), 1123(a)(3), 1123(a)(4), 1123(a)(5), 1123(b), 1124, 1125, 1126(a), 1126(b), 1126(c), 1126(e), 1126(f), 1126(g), 1127(d), 1128, 1129(a)(2), 1129(a)(3), 1129(a)(6), 1129(a)(8), 1129(a)(10), 1129(b)(1), 1129(b)(2)(A), 1129(b)(2)(B), 1142(b), 1143, 1144, and 1145 of this title apply in a case under this chapter.
 
-(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
+(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) 1 of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
 
 (c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
@@ -9111,15 +9530,21 @@ This section is the same in substance as section 96(d) [section 416(d) of former
 This section permits the court to revoke the order of confirmation and the discharge if the confirmation of the plan was procured by fraud.
 There is no comparable provision in current chapter IX [chapter 9 of former title 11].
 
+References in Text
+
+Section 103(e) of this title, referred to in subsec. (b), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.
+
 Section Referred to in Other Sections
 
 This section is referred to in sections 103, 106, 902, 943 of this title.
+
+1 See References in Text note below.
 
 §902. Definitions for this chapter
 
 In this chapter—
 
-(1) “property of the estate”, when used in a section that is made applicable in a case under this chapter by section 103(e) or 901 of this title, means property of the debtor;
+(1) “property of the estate”, when used in a section that is made applicable in a case under this chapter by section 103(e) 1 or 901 of this title, means property of the debtor;
 
 (2) “special revenues” means—
 
@@ -9137,7 +9562,7 @@ In this chapter—
 
 (4) “special tax payer affected by the plan” means special tax payer with respect to whose real property the plan proposes to increase the proportion of special assessments or special taxes referred to in paragraph (2) of this section assessed against such real property; and
 
-(5) “trustee”, when used in a section that is made applicable in a case under this chapter by section 103(e) or 901 of this title, means debtor, except as provided in section 926 of this title.
+(5) “trustee”, when used in a section that is made applicable in a case under this chapter by section 103(e) 1 or 901 of this title, means debtor, except as provided in section 926 of this title.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2622; Pub. L. 98–353, title III, §491, July 10, 1984, 98 Stat. 383; Pub. L. 100–597, §4, Nov. 3, 1988, 102 Stat. 3028.)
 
@@ -9162,9 +9587,15 @@ house report no. 95–595
 
 There are only four definitions for use only in chapter 9. The first specifies that when the term “property of the estate” is used in a section in another chapter made applicable in chapter 9 cases, the term will mean “property of the debtor”. Paragraphs (2) and (3) adopt the definition of “special taxpayer affected by the plan” that appears in current sections 81(10) and 81(11) [section 401(10) and (11) of former title 11]. Paragraph (4) provides for “trustee” the same treatment as provided for “property of the estate”, specifying that it means “debtor” when used in conjunction with chapter 9.
 
+References in Text
+
+Section 103(e) of this title, referred to in pars. (1) and (5), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.
+
 Section Referred to in Other Sections
 
 This section is referred to in section 901 of this title.
+
+1 See References in Text note below.
 
 §903. Reservation of State power to control municipalities
 
@@ -9262,30 +9693,6 @@ This provision is the fourth sentence of section 85(a) [section 405(a) of former
 Subsection (d) directs the court to order relief on the petition if it does not dismiss the case under subsection (c).
 
 Subsection (e) contains the fifth and sixth sentences of section 85(a) [section 405(a) of former title 11].
-
-§922. Automatic stay of enforcement of claims against the debtor
-
-(a) A petition filed under this chapter operates as a stay, in addition to the stay provided by section 362 of this title, applicable to all entities, of—
-
-(1) the commencement or continuation, including the issuance or employment of process, of a judicial, administrative, or other action or proceeding against an officer or inhabitant of the debtor that seeks to enforce a claim against the debtor; and
-
-(2) the enforcement of a lien on or arising out of taxes or assessments owed to the debtor.
-
-(b) Subsections (c), (d), (e), (f), and (g) of section 362 of this title apply to a stay under subsection (a) of this section the same as such subsections apply to a stay under section 362(a) of this title.
-
-(c) If the debtor provides, under section 362, 364, or 922 of this title, adequate protection of the interest of the holder of a claim secured by a lien on property of the debtor and if, notwithstanding such protection such creditor has a claim arising from the stay of action against such property under section 362 or 922 of this title or from the granting of a lien under section 364(d) of this title, then such claim shall be allowable as an administrative expense under section 503(b) of this title.
-
-(d) Notwithstanding section 362 of this title and subsection (a) of this section, a petition filed under this chapter does not operate as a stay of application of pledged special revenues in a manner consistent with section 927 of this title to payment of indebtedness secured by such revenues.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2623; Pub. L. 98–353, title III, §495, July 10, 1984, 98 Stat. 384; Pub. L. 100–597, §5, Nov. 3, 1988, 102 Stat. 3029.)
-
-Historical and Revision Notes
-
-house report no. 95–595
-
-The automatic stay provided under section 362 of title 11 is incomplete for a municipality, because there is the possibility of action by a creditor against an officer or inhabitant of the municipality to collect taxes due the municipality.
-Section 85(e)(1) of current chapter IX [section 405(e)(1) of former title 11] stays such actions.
-Section 922 carries over that protection into the proposed chapter 9. Subsection (b) applies the provisions for relief from the stay that apply generally in section 362 to the stay under section 922.
 
 Section Referred to in Other Sections
 
@@ -9540,7 +9947,7 @@ Section 942 permits the debtor to modify the plan at any time before confirmatio
 
 (b) The court shall confirm the plan if—
 
-(1) the plan complies with the provisions of this title made applicable by sections 103(e) and 901 of this title;
+(1) the plan complies with the provisions of this title made applicable by sections 103(e) 1 and 901 of this title;
 
 (2) the plan complies with the provisions of this chapter;
 
@@ -9586,9 +9993,15 @@ The best interest test was deleted in section 94(b)(1) of current chapter IX fro
 However, this bill proposes a new confirmation standard generally for reorganization, one element of which is the best interest of creditors test; see section 1129(a)(7). In that section, the test is phrased in terms of liquidation of the debtor.
 Because that is not possible in a municipal case, the test here is phrased in its more traditional form, using the words of art “best interest of creditors.” The best interest of creditors test here is in addition to the financial standards imposed on the plan by sections 1129(a)(8) and 1129(b), just as those provisions are in addition to the comparable best interest test in chapter 11, 11 U.S.C. 1129(a)(7). The feasibility requirement, added in the revision of chapter IX last year, is retained.
 
+References in Text
+
+Section 103(e) of this title, referred to in subsec. (b)(1), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.
+
 Section Referred to in Other Sections
 
 This section is referred to in sections 347, 930 of this title.
+
+1 See References in Text note below.
 
 §944. Effect of confirmation
 
@@ -10322,6 +10735,118 @@ house report no. 95–595
 
 This section does not presume that a trustee will be appointed to operate the business of the debtor.
 Rather, the power granted to trustee under this section is one of the powers that a debtor in possession acquires by virtue of proposed 11 U.S.C. 1107.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 327, 363, 364 of this title.
+
+§1109. Right to be heard
+
+(a) The Securities and Exchange Commission may raise and may appear and be heard on any issue in a case under this chapter, but the Securities and Exchange Commission may not appeal from any judgment, order, or decree entered in the case.
+
+(b) A party in interest, including the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, or any indenture trustee, may raise and may appear and be heard on any issue in a case under this chapter.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 1109 of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment.
+As previously discussed the section gives the Securities and Exchange Commission the right to appear and be heard and to raise any issue in a case under chapter 11; however, the Securities and Exchange Commission is not a party in interest and the Commission may not appeal from any judgment, order, or decree entered in the case.
+Under section 1109(b) a party in interest, including the debtor, the trustee, creditors committee, equity securities holders committee, a creditor, an equity security holder, or an indentured trustee, may raise and may appear and be heard on any issue in a case under chapter 11. Section 1109(c) of the Senate amendment has been moved to subchapter IV pertaining to Railroad Reorganizations.
+
+senate report no. 95–989
+
+Subsection (a) provides, in unqualified terms, that any creditor, equity security holder, or an indenture trustee shall have the right to be heard as a party in interest under this chapter in person, by an attorney, or by a committee.
+It is derived from section 206 of chapter X ([former] 11 U.S.C. 606).
+
+Subsection (b) provides that the Securities and Exchange Commission may appear by filing an appearance in a case of a public company and may appear in other cases if authorized or requested by the court.
+As a party in interest in either case, the Commission may raise and be heard on any issue.
+The Commission may not appeal from a judgment, order, or decree in a case, but may participate in any appeal by any other party in interest.
+This is the present law under section 208 of chapter X ([former] 11 U.S.C. 608).
+
+house report no. 95–595
+
+Section 1109 authorizes the Securities and Exchange Commission and any indenture trustee to intervene in the case at any time on any issue.
+They may raise an issue or may appear and be heard on an issue that is raised by someone else.
+The section, following current law, denies the right of appeal to the Securities and Exchange Commission.
+It does not, however, prevent the Commission from joining or participating in an appeal taken by a true party in interest.
+The Commission is merely prevented from initiating the appeal in any capacity.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 901 of this title.
+
+§1110. Aircraft equipment and vessels
+
+(a)(1) Except as provided in paragraph (2) and subject to subsection (b), the right of a secured party with a security interest in equipment described in paragraph (3), or of a lessor or conditional vendor of such equipment, to take possession of such equipment in compliance with a security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies, under such security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, is not limited or otherwise affected by any other provision of this title or by any power of the court.
+
+(2) The right to take possession and to enforce the other rights and remedies described in paragraph (1) shall be subject to section 362 if—
+
+(A) before the date that is 60 days after the date of the order for relief under this chapter, the trustee, subject to the approval of the court, agrees to perform all obligations of the debtor under such security agreement, lease, or conditional sale contract; and
+
+(B) any default, other than a default of a kind specified in section 365(b)(2), under such security agreement, lease, or conditional sale contract—
+
+(i) that occurs before the date of the order is cured before the expiration of such 60-day period;
+
+(ii) that occurs after the date of the order and before the expiration of such 60-day period is cured before the later of—
+
+(I) the date that is 30 days after the date of the default; or
+
+(II) the expiration of such 60-day period; and
+
+(iii) that occurs on or after the expiration of such 60-day period is cured in compliance with the terms of such security agreement, lease, or conditional sale contract, if a cure is permitted under that agreement, lease, or contract.
+
+(3) The equipment described in this paragraph—
+
+(A) is—
+
+(i) an aircraft, aircraft engine, propeller, appliance, or spare part (as defined in section 40102 of title 49) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that, at the time such transaction is entered into, holds an air carrier operating certificate issued pursuant to chapter 447 of title 49 for aircraft capable of carrying 10 or more individuals or 6,000 pounds or more of cargo; or
+
+(ii) a documented vessel (as defined in section 30101(1) of title 46) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that is a water carrier that, at the time such transaction is entered into, holds a certificate of public convenience and necessity or permit issued by the Department of Transportation; and
+
+(B) includes all records and documents relating to such equipment that are required, under the terms of the security agreement, lease, or conditional sale contract, to be surrendered or returned by the debtor in connection with the surrender or return of such equipment.
+
+(4) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its own behalf or acting as trustee or otherwise in behalf of another party.
+
+(b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the approval of the court, to extend the 60-day period specified in subsection (a)(1).
+
+(c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(3), if at any time after the date of the order for relief under this chapter such secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession to the trustee.
+
+(2) At such time as the trustee is required under paragraph (1) to surrender and return equipment described in subsection (a)(3), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
+
+(d) With respect to equipment first placed in service on or before October 22, 1994, for purposes of this section—
+
+(1) the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
+
+(2) the term “security interest” means a purchase-money equipment security interest.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 103–272, §5(c), July 5, 1994, 108 Stat. 1373; Pub. L. 103–394, title II, §201(a), Oct. 22, 1994, 108 Stat. 4119; Pub. L. 106–181, title VII, §744(b), Apr. 5, 2000, 114 Stat. 177.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 1110 of the House amendment adopts an identical provision contained in the House bill without modifications contained in the Senate amendment.
+This section protects a limited class of financiers of aircraft and vessels and is intended to be narrowly construed to prevent secured parties or lessors from gaining the protection of the section unless the interest of such lessor or secured party is explicitly enumerated therein.
+It should be emphasized that under section 1110(a) a debtor in possession or trustee is given 60 days after the order for relief in a case under chapter 11, to have an opportunity to comply with the provisions of section 1110(a).
+
+During this time the automatic stay will apply and may not be lifted prior to the expiration of the 60-day period.
+Under section 1110(b), the debtor and secured party or lessor are given an opportunity to extend the 60-day period, but no right to reduce the period is intended.
+It should additionally be noted that under section 1110(a) the trustee or debtor in possession is not required to assume the executory contract or unexpired lease under section 1110; rather, if the trustee or debtor in possession complies with the requirements of section 1110(a), the trustee or debtor in possession is entitled to retain the aircraft or vessels subject to the normal requirements of section 365. The discussion regarding aircraft and vessels likewise applies with respect to railroad rolling stock in a railroad reorganization under section 1168.
+
+senate report no. 95–989
+
+This section, to a large degree, preserves the protection given lessors and conditional vendors of aircraft to a certificated air carrier or of vessels to a certificated water carrier under section 116(5) and 116(6) of present Chapter X [section 516(5) and (6) of former title 11]. It is modified to conform with the consolidation of Chapters X and XI [chapters 10 and 11 of former title 11] and with the new chapter 11 generally.
+It is also modified to give the trustee in a reorganization case an opportunity to continue in possession of the equipment in question by curing defaults and by making the required lease or purchase payments.
+This removes the absolute veto power over a reorganization that lessors and conditional vendors have under present law, while entitling them to protection of their investment.
+
+The section overrides the automatic stay or any power of the court to enjoin taking of possession of certain leased, conditionally sold, or liened equipment, unless, the trustee agrees to perform the debtor's obligations and cures all prior defaults (other than defaults under ipso facto or bankruptcy clauses) within 60 days after the order for relief.
+The trustee and the equipment financer are permitted to extend the 60-day period by agreement.
+During the first 60 days, the automatic stay will apply to prevent foreclosure unless the creditor gets relief from the stay.
+
+The effect of this section will be the same if the debtor has granted the security interest to the financer or if the debtor is leasing equipment from a financer that has leveraged the lease and leased the equipment subject to a security interest of a third party.
 
 Abolition of Interstate Commerce Commission and Transfer of Functions
 
@@ -11581,7 +12106,7 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (d), is classifi
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 347, 524, 901, 1110, 1112, 1114, 1123, 1127, 1146, 1161, 1168, 1173 of this title.
+This section is referred to in sections 347, 524, 901, 1112, 1114, 1123, 1127, 1146, 1161, 1173 of this title.
 
 SUBCHAPTER III—POSTCONFIRMATION MATTERS
 
@@ -12114,35 +12639,45 @@ This section is referred to in section 1165 of this title.
 
 §1168. Rolling stock equipment
 
-(a)(1) The right of a secured party with a security interest in or of a lessor or conditional vendor of equipment described in paragraph (2) to take possession of such equipment in compliance with an equipment security agreement, lease, or conditional sale contract is not affected by section 362, 363, or 1129 or by any power of the court to enjoin the taking of possession, unless—
+(a)(1) The right of a secured party with a security interest in or of a lessor or conditional vendor of equipment described in paragraph (2) to take possession of such equipment in compliance with an equipment security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies under such security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, is not limited or otherwise affected by any other provision of this title or by any power of the court, except that right to take possession and enforce those other rights and remedies shall be subject to section 362, if—
 
-(A) before the date that is 60 days after the date of commencement of a case under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after the date of commencement of the case under such security agreement, lease, or conditional sale contract; and
+(A) before the date that is 60 days after the date of commencement of a case under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor under such security agreement, lease, or conditional sale contract; and
 
 (B) any default, other than a default of a kind described in section 365(b)(2), under such security agreement, lease, or conditional sale contract—
 
-(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period; and
+(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period;
 
-(ii) that occurs or becomes an event of default after the date of commencement of the case is cured before the later of—
+(ii) that occurs or becomes an event of default after the date of commencement of the case and before the expiration of such 60-day period is cured before the later of—
 
-(I) the date that is 30 days after the date of the default or event of default; or
+(I) the date that is 30 days after the date of the default or event of the default; or
 
-(II) the expiration of such 60-day period.
+(II) the expiration of such 60-day period; and
 
-(2) Equipment is described in this paragraph if it is rolling stock equipment or accessories used on such equipment, including superstructures and racks, that is subject to a security interest granted by, leased to, or conditionally sold to the debtor.
+(iii) that occurs on or after the expiration of such 60-day period is cured in accordance with the terms of such security agreement, lease, or conditional sale contract, if cure is permitted under that agreement, lease, or conditional sale contract.
+
+(2) The equipment described in this paragraph—
+
+(A) is rolling stock equipment or accessories used on rolling stock equipment, including superstructures or racks, that is subject to a security interest granted by, leased to, or conditionally sold to a debtor; and
+
+(B) includes all records and documents relating to such equipment that are required, under the terms of the security agreement, lease, or conditional sale contract, that is to be surrendered or returned by the debtor in connection with the surrender or return of such equipment.
 
 (3) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its own behalf or acting as trustee or otherwise in behalf of another party.
 
 (b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1).
 
-(c) With respect to equipment first placed in service on or prior to the date of enactment of this subsection, for purposes of this section—
+(c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(2), if at any time after the date of commencement of the case under this chapter such secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession of the trustee.
+
+(2) At such time as the trustee is required under paragraph (1) to surrender and return equipment described in subsection (a)(2), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
+
+(d) With respect to equipment first placed in service on or prior to October 22, 1994, for purposes of this section—
 
 (1) the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
 
 (2) the term “security interest” means a purchase-money equipment security interest.
 
-(d) With respect to equipment first placed in service after the date of enactment of this subsection, for purposes of this section, the term “rolling stock equipment” includes rolling stock equipment that is substantially rebuilt and accessories used on such equipment.
+(e) With respect to equipment first placed in service after October 22, 1994, for purposes of this section, the term “rolling stock equipment” includes rolling stock equipment that is substantially rebuilt and accessories used on such equipment.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 98–353, title III, §519, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title II, §201(b), Oct. 22, 1994, 108 Stat. 4120.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 98–353, title III, §519, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title II, §201(b), Oct. 22, 1994, 108 Stat. 4120; Pub. L. 106–181, title VII, §744(a), Apr. 5, 2000, 114 Stat. 175.)
 
 Historical and Revision Notes
 
@@ -12160,10 +12695,6 @@ house report no. 95–595
 
 [Section 1166] This section [enacted as section 1168], derived with changes from the last sentence of present section 77(j) [section 205(j) of former title 11], protects the interests of rolling stock equipment financers, while providing the trustee with some opportunity to cure defaults, agree to make payments, and retain and use the equipment.
 The provision is parallel to section 1110, concerning aircraft equipment and vessels.
-
-References in Text
-
-The date of enactment of this subsection, referred to in subsecs. (c) and (d), is the date of enactment of Pub. L. 103–394, which added subsecs. (c) and (d) and was approved Oct. 22, 1994.
 
 §1169. Effect of rejection of lease of railroad line
 
@@ -12513,6 +13044,10 @@ Termination of Chapter
 
 For termination of reenactment of this chapter by section 149(a) of Pub. L. 105–277, as amended, see Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
 
+Codification
+
+Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Chapter, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this chapter, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+
 Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 101, 103, 109, 321, 326, 327, 329, 330, 346, 347, 362, 363, 365, 502, 706, 1106, 1112, 1306, 1307 of this title; title 7 sections 2005, 2008h; title 20 section 1087; title 28 sections 157, 586, 1930.
@@ -12547,60 +13082,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note below.
-
-Effective Date
-
-Chapter effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
-
-Repeal, Reenactment, and Termination of Chapter
-
-Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031, provided that:
-
-“(a) Chapter 12 of title 11 of the United States Code, as in effect on September 30, 1999, is hereby reenacted for the period beginning on October 1, 1999, and ending on July 1, 2000.
-
-“(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after July 1, 2000. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after July 1, 2000.”
-
-Chapter repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, are to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings are to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 106, 108, 348 of this title.
-
-§1202. Trustee
-
-(a) If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter.
-Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.
-
-(b) The trustee shall—
-
-(1) perform the duties specified in sections 704(2), 704(3), 704(5), 704(6), 704(7), and 704(9) of this title;
-
-(2) perform the duties specified in section 1106(a)(3) and 1106(a)(4) of this title if the court, for cause and on request of a party in interest, the trustee, or the United States trustee, so orders;
-
-(3) appear and be heard at any hearing that concerns—
-
-(A) the value of property subject to a lien;
-
-(B) confirmation of a plan;
-
-(C) modification of the plan after confirmation; or
-
-(D) the sale of property of the estate;
-
-(4) ensure that the debtor commences making timely payments required by a confirmed plan; and
-
-(5) if the debtor ceases to be a debtor in possession, perform the duties specified in sections 704(8), 1106(a)(1), 1106(a)(2), 1106(a)(6), 1106(a)(7), and 1203.
-
-(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031.)
-
-Termination of Section
-
-For termination of reenactment of this section by section 149(a) of Pub. L. 105–277, as amended, see Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
-
-Codification
-
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Effective Date
 
@@ -12634,7 +13116,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12654,7 +13136,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12682,7 +13164,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12700,7 +13182,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12724,7 +13206,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12770,7 +13252,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12790,7 +13272,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12842,7 +13324,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12864,7 +13346,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12884,7 +13366,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12936,7 +13418,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12972,7 +13454,7 @@ Section 1202(c) and (d) of this title, referred to in subsec. (b)(2), was repeal
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -12996,7 +13478,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -13004,9 +13486,9 @@ This section is referred to in section 106 of this title.
 
 §1228. Discharge
 
-(a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(10) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
+(a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
 
-(1) provided for under section 1222(b)(5) or 1222(b)(10) of this title; or
+(1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
 (2) of the kind specified in section 523(a) of this title.
 
@@ -13020,7 +13502,7 @@ This section is referred to in section 106 of this title.
 
 (c) A discharge granted under subsection (b) of this section discharges the debtor from all unsecured debts provided for by the plan or disallowed under section 502 of this title, except any debt—
 
-(1) provided for under section 1222(b)(5) or 1222(b)(10) of this title; or
+(1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
 (2) of a kind specified in section 523(a) of this title.
 
@@ -13032,7 +13514,7 @@ This section is referred to in section 106 of this title.
 
 (e) After the debtor is granted a discharge, the court shall terminate the services of any trustee serving in the case.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, §208, Nov. 13, 2000, 114 Stat. 2415.)
 
 Termination of Section
 
@@ -13040,7 +13522,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -13070,7 +13552,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -13090,7 +13572,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -13119,7 +13601,7 @@ For termination of reenactment of this section by section 149(a) of Pub. L. 105�
 
 Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 Section Referred to in Other Sections
 
@@ -13700,43 +14182,6 @@ The bankruptcy court must confirm a plan if (1) the plan satisfies the provision
 
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee.
 Any governmental unit is an entity subject to such an order.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 1307, 1322, 1329, 1330 of this title.
-
-§1326. Payments
-
-(a)(1) Unless the court orders otherwise, the debtor shall commence making the payments proposed by a plan within 30 days after the plan is filed.
-
-(2) A payment made under this subsection shall be retained by the trustee until confirmation or denial of confirmation of a plan.
-If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as practicable.
-If a plan is not confirmed, the trustee shall return any such payment to the debtor, after deducting any unpaid claim allowed under section 503(b) of this title.
-
-(b) Before or at the time of each payment to creditors under the plan, there shall be paid—
-
-(1) any unpaid claim of the kind specified in section 507(a)(1) of this title; and
-
-(2) if a standing trustee appointed under section 586(b) of title 28 is serving in the case, the percentage fee fixed for such standing trustee under section 586(e)(1)(B) of title 28.
-
-(c) Except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650; Pub. L. 98–353, title III, §§318(a), 531, July 10, 1984, 98 Stat. 357, 389; Pub. L. 99–554, title II, §§230, 283(z), Oct. 27, 1986, 100 Stat. 3103, 3118; Pub. L. 103–394, title III, §307, Oct. 22, 1994, 108 Stat. 4135.)
-
-Historical and Revision Notes
-
-legislative statements
-
-Section 1326(a)(2) of the House amendment adopts a comparable provision contained in the House bill providing for standing trustees.
-
-senate report no. 95–989
-
-Section 1326 supplements the priorities provisions of section 507. Subsection (a) requires accrued costs of administration and filing fees, as well as fees due the chapter 13 trustee, to be disbursed before payments to creditors under the plan.
-Subsection (b) makes it clear that the chapter 13 trustee is normally to make distribution to creditors of the payments made under the plan by the debtor.
-
-house report no. 95–595
-
-Subsection (a) requires that before or at the time of each payment any outstanding administrative expenses [and] any percentage fee due for a private standing chapter 13 trustee be paid in full.
 
 Section Referred to in Other Sections
 

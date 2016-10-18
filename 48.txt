@@ -173,7 +173,7 @@ The laws of the State of Alaska shall not apply to areas within any special nati
 
 “(3) To the extent consistent with the laws described in paragraphs (1) and (2) of this subsection and with regulations made or other actions taken under their authority, all laws in force within such withdrawals immediately prior to the creation thereof by Executive order or proclamation shall apply within the withdrawals and, for this purpose, are adopted as laws of the United States: Provided, however, That the laws of the State or Territory relating to the organization or powers of municipalities or local political subdivisions, and the laws or ordinances of such municipalities or political subdivisions shall not be adopted as laws of the United States.
 
-“(4) All functions vested in the United States commissioners by the laws described in this subsection shall continue to be performed within the withdrawals by such commissioners.
+“(4) All functions vested in the United States magistrate judges by the laws described in this subsection shall continue to be performed within the withdrawals by such magistrate judges.
 
 “(5) All functions vested in any municipal corporation, school district, or other local political subdivision by the laws described in this subsection shall continue to be performed within the withdrawals by such corporation, district, or other subdivision, and the laws of the State or the laws or ordinances of such municipalities or local political subdivision shall remain in full force and effect notwithstanding any withdrawal made under this section.
 
@@ -182,7 +182,7 @@ The laws of the State of Alaska shall not apply to areas within any special nati
 “(7) The United States District Court for the District of Alaska shall have original jurisdiction, without regard to the sum or value of any matter in controversy, over all civil actions arising within such withdrawals under the laws made applicable thereto by this subsection, as well as over all offenses committed within the withdrawals.
 
 “(e) Nothing contained in subsection (d) of this section shall be construed as limiting the exclusive jurisdiction established in the United States by subsection (c) of this section or the authority of the Congress to implement such exclusive jurisdiction by appropriate legislation, or as denying to persons now or hereafter residing within any portion of the areas described in subsection (b) of this section the right to vote at all elections held within the political subdivisions as prescribed by the State of Alaska where they respectively reside, or as limiting the jurisdiction conferred on the United States District Court for the District of Alaska by any other provision of law, or as continuing in effect laws relating to the Legislature of the Territory of Alaska.
-Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President.
+Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President. (As amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 “Sec. 11. [Denali National Park; military and naval lands; civil and criminal jurisdiction.] (a) Nothing in this Act shall affect the establishment, or the right, ownership, and authority of the United States in Denali National Park, as now or hereafter constituted; but exclusive jurisdiction, in all cases, shall be exercised by the United States for the national park, as now or hereafter constituted; saving, however, to the State of Alaska the right to serve civil or criminal process within the limits of the aforesaid park in suits or prosecutions for or on account of rights acquired, obligations incurred, or crimes committed in said State, but outside of said park; and saving further to the said State the right to tax persons and corporations, their franchises and property on the lands included in said park; and saving also to the persons residing now or hereafter in such area the right to vote at all elections held within the respective political subdivisions of their residence in which the park is situated.
 
@@ -846,7 +846,7 @@ Section 46–3, act July 28, 1956, ch. 772, title II, §202, 70 Stat. 711, presc
 §46a. Repealed.
 July 1, 1944, ch. 373, title VII, §711, formerly title VI, §611, 58 Stat. 714; renumbered Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049
 
-Section, act Mar. 4, 1929, ch. 707, 45 Stat. 1644, provided for detailing of a Public Health Service medical officer to supervise care and maintenance of insane in Alaska and payment of his compensation an expenses.
+Section, act Mar. 4, 1929, ch. 707, 45 Stat. 1644, provided for detailing of a Public Health Service medical officer to supervise care and maintenance of insane in Alaska and payment of his compensation and expenses.
 
 §§46b to 48a. Repealed.
 July 28, 1956, ch. 772, title III, §301(a)(1), (3), (5), 70 Stat. 712
@@ -1101,9 +1101,9 @@ Section 117, act June 6, 1900, ch. 786, §13, 31 Stat. 326, authorized establish
 
 Section 118, act June 6, 1900, ch. 786, §14, 31 Stat. 327, required keeping of record books and prescribed duties of recorders.
 
-Section 119, act June 6, 1900, ch. 786, §15, 31 Stat. 327, which specified instruments to be recorded, was transferred to section 49c of Title 30, Mineral Lands and Mining.
+Section 119, act June 6, 1900, ch. 786, §15 (part), 31 Stat. 327, specified instruments to be recorded.
 
-Section 120, act June 6, 1900, ch. 786, §16, 31 Stat. 328, which required accounts for fees for instruments recorded, was transferred to section 49d of Title 30.
+Section 120, act June 6, 1900, ch. 786, §16 (part), 31 Stat. 328, required accounts for fees for instruments recorded.
 
 Section 121, act Aug. 29, 1914, ch. 292, 38 Stat. 710, provided for payment of costs of prosecuting crimes under Alaskan laws.
 
@@ -3490,16 +3490,6 @@ Canton and Enderbury Islands; Sovereignty of Kiribati
 
 By a treaty of friendship, TIAS 10777, which entered into force Sept. 23, 1983, the United States recognized the sovereignty of Kiribati over Canton Island and Enderbury Island.
 
-Cross References
-
-Juries and trial by jury, generally, see chapter 121 of Title 28, Judiciary and Judicial Procedure.
-
-Special maritime and territorial jurisdiction of the United States defined, see section 7 of Title 18, Crimes and Criminal Procedure.
-
-United States District Court for the District of Hawaii, see section 91 of Title 28, Judiciary and Judicial Procedure.
-
-Venue of offenses committed upon high seas or out of the jurisdiction of any State or district, see section 3238 of Title 18, Crimes and Criminal Procedure.
-
 §645. Repealed.
 Pub. L. 86–3, §14(f), Mar. 18, 1959, 73 Stat. 10
 
@@ -3924,6 +3914,32 @@ The administration of the Government of Puerto Rico was transferred from the Bur
 May 29, 1934, eff.
 Mar. 2, 1935. For present government of the Commonwealth of Puerto Rico, see section 731d of this title.
 
+Ex. Ord.
+No. 13183. Establishment of the President's Task Force on Puerto Rico's Status
+
+Ex. Ord.
+No. 13183, Dec. 23, 2000, 65 F.R. 82889, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 106–346 [see Tables for classification], it is hereby ordered as follows:
+
+Section 1. Policy.
+It is the policy of the executive branch of the Government of the United States of America to help answer the questions that the people of Puerto Rico have asked for years regarding the options for the islands’ future status and the process for realizing an option.
+Further, it is our policy to consider and develop positions on proposals, without preference among the options, for the Commonwealth's future status; to discuss such proposals with representatives of the people of Puerto Rico and the Congress; to work with leaders of the Commonwealth and the Congress to clarify the options to enable Puerto Ricans to determine their preference among options for the islands’ future status that are not incompatible with the Constitution and basic laws and policies of the United States; and to implement such an option if chosen by a majority, including helping Puerto Ricans obtain a governing arrangement under which they would vote for national government officials, if they choose such a status.
+
+Sec. 2. The President's Task Force on Puerto Rico's Status.
+There is established a task force to be known as “The President's Task Force on Puerto Rico's Status” (Task Force). It shall be composed of designees of each member of the President's Cabinet and the Co-Chairs of the President's Interagency Group on Puerto Rico (Interagency Group). The Task Force shall be co-chaired by the Attorney General's designee and a Co-Chair of the Interagency Group.
+
+Sec. 3. Functions.
+The Task Force shall seek to implement the policy set forth in section 1 of this order.
+It shall ensure official attention to and facilitate action on matters related to proposals for Puerto Rico's status and the process by which an option can be realized.
+It shall provide advice and recommendations on such matters to the President and the Congress.
+It shall also provide advice and recommendations to assist the Executive Office of the President in fulfilling its responsibilities under Public Law 106–346 to transfer funding to the Elections Commission of the Commonwealth of Puerto Rico for public education on and a public choice among options for Puerto Rico's future status that are not incompatible with the Constitution and the basic laws and policies of the United States.
+
+Sec. 4. Report.
+The Task Force shall report on its actions to the President not later than May 1, 2001, and thereafter as needed but not less than annually on progress made in the determination of Puerto Rico's ultimate status.
+
+William J. Clinton.      
+
 §731a. Change of name; Puerto Rico
 
 From and after May 17, 1932, the island designated “Porto Rico” in the Act entitled “An Act to provide a civil government for Porto Rico, and for other purposes,” approved March 2, 1917, as amended, shall be known and designated as “Puerto Rico.” All laws, regulations, and public documents and records of the United States in which such island is designated or referred to under the name of “Porto Rico” shall be held to refer to such island under and by the name of “Puerto Rico.”
@@ -4046,10 +4062,6 @@ Change of Name
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-Cross References
-
-Persons born in Puerto Rico declared citizens of United States, see section 1402 of Title 8, Aliens and Nationality.
-
 §733a. Citizens; residence in island of citizens of United States
 
 All citizens of the United States who have resided or who shall after March 4, 1927, reside in the island for one year shall be citizens of Puerto Rico.
@@ -4161,22 +4173,6 @@ This memorandum shall be published in the Federal Register.
 
 George Bush.      
 
-Cross References
-
-Articles, goods, wares, or merchandise going into Puerto Rico from United States, exempt from payment of any tax imposed by internal revenue laws of United States, see section 7653 of Title 26, Internal Revenue Code.
-
-Deposit of internal revenue collections, see section 7652 of Title 26.
-
-Income tax on residents of Puerto Rico, see section 933 of Title 26.
-
-Internal revenue tax on articles of merchandise of Puerto Rican manufacture coming into the United States and withdrawn for consumption or sale, see section 7652 of Title 26.
-
-Interstate Commerce Act as amended and the Safety Appliance Acts as amended as inapplicable to Puerto Rico, see section 751 of this title.
-
-References to possessions in Internal Revenue Code as referring to Commonwealth of Puerto Rico, see section 7701 of Title 26, Internal Revenue Code.
-
-Taxes collected, as trust funds, see section 1321 of Title 31, Money and Finance.
-
 Section Referred to in Other Sections
 
 This section is referred to in title 22 sections 1356, 1373.
@@ -4198,10 +4194,6 @@ Codification
 Provisions similar to those comprising this section relating to the Virgin Islands are classified to section 1402 of this title.
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
-
-Cross References
-
-Industrial alcohol plants, application of internal revenue laws to Puerto Rico, see section 5314 of Title 26, Internal Revenue Code.
 
 §735. Repealed.
 July 3, 1950, ch. 446, §5(2), 64 Stat. 320
@@ -4255,12 +4247,6 @@ Change of Name
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-Cross References
-
-Puerto Rico empowered to impose tariff duties on coffee imported into Puerto Rico from foreign countries through United States, see sections 1319 and 1319a of Title 19, Customs Duties.
-
-Taxation of shipments to and from the United States, see sections 7652 and 7653 of Title 26, Internal Revenue Code.
-
 §739. Duties on foreign imports; books and pamphlets in English language
 
 The same tariffs, customs, and duties shall be levied, collected, and paid upon all articles imported into Puerto Rico from ports other than those of the United States which are required by law to be collected upon articles imported into the United States from foreign countries.
@@ -4310,10 +4296,6 @@ Expenditures for Governmental and Public Purposes
 
 The amount of customs revenue received by the United States on importations from Puerto Rico since its evacuation by the Spanish forces together with all that should thereafter be collected under the existing law were placed at the disposal of the President to be used for governmental and public purposes in Puerto Rico, by act Mar. 24, 1900, ch. 91, 31 Stat. 51.
 
-Cross References
-
-All taxes collected on articles produced in Puerto Rico and transported to the United States to be covered into the treasury of Puerto Rico, see section 7652 of Title 26, Internal Revenue Code.
-
 §741. Export duties, taxes, etc.; bonds to anticipate revenues
 
 No export duties shall be levied or collected on exports from Puerto Rico, but taxes and assessments on property, income taxes, internal revenue, and license fees, and royalties for franchises, privileges, and concessions may be imposed for the purposes of the insular and municipal governments, respectively, as may be provided and defined by the Legislature of Puerto Rico; and when necessary to anticipate taxes and revenues, bonds and other obligations may be issued by Puerto Rico or any municipal government therein as may be provided by law, and to protect the public credit.
@@ -4345,20 +4327,12 @@ Codification
 
 Section is comprised of last part of section 3 of act Mar. 2, 1917, as added by act Mar. 4, 1927. The first two parts are classified to sections 741 and 745 of this title.
 
-Cross References
-
-All articles of merchandise of United States manufacture coming into Puerto Rico to be entered at port of entry upon payment of tax equal in rate and amount to the internal revenue tax imposed in Puerto Rico upon like articles of Puerto Rican manufacture, see section 7653 of Title 26, Internal Revenue Code.
-
 §742. Acknowledgment of deeds
 
 Deeds and other instruments affecting land situate in the District of Columbia, or any other territory or possession of the United States, may be acknowledged in Puerto Rico before any notary public appointed therein by proper authority, or any officer therein who has ex officio the powers of a notary public.
 The certificate by such notary shall be accompanied by the certificate of the executive secretary of Puerto Rico to the effect that the notary taking such acknowledgment is in fact such notarial officer.
 
 (Mar. 2, 1917, ch. 145, §54, 39 Stat. 968; May 17, 1932, ch. 190, 47 Stat. 158.)
-
-Codification
-
-Section is also set out in D.C. Code, §45–606.
 
 Prior Provisions
 
@@ -4477,11 +4451,57 @@ Change of Name
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
+Section Referred to in Other Sections
+
+This section is referred to in section 749 of this title.
+
+§748. Conveyance by President to people of lands, buildings, etc.
+
+The President may, from time to time, in his discretion, convey to the people of Puerto Rico, such lands, buildings, or interests in lands, or other property now owned by the United States, and within the territorial limits of Puerto Rico as in his opinion are no longer needed for purposes of the United States.
+And he may from time to time accept by legislative grant from Puerto Rico any lands, buildings, or other interests or property which may be needed for public purposes by the United States.
+
+(Mar. 2, 1917, ch. 145, §7, 39 Stat. 954; May 17, 1932, ch. 190, 47 Stat. 158.)
+
+Codification
+
+Section is comprised of proviso clause of section 7 of act Mar. 2, 1917. The text preceding the proviso clause of section 7 is classified to section 747 of this title.
+
+Change of Name
+
+“Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
+
+Delegation of Functions
+
+For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord.
+No. 10250, eff.
+June 5, 1951, 16 F.R. 5385, set out under section 301 of Title 3, The President.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 749 of this title.
+
+§749. Harbors and navigable waters transferred; definitions
+
+The harbor areas and navigable streams and bodies of water and submerged lands underlying the same in and around the island of Puerto Rico and the adjacent islands and waters, owned by the United States on March 2, 1917, and not reserved by the United States for public purposes, are placed under the control of the government of Puerto Rico, to be administered in the same manner and subject to the same limitations as the property enumerated in sections 747 and 748 of this title.
+All laws of the United States for the protection and improvement of the navigable waters of the United States and the preservation of the interests of navigation and commerce, except so far as the same may be locally inapplicable, shall apply to said island and waters and to its adjacent islands and waters.
+Nothing in this chapter contained shall be construed so as to affect or impair in any manner the terms or conditions of any authorizations, permits, or other powers lawfully granted or exercised or in respect of said waters and submerged lands in and surrounding said island and its adjacent islands by the Secretary of the Army or other authorized officer or agent of the United States prior to March 2, 1917. Notwithstanding any other provision of law, as used in this section (1) “submerged lands underlying navigable bodies of water” include lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide, all lands underlying the navigable bodies of water in and around the island of Puerto Rico and the adjacent islands, and all artificially made, filled in, or reclaimed lands which formerly were lands beneath navigable bodies of water; (2) “navigable bodies of water and submerged lands underlying the same in and around the island of Puerto Rico and the adjacent islands and waters” extend from the coastline of the island of Puerto Rico and the adjacent islands as heretofore or hereafter modified by accretion, erosion, or reliction, seaward to a distance of three marine leagues; (3) “control” includes all right, title, and interest in and to and jurisdiction and authority over the submerged lands underlying the harbor areas and navigable streams and bodies of water in and around the island of Puerto Rico and the adjacent islands and waters, and the natural resources underlying such submerged lands and waters, and includes proprietary rights of ownership, and the rights of management, administration, leasing, use, and development of such natural resources and submerged lands beneath such waters.
+
+(Mar. 2, 1917, ch. 145, §8, 39 Stat. 954; May 17, 1932, ch. 190, 47 Stat. 158; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 96–205, title VI, §606(a), Mar. 12, 1980, 94 Stat. 91.)
+
+References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter.
+For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
+
+Codification
+
+A further provision of section 8 of act Mar. 2, 1917, repealing act June 11, 1906, ch. 3075, 34 Stat. 234, and all other laws or parts of laws in conflict herewith was omitted.
+
+Change of Name
+
+“Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
+
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
-
-Cross References
-
-Protection of navigable waters and of harbor and river improvements generally, see section 401 et seq. of Title 33, Navigation and Navigable Waters.
 
 Section Referred to in Other Sections
 
@@ -4886,22 +4906,6 @@ Repeals
 
 Section 39 of act June 25, 1948, repealed section 1 of act Feb. 13, 1925, ch. 229, 43 Stat. 936, formerly cited as a credit to this section, which authorized review in the Circuit Court of Appeals in the First Circuit.
 
-Federal Rules of Civil Procedure
-
-Application of rules, see rule 1, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Federal Rules of Criminal Procedure
-
-Application of rules, see note by Advisory Committee under rule 54, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Cross References
-
-Removal of cases from State courts, see section 1441 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Review generally, see section 2101 et seq. of Title 28.
-
-Supreme Court, jurisdiction and venue generally, see section 1251 et seq. of Title 28.
-
 §865. Repealed.
 June 25, 1948, ch. 646, §39, 62 Stat. 992
 
@@ -4996,20 +5000,6 @@ Change of Name
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-Federal Rules of Civil Procedure
-
-Abolishment of writ of mandamus, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Power of Supreme Court to prescribe rules of procedure and evidence for district courts, see section 2072 of Title 28, Judiciary and Judicial Procedure.
-
-Cross References
-
-Habeas corpus, see section 2241 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Suspension of privilege of writ of habeas corpus by Legislative Assembly, see Art. II, §13, of Commonwealth Constitution, set out under section 731d of this title.
-
-Writs, issuance of, see section 1651 of Title 28, Judiciary and Judicial Procedure.
-
 §873. Repealed.
 July 3, 1950, ch. 446, §5(2), 64 Stat. 320
 
@@ -5042,10 +5032,6 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 Change of Name
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
-
-Federal Rules of Civil Procedure
-
-Power of Supreme Court to prescribe rules of procedure and evidence for district courts, see section 2072 of Title 28, Judiciary and Judicial Procedure.
 
 §§875, 876. Repealed.
 June 25, 1948, ch. 646, §39, 62 Stat. 992
@@ -5123,38 +5109,6 @@ The salary and traveling expenses of the Resident Commissioner from Puerto Rico 
 Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
-
-Change of Name
-
-“Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
-
-SUBCHAPTER VI—SLUM CLEARANCE AND URBAN REDEVELOPMENT PROJECTS
-
-Cross References
-
-Low rent housing projects and elimination of substandard housing, see section 911 et seq. of this title.
-
-§910. Slum clearance and urban redevelopment and renewal projects; powers of government
-
-The government of Puerto Rico acting through its legislature, may create a public corporate authority or authorities and may authorize such authority or authorities or any other public corporate authority or any municipal corporation or political subdivision, acting directly or through any officer or agency thereof or through a public corporate authority, to undertake slum clearance and urban redevelopment projects and urban renewal projects and to do all things, exercise any and all powers, and to assume and fulfill any and all obligations, duties, responsibilities, and requirements, including but not limited to those relating to planning and zoning, necessary or desirable for receiving Federal assistance under title I of the Housing Act of 1949 (Public Law 171, Eighty-first Congress), as amended [42 U.S.C. 1450 et seq.], or any other law, except that public corporate authorities (as distinct from municipalities or political subdivisions) created or authorized to operate in accordance with this Act, as amended, shall not be given any power of taxation or any power to pledge the full faith and credit of the people of the Territory, or municipality, or political subdivision, as the case may be, for any loan whatever.
-The Legislature of Puerto Rico may, with respect to any public corporate authority or authorities empowered or which may be empowered to undertake slum clearance and urban redevelopment projects and urban renewal projects, provide for the appointment and terms of office of the members thereof, and for the powers of such authorities, including authority to accept whatever benefits the Federal Government may make available for slum clearance and urban redevelopment projects and urban renewal projects, and authority, notwithstanding any other Federal law, to borrow money and to issue notes, bonds, and other obligations of such character and maturity, with such security, and in such manner as the respective legislatures may provide.
-Such notes, bonds, and other obligations shall not be a debt of the United States, or of any Territory or municipal corporation or other political subdivision or agency thereof other than the public corporate authority which issued such notes, bonds, or obligations, nor constitute a debt, indebtedness, or the borrowing of money within the meaning of any limitation or restriction on the issuance of notes, bonds, or other obligations contained in any laws of the United States applicable to Puerto Rico, or to any municipal corporation or other political subdivision or agency thereof.
-
-(July 18, 1950, ch. 466, title I, §101, 64 Stat. 344; Aug. 11, 1955, ch. 783, title I, §107(3), (7), (9), 69 Stat. 637, 638.)
-
-References in Text
-
-The Housing Act of 1949 (Public Law 171, Eighty-first Congress), as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended.
-Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated the authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
-
-This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, as amended, known as the Territorial Enabling Act of 1950, which enacted sections 480 to 480b, 483a, 483b, 721 to 721b, 910 to 910b, 1408 to 1408e of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title.
-For complete classification of this Act to the Code, see Tables.
-
-Codification
-
-Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
-
-Section 101 of act July 18, 1950, cited as a credit to this section, as applicable to Alaska and Hawaii, was classified to sections 480 and 721 of this title.
 
 Urban Renewal Activities
 
@@ -5848,8 +5802,10 @@ CHAPTER 6—CANAL ZONE
 
 Canal Zone Code
 
+Pub. L. 104–201, div. C, title XXXV, §3549, Sept. 23, 1996, 110 Stat. 2870, repealed the Panama Canal Code.
+
 Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, redesignated the Canal Zone Code as the Panama Canal Code.
-See, also, section 3602(d) of Title 22, Foreign Relations and Intercourse.
+See References to Canal Zone Code Deemed References to Panama Canal Code note under section 3602 of Title 22, Foreign Relations and Intercourse.
 
 Pub. L. 87–845, Oct. 18, 1962, 76A Stat. 1, revised and codified into the “Canal Zone Code” all the general and permanent laws relating to and in force in the Canal Zone as of Oct. 18, 1962, other than the general laws of the United States relating to or applying in the Canal Zone.
 
@@ -5860,6 +5816,7 @@ Act June 19, 1934, ch. 667, 48 Stat. 1122, enacted the “Canal Zone Code” to 
 Codification
 
 Sections 1301 to 1304 were omitted as not of general application and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1301, acts Aug. 24, 1912, ch. 390, §14, 37 Stat. 569; June 19, 1934, ch. 667, §1, 48 Stat. 1122, related to short title.
 
@@ -5878,11 +5835,12 @@ Section 1304b, act May 3, 1932, ch. 162, §2, 47 Stat. 146, related to effect of
 
 Section 1304c, act May 3, 1932, ch. 162, §3, 47 Stat. 146, related to effect of modification on pending civil or criminal cases.
 
-§§1305 to 1314a. Omitted
+§§1305 to 1314. Omitted
 
 Codification
 
 Sections 1305 to 1314a were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1305, acts Aug. 24, 1912, ch. 390, §4, 37 Stat. 561; June 19, 1934, ch. 667, §1, 48 Stat. 1122; July 9, 1937, ch. 470, §3, 50 Stat. 487; Oct. 15, 1949, ch. 695, §5(a), 63 Stat. 880; Sept. 26, 1950, ch. 1049, §§1, 2(a), 64 Stat. 1038, related to establishment, administration, and functions of Canal Zone Government.
 
@@ -5916,7 +5874,10 @@ Section 1313, acts Aug. 21, 1916, ch. 371, §4, 39 Stat. 528; June 19, 1934, ch.
 
 Section 1314, acts Aug. 21, 1916, ch. 371, §5, 39 Stat. 528; June 19, 1934, ch. 667, §1, 48 Stat. 1122, related to violation of regulations generally.
 
-Section 1314a, act July 9, 1937, ch. 470, §1, 50 Stat. 486, related to air regulations.
+§1314a. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
+
+Section, act July 9, 1937, ch. 470, §1, 50 Stat. 486, related to air regulations.
 
 §§1314b to 1314e. Repealed.
 Aug. 10, 1949, ch. 415, §9(d), 63 Stat. 597
@@ -5934,6 +5895,7 @@ Section 1314e, act June 19, 1934, ch. 657, §4, 48 Stat. 1116, related to effect
 Codification
 
 Sections 1314f to 1315a were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1314f, act Oct. 1, 1942, ch. 574, 56 Stat. 763, related to prohibition of production, possession, and disposition of marihuana.
 
@@ -5957,6 +5919,7 @@ Section, act June 12, 1917, ch. 27, §1, 40 Stat. 179, related to refund of exce
 Codification
 
 Sections 1317 to 1319 were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1317, acts June 15, 1914, ch. 106, §2, 38 Stat. 386; June 19, 1934, ch. 667, §1, 48 Stat. 1122, related to reservation of right to discriminate in favor of American vessels.
 
@@ -5974,6 +5937,7 @@ Section, act Aug. 24, 1912, ch. 390, §5, 37 Stat. 562, related to injuries to e
 Codification
 
 Sections 1321 and 1322 were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1321, acts Aug. 21, 1916, ch. 371, §10, 39 Stat. 529; June 19, 1934, ch. 667, §1, 48 Stat. 1122, related to passage of persons through the Canal Zone.
 
@@ -5990,17 +5954,27 @@ Section 1323–2, act June 19, 1934, ch. 667, §53, as added Aug. 12, 1949, ch. 
 
 Section 1323–3, act June 19, 1934, ch. 667, §54, as added Aug. 12, 1949, ch. 422, §2, 63 Stat. 601, related to exemption of operations of postal service.
 
-§§1323a to 1323k. Omitted
+§1323a. Omitted
 
 Codification
 
-Sections 1323a to 1323k were omitted as not of general application, and as covered by the Canal Zone Code.
+Section, acts Feb. 16, 1933, ch. 89, §1, 47 Stat. 812; June 13, 1940, ch. 358, §2, 58 Stat. 389; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038, related to postal service generally and was omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
-Section 1323a, acts Feb. 16, 1933, ch. 89, §1, 47 Stat. 812; June 13, 1940, ch. 358, §2, 58 Stat. 389; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038, related to postal service generally.
+§1323b. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
 
-Section 1323b, act June 13, 1940, ch. 358, §2, 54 Stat. 389, related to postal-savings deposits.
+Section, act June 13, 1940, ch. 358, §2, 54 Stat. 389, related to postal-savings deposits.
 
-Section 1323c, acts Aug. 21, 1916, ch. 371, §6, 39 Stat. 528; Sept. 21, 1922, ch. 370, §11, 42 Stat. 1008; Feb. 16, 1933, ch. 89, §2, 47 Stat. 812; June 13, 1940, ch. 358, §2, 54 Stat. 389, related to interest rate on postal-savings certificates.
+§1323c. Omitted
+
+Codification
+
+Section, acts Aug. 21, 1916, ch. 371, §6, 39 Stat. 528; Sept. 21, 1922, ch. 370, §11, 42 Stat. 1008; Feb. 16, 1933, ch. 89, §2, 47 Stat. 812; June 13, 1940, ch. 358, §2, 54 Stat. 389, related to interest rate on postal-savings certificates and was omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
+
+§§1323d to 1323h. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
 
 Section 1323d, act June 13, 1940, ch. 358, §2, 54 Stat. 389, related to faith of United States pledged to payment of deposits.
 
@@ -6012,11 +5986,24 @@ Section 1323g, act June 13, 1940, ch. 358, §2, 54 Stat. 389, related to deposit
 
 Section 1323h, act June 13, 1940, ch. 358, §2, 54 Stat. 389, related to investment of money-order and postal-savings funds in securities of the United States.
 
-Section 1323i, acts Aug. 21, 1916, ch. 371, §7, 39 Stat. 528; Feb. 16, 1933, ch. 89, §3, 47 Stat. 812; June 13, 1940, ch. 358, §2, 54 Stat. 389, related to use of interest and profits on money-order and postal-savings funds.
+§1323i. Omitted
 
-Section 1323j, act June 13, 1940, ch. 358, §2, 54 Stat. 389, related to deposit money orders.
+Codification
 
-Section 1323k, act Feb. 16, 1933, ch. 89, §4, 47 Stat. 813, related to repeal of prior postal laws.
+Section, acts Aug. 21, 1916, ch. 371, §7, 39 Stat. 528; Feb. 16, 1933, ch. 89, §3, 47 Stat. 812; June 13, 1940, ch. 358, §2, 54 Stat. 389, related to use of interest and profits on money-order and postal-savings funds and was omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
+
+§1323j. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
+
+Section, act June 13, 1940, ch. 358, §2, 54 Stat. 389, related to deposit money orders.
+
+§1323k. Omitted
+
+Codification
+
+Section, act Feb. 16, 1933, ch. 89, §4, 47 Stat. 813, related to repeal of prior postal laws and was omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 §§1324, 1325. Repealed.
 Feb. 16, 1933, ch. 89, §4, 47 Stat. 812
@@ -6030,6 +6017,7 @@ Section 1325, act Aug. 21, 1916, ch. 371, §7, 39 Stat. 528, related to use of i
 Codification
 
 Sections 1325a to 1327 were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1325a, acts Feb. 16, 1933, ch. 90, §1, 47 Stat. 813; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038, related to rules and regulations of the Customs Service.
 
@@ -6057,6 +6045,7 @@ Section 1329, acts Mar. 3, 1915, ch. 75, §3, 38 Stat. 886; June 10, 1921, ch. 1
 Codification
 
 Sections 1330 to 1336h were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1330, act Aug. 24, 1912, ch. 390, 12, 37 Stat. 569, related to extradition of fugitives.
 
@@ -6115,17 +6104,28 @@ June 24, 1936, ch. 754, §10, 49 Stat. 1906
 
 Section, act Feb. 16, 1933, ch. 88, §9, 47 Stat. 812, related to small vessels carrying passengers.
 
-§§1336j to 1337c. Omitted
+§§1336j, 1336k. Omitted
 
 Codification
 
-Sections 1336j to 1337c were omitted as not of general application, and as covered by the Canal Zone Code.
+Sections 1336j and 1336k were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1336j, act July 5, 1932, ch. 421, §1, 47 Stat. 576, related to equipment on ocean-going vessels using ports of Canal Zone.
 
 Section 1336k, act July 5, 1932, ch. 421, §2, 47 Stat. 576, related to jurisdiction of violations.
 
-Section 1337, acts Dec. 12, 1941, ch. 569, 55 Stat. 798; Sept. 26, 1950, ch. 1049, §2(a)(1), (b), 64 Stat. 1038, related to photographic regulations.
+§1337. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
+
+Section, acts Dec. 12, 1941, ch. 569, 55 Stat. 798; Sept. 26, 1950, ch. 1049, §2(a)(1), (b), 64 Stat. 1038, related to photographic regulations.
+
+§§1337a to 1337c. Omitted
+
+Codification
+
+Sections 1337a to 1337c were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1337a, act June 19, 1934, ch. 667, §16, as added Aug. 12, 1949, ch. 422, §1, 63 Stat. 600, and amended Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038, related to acquisition or construction of structures, equipment, and improvements.
 
@@ -6133,11 +6133,12 @@ Section 1337b, act June 19, 1934, ch. 667, §17, as added Aug. 12, 1949, ch. 422
 
 Section 1337c, act June 19, 1934, ch. 667, §18, as added Aug. 12, 1949, ch. 422, §1, 63 Stat. 600, and amended Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038, related to disaster relief.
 
-§§1341 to 1355. Omitted
+§§1341 to 1344. Omitted
 
 Codification
 
-Sections 1341 to 1355 were omitted as not of general application, and as covered by the Canal Zone Code.
+Sections 1341 to 1344 were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1341, acts Aug. 24, 1912, ch. 390, §7, 37 Stat. 564; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1004; Feb. 16, 1933, ch. 91, §1, 47 Stat. 814, related to determination of towns in Canal Zone.
 
@@ -6147,7 +6148,17 @@ Section 1343, acts Aug. 24, 1912, ch. 390, §7, 37 Stat. 564; Sept. 21, 1922, ch
 
 Section 1344, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, §2, 47 Stat. 815, related to district courts generally.
 
-Section 1344–1, act Dec. 16, 1941, ch. 580, §3, 55 Stat. 802, related to rules of criminal procedure.
+§1344–1. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
+
+Section, act Dec. 16, 1941, ch. 580, §3, 55 Stat. 803, related to rules of criminal procedure.
+
+§§1344a to 1355. Omitted
+
+Codification
+
+Sections 1344a to 1355 were omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1344a, acts Aug. 12, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, §2, 47 Stat. 816, related to orders made when outside jurisdiction.
 
@@ -6161,7 +6172,7 @@ Section 1347, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch
 
 Section 1348, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, §2, 47 Stat. 816, related to compensation of district judge.
 
-Section 1349, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §42 Stat. 1005; Feb. 16, 1933, ch. 91, 47 Stat. 816, related to clerk of district court.
+Section 1349, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, 47 Stat. 816, related to clerk of district court.
 
 Section 1350, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, §2, 47 Stat. 815, related to appointment and compensation of special judge.
 
@@ -6192,17 +6203,15 @@ Codification
 Section 1357, acts Aug. 24, 1912, ch. 390, §9, 37 Stat. 565; Sept. 21, 1922, ch. 370, §3, 42 Stat. 1006, related to blending of law and equity jurisdiction.
 
 Section 1358, act June 28, 1906, ch. 3585, 34 Stat. 552, related to acknowledgment of deeds and was omitted as not of general application, and as covered by the Canal Zone Code.
+The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 §1361. Repealed.
 Sept. 26, 1950, ch. 1049, §13(7), 64 Stat. 1043
 
 Section, act June 29, 1948, ch. 706, §1, 62 Stat. 1075, related to purpose of organization of Panama Railroad Company.
 
-§§1361a to 1361l. Omitted
-
-Codification
-
-Sections 1361a to 1361l were omitted as not of general application, and as covered by the Canal Zone Code.
+§§1361a to 1361l. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
 
 Section 1361a, acts June 29, 1948, ch. 706, §2, 62 Stat. 1076; Sept. 26, 1950, ch. 1049, §5, 64 Stat. 1041, related to the creation of the Panama Railroad Company.
 
@@ -6299,11 +6308,10 @@ Additional Repeal
 
 Sections were also repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
 
-§1372. Omitted
+§1372. Repealed.
+Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701
 
-Codification
-
-Section, acts July 8, 1937, ch. 443, §1, 50 Stat. 478; Sept. 26, 1950, ch. 1049, §2(a), (b), 64 Stat. 1038, related to relief of employee not entitled to retirement benefits and was omitted as not of general application, and as covered by the Canal Zone Code.
+Section, acts July 8, 1937, ch. 443, §1, 50 Stat. 478; Sept. 26, 1950, ch. 1049, §2(a), (b), 64 Stat. 1038, related to relief of employee not entitled to retirement benefits.
 
 §§1373 to 1374d. Omitted
 
@@ -6620,6 +6628,23 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 1392, 1396 of this title.
 
+§1395. Tax laws continued; tax on sugar
+
+Until Congress shall otherwise provide all laws now imposing taxes in the said West Indian Islands, including the customs laws and regulations, shall, insofar as compatible with the changed sovereignty and not otherwise herein provided, continue in force and effect, except that articles the growth, product, or manufacture of the United States shall be admitted there free of duty: Provided, That upon exportation of sugar to any foreign country, or the shipment thereof to the United States or any of its possessions, there shall be levied, collected, and paid thereon an export duty of $6 per ton of two thousand pounds, irrespective of polariscope test, in lieu of any export tax now required by law: Provided further, That the internal revenue taxes levied by the Colonial Council of Saint Croix, or by the Colonial Council of Saint Thomas and Saint John, in pursuance of the authority granted by this section and sections 1391,1 1392, 1394, and 1396 of this title on articles, goods, wares, or merchandise may be levied and collected as the Colonial Council of Saint Croix, or as the Colonial Council of Saint Thomas and Saint John, may direct, on the articles subject to said tax, as soon as the same are manufactured, sold, used, or brought into the island: And provided further, That no discrimination be made between the articles imported from the United States or foreign countries and similar articles produced or manufactured in the municipality of Saint Croix, or in the municipality of Saint Thomas and Saint John, respectively.
+The officials of the Customs and Postal Services of the United States are directed to assist the appropriate officials of the municipality of Saint Croix, or of the municipality of Saint Thomas and Saint John, in the collection of these taxes.
+
+(Mar. 3, 1917, ch. 171, §4, 39 Stat. 1133; Feb. 25, 1927, ch. 192, §5, 44 Stat. 1235; June 24, 1932, ch. 275, 47 Stat. 333.)
+
+References in Text
+
+The customs laws, referred to in text, are classified generally to Title 19, Customs Duties.
+
+Section 1391 of this title, referred to in text, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 643.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 1392, 1396 of this title.
+
 1 See References in Text note below.
 
 §1396. Duties and taxes covered into Virgin Islands treasury
@@ -6627,12 +6652,6 @@ This section is referred to in sections 1392, 1396 of this title.
 The duties and taxes collected in pursuance of sections 1394 and 1395 of this title shall not be covered into the general fund of the Treasury of the United States, but shall be used and expended for the government and benefit of the Virgin Islands, under such rules and regulations as the President may prescribe.
 
 (Mar. 3, 1917, ch. 171, §5, 39 Stat. 1133.)
-
-Cross References
-
-Disposition of proceeds of taxes on articles produced in the Virgin Islands and transported into the United States, see section 7652 of Title 26, Internal Revenue Code.
-
-Use of proceeds of customs duties and taxes collected in the Virgin Islands, see section 1642 of this title.
 
 Section Referred to in Other Sections
 
@@ -6655,16 +6674,6 @@ Section is from act July 12, 1921, popularly known as the Naval Service Appropri
 Application of Western Hemisphere Trade Corporation Provision Under the Virgin Islands Tax Laws
 
 Pub. L. 92–178, title III, §307, Dec. 10, 1971, 85 Stat. 524, provided that for purposes of applying the income tax laws of the United States with respect to the Virgin Islands under this section, subpart C of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1954 [former 26 U.S.C. 921, 922] (relating to Western Hemisphere Trade Corporations) shall be treated as having been repealed effective with respect to taxable years beginning after Dec. 10, 1971.
-
-Cross References
-
-All provisions of laws of the United States applicable to assessment and collection of taxes imposed by Internal Revenue Code as applicable to possessions, see section 7651 of Title 26, Internal Revenue Code.
-
-Disposition of proceeds of taxes on articles produced in the Virgin Islands and transported into the United States, see section 7652 of Title 26.
-
-Use of proceeds of United States income tax collected in the Virgin Islands, see section 1642 of this title.
-
-Taxation of income derived from sources within the United States, see section 933 of Title 26.
 
 Section Referred to in Other Sections
 
@@ -6717,10 +6726,6 @@ Until local tax laws conforming to the requirements of sections 1401 to 1401e of
 If the legislative authority of a municipality failed to enact laws for the levy, assessment, collection, or enforcement of any tax imposed under authority of said sections, within three months after May 26, 1936, the President shall prescribe regulations for the levy, assessment, collection, and enforcement of such tax, which shall be in effect until the legislative authority of such municipality shall make regulations for such purposes.
 
 (May 26, 1936, ch. 450, §3, 49 Stat. 1372.)
-
-Cross References
-
-Excess or additional rate of taxation for servicing outstanding bonds authorized, see section 1403 of this title.
 
 Section Referred to in Other Sections
 
@@ -6863,10 +6868,6 @@ Codification
 
 Provisions similar to those comprising this section relating to Puerto Rico are classified to section 734a of this title.
 
-Cross References
-
-Industrial alcohol plants, application of internal revenue laws to Virgin Islands, see section 5314 of Title 26, Internal Revenue Code.
-
 §1403. Issuance of bonds or other obligations by government or municipalities; use of proceeds; limit on public indebtedness; terms, execution, interest rate, and sale price; taxes
 
 To construct, improve, extend, better, repair, reconstruct, acquire, and operate any and all types of public works which shall include, but not be limited to, streets, bridges, wharves, and harbor facilities, sewers and sewage-disposal plants, municipal buildings, schools, libraries, gymnasia and athletic fields, fire houses, electric distribution systems or other work pertaining to electric systems, and other public utilities, including those owned or operated by the Saint Thomas Power Authority, or to clear slums, accomplish urban redevelopment or provide low-rent housing, negotiable general obligation bonds and other obligations may be issued by the government of the Virgin Islands or any municipality thereof: Provided, That no public indebtedness of any municipality thereof shall be incurred in excess of 10 per centum of the aggregate assessed valuation of the taxable real property in such municipality and that no public indebtedness of the government of the Virgin Islands shall be incurred in excess of 10 per centum of the aggregate assessed valuation of the taxable real property in the islands.
@@ -6913,10 +6914,6 @@ This subchapter is referred to in sections 1408a, 1574 of this title.
 The provisions of this subchapter, and the name “the Virgin Islands” as used in this subchapter, shall apply to and include the territorial domain, lands and waters acquired by the United States through cession of the Danish West Indian Islands by the convention between the United States of America and His Majesty the King of Denmark entered into August 4, 1916, and ratified by the Senate on September 7, 1916 (39 Stat. L. 1706).
 
 (June 22, 1936, ch. 699, §1, 49 Stat. 1807.)
-
-Cross References
-
-Provisions of this subchapter, not inconsistent with section 1541 et seq. of this title as continued in force and effect, see section 1574 of this title.
 
 §§1405a, 1405b. Repealed.
 Pub. L. 97–357, title III, §307, Oct. 19, 1982, 96 Stat. 1709
@@ -6977,10 +6974,6 @@ It is ordered that all of the navigation and vessel inspection laws of the Unite
 
 (4) Federal laws levying tonnage duties, light money, or entrance and clearance fees.
 
-Cross References
-
-Terms of the convention between the United States and Denmark, see Presidential Proclamation of Jan. 25, 1917, 39 Stat. 1706.
-
 Section Referred to in Other Sections
 
 This section is referred to in section 1545 of this title.
@@ -7030,12 +7023,6 @@ The laws of the United States relating to patents, trade marks, and copyrights, 
 References in Text
 
 The laws of the United States relating to patents, trade marks, and copyrights, referred to in text, are classified generally to Title 35, Patents, chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade, and Title 17, Copyrights.
-
-Cross References
-
-Jurisdiction of District Court of the Virgin Islands, see section 1612 of this title.
-
-Provisions of this subchapter, not inconsistent with section 1541 et seq. of this title as continued in force and effect, see section 1574 of this title.
 
 §1405r. Repealed.
 Pub. L. 97–357, title III, §307, Oct. 19, 1982, 96 Stat. 1709
@@ -7147,10 +7134,6 @@ This subchapter shall take effect June 22, 1936, but until its provisions shall 
 This subchapter may be cited as the Organic Act of the Virgin Islands of the United States.
 
 (June 22, 1936, ch. 699, §41, 49 Stat. 1817.)
-
-Cross References
-
-Provisions of this subchapter not inconsistent with section 1541 et seq. of this title as continued in force and effect, see section 1574 of this title.
 
 SUBCHAPTER III—VIRGIN ISLANDS CORPORATION
 
@@ -7450,10 +7433,6 @@ All acts done, and offenses or crimes committed, on any island, rock, or key men
 Codification
 
 R.S. §5576 derived from act Aug. 18, 1856, ch. 164, §6, 11 Stat. 120.
-
-Cross References
-
-Crimes committed on any island, rock, or key, containing deposits of guano, which may be considered as appertaining to the United States, to be punished as crimes under admiralty or maritime jurisdiction, see section 7 of Title 18, Crimes and Criminal Procedure.
 
 §1418. Employment of land and naval forces in protection of rights
 
@@ -7952,10 +7931,6 @@ All laws enacted by Congress with respect to Guam and all laws enacted by the te
 
 (Aug. 1, 1950, ch. 512, §5, 64 Stat. 385; Pub. L. 90–497, §10, Sept. 11, 1968, 82 Stat. 847.)
 
-Cross References
-
-Advocating overthrow of government, penalty for, see section 2385 of Title 18, Crimes and Criminal Procedure.
-
 §1421c. Certain laws continued in force; modification or repeal of laws
 
 (a) The laws of Guam in force on August 1, 1950, except as amended by this chapter, are continued in force, subject to modification or repeal by the Congress of the United States or the Legislature of Guam, and all laws of Guam inconsistent with the provisions of this chapter are repealed to the extent of such inconsistency.
@@ -7964,16 +7939,6 @@ Advocating overthrow of government, penalty for, see section 2385 of Title 18, C
 Pub. L. 90–497, §7, Sept. 11, 1968, 82 Stat. 847.
 
 (Aug. 1, 1950, ch. 512, §25, 64 Stat. 390; Pub. L. 90–497, §7, Sept. 11, 1968, 82 Stat. 847.)
-
-Cross References
-
-Acknowledgment of deeds, see section 1421f–1 of this title.
-
-Fair Labor Standards Act, application to Guam, see section 213 of Title 29, Labor.
-
-National Bank Act, application to Guam, see section 41 of Title 12, Banks and Banking.
-
-Park programs, State as including Guam, see section 17n of Title 16, Conservation.
 
 §1421d. Salaries and allowances of officers and employees
 
@@ -8102,8 +8067,6 @@ Section is also classified to section 1663 of this title.
 
 Section was formerly classified to sections 1358 and 1432 of this title.
 
-Section is also set out in D.C. Code, §45–605.
-
 §1421g. Establishment and maintenance of public bodies and offices
 
 (a) Public health services
@@ -8149,10 +8112,6 @@ The internal-revenue laws of the United States, referred to in text, are classif
 Public Law 94–395 (90 Stat. 1199), referred to in text, was enacted Sept. 3, 1976, and amended section 1423a of this title.
 
 Public Law 88–170, as amended (82 Stat. 863), referred to in text, is Pub. L. 88–170, Nov. 4, 1963, 77 Stat. 302, as amended by Pub. L. 90–511, Sept. 24, 1968, 82 Stat. 863, which is not classified to the Code.
-
-Cross References
-
-Payment to Guam of proceeds of tax collected on coconut and palm oil, see section 7653 of Title 26, Internal Revenue Code.
 
 Section Referred to in Other Sections
 
@@ -8240,12 +8199,6 @@ See section 1271 of Pub. L. 99–514, set out as a note under section 931 of Tit
 Ratification of Assessments and Collections Made Before August 20, 1958
 
 Section 2 of Pub. L. 85–688 provided that income taxes assessed prior to Aug. 20, 1958, by the authorities of the government of Guam pursuant to, or under color of, this section, the collection of such taxes, and all acts done to effectuate such assessment and collection were legalized, ratified and confirmed as fully, to all intents and purposes, as if subsecs. (b) to (h) of this section, had then been in full force and effect.
-
-Cross References
-
-All provisions of laws of the United States applicable to assessment and collection of taxes imposed by Internal Revenue Code as applicable to possessions, see section 7651 of Title 26, Internal Revenue Code.
-
-Articles, goods, wares, or merchandise going into Guam as exempt from payment of any tax imposed by the internal revenue laws of the United States, see section 7653 of Title 26.
 
 §1421j. Authorization of appropriations
 
@@ -8425,34 +8378,49 @@ The Lieutenant Governor shall have such executive powers and perform such duties
 
 (Aug. 1, 1950, ch. 512, §6, 64 Stat. 386; Pub. L. 90–497, §1, Sept. 11, 1968, 82 Stat. 842; Pub. L. 97–357, title I, §104(a), Oct. 19, 1982, 96 Stat. 1705; Pub. L. 105–362, title IX, §901(m), Nov. 10, 1998, 112 Stat. 3290.)
 
-§1422b. Vacancy in office of Governor or Lieutenant Governor
+Termination of Reporting Requirements
 
-(a) Temporary disability or temporary absence of Governor
+For termination, effective May 15, 2000, of provisions in the 1st sentence of the 6th paragraph of this section relating to the requirement that the Governor submit a comprehensive annual financial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 9th item on page 115 of House Document No. 103–7.
 
-In case of the temporary disability or temporary absence of the Governor, the Lieutenant Governor shall have the powers of the Governor.
+Submerged Lands, Conveyance to Territory
 
-(b) Permanent vacancy in office of Governor
+Conveyance of submerged lands to the government of Guam, see section 1701 et seq. of this title.
 
-In case of a permanent vacancy in the office of Governor, arising by reason of the death, resignation, removal by recall, or permanent disability of the Governor, or the death, resignation, or permanent disability of a Governor-elect, or for any other reason, the Lieutenant Governor or Lieutenant Governor-elect shall become the Governor, to hold office for the unexpired term and until he or his successor shall have been duly elected and qualified at the next regular election for Governor.
+Section Referred to in Other Sections
 
-(c) Temporary disability or temporary absence of Lieutenant Governor
+This section is referred to in section 1428d of this title.
 
-In case of the temporary disability or temporary absence of the Lieutenant Governor, or during any period when the Lieutenant Governor is acting as Governor, the speaker of the Guam Legislature shall act as Lieutenant Governor.
+§1422a. Removal of Governor, Lieutenant Governor, or member of legislature; referendum election
 
-(d) Permanent vacancy in office of Lieutenant Governor
+(a) The people of Guam shall have the right of initiative and referendum, to be exercised under conditions and procedures specified in the laws of Guam.
 
-In case of a permanent vacancy in the office of Lieutenant Governor, arising by reason of the death, resignation, or permanent disability of the Lieutenant Governor, or because the Lieutenant Governor or Lieutenant Governor-elect has succeeded to the office of Governor, the Governor shall appoint a new Lieutenant Governor, with the advice and consent of the legislature, to hold office for the unexpired term and until he or his successor shall have been duly elected and qualified at the next regular election for Lieutenant Governor.
+(b) Any Governor, Lieutenant Governor, or member of the legislature of Guam may be removed from office by a referendum election in which at least two-thirds of the number of persons voting for such official in the last preceding general election at which such official was elected vote in favor of recall and in which those so voting constitute a majority of all those participating in such referendum election.
+The referendum election shall be initiated by the legislature of Guam following (a) a two-thirds vote of the members of the legislature in favor of a referendum, or (b) petition for such a referendum to the legislature by registered voters equal in number to at least 50 per centum of the whole number of votes cast at the last general election at which such official was elected preceding the filing of the petition.
 
-(e) Temporary disability or temporary absence of both Governor and Lieutenant Governor
+(Aug. 1, 1950, ch. 512, §7, 64 Stat. 387; Pub. L. 90–497, §2, Sept. 11, 1968, 82 Stat. 844; Pub. L. 97–357, title I, §101, Oct. 19, 1982, 96 Stat. 1705.)
 
-In case of the temporary disability or temporary absence of both the Governor and the Lieutenant Governor, the powers of the Governor shall be exercised, as Acting Governor, by such person as the laws of Guam may prescribe.
-In case of a permanent vacancy in the offices of both the Governor and Lieutenant Governor, the office of Governor shall be filled for the unexpired term in the manner prescribed by the laws of Guam.
+§1422c. Executive agencies and instrumentalities
 
-(f) Additional compensation
+(a) Appointment of heads; establishment of merit system; Civil Service Commission
 
-No additional compensation shall be paid to any person acting as Governor or Lieutenant Governor who does not also assume the office of Governor or Lieutenant Governor under the provisions of this chapter.
+The Governor shall, except as otherwise provided in this chapter or the laws of Guam, appoint, by and with the advice and consent of the legislature, all heads of executive agencies and instrumentalities.
+The legislature shall establish a merit system and, as far as practicable, appointments and promotions shall be made in accordance with such merit system.
+The Government of Guam may by law establish a Civil Service Commission to administer the merit system.
+Members of the commission may be removed as provided by the laws of Guam.
 
-(Aug. 1, 1950, ch. 512, §8, 64 Stat. 387; Pub. L. 87–419, §1, Mar. 16, 1962, 76 Stat. 34; Pub. L. 90–497, §3, Sept. 11, 1968, 82 Stat. 844.)
+(b) Powers and duties of officers
+
+All officers shall have such powers and duties as may be conferred or imposed on them by law or by executive regulation of the Governor not inconsistent with any law.
+
+(c) Reorganization
+
+The Governor shall, from time to time, examine the organization of the executive branch of the government of Guam, and shall determine and carry out such changes therein as are necessary to promote effective management and to execute faithfully the purposes of this chapter and the laws of Guam.
+
+(d) Continuation in office of incumbents
+
+All persons holding office in Guam on August 1, 1950 may, except as otherwise provided in this chapter, continue to hold their respective offices until their successors are appointed and qualified.
+
+(Aug. 1, 1950, ch. 512, §9, 64 Stat. 387; Pub. L. 90–497, §4, Sept. 11, 1968, 82 Stat. 845; Pub. L. 99–396, §18(a), Aug. 27, 1986, 100 Stat. 843.)
 
 §1422d. Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior
 
@@ -8623,11 +8591,6 @@ It shall be the duty of all officers of the government to receive and without de
 
 (Aug. 1, 1950, ch. 512, §21, 64 Stat. 389.)
 
-Cross References
-
-Petition for redress of grievances, see Const.
-Amend. 1.
-
 §1423l. Omitted
 
 Codification
@@ -8797,6 +8760,10 @@ Effective Date
 
 Section effective on ninetieth day following Oct. 5, 1984, see section 1005 of Pub. L. 98–454, set out as an Effective Date of 1984 Amendment note under section 1424 of this title.
 
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed as the last item on page 12), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 1 So in original.
 Probably should be “section.”
 
@@ -8872,16 +8839,6 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 Extension of Term of District Judges; Applicability; Effective Date
 
 Section 1004 of Pub. L. 98–454 provided that: “The provisions of sections 706(a), 802(a), and 901(a) of this Act [amending sections 1614, 1424b, and 1821, respectively, of this title] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act [Oct. 5, 1984].”
-
-Cross References
-
-Compensation of district court judges, see section 135 of Title 28, Judiciary and Judicial Procedure.
-
-Court officers and employees, general provisions applicable to, see section 951 et. seq. of Title 28.
-
-General provisions applicable to courts and judges, see section 451 et seq. of Title 28.
-
-Provisions relating to Administrative Office of the United States Courts, applicability to District Court of Guam, see section 610 of Title 28.
 
 Section Referred to in Other Sections
 
@@ -9404,7 +9361,7 @@ Probably should be “68”.
 
 All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or used by such governments, may be audited by the General Accounting Office, at its discretion, in accordance with chapter 35 of title 31.
 
-(Pub. L. 106–113, div. B, §1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–151.)
+(Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 938.)
 
 References in Text
 
@@ -9417,6 +9374,8 @@ Section is from the appropriation act cited as the credit to this section.
 Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 106–113, div. B, §1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–151.
 
 Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–249.
 
@@ -10086,15 +10045,9 @@ Section was formerly classified to section 78 of Title 8, Aliens and Nationality
 
 Section was not enacted as part of act Mar. 3, 1887, ch. 340, 24 Stat. 476, which comprises this chapter.
 
-Section is also set out as section 45–1301 of the District of Columbia Code.
-
 Repeals
 
 Section 2 of act Feb. 23, 1905, repealed all laws and parts of laws so far as they conflict with the provisions of this section.
-
-Cross References
-
-Judicial proceedings for declaration of nationality in event of denial of rights, see section 1503 of Title 8, Aliens and Nationality.
 
 §§1509 to 1512. Omitted
 
@@ -10689,11 +10642,12 @@ The legislative power and authority of the Virgin Islands shall be vested in a l
 
 (b) Composition; legislative districts; method of elections
 
-The legislature shall be composed of fifteen members to be known as senators.
+The legislature shall be composed of members to be known as senators.
+The number of such senators shall be determined by the laws of the Virgin Islands.
 The apportionment of the legislature shall be as provided by the laws of the Virgin Islands: Provided, That such apportionment shall not deny to any person in the Virgin Islands the equal protection of the law: And provided further, That every voter in any district election or at large election shall be permitted to vote for the whole number of persons to be elected in that district election or at large election as the case may be.
 Until the legislature shall provide otherwise, four members shall be elected at large, five shall be elected from the District of Saint Thomas, five from the District of Saint Croix, and one from the District of Saint John, as those Districts were constituted on July 22, 1954,
 
-(July 22, 1954, ch. 558, §5, 68 Stat. 498; Pub. L. 89–548, §1, Aug. 30, 1966, 80 Stat. 371.)
+(July 22, 1954, ch. 558, §5, 68 Stat. 498; Pub. L. 89–548, §1, Aug. 30, 1966, 80 Stat. 371; Pub. L. 106–364, §1, Oct. 27, 2000, 114 Stat. 1408.)
 
 §1572. Legislators
 
@@ -11001,7 +10955,7 @@ Section, Pub. L. 94–392, §4, Aug. 19, 1976, 90 Stat. 1195, related to grants 
 
 (a) Quorum and method of voting on bills
 
-The quorum of the legislature shall consist of eight of its members.
+The number of members of the legislature needed to constitute a quorum shall be determined by the laws of the Virgin Islands.
 No bill shall become a law unless it shall have been passed at a meeting, at which a quorum was present, by the affirmative vote of a majority of the members present and voting, which vote shall be by yeas and nays.
 
 (b) Enacting clause of acts
@@ -11036,7 +10990,7 @@ Every bill passed by the legislature and the yeas and nays on any question shall
 
 A listing of all laws enacted by the legislature each year shall be transmitted with the annual report to Congress required pursuant to section 1591 of this title.
 
-(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L. 95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244.)
+(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L. 95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 106–364, §2, Oct. 27, 2000, 114 Stat. 1408.)
 
 §1576. General elections; time; transfer of Council functions, property, etc.
 
@@ -11086,6 +11040,10 @@ References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning act July 22, 1954, ch. 558, 68 Stat. 497, as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter.
 For complete classification of this Act to the Code, see Short Title note set out under section 1541 of this title and Tables.
+
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in the 1st sentence of the 4th par. of this section relating to the requirement that the Governor submit a comprehensive annual financial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 11th item on page 115 of House Document No. 103–7.
 
 Submerged Lands, Conveyance to Territory
 
@@ -11323,10 +11281,6 @@ Jurisdiction of District Court Over Pending Cases
 
 Section 703(b) of Pub. L. 98–454 provided that: “The provisions of this section [amending this section] shall not result in the loss of jurisdiction of the District Court of the Virgin Islands over any complaint or proceeding pending in it on the day preceding the effective date of this amendatory Act [see Effective Date of 1984 Amendment note set out under section 1424 of this title] and such complaint and proceeding may be pursued to final determination in the District Court of the Virgin Islands, the United States Court of Appeals for the Third Circuit, and the Supreme Court, notwithstanding the provisions of this amendatory Act [Pub. L. 98–454].”
 
-Cross References
-
-Federal question, amount in controversy, see sections 1331 and 1332 of Title 28, Judiciary and Judicial Procedure.
-
 Section Referred to in Other Sections
 
 This section is referred to in sections 1561, 1611, 1614 of this title.
@@ -11342,6 +11296,10 @@ The United States Court of Appeals for the Third Circuit shall have jurisdiction
 Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed as the 1st item on page 13), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 §1613a. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to appellate court
 
@@ -11558,14 +11516,6 @@ Codification
 
 Section constitutes subsec. (a) of section 28 of act July 22, 1954. Subsec. (b) of section 28 amended section 3350 of former Title 26, Internal Revenue Code, 1939, and subsecs. (c) and (d) thereof are classified to sections 1643 and 1644, respectively, of this title.
 
-Cross References
-
-All provisions of laws of the United States applicable to assessment and collection of taxes imposed by Internal Revenue Code as applicable to possessions, see section 7651 of Title 26, Internal Revenue Code.
-
-Disposition of proceeds of taxes on articles produced in the Virgin Islands and transported into the United States, see section 7652 of Title 26.
-
-Payment of proceeds of United States income tax collected in the Virgin Islands into local treasury, see section 1397 of this title.
-
 Section Referred to in Other Sections
 
 This section is referred to in title 26 section 7651.
@@ -11631,6 +11581,10 @@ Section 1574d of this title, referred to in text, was repealed by Pub. L. 97–3
 Codification
 
 Section was not enacted as part of the Revised Organic Act of the Virgin Islands which comprises this chapter.
+
+Section Referred to in Other Sections
+
+This section is referred to in title 26 section 7652.
 
 1 See References in Text note below.
 
@@ -11737,20 +11691,6 @@ Submerged Lands, Conveyance to Territory
 
 Conveyance of submerged lands to the government of American Samoa, see section 1701 et seq. of this title.
 
-Cross References
-
-Articles, goods, wares or merchandise going into Samoa as exempt from payment of any tax imposed by the internal revenue laws of the United States, see section 7653 of Title 26, Internal Revenue Code.
-
-Entry of goods by means of false statements as excluding Samoa, see section 542 of Title 18, Crimes and Criminal Procedure.
-
-Fair Labor Standards Act, application to Samoa, see section 213 of Title 29, Labor.
-
-Preference of American products and manufactures, inclusion of Samoa in statute, see section 10c of Title 41, Public Contracts.
-
-Relanding goods as excluding Samoa, see section 544 of Title 18, Crimes and Criminal Procedure.
-
-Smuggling as excluding Samoa, see section 545 of Title 18.
-
 Section Referred to in Other Sections
 
 This section is referred to in section 1708 of this title.
@@ -11822,12 +11762,6 @@ Section is also classified to section 1421f–1 of this title.
 
 Section was formerly classified to sections 1358 and 1432 of this title.
 
-Section is also set out in D.C. Code, §45–605.
-
-Cross References
-
-Similar provisions relating to Guam, see section 1421f–1 of this title.
-
 §1664. Coastwise shipping laws of United States inapplicable
 
 The provisions of law of the United States restricting to vessels of the United States the transportation of passengers and merchandise directly or indirectly from any port of the United States to another port of the United States shall not be applicable to commerce beween 1 the islands of American Samoa or between those islands and other ports under the jurisdiction of the United States.
@@ -11837,10 +11771,6 @@ The provisions of law of the United States restricting to vessels of the United 
 Codification
 
 Section was formerly classified to section 1433 of this title.
-
-Cross References
-
-Transportation of merchandise between points in United States in other than domestic-built and documented vessels, see section 883 of Title 46, Appendix, Shipping.
 
 1 So in original.
 Probably should be “between”.
@@ -12006,6 +11936,10 @@ Prior Provisions
 
 A prior section 1668, Pub. L. 96–205, title V, §501, Mar. 12, 1980, 94 Stat. 90, mandated payment of salary and expenses of the government comptroller for American Samoa from funds appropriated to the Department of the Interior, prior to repeal by Pub. L. 97–357, §402.
 
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in the 1st sentence of subsec. (a) of this section relating to the requirement that the Governor submit a comprehensive annual financial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 14th item on page 115 of House Document No. 103–7.
+
 §1669. Administration and enforcement of collection of customs duties; employment and training of residents
 
 The Secretary of the Treasury shall, upon the request of the Governor of American Samoa, administer and enforce the collection of all customs duties derived from American Samoa, without cost to the government of American Samoa.
@@ -12157,7 +12091,7 @@ Pub. L. 95–348, §2(c), Aug. 18, 1978, 92 Stat. 488, directed Secretary of the
 
 Disaster Relief
 
-Section 3 of act June 30, 1954, ch. 423, as added Pub. L. 90–617, §2, Oct. 21, 1968, 82 Stat. 1213, and amended Pub. L. 91–606, title III, §301(k), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VI, §602(k), May 22, 1974, 88 Stat. 164; Pub. L. 100–707, title I, §109(w), Nov. 23, 1988, 102 Stat. 4710, provided that: “There are hereby authorized to be appropriated such sums as the Secretary of the Interior may find necessary, but not to exceed $10,000,000 for any one year, to alleviate suffering and damage resulting from major disasters that occur in the Trust Territory of the Pacific Islands.
+Section 3 of act June 30, 1954, ch. 423, as added Pub. L. 90–617, §2, Oct. 21, 1968, 82 Stat. 1213, and amended Pub. L. 91–606, title III, §301(k), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(k), formerly title VI, §602(k), May 22, 1974, 88 Stat. 164, renumbered Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 100–707, title I, §109(w), Nov. 23, 1988, 102 Stat. 4710, provided that: “There are hereby authorized to be appropriated such sums as the Secretary of the Interior may find necessary, but not to exceed $10,000,000 for any one year, to alleviate suffering and damage resulting from major disasters that occur in the Trust Territory of the Pacific Islands.
 Such sums shall be in addition to those authorized in section 2 of this Act [set out as a note above] and shall not be subject to the limitations imposed by section 2 of this Act.
 The Secretary of the Interior shall determine whether or not a major disaster has occurred in accordance with the principles and policies of sections 102(2) and 401 of the [Robert T. Stafford] Disaster Relief and Emergency Assistance Act [42 U.S.C. 5122(2), 5170].”
 
@@ -12579,6 +12513,10 @@ This section is not subject to termination under section 502(a)(3) of the Covena
 References in Text
 
 Section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in text, is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
+
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in the 1st sentence of this section relating to the requirement that the chief executives submit a comprehensive annual financial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 1st item on page 116 of House Document No. 103–7.
 
 Exception to Requirement that Statement be Submitted to High Commissioner of Trust Territory of the Pacific Islands
 
@@ -13837,6 +13775,38 @@ Effective Date
 
 For effective date of this section, see section 1825 of this title and Effective Date of Constitution note thereunder.
 
+§1823. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules
+
+(a) Appellate jurisdiction of District Court
+
+Prior to the establishment of an appellate court for the Northern Mariana Islands the district court shall have such appellate jurisdiction over the courts established by the Constitution or laws of the Northern Mariana Islands as the Constitution and laws of the Northern Mariana Islands provide, except that such Constitution and laws may not preclude the review of any judgment or order which involves the Constitution, treaties, or laws of the United States, including the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America (90 Stat. 263) (hereinafter referred to as “Covenant”), or any authority exercised thereunder by an officer or agency of the Government of the United States, or the conformity of any law enacted by the legislature of the Northern Mariana Islands or of any orders or regulations issued or actions taken by the executive branch of the government of the Northern Mariana Islands with the Constitution, treaties, or laws of the United States, including the Covenant or with any authority exercised thereunder by an officer or agency of the United States.
+
+(b) Appellate division of District Court; quorum; presiding judge; designation of judges; decisions
+
+Appeals to the district court shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum.
+The judge appointed for the court by the President shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act.
+The other judges who are to sit in the appellate division at any session shall be designated by the presiding judge from among the judges assigned to the court from time to time pursuant to section 1821(b)(2) of this title: Provided, That no more than one of them may be a judge of a court of record of the Northern Mariana Islands.
+The concurrence of two judges shall be necessary to any decision by the appellate division of the district court on the merits of an appeal but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure.
+
+(c) United States Court of Appeals for Ninth Circuit; jurisdiction; appeals; rules
+
+The United States Court of Appeals for the Ninth Circuit shall have jurisdiction of appeals from all final decisions of the appellate division of the district court.
+The United States Court of Appeals for the Ninth Circuit shall have jurisdiction to promulgate rules necessary to carry out the provisions of this subsection.
+
+(Pub. L. 95–157, §3, Nov. 8, 1977, 91 Stat. 1266; Pub. L. 98–454, title IX, §903, Oct. 5, 1984, 98 Stat. 1744.)
+
+References in Text
+
+The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in subsec. (a), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
+
+Codification
+
+Section was formerly classified to section 1694b of this title.
+
+Effective Date
+
+For effective date of this section, see section 1825 of this title and Effective Date of Constitution note thereunder.
+
 §1824. Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions
 
 (a) The relations between the courts established by the Constitution or laws of the United States and the courts of the Northern Mariana Islands with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus, and other matters or proceedings shall be governed by the laws of the United States pertaining to the relations between the courts of the United States including the Supreme Court of the United States, and the courts of the several States in such matters and proceedings, except as otherwise provided in article IV of the covenant: Provided, That for the first fifteen years following the establishment of an appellate court of the Northern Mariana Islands the United States court of appeals for the judicial circuit which includes the Northern Mariana Islands shall have jurisdiction of appeals from all final decisions of the highest court of the Northern Mariana Islands from which a decision could be had in all cases involving the Constitution, treaties, or laws of the United States, or any authority exercised thereunder, unless those cases are reviewable in the District Court for the Northern Mariana Islands pursuant to section 1823 of this title.
@@ -14212,7 +14182,7 @@ Communicable disease control program.
 Trust funds.
 
 (q)
-Annual reports on determinations under Compact section 313.
+Omitted.
 
 (r)
 User fees.
@@ -14545,6 +14515,10 @@ Section was formerly set out as a note under section 1681 of this title.
 Short Title
 
 Section 1(a) of Pub. L. 99–239 provided that: “This joint resolution [enacting this subchapter, chapter 19 (§2001 et seq.) of this title, and provisions set out below], together with the Table of Contents in subsection (b) of this section [99 Stat. 1770], may be cited as the ‘Compact of Free Association Act of 1985’.”
+
+Application of Federal Programs Under the Compacts of Free Association
+
+Pub. L. 106–504, §3(a), Nov. 13, 2000, 114 Stat. 2312, provided that: “The freely associated states of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, respectively, and citizens thereof, shall remain eligible for all Federal programs, grant assistance, and services of the United States, to the extent that such programs, grant assistance, and services are provided to States and local governments of the United States and residents of such States, for which a freely associated State or its citizens were eligible on October 1, 1999. This eligibility shall continue through the period of negotiations referred to in section 231 of the Compact of Free Association with the Republic of the Marshall Islands and the Federated States of Micronesia, approved in Public Law 99–239 [set out below], and during consideration by the Congress of legislation submitted by an Executive branch agency as a result of such negotiations.”
 
 Regulations Regarding Habitual Residence
 
@@ -15596,6 +15570,8 @@ Each Government accepting this Compact shall possess an original English languag
 
 “of the marshall islands”.
 
+[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting requirements under section 211(c) of the Compact of Free Association, set out above, are listed as the 5th and 6th items on page 115), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.]
+
 Clarification of Certain Trade and Tax Provisions of Compact of Free Association
 
 Title IV of Pub. L. 99–239 provided that:
@@ -15748,7 +15724,7 @@ The following authorities are delegated to the Secretary of State:
 
 (b) Submitting the certification and report to the Congress for purposes of section 5 of the Fishermen's Protective Act of 1967 [22 U.S.C. 1975], pursuant to section 104(f)(3) of the Act [48 U.S.C. 1904(f)(3)]; and
 
-(c) Reporting, with the concurrence of the Secretary of Defense, to the Congress on determinations made regarding security and defense, pursuant to section 105(q) of the Act [48 U.S.C. 1905(q)].
+(c) Reporting, with the concurrence of the Secretary of Defense, to the Congress on determinations made regarding security and defense, pursuant to section 105(q) of the Act [former 48 U.S.C. 1905(q)].
 
 Sec. 8. Supersession and Saving Provisions.
 
@@ -15887,6 +15863,10 @@ No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of t
 Codification
 
 Section was formerly set out as a note under section 1681 of this title.
+
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a)(4) and (c)(4) of this section are listed as the 12th and last items on page 37), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 Section Referred to in Other Sections
 
@@ -16166,6 +16146,10 @@ Codification
 
 Section was formerly set out as a note under section 1681 of this title.
 
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a)(4), (e)(5), and (m)(4) of this section are listed, respectively, as the 2nd item on page 38, the 16th item on page 115, and the 12th item on page 37), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 Tax Exemption for Enjebi Community Trust Fund
 
 Pub. L. 100–647, title VI, §6136, Nov. 10, 1988, 102 Stat. 3723, provided that:
@@ -16241,7 +16225,9 @@ In approving the Compact, it is not the intent of the Congress to cause any adve
 
 (2) Annual reports and recommendations
 
-One year after January 14, 1986, and at one year intervals thereafter, the President shall report to the Congress with respect to the impact of the Compact on the United States territories and commonwealths and on the State of Hawaii.
+One year after January 14, 1986, and at one year intervals thereafter, the Governor of any of the United States territories or commonwealths or the State of Hawaii may report to the Secretary of the Interior by February 1 of each year with respect to the impacts of the compacts of free association on the Governor's respective jurisdiction.
+The Secretary of the Interior shall review and forward any such reports to the Congress with the comments of the Administration.
+The Secretary of the Interior shall, either directly or, subject to available technical assistance funds, through a grant to the affected jurisdiction, provide for a census of Micronesians at intervals no greater than 5 years from each decennial United States census using generally acceptable statistical methodologies for each of the impact jurisdictions where the Governor requests such assistance, except that the total expenditures to carry out this sentence may not exceed $300,000 in any year.
 Reports submitted pursuant to this paragraph (hereafter in this subsection referred to as “reports”) shall identify any adverse consequences resulting from the Compact and shall make recommendations for corrective action to eliminate those consequences.
 The reports shall pay particular attention to matters relating to trade, taxation, immigration, labor laws, minimum wages, social systems and infrastructure, and environmental regulation.
 With regard to immigration, the reports shall include statistics concerning the number of persons availing themselves of the rights described in section 141(a) of the Compact during the year covered by each report.
@@ -16304,7 +16290,7 @@ For the purpose of applying the provisions of section 5 of the Fishermen's Prote
 
 The Congress hereby reaffirms the United States position that the United States Government is not responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Marshall Islands.
 
-(Pub. L. 99–239, title I, §104, Jan. 14, 1986, 99 Stat. 1788; (As amended Pub. L. 104–208, div. A, title I, §101(a) [title II, §211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 99–239, title I, §104, Jan. 14, 1986, 99 Stat. 1788; Pub. L. 104–208, div. A, title I, §101(a) [title II, §211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 106–504, §2, Nov. 13, 2000, 114 Stat. 2311.)
 
 References in Text
 
@@ -16517,18 +16503,7 @@ The Secretary of the Interior shall assist the Government of the Federated State
 
 The responsibilities of the United States with regard to implementation of section 235 of the Compact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
 
-(q) Annual reports on determinations under Compact section 313
-
-The President shall report annually to the Congress on determinations made by the United States in the exercise of its authority under section 313 of the Compact.
-Each such report shall describe the following, on a classified basis if necessary:
-
-(1) The actions that the Government of the Federated States of Micronesia or the Government of the Marshall Islands were required to refrain from pursuant to the determinations of the United States.
-
-(2) The justification for each determination by the United States, and the position of the other Government concerned with respect to such determination.
-
-(3) The effect of the determination on the authority and responsibility of the other government to conduct foreign affairs in accordance with section 121 of the Compact.
-
-(4) Any domestic effect in the Federated States of Micronesia or the Marshall Islands resulting from the determination, including any restriction on the civil and political rights of the citizens thereof.
+(q) Omitted
 
 (r) User fees
 
@@ -16573,6 +16548,9 @@ The National Historic Preservation Act, referred to in subsec. (l), is Pub. L. 8
 For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
 Codification
+
+Subsec. (q) of this section, which required the President to report annually to Congress on determinations made by the United States in the exercise of its authority under section 313 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+See, also, 14th item on page 37 of House Document No. 103–7.
 
 Section was formerly set out as a note under section 1681 of this title.
 
@@ -16716,6 +16694,10 @@ Codification
 
 Section was formerly set out as a note under section 1681 of this title.
 
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the requirement that the annual audit be submitted to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 13th item on page 37 of House Document No. 103–7.
+
 Section Referred to in Other Sections
 
 This section is referred to in section 1932 of this title.
@@ -16724,7 +16706,7 @@ This section is referred to in section 1932 of this title.
 
 (a) Additional programs and services
 
-In addition to the programs and services set forth in Section 221 of the Compact, and pursuant to Section 224 of the Compact, the services and programs of the following U.S. agencies shall be made available to the Federated States of Micronesia and the Marshall Islands: The Federal Deposit Insurance Corporation, Small Business Administration, Economic Development Administration, the Rural Electrification Administration, Job Partnership Training Act [29 U.S.C. 1501 et seq.], Job Corps, and the programs and services of the Department of Commerce relating to tourism and to marine resource development.
+In addition to the programs and services set forth in Section 221 of the Compact, and pursuant to Section 224 of the Compact, the services and programs of the following U.S. agencies shall be made available to the Federated States of Micronesia and the Marshall Islands: The Federal Deposit Insurance Corporation, Small Business Administration, Economic Development Administration, the Rural Electrification Administration, Job Partnership Training Act, Job Corps, and the programs and services of the Department of Commerce relating to tourism and to marine resource development.
 
 (b) Investment Development Funds
 
@@ -16752,8 +16734,8 @@ References in Text
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
-The Job Training Partnership Act, referred to in subsec. (a), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor.
-For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Partnership Training Act, referred to in subsec. (a), probably means the Job Training Partnership Act, Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables.
+For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsec. (b)(1), see Proc.
 No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title.
@@ -16779,10 +16761,10 @@ This section is referred to in section 1932 of this title.
 
 (3) The United States District Court for the District of Hawaii shall have jurisdiction to try all criminal offenses against the United States, including the laws of the State of Hawaii made applicable to the defense sites in the Marshall Islands or the Federated States of Micronesia by virtue of paragraph (2) of this subsection, committed by any person referred to in subsection (a) of this section.
 
-(4) The United States District Court for the District of Hawaii may appoint one or more magistrates for the defense sites in the Marshall Islands.
-Such Magistrates shall have the power and the status of Magistrates appointed pursuant to chapter 43, title 28, provided, however that such Magistrates shall have the power to try persons accused of and sentence persons convicted of petty offenses, as defined in section 1(3),1 title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
+(4) The United States District Court for the District of Hawaii may appoint one or more magistrate judges for the defense sites in the Marshall Islands.
+Such Magistrate Judges shall have the power and the status of Magistrate Judges appointed pursuant to chapter 43, title 28, provided, however that such Magistrate Judges shall have the power to try persons accused of and sentence persons convicted of petty offenses, as defined in section 1(3),1 title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
 
-(Pub. L. 99–239, title II, §202, Jan. 14, 1986, 99 Stat. 1835.)
+(Pub. L. 99–239, title II, §202, Jan. 14, 1986, 99 Stat. 1835; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 References in Text
 
@@ -16795,6 +16777,10 @@ Codification
 Section was formerly set out as a note under section 1681 of this title.
 
 Section was enacted as part of title II of Pub. L. 99–239, and not as part of title I of Pub. L. 99–239 which comprises this subchapter.
+
+Change of Name
+
+Words “magistrate judges” and “Magistrate Judges” substituted for “magistrates” and “Magistrates”, respectively, wherever appearing in subsec. (b)(4) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 1 See References in Text note below.
 
@@ -17954,10 +17940,10 @@ The defense sites of the United States established in Palau in accordance with t
 
 (2) The District Court of Guam shall have jurisdiction to try all criminal offenses against the United States, including the laws of Guam made applicable to the defense sites in Palau by virtue of subsection (c)(1) of this section, committed by any person referred to in subsection (a) of this section.
 
-(3) The District Court of Guam may appoint one or more magistrates for the defense sites in Palau.
-Such Magistrates shall have the power and the status of Magistrates appointed pursuant to chapter 43, title 28: Provided however, That such Magistrates shall have the power to try persons accused of, and sentence persons convicted of, petty offenses, as defined in section 1(3),1 title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
+(3) The District Court of Guam may appoint one or more magistrate judges for the defense sites in Palau.
+Such Magistrate Judges shall have the power and the status of Magistrate Judges appointed pursuant to chapter 43, title 28: Provided however, That such Magistrate Judges shall have the power to try persons accused of, and sentence persons convicted of, petty offenses, as defined in section 1(3),1 title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
 
-(Pub. L. 99–658, title II, §202, Nov. 14, 1986, 100 Stat. 3704.)
+(Pub. L. 99–658, title II, §202, Nov. 14, 1986, 100 Stat. 3704; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 References in Text
 
@@ -17970,6 +17956,10 @@ Codification
 Section was formerly set out as a note under section 1681 of this title.
 
 Section was enacted as part of title II of Pub. L. 99–658, not as part of title I of Pub. L. 99–658 which comprises this part.
+
+Change of Name
+
+Words “magistrate judges” and “Magistrate Judges” substituted for “magistrates” and “Magistrates”, respectively, wherever appearing in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 1 See References in Text note below.
 
@@ -18439,6 +18429,10 @@ The reports required in subsection (a) of this section shall set forth clearly d
 Codification
 
 Section was formerly set out as a note under section 1681 of this title.
+
+Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement to submit a report to Congress every five years, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 14th item on page 112 of House Document No. 103–7.
 
 Section Referred to in Other Sections
 

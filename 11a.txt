@@ -4,9 +4,9 @@ United States Code Document
 
 >
 
-BANKRUPTCY RULES AND OFFICIAL FORMS
+FEDERAL RULES OF BANKRUPTCY PROCEDURE AND OFFICIAL BANKRUPTCY FORMS
 
-(Effective August 1, 1983, as amended to January 23, 2000)
+(Effective August 1, 1983, as amended to January 2, 2001)
 
 Part
 Rule
@@ -1414,7 +1414,7 @@ The court shall not dismiss a case or suspend proceedings under §305 before a h
 
 The court may dismiss an individual debtor's case for substantial abuse under §707(b) only on motion by the United States trustee or on the court's own motion and after a hearing on notice to the debtor, the trustee, the United States trustee, and any other entities as the court directs.
 
-(1) A motion to dismiss a case for substantial abuse may be filed by the United States trustee only within 60 days after the first date set for the meeting of creditors under §341(a), unless, before the time has expired, the court for cause extends the time for filing the motion.
+(1) A motion to dismiss a case for substantial abuse may be filed by the United States trustee only within 60 days after the first date set for the meeting of creditors under §341(a), unless, on request filed by the United States trustee before the time has expired, the court for cause extends the time for filing the motion to dismiss.
 The United States trustee shall set forth in the motion all matters to be submitted to the court for its consideration at the hearing.
 
 (2) If the hearing is set on the court's own motion, notice of the hearing shall be served on the debtor no later than 60 days after the first date set for the meeting of creditors under §341(a). The notice shall set forth all matters to be considered by the court at the hearing.
@@ -1431,7 +1431,8 @@ The United States trustee shall set forth in the motion all matters to be submit
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 22, 1993, eff.
 Aug. 1, 1993; Apr. 26, 1999, eff.
-Dec. 1, 1999.)
+Dec. 1, 1999; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1637,7 +1638,7 @@ Except as provided in subdivisions (h), (i), and (l) of this rule, the clerk, or
 
 (5) the time fixed to accept or reject a proposed modification of a plan;
 
-(6) hearings on all applications for compensation or reimbursement of expenses totaling in excess of $500;
+(6) a hearing on any entity's request for compensation or reimbursement of expenses if the request exceeds $1,000;
 
 (7) the time fixed for filing proofs of claims pursuant to Rule 3003(c); and
 
@@ -1716,7 +1717,8 @@ Aug. 1, 1991; Apr. 22, 1993, eff.
 Aug. 1, 1993; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 11, 1997, eff.
 Dec. 1, 1997; Apr. 26, 1999, eff.
-Dec. 1, 1999.)
+Dec. 1, 1999; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1817,122 +1819,6 @@ Subd. (n). Pub. L. 98–353 added subd. (n).
 1983 Amendment
 
 Subd. (f). Pub. L. 98–91 inserted “, or some other person as the Court may direct,” after “clerk”.
-
-Rule 2003. Meeting of Creditors or Equity Security Holders
-
-(a) Date and Place
-
-In a chapter 7 liquidation or a chapter 11 reorganization case, the United States trustee shall call a meeting of creditors to be held no fewer than 20 and no more than 40 days after the order for relief.
-In a chapter 12 family farmer debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 20 and no more than 35 days after the order for relief.
-In a chapter 13 individual's debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 20 and no more than 50 days after the order for relief.
-If there is an appeal from or a motion to vacate the order for relief, or if there is a motion to dismiss the case, the United States trustee may set a later date for the meeting.
-The meeting may be held at a regular place for holding court or at any other place designated by the United States trustee within the district convenient for the parties in interest.
-If the United States trustee designates a place for the meeting which is not regularly staffed by the United States trustee or an assistant who may preside at the meeting, the meeting may be held not more than 60 days after the order for relief.
-
-(b) Order of Meeting
-
-(1) Meeting of Creditors.
-The United States trustee shall preside at the meeting of creditors.
-The business of the meeting shall include the examination of the debtor under oath and, in a chapter 7 liquidation case, may include the election of a trustee or of a creditors’ committee.
-The presiding officer shall have the authority to administer oaths.
-
-(2) Meeting of Equity Security Holders.
-If the United States trustee convenes a meeting of equity security holders pursuant to §341(b) of the Code, the United States trustee shall fix a date for the meeting and shall preside.
-
-(3) Right To Vote.
-In a chapter 7 liquidation case, a creditor is entitled to vote at a meeting if, at or before the meeting, the creditor has filed a proof of claim or a writing setting forth facts evidencing a right to vote pursuant to §702(a) of the Code unless objection is made to the claim or the proof of claim is insufficient on its face.
-A creditor of a partnership may file a proof of claim or writing evidencing a right to vote for the trustee for the estate of the general partner notwithstanding that a trustee for the estate of the partnership has previously qualified.
-In the event of an objection to the amount or allowability of a claim for the purpose of voting, unless the court orders otherwise, the United States trustee shall tabulate the votes for each alternative presented by the dispute and, if resolution of such dispute is necessary to determine the result of the election, the tabulations for each alternative shall be reported to the court.
-
-(c) Record of Meeting
-
-Any examination under oath at the meeting of creditors held pursuant to §341(a) of the Code shall be recorded verbatim by the United States trustee using electronic sound recording equipment or other means of recording, and such record shall be preserved by the United States trustee and available for public access until two years after the conclusion of the meeting of creditors.
-Upon request of any entity, the United States trustee shall certify and provide a copy or transcript of such recording at the entity's expense.
-
-(d) Report of Election and Resolution of Disputes in a Chapter 7 Case
-
-(1) Report of Undisputed Election.
-In a chapter 7 case, if the election of a trustee or a member of a creditors’ committee is not disputed, the United States trustee shall promptly file a report of the election, including the name and address of the person or entity elected and a statement that the election is undisputed.
-
-(2) Disputed Election.
-If the election is disputed, the United States trustee shall promptly file a report stating that the election is disputed, informing the court of the nature of the dispute, and listing the name and address of any candidate elected under any alternative presented by the dispute.
-No later than the date on which the report is filed, the United States trustee shall mail a copy of the report to any party in interest that has made a request to receive a copy of the report.
-Pending disposition by the court of a disputed election for trustee, the interim trustee shall continue in office.
-Unless a motion for the resolution of the dispute is filed no later than 10 days after the United States trustee files a report of a disputed election for trustee, the interim trustee shall serve as trustee in the case.
-
-(e) Adjournment
-
-The meeting may be adjourned from time to time by announcement at the meeting of the adjourned date and time without further written notice.
-
-(f) Special Meetings
-
-The United States trustee may call a special meeting of creditors on request of a party in interest or on the United States trustee's own initiative.
-
-(g) Final Meeting
-
-If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk shall mail a summary of the trustee's final account to the creditors with a notice of the meeting, together with a statement of the amount of the claims allowed.
-The trustee shall attend the final meeting and shall, if requested, report on the administration of the estate.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991; Apr. 22, 1993, eff.
-Aug. 1, 1993; Apr. 26, 1999, eff.
-Dec. 1, 1999.)
-
-Notes of Advisory Committee on Rules—1983
-
-Section 341(a) of the Code requires a meeting of creditors in a chapter 7, 11 or 13 case, and §341(b) permits the court to order a meeting of equity security holders.
-A major change from prior law, however, prohibits the judge from attending or presiding over the meeting.
-Section 341(c).
-
-This rule does not apply either in a case for the reorganization of a railroad or for the adjustment of debts of a municipality.
-Sections 1161 and 901 render §§341 and 343 inapplicable in these types of cases.
-Section 341 sets the requirement for a meeting of creditors and §343 provides for the examination of the debtor.
-
-Subdivision (a). The meeting is to be held between 20 and 40 days after the date of the order for relief.
-In a voluntary case, the date of the order for relief is the date of the filing of the petition (§301 of the Code); in an involuntary case, it is the date of an actual order (§303(i) of the Code).
-
-Subdivision (b) provides flexibility as to who will preside at the meeting of creditors.
-The court may designate a person to serve as presiding officer, such as the interim trustee appointed under §701 of the Code.
-If the court does not designate anyone, the clerk will preside.
-In either case, creditors may elect a person of their own choosing.
-In any event, the clerk may remain to record the proceedings and take appearances.
-Use of the clerk is not contrary to the legislative policy of §341(c). The judge remains insulated from any information coming forth at the meeting and any information obtained by the clerk must not be relayed to the judge.
-
-Although the clerk may preside at the meeting, the clerk is not performing any kind of judicial role, nor should the clerk give any semblance of performing such a role.
-It would be pretentious for the clerk to ascend the bench, don a robe or be addressed as “your honor”. The clerk should not appear to parties or others as any type of judicial officer.
-
-In a chapter 11 case, if a committee of unsecured creditors has been appointed pursuant to §1102(a)(1) of the Code and a chairman has been selected, the chairman will preside or a person, such as the attorney for the committee, may be designated to preside by the chairman.
-
-Since the judge must fix the bond of the trustee but cannot be present at the meeting, the rule allows the creditors to recommend the amount of the bond.
-They should be able to obtain relevant information concerning the extent of assets of the debtor at the meeting.
-
-Paragraph (1) authorizes the presiding officer to administer oaths.
-This is important because the debtor's examination must be under oath.
-
-Paragraph (3) of subdivision (b) has application only in a chapter 7 case.
-That is the only type of case under the Code that permits election of a trustee or committee.
-In all other cases, no vote is taken at the meeting of creditors.
-If it is necessary for the court to make a determination with respect to a claim, the meeting may be adjourned until the objection or dispute is resolved.
-
-The second sentence recognizes that partnership creditors may vote for a trustee of a partner's estate along with the separate creditors of the partner.
-Although §723(c) gives the trustee of a partnership a claim against a partner's estate for the full amount of partnership creditors’ claims allowed, the purpose and function of this provision are to simplify distribution and prevent double proof, not to disfranchise partnership creditors in electing a trustee of an estate against which they hold allowable claims.
-
-Subdivision (c) requires minutes and a record of the meeting to be maintained by the presiding officer.
-A verbatim record must be made of the debtor's examination but the rule is flexible as to the means used to record the examination.
-
-Subdivision (d) recognizes that the court must be informed immediately about the election or nonelection of a trustee in a chapter 7 case.
-Pursuant to Rule 2008, the clerk officially informs the trustee of his election or appointment and how he is to qualify.
-The presiding person has no authority to resolve a disputed election.
-
-For purposes of expediency, the results of the election should be obtained for each alternative presented by the dispute and immediately reported to the court.
-Thus, when an interested party presents the dispute to the court, its prompt resolution by the court will determine the dispute and a new or adjourned meeting to conduct the election may be avoided.
-The clerk is not an interested party.
-
-A creditors’ committee may be elected only in a chapter 7 case.
-In chapter 11 cases, a creditors’ committee is appointed pursuant to §1102.
-
-While a final meeting is not required, Rule 2002(f)(10) provides for the trustee's final account to be sent to creditors.
 
 Rule 2004. Examination
 
@@ -2700,7 +2586,7 @@ Subdivision (g) was added by §354 of the 1984 amendments.
 References in Text
 
 The United States Warehouse Act, referred to in subd. (g), is Part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of Title 7, Agriculture.
-For complete classification of this Act to the Code, see section 241 of Title 7 and Tables.
+For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
 
 1984 Amendment
 
@@ -3029,35 +2915,6 @@ The rule adds the requirement of filing a list of the names and addresses of the
 This rule applies in a chapter 7 or 13 case but not in a chapter 9 or 11 case.
 The latter cases are governed by §347(b) of the Code which provides for unclaimed distributions to be returned to the debtor or other entity acquiring the assets of the debtor.
 
-Rule 3012. Valuation of Security
-
-The court may determine the value of a claim secured by a lien on property in which the estate has an interest on motion of any party in interest and after a hearing on notice to the holder of the secured claim and any other entity as the court may direct.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
-
-Notes of Advisory Committee on Rules—1983
-
-Pursuant to §506(a) of the Code, secured claims are to be valued and allowed as secured to the extent of the value of the collateral and unsecured, to the extent it is enforceable, for the excess over such value.
-The valuation of secured claims may become important in different contexts e.g., to determine the issue of adequate protection under §361, impairment under §1124, or treatment of the claim in a plan pursuant to §1129(b) of the Code.
-This rule permits the issue to be raised on motion by a party in interest.
-The secured creditor is entitled to notice of the hearing on the motion and the court may direct that others in the case also receive such notice.
-
-An adversary proceeding is commenced when the validity, priority, or extent of a lien is at issue as prescribed by Rule 7001. That proceeding is relevant to the basis of the lien itself while valuation under Rule 3012 would be for the purposes indicated above.
-
-Rule 3013. Classification of Claims and Interests
-
-For the purposes of the plan and its acceptance, the court may, on motion after hearing on notice as the court may direct, determine classes of creditors and equity security holders pursuant to §§1122, 1222(b)(1), and 1322(b)(1) of the Code.
-
-(As amended Apr. 30, 1991, eff.
-Aug. 1, 1991.)
-
-Notes of Advisory Committee on Rules—1983
-
-Sections 1122 and 1322(b)(1) set the standards for classifying claims and interests but provide that such classification is accomplished in the plan.
-This rule does not change the standards; rather it recognizes that it may be desirable or necessary to establish proper classification before a plan can be formulated.
-It provides for a court hearing on such notice as the court may direct.
-
 Rule 3014. Election Under §1111(b) by Secured Creditor in Chapter 9 Municipality or Chapter 11 Reorganization Case
 
 An election of application of §1111(b)(2) of the Code by a class of secured creditors in a chapter 9 or 11 case may be made at any time prior to the conclusion of the hearing on the disclosure statement or within such later time as the court may fix.
@@ -3256,6 +3113,102 @@ Therefore, the phrase “plan or plans” or “disclosure statement or statemen
 Subdivision (d) permits the court to require a party other than the clerk of the bankruptcy court to bear the responsibility for transmitting the notices and documents specified in the rule when votes on the plan are solicited.
 Ordinarily the person responsible for such mailing will be the proponent of the plan.
 In rare cases the clerk may be directed to mail these documents, particularly when the trustee would have the responsibility but there is insufficient money in the estate to enable the trustee to perform this task.
+
+1 So in original.
+The comma probably should not appear.
+
+Rule 3017.1. Court Consideration of Disclosure Statement in a Small Business Case
+
+(a) Conditional Approval of Disclosure Statement
+
+If the debtor is a small business and has made a timely election to be considered a small business in a chapter 11 case, the court may, on application of the plan proponent, conditionally approve a disclosure statement filed in accordance with Rule 3016(b). On or before conditional approval of the disclosure statement, the court shall:
+
+(1) fix a time within which the holders of claims and interests may accept or reject the plan;
+
+(2) fix a time for filing objections to the disclosure statement;
+
+(3) fix a date for the hearing on final approval of the disclosure statement to be held if a timely objection is filed; and
+
+(4) fix a date for the hearing on confirmation.
+
+(b) Application of Rule 3017
+
+Rule 3017(a), (b), (c), and (e) do not apply to a conditionally approved disclosure statement.
+Rule 3017(d) applies to a conditionally approved disclosure statement, except that conditional approval is considered approval of the disclosure statement for the purpose of applying Rule 3017(d).
+
+(c) Final Approval
+
+(1) Notice.
+Notice of the time fixed for filing objections and the hearing to consider final approval of the disclosure statement shall be given in accordance with Rule 2002 and may be combined with notice of the hearing on confirmation of the plan.
+
+(2) Objections.
+Objections to the disclosure statement shall be filed, transmitted to the United States trustee, and served on the debtor, the trustee, any committee appointed under the Code and any other entity designated by the court at any time before final approval of the disclosure statement or by an earlier date as the court may fix.
+
+(3) Hearing.
+If a timely objection to the disclosure statement is filed, the court shall hold a hearing to consider final approval before or combined with the hearing on confirmation of the plan.
+
+(Added Apr. 11, 1997, eff.
+Dec. 1, 1997.)
+
+Notes of Advisory Committee on Rules—1997
+
+This rule is added to implement §1125(f) that was added to the Code by the Bankruptcy Reform Act of 1994.
+
+The procedures for electing to be considered a small business are set forth in Rule 1020. If the debtor is a small business and has elected to be considered a small business, §1125(f) permits the court to conditionally approve a disclosure statement subject to final approval after notice and a hearing.
+If a disclosure statement is conditionally approved, and no timely objection to the disclosure statement is filed, it is not necessary for the court to hold a hearing on final approval.
+
+GAP Report on Rule 3017.1. No change to the published draft.
+
+Rule 3018. Acceptance or Rejection of Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case
+
+(a) Entities Entitled To Accept or Reject Plan; Time for Acceptance or Rejection
+
+A plan may be accepted or rejected in accordance with §1126 of the Code within the time fixed by the court pursuant to Rule 3017. Subject to subdivision (b) of this rule, an equity security holder or creditor whose claim is based on a security of record shall not be entitled to accept or reject a plan unless the equity security holder or creditor is the holder of record of the security on the date the order approving the disclosure statement is entered or on another date fixed by the court, for cause, after notice and a hearing.
+For cause shown, the court after notice and hearing may permit a creditor or equity security holder to change or withdraw an acceptance or rejection.
+Notwithstanding objection to a claim or interest, the court after notice and hearing may temporarily allow the claim or interest in an amount which the court deems proper for the purpose of accepting or rejecting a plan.
+
+(b) Acceptances or Rejections Obtained Before Petition
+
+An equity security holder or creditor whose claim is based on a security of record who accepted or rejected the plan before the commencement of the case shall not be deemed to have accepted or rejected the plan pursuant to §1126(b) of the Code unless the equity security holder or creditor was the holder of record of the security on the date specified in the solicitation of such acceptance or rejection for the purposes of such solicitation.
+A holder of a claim or interest who has accepted or rejected a plan before the commencement of the case under the Code shall not be deemed to have accepted or rejected the plan if the court finds after notice and hearing that the plan was not transmitted to substantially all creditors and equity security holders of the same class, that an unreasonably short time was prescribed for such creditors and equity security holders to accept or reject the plan, or that the solicitation was not in compliance with §1126(b) of the Code.
+
+(c) Form of Acceptance or Rejection
+
+An acceptance or rejection shall be in writing, identify the plan or plans accepted or rejected, be signed by the creditor or equity security holder or an authorized agent, and conform to the appropriate Official Form.
+If more than one plan is transmitted pursuant to Rule 3017, an acceptance or rejection may be filed by each creditor or equity security holder for any number of plans transmitted and if acceptances are filed for more than one plan, the creditor or equity security holder may indicate a preference or preferences among the plans so accepted.
+
+(d) Acceptance or Rejection by Partially Secured Creditor
+
+A creditor whose claim has been allowed in part as a secured claim and in part as an unsecured claim shall be entitled to accept or reject a plan in both capacities.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991; Apr. 22, 1993, eff.
+Aug. 1, 1993; Apr. 11, 1997, eff.
+Dec. 1, 1997.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule applies in chapter 9, 11 and 13 cases under the Code.
+The references in the rule to equity security holders will not, however, be relevant in chapter 9 or 13 cases.
+The rule will be of little utility in a chapter 13 case because only secured creditors may be requested to vote on a plan; unsecured creditors are not entitled to vote; see §1325(a)(4), (5) of the Code.
+
+Subdivision (a) is derived from former Rule 10–305(a). It substitutes, in a reorganization case, entry of the order approving the disclosure statement for the order approving a plan in conformity with the differences between Chapter X and chapter 11. In keeping with the underlying theory it continues to recognize that the lapse of time between the filing of the petition and entry of such order will normally be significant and, during that interim, bonds and equity interests can change ownership.
+
+Subdivision (b) recognizes the former Chapter XI practice permitting a plan and acceptances to be filed with the petition, as does §1126(b) of the Code.
+However, because a plan under chapter 11 may affect shareholder interests, there should be reference to a record date of ownership.
+In this instance the appropriate record date is that used in the prepetition solicitation materials because it is those acceptances or rejections which are being submitted to the court.
+
+While §1126(c), (d), and (e) prohibits use of an acceptance or rejection not procured in good faith, the added provision in subdivision (b) of the rule is somewhat more detailed.
+It would prohibit use of prepetition acceptances or rejections when some but not all impaired creditors or equity security holders are solicited or when they are not given a reasonable opportunity to submit their acceptances or rejections.
+This provision together with §1126(e) gives the court the power to nullify abusive solicitation procedures.
+
+Subdivision (c). It is possible that multiple plans may be before the court for confirmation.
+Pursuant to §1129(c) of the Code, the court may confirm only one plan but is required to consider the preferences expressed by those accepting the plans in determining which one to confirm.
+
+Subdivisions (d) and (e) of former Rule 10–305 are not continued since comparable provisions are contained in the statute; see §1126(c), (d), (e).
+
+It should be noted that while the singular “plan” is used throughout, by construction the plural is included; see §102(7).
 
 Rule 3019. Modification of Accepted Plan Before Confirmation in a Chapter 9 Municipality or Chapter 11 Reorganization Case
 
@@ -3458,10 +3411,11 @@ Rule 4003. Exemptions
 
 A debtor shall list the property claimed as exempt under §522 of the Code on the schedule of assets required to be filed by Rule 1007. If the debtor fails to claim exemptions or file the schedule within the time specified in Rule 1007, a dependent of the debtor may file the list within 30 days thereafter.
 
-(b) Objections to Claim of Exemptions
+(b) Objecting to a Claim of Exemptions
 
-The trustee or any creditor may file objections to the list of property claimed as exempt within 30 days after the conclusion of the meeting of creditors held pursuant to Rule 2003(a) or the filing of any amendment to the list or supplemental schedules unless, within such period, further time is granted by the court.
-Copies of the objections shall be delivered or mailed to the trustee and to the person filing the list and the attorney for such person.
+A party in interest may file an objection to the list of property claimed as exempt only within 30 days after the meeting of creditors held under §341(a) is concluded or within 30 days after any amendment to the list or supplemental schedules is filed, whichever is later.
+The court may, for cause, extend the time for filing objections if, before the time to object expires, a party in interest files a request for an extension.
+Copies of the objections shall be delivered or mailed to the trustee, the person filing the list, and the attorney for that person.
 
 (c) Burden of Proof
 
@@ -3474,7 +3428,8 @@ A proceeding by the debtor to avoid a lien or other transfer of property exempt 
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3505,19 +3460,21 @@ The motion shall be filed before the time has expired.
 
 (c) Grant of Discharge
 
-(1) In a chapter 7 case, on expiration of the time fixed for filing a complaint objecting to discharge and the time fixed for filing a motion to dismiss the case pursuant to Rule 1017(e), the court shall forthwith grant the discharge unless:
+(1) In a chapter 7 case, on expiration of the time fixed for filing a complaint objecting to discharge and the time fixed for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge unless:
 
-(a) the debtor is not an individual,
+(A) the debtor is not an individual,
 
-(b) a complaint objecting to the discharge has been filed,
+(B) a complaint objecting to the discharge has been filed,
 
-(c) the debtor has filed a waiver under §727(a)(10),
+(C) the debtor has filed a waiver under §727(a)(10),
 
-(d) a motion to dismiss the case pursuant to Rule 1017(e) is pending,
+(D) a motion to dismiss the case under Rule 1017(e) is pending,
 
-(e) a motion to extend the time for filing a complaint objecting to discharge is pending, or
+(E) a motion to extend the time for filing a complaint objecting to discharge is pending,
 
-(f) the debtor has not paid in full the filing fee prescribed by 28 U.S.C. §1930(a) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon the commencement of a case under the Code.
+(F) a motion to extend the time for filing a motion to dismiss the case under Rule 1017(e)(1) is pending, or
+
+(G) the debtor has not paid in full the filing fee prescribed by 28 U.S.C. §1930(a) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon the commencement of a case under the Code.
 
 (2) Notwithstanding Rule 4004(c)(1), on motion of the debtor, the court may defer the entry of an order granting a discharge for 30 days and, on motion within that period, the court may defer entry of the order to a date certain.
 
@@ -3542,7 +3499,8 @@ The clerk shall promptly mail a copy of the final order of discharge to those sp
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 26, 1999, eff.
-Dec. 1, 1999.)
+Dec. 1, 1999; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3735,12 +3693,21 @@ On request of the prevailing party, a correct copy of every judgment or order af
 The clerk shall keep indices of all cases and adversary proceedings as prescribed by the Director of the Administrative Office of the United States Courts.
 On request, the clerk shall make a search of any index and papers in the clerk's custody and certify whether a case or proceeding has been filed in or transferred to the court or if a discharge has been entered in its records.
 
-(e) Other Books and Records of the Clerk
+(e) Register of Mailing Addresses of Federal and State Governmental Units
 
-The clerk shall also keep such other books and records as may be required by the Director of the Administrative Office of the United States Courts.
+The United States or the state or territory in which the court is located may file a statement designating its mailing address.
+The clerk shall keep, in the form and manner as the Director of the Administrative Office of the United States Courts may prescribe, a register that includes these mailing addresses, but the clerk is not required to include in the register more than one mailing address for each department, agency, or instrumentality of the United States or the state or territory.
+If more than one address for a department, agency, or instrumentality is included in the register, the clerk shall also include information that would enable a user of the register to determine the circumstances when each address is applicable, and mailing notice to only one applicable address is sufficient to provide effective notice.
+The clerk shall update the register annually, effective January 2 of each year.
+The mailing address in the register is conclusively presumed to be a proper address for the governmental unit, but the failure to use that mailing address does not invalidate any notice that is otherwise effective under applicable law.
+
+(f) Other Books and Records of the Clerk
+
+The clerk shall keep any other books and records required by the Director of the Administrative Office of the United States Courts.
 
 (As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 17, 2000, eff.
+Dec. 1, 2000.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -4187,6 +4154,37 @@ The rule specifies that the request be by motion and, pursuant to the Code, list
 
 Subdivision (c) requires a hearing when an objection under subdivision (a) is filed or a motion under subdivision (b) is made.
 Filing of an objection is sufficient to require a hearing; a separate or joined request for a hearing is unnecessary since the objection itself is tantamount to such a request.
+
+Rule 6008. Redemption of Property from Lien or Sale
+
+On motion by the debtor, trustee, or debtor in possession and after hearing on notice as the court may direct, the court may authorize the redemption of property from a lien or from a sale to enforce a lien in accordance with applicable law.
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is derived from former Bankruptcy Rule 609. No provision in the Code addresses the trustee's right of redemption.
+Ordinarily the secured creditor should be given notice of the trustee's motion so that any objection may be raised to the proposed redemption.
+
+The rule applies also to a debtor exercising a right of redemption pursuant to §722. A proceeding under that section is governed by Rule 9014.
+
+Rule 6009. Prosecution and Defense of Proceedings by Trustee or Debtor in Possession
+
+With or without court approval, the trustee or debtor in possession may prosecute or may enter an appearance and defend any pending action or proceeding by or against the debtor, or commence and prosecute any action or proceeding in behalf of the estate before any tribunal.
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is derived from former Bankruptcy Rule 610.
+
+Rule 6010. Proceeding to Avoid Indemnifying Lien or Transfer to Surety
+
+If a lien voidable under §547 of the Code has been dissolved by the furnishing of a bond or other obligation and the surety thereon has been indemnified by the transfer of, or the creation of a lien upon, nonexempt property of the debtor, the surety shall be joined as a defendant in any proceeding to avoid the indemnifying transfer or lien.
+Such proceeding is governed by the rules in Part VII.
+
+(As amended Apr. 30, 1991, eff.
+Aug. 1, 1991.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is derived from former Bankruptcy Rule 612.
 
 PART VII—ADVERSARY PROCEEDINGS
 
@@ -6684,7 +6682,9 @@ Form 7
 
 Form 7
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995.)
+Form 7
+
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Sept. 19, 2000.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6708,6 +6708,14 @@ Notes of Advisory Committee on Rules—1995 Amendment
 
 This form is a “document for filing” that may be prepared by a “bankruptcy petition preparer” as defined in 11 U.S.C. §110, which was added to the Code by the Bankruptcy Reform Act of 1994; accordingly, a signature line for such preparer is added.
 In addition to signing, a bankruptcy petition preparer is required by section 110 to disclose the information requested.
+
+Notes of Advisory Committee on Rules—2000 Amendment
+
+The form has been amended to provide more information to taxing authorities, pension fund supervisors, and governmental units charged with environmental protection and regulation.
+Four new questions have been added to the form, covering community property owned by a debtor and the debtor's non-filing spouse or former spouse (Question 16), environmental information (Question 17), any consolidated tax group of a corporate debtor (Question 24), and the debtor's contributions to any employee pension fund (Question 25). In addition, every debtor will be required to state on the form whether the debtor has been in business within six years before filing the petition and, if so, must answer the remaining questions on the form (Questions 19–25). This is an enlargement of the two-year period previously specified.
+One reason for the longer “reach back” period is that business debtors often owe taxes that have been owed for more than two years.
+Another is that some of the questions already addressed to business debtors request information for the six-year period before the commencement of the case.
+Application of a six-year period to this section of the form will assure disclosure of all relevant information.
 
 Form 8
 
