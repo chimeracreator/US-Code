@@ -1024,6 +1024,30 @@ Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 55 of House Document No. 103–7.
 
+Authority of PTO Director To Use Trademark Funds
+
+Pub. L. 111–45, §1, Aug. 7, 2009, 123 Stat. 1968, provided that:
+
+“(a) Authority.—
+
+“(1) In general.—The Director of the United States Patent and Trademark Office—
+
+“(A) may use funds made available for fiscal year 2009, pursuant to section 31 of the Trademark Act of 1946 (15 U.S.C. 1113), under the heading ‘Department of Commerce—United States Patent and Trademark Office—Salaries and Expenses’ in title I of division B of the Omnibus Appropriations Act, 2009 (Public Law 111–8), up to $70,000,000, to support the processing of patents and other activities, services, and materials relating to patents, notwithstanding section 42(c) of title 35, United States Code; and
+
+“(B) notwithstanding any other provision of law, shall, upon the exercise of the authority under subparagraph (A), establish a surcharge, in amounts up to $70,000,000, on patent fees in effect under title 35, United States Code, to repay any funds drawn down pursuant to subparagraph (A),
+
+if the Director certifies in writing to the Congress that the use of the funds described in subparagraph (A) is reasonably necessary to avoid furloughs or a reduction-in-force, or both, in the United States Patent and Trademark Office, and does not create a substantial risk of a furlough or reduction-in-force of personnel working in the Trademark Operation of the United States Patent and Trademark Office.
+
+“(2) Surcharges deposited in treasury.—All surcharges paid under paragraph (1)(B) shall be deposited in the Treasury as an offsetting receipt that shall not be available for obligation or expenditure.
+
+“(b) Limitations on Authority.—The authority under subsection (a)(1)(A) shall terminate on June 30, 2010. The surcharge established under subsection (a)(1)(B) shall take effect no later than September 30, 2011, and all funds drawn down pursuant to subsection (a)(1)(A) shall be repaid pursuant to subsection (a)(1)(B) no later than September 30, 2014.
+
+“(c) Definitions.—In this section:
+
+“(1) Director.—The terms ‘Director of the United States Patent and Trademark Office’ and ‘Director’ mean the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
+
+“(2) Trademark act of 1946.—The term ‘Trademark Act of 1946’ means the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (15 U.S.C. 1051 et seq.).”
+
 Patent and Trademark Fees in Certain Fiscal Years After 2005
 
 Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, as amended by Pub. L. 109–289, div. B, title II, §20933, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 45, provided that:
@@ -1258,6 +1282,10 @@ The provisions of section 371(d) of title 35, United States Code, relating to th
 “SEC. 804. DEFINITION.
 
 “In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.”
+
+[Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3116, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 [set out above] shall remain in effect during fiscal year 2010”.]
+
+[Pub. L. 111–8, div. B, title I, Mar. 11, 2009, 123 Stat. 564, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 [set out above] shall remain in effect during fiscal year 2009”.]
 
 [Pub. L. 110–161, div. B, title I, Dec. 26, 2007, 121 Stat. 1888, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 [set out above] shall remain in effect during fiscal year 2008”.]
 
@@ -1840,6 +1868,25 @@ Based on Title 35, U.S.C., 1946 ed., §35 (R.S. 4892, amended (1) Mar. 3, 1903, 
 The expression at the end of the second sentence is added to avoid application of the District of Columbia law to oaths taken outside the District.
 
 Changes in language are made.
+
+§116. Inventors
+
+When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title.
+Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same type or amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
+
+If a joint inventor refuses to join in an application for patent or cannot be found or reached after diligent effort, the application may be made by the other inventor on behalf of himself and the omitted inventor.
+The Director, on proof of the pertinent facts and after such notice to the omitted inventor as he prescribes, may grant a patent to the inventor making the application, subject to the same rights which the omitted inventor would have had if he had been joined.
+The omitted inventor may subsequently join in the application.
+
+Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
+
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+
+Historical and Revision Notes
+
+The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules.
+The remainder is new and provides for the correction of a mistake in erroneously joining a person as inventor, and for filing an application when one of several joint inventors cannot be found.
+This section is ancillary to section 256.
 
 §117. Death or incapacity of inventor
 
@@ -2865,6 +2912,32 @@ Based on Title 35, U.S.C., 1946 ed., §31, part (R.S. 4886, amended (1) Mar. 3, 
 
 The provision relating to plants in the corresponding section of existing statute is made a separate section.
 
+§162. Description, claim
+
+No plant patent shall be declared invalid for noncompliance with section 112 of this title if the description is as complete as is reasonably possible.
+
+The claim in the specification shall be in formal terms to the plant shown and described.
+
+(July 19, 1952, ch. 950, 66 Stat. 804.)
+
+Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §33, part (R.S. 4888, amended (1) Mar. 3, 1915, ch. 94, §1, 38 Stat. 958, (2) May 23, 1930, ch. 312, §2, 46 Stat. 376).
+
+The first paragraph is the provision in R.S. 4888 (see section 112). The second paragraph is not in the statute but represents the actual practice.
+
+§163. Grant
+
+In the case of a plant patent, the grant shall include the right to exclude others from asexually reproducing the plant, and from using, offering for sale, or selling the plant so reproduced, or any of its parts, throughout the United States, or from importing the plant so reproduced, or any parts thereof, into the United States.
+
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 105–289, §3(a), Oct. 27, 1998, 112 Stat. 2781.)
+
+Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §40, part (R.S. 4884, amended May 23, 1930, ch. 312, §1, 46 Stat. 376).
+
+This provision is from R.S. 4884 (see section 154) amended in language.
+
 Findings and Purposes
 
 Pub. L. 105–289, §2, Oct. 27, 1998, 112 Stat. 2780, provided that:
@@ -3248,9 +3321,7 @@ If the Secretary of Commerce believes that any individual determination or patte
 
 (2) Whenever the Administrator of the Office of Federal Procurement Policy has determined that one or more Federal agencies are utilizing the authority of clause (i) or (ii) of subsection (a) of this section in a manner that is contrary to the policies and objectives of this chapter, the Administrator is authorized to issue regulations describing classes of situations in which agencies may not exercise the authorities of those clauses.
 
-(3) At least once every 5 years, the Comptroller General shall transmit a report to the Committees on the Judiciary of the Senate and House of Representatives on the manner in which this chapter is being implemented by the agencies and on such other aspects of Government patent policies and practices with respect to federally funded inventions as the Comptroller General believes appropriate.
-
-(4) If the contractor believes that a determination is contrary to the policies and objectives of this chapter or constitutes an abuse of discretion by the agency, the determination shall be subject to the 1 section 203(b).
+(3) If the contractor believes that a determination is contrary to the policies and objectives of this chapter or constitutes an abuse of discretion by the agency, the determination shall be subject to the 1 section 203(b).
 
 (c) Each funding agreement with a small business firm or nonprofit organization shall contain appropriate provisions to effectuate the following:
 
@@ -3286,7 +3357,7 @@ The head of the agency may not delegate the authority to approve provisions or s
 Any such determination shall be on the record after an opportunity for an agency hearing.
 Any action commenced for judicial review of such determination shall be brought within sixty days after notification of such determination.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3020; amended Pub. L. 98–620, title V, §501(3)–(8), Nov. 8, 1984, 98 Stat. 3364–3366; Pub. L. 102–204, §10, Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(12)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–404, §6(1), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 107–273, div. C, title III, §13206(a)(13), Nov. 2, 2002, 116 Stat. 1905.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3020; amended Pub. L. 98–620, title V, §501(3)–(8), Nov. 8, 1984, 98 Stat. 3364–3366; Pub. L. 102–204, §10, Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(12)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–404, §6(1), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 107–273, div. C, title III, §13206(a)(13), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 111–8, div. G, title I, §1301(h), Mar. 11, 2009, 123 Stat. 829.)
 
 References in Text
 
@@ -3308,15 +3379,19 @@ The word “the” probably should not appear.
 
 (4) action is necessary because the agreement required by section 204 has not been obtained or waived or because a licensee of the exclusive right to use or sell any subject invention in the United States is in breach of its agreement obtained pursuant to section 204.
 
-(b) A determination pursuant to this section or section 202(b)(4) shall not be subject to the Contract Disputes Act (41 U.S.C. §601 et seq.). An administrative appeals procedure shall be established by regulations promulgated in accordance with section 206. Additionally, any contractor, inventor, assignee, or exclusive licensee adversely affected by a determination under this section may, at any time within sixty days after the determination is issued, file a petition in the United States Court of Federal Claims, which shall have jurisdiction to determine the appeal on the record and to affirm, reverse, remand or modify, as appropriate, the determination of the Federal agency.
+(b) A determination pursuant to this section or section 202(b)(4) 1 shall not be subject to the Contract Disputes Act (41 U.S.C. §601 et seq.). An administrative appeals procedure shall be established by regulations promulgated in accordance with section 206. Additionally, any contractor, inventor, assignee, or exclusive licensee adversely affected by a determination under this section may, at any time within sixty days after the determination is issued, file a petition in the United States Court of Federal Claims, which shall have jurisdiction to determine the appeal on the record and to affirm, reverse, remand or modify, as appropriate, the determination of the Federal agency.
 In cases described in paragraphs (1) and (3) of subsection (a), the agency's determination shall be held in abeyance pending the exhaustion of appeals or petitions filed under the preceding sentence.
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3022; amended Pub. L. 98–620, title V, §501(9), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–273, div. C, title III, §13206(a)(14), Nov. 2, 2002, 116 Stat. 1905.)
 
 References in Text
 
+Section 202(b)(4), referred to in subsec. (b), was redesignated section 202(b)(3) of this title by Pub. L. 111–8, div. G, title I, §1301(h), Mar. 11, 2009, 123 Stat. 829.
+
 The Contract Disputes Act of 1978, referred to in subsec. (b), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts.
 For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+
+1 See References in Text note below.
 
 §204. Preference for United States industry
 
@@ -3505,51 +3580,6 @@ John F. Kennedy.      
 The Secretary of Commerce is authorized to promulgate regulations specifying the terms and conditions upon which any federally owned invention, other than inventions owned by the Tennessee Valley Authority, may be licensed on a nonexclusive, partially exclusive, or exclusive basis.
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 98–620, title V, §501(12), Nov. 8, 1984, 98 Stat. 3367.)
-
-§209. Licensing federally owned inventions
-
-(a) Authority.—A Federal agency may grant an exclusive or partially exclusive license on a federally owned invention under section 207(a)(2) only if—
-
-(1) granting the license is a reasonable and necessary incentive to—
-
-(A) call forth the investment capital and expenditures needed to bring the invention to practical application; or
-
-(B) otherwise promote the invention's utilization by the public;
-
-(2) the Federal agency finds that the public will be served by the granting of the license, as indicated by the applicant's intentions, plans, and ability to bring the invention to practical application or otherwise promote the invention's utilization by the public, and that the proposed scope of exclusivity is not greater than reasonably necessary to provide the incentive for bringing the invention to practical application, as proposed by the applicant, or otherwise to promote the invention's utilization by the public;
-
-(3) the applicant makes a commitment to achieve practical application of the invention within a reasonable time, which time may be extended by the agency upon the applicant's request and the applicant's demonstration that the refusal of such extension would be unreasonable;
-
-(4) granting the license will not tend to substantially lessen competition or create or maintain a violation of the Federal antitrust laws; and
-
-(5) in the case of an invention covered by a foreign patent application or patent, the interests of the Federal Government or United States industry in foreign commerce will be enhanced.
-
-(b) Manufacture in United States.—A Federal agency shall normally grant a license under section 207(a)(2) to use or sell any federally owned invention in the United States only to a licensee who agrees that any products embodying the invention or produced through the use of the invention will be manufactured substantially in the United States.
-
-(c) Small Business.—First preference for the granting of any exclusive or partially exclusive licenses under section 207(a)(2) shall be given to small business firms having equal or greater likelihood as other applicants to bring the invention to practical application within a reasonable time.
-
-(d) Terms and Conditions.—Any licenses granted under section 207(a)(2) shall contain such terms and conditions as the granting agency considers appropriate, and shall include provisions—
-
-(1) retaining a nontransferrable, irrevocable, paid-up license for any Federal agency to practice the invention or have the invention practiced throughout the world by or on behalf of the Government of the United States;
-
-(2) requiring periodic reporting on utilization of the invention, and utilization efforts, by the licensee, but only to the extent necessary to enable the Federal agency to determine whether the terms of the license are being complied with, except that any such report shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5; and
-
-(3) empowering the Federal agency to terminate the license in whole or in part if the agency determines that—
-
-(A) the licensee is not executing its commitment to achieve practical application of the invention, including commitments contained in any plan submitted in support of its request for a license, and the licensee cannot otherwise demonstrate to the satisfaction of the Federal agency that it has taken, or can be expected to take within a reasonable time, effective steps to achieve practical application of the invention;
-
-(B) the licensee is in breach of an agreement described in subsection (b);
-
-(C) termination is necessary to meet requirements for public use specified by Federal regulations issued after the date of the license, and such requirements are not reasonably satisfied by the licensee; or
-
-(D) the licensee has been found by a court of competent jurisdiction to have violated the Federal antitrust laws in connection with its performance under the license agreement.
-
-(e) Public Notice.—No exclusive or partially exclusive license may be granted under section 207(a)(2) unless public notice of the intention to grant an exclusive or partially exclusive license on a federally owned invention has been provided in an appropriate manner at least 15 days before the license is granted, and the Federal agency has considered all comments received before the end of the comment period in response to that public notice.
-This subsection shall not apply to the licensing of inventions made under a cooperative research and development agreement entered into under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
-
-(f) Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
-
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905.)
 
 §210. Precedence of chapter
 
@@ -4899,6 +4929,14 @@ Chapter effective Jan. 24, 1978, and applicable to international and national ap
 An international application designating the United States shall have the effect, from its international filing date under article 11 of the treaty, of a national application for patent regularly filed in the Patent and Trademark Office except as otherwise provided in section 102(e) of this title.
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392.)
+
+§364. International stage: Procedure
+
+(a) International applications shall be processed by the Patent and Trademark Office when acting as a Receiving Office, International Searching Authority, or International Preliminary Examining Authority, in accordance with the applicable provisions of the treaty, the Regulations, and this title.
+
+(b) An applicant's failure to act within prescribed time limits in connection with requirements pertaining to a pending international application may be excused upon a showing satisfactory to the Director of unavoidable delay, to the extent not precluded by the treaty and the Regulations, and provided the conditions imposed by the treaty and the Regulations regarding the excuse of such failure to act are complied with.
+
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §5, Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 §365. Right of priority; benefit of the filing date of a prior application
 

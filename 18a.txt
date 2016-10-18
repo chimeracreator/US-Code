@@ -200,7 +200,7 @@ In determining whether to dismiss the case with or without prejudice, the court 
 
 CLASSIFIED INFORMATION PROCEDURES ACT
 
-Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, as amended by Pub. L. 100–690, title VII, §7020(g), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 106–567, title VI, §607, Dec. 27, 2000, 114 Stat. 2855; Pub. L. 107–306, title VIII, §811(b)(3), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–458, title I, §1071(f), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title V, §506(a)(8), Mar. 9, 2006, 120 Stat. 248
+Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, as amended by Pub. L. 100–690, title VII, §7020(g), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 106–567, title VI, §607, Dec. 27, 2000, 114 Stat. 2855; Pub. L. 107–306, title VIII, §811(b)(3), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–458, title I, §1071(f), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title V, §506(a)(8), Mar. 9, 2006, 120 Stat. 248; Pub. L. 111–16, §4, May 7, 2009, 123 Stat. 1608
 
 §1. Definitions
 
@@ -298,11 +298,11 @@ If the United States fails to comply with its obligation under this subsection, 
 (a) An interlocutory appeal by the United States taken before or after the defendant has been placed in jeopardy shall lie to a court of appeals from a decision or order of a district court in a criminal case authorizing the disclosure of classified information, imposing sanctions for nondisclosure of classified information, or refusing a protective order sought by the United States to prevent the disclosure of classified information.
 
 (b) An appeal taken pursuant to this section either before or during trial shall be expedited by the court of appeals.
-Prior to trial, an appeal shall be taken within ten days after the decision or order appealed from and the trial shall not commence until the appeal is resolved.
-If an appeal is taken during trial, the trial court shall adjourn the trial until the appeal is resolved and the court of appeals (1) shall hear argument on such appeal within four days of the adjournment of the trial, (2) may dispense with written briefs other than the supporting materials previously submitted to the trial court, (3) shall render its decision within four days of argument on appeal, and (4) may dispense with the issuance of a written opinion in rendering its decision.
+Prior to trial, an appeal shall be taken within fourteen days after the decision or order appealed from and the trial shall not commence until the appeal is resolved.
+If an appeal is taken during trial, the trial court shall adjourn the trial until the appeal is resolved and the court of appeals (1) shall hear argument on such appeal within four days of the adjournment of the trial, excluding intermediate weekends and holidays, (2) may dispense with written briefs other than the supporting materials previously submitted to the trial court, (3) shall render its decision within four days of argument on appeal, excluding intermediate weekends and holidays, and (4) may dispense with the issuance of a written opinion in rendering its decision.
 Such appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a judgment of conviction, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
-(Pub. L. 96–456, §7, Oct. 15, 1980, 94 Stat. 2028.)
+(Pub. L. 96–456, §7, Oct. 15, 1980, 94 Stat. 2028; Pub. L. 111–16, §4, May 7, 2009, 123 Stat. 1608.)
 
 §8. Introduction of classified information
 
@@ -482,7 +482,8 @@ United States        
 
 References in Text
 
-Executive Order No. 12958, referred to in subsec. (c), is set out as a note under section 435 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in subsec. (c), which was set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord.
+No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 §10. Identification of information related to the national defense
 
@@ -539,6 +540,432 @@ Section 507 of the National Security Act of 1947, referred to in subsec. (b), is
 The functions and duties of the Attorney General under this Act may be exercised by the Deputy Attorney General, the Associate Attorney General, or by an Assistant Attorney General designated by the Attorney General for such purpose and may not be delegated to any other official.
 
 (Pub. L. 96–456, §14, Oct. 15, 1980, 94 Stat. 2030; Pub. L. 100–690, title VII, §7020(g), Nov. 18, 1988, 102 Stat. 4396.)
+
+§15. Effective date
+
+The provisions of this Act shall become effective upon the date of the enactment of this Act, but shall not apply to any prosecution in which an indictment or information was filed before such date.
+
+(Pub. L. 96–456, §15, Oct. 15, 1980, 94 Stat. 2030.)
+
+References in Text
+
+The date of the enactment of this Act, referred to in text, means Oct. 15, 1980.
+
+§16. Short title
+
+That this Act may be cited as the “Classified Information Procedures Act”.
+
+(Pub. L. 96–456, §16, Oct. 15, 1980, 94 Stat. 2031.)
+
+FEDERAL RULES OF EVIDENCE
+
+The text of the Federal Rules of Evidence enacted into law by Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1929, is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to civil actions and proceedings, including admiralty and maritime cases, to criminal cases and proceedings, to contempt proceedings except those in which the court may act summarily, and to proceedings and cases under Title 11, Bankruptcy.
+
+FEDERAL RULES OF CRIMINAL PROCEDURE
+
+(As amended to February 1, 2010)
+
+Historical Note
+
+The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
+
+The Rules have been amended Dec. 27, 1948, eff.
+Jan. 1, 1949; Dec. 27, 1948, eff.
+Oct. 20, 1949; Apr. 12, 1954, eff.
+July 1, 1954; Apr. 9, 1956, eff.
+July 8, 1956; Feb. 28, 1966, eff.
+July 1, 1966; Dec. 4, 1967, eff.
+July 1, 1968; Mar. 1, 1971, eff.
+July 1, 1971; Apr. 24, 1972, eff.
+Oct. 1, 1972; Nov. 20, 1972, eff.
+July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff.
+July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff.
+Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff.
+Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff.
+Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 25, 1988, eff.
+Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff.
+Dec. 1, 1989; May 1, 1990, eff.
+Dec. 1, 1990; Apr. 30, 1991, eff.
+Dec. 1, 1991; Apr. 22, 1993, eff.
+Dec. 1, 1993; Apr. 29, 1994, eff.
+Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff.
+Dec. 1, 1995; Apr. 23, 1996, eff.
+Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff.
+Dec. 1, 1997; Apr. 24, 1998, eff.
+Dec. 1, 1998; Apr. 26, 1999, eff.
+Dec. 1, 1999; Apr. 17, 2000, eff.
+Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff.
+Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff.
+Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff.
+Dec. 1, 2005; Apr. 12, 2006, eff.
+Dec. 1, 2006; Apr. 30, 2007, eff.
+Dec. 1, 2007; Apr. 23, 2008, eff.
+Dec. 1, 2008; Mar. 26, 2009, eff.
+Dec. 1, 2009.
+
+TITLE I. APPLICABILITY
+
+Rule
+
+1.
+Scope; Definitions.
+
+2.
+Interpretation.
+
+        
+
+TITLE II. PRELIMINARY PROCEEDINGS
+
+3.
+The Complaint.
+
+4.
+Arrest Warrant or Summons on a Complaint.
+
+5.
+Initial Appearance.
+
+5.1.
+Preliminary Hearing.
+
+        
+
+TITLE III. THE GRAND JURY, THE INDICTMENT, AND THE INFORMATION
+
+6.
+The Grand Jury.
+
+7.
+The Indictment and the Information.
+
+8.
+Joinder of Offenses or Defendants.
+
+9.
+Arrest Warrant or Summons on an Indictment or Information.
+
+        
+
+TITLE IV. ARRAIGNMENT AND PREPARATION FOR TRIAL
+
+10.
+Arraignment.
+
+11.
+Pleas.
+
+12.
+Pleadings and Pretrial Motions.
+
+12.1.
+Notice of an Alibi Defense.
+
+12.2.
+Notice of an Insanity Defense; Mental Examination.
+
+12.3.
+Notice of a Public-Authority Defense.
+
+12.4.
+Disclosure Statement.
+
+13.
+Joint Trial of Separate Cases.
+
+14.
+Relief from Prejudicial Joinder.
+
+15.
+Depositions.
+
+16.
+Discovery and Inspection.
+
+17.
+Subpoena.
+
+17.1.
+Pretrial Conference.
+
+        
+
+TITLE V. VENUE
+
+18.
+Place of Prosecution and Trial.
+
+19.
+(Reserved).
+
+20.
+Transfer for Plea and Sentence.
+
+21.
+Transfer for Trial.
+
+22.
+(Transferred).
+
+        
+
+TITLE VI. TRIAL
+
+23.
+Jury or Nonjury Trial.
+
+24.
+Trial Jurors.
+
+25.
+Judge's Disability.
+
+26.
+Taking Testimony.
+
+26.1.
+Foreign Law Determination.
+
+26.2.
+Producing a Witness's Statement.
+
+26.3.
+Mistrial.
+
+27.
+Proving an Official Record.
+
+28.
+Interpreters.
+
+29.
+Motion for a Judgment of Acquittal.
+
+29.1.
+Closing Argument.
+
+30.
+Jury Instructions.
+
+31.
+Jury Verdict.
+
+        
+
+TITLE VII. POST-CONVICTION PROCEDURES
+
+32.
+Sentencing and Judgment.
+
+32.1.
+Revoking or Modifying Probation or Supervised Release.
+
+32.2.
+Criminal Forfeiture.
+
+33.
+New Trial.
+
+34.
+Arresting Judgment.
+
+35.
+Correcting or Reducing a Sentence.
+
+36.
+Clerical Error.
+
+37.
+(Reserved).
+
+38.
+Staying a Sentence or a Disability.
+
+39.
+(Reserved).
+
+        
+
+TITLE VIII. SUPPLEMENTARY AND SPECIAL PROCEEDINGS
+
+40.
+Arrest for Failing to Appear in Another District or for Violating Conditions of Release Set in Another District.
+
+41.
+Search and Seizure.
+
+42.
+Criminal Contempt.
+
+        
+
+TITLE IX. GENERAL PROVISIONS
+
+43.
+Defendant's Presence.
+
+44.
+Right to and Appointment of Counsel.
+
+45.
+Computing and Extending Time.
+
+46.
+Release from Custody; Supervising Detention.
+
+47.
+Motions and Supporting Affadavits.
+
+48.
+Dismissal.
+
+49.
+Serving and Filing Papers.
+
+49.1.
+Privacy Protection For Filings Made with the Court.
+
+50.
+Prompt Disposition.
+
+51.
+Preserving Claimed Error.
+
+52.
+Harmless and Plain Error.
+
+53.
+Courtroom Photographing and Broadcasting Prohibited.
+
+54.
+(Transferred).
+
+55.
+Records.
+
+56.
+When Court Is Open.
+
+57.
+District Court Rules.
+
+58.
+Petty Offenses and Other Misdemeanors.
+
+59.
+Matters Before a Magistrate Judge.
+
+60.
+Victim's Rights.
+
+61.
+Title.
+
+        
+
+TITLE I. APPLICABILITY
+
+Rule 1. Scope; Definitions
+
+(a) Scope.
+
+(1) In General.
+These rules govern the procedure in all criminal proceedings in the United States district courts, the United States courts of appeals, and the Supreme Court of the United States.
+
+(2) State or Local Judicial Officer.
+When a rule so states, it applies to a proceeding before a state or local judicial officer.
+
+(3) Territorial Courts.
+These rules also govern the procedure in all criminal proceedings in the following courts:
+
+(A) the district court of Guam;
+
+(B) the district court for the Northern Mariana Islands, except as otherwise provided by law; and
+
+(C) the district court of the Virgin Islands, except that the prosecution of offenses in that court must be by indictment or information as otherwise provided by law.
+
+(4) Removed Proceedings.
+Although these rules govern all proceedings after removal from a state court, state law governs a dismissal by the prosecution.
+
+(5) Excluded Proceedings.
+Proceedings not governed by these rules include:
+
+(A) the extradition and rendition of a fugitive;
+
+(B) a civil property forfeiture for violating a federal statute;
+
+(C) the collection of a fine or penalty;
+
+(D) a proceeding under a statute governing juvenile delinquency to the extent the procedure is inconsistent with the statute, unless Rule 20(d) provides otherwise;
+
+(E) a dispute between seamen under 22 U.S.C. §§256–258; and
+
+(F) a proceeding against a witness in a foreign country under 28 U.S.C. §1784.
+
+(b) Definitions.
+The following definitions apply to these rules:
+
+(1) “Attorney for the government” means:
+
+(A) the Attorney General or an authorized assistant;
+
+(B) a United States attorney or an authorized assistant;
+
+(C) when applicable to cases arising under Guam law, the Guam Attorney General or other person whom Guam law authorizes to act in the matter; and
+
+(D) any other attorney authorized by law to conduct proceedings under these rules as a prosecutor.
+
+(2) “Court” means a federal judge performing functions authorized by law.
+
+(3) “Federal judge” means:
+
+(A) a justice or judge of the United States as these terms are defined in 28 U.S.C. §451;
+
+(B) a magistrate judge; and
+
+(C) a judge confirmed by the United States Senate and empowered by statute in any commonwealth, territory, or possession to perform a function to which a particular rule relates.
+
+(4) “Judge” means a federal judge or a state or local judicial officer.
+
+(5) “Magistrate judge” means a United States magistrate judge as defined in 28 U.S.C. §§631–639.
+
+(6) “Oath” includes an affirmation.
+
+(7) “Organization” is defined in 18 U.S.C. §18.
+
+(8) “Petty offense” is defined in 18 U.S.C. §19.
+
+(9) “State” includes the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(10) “State or local judicial officer” means:
+
+(A) a state or local officer authorized to act under 18 U.S.C. §3041; and
+
+(B) a judicial officer empowered by statute in the District of Columbia or in any commonwealth, territory, or possession to perform a function to which a particular rule relates.
+
+(11) “Victim” means a “crime victim” as defined in 18 U.S.C. §3771(e).
+
+(c) Authority of a Justice or Judge of the United States.
+When these rules authorize a magistrate judge to act, any other federal judge may also act.
+
+(As amended Apr. 24, 1972, eff.
+Oct. 1, 1972; Apr. 28, 1982, eff.
+Aug. 1, 1982; Apr. 22, 1993, eff.
+Dec. 1, 1993; Apr. 29, 2002, eff.
+Dec. 1, 2002; Apr. 23, 2008, eff.
+Dec. 1, 2008.)
+
+Notes of Advisory Committee on Rules—1944
+
+1. These rules are prescribed under the authority of two acts of Congress, namely: the Act of June 29, 1940, c. 445, 18 U.S.C. 687 (Proceedings in criminal cases prior to and including verdict; power of Supreme Court to prescribe rules), and the Act of November 21, 1941, c. 492, 18 U.S.C. 689 (Proceedings to punish for criminal contempt of court; application to sections 687 and 688).
+
+2. The courts of the United States covered by the rules are enumerated in Rule 54(a). In addition to Federal courts in the continental United States they include district courts in Alaska, Hawaii, Puerto Rico and the Virgin Islands.
+In the Canal Zone only the rules governing proceedings after verdict, finding or plea of guilty are applicable.
+
+3. While the rules apply to proceedings before commissioners when acting as committing magistrates, they do not govern when a commissioner acts as a trial magistrate for the trial of petty offenses committed on Federal reservations.
+That procedure is governed by rules adopted by order promulgated by the Supreme Court on January 6, 1941 (311 U.S. 733), pursuant to the Act of October 9, 1940, c. 785, secs. 1–5. See 18 U.S.C. 576–576d [now 3401, 3402] (relating to trial of petty offenses on Federal reservations by United States commissioners).
 
 Rule 2. Interpretation
 
@@ -805,7 +1232,7 @@ If a defendant is charged with an offense other than a petty offense, a magistra
 A defendant arrested in a district other than where the offense was allegedly committed may elect to have the preliminary hearing conducted in the district where the prosecution is pending.
 
 (c) Scheduling.
-The magistrate judge must hold the preliminary hearing within a reasonable time, but no later than 10 days after the initial appearance if the defendant is in custody and no later than 20 days if not in custody.
+The magistrate judge must hold the preliminary hearing within a reasonable time, but no later than 14 days after the initial appearance if the defendant is in custody and no later than 21 days if not in custody.
 
 (d) Extending the Time.
 With the defendant's consent and upon a showing of good cause—taking into account the public interest in the prompt disposition of criminal cases—a magistrate judge may extend the time limits in Rule 5.1(c) one or more times.
@@ -837,7 +1264,8 @@ Oct. 1, 1972; amended Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 24, 1998, eff.
 Dec. 1, 1998; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1972
 
@@ -1125,101 +1553,6 @@ This was previously done by the Federal Rules of Civil Procedure for the civil s
 References in Text
 
 The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is classified to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
-
-Rule 7. The Indictment and the Information
-
-(a) When Used.
-
-(1) Felony.
-An offense (other than criminal contempt) must be prosecuted by an indictment if it is punishable:
-
-(A) by death; or
-
-(B) by imprisonment for more than one year.
-
-(2) Misdemeanor.
-An offense punishable by imprisonment for one year or less may be prosecuted in accordance with Rule 58(b)(1).
-
-(b) Waiving Indictment.
-An offense punishable by imprisonment for more than one year may be prosecuted by information if the defendant—in open court and after being advised of the nature of the charge and of the defendant's rights—waives prosecution by indictment.
-
-(c) Nature and Contents.
-
-(1) In General.
-The indictment or information must be a plain, concise, and definite written statement of the essential facts constituting the offense charged and must be signed by an attorney for the government.
-It need not contain a formal introduction or conclusion.
-A count may incorporate by reference an allegation made in another count.
-A count may allege that the means by which the defendant committed the offense are unknown or that the defendant committed it by one or more specified means.
-For each count, the indictment or information must give the official or customary citation of the statute, rule, regulation, or other provision of law that the defendant is alleged to have violated.
-For purposes of an indictment referred to in section 3282 of title 18, United States Code, for which the identity of the defendant is unknown, it shall be sufficient for the indictment to describe the defendant as an individual whose name is unknown, but who has a particular DNA profile, as that term is defined in that section 3282.
-
-(2) Criminal Forfeiture.
-No judgment of forfeiture may be entered in a criminal proceeding unless the indictment or the information provides notice that the defendant has an interest in property that is subject to forfeiture in accordance with the applicable statute.
-
-(3) Citation Error.
-Unless the defendant was misled and thereby prejudiced, neither an error in a citation nor a citation's omission is a ground to dismiss the indictment or information or to reverse a conviction.
-
-(d) Surplusage.
-Upon the defendant's motion, the court may strike surplusage from the indictment or information.
-
-(e) Amending an Information.
-Unless an additional or different offense is charged or a substantial right of the defendant is prejudiced, the court may permit an information to be amended at any time before the verdict or finding.
-
-(f) Bill of Particulars.
-The court may direct the government to file a bill of particulars.
-The defendant may move for a bill of particulars before or within 10 days after arraignment or at a later time if the court permits.
-The government may amend a bill of particulars subject to such conditions as justice requires.
-
-(As amended Feb. 28, 1966, eff.
-July 1, 1966; Apr. 24, 1972, eff.
-Oct. 1, 1972; Apr. 30, 1979, eff.
-Aug. 1, 1979; Mar. 9, 1987, eff.
-Aug. 1, 1987; Apr. 17, 2000, eff.
-Dec. 1, 2000; Apr. 29, 2002, eff.
-Dec. 1, 2002; Pub. L. 108–21, title VI, §610(b), Apr. 30, 2003, 117 Stat. 692.)
-
-Notes of Advisory Committee on Rules—1944
-
-Note to Subdivision (a). 1. This rule gives effect to the following provision of the Fifth Amendment to the Constitution of the United States: “No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury * * *”. An infamous crime has been defined as a crime punishable by death or by imprisonment in a penitentiary or at hard labor, Ex parte Wilson, 114 U.S. 417, 427; United States v. Moreland, 258 U.S. 433. Any sentence of imprisonment for a term of over one year may be served in a penitentiary, if so directed by the Attorney General, 18 U.S.C. 753f [now 4082, 4083] (Commitment of persons by any court of the United States and the juvenile court of the District of Columbia; place of confinement; transfers). Consequently any offense punishable by imprisonment for a term of over one year is an infamous crime.
-
-2. Petty offenses and misdemeanors for which no infamous punishment is prescribed may now be prosecuted by information, 18 U.S.C. 541 [see 1] (Felonies and misdemeanors); Duke v. United States, 301 U.S. 492.
-
-3. For a discussion of the provision for waiver of indictment, see Note to Rule 7(b), infra.
-
-4. Presentment is not included as an additional type of formal accusation, since presentments as a method of instituting prosecutions are obsolete, at least as concerns the Federal courts.
-
-Note to Subdivision (b). 1. Opportunity to waive indictment and to consent to prosecution by information will be a substantial aid to defendants, especially those who, because of inability to give bail, are incarcerated pending action of the grand jury, but desire to plead guilty.
-This rule is particularly important in those districts in which considerable intervals occur between sessions of the grand jury.
-In many districts where the grand jury meets infrequently a defendant unable to give bail and desiring to plead guilty is compelled to spend many days, and sometimes many weeks, and even months, in jail before he can begin the service of his sentence, whatever it may be, awaiting the action of a grand jury.
-Homer Cummings, 29 A.B.A.Jour. 654–655; Vanderbilt, 29 A.B.A.Jour. 376, 377; Robinson, 27 Jour. of the Am. Judicature Soc. 38, 45; Medalie, 4 Lawyers Guild R. (3)1, 3. The rule contains safeguards against improvident waivers.
-
-The Judicial Conference of Senior Circuit Judges, in September 1941, recommended that “existing law or established procedure be so changed, that a defendant may waive indictment and plead guilty to an information filed by a United States attorney in all cases except capital felonies.” Report of the Judicial Conference of Senior Circuit Judges (1941) 13. In September 1942 the Judicial Conference recommended that provision be made “for waiver of indictment and jury trial, so that persons accused of crime may not be held in jail needlessly pending trial.” Id. (1942) 8.
-
-Attorneys General of the United States have from time to time recommended legislation to permit defendants to waive indictment and to consent to prosecution by information.
-See Annual Report of the Attorney General of the United States (Mitchell) (1931) 3; Id. (Mitchell) (1932) 6; Id. (Cummings) (1933) 1, (1936) 2, (1937) 11, (1938) 9; Id. (Murphy) (1939) 7.
-
-The Federal Juvenile Delinquency Act [now 18 U.S.C. 5031–5037], now permits a juvenile charged with an offense not punishable by death or life imprisonment to consent to prosecution by information on a charge of juvenile delinquency, 18 U.S.C. 922 [now 5032, 5033].
-
-2. On the constitutionality of this rule, see United States v. Gill, 55 F.2d 399 (D.N.M.), holding that the constitutional guaranty of indictment by grand jury may be waived by defendant.
-It has also been held that other constitutional guaranties may be waived by the defendant, e. g., Patton v. United States, 281 U.S. 276 (trial by jury); Johnson v. Zerbst, 304 U.S. 458, 465 (right of counsel); Trono v. United States, 199 U.S. 521, 534 (protection against double jeopardy); United States v. Murdock, 284 U.S. 141, 148 (privilege against self-incrimination); Diaz v. United States, 223 U.S. 442, 450 (right of confrontation).
-
-Note to Subdivision (c). 1. This rule introduces a simple form of indictment, illustrated by Forms 1 to 11 in the Appendix of Forms.
-Cf. Rule 8(a) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix]. For discussion of the effect of this rule and a comparison between the present form of indictment and the simple form introduced by this rule, see Vanderbilt, 29 A.B.A.Jour. 376, 377; Homer Cummings, 29 A.B.A.Jour. 654, 655; Holtzoff, 3 F.R.D. 445, 448–449; Holtzoff, 12 Geo.
-Washington L.R. 119, 123–126; Medalie, 4 Lawyers Guild R. (3)1, 3.
-
-2. The provision contained in the fifth sentence that it may be alleged in a single count that the means by which the defendant committed the offense are unknown, or that he committed it by one or more specified means, is intended to eliminate the use of multiple counts for the purpose of alleging the commission of the offense by different means or in different ways.
-Cf. Federal Rules of Civil Procedure, Rule 8(e)(2) [28 U.S.C., Appendix].
-
-3. The law at present regards citations to statutes or regulations as not a part of the indictment.
-A conviction may be sustained on the basis of a statute or regulation other than that cited.
-Williams v. United States, 168 U.S. 382, 389; United States v. Hutcheson, 312 U.S. 219, 229. The provision of the rule, in view of the many statutes and regulations, is for the benefit of the defendant and is not intended to cause a dismissal of the indictment, but simply to provide a means by which he can be properly informed without danger to the prosecution.
-
-Note to Subdivision (d). This rule introduces a means of protecting the defendant against immaterial or irrelevant allegations in an indictment or information, which may, however, be prejudicial.
-The authority of the court to strike such surplusage is to be limited to doing so on defendant's motion, in the light of the rule that the guaranty of indictment by a grand jury implies that an indictment may not be amended, Ex parte Bain, 121 U.S. 1. By making such a motion, the defendant would, however, waive his rights in this respect.
-
-Note to Subdivision (e). This rule continues the existing law that, unlike an indictment, an information may be amended, Muncy v. United States, 289 F. 780 (C.C.A. 4th).
-
-Note to Subdivision (f). This rule is substantially a restatement of existing law on bills of particulars.
 
 Rule 8. Joinder of Offenses or Defendants
 
@@ -1569,7 +1902,7 @@ An attorney for the government may request in writing that the defendant notify 
 The request must state the time, date, and place of the alleged offense.
 
 (2) Defendant's Response.
-Within 10 days after the request, or at some other time the court sets, the defendant must serve written notice on an attorney for the government of any intended alibi defense.
+Within 14 days after the request, or at some other time the court sets, the defendant must serve written notice on an attorney for the government of any intended alibi defense.
 The defendant's notice must state:
 
 (A) each specific place where the defendant claims to have been at the time of the alleged offense; and
@@ -1595,7 +1928,7 @@ If the government intends to rely on a victim's testimony to establish that the 
 (ii) fashion a reasonable procedure that allows preparation of the defense and also protects the victim's interests.
 
 (2) Time to Disclose.
-Unless the court directs otherwise, an attorney for the government must give its Rule 12.1(b)(1) disclosure within 10 days after the defendant serves notice of an intended alibi defense under Rule 12.1(a)(2), but no later than 10 days before trial.
+Unless the court directs otherwise, an attorney for the government must give its Rule 12.1(b)(1) disclosure within 14 days after the defendant serves notice of an intended alibi defense under Rule 12.1(a)(2), but no later than 14 days before trial.
 
 (c) Continuing Duty to Disclose.
 
@@ -1624,7 +1957,8 @@ Dec. 1, 1975; amended Pub. L. 94–64, §3(13), July 31, 1975, 89 Stat. 372; Apr
 Aug. 1, 1985; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
+Dec. 1, 2008; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1974
 
@@ -1814,20 +2148,20 @@ The notice must contain the following information:
 (C) the time during which the defendant claims to have acted with public authority.
 
 (3) Response to the Notice.
-An attorney for the government must serve a written response on the defendant or the defendant's attorney within 10 days after receiving the defendant's notice, but no later than 20 days before trial.
+An attorney for the government must serve a written response on the defendant or the defendant's attorney within 14 days after receiving the defendant's notice, but no later than 21 days before trial.
 The response must admit or deny that the defendant exercised the public authority identified in the defendant's notice.
 
 (4) Disclosing Witnesses.
 
 (A) Government's Request.
 An attorney for the government may request in writing that the defendant disclose the name, address, and telephone number of each witness the defendant intends to rely on to establish a public-authority defense.
-An attorney for the government may serve the request when the government serves its response to the defendant's notice under Rule 12.3(a)(3), or later, but must serve the request no later than 20 days before trial.
+An attorney for the government may serve the request when the government serves its response to the defendant's notice under Rule 12.3(a)(3), or later, but must serve the request no later than 21 days before trial.
 
 (B) Defendant's Response.
-Within 7 days after receiving the government's request, the defendant must serve on an attorney for the government a written statement of the name, address, and telephone number of each witness.
+Within 14 days after receiving the government's request, the defendant must serve on an attorney for the government a written statement of the name, address, and telephone number of each witness.
 
 (C) Government's Reply.
-Within 7 days after receiving the defendant's statement, an attorney for the government must serve on the defendant or the defendant's attorney a written statement of the name, address, and telephone number of each witness the government intends to rely on to oppose the defendant's public-authority defense.
+Within 14 days after receiving the defendant's statement, an attorney for the government must serve on the defendant or the defendant's attorney a written statement of the name, address, and telephone number of each witness the government intends to rely on to oppose the defendant's public-authority defense.
 
 (5) Additional Time.
 The court may, for good cause, allow a party additional time to comply with this rule.
@@ -1850,7 +2184,8 @@ This rule does not limit the court's authority to issue appropriate protective o
 Evidence of an intention as to which notice was given under Rule 12.3(a), later withdrawn, is not, in any civil or criminal proceeding, admissible against the person who gave notice of the intention.
 
 (Added Pub. L. 100–690, title VI, §6483, Nov. 18, 1988, 102 Stat. 4382; amended Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Rule 12.4. Disclosure Statement
 
@@ -2015,7 +2350,7 @@ Note to Subdivision (f). See Note to Subdivision (b), supra.
 
 References in Text
 
-The Federal Rules of Evidence, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Evidence, referred to in subd. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Rule 16. Discovery and Inspection
 
@@ -2800,7 +3135,7 @@ Present law does not deal with this situation, which consistency requires be tre
 
 References in Text
 
-The Rules Governing Proceedings under 28 U.S.C. §2255, referred to in subsec. (g)(5), are set out under section 2255 of Title 28, Judiciary and Judicial Procedure.
+The Rules Governing Proceedings under 28 U.S.C. §2255, referred to in subd. (g)(5), are set out under section 2255 of Title 28, Judiciary and Judicial Procedure.
 
 Effective Date of Rule
 
@@ -2990,7 +3325,7 @@ If the court reserves decision, it must decide the motion on the basis of the ev
 (c) After Jury Verdict or Discharge.
 
 (1) Time for a Motion.
-A defendant may move for a judgment of acquittal, or renew such a motion, within 7 days after a guilty verdict or after the court discharges the jury, whichever is later.
+A defendant may move for a judgment of acquittal, or renew such a motion, within 14 days after a guilty verdict or after the court discharges the jury, whichever is later.
 
 (2) Ruling on the Motion.
 If the jury has returned a guilty verdict, the court may set aside the verdict and enter an acquittal.
@@ -3021,7 +3356,8 @@ If the appellate court later reverses the judgment of acquittal, the trial court
 July 1, 1966; Pub. L. 99–646, §54(a), Nov. 10, 1986, 100 Stat. 3607; Apr. 29, 1994, eff.
 Dec. 1, 1994; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 25, 2005, eff.
-Dec. 1, 2005.)
+Dec. 1, 2005; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3206,9 +3542,11 @@ The presentence report must also contain the following:
 
 (D) when the law provides for restitution, information sufficient for a restitution order;
 
-(E) if the court orders a study under 18 U.S.C. §3552(b), any resulting report and recommendation; and
+(E) if the court orders a study under 18 U.S.C. §3552(b), any resulting report and recommendation;
 
-(F) any other information that the court requires, including information relevant to the factors under 18 U.S.C. §3553(a).
+(F) any other information that the court requires, including information relevant to the factors under 18 U.S.C. §3553(a); and
+
+(G) specify whether the government seeks forfeiture under Rule 32.2 and any other provision of law.
 
 (3) Exclusions.
 The presentence report must exclude the following:
@@ -3334,7 +3672,8 @@ Dec. 1, 1996; Pub. L. 104–132, title II, §207(a), Apr. 24, 1996, 110 Stat. 12
 Dec. 1, 2000; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 30, 2007, eff.
 Dec. 1, 2007; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
+Dec. 1, 2008; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3529,26 +3868,83 @@ Rule 32.2. Criminal Forfeiture
 
 (a) Notice to the Defendant.
 A court must not enter a judgment of forfeiture in a criminal proceeding unless the indictment or information contains notice to the defendant that the government will seek the forfeiture of property as part of any sentence in accordance with the applicable statute.
+The notice should not be designated as a count of the indictment or information.
+The indictment or information need not identify the property subject to forfeiture or specify the amount of any forfeiture money judgment that the government seeks.
 
 (b) Entering a Preliminary Order of Forfeiture.
 
-(1) In General.
-As soon as practicable after a verdict or finding of guilty, or after a plea of guilty or nolo contendere is accepted, on any count in an indictment or information regarding which criminal forfeiture is sought, the court must determine what property is subject to forfeiture under the applicable statute.
+(1) Forfeiture Phase of the Trial.
+
+(A) Forfeiture Determinations.
+As soon as practical after a verdict or finding of guilty, or after a plea of guilty or nolo contendere is accepted, on any count in an indictment or information regarding which criminal forfeiture is sought, the court must determine what property is subject to forfeiture under the applicable statute.
 If the government seeks forfeiture of specific property, the court must determine whether the government has established the requisite nexus between the property and the offense.
 If the government seeks a personal money judgment, the court must determine the amount of money that the defendant will be ordered to pay.
-The court's determination may be based on evidence already in the record, including any written plea agreement or, if the forfeiture is contested, on evidence or information presented by the parties at a hearing after the verdict or finding of guilt.
+
+(B) Evidence and Hearing.
+The court's determination may be based on evidence already in the record, including any written plea agreement, and on any additional evidence or information submitted by the parties and accepted by the court as relevant and reliable.
+If the forfeiture is contested, on either party's request the court must conduct a hearing after the verdict or finding of guilty.
 
 (2) Preliminary Order.
-If the court finds that property is subject to forfeiture, it must promptly enter a preliminary order of forfeiture setting forth the amount of any money judgment or directing the forfeiture of specific property without regard to any third party's interest in all or part of it.
+
+(A) Contents of a Specific Order.
+If the court finds that property is subject to forfeiture, it must promptly enter a preliminary order of forfeiture setting forth the amount of any money judgment, directing the forfeiture of specific property, and directing the forfeiture of any substitute property if the government has met the statutory criteria.
+The court must enter the order without regard to any third party's interest in the property.
 Determining whether a third party has such an interest must be deferred until any third party files a claim in an ancillary proceeding under Rule 32.2(c).
+
+(B) Timing.
+Unless doing so is impractical, the court must enter the preliminary order sufficiently in advance of sentencing to allow the parties to suggest revisions or modifications before the order becomes final as to the defendant under Rule 32.2(b)(4).
+
+(C) General Order.
+If, before sentencing, the court cannot identify all the specific property subject to forfeiture or calculate the total amount of the money judgment, the court may enter a forfeiture order that:
+
+(i) lists any identified property;
+
+(ii) describes other property in general terms; and
+
+(iii) states that the order will be amended under Rule 32.2(e)(1) when additional specific property is identified or the amount of the money judgment has been calculated.
 
 (3) Seizing Property.
 The entry of a preliminary order of forfeiture authorizes the Attorney General (or a designee) to seize the specific property subject to forfeiture; to conduct any discovery the court considers proper in identifying, locating, or disposing of the property; and to commence proceedings that comply with any statutes governing third-party rights.
-At sentencing—or at any time before sentencing if the defendant consents—the order of forfeiture becomes final as to the defendant and must be made a part of the sentence and be included in the judgment.
 The court may include in the order of forfeiture conditions reasonably necessary to preserve the property's value pending any appeal.
 
-(4) Jury Determination.
-Upon a party's request in a case in which a jury returns a verdict of guilty, the jury must determine whether the government has established the requisite nexus between the property and the offense committed by the defendant.
+(4) Sentence and Judgment.
+
+(A) When Final.
+At sentencing—or at any time before sentencing if the defendant consents—the preliminary forfeiture order becomes final as to the defendant.
+If the order directs the defendant to forfeit specific property, it remains preliminary as to third parties until the ancillary proceeding is concluded under Rule 32.2(c).
+
+(B) Notice and Inclusion in the Judgment.
+The court must include the forfeiture when orally announcing the sentence or must otherwise ensure that the defendant knows of the forfeiture at sentencing.
+The court must also include the forfeiture order, directly or by reference, in the judgment, but the court's failure to do so may be corrected at any time under Rule 36.
+
+(C) Time to Appeal.
+The time for the defendant or the government to file an appeal from the forfeiture order, or from the court's failure to enter an order, begins to run when judgment is entered.
+If the court later amends or declines to amend a forfeiture order to include additional property under Rule 32.2(e), the defendant or the government may file an appeal regarding that property under Federal Rule of Appellate Procedure 4(b). The time for that appeal runs from the date when the order granting or denying the amendment becomes final.
+
+(5) Jury Determination.
+
+(A) Retaining the Jury.
+In any case tried before a jury, if the indictment or information states that the government is seeking forfeiture, the court must determine before the jury begins deliberating whether either party requests that the jury be retained to determine the forfeitability of specific property if it returns a guilty verdict.
+
+(B) Special Verdict Form.
+If a party timely requests to have the jury determine forfeiture, the government must submit a proposed Special Verdict Form listing each property subject to forfeiture and asking the jury to determine whether the government has established the requisite nexus between the property and the offense committed by the defendant.
+
+(6) Notice of the Forfeiture Order.
+
+(A) Publishing and Sending Notice.
+If the court orders the forfeiture of specific property, the government must publish notice of the order and send notice to any person who reasonably appears to be a potential claimant with standing to contest the forfeiture in the ancillary proceeding.
+
+(B) Content of the Notice.
+The notice must describe the forfeited property, state the times under the applicable statute when a petition contesting the forfeiture must be filed, and state the name and contact information for the government attorney to be served with the petition.
+
+(C) Means of Publication; Exceptions to Publication Requirement.
+Publication must take place as described in Supplemental Rule G(4)(a)(iii) of the Federal Rules of Civil Procedure, and may be by any means described in Supplemental Rule G(4)(a)(iv). Publication is unnecessary if any exception in Supplemental Rule G(4)(a)(i) applies.
+
+(D) Means of Sending the Notice.
+The notice may be sent in accordance with Supplemental Rules G(4)(b)(iii)–(v) of the Federal Rules of Civil Procedure.
+
+(7) Interlocutory Sale.
+At any time before entry of a final forfeiture order, the court, in accordance with Supplemental Rule G(7) of the Federal Rules of Civil Procedure, may order the interlocutory sale of property alleged to be forfeitable.
 
 (c) Ancillary Proceeding; Entering a Final Order of Forfeiture.
 
@@ -3598,11 +3994,189 @@ There is no right to a jury trial under Rule 32.2(e).
 
 (Added Apr. 17, 2000, eff.
 Dec. 1, 2000; amended Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
+
+Committee Notes on Rules—2000
+
+Rule 32.2 consolidates a number of procedural rules governing the forfeiture of assets in a criminal case.
+Existing Rules 7(c)(2), 31(e) and 32(d)(2) are also amended to conform to the new rule.
+In addition, the forfeiture-related provisions of Rule 38(e) are stricken.
+
+Subdivision (a). Subdivision (a) is derived from Rule 7(c)(2) which provides that notwithstanding statutory authority for the forfeiture of property following a criminal conviction, no forfeiture order may be entered unless the defendant was given notice of the forfeiture in the indictment or information.
+As courts have held, subdivision (a) is not intended to require that an itemized list of the property to be forfeited appear in the indictment or information itself.
+The subdivision reflects the trend in caselaw interpreting present Rule 7(c). Under the most recent cases, Rule 7(c) sets forth a requirement that the government give the defendant notice that it will be seeking forfeiture in accordance with the applicable statute.
+It does not require a substantive allegation in which the property subject to forfeiture, or the defendant's interest in the property, must be described in detail.
+See United States v. DeFries, 129 F.3d 1293 (D.C.Cir. 1997) (it is not necessary to specify in either the indictment or a bill of particulars that the government is seeking forfeiture of a particular asset, such as the defendant's salary; to comply with Rule 7(c), the government need only put the defendant on notice that it will seek to forfeit everything subject to forfeiture under the applicable statute, such as all property “acquired or maintained” as a result of a RICO violation). See also United States v. Moffitt, Zwerling & Kemler, P.C., 83 F.3d 660, 665 (4th Cir. 1996), aff'g 846 F. Supp. 463 (E.D. Va. 1994) (Moffitt I) (indictment need not list each asset subject to forfeiture; under Rule 7(c), this can be done with bill of particulars); United States v. Voigt, 89 F.3d 1050 (3rd Cir. 1996) (court may amend order of forfeiture at any time to include substitute assets).
+
+Subdivision (b). Subdivision (b) replaces Rule 31(e) which provides that the jury in a criminal case must return a special verdict “as to the extent of the interest or property subject to forfeiture.” See United States v. Saccoccia, 58 F.3d 754 (1st Cir. 1995) (Rule 31(e) only applies to jury trials; no special verdict required when defendant waives right to jury on forfeiture issues).
+
+One problem under Rule 31(e) concerns the scope of the determination that must be made prior to entering an order of forfeiture.
+This issue is the same whether the determination is made by the court or by the jury.
+
+As mentioned, the current rule requires the jury to return a special verdict “as to the extent of the interest or property subject to forfeiture.” Some courts interpret this to mean only that the jury must answer “yes” or “no” when asked if the property named in the indictment is subject to forfeiture under the terms of the forfeiture statute—e.g. was the property used to facilitate a drug offense? Other courts also ask the jury if the defendant has a legal interest in the forfeited property.
+Still other courts, including the Fourth Circuit, require the jury to determine the extent of the defendant's interest in the property vis a vis third parties.
+See United States v. Ham, 58 F.3d 78 (4th Cir. 1995) (case remanded to the district court to impanel a jury to determine, in the first instance, the extent of the defendant's forfeitable interest in the subject property).
+
+The notion that the “extent” of the defendant's interest must be established as part of the criminal trial is related to the fact that criminal forfeiture is an in personam action in which only the defendant's interest in the property may be forfeited.
+United States v. Riley, 78 F.3d 367 (8th Cir. 1996). When the criminal forfeiture statutes were first enacted in the 1970's, it was clear that a forfeiture of property other than the defendant's could not occur in a criminal case, but there was no mechanism designed to limit the forfeiture to the defendant's interest.
+Accordingly, Rule 31(e) was drafted to make a determination of the “extent” of the defendant's interest part of the verdict.
+
+The problem is that third parties who might have an interest in the forfeited property are not parties to the criminal case.
+At the same time, a defendant who has no interest in property has no incentive, at trial, to dispute the government's forfeiture allegations.
+Thus, it was apparent by the 1980's that Rule 31(e) was an inadequate safeguard against the inadvertent forfeiture of property in which the defendant held no interest.
+
+In 1984, Congress addressed this problem when it enacted a statutory scheme whereby third party interests in criminally forfeited property are litigated by the court in an ancillary proceeding following the conclusion of the criminal case and the entry of a preliminary order of forfeiture.
+See 21 U.S.C. §853(n); 18 U.S.C. §1963(l). Under this scheme, the court orders the forfeiture of the defendant's interest in the property—whatever that interest may be—in the criminal case.
+At that point, the court conducts a separate proceeding in which all potential third party claimants are given an opportunity to challenge the forfeiture by asserting a superior interest in the property.
+This proceeding does not involve relitigation of the forfeitability of the property; its only purpose is to determine whether any third party has a legal interest in the forfeited property.
+
+The notice provisions regarding the ancillary proceeding are equivalent to the notice provisions that govern civil forfeitures.
+Compare 21 U.S.C. §853(n)(1) with 19 U.S.C. §1607(a); see United States v. Bouler, 927 F. Supp. 911 (W.D.N.C. 1996) (civil notice rules apply to ancillary criminal proceedings). Notice is published and sent to third parties that have a potential interest.
+See United States v. BCCI Holdings (Luxembourg) S.A. (In re Petition of Indosuez Bank), 916 F. Supp. 1276 (D.D.C. 1996) (discussing steps taken by government to provide notice of criminal forfeiture to third parties). If no one files a claim, or if all claims are denied following a hearing, the forfeiture becomes final and the United States is deemed to have clear title to the property. 21 U.S.C. §853(n)(7); United States v. Hentz, 1996 WL 355327 (E.D. Pa. June 20, 1996) (once third party fails to file a claim in the ancillary proceeding, government has clear title under §853(n)(7) and can market the property notwithstanding third party's name on the deed).
+
+Thus, the ancillary proceeding has become the forum for determining the extent of the defendant's forfeitable interest in the property.
+This allows the court to conduct a proceeding in which all third party claimants can participate and which ensures that the property forfeited actually belongs to the defendant.
+
+Since the enactment of the ancillary proceeding statutes, the requirement in Rule 31(e) that the court (or jury) determine the extent of the defendant's interest in the property as part of the criminal trial has become an unnecessary anachronism that leads more often than not to duplication and a waste of judicial resources.
+There is no longer any reason to delay the conclusion of the criminal trial with a lengthy hearing over the extent of the defendant's interest in property when the same issues will have to be litigated a second time in the ancillary proceeding if someone files a claim challenging the forfeiture.
+For example, in United States v. Messino, 917 F. Supp. 1307 (N.D. Ill. 1996), the court allowed the defendant to call witnesses to attempt to establish that they, not he, were the true owners of the property.
+After the jury rejected this evidence and the property was forfeited, the court conducted an ancillary proceeding in which the same witnesses litigated their claims to the same property.
+
+A more sensible procedure would be for the court, once it (or a jury) determines that property was involved in the criminal offense for which the defendant has been convicted, to order the forfeiture of whatever interest a defendant may have in the property without having to determine exactly what that interest is.
+If third parties assert that they have an interest in all or part of the property, those interests can be adjudicated at one time in the ancillary proceeding.
+
+This approach would also address confusion that occurs in multi-defendant cases where it is clear that each defendant should forfeit whatever interest he may have in the property used to commit the offense, but it is not at all clear which defendant is the actual owner of the property.
+For example, suppose A and B are co-defendants in a drug and money laundering case in which the government seeks to forfeit property involved in the scheme that is held in B's name but of which A may be the true owner.
+It makes no sense to invest the court's time in determining which of the two defendants holds the interest that should be forfeited.
+Both defendants should forfeit whatever interest they may have.
+Moreover, if under the current rule the court were to find that A is the true owner of the property, then B would have the right to file a claim in the ancillary proceeding where he may attempt to recover the property despite his criminal conviction.
+United States v. Real Property in Waterboro, 64 F.3d 752 (1st Cir. 1995) (co-defendant in drug/money laundering case who is not alleged to be the owner of the property is considered a third party for the purpose of challenging the forfeiture of the other co-defendant's interest).
+
+The new rule resolves these difficulties by postponing the determination of the extent of the defendant's interest until the ancillary proceeding.
+As provided in (b)(1), the court, as soon as practicable after the verdict or finding of guilty in the criminal case, would determine if the property was subject to forfeiture in accordance with the applicable statute, e.g., whether the property represented the proceeds of the offense, was used to facilitate the offense, or was involved in the offense in some other way.
+The determination could be made based on the evidence in the record from the criminal trial or the facts set forth in a written plea agreement submitted to the court at the time of the defendant's guilty plea, or the court could hold a hearing to determine if the requisite relationship existed between the property and the offense.
+Subdivision (b)(2) provides that it is not necessary to determine at this stage what interest any defendant might have in the property.
+Instead, the court would order the forfeiture of whatever interest each defendant might have in the property and conduct the ancillary proceeding.
+
+Subdivision (b)(1) recognizes that there are different kinds of forfeiture judgments in criminal cases.
+One type is a personal judgment for a sum of money; another is a judgment forfeiting a specific asset.
+See, e.g., United States v. Voigt, 89 F.3d 1050 (3d Cir. 1996) (government is entitled to a personal money judgment equal to the amount involved in the money laundering offense, as well as order forfeiting specific assets involved in, or traceable to, the offense; in addition, if the statutory requirements are met, the government may be entitled to forfeit substitute assets); United States v. Cleveland, 1997 WL 537707 (E.D. La. Aug. 26, 1997), modified, 1997 WL 602186 (E.D. La. Sept. 29, 1997) (government entitled to a money judgment equal to the amount of money defendant laundered in money laundering case). The finding the court is required to make will depend on the nature of the forfeiture judgment.
+A number of cases have approved use of money judgment forfeitures.
+The Committee takes no position on the correctness of those rulings.
+
+To the extent that the government is seeking forfeiture of a particular asset, such as the money on deposit in a particular bank account that is alleged to be the proceeds of a criminal offense, or a parcel of land that is traceable to that offense, the court must find that the government has established the requisite nexus between the property and the offense.
+To the extent that the government is seeking a money judgment, such as a judgment for the amount of money derived from a drug trafficking offense or the amount involved in a money laundering offense where the actual property subject to forfeiture has not been found or is unavailable, the court must determine the amount of money that the defendant should be ordered to forfeit.
+
+The court may make the determination based on evidence in the record, or on additional evidence submitted by the defendant or evidence submitted by the government in support of the motion for the entry of a judgment of forfeiture.
+The defendant would have no standing to object to the forfeiture on the ground that the property belonged to someone else.
+
+Under subdivision (b)(2), if the court finds that property is forfeitable, it must enter a preliminary order of forfeiture.
+It also recognizes that any determination of a third person's interest in the property is deferred until an ancillary proceeding, if any, is held under subdivision (c).
+
+Subdivision (b)(3) replaces Rule 32(d)(2) (effective December 1996). It provides that once the court enters a preliminary order of forfeiture directing the forfeiture of whatever interest each defendant may have in the forfeited property, the government may seize the property and commence an ancillary proceeding to determine the interests of any third party.
+The subdivision also provides that the Attorney General may designate someone outside of the Department of Justice to seize forfeited property.
+This is necessary because in cases in which the lead investigative agency is in the Treasury Department, for example, the seizure of the forfeited property is typically handled by agencies other than the Department of Justice.
+
+If no third party files a claim, the court, at the time of sentencing, will enter a final order forfeiting the property in accordance with subdivision (c)(2), discussed infra.
+If a third party files a claim, the order of forfeiture will become final as to the defendant at the time of sentencing but will be subject to amendment in favor of a third party pending the conclusion of the ancillary proceeding.
+
+Because the order of forfeiture becomes final as to the defendant at the time of sentencing, his right to appeal from that order begins to run at that time.
+As courts have held, because the ancillary hearing has no bearing on the defendant's right to the property, the defendant has no right to appeal when a final order is, or is not, amended to recognize third party rights.
+See, e.g., United States v. Christunas, 126 F.3d 765 (6th Cir. 1997) (preliminary order of forfeiture is final as to the defendant and is immediately appealable).
+
+Because it is not uncommon for sentencing to be postponed for an extended period to allow a defendant to cooperate with the government in an ongoing investigation, the rule would allow the order of forfeiture to become final as to the defendant before sentencing, if the defendant agrees to that procedure.
+Otherwise, the government would be unable to dispose of the property until the sentencing took place.
+
+Subdivision (b)(4) addresses the right of either party to request that a jury make the determination of whether any property is subject to forfeiture.
+The provision gives the defendant, in all cases where a jury has returned a guilty verdict, the option of asking that the jury be retained to hear additional evidence regarding the forfeitability of the property.
+The only issue for the jury in such cases would be whether the government has established the requisite nexus between the property and the offense.
+For example, if the defendant disputes the government's allegation that a parcel of real property is traceable to the offense, the defendant would have the right to request that the jury hear evidence on that issue, and return a special verdict, in a bifurcated proceeding that would occur after the jury returns the guilty verdict.
+The government would have the same option of requesting a special jury verdict on this issue, as is the case under current law.
+See Rule 23(a) (trial by jury may be waived only with the consent of the government).
+
+When Rule 31(e) was promulgated, it was assumed that criminal forfeiture was akin to a separate criminal offense on which evidence would be presented and the jury would have to return a verdict.
+In Libretti v. United States, 516 U.S. 29 (1995), however, the Supreme Court held that criminal forfeiture constitutes an aspect of the sentence imposed in a criminal case and that the defendant has no constitutional right to have the jury determine any part of the forfeiture.
+The special verdict requirement in Rule 31(e), the Court said, is in the nature of a statutory right that can be modified or repealed at any time.
+
+Even before Libretti, lower courts had determined that criminal forfeiture is a sentencing matter and concluded that criminal trials therefore should be bifurcated so that the jury first returns a verdict on guilt or innocence and then returns to hear evidence regarding the forfeiture.
+In the second part of the bifurcated proceeding, the jury is instructed that the government must establish the forfeitability of the property by a preponderance of the evidence.
+See United States v. Myers, 21 F.3d 826 (8th Cir. 1994) (preponderance standard applies because criminal forfeiture is part of the sentence in money laundering cases); United States v. Voigt, 89 F.3d 1050 (3rd Cir. 1996) (following Myers); United States v. Smith, 966 F.2d 1045, 1050–53 (6th Cir. 1992) (same for drug cases); United States v. Bieri, 21 F.3d 819 (8th Cir. 1994) (same).
+
+Although an argument could be made under Libretti, that a jury trial is no longer appropriate on any aspect of the forfeiture issue, which is a part of sentencing, the Committee decided to retain the right for the parties, in a trial held before a jury, to have the jury determine whether the government has established the requisite statutory nexus between the offense and the property to be forfeited.
+The jury, however, would not have any role in determining whether a defendant had an interest in the property to be forfeited.
+This is a matter for the ancillary proceeding which, by statute, is conducted “before the court alone, without a jury.” See 21 U.S.C. §853(n)(2).
+
+Subdivision (c). Subdivision (c) sets forth a set of rules governing the conduct of the ancillary proceeding.
+When the ancillary hearing provisions were added to 18 U.S.C. §1963 and 21 U.S.C. §853 in 1984, Congress apparently assumed that the proceedings under the new provisions would involve simple questions of ownership that could, in the ordinary case, be resolved in 30 days.
+See 18 U.S.C. §1963(l)(4). Presumably for that reason, the statute contains no procedures governing motions practice or discovery such as would be available in an ordinary civil case.
+Subdivision (c)(1) makes clear that no ancillary proceeding is required to the extent that the order of forfeiture consists of a money judgment.
+A money judgment is an in personam judgment against the defendant and not an order directed at specific assets in which any third party could have any interest.
+
+Experience has shown that ancillary hearings can involve issues of enormous complexity that require years to resolve.
+See United States v. BCCI Holdings (Luxembourg) S.A., 833 F. Supp. 9 (D.D.C. 1993) (ancillary proceeding involving over 100 claimants and $451 million); United States v. Porcelli, CR–85–00756 (CPS), 1992 U.S. Dist. LEXIS 17928 (E.D.N.Y. Nov. 5, 1992) (litigation over third party claim continuing 6 years after RICO conviction). In such cases, procedures akin to those available under the Federal Rules of Civil Procedure should be available to the court and the parties to aid in the efficient resolution of the claims.
+
+Because an ancillary hearing is connected to a criminal case, it would not be appropriate to make the Civil Rules applicable in all respects.
+The amendment, however, describes several fundamental areas in which procedures analogous to those in the Civil Rules may be followed.
+These include the filing of a motion to dismiss a claim, conducting discovery, disposing of a claim on a motion for summary judgment, and appealing a final disposition of a claim.
+Where applicable, the amendment follows the prevailing case law on the issue.
+See, e.g., United States v. Lavin, 942 F.2d 177 (3rd Cir. 1991) (ancillary proceeding treated as civil case for purposes of applying Rules of Appellate Procedure); United States v. BCCI Holdings (Luxembourg) S.A. (In re Petitions of General Creditors), 919 F. Supp. 31 (D.D.C. 1996) (“If a third party fails to allege in its petition all elements necessary for recovery, including those relating to standing, the court may dismiss the petition without providing a hearing”); United States v. BCCI (Holdings) Luxembourg S.A. (In re Petition of Department of Private Affairs), 1993 WL 760232 (D.D.C. Dec. 8, 1993) (applying court's inherent powers to permit third party to obtain discovery from defendant in accordance with civil rules). The provision governing appeals in cases where there are multiple claims is derived from Fed. R. Civ. P. 54(b). See also United States v. BCCI Holdings (Luxembourg) S.A. (Petition of Banque Indosuez), 961 F. Supp. 282 (D.D.C. 1997) (in resolving motion to dismiss court assumes all facts pled by third party petitioner to be true, applying Rule 12(b)(6) and denying government's motion because whether claimant had superior title turned on factual dispute; government acted reasonably in not making any discovery requests in ancillary proceeding until court ruled on its motion to dismiss).
+
+Subdivision (c)(2) provides for the entry of a final order of forfeiture at the conclusion of the ancillary proceeding.
+Under this provision, if no one files a claim in the ancillary proceeding, the preliminary order would become the final order of forfeiture, but the court would first have to make an independent finding that at least one of the defendants had an interest in the property such that it was proper to order the forfeiture of the property in a criminal case.
+In making that determination, the court may rely upon reasonable inferences.
+For example, the fact that the defendant used the property in committing the crime and no third party claimed an interest in the property may give rise to the inference that the defendant had a forfeitable interest in the property.
+
+This subdivision combines and preserves two established tenets of current law.
+One is that criminal forfeitures are in personam actions that are limited to the property interests of the defendant. (This distinguishes criminal forfeiture, which is imposed as part of the defendant's sentence, from civil forfeiture which may be pursued as an action against the property in rem without regard to who the owner may be.) The other tenet of current law is that if a third party has notice of the forfeiture but fails to file a timely claim, his or her interests are extinguished, and may not be recognized when the court enters the final order of forfeiture.
+See United States v. Hentz, 1996 WL 355327 (E.D. Pa. June 20, 1996) (once third party fails to file a claim in the ancillary proceeding, government has clear title under 21 U.S.C. §853(n)(7) and can market the property notwithstanding third party's name on the deed). In the rare event that a third party claims that he or she was not afforded adequate notice of a criminal forfeiture action, the person may file a motion under Rule 60(b) of the Federal Rules of Civil Procedure to reopen the ancillary proceeding.
+See United States v. Bouler, 927 F. Supp. 911 (W.D.N.C. 1996) (Rule 60(b) is the proper means by which a third party may move to reopen an ancillary proceeding).
+
+If no third parties assert their interests in the ancillary proceeding, the court must nonetheless determine that the defendant, or combination of defendants, had an interest in the property.
+Criminal defendants may be jointly and severally liable for the forfeiture of the entire proceeds of the criminal offense.
+See United States v. Hurley, 63 F.3d 1 (1st Cir. 1995) (government can collect the proceeds only once, but subject to that cap, it can collect from any defendant so much of the proceeds as was foreseeable to that defendant); United States v. Cleveland, 1997 WL 602186 (E.D. La. Sept. 29, 1997) (same); United States v. McCarroll, 1996 WL 355371 at *9 (N.D. Ill.
+June 25, 1996) (following Hurley), aff'd sub nom.
+United States v. Jarrett, 133 F.3d 519 (7th Cir. 1998); United States v. DeFries, 909 F. Supp. 13, 19–20 (D.D.C. 1995) (defendants are jointly and severally liable even where government is able to determine precisely how much each defendant benefitted from the scheme), rev'd on other grounds, 129 F.3d 1293 (D.C. Cir. 1997). Therefore, the conviction of any of the defendants is sufficient to support the forfeiture of the entire proceeds of the offense, even if the defendants have divided the money among themselves.
+
+As noted in (c)(4), the ancillary proceeding is not considered a part of sentencing.
+Thus, the Federal Rules of Evidence would apply to the ancillary proceeding, as is the case currently.
+
+Subdivision (d). Subdivision (d) replaces the forfeiture provisions of Rule 38(e) which provide that the court may stay an order of forfeiture pending appeal.
+The purpose of the provision is to ensure that the property remains intact and unencumbered so that it may be returned to the defendant in the event the appeal is successful.
+Subdivision (d) makes clear, however, that a district court is not divested of jurisdiction over an ancillary proceeding even if the defendant appeals his or her conviction.
+This allows the court to proceed with the resolution of third party claims even as the appellate court considers the appeal.
+Otherwise, third parties would have to await the conclusion of the appellate process even to begin to have their claims heard.
+See United States v. Messino, 907 F. Supp. 1231 (N.D. Ill. 1995) (the district court retains jurisdiction over forfeiture matters while an appeal is pending).
+
+Finally, subdivision (d) provides a rule to govern what happens if the court determines that a third-party claim should be granted but the defendant's appeal is still pending.
+The defendant is barred from filing a claim in the ancillary proceeding.
+See 18 U.S.C. §1963(l)(2); 21 U.S.C. §853(n)(2). Thus, the court's determination, in the ancillary proceeding, that a third party has an interest in the property superior to that of the defendant cannot be binding on the defendant.
+So, in the event that the court finds in favor of the third party, that determination is final only with respect to the government's alleged interest.
+If the defendant prevails on appeal, he or she recovers the property as if no conviction or forfeiture ever took place.
+But if the order of forfeiture is affirmed, the amendment to the order of forfeiture in favor of the third party becomes effective.
+
+Subdivision (e). Subdivision (e) makes clear, as courts have found, that the court retains jurisdiction to amend the order of forfeiture at any time to include subsequently located property which was originally included in the forfeiture order and any substitute property.
+See United States v. Hurley, 63 F.3d 1 (1st Cir. 1995) (court retains authority to order forfeiture of substitute assets after appeal is filed); United States v. Voigt, 89 F.3d 1050 (3rd Cir. 1996) (following Hurley). Third parties, of course, may contest the forfeiture of substitute assets in the ancillary proceeding.
+See United States v. Lester, 85 F.3d 1409 (9th Cir. 1996).
+
+Subdivision (e)(1) makes clear that the right to a bifurcated jury trial to determine whether the government has established the requisite nexus between the property and the offense, see (b)(4), does not apply to the forfeiture of substitute assets or to the addition of newly-discovered property to an existing order of forfeiture.
+It is well established in the case law that the forfeiture of substitute assets is solely an issue for the court.
+See United States v. Hurley, 63 F.3d 1 (1st Cir. 1995) (court retains authority to order forfeiture of substitute assets after appeal is filed); United States v. Voigt, 89 F.3d 1050 (3d Cir. 1996) (following Hurley; court may amend order of forfeiture at any time to include substitute assets); United States v. Thompson, 837 F. Supp. 585 (S.D.N.Y. 1993) (court, not jury, orders forfeiture of substitute assets). As a practical matter, courts have also determined that they, not the jury, must determine the forfeitability of assets discovered after the trial is over and the jury has been dismissed.
+See United States v. Saccoccia, 898 F. Supp. 53 (D.R.I. 1995) (government may conduct post-trial discovery to determine location and identity of forfeitable assets; post-trial discovery resulted in discovery of gold bars buried in defendant's mother's backyard several years after the entry of an order directing the defendant to forfeit all property, up to $137 million, involved in his money laundering offense).
+
+GAP Report—Rule 32.2. The Committee amended the rule to clarify several key points.
+First, subdivision (b) was redrafted to make it clear that if no third party files a petition to assert property rights, the trial court must determine whether the defendant has an interest in the property to be forfeited and the extent of that interest.
+As published, the rule would have permitted the trial judge to order the defendant to forfeit the property in its entirety if no third party filed a claim.
+
+Second, Rule 32.2(c)(4) was added to make it clear that the ancillary proceeding is not a part of sentencing.
+
+Third, the Committee clarified the procedures to be used if the government (1) discovers property subject to forfeiture after the court has entered an order of forfeiture and (2) seeks the forfeiture of “substitute” property under a statute authorizing such substitution.
 
 References in Text
 
-The Federal Rules of Civil Procedure, referred to in subsec. (c)(1)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Supplemental Rules of the Federal Rules of Civil Procedure, referred to in subd. (b)(6)(C), (D), (7), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+The Federal Rules of Civil Procedure, referred to in subd. (c)(1)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Rule 33. New Trial
 
@@ -3617,14 +4191,15 @@ Any motion for a new trial grounded on newly discovered evidence must be filed w
 If an appeal is pending, the court may not grant a motion for a new trial until the appellate court remands the case.
 
 (2) Other Grounds.
-Any motion for a new trial grounded on any reason other than newly discovered evidence must be filed within 7 days after the verdict or finding of guilty.
+Any motion for a new trial grounded on any reason other than newly discovered evidence must be filed within 14 days after the verdict or finding of guilty.
 
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 24, 1998, eff.
 Dec. 1, 1998; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 25, 2005, eff.
-Dec. 1, 2005.)
+Dec. 1, 2005; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3642,12 +4217,13 @@ Upon the defendant's motion or on its own, the court must arrest judgment if:
 (2) the court does not have jurisdiction of the charged offense.
 
 (b) Time to File.
-The defendant must move to arrest judgment within 7 days after the court accepts a verdict or finding of guilty, or after a plea of guilty or nolo contendere.
+The defendant must move to arrest judgment within 14 days after the court accepts a verdict or finding of guilty, or after a plea of guilty or nolo contendere.
 
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 25, 2005, eff.
-Dec. 1, 2005.)
+Dec. 1, 2005; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3657,7 +4233,7 @@ See Rule II (2) of Criminal Appeals Rules of 1933, 292 U.S.C. 661.
 Rule 35. Correcting or Reducing a Sentence
 
 (a) Correcting Clear Error.
-Within 7 days after sentencing, the court may correct a sentence that resulted from arithmetical, technical, or other clear error.
+Within 14 days after sentencing, the court may correct a sentence that resulted from arithmetical, technical, or other clear error.
 
 (b) Reducing a Sentence for Substantial Assistance.
 
@@ -3691,7 +4267,8 @@ Dec. 1, 1991; Apr. 24, 1998, eff.
 Dec. 1, 1998; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 26, 2004, eff.
 Dec. 1, 2004; Apr. 30, 2007, eff.
-Dec. 1, 2007.)
+Dec. 1, 2007; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3810,9 +4387,9 @@ Rule 40. Arrest for Failing to Appear in Another District or for Violating Condi
 (a) In General.
 A person must be taken without unnecessary delay before a magistrate judge in the district of arrest if the person has been arrested under a warrant issued in another district for:
 
-(i) 1 failing to appear as required by the terms of that person's release under 18 U.S.C. §§3141–3156 or by a subpoena; or
+(i) failing to appear as required by the terms of that person's release under 18 U.S.C. §§3141–3156 or by a subpoena; or
 
-(ii) 2 violating conditions of release set in another district.
+(ii) violating conditions of release set in another district.
 
 (b) Proceedings.
 The judge must proceed under Rule 5(c)(3) as applicable.
@@ -3867,12 +4444,6 @@ Since the action of the grand jury is not subject to review by a district judge 
 Note to Subdivision (b). The rule provides that all removal hearings shall take place before a United States commissioner or a Federal judge.
 It does not confer such jurisdiction on State or local magistrates.
 While theoretically under existing law State and local magistrates have authority to conduct removal hearings, nevertheless as a matter of universal practice, such proceedings are always conducted before a United States commissioner or a Federal judge, 9 Edmunds, Cyclopedia of Federal Procedure 3919.
-
-1 So in original.
-Probably should be “(1)”.
-
-2 So in original.
-Probably should be “(2)”.
 
 Rule 41. Search and Seizure
 
@@ -3970,13 +4541,18 @@ The magistrate judge or a judge of a state court of record must issue the warran
 Except for a tracking-device warrant, the warrant must identify the person or property to be searched, identify any person or property to be seized, and designate the magistrate judge to whom it must be returned.
 The warrant must command the officer to:
 
-(i) execute the warrant within a specified time no longer than 10 days;
+(i) execute the warrant within a specified time no longer than 14 days;
 
 (ii) execute the warrant during the daytime, unless the judge for good cause expressly authorizes execution at another time; and
 
 (iii) return the warrant to the magistrate judge designated in the warrant.
 
-(B) Warrant for a Tracking Device.
+(B) Warrant Seeking Electronically Stored Information.
+A warrant under Rule 41(e)(2)(A) may authorize the seizure of electronic storage media or the seizure or copying of electronically stored information.
+Unless otherwise specified, the warrant authorizes a later review of the media or information consistent with the warrant.
+The time for executing the warrant in Rule 41(e)(2)(A) and (f)(1)(A) refers to the seizure or on-site copying of the media or information, and not to any later off-site copying or review.
+
+(C) Warrant for a Tracking Device.
 A tracking-device warrant must identify the person or property to be tracked, designate the magistrate judge to whom it must be returned, and specify a reasonable length of time that the device may be used.
 The time must not exceed 45 days from the date the warrant was issued.
 The court may, for good cause, grant one or more extensions for a reasonable period not to exceed 45 days each.
@@ -4016,6 +4592,8 @@ The officer executing the warrant must enter on it the exact date and time it wa
 An officer present during the execution of the warrant must prepare and verify an inventory of any property seized.
 The officer must do so in the presence of another officer and the person from whom, or from whose premises, the property was taken.
 If either one is not present, the officer must prepare and verify the inventory in the presence of at least one other credible person.
+In a case involving the seizure of electronic storage media or the seizure or copying of electronically stored information, the inventory may be limited to describing the physical storage media that were seized or copied.
+The officer may retain a copy of the electronically stored information that was seized or copied.
 
 (C) Receipt.
 The officer executing the warrant must give a copy of the warrant and a receipt for the property taken to the person from whom, or from whose premises, the property was taken or leave a copy of the warrant and receipt at the place where the officer took the property.
@@ -4066,7 +4644,8 @@ Dec. 1, 1990; Apr. 22, 1993, eff.
 Dec. 1, 1993; Pub. L. 107–56, title II, §219, Oct. 26, 2001, 115 Stat. 291; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 12, 2006, eff.
 Dec. 1, 2006; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
+Dec. 1, 2008; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4135,11 +4714,11 @@ U.S.C., Title 29:
 
 U.S.C., Title 49:
 
- Section 781 (Unlawful use of vessels, vehicles, and aircrafts; contraband article defined)
+ Section 781 [now 80302] (Unlawful use of vessels, vehicles, and aircrafts; contraband article defined)
 
- Section 782 (Seizure and forfeiture)
+ Section 782 [now 80303] (Seizure and forfeiture)
 
- Section 784 (Application of related laws)
+ Section 784 [now 80306] (Application of related laws)
 
 Rule 42. Criminal Contempt
 
@@ -4406,44 +4985,50 @@ Although the defendant is not entitled to have counsel assigned to him in connec
 Rule 45. Computing and Extending Time
 
 (a) Computing Time.
-The following rules apply in computing any period of time specified in these rules, any local rule, or any court order:
+The following rules apply in computing any time period specified in these rules, in any local rule or court order, or in any statute that does not specify a method of computing time.
 
-(1) Day of the Event Excluded.
-Exclude the day of the act, event, or default that begins the period.
+(1) Period Stated in Days or a Longer Unit.
+When the period is stated in days or a longer unit of time:
 
-(2) Exclusion from Brief Periods.
-Exclude intermediate Saturdays, Sundays, and legal holidays when the period is less than 11 days.
+(A) exclude the day of the event that triggers the period;
 
-(3) Last Day.
-Include the last day of the period unless it is a Saturday, Sunday, legal holiday, or day on which weather or other conditions make the clerk's office inaccessible.
-When the last day is excluded, the period runs until the end of the next day that is not a Saturday, Sunday, legal holiday, or day when the clerk's office is inaccessible.
+(B) count every day, including intermediate Saturdays, Sundays, and legal holidays; and
 
-(4) “Legal Holiday” Defined.
-As used in this rule, “legal holiday” means:
+(C) include the last day of the period, but if the last day is a Saturday, Sunday, or legal holiday, the period continues to run until the end of the next day that is not a Saturday, Sunday, or legal holiday.
 
-(A) the day set aside by statute for observing:
+(2) Period Stated in Hours.
+When the period is stated in hours:
 
-(i) New Year's Day;
+(A) begin counting immediately on the occurrence of the event that triggers the period;
 
-(ii) Martin Luther King, Jr.'s Birthday;
+(B) count every hour, including hours during intermediate Saturdays, Sundays, and legal holidays; and
 
-(iii) Washington's Birthday;
+(C) if the period would end on a Saturday, Sunday, or legal holiday, the period continues to run until the same time on the next day that is not a Saturday, Sunday, or legal holiday.
 
-(iv) Memorial Day;
+(3) Inaccessibility of the Clerk's Office.
+Unless the court orders otherwise, if the clerk's office is inaccessible:
 
-(v) Independence Day;
+(A) on the last day for filing under Rule 45(a)(1), then the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or legal holiday; or
 
-(vi) Labor Day;
+(B) during the last hour for filing under Rule 45(a)(2), then the time for filing is extended to the same time on the first accessible day that is not a Saturday, Sunday, or legal holiday.
 
-(vii) Columbus Day;
+(4) “Last Day” Defined.
+Unless a different time is set by a statute, local rule, or court order, the last day ends:
 
-(viii) Veterans’ Day;
+(A) for electronic filing, at midnight in the court's time zone; and
 
-(ix) Thanksgiving Day;
+(B) for filing by other means, when the clerk's office is scheduled to close.
 
-(x) Christmas Day; and
+(5) “Next Day” Defined.
+The “next day” is determined by continuing to count forward when the period is measured after an event and backward when measured before an event.
 
-(B) any other day declared a holiday by the President, the Congress, or the state where the district court is held.
+(6) “Legal Holiday” Defined. “Legal holiday” means:
+
+(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans’ Day, Thanksgiving Day, or Christmas Day;
+
+(B) any day declared a holiday by the President or Congress; and
+
+(C) for periods that are measured after an event, any other day declared a holiday by the state where the district court is located.
 
 (b) Extending Time.
 
@@ -4470,7 +5055,8 @@ Aug. 1, 1987; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 25, 2005, eff.
 Dec. 1, 2005; Apr. 30, 2007, eff.
 Dec. 1, 2007; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
+Dec. 1, 2008; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4481,6 +5067,124 @@ Note to Subdivision (a). This rule supersedes the method of computing time presc
 Note to Subdivision (c). This rule abolishes the expiration of a term of court as a time limitation for the taking of any step in a criminal proceeding, as is done for civil cases by Rule 6(c) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix]. In view of the fact that the duration of terms of court varies among the several districts and the further fact that the length of time for the taking of any step limited by a term of court depends on the stage within the term when the time begins to run, specific time limitations have been substituted for the taking of any step which previously had to be taken within the term of court.
 
 Note to Subdivision (d). Cf. Rule 47 (Motions) and Rule 49 (Service and filing of papers).
+
+References in Text
+
+The Federal Rules of Civil Procedure, referred to in subd. (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Rule 46. Release from Custody; Supervising Detention
+
+(a) Before Trial.
+The provisions of 18 U.S.C. §§3142 and 3144 govern pretrial release.
+
+(b) During Trial.
+A person released before trial continues on release during trial under the same terms and conditions.
+But the court may order different terms and conditions or terminate the release if necessary to ensure that the person will be present during trial or that the person's conduct will not obstruct the orderly and expeditious progress of the trial.
+
+(c) Pending Sentencing or Appeal.
+The provisions of 18 U.S.C. §3143 govern release pending sentencing or appeal.
+The burden of establishing that the defendant will not flee or pose a danger to any other person or to the community rests with the defendant.
+
+(d) Pending Hearing on a Violation of Probation or Supervised Release.
+Rule 32.1(a)(6) governs release pending a hearing on a violation of probation or supervised release.
+
+(e) Surety.
+The court must not approve a bond unless any surety appears to be qualified.
+Every surety, except a legally approved corporate surety, must demonstrate by affidavit that its assets are adequate.
+The court may require the affidavit to describe the following:
+
+(1) the property that the surety proposes to use as security;
+
+(2) any encumbrance on that property;
+
+(3) the number and amount of any other undischarged bonds and bail undertakings the surety has issued; and
+
+(4) any other liability of the surety.
+
+(f) Bail Forfeiture.
+
+(1) Declaration.
+The court must declare the bail forfeited if a condition of the bond is breached.
+
+(2) Setting Aside.
+The court may set aside in whole or in part a bail forfeiture upon any condition the court may impose if:
+
+(A) the surety later surrenders into custody the person released on the surety's appearance bond; or
+
+(B) it appears that justice does not require bail forfeiture.
+
+(3) Enforcement.
+
+(A) Default Judgment and Execution.
+If it does not set aside a bail forfeiture, the court must, upon the government's motion, enter a default judgment.
+
+(B) Jurisdiction and Service.
+By entering into a bond, each surety submits to the district court's jurisdiction and irrevocably appoints the district clerk as its agent to receive service of any filings affecting its liability.
+
+(C) Motion to Enforce.
+The court may, upon the government's motion, enforce the surety's liability without an independent action.
+The government must serve any motion, and notice as the court prescribes, on the district clerk.
+If so served, the clerk must promptly mail a copy to the surety at its last known address.
+
+(4) Remission.
+After entering a judgment under Rule 46(f)(3), the court may remit in whole or in part the judgment under the same conditions specified in Rule 46(f)(2).
+
+(g) Exoneration.
+The court must exonerate the surety and release any bail when a bond condition has been satisfied or when the court has set aside or remitted the forfeiture.
+The court must exonerate a surety who deposits cash in the amount of the bond or timely surrenders the defendant into custody.
+
+(h) Supervising Detention Pending Trial.
+
+(1) In General.
+To eliminate unnecessary detention, the court must supervise the detention within the district of any defendants awaiting trial and of any persons held as material witnesses.
+
+(2) Reports.
+An attorney for the government must report biweekly to the court, listing each material witness held in custody for more than 10 days pending indictment, arraignment, or trial.
+For each material witness listed in the report, an attorney for the government must state why the witness should not be released with or without a deposition being taken under Rule 15(a).
+
+(i) Forfeiture of Property.
+The court may dispose of a charged offense by ordering the forfeiture of 18 U.S.C. §3142(c)(1)(B)(xi) property under 18 U.S.C. §3146(d), if a fine in the amount of the property's value would be an appropriate sentence for the charged offense.
+
+(j) Producing a Statement.
+
+(1) In General.
+Rule 26.2(a)–(d) and (f) applies at a detention hearing under 18 U.S.C. §3142, unless the court for good cause rules otherwise.
+
+(2) Sanctions for Not Producing a Statement.
+If a party disobeys a Rule 26.2 order to produce a witness's statement, the court must not consider that witness's testimony at the detention hearing.
+
+(As amended Apr. 9, 1956, eff.
+July 8, 1956; Feb. 28, 1966, eff.
+July 1, 1966; Apr. 24, 1972, eff.
+Oct. 1, 1972; Pub. L. 98–473, title II, §209(d), Oct. 12, 1984, 98 Stat. 1987; Mar. 9, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Dec. 1, 1991; Apr. 22, 1993, eff.
+Dec. 1, 1993; Pub. L. 103–322, title XXXIII, §330003(h), Sept. 13, 1994, 108 Stat. 2141; Apr. 29, 2002, eff.
+Dec. 1, 2002.)
+
+Notes of Advisory Committee on Rules—1944
+
+Note to Subdivision (a)(1). This rule is substantially a restatement of existing law, 18 U.S.C. 596, 597 [now 3141].
+
+Note to Subdivision (a)(2). This rule is substantially a restatement of Rule 6 of Criminal Appeals Rules, with the addition of a reference to bail pending certiorari.
+This rule does not supersede 18 U.S.C. 682 [now 3731] (Appeals; on behalf of the United States; rules of practice and procedure), which provides for the admission of the defendant to bail on his own recognizance pending an appeal taken by the Government.
+
+Note to Subdivision (b). This rule is substantially a restatement of existing law, 28 U.S.C. [former] 657.
+
+Note to Subdivision (d). This rule is a restatement of existing practice, and is based in part on 6 U.S.C. 15 [now 31 U.S.C. 9103] (Bonds or notes of United States in lieu of recognizance, stipulation, bond, guaranty, or undertaking; place of deposit; return to depositor; contractors’ bonds).
+
+Note to Subdivision (e). This rule is similar to Sec. 79 of A.L.I. Code of Criminal Procedure introducing, however, an element of flexibility.
+Corporate sureties are regulated by 6 U.S.C. 6–14 [now 31 U.S.C. 9304–9308].
+
+Note to Subdivision (f). 1. With the exception hereafter noted, this rule is substantially a restatement of existing law in somewhat greater detail than contained in 18 U.S.C. [former] 601 (Remission of penalty of recognizance).
+
+2. Subdivision (f)(2) changes existing law in that it increases the discretion of the court to set aside a forfeiture.
+The present power of the court is limited to cases in which the defendant's default had not been willful.
+
+3. The second sentence of paragraph (3) is similar to Rule 73(f) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix]. This paragraph also substitutes simple motion procedure for enforcing forfeited bail bonds for the procedure by scire facias, which was abolished by Rule 81(b) of the Federal Rules of Civil Procedure.
+
+Note to Subdivision (g). This rule is a restatement of existing law and practice.
+It is based in part on 18 U.S.C. 599 [now 3142] (Surrender by bail).
 
 Rule 47. Motions and Supporting Affidavits
 
@@ -4493,7 +5197,7 @@ A motion must state the grounds on which it is based and the relief or order sou
 A motion may be supported by affidavit.
 
 (c) Timing of a Motion.
-A party must serve a written motion—other than one that the court may hear ex parte—and any hearing notice at least 5 days before the hearing date, unless a rule or court order sets a different period.
+A party must serve a written motion—other than one that the court may hear ex parte—and any hearing notice at least 7 days before the hearing date, unless a rule or court order sets a different period.
 For good cause, the court may set a different period upon ex parte application.
 
 (d) Affidavit Supporting a Motion.
@@ -4501,7 +5205,8 @@ The moving party must serve any supporting affidavit with the motion.
 A responding party must serve any opposing affidavit at least one day before the hearing, unless the court permits later service.
 
 (As amended Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4845,7 +5550,7 @@ A district court is considered always open for any filing, and for issuing and r
 The clerk's office—with the clerk or a deputy in attendance—must be open during business hours on all days except Saturdays, Sundays, and legal holidays.
 
 (c) Special Hours.
-A court may provide by local rule or order that its clerk's office will be open for specified hours on Saturdays or legal holidays other than than those set aside by statute for observing New Year's Day, Martin Luther King, Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans’ Day, Thanksgiving Day, and Christmas Day.
+A court may provide by local rule or order that its clerk's office will be open for specified hours on Saturdays or legal holidays other than those set aside by statute for observing New Year's Day, Martin Luther King, Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans’ Day, Thanksgiving Day, and Christmas Day.
 
 (As amended Dec. 27, 1948, eff.
 Oct. 20, 1949; Feb. 28, 1966, eff.
@@ -4864,6 +5569,43 @@ Notes of Advisory Committee on Rules—1944
 3. The second sentence of the rule is identical with the first sentence of Rule 77(c) of the Federal Rules of Civil Procedure [28 U.S.C., Appendix].
 
 4. The term “legal holidays” includes Federal holidays as well as holidays prescribed by the laws of the State where the clerk's office is located.
+
+Rule 57. District Court Rules
+
+(a) In General.
+
+(1) Adopting Local Rules.
+Each district court acting by a majority of its district judges may, after giving appropriate public notice and an opportunity to comment, make and amend rules governing its practice.
+A local rule must be consistent with—but not duplicative of—federal statutes and rules adopted under 28 U.S.C. §2072 and must conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
+
+(2) Limiting Enforcement.
+A local rule imposing a requirement of form must not be enforced in a manner that causes a party to lose rights because of an unintentional failure to comply with the requirement.
+
+(b) Procedure When There Is No Controlling Law.
+A judge may regulate practice in any manner consistent with federal law, these rules, and the local rules of the district.
+No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, or the local district rules unless the alleged violator was furnished with actual notice of the requirement before the noncompliance.
+
+(c) Effective Date and Notice.
+A local rule adopted under this rule takes effect on the date specified by the district court and remains in effect unless amended by the district court or abrogated by the judicial council of the circuit in which the district is located.
+Copies of local rules and their amendments, when promulgated, must be furnished to the judicial council and the Administrative Office of the United States Courts and must be made available to the public.
+
+(As amended Dec. 27, 1948, eff.
+Oct. 20, 1949; Dec. 4, 1967, eff.
+July 1, 1968; Apr. 29, 1985, eff.
+Aug. 1, 1985; Apr. 22, 1993, eff.
+Dec. 1, 1993; Apr. 27, 1995, eff.
+Dec. 1, 1995; Apr. 29, 2002, eff.
+Dec. 1, 2002.)
+
+Notes of Advisory Committee on Rules—1944
+
+Note to Subdivision (a). This rule is substantially a restatement of 28 U.S.C. 731 [now 2071] (Rules of practice in district courts). A similar provision is found in Rule 83 of the Federal Rules of Civil Procedure [28 U.S.C., Appendix].
+
+Note to Subdivision (b). 1. One of the purposes of this rule is to abrogate any existing requirement of conformity to State procedure on any point whatsoever.
+The Federal Rules of Civil Procedure [28 U.S.C., Appendix] have been held to repeal the Conformity Act, Sibbach v. Wilson, 312 U.S. 1, 10.
+
+2. While the rules are intended to constitute a comprehensive procedural code for criminal cases in the Federal courts, nevertheless it seemed best not to endeavor to prescribe a uniform practice as to some matters of detail, but to leave the individual courts free to regulate them, either by local rules or by usage.
+Among such matters are the mode of impaneling a jury, the manner and order of interposing challenges to jurors, the manner of selecting the foreman of a trial jury, the matter of sealed verdicts, the order of counsel's arguments to the jury, and other similar details.
 
 Rule 58. Petty Offenses and Other Misdemeanors
 
@@ -4968,11 +5710,11 @@ The Federal Rules of Appellate Procedure govern an appeal from a district judge'
 (2) From a Magistrate Judge's Order or Judgment.
 
 (A) Interlocutory Appeal.
-Either party may appeal an order of a magistrate judge to a district judge within 10 days of its entry if a district judge's order could similarly be appealed.
+Either party may appeal an order of a magistrate judge to a district judge within 14 days of its entry if a district judge's order could similarly be appealed.
 The party appealing must file a notice with the clerk specifying the order being appealed and must serve a copy on the adverse party.
 
 (B) Appeal from a Conviction or Sentence.
-A defendant may appeal a magistrate judge's judgment of conviction or sentence to a district judge within 10 days of its entry.
+A defendant may appeal a magistrate judge's judgment of conviction or sentence to a district judge within 14 days of its entry.
 To appeal, the defendant must file a notice with the clerk specifying the judgment being appealed and must serve a copy on an attorney for the government.
 
 (C) Record.
@@ -4994,7 +5736,8 @@ Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 11, 1997, eff.
 Dec. 1, 1997; Apr. 29, 2002, eff.
 Dec. 1, 2002; Apr. 12, 2006, eff.
-Dec. 1, 2006.)
+Dec. 1, 2006; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Notes of Advisory Committee on Rules—1990
 
@@ -5057,7 +5800,7 @@ Rule 59. Matters Before a Magistrate Judge
 (a) Nondispositive Matters.
 A district judge may refer to a magistrate judge for determination any matter that does not dispose of a charge or defense.
 The magistrate judge must promptly conduct the required proceedings and, when appropriate, enter on the record an oral or written order stating the determination.
-A party may serve and file objections to the order within 10 days after being served with a copy of a written order or after the oral order is stated on the record, or at some other time the court sets.
+A party may serve and file objections to the order within 14 days after being served with a copy of a written order or after the oral order is stated on the record, or at some other time the court sets.
 The district judge must consider timely objections and modify or set aside any part of the order that is contrary to law or clearly erroneous.
 Failure to object in accordance with this rule waives a party's right to review.
 
@@ -5071,7 +5814,7 @@ The magistrate judge must enter on the record a recommendation for disposing of 
 The clerk must immediately serve copies on all parties.
 
 (2) Objections to Findings and Recommendations.
-Within 10 days after being served with a copy of the recommended disposition, or at some other time the court sets, a party may serve and file specific written objections to the proposed findings and recommendations.
+Within 14 days after being served with a copy of the recommended disposition, or at some other time the court sets, a party may serve and file specific written objections to the proposed findings and recommendations.
 Unless the district judge directs otherwise, the objecting party must promptly arrange for transcribing the record, or whatever portions of it the parties agree to or the magistrate judge considers sufficient.
 Failure to object in accordance with this rule waives a party's right to review.
 
@@ -5080,7 +5823,8 @@ The district judge must consider de novo any objection to the magistrate judge's
 The district judge may accept, reject, or modify the recommendation, receive further evidence, or resubmit the matter to the magistrate judge with instructions.
 
 (Added Apr. 25, 2005, eff.
-Dec. 1, 2005.)
+Dec. 1, 2005; amended Mar. 26, 2009, eff.
+Dec. 1, 2009.)
 
 Committee Notes on Rules—2002
 
@@ -5171,7 +5915,7 @@ Committee Notes on Rules—2008
 
 This rule implements several provisions of the Crime Victims’ Rights Act, codified at 18 U.S.C. §3771, in judicial proceedings in the federal courts.
 
-Subdivision (a)(l). This subdivision incorporates 18 U.S.C. §3771(a)(2), which provides that a victim has a “right to reasonable, accurate, and timely notice of any public court proceeding. . . .” The enactment of 18 U.S.C. §3771(a)(2) supplemented an existing statutory requirement that all federal departments and agencies engaged in the detection, investigation, and prosecution of crime identify victims at the earliest possible time and inform those victims of various rights, including the right to notice of the status of the investigation, the arrest of a suspect, the filing of charges against a suspect, and the scheduling of judicial proceedings.
+Subdivision (a)(1). This subdivision incorporates 18 U.S.C. §3771(a)(2), which provides that a victim has a “right to reasonable, accurate, and timely notice of any public court proceeding. . . .” The enactment of 18 U.S.C. §3771(a)(2) supplemented an existing statutory requirement that all federal departments and agencies engaged in the detection, investigation, and prosecution of crime identify victims at the earliest possible time and inform those victims of various rights, including the right to notice of the status of the investigation, the arrest of a suspect, the filing of charges against a suspect, and the scheduling of judicial proceedings.
 See 42 U.S.C. §10607(b) & (c)(3)(A)–(D).
 
 Subdivision (a)(2). This subdivision incorporates 18 U.S.C. §3771(a)(3), which provides that the victim shall not be excluded from public court proceedings unless the court finds by clear and convincing evidence that the victim's testimony would be materially altered by attending and hearing other testimony at the proceeding, and 18 U.S.C. §3771(b), which provides that the court shall make every effort to permit the fullest possible attendance by the victim.
@@ -5181,8 +5925,8 @@ Although Rule 615 requires the court upon the request of a party to order the wi
 
 Subdivision (a)(3). This subdivision incorporates 18 U.S.C. §3771(a)(4), which provides that a victim has the “right to be reasonably heard at any public proceeding in the district court involving release, plea, [or] sentencing. . . .”
 
-Subdivision (b). This subdivision incorporates the provisions of 18 U.S.C. §3771(d)(l), (2), (3), and (5). The statute provides that the victim, the victim's lawful representative, and the attorney for the government, and any other person as authorized by 18 U.S.C. §377l(d) and (e) may assert the victim's rights.
-In referring to the victim and the victim's lawful representative, the committee intends to include counsel. 18 U.S.C. §3771(e) makes provision for the rights of victims who are incompetent, incapacitated, or deceased, and 18 U.S.C. §3771(d)(l) provides that “[a] person accused of the crime may not obtain any form of relief under this chapter.”
+Subdivision (b). This subdivision incorporates the provisions of 18 U.S.C. §3771(d)(1), (2), (3), and (5). The statute provides that the victim, the victim's lawful representative, and the attorney for the government, and any other person as authorized by 18 U.S.C. §377l(d) and (e) may assert the victim's rights.
+In referring to the victim and the victim's lawful representative, the committee intends to include counsel. 18 U.S.C. §3771(e) makes provision for the rights of victims who are incompetent, incapacitated, or deceased, and 18 U.S.C. §3771(d)(1) provides that “[a] person accused of the crime may not obtain any form of relief under this chapter.”
 
 The statute provides that those rights are to be asserted in the district court where the defendant is being prosecuted (or if no prosecution is underway, in the district where the crime occurred). Where there are too many victims to accord each the rights provided by the statute, the district court is given the authority to fashion a reasonable procedure to give effect to the rights without unduly complicating or prolonging the proceedings.
 

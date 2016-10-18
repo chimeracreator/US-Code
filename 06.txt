@@ -595,6 +595,9 @@ Use of appropriated funds.
 453a.
 Additional uses of appropriated funds.
 
+453b.
+Requirement to buy certain items related to national security interests from American sources; exceptions.
+
 454.
 Future Years Homeland Security Program.
 
@@ -657,6 +660,9 @@ Preserving Coast Guard mission performance.
 
 469.
 Fees for credentialing and background investigations in transportation.
+
+469a.
+Collection of fees from non-Federal participants in meetings.
 
 470.
 Disclosures regarding homeland security grants.
@@ -1347,7 +1353,7 @@ Sec. 2. [Amended Ex. Ord.
 No. 13274, set out as a note under section 301 of Title 49, Transportation.]
 
 Sec. 3. [Amended Ex. Ord.
-No. 13271, set out as a note under section 509 of Title 28, Judiciary and Judicial Procedure.]
+No. 13271, formerly set out as a note under section 509 of Title 28, Judiciary and Judicial Procedure.]
 
 Sec. 4. [Amended and revoked Ex. Ord.
 No. 13260, set out as a note under section 402 of Title 50, War and National Defense.]
@@ -2130,7 +2136,7 @@ In accordance with subchapter XII of this chapter, there shall be transferred to
 
 (5) The Federal Computer Incident Response Center of the General Services Administration, including the functions of the Administrator of General Services relating thereto.
 
-(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 110–53, title V, §§501(a)(2)(A), (b), 531(a), title X, §1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374; Pub. L. 110–417, [div. A], title IX, §931(b)(5), Oct. 14, 2008, 122 Stat. 4575.)
+(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 110–53, title V, §§501(a)(2)(A), (b), 531(a), title X, §1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374; Pub. L. 110–417, [div. A], title IX, §931(b)(5), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–84, div. A, title X, §1073(c)(9), Oct. 28, 2009, 123 Stat. 2475.)
 
 References in Text
 
@@ -2146,11 +2152,11 @@ Section is comprised of section 201 of Pub. L. 107–296. Subsec. (h) of section
 
 Regulations
 
-Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075, provided that:
+Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550, Oct. 28, 2009, 123 Stat. 2177, provided that:
 
 “(a) No later than six months after the date of enactment of this Act [Oct. 4, 2006], the Secretary of Homeland Security shall issue interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities: Provided, That such regulations shall apply to chemical facilities that, in the discretion of the Secretary, present high levels of security risk: Provided further, That such regulations shall permit each such facility, in developing and implementing site security plans, to select layered security measures that, in combination, appropriately address the vulnerability assessment and the risk-based performance standards for security for the facility: Provided further, That the Secretary may not disapprove a site security plan submitted under this section based on the presence or absence of a particular security measure, but the Secretary may disapprove a site security plan if the plan fails to satisfy the risk-based performance standards established by this section: Provided further, That the Secretary may approve alternative security programs established by private sector entities, Federal, State, or local authorities, or other applicable laws if the Secretary determines that the requirements of such programs meet the requirements of this section and the interim regulations: Provided further, That the Secretary shall review and approve each vulnerability assessment and site security plan required under this section: Provided further, That the Secretary shall not apply regulations issued pursuant to this section to facilities regulated pursuant to the Maritime Transportation Security Act of 2002, Public Law 107–295, as amended [see Tables for classification]; Public Water Systems, as defined by section 1401 of the Safe Drinking Water Act, Public Law 93–523, as amended [42 U.S.C. 300f]; Treatment Works as defined in section 212 of the Federal Water Pollution Control Act, Public Law 92–500, as amended [33 U.S.C. 1292]; any facility owned or operated by the Department of Defense or the Department of Energy, or any facility subject to regulation by the Nuclear Regulatory Commission.
 
-“(b) Interim regulations issued under this section shall apply until the effective date of interim or final regulations promulgated under other laws that establish requirements and standards referred to in subsection (a) and expressly supersede this section: Provided, That the authority provided by this section shall terminate three years after the date of enactment of this Act [Oct. 4, 2006].
+“(b) Interim regulations issued under this section shall apply until the effective date of interim or final regulations promulgated under other laws that establish requirements and standards referred to in subsection (a) and expressly supersede this section: Provided, That the authority provided by this section shall terminate on October 4, 2010.
 
 “(c) Notwithstanding any other provision of law and subsection (b), information developed under this section, including vulnerability assessments, site security plans, and other security related information, records, and documents shall be given protections from public disclosure consistent with similar information developed by chemical facilities subject to regulation under section 70103 of title 46, United States Code: Provided, That this subsection does not prohibit the sharing of such information, as the Secretary deems appropriate, with State and local government officials possessing the necessary security clearances, including law enforcement officials and first responders, for the purpose of carrying out this section, provided that such information may not be disclosed pursuant to any State or local law: Provided further, That in any proceeding to enforce this section, vulnerability assessments, site security plans, and other information submitted to or obtained by the Secretary under this section, and related vulnerability or security information, shall be treated as if the information were classified material.
 
@@ -2292,7 +2298,10 @@ Term of the National Infrastructure Advisory Council extended until Sept. 30, 20
 No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the National Infrastructure Advisory Council extended until Sept. 30, 2009, by Ex. Ord.
-No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the National Infrastructure Advisory Council extended until Sept. 30, 2011, by Ex. Ord.
+No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Ex. Ord.
 No. 13284. Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security
@@ -3429,155 +3438,6 @@ For complete classification of this Act to the Code, see Short Title note set ou
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-1 So in original.
-The period probably should be a semicolon.
-
-§134. No private right of action
-
-Nothing in this part may be construed to create a private right of action for enforcement of any provision of this chapter.
-
-(Pub. L. 107–296, title II, §215, Nov. 25, 2002, 116 Stat. 2155.)
-
-Part C—Information Security
-
-§141. Procedures for sharing information
-
-The Secretary shall establish procedures on the use of information shared under this subchapter that—
-
-(1) limit the redissemination of such information to ensure that it is not used for an unauthorized purpose;
-
-(2) ensure the security and confidentiality of such information;
-
-(3) protect the constitutional and statutory rights of any individuals who are subjects of such information; and
-
-(4) provide data integrity through the timely removal and destruction of obsolete or erroneous names and information.
-
-(Pub. L. 107–296, title II, §221, Nov. 25, 2002, 116 Stat. 2155.)
-
-References in Text
-
-This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2145, which enacted this subchapter, amended sections 1030, 2511, 2512, 2520, 2701 to 2703, and 3125 of Title 18, Crimes and Criminal Procedure, sections 3712 and 3722 of Title 42, The Public Health and Welfare, and section 401a of Title 50, War and National Defense, and enacted provisions set out as a note under section 101 of this title and listed in a Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses table set out under section 994 of Title 28, Judiciary and Judicial Procedure.
-For complete classification of title II to the Code, see Tables.
-
-§142. Privacy officer
-
-(a) Appointment and responsibilities
-
-The Secretary shall appoint a senior official in the Department, who shall report directly to the Secretary, to assume primary responsibility for privacy policy, including—
-
-(1) assuring that the use of technologies sustain, and do not erode, privacy protections relating to the use, collection, and disclosure of personal information;
-
-(2) assuring that personal information contained in Privacy Act systems of records is handled in full compliance with fair information practices as set out in the Privacy Act of 1974 [5 U.S.C. 552a];
-
-(3) evaluating legislative and regulatory proposals involving collection, use, and disclosure of personal information by the Federal Government;
-
-(4) conducting a privacy impact assessment of proposed rules of the Department or that of the Department on the privacy of personal information, including the type of personal information collected and the number of people affected;
-
-(5) coordinating with the Officer for Civil Rights and Civil Liberties to ensure that—
-
-(A) programs, policies, and procedures involving civil rights, civil liberties, and privacy considerations are addressed in an integrated and comprehensive manner; and
-
-(B) Congress receives appropriate reports on such programs, policies, and procedures; and
-
-(6) preparing a report to Congress on an annual basis on activities of the Department that affect privacy, including complaints of privacy violations, implementation of the Privacy Act of 1974 [5 U.S.C. 552a], internal controls, and other matters.
-
-(b) Authority to investigate
-
-(1) In general
-
-The senior official appointed under subsection (a) may—
-
-(A) have access to all records, reports, audits, reviews, documents, papers, recommendations, and other materials available to the Department that relate to programs and operations with respect to the responsibilities of the senior official under this section;
-
-(B) make such investigations and reports relating to the administration of the programs and operations of the Department as are, in the senior official's judgment, necessary or desirable;
-
-(C) subject to the approval of the Secretary, require by subpoena the production, by any person other than a Federal agency, of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence necessary to performance of the responsibilities of the senior official under this section; and
-
-(D) administer to or take from any person an oath, affirmation, or affidavit, whenever necessary to performance of the responsibilities of the senior official under this section.
-
-(2) Enforcement of subpoenas
-
-Any subpoena issued under paragraph (1)(C) shall, in the case of contumacy or refusal to obey, be enforceable by order of any appropriate United States district court.
-
-(3) Effect of oaths
-
-Any oath, affirmation, or affidavit administered or taken under paragraph (1)(D) by or before an employee of the Privacy Office designated for that purpose by the senior official appointed under subsection (a) shall have the same force and effect as if administered or taken by or before an officer having a seal of office.
-
-(c) Supervision and coordination
-
-(1) In general
-
-The senior official appointed under subsection (a) shall—
-
-(A) report to, and be under the general supervision of, the Secretary; and
-
-(B) coordinate activities with the Inspector General of the Department in order to avoid duplication of effort.
-
-(2) Coordination with the Inspector General
-
-(A) In general
-
-Except as provided in subparagraph (B), the senior official appointed under subsection (a) may investigate any matter relating to possible violations or abuse concerning the administration of any program or operation of the Department relevant to the purposes under this section.
-
-(B) Coordination
-
-(i) Referral
-
-Before initiating any investigation described under subparagraph (A), the senior official shall refer the matter and all related complaints, allegations, and information to the Inspector General of the Department.
-
-(ii) Determinations and notifications by the Inspector General
-
-(I) In general
-
-Not later than 30 days after the receipt of a matter referred under clause (i), the Inspector General shall—
-
-(aa) make a determination regarding whether the Inspector General intends to initiate an audit or investigation of the matter referred under clause (i); and
-
-(bb) notify the senior official of that determination.
-
-(II) Investigation not initiated
-
-If the Inspector General notifies the senior official under subclause (I)(bb) that the Inspector General intended to initiate an audit or investigation, but does not initiate that audit or investigation within 90 days after providing that notification, the Inspector General shall further notify the senior official that an audit or investigation was not initiated.
-The further notification under this subclause shall be made not later than 3 days after the end of that 90-day period.
-
-(iii) Investigation by senior official
-
-The senior official may investigate a matter referred under clause (i) if—
-
-(I) the Inspector General notifies the senior official under clause (ii)(I)(bb) that the Inspector General does not intend to initiate an audit or investigation relating to that matter; or
-
-(II) the Inspector General provides a further notification under clause (ii)(II) relating to that matter.
-
-(iv) Privacy training
-
-Any employee of the Office of Inspector General who audits or investigates any matter referred under clause (i) shall be required to receive adequate training on privacy laws, rules, and regulations, to be provided by an entity approved by the Inspector General in consultation with the senior official appointed under subsection (a).
-
-(d) Notification to Congress on removal
-
-If the Secretary removes the senior official appointed under subsection (a) or transfers that senior official to another position or location within the Department, the Secretary shall—
-
-(1) promptly submit a written notification of the removal or transfer to Houses of Congress; and
-
-(2) include in any such notification the reasons for the removal or transfer.
-
-(e) Reports by senior official to Congress
-
-The senior official appointed under subsection (a) shall—
-
-(1) submit reports directly to the Congress regarding performance of the responsibilities of the senior official under this section, without any prior comment or amendment by the Secretary, Deputy Secretary, or any other officer or employee of the Department or the Office of Management and Budget; and
-
-(2) inform the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives not later than—
-
-(A) 30 days after the Secretary disapproves the senior official's request for a subpoena under subsection (b)(1)(C) or the Secretary substantively modifies the requested subpoena; or
-
-(B) 45 days after the senior official's request for a subpoena under subsection (b)(1)(C), if that subpoena has not either been approved or disapproved by the Secretary.
-
-(Pub. L. 107–296, title II, §222, Nov. 25, 2002, 116 Stat. 2155; Pub. L. 108–458, title VIII, §8305, Dec. 17, 2004, 118 Stat. 3868; Pub. L. 110–53, title VIII, §802, Aug. 3, 2007, 121 Stat. 358.)
-
-References in Text
-
-The Privacy Act of 1974, referred to in subsec. (a)(2), (6), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
-
 §143. Enhancement of non-Federal cybersecurity
 
 In carrying out the responsibilities under section 121 of this title, the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection 1 shall—
@@ -3908,6 +3768,258 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 (Pub. L. 107–296, title III, §302, Nov. 25, 2002, 116 Stat. 2163; Pub. L. 109–347, title V, §501(b)(2), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(1)(C), Aug. 3, 2007, 121 Stat. 334.)
 
+1 So in original.
+
+§183. Functions transferred
+
+In accordance with subchapter XII of this chapter, there shall be transferred to the Secretary the functions, personnel, assets, and liabilities of the following entities:
+
+(1) The following programs and activities of the Department of Energy, including the functions of the Secretary of Energy relating thereto (but not including programs and activities relating to the strategic nuclear defense posture of the United States):
+
+(A) The chemical and biological national security and supporting programs and activities of the nonproliferation and verification research and development program.
+
+(B) The nuclear smuggling programs and activities within the proliferation detection program of the nonproliferation and verification research and development program.
+The programs and activities described in this subparagraph may be designated by the President either for transfer to the Department or for joint operation by the Secretary and the Secretary of Energy.
+
+(C) The nuclear assessment program and activities of the assessment, detection, and cooperation program of the international materials protection and cooperation program.
+
+(D) Such life sciences activities of the biological and environmental research program related to microbial pathogens as may be designated by the President for transfer to the Department.
+
+(E) The Environmental Measurements Laboratory.
+
+(F) The advanced scientific computing research program and activities at Lawrence Livermore National Laboratory.
+
+(2) The National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto.
+
+(Pub. L. 107–296, title III, §303, Nov. 25, 2002, 116 Stat. 2164.)
+
+§184. Conduct of certain public health-related activities
+
+(a) In general
+
+With respect to civilian human health-related research and development activities relating to countermeasures for chemical, biological, radiological, and nuclear and other emerging terrorist threats carried out by the Department of Health and Human Services (including the Public Health Service), the Secretary of Health and Human Services shall set priorities, goals, objectives, and policies and develop a coordinated strategy for such activities in collaboration with the Secretary of Homeland Security to ensure consistency with the national policy and strategic plan developed pursuant to section 182(2) of this title.
+
+(b) Evaluation of progress
+
+In carrying out subsection (a) of this section, the Secretary of Health and Human Services shall collaborate with the Secretary in developing specific benchmarks and outcome measurements for evaluating progress toward achieving the priorities and goals described in such subsection.
+
+(Pub. L. 107–296, title III, §304, Nov. 25, 2002, 116 Stat. 2165.)
+
+Codification
+
+Section is comprised of section 304 of Pub. L. 107–296. Subsec. (c) of section 304 of Pub. L. 107–296 amended section 233 of Title 42, The Public Health and Welfare.
+
+§185. Federally funded research and development centers
+
+The Secretary, acting through the Under Secretary for Science and Technology, shall have the authority to establish or contract with 1 or more federally funded research and development centers to provide independent analysis of homeland security issues, or to carry out other responsibilities under this chapter, including coordinating and integrating both the extramural and intramural programs described in section 188 of this title.
+
+(Pub. L. 107–296, title III, §305, Nov. 25, 2002, 116 Stat. 2168.)
+
+References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter.
+For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+§186. Miscellaneous provisions
+
+(a) Classification
+
+To the greatest extent practicable, research conducted or supported by the Department shall be unclassified.
+
+(b) Construction
+
+Nothing in this subchapter shall be construed to preclude any Under Secretary of the Department from carrying out research, development, demonstration, or deployment activities, as long as such activities are coordinated through the Under Secretary for Science and Technology.
+
+(c) Regulations
+
+The Secretary, acting through the Under Secretary for Science and Technology, may issue necessary regulations with respect to research, development, demonstration, testing, and evaluation activities of the Department, including the conducting, funding, and reviewing of such activities.
+
+(d) Notification of Presidential life sciences designations
+
+Not later than 60 days before effecting any transfer of Department of Energy life sciences activities pursuant to section 183(1)(D) of this title, the President shall notify the appropriate congressional committees of the proposed transfer and shall include the reasons for the transfer and a description of the effect of the transfer on the activities of the Department of Energy.
+
+(Pub. L. 107–296, title III, §306, Nov. 25, 2002, 116 Stat. 2168.)
+
+§187. Homeland Security Advanced Research Projects Agency
+
+(a) Definitions
+
+In this section:
+
+(1) Fund
+
+The term “Fund” means the Acceleration Fund for Research and Development of Homeland Security Technologies established in subsection (c) of this section.
+
+(2) Homeland security research
+
+The term “homeland security research” means research relevant to the detection of, prevention of, protection against, response to, attribution of, and recovery from homeland security threats, particularly acts of terrorism.
+
+(3) HSARPA
+
+The term “HSARPA” means the Homeland Security Advanced Research Projects Agency established in subsection (b) of this section.
+
+(4) Under Secretary
+
+The term “Under Secretary” means the Under Secretary for Science and Technology.
+
+(b) Homeland Security Advanced Research Projects Agency
+
+(1) Establishment
+
+There is established the Homeland Security Advanced Research Projects Agency.
+
+(2) Director
+
+HSARPA shall be headed by a Director, who shall be appointed by the Secretary.
+The Director shall report to the Under Secretary.
+
+(3) Responsibilities
+
+The Director shall administer the Fund to award competitive, merit-reviewed grants, cooperative agreements or contracts to public or private entities, including businesses, federally funded research and development centers, and universities.
+The Director shall administer the Fund to—
+
+(A) support basic and applied homeland security research to promote revolutionary changes in technologies that would promote homeland security;
+
+(B) advance the development, testing and evaluation, and deployment of critical homeland security technologies; and
+
+(C) accelerate the prototyping and deployment of technologies that would address homeland security vulnerabilities.
+
+(4) Targeted competitions
+
+The Director may solicit proposals to address specific vulnerabilities identified by the Director.
+
+(5) Coordination
+
+The Director shall ensure that the activities of HSARPA are coordinated with those of other relevant research agencies, and may run projects jointly with other agencies.
+
+(6) Personnel
+
+In hiring personnel for HSARPA, the Secretary shall have the hiring and management authorities described in section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note; Public Law 105–261). The term of appointments for employees under subsection (c)(1) of that section may not exceed 5 years before the granting of any extension under subsection (c)(2) of that section.
+
+(7) Demonstrations
+
+The Director, periodically, shall hold homeland security technology demonstrations to improve contact among technology developers, vendors and acquisition personnel.
+
+(c) Fund
+
+(1) Establishment
+
+There is established the Acceleration Fund for Research and Development of Homeland Security Technologies, which shall be administered by the Director of HSARPA.
+
+(2) Authorization of appropriations
+
+There are authorized to be appropriated $500,000,000 to the Fund for fiscal year 2003 and such sums as may be necessary thereafter.
+
+(3) Coast Guard
+
+Of the funds authorized to be appropriated under paragraph (2), not less than 10 percent of such funds for each fiscal year through fiscal year 2005 shall be authorized only for the Under Secretary, through joint agreement with the Commandant of the Coast Guard, to carry out research and development of improved ports, waterways and coastal security surveillance and perimeter protection capabilities for the purpose of minimizing the possibility that Coast Guard cutters, aircraft, helicopters, and personnel will be diverted from non-homeland security missions to the ports, waterways and coastal security mission.
+
+(Pub. L. 107–296, title III, §307, Nov. 25, 2002, 116 Stat. 2168.)
+
+§188. Conduct of research, development, demonstration, testing and evaluation
+
+(a) In general
+
+The Secretary, acting through the Under Secretary for Science and Technology, shall carry out the responsibilities under section 182(4) of this title through both extramural and intramural programs.
+
+(b) Extramural programs
+
+(1) In general
+
+The Secretary, acting through the Under Secretary for Science and Technology, shall operate extramural research, development, demonstration, testing, and evaluation programs so as to—
+
+(A) ensure that colleges, universities, private research institutes, and companies (and consortia thereof) from as many areas of the United States as practicable participate;
+
+(B) ensure that the research funded is of high quality, as determined through merit review processes developed under section 182(14) of this title; and
+
+(C) distribute funds through grants, cooperative agreements, and contracts.
+
+(2) University-based centers for homeland security
+
+(A) Designation
+
+The Secretary, acting through the Under Secretary for Science and Technology, shall designate a university-based center or several university-based centers for homeland security.
+The purpose of the center or these centers shall be to establish a coordinated, university-based system to enhance the Nation's homeland security.
+
+(B) Criteria for designation
+
+Criteria for the designation of colleges or universities as a center for homeland security, shall include, but are not limited to, demonstrated expertise in—
+
+(i) The training of first responders.
+
+(ii) Responding to incidents involving weapons of mass destruction and biological warfare.
+
+(iii) Emergency and diagnostic medical services.
+
+(iv) Chemical, biological, radiological, and nuclear countermeasures or detection.
+
+(v) Animal and plant health and diagnostics.
+
+(vi) Food safety.
+
+(vii) Water and wastewater operations.
+
+(viii) Port and waterway security.
+
+(ix) Multi-modal transportation.
+
+(x) Information security and information engineering.
+
+(xi) Engineering.
+
+(xii) Educational outreach and technical assistance.
+
+(xiii) Border transportation and security.
+
+(xiv) The public policy implications and public dissemination of homeland security related research and development.
+
+(C) Discretion of Secretary
+
+To the extent that exercising such discretion is in the interest of homeland security, and with respect to the designation of any given university-based center for homeland security, the Secretary may except certain criteria as specified in subparagraph (B) and consider additional criteria beyond those specified in subparagraph (B). Upon designation of a university-based center for homeland security, the Secretary shall that day publish in the Federal Register the criteria that were excepted or added in the selection process and the justification for the set of criteria that were used for that designation.
+
+(D) Report to Congress
+
+The Secretary shall report annually, from the date of enactment, to Congress concerning the implementation of this section.
+That report shall indicate which center or centers have been designated and how the designation or designations enhance homeland security, as well as report any decisions to revoke or modify such designations.
+
+(E) Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
+
+(c) Intramural programs
+
+(1) Consultation
+
+In carrying out the duties under section 182 of this title, the Secretary, acting through the Under Secretary for Science and Technology, may draw upon the expertise of any laboratory of the Federal Government, whether operated by a contractor or the Government.
+
+(2) Laboratories
+
+The Secretary, acting through the Under Secretary for Science and Technology, may establish a headquarters laboratory for the Department at any laboratory or site and may establish additional laboratory units at other laboratories or sites.
+
+(3) Criteria for headquarters laboratory
+
+If the Secretary chooses to establish a headquarters laboratory pursuant to paragraph (2), then the Secretary shall do the following:
+
+(A) Establish criteria for the selection of the headquarters laboratory in consultation with the National Academy of Sciences, appropriate Federal agencies, and other experts.
+
+(B) Publish the criteria in the Federal Register.
+
+(C) Evaluate all appropriate laboratories or sites against the criteria.
+
+(D) Select a laboratory or site on the basis of the criteria.
+
+(E) Report to the appropriate congressional committees on which laboratory was selected, how the selected laboratory meets the published criteria, and what duties the headquarters laboratory shall perform.
+
+(4) Limitation on operation of laboratories
+
+No laboratory shall begin operating as the headquarters laboratory of the Department until at least 30 days after the transmittal of the report required by paragraph (3)(E).
+
+(Pub. L. 107–296, title III, §308, Nov. 25, 2002, 116 Stat. 2170; Pub. L. 108–7, div. L, §101(1), Feb. 20, 2003, 117 Stat. 526.)
+
+References in Text
+
+The date of enactment, referred to in subsec. (b)(2)(D), probably means the date of enactment of this section by Pub. L. 107–296, which was approved Nov. 25, 2002.
+
 §189. Utilization of Department of Energy national laboratories and sites in support of homeland security activities
 
 (a) Authority to utilize national laboratories and sites
@@ -4136,6 +4248,233 @@ The Institute shall transmit to the Secretary and Congress an annual report on t
 The Homeland Security Institute shall terminate 5 years after its establishment.
 
 (Pub. L. 107–296, title III, §312, Nov. 25, 2002, 116 Stat. 2176; Pub. L. 108–334, title V, §519, Oct. 18, 2004, 118 Stat. 1318.)
+
+§193. Technology clearinghouse to encourage and support innovative solutions to enhance homeland security
+
+(a) Establishment of program
+
+The Secretary, acting through the Under Secretary for Science and Technology, shall establish and promote a program to encourage technological innovation in facilitating the mission of the Department (as described in section 111 of this title).
+
+(b) Elements of program
+
+The program described in subsection (a) of this section shall include the following components:
+
+(1) The establishment of a centralized Federal clearinghouse for information relating to technologies that would further the mission of the Department for dissemination, as appropriate, to Federal, State, and local government and private sector entities for additional review, purchase, or use.
+
+(2) The issuance of announcements seeking unique and innovative technologies to advance the mission of the Department.
+
+(3) The establishment of a technical assistance team to assist in screening, as appropriate, proposals submitted to the Secretary (except as provided in subsection (c)(2) of this section) to assess the feasibility, scientific and technical merits, and estimated cost of such proposals, as appropriate.
+
+(4) The provision of guidance, recommendations, and technical assistance, as appropriate, to assist Federal, State, and local government and private sector efforts to evaluate and implement the use of technologies described in paragraph (1) or (2).
+
+(5) The provision of information for persons seeking guidance on how to pursue proposals to develop or deploy technologies that would enhance homeland security, including information relating to Federal funding, regulation, or acquisition.
+
+(c) Miscellaneous provisions
+
+(1) In general
+
+Nothing in this section shall be construed as authorizing the Secretary or the technical assistance team established under subsection (b)(3) of this section to set standards for technology to be used by the Department, any other executive agency, any State or local government entity, or any private sector entity.
+
+(2) Certain proposals
+
+The technical assistance team established under subsection (b)(3) of this section shall not consider or evaluate proposals submitted in response to a solicitation for offers for a pending procurement or for a specific agency requirement.
+
+(3) Coordination
+
+In carrying out this section, the Secretary shall coordinate with the Technical Support Working Group (organized under the April 1982 National Security Decision Directive Numbered 30).
+
+(Pub. L. 107–296, title III, §313, Nov. 25, 2002, 116 Stat. 2176.)
+
+§194. Enhancement of public safety communications interoperability
+
+(a) Coordination of public safety interoperable communications programs
+
+(1) Program
+
+The Secretary of Homeland Security, in consultation with the Secretary of Commerce and the Chairman of the Federal Communications Commission, shall establish a program to enhance public safety interoperable communications at all levels of government.
+Such program shall—
+
+(A) establish a comprehensive national approach to achieving public safety interoperable communications;
+
+(B) coordinate with other Federal agencies in carrying out subparagraph (A);
+
+(C) develop, in consultation with other appropriate Federal agencies and State and local authorities, appropriate minimum capabilities for communications interoperability for Federal, State, and local public safety agencies;
+
+(D) accelerate, in consultation with other Federal agencies, including the National Institute of Standards and Technology, the private sector, and nationally recognized standards organizations as appropriate, the development of national voluntary consensus standards for public safety interoperable communications, recognizing—
+
+(i) the value, life cycle, and technical capabilities of existing communications infrastructure;
+
+(ii) the need for cross-border interoperability between States and nations;
+
+(iii) the unique needs of small, rural communities; and
+
+(iv) the interoperability needs for daily operations and catastrophic events;
+
+(E) encourage the development and implementation of flexible and open architectures incorporating, where possible, technologies that currently are commercially available, with appropriate levels of security, for short-term and long-term solutions to public safety communications interoperability;
+
+(F) assist other Federal agencies in identifying priorities for research, development, and testing and evaluation with regard to public safety interoperable communications;
+
+(G) identify priorities within the Department of Homeland Security for research, development, and testing and evaluation with regard to public safety interoperable communications;
+
+(H) establish coordinated guidance for Federal grant programs for public safety interoperable communications;
+
+(I) provide technical assistance to State and local public safety agencies regarding planning, acquisition strategies, interoperability architectures, training, and other functions necessary to achieve public safety communications interoperability;
+
+(J) develop and disseminate best practices to improve public safety communications interoperability; and
+
+(K) develop appropriate performance measures and milestones to systematically measure the Nation's progress toward achieving public safety communications interoperability, including the development of national voluntary consensus standards.
+
+(2) Office for Interoperability and Compatibility
+
+(A) Establishment of Office
+
+The Secretary may establish an Office for Interoperability and Compatibility within the Directorate of Science and Technology to carry out this subsection.
+
+(B) Functions
+
+If the Secretary establishes such office, the Secretary shall, through such office—
+
+(i) carry out Department of Homeland Security responsibilities and authorities relating to the SAFECOM Program; and
+
+(ii) carry out section 321 1 of this title.
+
+(3) Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary to carry out this subsection—
+
+(A) $22,105,000 for fiscal year 2005;
+
+(B) $22,768,000 for fiscal year 2006;
+
+(C) $23,451,000 for fiscal year 2007;
+
+(D) $24,155,000 for fiscal year 2008; and
+
+(E) $24,879,000 for fiscal year 2009.
+
+(b) Report
+
+Not later than 120 days after December 17, 2004, the Secretary shall report to the Congress on Department of Homeland Security plans for accelerating the development of national voluntary consensus standards for public safety interoperable communications, a schedule of milestones for such development, and achievements of such development.
+
+(c) International interoperability
+
+Not later than 18 months after December 17, 2004, the President shall establish a mechanism for coordinating cross-border interoperability issues between—
+
+(1) the United States and Canada; and
+
+(2) the United States and Mexico.
+
+(d) Omitted
+
+(e) Multiyear interoperability grants
+
+(1) Multiyear commitments
+
+In awarding grants to any State, region, local government, or Indian tribe for the purposes of enhancing interoperable communications capabilities for emergency response providers, the Secretary may commit to obligate Federal assistance beyond the current fiscal year, subject to the limitations and restrictions in this subsection.
+
+(2) Restrictions
+
+(A) Time limit
+
+No multiyear interoperability commitment may exceed 3 years in duration.
+
+(B) Amount of committed funds
+
+The total amount of assistance the Secretary has committed to obligate for any future fiscal year under paragraph (1) may not exceed $150,000,000.
+
+(3) Letters of intent
+
+(A) Issuance
+
+Pursuant to paragraph (1), the Secretary may issue a letter of intent to an applicant committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an interoperability communications project (including interest costs and costs of formulating the project).
+
+(B) Schedule
+
+A letter of intent under this paragraph shall establish a schedule under which the Secretary will reimburse the applicant for the Federal Government's share of the project's costs, as amounts become available, if the applicant, after the Secretary issues the letter, carries out the project before receiving amounts under a grant issued by the Secretary.
+
+(C) Notice to Secretary
+
+An applicant that is issued a letter of intent under this subsection shall notify the Secretary of the applicant's intent to carry out a project pursuant to the letter before the project begins.
+
+(D) Notice to Congress
+
+The Secretary shall transmit a written notification to the Congress no later than 3 days before the issuance of a letter of intent under this section.
+
+(E) Limitations
+
+A letter of intent issued under this section is not an obligation of the Government under section 1501 of title 31 and is not deemed to be an administrative commitment for financing.
+An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
+
+(F) Statutory construction
+
+Nothing in this subsection shall be construed—
+
+(i) to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued; or
+
+(ii) to apply to, or replace, Federal assistance intended for interoperable communications that is not provided pursuant to a commitment under this subsection.
+
+(f) Interoperable communications plans
+
+Any applicant requesting funding assistance from the Secretary for interoperable communications for emergency response providers shall submit an Interoperable Communications Plan to the Secretary for approval.
+Such a plan shall—
+
+(1) describe the current state of communications interoperability in the applicable jurisdictions among Federal, State, and local emergency response providers and other relevant private resources;
+
+(2) describe the available and planned use of public safety frequency spectrum and resources for interoperable communications within such jurisdictions;
+
+(3) describe how the planned use of spectrum and resources for interoperable communications is compatible with surrounding capabilities and interoperable communications plans of Federal, State, and local governmental entities, military installations, foreign governments, critical infrastructure, and other relevant entities;
+
+(4) include a 5-year plan for the dedication of Federal, State, and local government and private resources to achieve a consistent, secure, and effective interoperable communications system, including planning, system design and engineering, testing and technology development, procurement and installation, training, and operations and maintenance;
+
+(5) describe how such 5-year plan meets or exceeds any applicable standards and grant requirements established by the Secretary;
+
+(6) include information on the governance structure used to develop the plan, including such information about all agencies and organizations that participated in developing the plan and the scope and timeframe of the plan; and
+
+(7) describe the method by which multi-jurisdictional, multidisciplinary input is provided from all regions of the jurisdiction, including any high-threat urban areas located in the jurisdiction, and the process for continuing to incorporate such input.
+
+(g) Definitions
+
+In this section:
+
+(1) Interoperable communications
+
+The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, and video with one another on demand, in real time, as necessary.
+
+(2) Emergency response providers
+
+The term “emergency response providers” has the meaning that term has under section 101 of this title.
+
+(h) Omitted
+
+(i) Sense of Congress regarding interoperable communications
+
+(1) Finding
+
+The Congress finds that—
+
+(A) many first responders working in the same jurisdiction or in different jurisdictions cannot effectively and efficiently communicate with one another; and
+
+(B) their inability to do so threatens the public's safety and may result in unnecessary loss of lives and property.
+
+(2) Sense of Congress
+
+It is the sense of Congress that interoperable emergency communications systems and radios should continue to be deployed as soon as practicable for use by the first responder community, and that upgraded and new digital communications systems and new digital radios must meet prevailing national, voluntary consensus standards for interoperability.
+
+(Pub. L. 108–458, title VII, §7303, Dec. 17, 2004, 118 Stat. 3843; Pub. L. 110–53, title III, §301(c), Aug. 3, 2007, 121 Stat. 299.)
+
+References in Text
+
+Section 321 of this title, referred to in subsec. (a)(2)(B)(ii), was in the original a reference to section 510 of the Homeland Security Act of 2002, as added by section 7303(d) of Pub. L. 108–458, which was repealed by Pub. L. 109–295, title VI, §611(5), Oct. 4, 2006, 120 Stat. 1395.
+
+Codification
+
+Section is comprised of section 7303 of Pub. L. 108–458. Subsec. (d) of section 7303 of Pub. L. 108–458 enacted section 321 of this title.
+Subsec. (h) of section 7303 of Pub. L. 108–458 amended sections 238 and 312 of this title.
+
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303 of the “Intelligence Reform and Terrorist Prevention Act of 2004”, was executed to this section, which is section 7303 of the Intelligence Reform and Terrorism Prevention Act of 2004, to reflect the probable intent of Congress.
+See 2007 Amendment notes below.
 
 Effective Date
 
@@ -4763,7 +5102,11 @@ No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 o
 
 Land Border Projects
 
-Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3658, provided in part: “That for fiscal year 2010 and thereafter, the annual budget submission of U.S. Customs and Border Protection for ‘Construction’ shall, in consultation with the General Services Administration, include a detailed 5-year plan for all Federal land border port of entry projects with a yearly update of total projected future funding needs.”
+Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2148, provided in part: “That for fiscal year 2011 and thereafter, the annual budget submission of U.S. Customs and Border Protection for ‘Construction and Facilities Management’ shall, in consultation with the General Services Administration, include a detailed 5-year plan for all Federal land border port of entry projects with a yearly update of total projected future funding needs delineated by land port of entry.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3658.
 
 §215. Definition
 
@@ -5346,6 +5689,365 @@ The Office for Domestic Preparedness shall have the primary responsibility withi
 During fiscal year 2003 and fiscal year 2004, the Director of the Office for Domestic Preparedness established under this section shall manage and carry out those functions of the Office for Domestic Preparedness of the Department of Justice (transferred under this section) before September 11, 2001, under the same terms, conditions, policies, and authorities, and with the required level of personnel, assets, and budget before September 11, 2001.
 
 (Pub. L. 107–296, title IV, §430, Nov. 25, 2002, 116 Stat. 2191; Pub. L. 108–458, title VII, §7303(h)(2), Dec. 17, 2004, 118 Stat. 3847.)
+
+§239. Office of Cargo Security Policy
+
+(a) Establishment
+
+There is established within the Department an Office of Cargo Security Policy (referred to in this section as the “Office”).
+
+(b) Purpose
+
+The Office shall—
+
+(1) coordinate all Department policies relating to cargo security; and
+
+(2) consult with stakeholders and coordinate with other Federal agencies in the establishment of standards and regulations and to promote best practices.
+
+(c) Director
+
+(1) Appointment
+
+The Office shall be headed by a Director, who shall—
+
+(A) be appointed by the Secretary; and
+
+(B) report to the Assistant Secretary for Policy.
+
+(2) Responsibilities
+
+The Director shall—
+
+(A) advise the Assistant Secretary for Policy in the development of Department-wide policies regarding cargo security;
+
+(B) coordinate all policies relating to cargo security among the agencies and offices within the Department relating to cargo security; and
+
+(C) coordinate the cargo security policies of the Department with the policies of other executive agencies.
+
+(Pub. L. 107–296, title IV, §431, as added Pub. L. 109–347, title III, §301(a), Oct. 13, 2006, 120 Stat. 1920.)
+
+Rule of Construction
+
+Pub. L. 109–347, title III, §301(c), Oct. 13, 2006, 120 Stat. 1920, provided that: “Nothing in this section [enacting this section and section 1001 of this title] shall be construed to affect—
+
+“(1) the authorities, functions, or capabilities of the Coast Guard to perform its missions; or
+
+“(2) the requirement under section 888 of the Homeland Security Act (6 U.S.C. 468) that those authorities, functions, and capabilities be maintained intact.”
+
+Part D—Immigration Enforcement Functions
+
+§251. Transfer of functions to Under Secretary for Border and Transportation Security
+
+In accordance with subchapter XII of this chapter (relating to transition provisions), there shall be transferred from the Commissioner of Immigration and Naturalization to the Under Secretary for Border and Transportation Security all functions performed under the following programs, and all personnel, assets, and liabilities pertaining to such programs, immediately before such transfer occurs:
+
+(1) The Border Patrol program.
+
+(2) The detention and removal program.
+
+(3) The intelligence program.
+
+(4) The investigations program.
+
+(5) The inspections program.
+
+(Pub. L. 107–296, title IV, §441, Nov. 25, 2002, 116 Stat. 2192.)
+
+§252. Establishment of Bureau of Border Security
+
+(a) Establishment of Bureau
+
+(1) In general
+
+There shall be in the Department of Homeland Security a bureau to be known as the “Bureau of Border Security”.
+
+(2) Assistant Secretary
+
+The head of the Bureau of Border Security shall be the Assistant Secretary of the Bureau of Border Security, who—
+
+(A) shall report directly to the Under Secretary for Border and Transportation Security; and
+
+(B) shall have a minimum of 5 years professional experience in law enforcement, and a minimum of 5 years of management experience.
+
+(3) Functions
+
+The Assistant Secretary of the Bureau of Border Security—
+
+(A) shall establish the policies for performing such functions as are—
+
+(i) transferred to the Under Secretary for Border and Transportation Security by section 251 of this title and delegated to the Assistant Secretary by the Under Secretary for Border and Transportation Security; or
+
+(ii) otherwise vested in the Assistant Secretary by law;
+
+(B) shall oversee the administration of such policies; and
+
+(C) shall advise the Under Secretary for Border and Transportation Security with respect to any policy or operation of the Bureau of Border Security that may affect the Bureau of Citizenship and Immigration Services established under part E of this subchapter, including potentially conflicting policies or operations.
+
+(4) Program to collect information relating to foreign students
+
+The Assistant Secretary of the Bureau of Border Security shall be responsible for administering the program to collect information relating to nonimmigrant foreign students and other exchange program participants described in section 1372 of title 8, including the Student and Exchange Visitor Information System established under that section, and shall use such information to carry out the enforcement functions of the Bureau.
+
+(5) Managerial rotation program
+
+(A) In general
+
+Not later than 1 year after the date on which the transfer of functions specified under section 251 of this title takes effect, the Assistant Secretary of the Bureau of Border Security shall design and implement a managerial rotation program under which employees of such bureau holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
+
+(i) gain some experience in all the major functions performed by such bureau; and
+
+(ii) work in at least one local office of such bureau.
+
+(B) Report
+
+Not later than 2 years after the date on which the transfer of functions specified under section 251 of this title takes effect, the Secretary shall submit a report to the Congress on the implementation of such program.
+
+(b) Chief of Policy and Strategy
+
+(1) In general
+
+There shall be a position of Chief of Policy and Strategy for the Bureau of Border Security.
+
+(2) Functions
+
+In consultation with Bureau of Border Security personnel in local offices, the Chief of Policy and Strategy shall be responsible for—
+
+(A) making policy recommendations and performing policy research and analysis on immigration enforcement issues; and
+
+(B) coordinating immigration policy issues with the Chief of Policy and Strategy for the Bureau of Citizenship and Immigration Services (established under part E of this subchapter), as appropriate.
+
+(c) Legal advisor
+
+There shall be a principal legal advisor to the Assistant Secretary of the Bureau of Border Security.
+The legal advisor shall provide specialized legal advice to the Assistant Secretary of the Bureau of Border Security and shall represent the bureau in all exclusion, deportation, and removal proceedings before the Executive Office for Immigration Review.
+
+(Pub. L. 107–296, title IV, §442, Nov. 25, 2002, 116 Stat. 2193.)
+
+References in Text
+
+Part E of this subchapter, referred to in subsecs. (a)(3)(C) and (b)(2)(B), was in the original “subtitle E”, meaning subtitle E (§§451–462) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2195, which enacted part E (§271 et seq.) of this subchapter, amended sections 1356 and 1573 of Title 8, Aliens and Nationality, and enacted provisions set out as a note under section 271 of this title.
+For complete classification of subtitle E to the Code, see Tables.
+
+Change of Name
+
+Bureau of Border Security, referred to in section catchline and text, changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff.
+Mar. 1, 2003, H. Doc.
+No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+
+§253. Professional responsibility and quality review
+
+The Under Secretary for Border and Transportation Security shall be responsible for—
+
+(1) conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of the Bureau of Border Security that are not subject to investigation by the Inspector General for the Department;
+
+(2) inspecting the operations of the Bureau of Border Security and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
+
+(3) providing an analysis of the management of the Bureau of Border Security.
+
+(Pub. L. 107–296, title IV, §443, Nov. 25, 2002, 116 Stat. 2194.)
+
+Change of Name
+
+Bureau of Border Security, referred to in text, changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff.
+Mar. 1, 2003, H. Doc.
+No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+
+§254. Employee discipline
+
+The Under Secretary for Border and Transportation Security may, notwithstanding any other provision of law, impose disciplinary action, including termination of employment, pursuant to policies and procedures applicable to employees of the Federal Bureau of Investigation, on any employee of the Bureau of Border Security who willfully deceives the Congress or agency leadership on any matter.
+
+(Pub. L. 107–296, title IV, §444, Nov. 25, 2002, 116 Stat. 2194.)
+
+Change of Name
+
+Bureau of Border Security, referred to in text, changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff.
+Mar. 1, 2003, H. Doc.
+No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+
+§255. Report on improving enforcement functions
+
+(a) In general
+
+The Secretary, not later than 1 year after being sworn into office, shall submit to the Committees on Appropriations and the Judiciary of the House of Representatives and of the Senate a report with a plan detailing how the Bureau of Border Security, after the transfer of functions specified under section 251 of this title takes effect, will enforce comprehensively, effectively, and fairly all the enforcement provisions of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) relating to such functions.
+
+(b) Consultation
+
+In carrying out subsection (a) of this section, the Secretary of Homeland Security shall consult with the Attorney General, the Secretary of State, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, the Secretary of Labor, the Commissioner of Social Security, the Director of the Executive Office for Immigration Review, and the heads of State and local law enforcement agencies to determine how to most effectively conduct enforcement operations.
+
+(Pub. L. 107–296, title IV, §445, Nov. 25, 2002, 116 Stat. 2194.)
+
+References in Text
+
+The Immigration and Nationality Act, referred to in subsec. (a), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality.
+For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+Change of Name
+
+Bureau of Border Security, referred to in subsec. (a), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff.
+Mar. 1, 2003, H. Doc.
+No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+
+§256. Sense of Congress regarding construction of fencing near San Diego, California
+
+It is the sense of the Congress that completing the 14-mile border fence project required to be carried out under section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1103 note) should be a priority for the Secretary.
+
+(Pub. L. 107–296, title IV, §446, Nov. 25, 2002, 116 Stat. 2195.)
+
+References in Text
+
+Section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in text, is section 102(b) of title I of div. C of Pub. L. 104–208, which is set out as a note under section 1103 of Title 8, Aliens and Nationality.
+
+Part E—Citizenship and Immigration Services
+
+§271. Establishment of Bureau of Citizenship and Immigration Services
+
+(a) Establishment of Bureau
+
+(1) In general
+
+There shall be in the Department a bureau to be known as the “Bureau of Citizenship and Immigration Services”.
+
+(2) Director
+
+The head of the Bureau of Citizenship and Immigration Services shall be the Director of the Bureau of Citizenship and Immigration Services, who—
+
+(A) shall report directly to the Deputy Secretary;
+
+(B) shall have a minimum of 5 years of management experience; and
+
+(C) shall be paid at the same level as the Assistant Secretary of the Bureau of Border Security.
+
+(3) Functions
+
+The Director of the Bureau of Citizenship and Immigration Services—
+
+(A) shall establish the policies for performing such functions as are transferred to the Director by this section or this chapter or otherwise vested in the Director by law;
+
+(B) shall oversee the administration of such policies;
+
+(C) shall advise the Deputy Secretary with respect to any policy or operation of the Bureau of Citizenship and Immigration Services that may affect the Bureau of Border Security of the Department, including potentially conflicting policies or operations;
+
+(D) shall establish national immigration services policies and priorities;
+
+(E) shall meet regularly with the Ombudsman described in section 272 of this title to correct serious service problems identified by the Ombudsman; and
+
+(F) shall establish procedures requiring a formal response to any recommendations submitted in the Ombudsman's annual report to Congress within 3 months after its submission to Congress.
+
+(4) Managerial rotation program
+
+(A) In general
+
+Not later than 1 year after the effective date specified in section 455,1 the Director of the Bureau of Citizenship and Immigration Services shall design and implement a managerial rotation program under which employees of such bureau holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
+
+(i) gain some experience in all the major functions performed by such bureau; and
+
+(ii) work in at least one field office and one service center of such bureau.
+
+(B) Report
+
+Not later than 2 years after the effective date specified in section 455,1 the Secretary shall submit a report to Congress on the implementation of such program.
+
+(5) Pilot initiatives for backlog elimination
+
+The Director of the Bureau of Citizenship and Immigration Services is authorized to implement innovative pilot initiatives to eliminate any remaining backlog in the processing of immigration benefit applications, and to prevent any backlog in the processing of such applications from recurring, in accordance with section 1573(a) of title 8. Such initiatives may include measures such as increasing personnel, transferring personnel to focus on areas with the largest potential for backlog, and streamlining paperwork.
+
+(b) Transfer of functions from Commissioner
+
+In accordance with subchapter XII of this chapter (relating to transition provisions), there are transferred from the Commissioner of Immigration and Naturalization to the Director of the Bureau of Citizenship and Immigration Services the following functions, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions immediately before the effective date specified in section 455: 1
+
+(1) Adjudications of immigrant visa petitions.
+
+(2) Adjudications of naturalization petitions.
+
+(3) Adjudications of asylum and refugee applications.
+
+(4) Adjudications performed at service centers.
+
+(5) All other adjudications performed by the Immigration and Naturalization Service immediately before the effective date specified in section 455.1
+
+(c) Chief of Policy and Strategy
+
+(1) In general
+
+There shall be a position of Chief of Policy and Strategy for the Bureau of Citizenship and Immigration Services.
+
+(2) Functions
+
+In consultation with Bureau of Citizenship and Immigration Services personnel in field offices, the Chief of Policy and Strategy shall be responsible for—
+
+(A) making policy recommendations and performing policy research and analysis on immigration services issues; and
+
+(B) coordinating immigration policy issues with the Chief of Policy and Strategy for the Bureau of Border Security of the Department.
+
+(d) Legal advisor
+
+(1) In general
+
+There shall be a principal legal advisor to the Director of the Bureau of Citizenship and Immigration Services.
+
+(2) Functions
+
+The legal advisor shall be responsible for—
+
+(A) providing specialized legal advice, opinions, determinations, regulations, and any other assistance to the Director of the Bureau of Citizenship and Immigration Services with respect to legal matters affecting the Bureau of Citizenship and Immigration Services; and
+
+(B) representing the Bureau of Citizenship and Immigration Services in visa petition appeal proceedings before the Executive Office for Immigration Review.
+
+(e) Budget Officer
+
+(1) In general
+
+There shall be a Budget Officer for the Bureau of Citizenship and Immigration Services.
+
+(2) Functions
+
+(A) In general
+
+The Budget Officer shall be responsible for—
+
+(i) formulating and executing the budget of the Bureau of Citizenship and Immigration Services;
+
+(ii) financial management of the Bureau of Citizenship and Immigration Services; and
+
+(iii) collecting all payments, fines, and other debts for the Bureau of Citizenship and Immigration Services.
+
+(f) Chief of Office of Citizenship
+
+(1) In general
+
+There shall be a position of Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services.
+
+(2) Functions
+
+The Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services shall be responsible for promoting instruction and training on citizenship responsibilities for aliens interested in becoming naturalized citizens of the United States, including the development of educational materials.
+
+(g) Office of the FBI liaison
+
+(1) In general
+
+There shall be an Office of the FBI Liaison in the Department of Homeland Security.
+
+(2) Functions
+
+The Office of the FBI Liaison shall monitor the progress of the functions of the Federal Bureau of Investigation in the naturalization process to assist in the expeditious completion of all such functions pertaining to naturalization applications filed by, or on behalf of—
+
+(A) current or former members of the Armed Forces under section 1439 or 1440 of title 8;
+
+(B) current spouses of United States citizens who are currently serving on active duty in the Armed Forces, who qualify for naturalization under section 1430(b) of title 8, and surviving spouses and children who qualify for naturalization under section 1430(d) of title 8; or
+
+(C) a deceased individual who is eligible for posthumous citizenship under section 1440–1 of title 8.
+
+(3) Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+
+(Pub. L. 107–296, title IV, §451, Nov. 25, 2002, 116 Stat. 2195; Pub. L. 110–382, §2(a), Oct. 9, 2008, 122 Stat. 4087.)
+
+Amendment of Section
+
+For termination of amendment by section 4 of Pub. L. 110–382, see Termination Date of 2008 Amendment note below.
+
+References in Text
+
+For the effective date specified in section 455, referred to in subsecs. (a)(4) and (b), see Effective Date note below.
 
 Change of Name
 
@@ -8076,7 +8778,7 @@ Part D—Acquisitions
 
 (a) Authority
 
-Until September 30, 2009 1 and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+Until September 30, 2010, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 (1) In general
 
@@ -8107,7 +8809,7 @@ The Secretary may—
 
 (1) In general
 
-The authority of the Secretary under this section shall terminate September 30, 2009, unless before that date the Secretary—
+The authority of the Secretary under this section shall terminate September 30, 2010, unless before that date the Secretary—
 
 (A) issues policy guidance detailing the appropriate use of that authority; and
 
@@ -8121,7 +8823,7 @@ The Secretary shall provide an annual report to the Committees on Appropriations
 
 In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174.)
 
 References in Text
 
@@ -8134,9 +8836,6 @@ Change of Name
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-1 So in original.
-Probably should be followed by a comma.
 
 §392. Personal services
 
@@ -9078,6 +9777,87 @@ Codification
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
+§453b. Requirement to buy certain items related to national security interests from American sources; exceptions
+
+(a) Requirement
+
+Except as provided in subsections (c) through (g), funds appropriated or otherwise available to the Department of Homeland Security may not be used for the procurement of an item described in subsection (b) if the item is not grown, reprocessed, reused, or produced in the United States.
+
+(b) Covered items
+
+An item referred to in subsection (a) is any of the following, if the item is directly related to the national security interests of the United States:
+
+(1) 1 An article or item of—
+
+(A) clothing and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing (and the materials and components thereof);
+
+(B) tents, tarpaulins, covers, textile belts, bags, protective equipment (including but not limited to body armor), sleep systems, load carrying equipment (including but not limited to fieldpacks), textile marine equipment, parachutes, or bandages;
+
+(C) cotton and other natural fiber products, woven silk or woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric (including all textile fibers and yarns that are for use in such fabrics), canvas products, or wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles); or
+
+(D) any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials.
+
+(c) Availability exception
+
+Subsection (a) does not apply to the extent that the Secretary of Homeland Security determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b)(1) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
+This section is not applicable to covered items that are, or include, materials determined to be non-available in accordance with Federal Acquisition Regulation 25.104 Nonavailable Articles.
+
+(d) De minimis exception
+
+Notwithstanding subsection (a), the Secretary of Homeland Security may accept delivery of an item covered by subsection (b) that contains non-compliant fibers if the total value of non-compliant fibers contained in the end item does not exceed 10 percent of the total purchase price of the end item.
+
+(e) Exception for certain procurements outside the United States
+
+Subsection (a) does not apply to the following:
+
+(1) Procurements by vessels in foreign waters.
+
+(2) Emergency procurements.
+
+(f) Exception for small purchases
+
+Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10.
+
+(g) Applicability to contracts and subcontracts for procurement of commercial items
+
+This section is applicable to contracts and subcontracts for the procurement of commercial items not withstanding section 430 of title 41, with the exception of commercial items listed under subsections (b)(1)(C) and (b)(1)(D) above.
+For the purposes of this section, “commercial” shall be as defined in the Federal Acquisition Regulation—Part 2.
+
+(h) Geographic coverage
+
+In this section, the term “United States” includes the possessions of the United States.
+
+(i) Notification required within 7 days after contract award if certain exceptions applied
+
+In the case of any contract for the procurement of an item described in subsection (b)(1), if the Secretary of Homeland Security applies an exception set forth in subsection (c) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
+
+(j) Training during fiscal year 2009
+
+(1) In general
+
+The Secretary of Homeland Security shall ensure that each member of the acquisition workforce in the Department of Homeland Security who participates personally and substantially in the acquisition of textiles on a regular basis receives training during fiscal year 2009 on the requirements of this section and the regulations implementing this section.
+
+(2) Inclusion of information in new training programs
+
+The Secretary shall ensure that any training program for the acquisition workforce developed or implemented after February 17, 2009, includes comprehensive information on the requirements described in paragraph (1).
+
+(k) Consistency with international agreements
+
+This section shall be applied in a manner consistent with United States obligations under international agreements.
+
+(l) Effective date
+
+This section applies with respect to contracts entered into by the Department of Homeland Security 180 days after February 17, 2009.
+
+(Pub. L. 111–5, div. A, title VI, §604, Feb. 17, 2009, 123 Stat. 165.)
+
+Codification
+
+Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+1 So in original.
+No par. (2) has been enacted.
+
 §454. Future Years Homeland Security Program
 
 (a) In general
@@ -9739,6 +10519,232 @@ The Secretary may charge reasonable fees under subsection (a) for providing cred
 Codification
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+§469a. Collection of fees from non-Federal participants in meetings
+
+For fiscal year 2010 and thereafter, the Secretary of Homeland Security may collect fees from any non-Federal participant in a conference, seminar, exhibition, symposium, or similar meeting conducted by the Department of Homeland Security in advance of the conference, either directly or by contract, and those fees shall be credited to the appropriation or account from which the costs of the conference, seminar, exhibition, symposium, or similar meeting are paid and shall be available to pay the costs of the Department of Homeland Security with respect to the conference or to reimburse the Department for costs incurred with respect to the conference: Provided, That in the event the total amount of fees collected with respect to a conference exceeds the actual costs of the Department of Homeland Security with respect to the conference, the amount of such excess shall be deposited into the Treasury as miscellaneous receipts: Provided further, That the Secretary shall provide a report to the Committees on Appropriations of the Senate and the House of Representatives not later than January 5, 2011, providing the level of collections and a summary by agency of the purposes and levels of expenditures for the prior fiscal year, and shall report annually thereafter.
+
+(Pub. L. 111–83, title V, §554, Oct. 28, 2009, 123 Stat. 2179.)
+
+Codification
+
+Section was enacted as part of the Department of Homeland Security Appropriations Act, 2010, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+§470. Disclosures regarding homeland security grants
+
+(a) Definitions
+
+In this section:
+
+(1) Homeland security grant
+
+The term “homeland security grant” means any grant made or administered by the Department, including—
+
+(A) the State Homeland Security Grant Program;
+
+(B) the Urban Area Security Initiative Grant Program;
+
+(C) the Law Enforcement Terrorism Prevention Program;
+
+(D) the Citizen Corps; and
+
+(E) the Metropolitan Medical Response System.
+
+(2) Local government
+
+The term “local government” has the meaning given the term in section 101 of this title.
+
+(b) Required disclosures
+
+Each State or local government that receives a homeland security grant shall, not later than 12 months after the later of October 13, 2006, and the date of receipt of such grant, and every 12 months thereafter until all funds provided under such grant are expended, submit a report to the Secretary that contains a list of all expenditures made by such State or local government using funds from such grant.
+
+(Pub. L. 109–347, title VII, §702, Oct. 13, 2006, 120 Stat. 1943.)
+
+Codification
+
+Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+Definitions
+
+For definitions of “Department” and “Secretary” as used in this section, see section 901 of this title.
+
+Part I—Information Sharing
+
+§481. Short title; findings; and sense of Congress
+
+(a) Short title
+
+This part may be cited as the “Homeland Security Information Sharing Act”.
+
+(b) Findings
+
+Congress finds the following:
+
+(1) The Federal Government is required by the Constitution to provide for the common defense, which includes terrorist attack.
+
+(2) The Federal Government relies on State and local personnel to protect against terrorist attack.
+
+(3) The Federal Government collects, creates, manages, and protects classified and sensitive but unclassified information to enhance homeland security.
+
+(4) Some homeland security information is needed by the State and local personnel to prevent and prepare for terrorist attack.
+
+(5) The needs of State and local personnel to have access to relevant homeland security information to combat terrorism must be reconciled with the need to preserve the protected status of such information and to protect the sources and methods used to acquire such information.
+
+(6) Granting security clearances to certain State and local personnel is one way to facilitate the sharing of information regarding specific terrorist threats among Federal, State, and local levels of government.
+
+(7) Methods exist to declassify, redact, or otherwise adapt classified information so it may be shared with State and local personnel without the need for granting additional security clearances.
+
+(8) State and local personnel have capabilities and opportunities to gather information on suspicious activities and terrorist threats not possessed by Federal agencies.
+
+(9) The Federal Government and State and local governments and agencies in other jurisdictions may benefit from such information.
+
+(10) Federal, State, and local governments and intelligence, law enforcement, and other emergency preparation and response agencies must act in partnership to maximize the benefits of information gathering and analysis to prevent and respond to terrorist attacks.
+
+(11) Information systems, including the National Law Enforcement Telecommunications System and the Terrorist Threat Warning System, have been established for rapid sharing of classified and sensitive but unclassified information among Federal, State, and local entities.
+
+(12) Increased efforts to share homeland security information should avoid duplicating existing information systems.
+
+(c) Sense of Congress
+
+It is the sense of Congress that Federal, State, and local entities should share homeland security information to the maximum extent practicable, with special emphasis on hard-to-reach urban and rural communities.
+
+(Pub. L. 107–296, title VIII, §891, Nov. 25, 2002, 116 Stat. 2252.)
+
+References in Text
+
+This part, referred to in subsec. (a), was in the original “This subtitle”, meaning subtitle I (§§891–899) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2252, which enacted this part, amended section 2517 of Title 18, Crimes and Criminal Procedure, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18, and sections 403–5d, 1806, and 1825 of Title 50, War and National Defense, and amended provisions set out as a note under section 2517 of Title 18. For complete classification of subtitle I to the Code, see Tables.
+
+Reports to Congress
+
+Pub. L. 110–28, title III, May 25, 2007, 121 Stat. 139, provided in part: “That starting July 1, 2007, the Secretary of Homeland Security shall submit quarterly reports to the Committees on Appropriations of the Senate and the House of Representatives detailing the information required in House Report 110–107.”
+
+§482. Facilitating homeland security information sharing procedures
+
+(a) Procedures for determining extent of sharing of homeland security information
+
+(1) The President shall prescribe and implement procedures under which relevant Federal agencies—
+
+(A) share relevant and appropriate homeland security information with other Federal agencies, including the Department, and appropriate State and local personnel;
+
+(B) identify and safeguard homeland security information that is sensitive but unclassified; and
+
+(C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
+
+(2) The President shall ensure that such procedures apply to all agencies of the Federal Government.
+
+(3) Such procedures shall not change the substantive requirements for the classification and safeguarding of classified information.
+
+(4) Such procedures shall not change the requirements and authorities to protect sources and methods.
+
+(b) Procedures for sharing of homeland security information
+
+(1) Under procedures prescribed by the President, all appropriate agencies, including the intelligence community, shall, through information sharing systems, share homeland security information with Federal agencies and appropriate State and local personnel to the extent such information may be shared, as determined in accordance with subsection (a) of this section, together with assessments of the credibility of such information.
+
+(2) Each information sharing system through which information is shared under paragraph (1) shall—
+
+(A) have the capability to transmit unclassified or classified information, though the procedures and recipients for each capability may differ;
+
+(B) have the capability to restrict delivery of information to specified subgroups by geographic location, type of organization, position of a recipient within an organization, or a recipient's need to know such information;
+
+(C) be configured to allow the efficient and effective sharing of information; and
+
+(D) be accessible to appropriate State and local personnel.
+
+(3) The procedures prescribed under paragraph (1) shall establish conditions on the use of information shared under paragraph (1)—
+
+(A) to limit the redissemination of such information to ensure that such information is not used for an unauthorized purpose;
+
+(B) to ensure the security and confidentiality of such information;
+
+(C) to protect the constitutional and statutory rights of any individuals who are subjects of such information; and
+
+(D) to provide data integrity through the timely removal and destruction of obsolete or erroneous names and information.
+
+(4) The procedures prescribed under paragraph (1) shall ensure, to the greatest extent practicable, that the information sharing system through which information is shared under such paragraph include existing information sharing systems, including, but not limited to, the National Law Enforcement Telecommunications System, the Regional Information Sharing System, and the Terrorist Threat Warning System of the Federal Bureau of Investigation.
+
+(5) Each appropriate Federal agency, as determined by the President, shall have access to each information sharing system through which information is shared under paragraph (1), and shall therefore have access to all information, as appropriate, shared under such paragraph.
+
+(6) The procedures prescribed under paragraph (1) shall ensure that appropriate State and local personnel are authorized to use such information sharing systems—
+
+(A) to access information shared with such personnel; and
+
+(B) to share, with others who have access to such information sharing systems, the homeland security information of their own jurisdictions, which shall be marked appropriately as pertaining to potential terrorist activity.
+
+(7) Under procedures prescribed jointly by the Director of Central Intelligence and the Attorney General, each appropriate Federal agency, as determined by the President, shall review and assess the information shared under paragraph (6) and integrate such information with existing intelligence.
+
+(c) Sharing of classified information and sensitive but unclassified information with State and local personnel
+
+(1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified or otherwise protected after the determinations prescribed under the procedures set forth in subsection (a) of this section.
+
+(2) It is the sense of Congress that such procedures may include 1 or more of the following means:
+
+(A) Carrying out security clearance investigations with respect to appropriate State and local personnel.
+
+(B) With respect to information that is sensitive but unclassified, entering into nondisclosure agreements with appropriate State and local personnel.
+
+(C) Increased use of information-sharing partnerships that include appropriate State and local personnel, such as the Joint Terrorism Task Forces of the Federal Bureau of Investigation, the Anti-Terrorism Task Forces of the Department of Justice, and regional Terrorism Early Warning Groups.
+
+(3)(A) The Secretary shall establish a program to provide appropriate training to officials described in subparagraph (B) in order to assist such officials in—
+
+(i) identifying sources of potential terrorist threats through such methods as the Secretary determines appropriate;
+
+(ii) reporting information relating to such potential terrorist threats to the appropriate Federal agencies in the appropriate form and manner;
+
+(iii) assuring that all reported information is systematically submitted to and passed on by the Department for use by appropriate Federal agencies; and
+
+(iv) understanding the mission and roles of the intelligence community to promote more effective information sharing among Federal, State, and local officials and representatives of the private sector to prevent terrorist attacks against the United States.
+
+(B) The officials referred to in subparagraph (A) are officials of State and local government agencies and representatives of private sector entities with responsibilities relating to the oversight and management of first responders, counterterrorism activities, or critical infrastructure.
+
+(C) The Secretary shall consult with the Attorney General to ensure that the training program established in subparagraph (A) does not duplicate the training program established in section 908 of the USA PATRIOT Act (Public Law 107–56; 28 U.S.C. 509 note).
+
+(D) The Secretary shall carry out this paragraph in consultation with the Director of Central Intelligence and the Attorney General.
+
+(d) Responsible officials
+
+For each affected Federal agency, the head of such agency shall designate an official to administer this chapter with respect to such agency.
+
+(e) Federal control of information
+
+Under procedures prescribed under this section, information obtained by a State or local government from a Federal agency under this section shall remain under the control of the Federal agency, and a State or local law authorizing or requiring such a government to disclose information shall not apply to such information.
+
+(f) Definitions
+
+As used in this section:
+
+(1) The term “homeland security information” means any information possessed by a Federal, State, or local agency that—
+
+(A) relates to the threat of terrorist activity;
+
+(B) relates to the ability to prevent, interdict, or disrupt terrorist activity;
+
+(C) would improve the identification or investigation of a suspected terrorist or terrorist organization; or
+
+(D) would improve the response to a terrorist act.
+
+(2) The term “intelligence community” has the meaning given such term in section 401a(4) of title 50.
+
+(3) The term “State and local personnel” means any of the following persons involved in prevention, preparation, or response for terrorist attack:
+
+(A) State Governors, mayors, and other locally elected officials.
+
+(B) State and local law enforcement personnel and firefighters.
+
+(C) Public health and medical professionals.
+
+(D) Regional, State, and local emergency management agency personnel, including State adjutant generals.
+
+(E) Other appropriate emergency response agency personnel.
+
+(F) Employees of private-sector entities that affect critical infrastructure, cyber, economic, or public health security, as designated by the Federal Government in procedures developed pursuant to this section.
+
+(4) The term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
+
+(g) Construction
+
+Nothing in this chapter shall be construed as authorizing any department, bureau, agency, officer, or employee of the Federal Government to request, receive, or transmit to any other Government entity or personnel, or transmit to any State or local entity or personnel otherwise authorized by this chapter to receive homeland security information, any information collected by the Federal Government solely for statistical purposes in violation of any other provision of law relating to the confidentiality of such information.
+
+(Pub. L. 107–296, title VIII, §892, Nov. 25, 2002, 116 Stat. 2253; Pub. L. 108–177, title III, §316(a), Dec. 13, 2003, 117 Stat. 2610.)
 
 Change of Name
 

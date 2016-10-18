@@ -90,6 +90,10 @@ Historical and Revision Notes	Revised Section
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+Short Title of 2009 Amendment
+
+Pub. L. 111–83, title V, §561(a), Oct. 28, 2009, 123 Stat. 2182, provided that: “This section [amending section 70103 of this title and sections 114 and 40119 of Title 49, Transportation] may be cited as the ‘American Communities’ Right to Public Information Act’.”
+
 Short Title of 2003 Amendment
 
 Pub. L. 108–136, div. C, title XXXV, §3501, Nov. 24, 2003, 117 Stat. 1789, provided that: “This title [see Tables for classification] may be cited as the ‘Maritime Security Act of 2003’.”
@@ -8435,9 +8439,9 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 (1) District 1. All United States waters of the St. Lawrence River between the international boundary at St. Regis and a line at the head of the river running (at approximately 127° true) between Carruthers Point Light and South Side Light extended to the New York shore.
 
-(2) District 2. All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within the arc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°0530N.
+(2) District 2. All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within the arc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°05′30″ N.
 
-(3) District 3. All United States waters of the St. Marys River, Sault Sainte Marie Locks and approaches thereto between latitude 45°59N. at the southern approach and longitude 84°33W. at the northern approach.
+(3) District 3. All United States waters of the St. Marys River, Sault Sainte Marie Locks and approaches thereto between latitude 45°59′ N. at the southern approach and longitude 84°33′ W. at the northern approach.
 
 IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
 
@@ -18329,13 +18333,13 @@ Use and performance reports by operators of vessels.
 
 (3) owned and operated as vessels of the United States by citizens of the United States;
 
-(4) composed of the best-equipped, safest, and most suitable types of vessels and manned with a trained and efficient citizen personnel; and
+(4) composed of the best-equipped, safest, and most suitable types of vessels constructed in the United States and manned with a trained and efficient citizen personnel; and
 
 (5) supplemented by efficient facilities for building and repairing vessels.
 
 (b) Policy.—It is the policy of the United States to encourage and aid the development and maintenance of a merchant marine satisfying the objectives described in subsection (a).
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1556.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1556; Pub. L. 111–84, div. C, title XXXV, §3511, Oct. 28, 2009, 123 Stat. 2722.)
 
 Historical and Revision Notes	Revised Section
 
@@ -18751,7 +18755,66 @@ In subsection (g), the words “beginning July 1, 1956” and “after July 1, 1
 
 (b) Submission of Findings to Surface Transportation Board.—After an investigation under subsection (a), if the Secretary of Transportation believes that the rates or practices of a rail carrier subject to the jurisdiction of the Surface Transportation Board are detrimental to the objective specified in subsection (a), or that new rates or practices, new or additional port terminal facilities, or affirmative action by a rail carrier is necessary to promote that objective, the Secretary may submit findings to the Board for action the Board considers appropriate under existing law.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564.)
+(c) Port Infrastructure Development Program.—
+
+(1) Establishment of program.—The Secretary of Transportation, through the Maritime Administrator, shall establish a port infrastructure development program for the improvement of port facilities as provided in this subsection.
+
+(2) Authority of the administrator.—In order to carry out any project under the program established under paragraph (1), the Administrator may—
+
+(A) receive funds provided for the project from Federal, non-Federal, and private entities that have a specific agreement or contract with the Administrator to further the purposes of this subsection;
+
+(B) coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
+
+(C) seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
+
+(D) provide such technical assistance to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
+
+(3) Port infrastructure development fund.—
+
+(A) Establishment.—There is a Port Infrastructure Development Fund for use by the Administrator in carrying out projects under the port infrastructure development program.
+The Fund shall be available to the Administrator—
+
+(i) to administer and carry out projects under the program;
+
+(ii) to receive Federal, non-Federal, and private funds from entities which have specific agreements or contracts with the Administrator; and
+
+(iii) to make refunds for projects that will not be completed.
+
+(B) Credits.—There may be deposited into the Fund—
+
+(i) funds from Federal, non-Federal, and private entities which have agreements or contracts with the Administrator and which shall remain in the Fund until expended or refunded; and
+
+(ii) such amounts as may be appropriated or transferred, subject to subparagraph (C), to the Fund under this subsection.
+
+(C) Transfers.—
+
+(i) In general.—Subject to clauses (ii) and (iii), amounts appropriated or otherwise made available for any fiscal year for a marine facility or intermodal facility that includes maritime transportation may be transferred, at the option of the recipient of such amounts, to the Fund and administered by the Administrator as a component of a project under the program.
+
+(ii) Prohibition on transfers.—Except as provided in clause (iii), no funds appropriated or made available under title 23 or chapter 53 of title 49, United States Code, including funds from the Highway Trust Fund (section 9503(c) of the Internal Revenue Code of 1986), funds from the Mass Transit Account of the Highway Trust Fund (section 9503(e) of Internal Revenue Code of 1986), and funds provided for public transportation programs within the mass transit category (as defined in section 250(c)(4)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985), shall be transferred into the Fund.
+
+(iii) Exception.—
+
+(I) In general.—Amounts described in subclause (II) are eligible for transfer into the Fund if—
+
+(aa) the recipient of the amounts has a specific agreement or contract with the Administrator;
+
+(bb) the Department of Transportation agency that administers the amounts to be transferred has granted project approval for each component of the project that is to be funded using such amounts;
+
+(cc) the Department of Transportation agency that administers the amounts to be transferred and the Maritime Administration agree to the transfer through a signed Memorandum of Understanding; and
+
+(dd) the amounts will be used only to carry out the project for which funds were approved, and in accordance with any conditions governing the amounts under title 23 or chapter 53 of title 49, United States Code.
+
+(II) Amounts described.—The amounts referred to in subclause (I) are amounts appropriated or made available—
+
+(aa) for loans, loan guarantees, or lines of credit under chapter 6 of title 23, United States Code, for a project eligible under such chapter to facilitate direct intermodal exchange, transfer, and access into and out of a port as defined under section 601(a)(8)(D)(iii) of such title, as in effect on the date of enactment of this subsection; or
+
+(bb) for projects under title XII of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5).
+
+(D) Limitation on statutory construction.—Nothing in this section shall be construed to alter or otherwise affect existing authorities to conduct port infrastructure programs in Hawaii (as authorized by section 9008 of Public Law 109–59), Alaska (as authorized by section 10205 of Public Law 109–59), or Guam (as authorized by section 3512 of Public Law 110–417).
+
+(4) Authorization of appropriations.—There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the program, taking into account amounts received under paragraph (3)(A)(ii).
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564; Pub. L. 111–84, div. C, title XXXV, §3512, Oct. 28, 2009, 123 Stat. 2722.)
 
 Historical and Revision Notes	Revised Section
 
@@ -18765,6 +18828,27 @@ In paragraph (3), the words “apparatus” and “appliances” are omitted as 
 In paragraph (4), the words “consult with” are substituted for “advise with” as being more grammatical.
 
 In subsection (b), the words “rates or practices” are substituted for “rates, charges, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
+
+References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(2)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare.
+For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+Section 9503 of the Internal Revenue Code of 1986, referred to in subsec. (c)(3)(C)(ii), is classified to section 9503 of Title 26, Internal Revenue Code.
+
+Section 250 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c)(3)(C)(ii), is classified to section 900 of Title 2, The Congress.
+
+The date of enactment of this subsection, referred to in subsec. (c)(3)(C)(iii)(II)(aa), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (c)(3)(C)(iii)(II)(bb), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. The provisions of title XII of div.
+A of the Act making appropriations are not classified to the Code.
+For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+
+Section 9008 of Public Law 109–59, referred to in subsec. (c)(3)(D), is section 9008 of Pub. L. 109–59, title IX, Aug. 10, 2005, 119 Stat. 1926, which is not classified to the Code.
+
+Section 10205 of Public Law 109–59, referred to in subsec. (c)(3)(D), is section 10205 of Pub. L. 109–59, title X, Aug. 10, 2005, 119 Stat. 1934, which is not classified to the Code.
+
+Section 3512 of Public Law 110–417, referred to in subsec. (c)(3)(D), is classified to section 1421r of Title 48, Territories and Insular Possessions.
 
 §50303. Operating property and extending term of notes
 
@@ -19205,6 +19289,9 @@ Gifts to the Merchant Marine Academy.
 51316.
 Temporary appointments to the Academy.
 
+51317.
+Adjunct professors.
+
         
 
 §51301. Maintenance of the Academy
@@ -19531,11 +19618,13 @@ Historical and Revision Notes	Revised Section
 (b) Master's Degree.—The Superintendent of the Academy may confer a master's degree on an individual who has met the conditions prescribed by the Secretary.
 A master's degree program may be funded through non-appropriated funds.
 To maintain the appropriate academic standards, the program shall be accredited by the appropriate accreditation body.
+Nonappropriated funds received for this purpose shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purpose of such receipts.
+The Superintendent shall maintain a separate and detailed accounting of nonappropriated fund receipts and all associated expenses.
 The Secretary may prescribe regulations necessary to administer such a program.
 
 (c) Graduation Not Entitlement To Hold License.—Graduation from the Academy does not entitle an individual to hold a license authorizing service on a merchant vessel.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574; Pub. L. 111–84, div. C, title XXXV, §3514, Oct. 28, 2009, 123 Stat. 2724.)
 
 Historical and Revision Notes	Revised Section
 
@@ -19641,9 +19730,13 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 (a) Prohibition.—Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the United States Merchant Marine Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
 
-(b) Exception.—The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994. The Secretary of Transportation shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
+(b) Exception.—The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees.
+The Secretary of Transportation shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
+Such fees shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees.
+Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary.
+The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576; Pub. L. 111–84, div. C, title XXXV, §3510, Oct. 28, 2009, 123 Stat. 2722; Pub. L. 111–117, div. A, title I, §176, Dec. 16, 2009, 123 Stat. 3068.)
 
 Historical and Revision Notes	Revised Section
 
@@ -19690,6 +19783,33 @@ Eligible personnel shall be engaged in work permissibly funded by annual appropr
 References in Text
 
 The General Schedule, referred to in text, is set out under section 5332 of Title 5, Government Organization and Employees.
+
+§51317. Adjunct professors
+
+(a) In General.—The Maritime Administrator may establish a program for the purpose of contracting with individuals as personal services contractors to provide services as adjunct professors at the Academy, if the Maritime Administrator determines that there is a need for adjunct professors and the need is not of permanent duration.
+
+(b) Contract Requirements.—Each contract under the program—
+
+(1) must be approved by the Maritime Administrator; and 1
+
+(2) shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year.2
+
+(3) shall be subject to the availability of appropriations.
+
+(c) Limitation on Number of Contractors.—In awarding contacts 3 under this section, the Maritime Administrator shall ensure that not more than 25 individuals actively provide services in any one academic trimester, or equivalent, as contractors under subsection (a).
+
+(d) Reporting Requirements.—When the authority granted by subsection (a) is used to hire an adjunct professor at the Academy in fiscal year 2010 or fiscal year 2011, the Administrator shall notify the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, and the Committee on Commerce, Science, and Transportation of the Senate, including the need for and the term of employment for the adjunct professor.
+
+(Added Pub. L. 111–84, div. C, title XXXV, §3503(a), Oct. 28, 2009, 123 Stat. 2719.)
+
+1 So in original.
+The word “and” probably should not appear.
+
+2 So in original.
+The period probably should be “; and”.
+
+3 So in original.
+Probably should be “contracts”.
 
 CHAPTER 515—STATE MARITIME ACADEMY SUPPORT PROGRAM
 
@@ -19924,7 +20044,7 @@ Historical and Revision Notes	Revised Section
 An agreement with a student may not be effective for more than 4 academic years.
 The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
 
-(b) Payments.—Payments under an agreement under this section shall be equal to $8,000 each academic year and be paid before the start of each academic year, as prescribed by the Secretary, while the individual is attending the academy.
+(b) Payments.—Payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
 The payments shall be used for uniforms, tuition, books, and subsistence.
 
 (c) Enlisted Reserve Status.—An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
@@ -19973,7 +20093,7 @@ The Secretary may reduce the amount to be recovered to reflect partial performan
 
 (2) make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721.)
 
 Historical and Revision Notes	Revised Section
 
@@ -20446,35 +20566,11 @@ Pub. L. 108–136, div. C, title XXXV, §3537, Nov. 24, 2003, 117 Stat. 1819, pr
 
 Temporary Program Authorizing Contracts With Adjunct Professors at the United States Merchant Marine Academy and for Other Purposes
 
-Pub. L. 110–417, div. C, title XXXV, §3506(a)–(f), Oct. 14, 2008, 122 Stat. 4763, 4764, provided that:
-
-“(a) In General.—The Maritime Administrator may establish a temporary program for the purpose of, subject to the availability of appropriations, contracting with individuals as personal services contractors to provide services as adjunct professors at the Academy, if the Maritime Administrator determines that there is a need for adjunct professors and the need is not of permanent duration.
-
-“(b) Contract Requirements.—Each contract under the program—
-
-“(1) must be approved by the Maritime Administrator;
-
-“(2) subject to paragraph (3), shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year; and
-
-“(3) shall terminate not later than 6 months after the termination of contract authority under subsection (d).
-
-“(c) Limitation on Number of Contractors.—In awarding contacts [sic] under the program, the Maritime Administrator shall ensure that not more than 25 individuals actively provide services in any one academic trimester, or equivalent, as contractors under the program.
-
-“(d) Termination of Contracting Authority.—The authority to award contracts under the program shall terminate upon the end of the academic year 2008–2009.
-
-“(e) Existing Contracts.—Any contract entered into before the effective date of this section [Oct. 14, 2008] for the services of an adjunct professor at the Academy shall remain in effect for the trimester (or trimesters) for which the services were contracted.
-
-“(f) Definitions.—In this section:
-
-“(1) Academy.—The term ‘Academy’ means the United States Merchant Marine Academy.
-
-“(2) Maritime administrator.—The term ‘Maritime Administrator’ means the Administrator of the Maritime Administration, or a designee of the Administrator.
-
-“(3) Program.—The term ‘program’ means the program established under subsection (a).”
+Pub. L. 110–417, div. C, title XXXV, §3506(a)–(f), Oct. 14, 2008, 122 Stat. 4763, 4764, which authorized establishment of a temporary program for the purpose of contracting with not more than 25 individuals as personal services contractors to provide services as adjunct professors at the United States Merchant Marine Academy, was repealed by Pub. L. 111–84, div. C, title XXXV, §3503(b)(2), Oct. 28, 2009, 123 Stat. 2719. See section 51317 of this title.
 
 Assistance for Small Shipyards and Maritime Communities
 
-Pub. L. 109–163, div. C, title XXXV, §3506, Jan. 6, 2006, 119 Stat. 3553, which was formerly set out as a note under this section, was transferred to and renumbered as section 54101 of this title by Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(B), Jan. 28, 2008, 122 Stat. 599. Subsequent to the transfer, Pub. L. 110–417, div. C, title XXXV, §3508(b), Oct. 14, 2008, 122 Stat. 4769, directed the repeal of section 3506 of Pub. L. 109–163.
+Pub. L. 109–163, div. C, title XXXV, §3506, Jan. 6, 2006, 119 Stat. 3553, formerly set out as a note under this section, was transferred to and renumbered as section 54101 of this title by Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(B), Jan. 28, 2008, 122 Stat. 599. Later, Pub. L. 110–417, div. C, title XXXV, §3508(b), Oct. 14, 2008, 122 Stat. 4769, directed repeal of section 3506 of Pub. L. 109–163. Pub. L. 110–417, §3508(b), was itself amended generally by Pub. L. 111–84, div. A, title X, §1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted, and, as so amended, Pub. L. 110–417, §3508(b), no longer directed the repeal of section 3506 of Pub. L. 109–163.
 
 Maintenance and Repair Reimbursement Pilot Program
 
@@ -21446,6 +21542,62 @@ The effective date of this chapter, referred to in subsecs. (b)(1), (c)(1)(A)(i)
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1812; amended Pub. L. 109–304, §13(a)(4), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(a), Oct. 17, 2006, 120 Stat. 2514; Pub. L. 110–181, div. C, title XXXV, §3526(f), Jan. 28, 2008, 122 Stat. 602.)
 
+§53106. Payments
+
+(a) Annual Payment.—
+
+(1) In general.—The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
+
+(A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
+
+(B) $2,900,000, for each of fiscal years 2009, 2010, and 2011; and
+
+(C) $3,100,000 for each fiscal years 2012, 2013, 2014, and 2015.
+
+(2) Timing.—The amount shall be paid in equal monthly installments at the end of each month.
+The amount shall not be reduced except as provided by this section.
+
+(b) Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year.
+Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+
+(c) General Limitations.—The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
+
+(1) under a charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107;
+
+(2) not operated or maintained in accordance with an operating agreement under this chapter; or
+
+(3) more than—
+
+(A) 25 years of age, except as provided in subparagraph (B) or (C);
+
+(B) 20 years of age, in the case of a tank vessel; or
+
+(C) 30 years of age, in the case of a LASH vessel.
+
+(d) Reductions in Payments.—With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
+
+(1) except as provided in paragraph (2), shall not reduce any payment for the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10, or any other cargo preference law of the United States;
+
+(2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
+
+(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+
+(e) Limitation Regarding Noncontiguous Domestic Trade.—
+
+(1) In general.—No contractor shall receive payments pursuant to this chapter during a period in which it participates in noncontiguous domestic trade.
+
+(2) Limitation on application.—Paragraph (1) shall not apply to any person that is a citizen of the United States within the meaning of section 50501 of this title, applying the 75 percent ownership requirement of that section.
+
+(3) Participates in a noncontiguous domestic trade defined.—In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
+
+(f) Priority in Allocation of Available Amounts.—If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under each agreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 (46 U.S.C. 53101 note).
+
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516.)
+
+References in Text
+
+Section 3517 of the Maritime Security Act of 2003, referred to in subsec. (f), is section 3517 of Pub. L. 108–136, which is set out as a note under section 53101 of this title.
+
 §53107. National security requirements
 
 (a) Emergency Preparedness Agreement Required.—The Secretary shall establish an Emergency Preparedness Program under this section that is approved by the Secretary of Defense.
@@ -21459,6 +21611,10 @@ The Secretary shall negotiate and enter into an Emergency Preparedness Agreement
 (2) Basic terms.—(A) The basic terms of the Emergency Preparedness Agreement shall be established (subject to subparagraph (B)) by the Secretary and the Secretary of Defense.
 
 (B) In any Emergency Preparedness Agreement, the Secretary and a contractor may agree to additional or modifying terms appropriate to the contractor's circumstances if those terms have been approved by the Secretary of Defense.
+
+(3) Defense measures against unauthorized seizures.—(A) The Emergency Preparedness Agreement for any operating agreement that first takes effect or is renewed after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010 shall require that any vessel operating under the agreement in the carriage of cargo for the Department of Defense in an area that is designated by the Coast Guard as an area of high risk of piracy shall be equipped with, at a minimum, appropriate non-lethal defense measures to protect the vessel, crew, and cargo from unauthorized seizure at sea.
+
+(B) The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating shall jointly prescribe the non-lethal defense measures that are required under this paragraph.
 
 (c) Participation After Expiration of Operating Agreement.—Except as provided by section 53105(d), the Secretary may not require, through an Emergency Preparedness Agreement or operating agreement, that a contractor continue to participate in an Emergency Preparedness Agreement after the operating agreement with the contractor has expired according to its terms or is otherwise no longer in effect.
 After expiration of an Emergency Preparedness Agreement, a contractor may volunteer to continue to participate in such an agreement.
@@ -21491,7 +21647,11 @@ After expiration of an Emergency Preparedness Agreement, a contractor may volunt
 
 (2) Limitation on liability of u.s.—Except as may be expressly agreed to in an Emergency Preparedness Agreement, or as otherwise provided by law, the Government shall not be liable for disruption of a contractor's commercial business or other consequential damages to a contractor arising from activation of commercial transportation resources under an Emergency Preparedness Agreement.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1814; amended Pub. L. 109–304, §13(a)(6), Oct. 6, 2006, 120 Stat. 1701.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1814; amended Pub. L. 109–304, §13(a)(6), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–84, div. C, title XXXV, §3505, Oct. 28, 2009, 123 Stat. 2720.)
+
+References in Text
+
+The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (b)(3)(A), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 §53108. Regulatory relief
 
@@ -24258,27 +24418,25 @@ Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
 	53912	46 App.:1294.	June 29, 1936, ch. 858, title XII, §1214, as added Sept. 7, 1950, ch. 906, 64 Stat. 777; Aug. 3, 1955, ch. 492, 69 Stat. 440; Pub. L. 86–120, July 31, 1959, 73 Stat. 266; Pub. L. 89–89, July 27, 1965, 79 Stat. 264; Pub. L. 91–469, §34, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 94–523, §5, Oct. 17, 1976, 90 Stat. 2474; Pub. L. 96–195, Feb. 25, 1980, 94 Stat. 63; Pub. L. 99–59, July 3, 1985, 99 Stat. 110; Pub. L. 101–115, §7(b), Oct. 13, 1989, 103 Stat. 694; Pub. L. 104–106, title X, §1094, Feb. 10, 1996, 110 Stat. 461; Pub. L. 104–239, §12, Oct. 8, 1996, 110 Stat. 3134; Pub. L. 108–375, div. C, title XXXV, §3502(a), Oct. 28, 2004, 118 Stat. 2195.
 
-CHAPTER 541—MISCELLANEOUS 1
+CHAPTER 541—MISCELLANEOUS
 
-Sec 2
+Sec 1
 
         
 
 54101.
-Assistance for small shipyards and maritime communities 2
+Assistance for small shipyards and maritime communities 1
 
         
 
-Codification
+Prior Provisions
 
-This chapter was added by Pub. L. 110–417, div. C, title XXXV, §3508(a), Oct. 14, 2008, 122 Stat. 4767. Another chapter 541 was added by Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(A), Jan. 28, 2008, 122 Stat. 599, and is set out following this chapter.
+A prior chapter 541, Miscellaneous, consisting of section 54101 and relating to assistance for small shipyards and maritime communities, added by Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(A), Jan. 28, 2008, 122 Stat. 599, was repealed by Pub. L. 110–417, div. C, title XXXV, §3508(b), Oct. 14, 2008, 122 Stat. 4769, as amended by Pub. L. 111–84, div. A, title X, §1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
-1 See Codification note below.
-
-2 So in original.
+1 So in original.
 Probably should be followed by a period.
 
-§54101.1 Assistance for small shipyards and maritime communities
+§54101. Assistance for small shipyards and maritime communities
 
 (a) Establishment of Program.—Subject to the availability of appropriations, the Administrator of the Maritime Administration shall execute agreements with shipyards to provide assistance—
 
@@ -24326,7 +24484,7 @@ Probably should be followed by a period.
 
 (2) Minimum standards for payment or reimbursement.—Each application submitted under paragraph (1) shall include—
 
-(A) 2 a comprehensive description of—
+(A) 1 a comprehensive description of—
 
 (i) the need for the project;
 
@@ -24362,122 +24520,11 @@ Probably should be followed by a period.
 
 (Added Pub. L. 110–417, div. C, title XXXV, §3508(a), Oct. 14, 2008, 122 Stat. 4767.)
 
-1 Another section 54101 is set out in the chapter 541 following this chapter.
+Prior Provisions
 
-2 So in original.
-There is no subpar. (B).
+A prior section 54101, added and amended Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(B)–(D), Jan. 28, 2008, 122 Stat. 599, which related to assistance for small shipyards and maritime communities, was repealed by Pub. L. 110–417, div. C, title XXXV, §3508(b), Oct. 14, 2008, 122 Stat. 4769, as amended by Pub. L. 111–84, div. A, title X, §1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
-CHAPTER 541—MISCELLANEOUS 1
-
-Sec 2
-
-        
-
-54101.
-Assistance for small shipyards and maritime communities 2
-
-        
-
-Codification
-
-This chapter was added by Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(A), Jan. 28, 2008, 122 Stat. 599. Another chapter 541 was added by Pub. L. 110–417, div. C, title XXXV, §3508(a), Oct. 14, 2008, 122 Stat. 4767, and is set out preceding this chapter.
-
-1 See Codification note below.
-
-2 So in original.
-Probably should be followed by a period.
-
-§54101.1 Assistance for small shipyards and maritime communities
-
-(a) Establishment of Program.—Subject to the availability of appropriations, the Administrator of the Maritime Administration shall establish a program to provide assistance to State and local governments—
-
-(1) to provide assistance in the form of grants, loans, and loan guarantees to small shipyards for capital improvements; and
-
-(2) for maritime training programs in communities whose economies are substantially related to the maritime industry.
-
-(b) Awards.—In providing assistance under the program, the Administrator shall—
-
-(1) take into account—
-
-(A) the economic circumstances and conditions of maritime communities; and
-
-(B) the local, State, and regional economy in which the communities are located; and
-
-(2) strongly encourage State, local, and regional efforts to promote economic development and training that will enhance the economic viability of and quality of life in maritime communities.
-
-(c) Use of Funds.—Assistance provided under this section may be used—
-
-(1) to make capital and related improvements in small shipyards located in or near maritime communities;
-
-(2) to encourage, assist in, or provide training for residents of maritime communities that will enhance the economic viability of those communities; and
-
-(3) for such other purposes as the Administrator determines to be consistent with and supplemental to such activities.
-
-(d) Prohibited Uses.—Grants awarded under this section may not be used to construct buildings or other physical facilities or to acquire land unless such use is specifically approved by the Administrator in support of subsection (c)(3).
-
-(e) Matching Requirements.—
-
-(1) Federal funding.—Except as provided in paragraph (2), Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
-
-(2) Exceptions.—
-
-(A) Small projects.—Paragraph (1) shall not apply to grants under this section for stand alone projects costing not more than $25,000. The amount under this subparagraph shall be indexed to the consumer price index and modified each fiscal year after the annual publication of the consumer price index.
-
-(B) Reduction in matching requirement.—If the Administrator determines that a proposed project merits support and cannot be undertaken without a higher percentage of Federal financial assistance, the Administrator may award a grant for such project with a lesser matching requirement than is described in paragraph (1).
-
-(f) Application.—
-
-(1) In general.—The Administrator shall determine who, as an eligible applicant, may submit an application, at such time, in such form, and containing such information and assurances as the Administrator may require.
-
-(2) Minimum standards for payment or reimbursement.—Each application submitted under paragraph (1) shall include—
-
-(A) 2 a comprehensive description of—
-
-(i) the need for the project;
-
-(ii) the methodology for implementing the project; and
-
-(iii) any existing programs or arrangements that can be used to supplement or leverage assistance under the program.
-
-(3) Procedural safeguards.—The Administrator, in consultation with the Office of the Inspector General, shall issue guidelines to establish appropriate accounting, reporting, and review procedures to ensure that—
-
-(A) grant funds are used for the purposes for which they were made available;
-
-(B) grantees have properly accounted for all expenditures of grant funds; and
-
-(C) grant funds not used for such purposes and amounts not obligated or expended are returned.
-
-(4) Project approval required.—The Administrator may not award a grant under this section unless the Administrator determines that—
-
-(A) sufficient funding is available to meet the matching requirements of subsection (e);
-
-(B) the project will be completed without unreasonable delay; and
-
-(C) the recipient has authority to carry out the proposed project.
-
-(g) Audits and Examinations.—All grantees under this section shall maintain such records as the Administrator may require and make such records available for review and audit by the Administrator.
-
-(h) Small Shipyard Defined.—In this section, the term “small shipyard” means a shipyard that—
-
-(1) is a small business concern (within the meaning of section 3 of the Small Business Act (15 U.S.C. 632)); and
-
-(2) does not have more than 600 employees.
-
-(i) Authorization of Appropriations.—There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2006 through 2010 to carry out this section—
-
-(1) $5,000,000 for training grants; and
-
-(2) $25,000,000 for capital and related improvement grants.
-
-(Added and amended Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(B)–(D), Jan. 28, 2008, 122 Stat. 599.)
-
-Codification
-
-Section based on Pub. L. 109–163, div. C, title XXXV, §3506, Jan. 6, 2006, 119 Stat. 3553, formerly set out as a note under section 53101 of this title, which was transferred to this chapter, renumbered as this section, and amended by Pub. L. 110–181, §3523(a)(6)(B)–(D). See 2008 Amendment note below.
-
-1 Another section 54101 is set out in the chapter 541 preceding this chapter.
-
-2 So in original.
+1 So in original.
 There is no subpar. (B).
 
 Part D—Promotional Programs
@@ -25499,7 +25546,7 @@ The requirements for transportation on vessels of the United States under this s
 
 (5) Nonavailability of vessels.—A determination of nonavailability of vessels of the United States resulting from the application of this subsection may not reduce the gross tonnage of commodities required by this section and section 55305 of this title to be transported on vessels of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1645; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 110–417, div. C, title XXXV, §3511(d), Oct. 14, 2008, 122 Stat. 4770.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1645; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 110–417, div. C, title XXXV, §3511(d), Oct. 14, 2008, 122 Stat. 4770; Pub. L. 111–84, div. A, title X, §1073(c)(15), Oct. 28, 2009, 123 Stat. 2475.)
 
 Historical and Revision Notes	Revised Section
 
@@ -25867,7 +25914,26 @@ The Secretary shall—
 
 (3) encourage groups of States and multi-State transportation entities to determine how short sea transportation can address congestion, bottlenecks, and other interstate transportation challenges.
 
-(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760.)
+(g) Grants.—
+
+(1) In general.—The Secretary shall establish and implement a short sea transportation grant program to implement projects or components of a project designated under subsection (d).
+
+(2) Applications.—In order to receive a grant under the program, an applicant shall—
+
+(A) submit an application to the Secretary, in such form and manner, at such time, and containing such information as the Secretary may require; and
+
+(B) demonstrate to the satisfaction of the Secretary that—
+
+(i) the project is financially viable;
+
+(ii) the funds received will be spent efficiently and effectively; and
+
+(iii) a market exists for the services of the proposed project as evidenced by contracts or written statements of intent from potential customers.
+
+(3) Non-federal share.—An applicant shall provide at least 20 percent of the project costs from non-Federal sources.
+In awarding grants under the program, the Secretary shall give a preference to those projects or components that present the most financially viable transportation services and require the lowest percentage Federal share of the costs.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760; amended Pub. L. 111–84, div. C, title XXXV, §3515, Oct. 28, 2009, 123 Stat. 2724.)
 
 Effective Date
 
@@ -28952,13 +29018,25 @@ The vulnerability assessment shall include the following:
 
 (B) The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete background check of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
 
-(d) Nondisclosure of Information.—Notwithstanding any other provision of law, information developed under this chapter is not required to be disclosed to the public, including—
+(d) Nondisclosure of Information.—
 
-(1) facility security plans, vessel security plans, and port vulnerability assessments; and
+(1) In general.—Information developed under this section or sections 70102, 70104, and 70108 is not required to be disclosed to the public, including—
 
-(2) other information related to security plans, procedures, or programs for vessels or facilities authorized under this chapter.
+(A) facility security plans, vessel security plans, and port vulnerability assessments; and
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896.)
+(B) other information related to security plans, procedures, or programs for vessels or facilities authorized under this section or sections 70102, 70104, and 70108.
+
+(2) Limitations.—Nothing in paragraph (1) shall be construed to authorize the designation of information as sensitive security information (as defined in section 1520.5 of title 49, Code of Federal Regulations)—
+
+(A) to conceal a violation of law, inefficiency, or administrative error;
+
+(B) to prevent embarrassment to a person, organization, or agency;
+
+(C) to restrain competition; or
+
+(D) to prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896; Pub. L. 111–83, title V, §561(b), Oct. 28, 2009, 123 Stat. 2182.)
 
 Transfer of Functions
 
@@ -29639,6 +29717,18 @@ The Secretary, in coordination with the Secretary of State and in consultation w
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title II, §233(b), Oct. 13, 2006, 120 Stat. 1917.)
 
+§70111. Enhanced crewmember identification
+
+(a) Requirement.—Not later than 1 year after the date of enactment of the SAFE Port Act, the Secretary, in consultation with the Attorney General and the Secretary of State, shall require crewmembers on vessels calling at United States ports to carry and present on demand any identification that the Secretary decides is necessary.
+
+(b) Forms and Process.—Not later than 1 year after the date of enactment of the SAFE Port Act, the Secretary, in consultation with the Attorney General and the Secretary of State, shall establish the proper forms and process that shall be used for identification and verification of crewmembers.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title I, §110, Oct. 13, 2006, 120 Stat. 1893.)
+
+References in Text
+
+The date of enactment of the SAFE Port Act, referred to in subsecs. (a) and (b), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
+
 International Seafarer Identification
 
 Pub. L. 107–295, title I, §103, Nov. 25, 2002, 116 Stat. 2084, provided that:
@@ -29907,6 +29997,24 @@ Codification
 
 Another section 70119 was renumbered section 70118 of this title.
 
+§70120. In rem liability for civil penalties and certain costs
+
+(a) Civil Penalties.—Any vessel operated in violation of this chapter or any regulations prescribed under this chapter shall be liable in rem for any civil penalty assessed pursuant to section 70119 for such violation, and may be proceeded against for such liability in the United States district court for any district in which the vessel may be found.
+
+(b) Reimbursable Costs of Service Providers.—A vessel shall be liable in rem for the reimbursable costs incurred by any service provider related to implementation and enforcement of this chapter and arising from a violation by the operator of the vessel of this chapter or any regulations prescribed under this chapter, and may be proceeded against for such liability in the United States district court for any district in which such vessel may be found.
+
+(c) Definitions.—In this subsection—
+
+(1) the term “reimbursable costs” means costs incurred by any service provider acting in conformity with a lawful order of the Federal government or in conformity with the instructions of the vessel operator; and
+
+(2) the term “service provider” means any port authority, facility or terminal operator, shipping agent, Federal, State, or local government agency, or other person to whom the management of the vessel at the port of supply is entrusted, for—
+
+(A) services rendered to or in relation to vessel crew on board the vessel, or in transit to or from the vessel, including accommodation, detention, transportation, and medical expenses; and
+
+(B) required handling of cargo or other items on board the vessel.
+
+(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120 and amended Pub. L. 109–241, title IX, §901(l)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+
 Construction of 2006 Amendment
 
 Provisions of Pub. L. 109–304 repealed by section 3529(c)(1) of Pub. L. 110–181 to be treated as if never enacted, see section 3529(c)(2) of Pub. L. 110–181, set out as a note under section 9504 of Title 26, Internal Revenue Code.
@@ -30084,6 +30192,36 @@ References in Text
 
 The Maritime Transportation Security Act of 2002, referred to in subsec. (a), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. Title I of the Act enacted subtitle VI (now subtitle VII) of this title, amended section 1802 of the former Appendix to this title, sections 661 and 724 of Title 14, Coast Guard, section 1431a of Title 19, Customs Duties, sections 1226, 1501 to 1504, 1507, and 1520 of Title 33, Navigation and Navigable Waters, and sections 192 and 195 of Title 50, War and National Defense, enacted provisions set out as notes under sections 70101, 70103, 70104, 70111, 70114, and 70116 of this title and sections 1226 and 1504 of Title 33, amended provisions set out as a note under section 2071 of Title 19, and repealed provisions set out as a note under section 2071 of Title 19. For complete classification of title I to the Code, see Tables.
 
+CHAPTER 705—MARITIME DRUG LAW ENFORCEMENT
+
+Sec.
+
+70501.
+Findings and declarations.
+
+70502.
+Definitions.
+
+70503.
+Manufacture, distribution, or possession of controlled substances on vessels.
+
+70504.
+Jurisdiction and venue.
+
+70505.
+Failure to comply with international law as a defense.
+
+70506.
+Penalties.
+
+70507.
+Forfeitures.
+
+70508.
+Operation of submersible vessel or semi-submersible vessel without nationality 1
+
+        
+
 1 So in original.
 Probably should be followed by a period.
 
@@ -30185,61 +30323,6 @@ The words “or a territory, commonwealth, or possession of the United States”
 In subsection (b)(3), the words “placed under foreign registry, or operated under the authority of a foreign nation” are substituted for “placed under foreign registry or foreign flag” because of the definition of “foreign vessel” in chapter 1 of the revised title.
 
 In subsection (d)(1)(B), the word “authorized” is substituted for “empowered” for consistency with subsection (b)(2)(B).
-
-§70503. Manufacture, distribution, or possession of controlled substances on vessels
-
-(a) Prohibitions.—An individual may not knowingly or intentionally manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance on board—
-
-(1) a vessel of the United States or a vessel subject to the jurisdiction of the United States; or
-
-(2) any vessel if the individual is a citizen of the United States or a resident alien of the United States.
-
-(b) Extension Beyond Territorial Jurisdiction.—Subsection (a) applies even though the act is committed outside the territorial jurisdiction of the United States.
-
-(c) Nonapplication.—
-
-(1) In general.—Subject to paragraph (2), subsection (a) does not apply to—
-
-(A) a common or contract carrier or an employee of the carrier who possesses or distributes a controlled substance in the lawful and usual course of the carrier's business; or
-
-(B) a public vessel of the United States or an individual on board the vessel who possesses or distributes a controlled substance in the lawful course of the individual's duties.
-
-(2) Entered in manifest.—Paragraph (1) applies only if the controlled substance is part of the cargo entered in the vessel's manifest and is intended to be imported lawfully into the country of destination for scientific, medical, or other lawful purposes.
-
-(d) Burden of Proof.—The United States Government is not required to negative a defense provided by subsection (c) in a complaint, information, indictment, or other pleading or in a trial or other proceeding.
-The burden of going forward with the evidence supporting the defense is on the person claiming its benefit.
-
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1687.)
-
-Historical and Revision Notes	Revised Section
-
-	Source (U.S. Code)	Source (Statutes at Large)
-	70503(a)	46 App.:1903(a).	Pub. L. 96–350, §3(a), (e), (h), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title III, §3202, Oct. 27, 1986, 100 Stat. 3207–95, 3207–96, 3207–97; Pub. L. 99–640, §17, Nov. 10, 1986, 100 Stat. 3552, 3554; Pub. L. 100–690, title VII, §7402(a), Nov. 18, 1988, 102 Stat. 4483.
-	70503(b)	46 App.:1903(h).	
-	70503(c)	46 App.:1903(e) (1st sentence).	
-	70503(d)	46 App.:1903(e) (last sentence).	
-
-In subsection (a), before paragraph (1), the words “may not” are substituted for “It is unlawful for” for consistency in the revised title and to eliminate unnecessary words.
-
-In subsection (b), the words “applies to” are substituted for “is intended to reach” for clarity and to eliminate unnecessary words.
-
-§70504. Jurisdiction and venue
-
-(a) Jurisdiction.—Jurisdiction of the United States with respect to a vessel subject to this chapter is not an element of an offense.
-Jurisdictional issues arising under this chapter are preliminary questions of law to be determined solely by the trial judge.
-
-(b) Venue.—A person violating section 70503 or 70508 of this title shall be tried in the district court of the United States for—
-
-(1) the district at which the person enters the United States; or
-
-(2) the District of Columbia.
-
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1688; Pub. L. 110–407, title II, §202(b)(2), Oct. 13, 2008, 122 Stat. 4300.)
-
-Historical and Revision Notes	Revised Section
-
-	Source (U.S. Code)	Source (Statutes at Large)
-	70504	46 App.:1903(f).	Pub. L. 96–350, §3(f), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title III, §3202, Oct. 27, 1986, 100 Stat. 3207–97; Pub. L. 99–640, §17, Nov. 10, 1986, 100 Stat. 3554; Pub. L. 104–324, §1138(a)(5), Oct. 19, 1996, 110 Stat. 3989.
 
 §70505. Failure to comply with international law as a defense
 

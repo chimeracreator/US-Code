@@ -654,7 +654,7 @@ It is the sense of the Congress that—
 
 The Congress finds and declares that—
 
-(1) during the past 2 decades, the production of geologic maps has been drastically curtailed;
+(1) although significant progress has been made in the production of geologic maps since the establishment of the national cooperative geologic mapping program in 1992, no modern, digital, geologic map exists for approximately 75 percent of the United States;
 
 (2) geologic maps are the primary data base for virtually all applied and basic earth-science investigations, including—
 
@@ -662,11 +662,11 @@ The Congress finds and declares that—
 
 (B) screening and characterizing sites for toxic and nuclear waste disposal;
 
-(C) land use evaluation and planning for environmental protection;
+(C) land use evaluation and planning for homeland and environmental protection;
 
 (D) earthquake hazards reduction;
 
-(E) predicting volcanic hazards;
+(E) identifying volcanic hazards;
 
 (F) design and construction of infrastructure requirements such as utility lifelines, transportation corridors, and surface-water impoundments;
 
@@ -674,9 +674,11 @@ The Congress finds and declares that—
 
 (H) mitigating effects of coastal and stream erosion;
 
-(I) siting of critical facilities; and
+(I) siting of critical facilities;
 
-(J) basic earth-science research;
+(J) recreation and public awareness; and
+
+(K) basic earth-science research;
 
 (3) Federal agencies, State and local governments, private industry, and the general public depend on the information provided by geologic maps to determine the extent of potential environmental damage before embarking on projects that could lead to preventable, costly environmental problems or litigation;
 
@@ -690,19 +692,19 @@ The Congress finds and declares that—
 
 (8) geologic map information is required for the sustainable and balanced development of natural resources of all types, including energy, minerals, land, water, and biological resources;
 
-(9) advances in digital technology and geographical information system science have made geologic map databases increasingly important as decision support tools for land and resource management; and
+(9) advances in digital technology and geographical information system science have made geologic map databases increasingly available as decision support tools for land and resource management; and
 
 (10) a comprehensive nationwide program of geologic mapping of surficial and bedrock deposits is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand.
 
 (b) Purpose
 
-The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection.
+The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection and management.
 
-(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719.)
+(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719; Pub. L. 111–11, title XI, §11001(a), (b), Mar. 30, 2009, 123 Stat. 1414.)
 
 References in Text
 
-Sections 31a to 31h of this title, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 102–285, which is classified principally to sections 31a to 31h of this title.
+Sections 31a to 31h of this title, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title.
 For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Short Title of 1999 Amendment
@@ -785,6 +787,11 @@ The term “Survey” means the United States Geological Survey.
 
 (Pub. L. 102–285, §3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, §3(a), Aug. 5, 1997, 111 Stat. 1107; Pub. L. 106–148, §3, Dec. 9, 1999, 113 Stat. 1719.)
 
+References in Text
+
+Sections 31a to 31h of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.
+
 1 So in original.
 Probably should be section “31c(d)(3)”.
 
@@ -819,11 +826,11 @@ The cooperative geologic mapping program shall be—
 The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program.
 In carrying out this paragraph, the Secretary, acting through the Director, shall—
 
-(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after December 9, 1999;
+(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009;
 
-(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after December 9, 1999, in accordance with section 31d of this title; and
+(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 30, 2009, in accordance with section 31d of this title; and
 
-(C) not later than 3 years after December 9, 1999, and biennially thereafter, submit a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
+(C) submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
 
 (i) how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;
 
@@ -845,7 +852,7 @@ The objectives of the geologic mapping program shall include—
 
 (1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
 
-(2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that provide value-added descriptive and interpretative information to the geologic-map data base;
+(2) development of a complementary national geochronologic and paleontologic data base that provides value-added descriptive and interpretative information to the geologic-map data base;
 
 (3) application of cost-effective mapping techniques that assemble, produce, translate and disseminate geologic-map information and that render such information of greater application and benefit to the public; and
 
@@ -867,9 +874,11 @@ For the Federal component, mapping priorities—
 
 (ii) shall be based on—
 
-(I) national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need; and
+(I) national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need;
 
-(II) national requirements for geologic map information in areas where mapping is required to solve critical earth science problems.
+(II) national requirements for geologic map information in areas where mapping is required to solve critical earth science problems; and
+
+(III) the needs of land management agencies of the Department of the Interior.
 
 (C) Interdisciplinary studies
 
@@ -951,7 +960,7 @@ The Survey and recipients of grants under the education component shall not use 
 
 The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415.)
 
 Change of Name
 
@@ -963,15 +972,15 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (1) In general
 
-There shall be established a 10-member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program.
+There shall be established a 11-member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program.
 
 (2) Members ex officio
 
-Federal agency members shall include the Administrator of the Environmental Protection Agency or a designee, the Secretary of Energy or a designee, the Secretary of Agriculture or a designee, and the Assistant to the President for Science and Technology or a designee.
+Federal agency members shall include the Administrator of the Environmental Protection Agency or a designee, the Secretary of the Interior or a designee from a land management agency of the Department of the Interior, the Secretary of Energy or a designee, and the Secretary of Agriculture or a designee.
 
 (3) Appointed members
 
-Not later than 1 year after December 9, 1999, in consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Chief Geologist, as Chairman), two representatives from the State geological surveys, one representative from academia, and one representative from the private sector.
+In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Geology, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.
 
 (b) Duties
 
@@ -979,11 +988,13 @@ The advisory committee shall—
 
 (1) review and update the 5-year plan prepared by the Director pursuant to section 31e of this title;
 
-(2) review the scientific progress of the geologic mapping program; and
+(2) review the scientific progress of the geologic mapping program;
 
-(3) submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 31c through 31f of this title.
+(3) provide a scientific overview of geologic maps (including maps of geologic-based hazards) used or disseminated by Federal agencies for regulation or land-use planning; and
 
-(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §5, Dec. 9, 1999, 113 Stat. 1722.)
+(4) submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 31c through 31f of this title.
+
+(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §5, Dec. 9, 1999, 113 Stat. 1722; Pub. L. 111–11, title XI, §11001(f), Mar. 30, 2009, 123 Stat. 1415.)
 
 Termination of Advisory Committees
 
@@ -1045,13 +1056,13 @@ A prior section 31e, Pub. L. 102–285, §6, May 18, 1992, 106 Stat. 170; Pub. L
 
 (1) In general
 
-The Survey shall establish a national geologic map database.
+The Survey shall establish a national geologic-map database.
 
 (2) Function
 
 The database shall serve as a national catalog and archive, distributed through links to Federal and State geologic map holdings, that includes—
 
-(A) all maps developed under the Federal component and the education component;
+(A) all maps developed with funding provided by the National Cooperative Geologic Mapping Program, including under the Federal, State, and education components;
 
 (B) the databases developed in connection with investigations under subclauses (III), (IV), and (V) of section 31c(d)(1)(C)(ii) of this title; and
 
@@ -1068,7 +1079,7 @@ Reg. 17,671 (1994)), which established the National Spatial Data Infrastructure.
 
 Entities that contribute geologic maps to the national archives shall develop the standards described in paragraph (1) in cooperation with the Federal Geographic Data Committee, which is charged with standards development and other data coordination activities as described in Office of Management and Budget revised Circular A–16.
 
-(Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §7, Dec. 9, 1999, 113 Stat. 1723.)
+(Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §7, Dec. 9, 1999, 113 Stat. 1723; Pub. L. 111–11, title XI, §11001(g), Mar. 30, 2009, 123 Stat. 1415.)
 
 References in Text
 
@@ -1076,7 +1087,7 @@ Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under
 
 §31g. Biennial report
 
-Not later 3 1 years after December 9, 1999, and biennially thereafter, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
+Not later than 3 years after March 30, 2009, and biennially thereafter, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
 
 (1) describes the status of the national geologic mapping program;
 
@@ -1084,7 +1095,7 @@ Not later 3 1 years after December 9, 1999, and biennially thereafter, the Secr
 
 (3) includes any recommendations that the Secretary may have for legislative or other action to achieve the purposes of sections 31c through 31f of this title.
 
-(Pub. L. 102–285, §8, as added Pub. L. 106–148, §8, Dec. 9, 1999, 113 Stat. 1724.)
+(Pub. L. 102–285, §8, as added Pub. L. 106–148, §8, Dec. 9, 1999, 113 Stat. 1724; amended Pub. L. 111–11, title XI, §11001(h), Mar. 30, 2009, 123 Stat. 1415.)
 
 Prior Provisions
 
@@ -1094,38 +1105,26 @@ Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-1 So in original.
-Probably should be preceded by “than”.
-
 §31h. Authorization of appropriations
 
 (a) In general
 
-There are authorized to be appropriated to carry out sections 31a to 31h of this title—
-
-(1) $28,000,000 for fiscal year 1999;
-
-(2) $30,000,000 for fiscal year 2000;
-
-(3) $37,000,000 for fiscal year 2001;
-
-(4) $43,000,000 for fiscal year 2002;
-
-(5) $50,000,000 for fiscal year 2003;
-
-(6) $57,000,000 for fiscal year 2004; and
-
-(7) $64,000,000 for fiscal year 2005.
+There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2018.
 
 (b) Allocation of appropriations
 
-Of any amounts appropriated for any fiscal year in excess of the amount appropriated for fiscal year 2000—
+Of any amounts appropriated for any fiscal year in excess of the amount appropriated for fiscal year 2005—
 
-(1) 48 percent shall be available for the State component; and
+(1) 50 percent shall be available for the State component; and
 
-(2) 2 percent shall be available for the education component.
+(2) 4 percent shall be available for the education component.
 
-(Pub. L. 102–285, §9, as added Pub. L. 106–148, §9, Dec. 9, 1999, 113 Stat. 1724.)
+(Pub. L. 102–285, §9, as added Pub. L. 106–148, §9, Dec. 9, 1999, 113 Stat. 1724; amended Pub. L. 111–11, title XI, §11001(i), Mar. 30, 2009, 123 Stat. 1416.)
+
+References in Text
+
+Sections 31a to 31h of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.
 
 Prior Provisions
 
@@ -1460,7 +1459,7 @@ May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this ti
 
 The share of the United States Geological Survey in any topographic mapping or water resources data collection and investigations carried on in cooperation with any State or municipality shall not exceed 50 per centum of the cost thereof.
 
-(Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2108.)
+(Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2913.)
 
 Codification
 
@@ -1469,6 +1468,10 @@ Section text is based on act July 31, 1953, ch. 298, title I, §1, 67 Stat. 269,
 Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 710.
+
+Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2108.
 
 Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 510.
 
@@ -4275,29 +4278,6 @@ For complete classification of this Act to the Code, see Short Title note set ou
 
 Section 471 of title 16, referred to in text, was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
 
-Short Title
-
-Act June 28, 1934, which enacted this subchapter, is popularly known as the “Taylor Grazing Act”.
-
-1 See References in Text note below.
-
-§315a. Protection, administration, regulation, and improvement of districts; rules and regulations; study of erosion and flood control; offenses
-
-The Secretary of the Interior shall make provision for the protection, administration, regulation, and improvement of such grazing districts as may be created under the authority of section 315 of this title, and he shall make such rules and regulations and establish such service, enter into such cooperative agreements, and do any and all things necessary to accomplish the purposes of this subchapter and to insure the objects of such grazing districts, namely, to regulate their occupancy and use, to preserve the land and its resources from destruction or unnecessary injury, to provide for the orderly use, improvement, and development of the range; and the Secretary of the Interior is authorized to continue the study of erosion and flood control and to perform such work as may be necessary amply to protect and rehabilitate the areas subject to the provisions of this subchapter, through such funds as may be made available for that purpose, and any willful violation of the provisions of this subchapter or of such rules and regulations thereunder after actual notice thereof shall be punishable by a fine of not more than $500.
-
-(June 28, 1934, ch. 865, §2, 48 Stat. 1270.)
-
-§315b. Grazing permits; fees; vested water rights; permits not to create right in land
-
-The Secretary of the Interior is authorized to issue or cause to be issued permits to graze livestock on such grazing districts to such bona fide settlers, residents, and other stock owners as under his rules and regulations are entitled to participate in the use of the range, upon the payment annually of reasonable fees in each case to be fixed or determined from time to time in accordance with governing law.
-Grazing permits shall be issued only to citizens of the United States or to those who have filed the necessary declarations of intention to become such, as required by the naturalization laws, and to groups, associations, or corporations authorized to conduct business under the laws of the State in which the grazing district is located.
-Preference shall be given in the issuance of grazing permits to those within or near a district who are landowners engaged in the livestock business, bona fide occupants or settlers, or owners of water or water rights, as may be necessary to permit the proper use of lands, water or water rights owned, occupied, or leased by them, except that until July 1, 1935, no preference shall be given in the issuance of such permits to any such owner, occupant, or settler, whose rights were acquired between January 1, 1934, and December 31, 1934, both dates, inclusive, except that no permittee complying with the rules and regulations laid down by the Secretary of the Interior shall be denied the renewal of such permit, if such denial will impair the value of the grazing unit of the permittee, when such unit is pledged as security for any bona fide loan.
-Such permits shall be for a period of not more than ten years, subject to the preference right of the permittees to renewal in the discretion of the Secretary of the Interior, who shall specify from time to time numbers of stock and seasons of use.
-During periods of range depletion due to severe drought or other natural causes, or in case of a general epidemic of disease, during the life of the permit, the Secretary of the Interior is authorized, in his discretion to remit, reduce, refund in whole or in part, or authorize postponement of payment of grazing fees for such depletion period so long as the emergency exists: Provided further, That nothing in this subchapter shall be construed or administered in any way to diminish or impair any right to the possession and use of water for mining, agriculture, manufacture, or other purposes which has heretofore vested or accrued under existing law validly affecting the public lands or which may be hereafter initiated or acquired and maintained in accordance with such law.
-So far as consistent with the purposes and provisions of this subchapter, grazing privileges recognized and acknowledged shall be adequately safeguarded, but the creation of a grazing district or the issuance of a permit pursuant to the provisions of this subchapter shall not create any right, title, interest, or estate in or to the lands.
-
-(June 28, 1934, ch. 865, §3, 48 Stat. 1270; Aug. 6, 1947, ch. 507, §1, 61 Stat. 790; Pub. L. 94–579, title IV, §401(b)(3), Oct. 21, 1976, 90 Stat. 2773.)
-
 Savings Provision
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
@@ -5703,7 +5683,7 @@ El Paso Water Reclamation and Reuse Project.
 Reclaimed water in Pasadena.
 
 390h–12j.
-Phase 1 of Orange County Regional Water Reclamation Project.
+Orange County Regional Water Reclamation Project.
 
 390h–12k.
 City of West Jordan Water Reuse Project.
@@ -5781,6 +5761,30 @@ South Santa Clara County recycled water project.
 
 390h–31.
 South Bay advanced recycled water treatment facility.
+
+390h–32.
+Rancho California Water District project, California.
+
+390h–33.
+Elsinore Valley Municipal Water District projects, California.
+
+390h–34.
+North Bay Water Reuse Program.
+
+390h–35.
+Prado Basin natural treatment system project.
+
+390h–36.
+Lower Chino Dairy Area desalination demonstration and reclamation project.
+
+390h–37.
+Oxnard, California, water reclamation, reuse, and treatment project.
+
+390h–38.
+Yucaipa Valley regional water supply renewal project.
+
+390h–39.
+City of Corona Water Utility, California, water recycling and reuse project.
 
         
 
@@ -5920,6 +5924,13 @@ Advances as item of cost of construction and maintenance of project.
 Amounts collected from defaulting contractors and their sureties.
 
 402 to 404. Omitted or Repealed.
+
+        
+
+SUBCHAPTER II–A—RECLAMATION WATER SETTLEMENTS FUND
+
+407.
+Reclamation Water Settlements Fund.
 
         
 
@@ -6422,6 +6433,25 @@ Project beneficiaries.
 
         
 
+SUBCHAPTER XI–B—AGING INFRASTRUCTURE
+
+510.
+Definitions.
+
+510a.
+Guidelines and inspection of project facilities and technical assistance to transferred works operating entities.
+
+510b.
+Extraordinary operation and maintenance work performed by the Secretary.
+
+510c.
+Relationship to Twenty-First Century Water Works Act.
+
+510d.
+Authorization of appropriations.
+
+        
+
 SUBCHAPTER XII—CONTRACTS WITH STATE IRRIGATION DISTRICTS FOR PAYMENT OF CHARGES
 
 511.
@@ -6848,6 +6878,10 @@ References in Text
 
 Act June 17, 1902, referred to in par. (b), is popularly known as the Reclamation Act or National Irrigation Act of 1902, which is classified generally to this chapter.
 For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+Short Title of 2009 Amendment
+
+Pub. L. 111–11, title X, §10301, Mar. 30, 2009, 123 Stat. 1367, provided that: “This subtitle [subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting section 407, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under sections 407 and 620 of this title] may be cited as the ‘Northwestern New Mexico Rural Water Projects Act’.”
 
 Short Title of 1992 Amendment
 
@@ -7900,11 +7934,11 @@ Such program shall be limited to the States and areas referred to in section 1 o
 
 (c) Agreements and regulations
 
-The Secretary is authorized to enter into such agreements and promulgate such regulations as may be necessary to carry out the purposes and provisions of sections 390h to 390h–31 of this title.
+The Secretary is authorized to enter into such agreements and promulgate such regulations as may be necessary to carry out the purposes and provisions of sections 390h to 390h–39 of this title.
 
 (d) San Luis Unit of Central Valley Project, California
 
-The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–31 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
+The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–39 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
 
 (Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664; Pub. L. 106–566, title I, §104(a), Dec. 23, 2000, 114 Stat. 2819.)
 
@@ -7913,7 +7947,7 @@ References in Text
 The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to this chapter.
 For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–31 of this title.
+Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–39 of this title.
 
 Short Title of 2005 Amendment
 
@@ -7950,7 +7984,7 @@ Each such investigation shall take into account environmental considerations as 
 
 (b) Matters to be considered
 
-Appraisal investigations undertaken by the Secretary or the non-Federal project sponsor pursuant to sections 390h to 390h–31 of this title shall consider, among other things—
+Appraisal investigations undertaken by the Secretary or the non-Federal project sponsor pursuant to sections 390h to 390h–39 of this title shall consider, among other things—
 
 (1) all potential uses of reclaimed water, including, but not limited to, environmental restoration, fish and wildlife, groundwater recharge, municipal, domestic, industrial, agricultural, power generation, and recreation;
 
@@ -7964,7 +7998,7 @@ Appraisal investigations undertaken by the Secretary or the non-Federal project 
 
 (c) Consultation and cooperation
 
-The Secretary shall consult and cooperate with appropriate State, regional, and local authorities during the conduct of each appraisal investigation conducted pursuant to sections 390h to 390h–31 of this title.
+The Secretary shall consult and cooperate with appropriate State, regional, and local authorities during the conduct of each appraisal investigation conducted pursuant to sections 390h to 390h–39 of this title.
 
 (d) Nonreimbursable costs
 
@@ -7991,7 +8025,7 @@ The Federal share of feasibility studies, including those described in sections 
 
 (c) Matters to be considered
 
-In addition to the requirements of other Federal laws, feasibility studies conducted by the Secretary or the non-Federal project sponsor under sections 390h to 390h–31 of this title shall consider, among other things—
+In addition to the requirements of other Federal laws, feasibility studies conducted by the Secretary or the non-Federal project sponsor under sections 390h to 390h–39 of this title shall consider, among other things—
 
 (1) near- and long-term water demand and supplies in the study area;
 
@@ -8061,7 +8095,7 @@ The Technology Transfer Act of 1986, referred to in subsec. (a), is Pub. L. 99�
 (a) General authority
 
 The Secretary is authorized to conduct a study to assess the feasibility of a comprehensive water reclamation and reuse system for Southern California.
-For the purpose of sections 390h to 390h–31 of this title, the term “Southern California” means those portions of the counties of Imperial, Los Angeles, Orange, San Bernadino,1 Riverside, San Diego, and Ventura within the south coast and Colorado River hydrologic regions as defined by the California Department of Water Resources.
+For the purpose of sections 390h to 390h–39 of this title, the term “Southern California” means those portions of the counties of Imperial, Los Angeles, Orange, San Bernadino,1 Riverside, San Diego, and Ventura within the south coast and Colorado River hydrologic regions as defined by the California Department of Water Resources.
 
 (b) Cooperation with State; Federal share
 
@@ -8070,7 +8104,7 @@ The Federal share of the costs associated with this study shall not exceed 50 pe
 
 (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–31 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–39 of this title.
 
 (Pub. L. 102–575, title XVI, §1606, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
 
@@ -8175,7 +8209,7 @@ The Federal share of the costs of the study authorized by this section shall not
 
 (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than four years after appropriation of funds authorized by sections 390h to 390h–31 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than four years after appropriation of funds authorized by sections 390h to 390h–39 of this title.
 
 (Pub. L. 102–575, title XVI, §1609, Oct. 30, 1992, 106 Stat. 4666; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
 
@@ -8191,7 +8225,7 @@ The Federal share of the costs of the study authorized by this section shall not
 
 (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than two years after appropriation of funds authorized by sections 390h to 390h–31 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than two years after appropriation of funds authorized by sections 390h to 390h–39 of this title.
 
 (Pub. L. 102–575, title XVI, §1610, Oct. 30, 1992, 106 Stat. 4667; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
 
@@ -8207,7 +8241,7 @@ The Federal share of the costs of the study authorized by this section shall not
 
 (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than five years after appropriation of funds authorized by sections 390h to 390h–31 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than five years after appropriation of funds authorized by sections 390h to 390h–39 of this title.
 
 (Pub. L. 102–575, title XVI, §1611, Oct. 30, 1992, 106 Stat. 4667; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 104–266, §6, Oct. 9, 1996, 110 Stat. 3296.)
 
@@ -8401,11 +8435,11 @@ The Secretary shall not provide funds for the operation or maintenance of a proj
 
 (Pub. L. 102–575, title XVI, §1623, as added Pub. L. 104–266, §2(a)(2), Oct. 9, 1996, 110 Stat. 3292.)
 
-§390h–12j. Phase 1 of Orange County Regional Water Reclamation Project
+§390h–12j. Orange County Regional Water Reclamation Project
 
 (a) Authorization
 
-The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of phase 1 of the Orange County Regional Water Reclamation Project, to reclaim and reuse water within the service area of the Orange County Water District in California.
+The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the Orange County Regional Water Reclamation Project, to reclaim and reuse water within the service area of the Orange County Water District in California.
 
 (b) Cost share
 
@@ -8415,7 +8449,7 @@ The Federal share of the cost of a project described in subsection (a) of this s
 
 The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
 
-(Pub. L. 102–575, title XVI, §1624, as added Pub. L. 104–266, §2(a)(2), Oct. 9, 1996, 110 Stat. 3292.)
+(Pub. L. 102–575, title XVI, §1624, as added Pub. L. 104–266, §2(a)(2), Oct. 9, 1996, 110 Stat. 3292; amended Pub. L. 111–11, title IX, §9111(c), Mar. 30, 2009, 123 Stat. 1318.)
 
 §390h–12k. City of West Jordan Water Reuse Project
 
@@ -8521,7 +8555,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (b) Prerequisite cost-sharing agreement
 
-(1) Funds may not be appropriated for the construction of any project authorized by sections 390h to 390h–31 of this title until after—
+(1) Funds may not be appropriated for the construction of any project authorized by sections 390h to 390h–39 of this title until after—
 
 (A) an appraisal investigation and a feasibility study that complies with the provisions of sections 390h–1(b) or 390h–2(c) of this title, as the case may be, have been completed by the Secretary or the non-Federal project sponsor;
 
@@ -8529,7 +8563,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (C) the Secretary has approved a cost-sharing agreement with the non-Federal project sponsor which commits the non-Federal project sponsor to funding its proportionate share of the project's construction costs on an annual basis.
 
-(2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–31 of this title for which funds were appropriated prior to January 1, 1996.
+(2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–39 of this title for which funds were appropriated prior to January 1, 1996.
 
 (c) Congressional notification
 
@@ -8537,9 +8571,9 @@ The Secretary shall notify the Committees on Resources and Appropriations of the
 
 (d) Ceiling on Federal share
 
-(1) Notwithstanding any other provision of sections 390h to 390h–31 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–31 of this title shall not exceed $20,000,000 (October 1996 prices).
+(1) Notwithstanding any other provision of sections 390h to 390h–39 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–39 of this title shall not exceed $20,000,000 (October 1996 prices).
 
-(2)(A) Subject to subparagraph (B), in the case of any project authorized by sections 390h to 390h–31 of this title for which construction funds were appropriated before January 1, 1996, the Federal share of the cost of such project may not exceed the amount specified as the “total Federal obligation” for that project in the budget justification made by the Bureau of Reclamation for fiscal year 1997, as contained in part 3 of the report of the hearing held on March 27, 1996, before the Subcommittee on Energy and Water Development of the Committee on Appropriations of the House of Representatives.
+(2)(A) Subject to subparagraph (B), in the case of any project authorized by sections 390h to 390h–39 of this title for which construction funds were appropriated before January 1, 1996, the Federal share of the cost of such project may not exceed the amount specified as the “total Federal obligation” for that project in the budget justification made by the Bureau of Reclamation for fiscal year 1997, as contained in part 3 of the report of the hearing held on March 27, 1996, before the Subcommittee on Energy and Water Development of the Committee on Appropriations of the House of Representatives.
 
 (B) In the case of the San Gabriel Basin demonstration project authorized by section 390h–12 of this title, the Federal share of the cost of such project may not exceed the sum determined by adding—
 
@@ -8945,6 +8979,266 @@ The Secretary shall not provide funds for the operation and maintenance of the p
 There is authorized to be appropriated to carry out this section $8,250,000.
 
 (Pub. L. 102–575, title XVI, §1648, as added Pub. L. 110–229, title V, §512(a)(1), May 8, 2008, 122 Stat. 842.)
+
+§390h–32. Rancho California Water District project, California
+
+(a) Authorization
+
+The Secretary, in cooperation with the Rancho California Water District, California, may participate in the design, planning, and construction of permanent facilities for water recycling, demineralization, and desalination, and distribution of non-potable water supplies in Southern Riverside County, California.
+
+(b) Cost sharing
+
+The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project or $20,000,000, whichever is less.
+
+(c) Limitation
+
+Funds provided by the Secretary under this section shall not be used for operation or maintenance of the project described in subsection (a).
+
+(Pub. L. 102–575, title XVI, §1649, as added Pub. L. 111–11, title IX, §9104(a), Mar. 30, 2009, 123 Stat. 1303.)
+
+§390h–33. Elsinore Valley Municipal Water District projects, California
+
+(a) Authorization
+
+The Secretary, in cooperation with the Elsinore Valley Municipal Water District, California, may participate in the design, planning, and construction of permanent facilities needed to establish recycled water distribution and wastewater treatment and reclamation facilities that will be used to treat wastewater and provide recycled water in the Elsinore Valley Municipal Water District, California.
+
+(b) Cost sharing
+
+The Federal share of the cost of each project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
+
+(c) Limitation
+
+Funds provided by the Secretary under this section shall not be used for operation or maintenance of the projects described in subsection (a).
+
+(d) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section $12,500,000.
+
+(Pub. L. 102–575, title XVI, §1650, as added Pub. L. 111–11, title IX, §9109(a), Mar. 30, 2009, 123 Stat. 1315.)
+
+§390h–34. North Bay Water Reuse Program
+
+(a) Definitions
+
+In this section:
+
+(1) Eligible entity
+
+The term “eligible entity” means a member agency of the North Bay Water Reuse Authority of the State located in the North San Pablo Bay watershed in—
+
+(A) Marin County;
+
+(B) Napa County;
+
+(C) Solano County; or
+
+(D) Sonoma County.
+
+(2) Water reclamation and reuse project
+
+The term “water reclamation and reuse project” means a project carried out by the Secretary and an eligible entity in the North San Pablo Bay watershed relating to—
+
+(A) water quality improvement;
+
+(B) wastewater treatment;
+
+(C) water reclamation and reuse;
+
+(D) groundwater recharge and protection;
+
+(E) surface water augmentation; or
+
+(F) other related improvements.
+
+(3) State
+
+The term “State” means the State of California.
+
+(b) North Bay Water Reuse Program
+
+(1) In general
+
+Contingent upon a finding of feasibility, the Secretary, acting through a cooperative agreement with the State or a subdivision of the State, is authorized to enter into cooperative agreements with eligible entities for the planning, design, and construction of water reclamation and reuse facilities and recycled water conveyance and distribution systems.
+
+(2) Coordination with other Federal agencies
+
+In carrying out this section, the Secretary and the eligible entity shall, to the maximum extent practicable, use the design work and environmental evaluations initiated by—
+
+(A) non-Federal entities; and
+
+(B) the Corps of Engineers in the San Pablo Bay Watershed of the State.
+
+(3) Phased project
+
+A cooperative agreement described in paragraph (1) shall require that the North Bay Water Reuse Program carried out under this section shall consist of 2 phases as follows:
+
+(A) First phase
+
+During the first phase, the Secretary and an eligible entity shall complete the planning, design, and construction of the main treatment and main conveyance systems.
+
+(B) Second phase
+
+During the second phase, the Secretary and an eligible entity shall complete the planning, design, and construction of the sub-regional distribution systems.
+
+(4) Cost sharing
+
+(A) Federal share
+
+The Federal share of the cost of the first phase of the project authorized by this section shall not exceed 25 percent of the total cost of the first phase of the project.
+
+(B) Form of non-Federal share
+
+The non-Federal share may be in the form of any in-kind services that the Secretary determines would contribute substantially toward the completion of the water reclamation and reuse project, including—
+
+(i) reasonable costs incurred by the eligible entity relating to the planning, design, and construction of the water reclamation and reuse project; and
+
+(ii) the acquisition costs of land acquired for the project that is—
+
+(I) used for planning, design, and construction of the water reclamation and reuse project facilities; and
+
+(II) owned by an eligible entity and directly related to the project.
+
+(C) Limitation
+
+The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+
+(5) Effect
+
+Nothing in this section—
+
+(A) affects or preempts—
+
+(i) State water law; or
+
+(ii) an interstate compact relating to the allocation of water; or
+
+(B) confers on any non-Federal entity the ability to exercise any Federal right to—
+
+(i) the water of a stream; or
+
+(ii) any groundwater resource.
+
+(6) Authorization of appropriations
+
+There is authorized to be appropriated for the Federal share of the total cost of the first phase of the project authorized by this section $25,000,000, to remain available until expended.
+
+(Pub. L. 102–575, title XVI, §1651, as added Pub. L. 111–11, title IX, §9110(a), Mar. 30, 2009, 123 Stat. 1315.)
+
+§390h–35. Prado Basin natural treatment system project
+
+(a) In general
+
+The Secretary, in cooperation with the Orange County Water District, shall participate in the planning, design, and construction of natural treatment systems and wetlands for the flows of the Santa Ana River, California, and its tributaries into the Prado Basin.
+
+(b) Cost sharing
+
+The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
+
+(c) Limitation
+
+Funds provided by the Secretary shall not be used for the operation and maintenance of the project described in subsection (a).
+
+(d) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section $10,000,000.
+
+(e) Sunset of authority
+
+This section shall have no effect after the date that is 10 years after March 30, 2009.
+
+(Pub. L. 102–575, title XVI, §1652, as added Pub. L. 111–11, title IX, §9111(a)(1), Mar. 30, 2009, 123 Stat. 1317.)
+
+§390h–36. Lower Chino Dairy Area desalination demonstration and reclamation project
+
+(a) In general
+
+The Secretary, in cooperation with the Chino Basin Watermaster, the Inland Empire Utilities Agency, and the Santa Ana Watershed Project Authority and acting under the Federal reclamation laws, shall participate in the design, planning, and construction of the Lower Chino Dairy Area desalination demonstration and reclamation project.
+
+(b) Cost sharing
+
+The Federal share of the cost of the project described in subsection (a) shall not exceed—
+
+(1) 25 percent of the total cost of the project; or
+
+(2) $26,000,000.
+
+(c) Limitation
+
+Funds provided by the Secretary shall not be used for operation or maintenance of the project described in subsection (a).
+
+(d) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+(e) Sunset of authority
+
+This section shall have no effect after the date that is 10 years after March 30, 2009.
+
+(Pub. L. 102–575, title XVI, §1653, as added Pub. L. 111–11, title IX, §9111(b)(1), Mar. 30, 2009, 123 Stat. 1317.)
+
+References in Text
+
+The Federal reclamation laws, referred to in subsec. (a), are defined in section 390h(a) of this title.
+
+§390h–37. Oxnard, California, water reclamation, reuse, and treatment project
+
+(a) Authorization
+
+The Secretary, in cooperation with the City of Oxnard, California, may participate in the design, planning, and construction of Phase I permanent facilities for the GREAT project to reclaim, reuse, and treat impaired water in the area of Oxnard, California.
+
+(b) Cost share
+
+The Federal share of the costs of the project described in subsection (a) shall not exceed 25 percent of the total cost.
+
+(c) Limitation
+
+The Secretary shall not provide funds for the following:
+
+(1) The operations and maintenance of the project described in subsection (a).
+
+(2) The construction, operations, and maintenance of the visitor's center related to the project described in subsection (a).
+
+(d) Sunset of authority
+
+The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after March 30, 2009.
+
+(Pub. L. 102–575, title XVI, §1654, as added Pub. L. 111–11, title IX, §9113(a), Mar. 30, 2009, 123 Stat. 1319.)
+
+§390h–38. Yucaipa Valley regional water supply renewal project
+
+(a) Authorization
+
+The Secretary, in cooperation with the Yucaipa Valley Water District, may participate in the design, planning, and construction of projects to treat impaired surface water, reclaim and reuse impaired groundwater, and provide brine disposal within the Santa Ana Watershed as described in the report submitted under section 390h–4 of this title.
+
+(b) Cost sharing
+
+The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
+
+(c) Limitation
+
+Funds provided by the Secretary shall not be used for operation or maintenance of the project described in subsection (a).
+
+(d) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section $20,000,000.
+
+(Pub. L. 102–575, title XVI, §1655, as added Pub. L. 111–11, title IX, §9114(a), Mar. 30, 2009, 123 Stat. 1320.)
+
+§390h–39. City of Corona Water Utility, California, water recycling and reuse project
+
+(a) Authorization
+
+The Secretary, in cooperation with the City of Corona Water Utility, California, is authorized to participate in the design, planning, and construction of, and land acquisition for, a project to reclaim and reuse wastewater, including degraded groundwaters, within and outside of the service area of the City of Corona Water Utility, California.
+
+(b) Cost share
+
+The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+
+(c) Limitation
+
+The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+
+(Pub. L. 102–575, title XVI, §1656, as added Pub. L. 111–11, title IX, §9114(a), Mar. 30, 2009, 123 Stat. 1320.)
 
 SUBCHAPTER I–A—RECLAMATION REFORM
 
@@ -9678,6 +9972,274 @@ Section 403, acts May 12, 1933, ch. 25, title II, §36, 48 Stat. 49; June 16, 19
 
 Section 404, act May 12, 1933, ch. 25, title II, §37, 48 Stat. 50, related to advances by the former Reconstruction Finance Corporation.
 
+SUBCHAPTER II–A—RECLAMATION WATER SETTLEMENTS FUND
+
+§407. Reclamation Water Settlements Fund
+
+(a) Establishment
+
+There is established in the Treasury of the United States a fund, to be known as the “Reclamation Water Settlements Fund”, consisting of—
+
+(1) such amounts as are deposited to the Fund under subsection (b); and
+
+(2) any interest earned on investment of amounts in the Fund under subsection (d).
+
+(b) Deposits to Fund
+
+(1) In general
+
+For each of fiscal years 2020 through 2029, the Secretary of the Treasury shall deposit in the Fund, if available, $120,000,000 of the revenues that would otherwise be deposited for the fiscal year in the fund established by section 391 of this title.
+
+(2) Availability of amounts
+
+Amounts deposited in the Fund under paragraph (1) shall be made available pursuant to this section—
+
+(A) without further appropriation; and
+
+(B) in addition to amounts appropriated pursuant to any authorization contained in any other provision of law.
+
+(c) Expenditures from Fund
+
+(1) In general
+
+(A) Expenditures
+
+Subject to subparagraph (B), for each of fiscal years 2020 through 2034, the Secretary may expend from the Fund an amount not to exceed $120,000,000, plus the interest accrued in the Fund, for the fiscal year in which expenditures are made pursuant to paragraphs (2) and (3).
+
+(B) Additional expenditures
+
+The Secretary may expend more than $120,000,000 for any fiscal year if such amounts are available in the Fund due to expenditures not reaching $120,000,000 for prior fiscal years.
+
+(2) Authority
+
+The Secretary may expend money from the Fund to implement a settlement agreement approved by Congress that resolves, in whole or in part, litigation involving the United States, if the settlement agreement or implementing legislation requires the Bureau of Reclamation to provide financial assistance for, or plan, design, and construct—
+
+(A) water supply infrastructure; or
+
+(B) a project—
+
+(i) to rehabilitate a water delivery system to conserve water; or
+
+(ii) to restore fish and wildlife habitat or otherwise improve environmental conditions associated with or affected by, or located within the same river basin as, a Federal reclamation project that is in existence on March 30, 2009.
+
+(3) Use for completion of project and other settlements
+
+(A) Priorities
+
+(i) First priority
+
+(I) In general
+
+The first priority for expenditure of amounts in the Fund during the entire period in which the Fund is in existence shall be for the purposes described in, and in the order of, clauses (i) through (iv) of subparagraph (B).
+
+(II) Reserved amounts
+
+The Secretary shall reserve and use amounts deposited into the Fund in accordance with subclause (I).
+
+(ii) Other purposes
+
+Any amounts in the Fund that are not needed for the purposes described in subparagraph (B) may be used for other purposes authorized in paragraph (2).
+
+(B) Completion of project
+
+(i) Navajo-Gallup water supply project
+
+(I) In general
+
+Subject to subclause (II), effective beginning January 1, 2020, if, in the judgment of the Secretary on an annual basis the deadline described in section 10701(e)(1)(A)(ix) 1 is unlikely to be met because a sufficient amount of funding is not otherwise available through appropriations made available pursuant to section 10609(a),1 the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the costs, and substantially complete as expeditiously as practicable, the construction of the water supply infrastructure authorized as part of the Project.
+
+(II) Maximum amount
+
+(aa) In general
+
+Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $500,000,000 for the period of fiscal years 2020 through 2029.
+
+(bb) Exception
+
+The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (ii) through (iv).
+
+(ii) Other New Mexico settlements
+
+(I) In general
+
+Subject to subclause (II), effective beginning January 1, 2020, in addition to the funding made available under clause (i), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing the Indian water rights settlement agreements entered into by the State of New Mexico in the Aamodt adjudication and the Abeyta adjudication, if such settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
+
+(II) Maximum amount
+
+The amount expended under subclause (I) shall not exceed $250,000,000.
+
+(iii) Montana settlements
+
+(I) In general
+
+Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i) and (ii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing Indian water rights settlement agreements entered into by the State of Montana with the Blackfeet Tribe, the Crow Tribe, or the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Reservation in the judicial proceeding entitled “In re the General Adjudication of All the Rights to Use Surface and Groundwater in the State of Montana”, if a settlement or settlements are subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
+
+(II) Maximum amount
+
+(aa) In general
+
+Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $350,000,000 for the period of fiscal years 2020 through 2029.
+
+(bb) Exception
+
+The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clause (i), (ii), and (iv).
+
+(cc) Other funding
+
+The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
+
+(iv) Arizona settlement
+
+(I) In general
+
+Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i), (ii), and (iii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing an Indian water rights settlement agreement entered into by the State of Arizona with the Navajo Nation to resolve the water rights claims of the Nation in the Lower Colorado River basin in Arizona, if a settlement is subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
+
+(II) Maximum amount
+
+(aa) In general
+
+Except as provided under item (bb), the amount expended under subclause (I) shall not exceed $100,000,000 for the period of fiscal years 2020 through 2029.
+
+(bb) Exception
+
+The limitation on the expenditure amount under item (aa) may be exceeded during the entire period in which the Fund is in existence if such additional funds can be expended without limiting the amounts identified in clauses (i) through (iii).
+
+(cc) Other funding
+
+The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
+
+(C) Reversion
+
+If the settlements described in clauses (ii) through (iv) of subparagraph (B) have not been approved and authorized by an Act of Congress by December 31, 2019, the amounts reserved for the settlements shall no longer be reserved by the Secretary pursuant to subparagraph (A)(i) and shall revert to the Fund for any authorized use, as determined by the Secretary.
+
+(d) Investment of amounts
+
+(1) In general
+
+The Secretary shall invest such portion of the Fund as is not, in the judgment of the Secretary, required to meet current withdrawals.
+
+(2) Credits to Fund
+
+The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to, and form a part of, the Fund.
+
+(e) Transfers of amounts
+
+(1) In general
+
+The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
+
+(2) Adjustments
+
+Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+
+(f) Termination
+
+On September 30, 2034—
+
+(1) the Fund shall terminate; and
+
+(2) the unexpended and unobligated balance of the Fund shall be transferred to the appropriate fund of the Treasury.
+
+(Pub. L. 111–11, title X, §10501, Mar. 30, 2009, 123 Stat. 1375.)
+
+References in Text
+
+Section 10701(e)(1)(A)(ix), referred to in subsec. (c)(3)(B)(i)(I), is section 10701(e)(1)(A)(ix) of Pub. L. 111–11, which is set out as a note under section 620 of this title.
+
+Section 10609(a), referred to in subsec. (c)(3)(B)(i)(I), is section 10609(a) of title X of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1395, which is not classified to the Code.
+
+Compliance With Environmental Laws
+
+Pub. L. 111–11, title X, §10303, Mar. 30, 2009, 123 Stat. 1370, provided that:
+
+“(a) Effect of Execution of Agreement.—The execution of the Agreement under section 10701(a)(2) [43 U.S.C. 620 note] shall not constitute a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+“(b) Compliance With Environmental Laws.—In carrying out this subtitle [subtitle B (§§10301–10704) of title X of Pub. L. 111–11, see Definitions note below], the Secretary shall comply with each law of the Federal Government relating to the protection of the environment, including—
+
+“(1) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+
+“(2) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
+
+Definitions
+
+Pub. L. 111–11, title X, §10302, Mar. 30, 2009, 123 Stat. 1367, provided that: “In this subtitle [subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and sections 371 and 620 of this title]:
+
+“(1) Aamodt adjudication.—The term ‘Aamodt adjudication’ means the general stream adjudication that is the subject of the civil action entitled ‘State of New Mexico, ex rel.
+State Engineer and United States of America, Pueblo de Nambe, Pueblo de Pojoaque, Pueblo de San Ildefonso, and Pueblo de Tesuque v. R. Lee Aamodt, et al.’, No. 66 CV 6639 MV/LCS (D.N.M.).
+
+“(2) Abeyta adjudication.—The term ‘Abeyta adjudication’ means the general stream adjudication that is the subject of the civil actions entitled ‘State of New Mexico v. Abeyta and State of New Mexico v. Arrellano’, Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated).
+
+“(3) Acre-feet.—The term ‘acre-feet’ means acre-feet per year.
+
+“(4) Agreement.—The term ‘Agreement’ means the agreement among the State of New Mexico, the Nation, and the United States setting forth a stipulated and binding agreement signed by the State of New Mexico and the Nation on April 19, 2005.
+
+“(5) Allottee.—The term ‘allottee’ means a person that holds a beneficial real property interest in a Navajo allotment that—
+
+“(A) is located within the Navajo Reservation or the State of New Mexico;
+
+“(B) is held in trust by the United States; and
+
+“(C) was originally granted to an individual member of the Nation by public land order or otherwise.
+
+“(6) Animas-la plata project.—The term ‘Animas-La Plata Project’ has the meaning given the term in section 3 of Public Law 100–585 (102 Stat. 2973), including Ridges Basin Dam, Lake Nighthorse, the Navajo Nation Municipal Pipeline, and any other features or modifications made pursuant to the Colorado Ute Settlement Act Amendments of 2000 (Public Law 106–554; 114 Stat. 2763A–258).
+
+“(7) City.—The term ‘City’ means the city of Gallup, New Mexico, or a designee of the City, with authority to provide water to the Gallup, New Mexico service area.
+
+“(8) Colorado river compact.—The term ‘Colorado River Compact’ means the Colorado River Compact of 1922 as approved by Congress in the Act of December 21, 1928 (45 Stat. 1057) and by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000).
+
+“(9) Colorado river system.—The term ‘Colorado River System’ has the same meaning given the term in Article II(a) of the Colorado River Compact.
+
+“(10) Compact.—The term ‘Compact’ means the Upper Colorado River Basin Compact as consented to by the Act of April 6, 1949 (63 Stat. 31, chapter 48).
+
+“(11) Contract.—The term ‘Contract’ means the contract between the United States and the Nation setting forth certain commitments, rights, and obligations of the United States and the Nation, as described in paragraph 6.0 of the Agreement.
+
+“(12) Depletion.—The term ‘depletion’ means the depletion of the flow of the San Juan River stream system in the State of New Mexico by a particular use of water (including any depletion incident to the use) and represents the diversion from the stream system by the use, less return flows to the stream system from the use.
+
+“(13) Draft impact statement.—The term ‘Draft Impact Statement’ means the draft environmental impact statement prepared by the Bureau of Reclamation for the Project dated March 2007.
+
+“(14) Fund.—The term ‘Fund’ means the Reclamation Waters Settlements Fund established by section 10501(a) [43 U.S.C. 407(a)].
+
+“(15) Hydrologic determination.—The term ‘hydrologic determination’ means the hydrologic determination entitled ‘Water Availability from Navajo Reservoir and the Upper Colorado River Basin for Use in New Mexico,’ prepared by the Bureau of Reclamation pursuant to section 11 of the Act of June 13, 1962 (Public Law 87–483; 76 Stat. 99) [former 43 U.S.C. 615ss], and dated May 23, 2007.
+
+“(16) Lower basin.—The term ‘Lower Basin’ has the same meaning given the term in Article II(g) of the Colorado River Compact.
+
+“(17) Nation.—The term ‘Nation’ means the Navajo Nation, a body politic and federally-recognized Indian nation as provided for in section 101(2) [102(2)] of the Federally Recognized Indian Tribe List [Act] of 1994 (25 U.S.C. 497a(2) [479a(2)]), also known variously as the ‘Navajo Tribe,’ the ‘Navajo Tribe of Arizona, New Mexico & Utah,’ and the ‘Navajo Tribe of Indians’ and other similar names, and includes all bands of Navajo Indians and chapters of the Navajo Nation.
+
+“(18) Navajo-gallup water supply project; project.—The term ‘Navajo-Gallup Water Supply Project’ or ‘Project’ means the Navajo-Gallup Water Supply Project authorized under section 10602(a) [123 Stat. 1379], as described as the preferred alternative in the Draft Impact Statement.
+
+“(19) Navajo indian irrigation project.—The term ‘Navajo Indian Irrigation Project’ means the Navajo Indian irrigation project authorized by section 2 of Public Law 87–483 (76 Stat. 96) [former 43 U.S.C. 615jj].
+
+“(20) Navajo reservoir.—The term ‘Navajo Reservoir’ means the reservoir created by the impoundment of the San Juan River at Navajo Dam, as authorized by the Act of April 11, 1956 (commonly known as the ‘Colorado River Storage Project Act’) (43 U.S.C. 620 et seq.).
+
+“(21) Navajo nation municipal pipeline; pipeline.—The term ‘Navajo Nation Municipal Pipeline’ or ‘Pipeline’ means the pipeline used to convey the water of the Animas-La Plata Project of the Navajo Nation from the City of Farmington, New Mexico, to communities of the Navajo Nation located in close proximity to the San Juan River Valley in the State of New Mexico (including the City of Shiprock), as authorized by section 15(b) of the Colorado Ute Indian Water Rights Settlement Act of 1988 (Public Law 100–585; 102 Stat. 2973; 114 Stat. 2763A–263).
+
+“(22) Non-navajo irrigation districts.—The term ‘Non-Navajo Irrigation Districts’ means—
+
+“(A) the Hammond Conservancy District;
+
+“(B) the Bloomfield Irrigation District; and
+
+“(C) any other community ditch organization in the San Juan River basin in the State of New Mexico.
+
+“(23) Partial final decree.—The term ‘Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth the rights of the Nation to use and administer waters of the San Juan River Basin in New Mexico, as set forth in Appendix 1 of the Agreement.
+
+“(24) Project participants.—The term ‘Project Participants’ means the City, the Nation, and the Jicarilla Apache Nation.
+
+“(25) San juan river basin recovery implementation program.—The term ‘San Juan River Basin Recovery Implementation Program’ means the intergovernmental program established pursuant to the cooperative agreement dated October 21, 1992 (including any amendments to the program).
+
+“(26) Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Commissioner of Reclamation or any other designee.
+
+“(27) Stream adjudication.—The term ‘stream adjudication’ means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–185 (11th Jud.
+Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
+
+“(28) Supplemental partial final decree.—The term ‘Supplemental Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth certain water rights of the Nation, as set forth in Appendix 2 of the Agreement.
+
+“(29) Trust fund.—The term ‘Trust Fund’ means the Navajo Nation Water Resources Development Trust Fund established by section 10702(a) [123 Stat. 1402].
+
+“(30) Upper basin.—The term ‘Upper Basin’ has the same meaning given the term in Article II(f) of the Colorado River Compact.”
+
+1 See References in Text note below.
+
 SUBCHAPTER III—INSTITUTION AND CONSTRUCTION OF PROJECTS
 
 §411. Surveys for, location, and construction of irrigation works generally
@@ -10149,6 +10711,69 @@ Not more than 20 percent of the total amount of additional funds authorized to b
 Codification
 
 “October 27, 1986,” substituted in text for “the date of enactment of this Act”, meaning the date of enactment of Pub. L. 99–546, which amended this section, rather than August 6, 1956, the date of enactment of this section, as the probable intent of Congress.
+
+§422k. Supplement to Federal reclamation laws; short title
+
+This subchapter shall be a supplement to the Federal reclamation laws and may be cited as the Small Reclamation Projects Act of 1956.
+
+(Aug. 6, 1956, ch. 972, §11, 70 Stat. 1047.)
+
+References in Text
+
+The Federal reclamation laws, referred to in text, are defined in section 422b of this title.
+
+§422k–1. Loan contracts for deferment of repayment installments; amendment or supplementation
+
+A loan contract negotiated and executed pursuant to this subchapter may be amended or supplemented for the purpose of deferring repayment installments in accordance with the provisions of section 485b–1(b) of this title.
+
+(Aug. 6, 1956, ch. 972, §13, as added Pub. L. 92–167, §1(8), Nov. 24, 1971, 85 Stat. 488.)
+
+§422l. Application of this subchapter to Hawaii
+
+This subchapter as heretofore and hereafter amended, shall apply to the State of Hawaii.
+
+(Pub. L. 86–624, §31, July 12, 1960, 74 Stat. 421.)
+
+Codification
+
+Section was enacted as a part of the Hawaii Omnibus Act, and not as a part of the Small Reclamation Projects Act of 1956 which comprises this subchapter.
+
+SUBCHAPTER V—ADMINISTRATION OF EXISTING PROJECTS
+
+§423. Permanently unproductive lands; exclusion from project; disposition of water right
+
+All lands found by the classification made under the supervision of the Board of Survey and Adjustments (House Document 201, 69th Congress, 1st Session, checked and modified as outlined in General Recommendations numbered 2 and 4, Page 60 of said document), to be permanently unproductive shall be excluded from the project and no water shall be delivered to them after the date of such exclusion unless and until they are restored to the project.
+Except as herein otherwise provided, the water right formerly appurtenant to such permanently unproductive lands shall be disposed of by the United States under the reclamation law: Provided, That the water users on the projects shall have a preference right to the use of the water: And provided further, That any surplus water temporarily available may be furnished upon a rental basis for use on lands excluded from the project under this section, on terms and conditions to be approved by the Secretary of the Interior.
+
+(May 25, 1926, ch. 383, §§40, 41, 44 Stat. 647.)
+
+Sections 423 to 423g and 610 Unaffected by Sections 451 to 451k of This Title
+
+Section 10 of act Aug. 13, 1953, ch. 428, 67 Stat. 568, provided in part that: “Nothing contained in this Act [enacting sections 451 to 451k of this title] shall be held to repeal, supersede, or supplement the provisions for exchange and matters related thereto contained in the Act of May 25, 1926 (44 Stat. 636), as amended and supplemented [sections 423 to 423g and 610 of this title].”
+
+§423a. Construction charges on permanently unproductive lands already paid; disposition
+
+The construction charges prior to May 25, 1926, paid on permanently unproductive lands excluded from the project shall be applied as a credit on charges due or to become due on any remaining irrigable land covered by the same water-right contract or land taken in exchange as provided in section 423c of this title.
+If the charges so paid exceed the amount of all water-right charges due and unpaid, plus the construction charges not yet due, the balance shall be paid in cash to the holder of the water-right contract covering the land so excluded or to the irrigation district affected; which in turn shall be charged with the responsibility of making suitable adjustment with the landowners involved.
+Should all the irrigable lands of a water-right applicant be excluded from the project as permanently unproductive, and no exchange be made as provided in said section, the total construction charges paid before May 25, 1926, less any accrued charges on account of operation and maintenance, shall be refunded in cash, the water-right contract shall be canceled, and all liens on account of water-right charges shall be released.
+
+(May 25, 1926, ch. 383, §42, 44 Stat. 647.)
+
+§423b. Suspension of payment of construction charges against areas temporarily unproductive
+
+The payment of all construction charges against said areas temporarily unproductive shall remain suspended until the Secretary of the Interior shall declare them to be possessed of sufficient productive power properly to be placed in a paying class, whereupon payment of construction charges against such areas shall be resumed or shall begin, as the case may be.
+Any payments made on such areas shall be credited to the unpaid balance of the construction charge on the productive area of each unit.
+Such credit shall be applied on and after April 23, 1930, which shall not be construed to require revision of accounts adjusted before April 23, 1930, under the provisions of this section as originally enacted.
+While said lands so classified as temporarily unproductive and the construction charges against them are suspended, water for irrigation purposes may be furnished upon payment of the usual operation and maintenance charges, or such other charges as may be fixed by the Secretary of the Interior the advance payment of which may be required, in the discretion of the said Secretary.
+Should said lands temporarily classed as unproductive, or any of them, in the future be found by the Secretary of the Interior to be permanently unproductive, the charges against them shall be charged off as a permanent loss to the reclamation fund and they shall thereupon be treated in the same manner as other permanently unproductive lands as provided in sections 423 to 423g and 610 of this title except that no refund shall be made of the construction charges paid on such unproductive areas and applied as a credit on productive areas as herein authorized.
+
+(May 25, 1926, ch. 383, §43, 44 Stat. 647; Apr. 23, 1930, ch. 205, 46 Stat. 249.)
+
+References in Text
+
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title.
+Section 610 of this title was omitted from the Code.
+For complete classification of this Act to the Code, see Tables.
 
 §423c. Exchange of unpatented entries; entries, farms or private lands, eliminated from project; rights not assignable; rights of lienholders; preference to ex-service men
 
@@ -11494,7 +12119,9 @@ Whenever a municipal corporation or other organization to which water for munici
 
 References in Text
 
-The Federal reclamation laws, referred to in text, are defined in section 499a of this title.
+The Federal reclamation laws, referred to in text, probably means the Act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof or supplementary thereto.
+The Act of June 17, 1902, is classified generally to this chapter.
+For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 §500. Duty of association or district to take over management
 
@@ -11876,6 +12503,166 @@ The Secretary shall—
 The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c) of this section, if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
 
 (Pub. L. 95–578, §5A, as added Pub. L. 108–439, §2(b), Dec. 3, 2004, 118 Stat. 2627.)
+
+SUBCHAPTER XI–B—AGING INFRASTRUCTURE
+
+§510. Definitions
+
+In this subchapter:
+
+(1) Inspection
+
+The term “inspection” means an inspection of a project facility carried out by the Secretary—
+
+(A) to assess and determine the general condition of the project facility; and
+
+(B) to estimate the value of property, and the size of the population, that would be at risk if the project facility fails, is breached, or otherwise allows flooding to occur.
+
+(2) Project facility
+
+The term “project facility” means any part or incidental feature of a project, excluding high- and significant-hazard dams, constructed under the Federal reclamation law (the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.) 1.
+
+(3) Reserved works
+
+The term “reserved works” mean 2 any project facility at which the Secretary carries out the operation and maintenance of the project facility.
+
+(4) Secretary
+
+The term “Secretary” means the Secretary of the Interior, acting through the Commissioner of Reclamation.
+
+(5) Transferred works
+
+The term “transferred works” means a project facility, the operation and maintenance of which is carried out by a non-Federal entity, under the provisions of a formal operation and maintenance transfer contract.
+
+(6) Transferred works operating entity
+
+The term “transferred works operating entity” means the organization which is contractually responsible for operation and maintenance of transferred works.
+
+(7) Extraordinary operation and maintenance work
+
+The term “extraordinary operation and maintenance work” means major, nonrecurring maintenance to Reclamation-owned or operated facilities, or facility components, that is—
+
+(A) intended to ensure the continued safe, dependable, and reliable delivery of authorized project benefits; and
+
+(B) greater than 10 percent of the contractor's or the transferred works operating entity's annual operation and maintenance budget for the facility, or greater than $100,000.
+
+(Pub. L. 111–11, title IX, §9601, Mar. 30, 2009, 123 Stat. 1346.)
+
+References in Text
+
+Act of June 17, 1902 (32 Stat. 388, chapter 1093), referred to in par. (2), is popularly known as the Reclamation Act and is classified generally to chapter 12 (§371 et seq.) of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+
+1 So in original.
+Probably should be another closing parenthesis before the final period.
+
+2 So in original.
+Probably should be “means”.
+
+§510a. Guidelines and inspection of project facilities and technical assistance to transferred works operating entities
+
+(a) Guidelines and inspections
+
+(1) Development of guidelines
+
+Not later than 1 year after March 30, 2009, the Secretary in consultation with transferred works operating entities shall develop, consistent with existing transfer contracts, specific inspection guidelines for project facilities which are in proximity to urbanized areas and which could pose a risk to public safety or property damage if such project facilities were to fail.
+
+(2) Conduct of inspections
+
+Not later than 3 years after March 30, 2009, the Secretary shall conduct inspections of those project facilities, which are in proximity to urbanized areas and which could pose a risk to public safety or property damage if such facilities were to fail, using such specific inspection guidelines and criteria developed pursuant to paragraph (1). In selecting project facilities to inspect, the Secretary shall take into account the potential magnitude of public safety and economic damage posed by each project facility.
+
+(3) Treatment of costs
+
+The costs incurred by the Secretary in conducting these inspections shall be nonreimbursable.
+
+(b) Use of inspection data
+
+The Secretary shall use the data collected through the conduct of the inspections under subsection (a)(2) to—
+
+(1) provide recommendations to the transferred works operating entities for improvement of operation and maintenance processes, operating procedures including operation guidelines consistent with existing transfer contracts, and structural modifications to those transferred works;
+
+(2) determine an appropriate inspection frequency for such nondam project facilities which shall not exceed 6 years; and
+
+(3) provide, upon request of transferred work operating entities, local governments, or State agencies, information regarding potential hazards posed by existing or proposed residential, commercial, industrial or public-use development adjacent to project facilities.
+
+(c) Technical assistance to transferred works operating entities
+
+(1) Authority of Secretary to provide technical assistance
+
+The Secretary is authorized, at the request of a transferred works operating entity in proximity to an urbanized area, to provide technical assistance to accomplish the following, if consistent with existing transfer contracts:
+
+(A) Development of documented operating procedures for a project facility.
+
+(B) Development of documented emergency notification and response procedures for a project facility.
+
+(C) Development of facility inspection criteria for a project facility.
+
+(D) Development of a training program on operation and maintenance requirements and practices for a project facility for a transferred works operating entity's workforce.
+
+(E) Development of a public outreach plan on the operation and risks associated with a project facility.
+
+(F) Development of any other plans or documentation which, in the judgment of the Secretary, will contribute to public safety and the sage operation of a project facility.
+
+(2) Costs
+
+The Secretary is authorized to provide, on a non-reimbursable basis, up to 50 percent of the cost of such technical assistance, with the balance of such costs being advanced by the transferred works operating entity or other non-Federal source.
+The non-Federal 50 percent minimum cost share for such technical assistance may be in the form of in-lieu contributions of resources by the transferred works operating entity or other non-Federal source.
+
+(Pub. L. 111–11, title IX, §9602, Mar. 30, 2009, 123 Stat. 1347.)
+
+§510b. Extraordinary operation and maintenance work performed by the Secretary
+
+(a) In general
+
+The Secretary or the transferred works operating entity may carry out, in accordance with subsection (b) and consistent with existing transfer contracts, any extraordinary operation and maintenance work on a project facility that the Secretary determines to be reasonably required to preserve the structural safety of the project facility.
+
+(b) Reimbursement of costs arising from extraordinary operation and maintenance work
+
+(1) Treatment of costs
+
+For reserved works, costs incurred by the Secretary in conducting extraordinary operation and maintenance work will be allocated to the authorized reimbursable purposes of the project and shall be repaid within 50 years, with interest, from the year in which work undertaken pursuant to this subchapter is substantially complete.
+
+(2) Authority of Secretary
+
+For transferred works, the Secretary is authorized to advance the costs incurred by the transferred works operating entity in conducting extraordinary operation and maintenance work and negotiate appropriate 50-year repayment contracts with project beneficiaries providing for the return of reimbursable costs, with interest, under this subsection: Provided, however, That no contract entered into pursuant to this subchapter shall be deemed to be a new or amended contract for the purposes of section 390cc(a) of this title.
+
+(3) Determination of interest rate
+
+The interest rate used for computing interest on work in progress and interest on the unpaid balance of the reimbursable costs of extraordinary operation and maintenance work authorized by this subchapter shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which extraordinary operation and maintenance work is commenced, on the basis of average market yields on outstanding marketable obligations of the United States with the remaining periods of maturity comparable to the applicable reimbursement period of the project, adjusted to the nearest 1/8 of 1 percent on the unamortized balance of any portion of the loan.
+
+(c) Emergency extraordinary operation and maintenance work
+
+(1) In general
+
+The Secretary or the transferred works operating entity shall carry out any emergency extraordinary operation and maintenance work on a project facility that the Secretary determines to be necessary to minimize the risk of imminent harm to public health or safety, or property.
+
+(2) Reimbursement
+
+The Secretary may advance funds for emergency extraordinary operation and maintenance work and shall seek reimbursement from the transferred works operating entity or benefitting entity upon receiving a written assurance from the governing body of such entity that it will negotiate a contract pursuant to this section for repayment of costs incurred by the Secretary in undertaking such work.
+
+(3) Funding
+
+If the Secretary determines that a project facility inspected and maintained pursuant to the guidelines and criteria set forth in section 510a(a) of this title requires extraordinary operation and maintenance pursuant to paragraph (1), the Secretary may provide Federal funds on a nonreimbursable basis sufficient to cover 35 percent of the cost of the extraordinary operation and maintenance allocable to the transferred works operating entity, which is needed to minimize the risk of imminent harm.
+The remaining share of the Federal funds advanced by the Secretary for such work shall be repaid under subsection (b).
+
+(Pub. L. 111–11, title IX, §9603, Mar. 30, 2009, 123 Stat. 1348.)
+
+§510c. Relationship to Twenty-First Century Water Works Act
+
+Nothing in this subchapter shall preclude a transferred works operating entity from applying and receiving a loan-guarantee pursuant to the Twenty-First Century Water Works Act [43 U.S.C. 2421 et seq].
+
+(Pub. L. 111–11, title IX, §9604, Mar. 30, 2009, 123 Stat. 1349.)
+
+References in Text
+
+The Twenty-First Century Water Works Act, referred to in text, is title II of Pub. L. 109–451, Dec. 22, 2006, 120 Stat. 3356, which is classified generally to subchapter II (§2421 et seq.) of chapter 42 of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 2401 of this title and Tables.
+
+§510d. Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this subchapter.
+
+(Pub. L. 111–11, title IX, §9605, Mar. 30, 2009, 123 Stat. 1349.)
 
 SUBCHAPTER XII—CONTRACTS WITH STATE IRRIGATION DISTRICTS FOR PAYMENT OF CHARGES
 
@@ -12816,7 +13603,10 @@ Codification
 
 Section 615ii, Pub. L. 87–483, §1, June 13, 1962, 76 Stat. 96, related to Congressional declaration of policy.
 
-Section 615jj, Pub. L. 87–483, §2, June 13, 1962, 76 Stat. 96, authorized construction, operation, and maintenance of Navajo Indian irrigation project.
+Section 615jj, Pub. L. 87–483, §2, as added Pub. L. 111–11, title X, §10402(a), Mar. 30, 2009, 123 Stat. 1372, authorized construction, operation, and maintenance of Navajo Indian Irrigation Project.
+Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
+
+A prior section 615jj, Pub. L. 87–483, §2, June 13, 1962, 76 Stat. 96, authorized construction, operation, and maintenance of Navajo Indian irrigation project, prior to repeal by Pub. L. 111–11, title X, §10402(a), Mar. 30, 2009, 123 Stat. 1372. Repeal by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
 
 Section 615kk, Pub. L. 87–483, §3, June 13, 1962, 76 Stat. 96; Pub. L. 91–416, §1(a), (c), Sept. 25, 1970, 84 Stat. 867, related to lands to be used as part of Navajo Indian irrigation project.
 
@@ -12834,7 +13624,8 @@ Section 615qq, Pub. L. 87–483, §9, June 13, 1962, 76 Stat. 99, related to res
 
 Section 615rr, Pub. L. 87–483, §10, June 13, 1962, 76 Stat. 99, authorized appropriations for San Juan-Chama project.
 
-Section 615ss, Pub. L. 87–483, §11, June 13, 1962, 76 Stat. 99, provided that waters of Navajo Reservoir, San Juan River and tributary waters be used only pursuant to contract.
+Section 615ss, Pub. L. 87–483, §11, June 13, 1962, 76 Stat. 99; Pub. L. 111–11, title X, §10402(b), Mar. 30, 2009, 123 Stat. 1373, provided that waters of Navajo Reservoir, San Juan River and tributary waters be used only pursuant to contract.
+Amendment by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
 
 Section 615tt, Pub. L. 87–483, §12, June 13, 1962, 76 Stat. 100, related to water use rights of New Mexico and Arizona.
 
@@ -13011,9 +13802,9 @@ SUBCHAPTER XXXVIII—FRYINGPAN-ARKANSAS PROJECT, COLORADO
 
 Codification
 
-Section 616, Pub. L. 87–590, §1, Aug. 16, 1962, 76 Stat. 389, authorized construction, operation, and maintenance of Fryingpan-Arkansas project, Colorado.
+Section 616, Pub. L. 87–590, §1, Aug. 16, 1962, 76 Stat. 389; Pub. L. 111–11, title IX, §9115(a), Mar. 30, 2009, 123 Stat. 1320, authorized construction, operation, and maintenance of Fryingpan-Arkansas project, Colorado.
 
-Section 616a, Pub. L. 87–590, §2, Aug. 16, 1962, 76 Stat. 390, related to repayment of projects costs and determination of interest rates.
+Section 616a, Pub. L. 87–590, §2, Aug. 16, 1962, 76 Stat. 390; Pub. L. 111–11, title IX, §9115(b), Mar. 30, 2009, 123 Stat. 1321, related to repayment of projects costs and determination of interest rates.
 
 Section 616b, Pub. L. 87–590, §3, Aug. 16, 1962, 76 Stat. 391, related to operation of this project and protection of rights of western Colorado water users.
 
@@ -13023,7 +13814,7 @@ Section 616d, Pub. L. 87–590, §5, Aug. 16, 1962, 76 Stat. 392, provided use o
 
 Section 616e, Pub. L. 87–590, §6, Aug. 16, 1962, 76 Stat. 393, related to studies of quality of waters of Colorado River system and reports to Congress on results of these studies.
 
-Section 616f, Pub. L. 87–590, §7, Aug. 16, 1962, 76 Stat. 393; Pub. L. 93–493, title XI, §1101, Oct. 27, 1974, 88 Stat. 1497, authorized appropriations for this project.
+Section 616f, Pub. L. 87–590, §7, Aug. 16, 1962, 76 Stat. 393; Pub. L. 93–493, title XI, §1101, Oct. 27, 1974, 88 Stat. 1497; Pub. L. 111–11, title IX, §9115(c), Mar. 30, 2009, 123 Stat. 1321, authorized appropriations for this project.
 
 SUBCHAPTER XXXIX—MANN CREEK PROJECT, IDAHO
 
@@ -14424,6 +15215,9 @@ Compliance with law required in operation of facilities; enforcement of provisio
 620n.
 Water quality study and reports.
 
+620n–1.
+Top water bank.
+
 620o.
 Definitions.
 
@@ -14431,17 +15225,264 @@ Definitions.
 
 §620. Upper Colorado River Basin; purpose of development of water resources; initial units; construction of Wayne N. Aspinall unit contingent upon certification; participating projects; Rainbow Bridge National Monument
 
-In order to initiate the comprehensive development of the water resources of the Upper Colorado River Basin, for the purposes, among others, of regulating the flow of the Colorado River, storing water for beneficial consumptive use, making it possible for the States of the Upper Basin to utilize, consistently with the provisions of the Colorado River Compact, the apportionments made to and among them in the Colorado River Compact and the Upper Colorado River Basin Compact, respectively, providing for the reclamation of arid and semiarid land, for the control of floods, and for the generation of hydroelectric power, as an incident of the foregoing purposes, the Secretary of the Interior is authorized (1) to construct, operate, and maintain the following initial units of the Colorado River storage project, consisting of dams, reservoirs, powerplants, transmission facilities and appurtenant works: Wayne N. Aspinall, Flaming Gorge, Navajo (dam and reservoir only), and Glen Canyon: Provided, That the Wayne N. Aspinall Dam shall be constructed to a height which will impound not less than nine hundred and forty thousand acre-feet of water or will create a reservoir of such greater capacity as can be obtained by a high waterline located at seven thousand five hundred and twenty feet above mean sea level, and that construction thereof shall not be undertaken until the Secretary has, on the basis of further engineering and economic investigations, reexamined the economic justification of such unit and, accompanied by appropriate documentation in the form of a supplemental report, has certified to the Congress and to the President that, in his judgment, the benefits of such unit will exceed its costs; and (2) to construct, operate, and maintain the following additional reclamation projects (including power-generating and transmission facilities related thereto), hereinafter referred to as participating projects: Central Utah (initial phase and the Uintah unit), San Juan-Chama (initial stage), Emery County, Florida, Hammond, La Barge, Lyman, Navajo Indian, Paonia (including the Minnesota unit, a dam and reservoir on Muddy Creek just above its confluence with the North Fork of the Gunnison River, and other necessary works), Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel, Seedskadee, Savery-Pot Hook, Bostwick Park, Fruitland Mesa, Silt and Smith Fork: Provided further, That as part of the Glen Canyon Unit the Secretary of the Interior shall take adequate protective measures to preclude impairment of the Rainbow Bridge National Monument.
+In order to initiate the comprehensive development of the water resources of the Upper Colorado River Basin, for the purposes, among others, of regulating the flow of the Colorado River, storing water for beneficial consumptive use, making it possible for the States of the Upper Basin to utilize, consistently with the provisions of the Colorado River Compact, the apportionments made to and among them in the Colorado River Compact and the Upper Colorado River Basin Compact, respectively, providing for the reclamation of arid and semiarid land, for the control of floods, and for the generation of hydroelectric power, as an incident of the foregoing purposes, the Secretary of the Interior is authorized (1) to construct, operate, and maintain the following initial units of the Colorado River storage project, consisting of dams, reservoirs, powerplants, transmission facilities and appurtenant works: Wayne N. Aspinall, Flaming Gorge, Navajo (dam and reservoir only), and Glen Canyon: Provided, That the Wayne N. Aspinall Dam shall be constructed to a height which will impound not less than nine hundred and forty thousand acre-feet of water or will create a reservoir of such greater capacity as can be obtained by a high waterline located at seven thousand five hundred and twenty feet above mean sea level, and that construction thereof shall not be undertaken until the Secretary has, on the basis of further engineering and economic investigations, reexamined the economic justification of such unit and, accompanied by appropriate documentation in the form of a supplemental report, has certified to the Congress and to the President that, in his judgment, the benefits of such unit will exceed its costs; and (2) to construct, operate, and maintain the following additional reclamation projects (including power-generating and transmission facilities related thereto), hereinafter referred to as participating projects: Central Utah (initial phase and the Uintah unit), San Juan-Chama (initial stage), Emery County, Florida, Hammond, La Barge, Lyman, Navajo Indian, Paonia (including the Minnesota unit, a dam and reservoir on Muddy Creek just above its confluence with the North Fork of the Gunnison River, and other necessary works), Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel, Seedskadee, Savery-Pot Hook, Bostwick Park, Fruitland Mesa, the Navajo-Gallup Water Supply Project, Silt and Smith Fork: Provided further, That as part of the Glen Canyon Unit the Secretary of the Interior shall take adequate protective measures to preclude impairment of the Rainbow Bridge National Monument.
 
-(Apr. 11, 1956, ch. 203, §1, 70 Stat. 105; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852; Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 896; Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507; Pub. L. 96–470, title I, §108(c), Oct. 19, 1980, 94 Stat. 2239.)
+(Apr. 11, 1956, ch. 203, §1, 70 Stat. 105; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852; Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 896; Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507; Pub. L. 96–470, title I, §108(c), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 111–11, title X, §10401(a), Mar. 30, 2009, 123 Stat. 1371.)
+
+Amendment of Section
+
+For termination of amendment by section 10701(e)(2) of Pub. L. 111–11, see Termination Date of 2009 Amendment note below.
 
 Codification
 
 The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended this section are only a part of said subsec. (a). The remainder of said subsec. (a) amended section 620a of this title and enacted provisions set out as notes under this section and section 620k of this title.
 
+Termination Date of 2009 Amendment
+
+Amendment by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note below.
+
 Short Title
 
 Act Apr. 11, 1956, which enacted this chapter, is popularly known as the “Colorado River Storage Project Act”.
+
+Effect on Federal Water Law
+
+Pub. L. 111–11, title X, §10403, Mar. 30, 2009, 123 Stat. 1375, provided that: “Unless expressly provided in this subtitle [subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting section 407, former section 615jj, and section 620n–1 of this title, amending this section, former section 615ss, and section 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and section 407 of this title], nothing in this subtitle modifies, conflicts with, preempts, or otherwise affects—
+
+“(1) the Boulder Canyon Project Act (43 U.S.C. 617 et seq.);
+
+“(2) the Boulder Canyon Project Adjustment Act (54 Stat. 774, chapter 643) [43 U.S.C. 618 et seq.];
+
+“(3) the Act of April 11, 1956 (commonly known as the ‘Colorado River Storage Project Act’) (43 U.S.C. 620 et seq.);
+
+“(4) the Act of September 30, 1968 (commonly known as the ‘Colorado River Basin Project Act’) (82 Stat. 885) [43 U.S.C. 1501 et seq.];
+
+“(5) Public Law 87–483 (76 Stat. 96) [former 43 U.S.C. 615ii et seq.];
+
+“(6) the Treaty between the United States of America and Mexico respecting utilization of waters of the Colorado and Tijuana Rivers and of the Rio Grande, signed at Washington February 3, 1944 (59 Stat. 1219);
+
+“(7) the Colorado River Compact of 1922, as approved by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000);
+
+“(8) the Compact;
+
+“(9) the Act of April 6, 1949 (63 Stat. 31, chapter 48);
+
+“(10) the Jicarilla Apache Tribe Water Rights Settlement Act (106 Stat. 2237); or
+
+“(11) section 205 of the Energy and Water Development Appropriations Act, 2005 (118 Stat. 2949).”
+
+[Section 10403 Pub. L. 111–11, set out above, to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note below.]
+
+[For definition of Compact, see section 10302 of Pub. L. 111–11, set out as a Definitions note under section 407 of this title.]
+
+Agreement
+
+Pub. L. 111–11, title X, §10701, Mar. 30, 2009, 123 Stat. 1396, provided that:
+
+“(a) Agreement Approval.—
+
+“(1) Approval by congress.—Except to the extent that any provision of the Agreement conflicts with this subtitle [subtitle B (§§10301–10704) of title X of Pub. L. 111–11, see Effect on Federal Water Law note above], Congress approves, ratifies, and confirms the Agreement (including any amendments to the Agreement that are executed to make the Agreement consistent with this subtitle).
+
+“(2) Execution by secretary.—The Secretary shall enter into the Agreement to the extent that the Agreement does not conflict with this subtitle, including—
+
+“(A) any exhibits to the Agreement requiring the signature of the Secretary; and
+
+“(B) any amendments to the Agreement necessary to make the Agreement consistent with this subtitle.
+
+“(3) Authority of secretary.—The Secretary may carry out any action that the Secretary determines is necessary or appropriate to implement the Agreement, the Contract, and this section.
+
+“(4) Administration of navajo reservoir releases.—The State of New Mexico may administer water that has been released from storage in Navajo Reservoir in accordance with subparagraph 9.1 of the Agreement.
+
+“(b) Water Available Under Contract.—
+
+“(1) Quantities of water available.—
+
+“(A) In general.—Water shall be made available annually under the Contract for projects in the State of New Mexico supplied from the Navajo Reservoir and the San Juan River (including tributaries of the River) under New Mexico State Engineer File Numbers 2849, 2883, and 3215 in the quantities described in subparagraph (B).
+
+“(B) Water quantities.—The quantities of water referred to in subparagraph (A) are as follows:
+
+	 	Diversion (acre-feet/year)	Depletion (acre-feet/year)
+	Navajo Indian Irrigation Project	508,000	270,000
+	Navajo-Gallup Water Supply Project	22,650	20,780
+	Animas-La Plata Project	4,680	2,340
+	Total	535,330	293,120
+
+“(C) Maximum quantity.—A diversion of water to the Nation under the Contract for a project described in subparagraph (B) shall not exceed the quantity of water necessary to supply the amount of depletion for the project.
+
+“(D) Terms, conditions, and limitations.—The diversion and use of water under the Contract shall be subject to and consistent with the terms, conditions, and limitations of the Agreement, this subtitle, and any other applicable law.
+
+“(2) Amendments to contract.—The Secretary, with the consent of the Nation, may amend the Contract if the Secretary determines that the amendment is—
+
+“(A) consistent with the Agreement; and
+
+“(B) in the interest of conserving water or facilitating beneficial use by the Nation or a subcontractor of the Nation.
+
+“(3) Rights of the nation.—The Nation may, under the Contract—
+
+“(A) use tail water, wastewater, and return flows attributable to a use of the water by the Nation or a subcontractor of the Nation if—
+
+“(i) the depletion of water does not exceed the quantities described in paragraph (1); and
+
+“(ii) the use of tail water, wastewater, or return flows is consistent with the terms, conditions, and limitations of the Agreement, and any other applicable law; and
+
+“(B) change a point of diversion, change a purpose or place of use, and transfer a right for depletion under this subtitle (except for a point of diversion, purpose or place of use, or right for depletion for use in the State of Arizona under section 10603(b)(2)(D) [123 Stat. 1383]), to another use, purpose, place, or depletion in the State of New Mexico to meet a water resource or economic need of the Nation if—
+
+“(i) the change or transfer is subject to and consistent with the terms of the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, the Contract, and any other applicable law; and
+
+“(ii) a change or transfer of water use by the Nation does not alter any obligation of the United States, the Nation, or another party to pay or repay project construction, operation, maintenance, or replacement costs under this subtitle and the Contract.
+
+“(c) Subcontracts.—
+
+“(1) In general.—
+
+“(A) Subcontracts between nation and third parties.—The Nation may enter into subcontracts for the delivery of Project water under the Contract to third parties for any beneficial use in the State of New Mexico (on or off land held by the United States in trust for the Nation or a member of the Nation or land held in fee by the Nation).
+
+“(B) Approval required.—A subcontract entered into under subparagraph (A) shall not be effective until approved by the Secretary in accordance with this subsection and the Contract.
+
+“(C) Submittal.—The Nation shall submit to the Secretary for approval or disapproval any subcontract entered into under this subsection.
+
+“(D) Deadline.—The Secretary shall approve or disapprove a subcontract submitted to the Secretary under subparagraph (C) not later than the later of—
+
+“(i) the date that is 180 days after the date on which the subcontract is submitted to the Secretary; and
+
+“(ii) the date that is 60 days after the date on which a subcontractor complies with—
+
+     “(I) section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)); and
+
+     “(II) any other requirement of Federal law.
+
+“(E) Enforcement.—A party to a subcontract may enforce the deadline described in subparagraph (D) under section 1361 of title 28, United States Code.
+
+“(F) Compliance with other law.—A subcontract described in subparagraph (A) shall comply with the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, and any other applicable law.
+
+“(G) No liability.—The Secretary shall not be liable to any party, including the Nation, for any term of, or any loss or other detriment resulting from, a lease, contract, or other agreement entered into pursuant to this subsection.
+
+“(2) Alienation.—
+
+“(A) Permanent alienation.—The Nation shall not permanently alienate any right granted to the Nation under the Contract.
+
+“(B) Maximum term.—The term of any water use subcontract (including a renewal) under this subsection shall be not more than 99 years.
+
+“(3) Nonintercourse act compliance.—This subsection—
+
+“(A) provides congressional authorization for the subcontracting rights of the Nation; and
+
+“(B) is deemed to fulfill any requirement that may be imposed by section 2116 of the Revised Statutes (25 U.S.C. 177).
+
+“(4) Forfeiture.—The nonuse of the water supply secured by a subcontractor of the Nation under this subsection shall not result in forfeiture, abandonment, relinquishment, or other loss of any part of a right decreed to the Nation under the Contract or this section.
+
+“(5) No per capita payments.—No part of the revenue from a water use subcontract under this subsection shall be distributed to any member of the Nation on a per capita basis.
+
+“(d) Water Leases Not Requiring Subcontracts.—
+
+“(1) Authority of nation.—
+
+“(A) In general.—The Nation may lease, contract, or otherwise transfer to another party or to another purpose or place of use in the State of New Mexico (on or off land that is held by the United States in trust for the Nation or a member of the Nation or held in fee by the Nation) a water right that—
+
+“(i) is decreed to the Nation under the Agreement; and
+
+“(ii) is not subject to the Contract.
+
+“(B) Compliance with other law.—In carrying out an action under this subsection, the Nation shall comply with the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, the Supplemental Partial Final Decree described in paragraph 4.0 of the Agreement, and any other applicable law.
+
+“(2) Alienation; maximum term.—
+
+“(A) Alienation.—The Nation shall not permanently alienate any right granted to the Nation under the Agreement.
+
+“(B) Maximum term.—The term of any water use lease, contract, or other arrangement (including a renewal) under this subsection shall be not more than 99 years.
+
+“(3) No liability.—The Secretary shall not be liable to any party, including the Nation, for any term of, or any loss or other detriment resulting from, a lease, contract, or other agreement entered into pursuant to this subsection.
+
+“(4) Nonintercourse act compliance.—This subsection—
+
+“(A) provides congressional authorization for the lease, contracting, and transfer of any water right described in paragraph (1)(A); and
+
+“(B) is deemed to fulfill any requirement that may be imposed by the provisions of section 2116 of the Revised Statutes (25 U.S.C. 177).
+
+“(5) Forfeiture.—The nonuse of a water right of the Nation by a lessee or contractor to the Nation under this subsection shall not result in forfeiture, abandonment, relinquishment, or other loss of any part of a right decreed to the Nation under the Contract or this section.
+
+“(e) Nullification.—
+
+“(1) Deadlines.—
+
+“(A) In general.—In carrying out this section, the following deadlines apply with respect to implementation of the Agreement:
+
+“(i) Agreement.—Not later than December 31, 2010, the Secretary shall execute the Agreement.
+
+“(ii) Contract.—Not later than December 31, 2010, the Secretary and the Nation shall execute the Contract.
+
+“(iii) Partial final decree.—Not later than December 31, 2013, the court in the stream adjudication shall have entered the Partial Final Decree described in paragraph 3.0 of the Agreement.
+
+“(iv) Fruitland-cambridge irrigation project.—Not later than December 31, 2016, the rehabilitation construction of the Fruitland-Cambridge Irrigation Project authorized under section 10607(a)(1) [123 Stat. 1394] shall be completed.
+
+“(v) Supplemental partial final decree.—Not later than December 31, 2016, the court in the stream adjudication shall enter the Supplemental Partial Final Decree described in subparagraph 4.0 of the Agreement.
+
+“(vi) Hogback-cudei irrigation project.—Not later than December 31, 2019, the rehabilitation construction of the Hogback-Cudei Irrigation Project authorized under section 10607(a)(2) [123 Stat. 1394] shall be completed.
+
+“(vii) Trust fund.—Not later than December 31, 2019, the United States shall make all deposits into the Trust Fund under section 10702 [123 Stat. 1402].
+
+“(viii) Conjunctive wells.—Not later than December 31, 2019, the funds authorized to be appropriated under section 10609(b)(1) [123 Stat. 1395] for the conjunctive use wells authorized under section 10606(b) [123 Stat. 1393] should be appropriated.
+
+“(ix) Navajo-gallup water supply project.—Not later than December 31, 2024, the construction of all Project facilities shall be completed.
+
+“(B) Extension.—A deadline described in subparagraph (A) may be extended if the Nation, the United States (acting through the Secretary), and the State of New Mexico (acting through the New Mexico Interstate Stream Commission) agree that an extension is reasonably necessary.
+
+“(2) Revocability of agreement, contract and authorizations.—
+
+“(A) Petition.—If the Nation determines that a deadline described in paragraph (1)(A) is not substantially met, the Nation may submit to the court in the stream adjudication a petition to enter an order terminating the Agreement and Contract.
+
+“(B) Termination.—On issuance of an order to terminate the Agreement and Contract under subparagraph (A)—
+
+“(i) the Trust Fund shall be terminated;
+
+“(ii) the balance of the Trust Fund shall be deposited in the general fund of the Treasury;
+
+“(iii) the authorizations for construction and rehabilitation of water projects under this subtitle shall be revoked and any Federal activity related to that construction and rehabilitation shall be suspended; and
+
+“(iv) this part and parts I and III [parts IV (§§10701–10704), I (§§10401–10403), and III (§§10601–10609) of subtitle B of title X of Pub. L. 111–11, enacting former section 615jj and section 620n–1 of this title, amending this section, former section 615ss, and section 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section] shall be null and void.
+
+“(3) Conditions not causing nullification of settlement.—
+
+“(A) In general.—If a condition described in subparagraph (B) occurs, the Agreement and Contract shall not be nullified or terminated.
+
+“(B) Conditions.—The conditions referred to in subparagraph (A) are as follows:
+
+“(i) A lack of right to divert at the capacities of conjunctive use wells constructed or rehabilitated under section 10606 [123 Stat. 1392].
+
+“(ii) A failure—
+
+     “(I) to determine or resolve an accounting of the use of water under this subtitle in the State of Arizona;
+
+     “(II) to obtain a necessary water right for the consumptive use of water in Arizona;
+
+     “(III) to contract for the delivery of water for use in Arizona; or
+
+     “(IV) to construct and operate a lateral facility to deliver water to a community of the Nation in Arizona, under the Project.
+
+“(f) Effect on Rights of Indian Tribes.—
+
+“(1) In general.—Except as provided in paragraph (2), nothing in the Agreement, the Contract, or this section quantifies or adversely affects the land and water rights, or claims or entitlements to water, of any Indian tribe or community other than the rights, claims, or entitlements of the Nation in, to, and from the San Juan River Basin in the State of New Mexico.
+
+“(2) Exception.—The right of the Nation to use water under water rights the Nation has in other river basins in the State of New Mexico shall be forborne to the extent that the Nation supplies the uses for which the water rights exist by diversions of water from the San Juan River Basin under the Project consistent with subparagraph 9.13 of the Agreement.”
+
+[For definitions of terms used in section 10701 of Pub. L. 111–11, set out above, see section 10302 of Pub. L. 111–11, set out as a note under section 407 of this title.]
+
+§620a. Priority to planning reports of certain additional participating projects; reports to States; San Juan-Chama project; Juniper project
+
+In carrying out further investigations of projects under the Federal reclamation laws in the Upper Colorado River Basin, the Secretary shall give priority to completion of planning reports on the Gooseberry, Eagle Divide, Bluestone, Battlement Mesa, Grand Mesa, Yellow Jacket, Basalt, Middle Park (including the Troublesome, Rabbit Ear, and Azure units), Upper Gunnison (including the East River, Ohio Creek, and Tomichi Creek units), Lower Yampa (including the Juniper and Great Northern units), Upper Yampa (including the Hayden Mesa, Wessels, and Toponas units) and Sublette (including a diversion of water from the Green River to the North Platte River Basin Wyoming), Ute Indian unit of the Central Utah Project, San Juan County (Utah), Price River, Grand County (Utah), Gray Canyon, and Juniper (Utah) participating projects: Provided, That the planning report for the Ute Indian unit of the Central Utah participating project shall be completed on or before December 31, 1974, to enable the United States of America to meet the commitments heretofore made to the Ute Indian Tribe of the Uintah and Ouray Indian Reservation under the agreement dated September 20, 1965 (Contract Numbered 14–06–W–194). Said reports shall be completed as expeditiously as funds are made available therefor and shall be submitted promptly to the affected States, which in the case of the San Juan-Chama project shall include the State of Texas, and thereafter to the President and the Congress: Provided, That with reference to the plans and specifications for the San Juan-Chama project, the storage for control and regulation of water imported from the San Juan River shall (1) be limited to a single offstream dam and reservoir on a tributary of the Chama River, (2) be used solely for control and regulation and no power facilities shall be established, installed or operated thereat, and (3) be operated at all times by the Bureau of Reclamation of the Department of the Interior in strict compliance with the Rio Grande Compact as administered by the Rio Grande Compact Commission.
+The preparation of detailed designs and specifications for the works proposed to be constructed in connection with projects shall be carried as far forward as the investigations thereof indicate is reasonable in the circumstances.
+
+The Secretary, concurrently with the investigations directed by the preceding paragraph, shall also give priority to completion of a planning report on the Juniper project.
+
+(Apr. 11, 1956, ch. 203, §2, 70 Stat. 106; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852; Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 897.)
+
+References in Text
+
+The Federal reclamation laws, referred to in text, are identified in section 620c of this title.
+
+Codification
+
+The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended this section are only a part of said subsec. (a). The remainder of subsec. (a), amended section 620 of this title and enacted provisions set out as notes under sections 620 and 620k of this title.
 
 Storage of Water at Abiquiu Dam in New Mexico
 
@@ -14743,6 +15784,53 @@ The Secretary of the Interior is directed to continue studies and to make a repo
 
 (Apr. 11, 1956, ch. 203, §15, 70 Stat. 111.)
 
+§620n–1. Top water bank
+
+(a) The Secretary of the Interior may create and operate within the available capacity of Navajo Reservoir a top water bank.
+
+(b) Water made available for the top water bank in accordance with subsections (c) and (d) shall not be subject to section 11 of Public Law 87–483 (76 Stat. 99).
+
+(c) The top water bank authorized under subsection (a) shall be operated in a manner that—
+
+(1) is consistent with applicable law, except that, notwithstanding any other provision of law, water for purposes other than irrigation may be stored in the Navajo Reservoir pursuant to the rules governing the top water bank established under this section; and
+
+(2) does not impair the ability of the Secretary of the Interior to deliver water under contracts entered into under—
+
+(A) Public Law 87–483 (76 Stat. 96); and
+
+(B) New Mexico State Engineer File Nos. 2847, 2848, 2849, and 2917.
+
+(d)(1) The Secretary of the Interior, in cooperation with the State of New Mexico (acting through the Interstate Stream Commission), shall develop any terms and procedures for the storage, accounting, and release of water in the top water bank that are necessary to comply with subsection (c).
+
+(2) The terms and procedures developed under paragraph (1) shall include provisions requiring that—
+
+(A) the storage of banked water shall be subject to approval under State law by the New Mexico State Engineer to ensure that impairment of any existing water right does not occur, including storage of water under New Mexico State Engineer File No. 2849;
+
+(B) water in the top water bank be subject to evaporation and other losses during storage;
+
+(C) water in the top water bank be released for delivery to the owner or assigns of the banked water on request of the owner, subject to reasonable scheduling requirements for making the release;
+
+(D) water in the top water bank be the first water spilled or released for flood control purposes in anticipation of a spill, on the condition that top water bank water shall not be released or included for purposes of calculating whether a release should occur for purposes of satisfying the flow recommendations of the San Juan River Basin Recovery Implementation Program; and
+
+(E) water eligible for banking in the top water bank shall be water that otherwise would have been diverted and beneficially used in New Mexico that year.
+
+(e) The Secretary of the Interior may charge fees to water users that use the top water bank in amounts sufficient to cover the costs incurred by the United States in administering the water bank.
+
+(Apr. 11, 1956, ch. 203, §16, as added Pub. L. 111–11, title X, §10401(b)(2), Mar. 30, 2009, 123 Stat. 1371.)
+
+Termination of Section
+
+For termination of section by section 10701(e)(2) of Pub. L. 111–11, see Termination Date note below.
+
+References in Text
+
+Public Law 87–483, referred to in subsecs. (b) and (c)(2)(A), is Pub. L. 87–483, June 13, 1962, 76 Stat. 96, which was classified principally to subchapter XXX (§615ii et seq.) of chapter 12 of this title, and was omitted from the Code.
+Section 11 of Pub. L. 87–483 was classified to §615ss of this title prior to being omitted from the Code.
+
+Termination Date
+
+Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
+
 §620o. Definitions
 
 As used in this chapter—
@@ -14759,13 +15847,21 @@ The term “Rio Grande Compact” shall mean that certain compact executed on Ma
 
 The term “Treaty with the United Mexican States” shall mean that certain treaty between the United States of America and the United Mexican States, signed at Washington, District of Columbia, February 3, 1944, relating to the utilization of the waters of the Colorado River and other rivers, as amended and supplemented by the protocol dated November 14, 1944, and the understandings recited in the Senate resolution of April 18, 1945, advising and consenting to ratification thereof.
 
-(Apr. 11, 1956, ch. 203, §16, 70 Stat. 111.)
+(Apr. 11, 1956, ch. 203, §17, formerly §16, 70 Stat. 111; temporarily renumbered §17, Pub. L. 111–11, title X, §10401(b)(1), Mar. 30, 2009, 123 Stat. 1371.)
+
+Renumbering of Section
+
+For termination of renumbering of this section by section 10701(e)(2) of Pub. L. 111–11, see Termination Date of 2009 Amendment note below.
 
 References in Text
 
 Act of April 6, 1949, referred to in text, is act Apr. 6, 1949, ch. 48, 63 Stat. 31, which is not classified to the Code.
 
 Act of May 31, 1939, referred to in text, is act May 31, 1939, ch. 155, 53 Stat. 785, which is not classified to the Code.
+
+Termination Date of 2009 Amendment
+
+Amendment by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
 
 CHAPTER 13—FEDERAL LANDS INCLUDED IN STATE IRRIGATION DISTRICTS
 
@@ -23301,6 +24397,9 @@ Duties of Secretary.
 1457a.
 Authorization of appropriations for particular programs.
 
+1457b.
+Use of cooperative agreements.
+
 1458.
 Secretary to exercise certain powers over Territories.
 
@@ -24084,6 +25183,17 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 1 See References in Text note below.
 
+§1457b. Use of cooperative agreements
+
+For fiscal year 2010, and each fiscal year thereafter, the Secretary of the Interior may enter into cooperative agreements with a State or political subdivision (including any agency thereof), or any not-for-profit organization if the agreement will: (1) serve a mutual interest of the parties to the agreement in carrying out the programs administered by the Department of the Interior; and (2) all parties will contribute resources to the accomplishment of these objectives.
+At the discretion of the Secretary, such agreements shall not be subject to a competitive process.
+
+(Pub. L. 111–88, div. A, title I, §112, Oct. 30, 2009, 123 Stat. 2928.)
+
+Codification
+
+Section is from the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010.
+
 §1458. Secretary to exercise certain powers over Territories
 
 The Secretary of the Interior shall exercise all the powers and perform all the duties in relation to the Territories of the United States that were, prior to March 1, 1873, by law or by custom exercised and performed by the Secretary of State.
@@ -24716,9 +25826,9 @@ Funds that are not necessary to carry out the activities to be financed by the f
 
 §1473. Acceptance of contributions from private and public sources by Mineral Management Service
 
-In fiscal year 1987 and thereafter, the Minerals Management Service is authorized to accept land, buildings, equipment and other contributions, from public and private sources, which shall be available for the purposes provided for in this account, including, in fiscal year 2008 only, contributions of money and services to conduct work in support of the orderly exploration and development of Outer Continental Shelf resources, including but not limited to, preparation of environmental documents such as impact statements and assessments, studies, and related research.
+In fiscal year 1987 and thereafter, the Minerals Management Service is authorized to accept land, buildings, equipment and other contributions, from public and private sources, which shall be available for the purposes provided for in this account, including, in fiscal years 2010 through 2013, contributions of money and services to conduct work in support of the orderly exploration and development of Outer Continental Shelf resources, including but not limited to, preparation of environmental documents such as impact statements and assessments, studies, and related research.
 
-(Pub. L. 99–500, §101(h) [title I, §100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–253, and Pub. L. 99–591, §101(h) [title I, §100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–253; Pub. L. 110–161, div. F, title I, §121, Dec. 26, 2007, 121 Stat. 2121.)
+(Pub. L. 99–500, §101(h) [title I, §100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–253, and Pub. L. 99–591, §101(h) [title I, §100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–253; Pub. L. 110–161, div. F, title I, §121, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 111–8, div. E, title I, §111, Mar. 11, 2009, 123 Stat. 723; Pub. L. 111–88, div. A, title I, §111, Oct. 30, 2009, 123 Stat. 2928.)
 
 Codification
 
@@ -25069,9 +26179,15 @@ Pub. L. 106–291, title I, §142, Oct. 11, 2000, 114 Stat. 949.
 
 §1474f. Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements
 
-Sums not to exceed 1 percent of the total value of procurements received by the Bureau of Land Management from vendors under enterprise information technology-procurements that the Department of the Interior and other Federal Government agencies may use to order information technology on and after December 26, 2007, may be deposited into the Management of Lands and Resources account to offset costs incurred in conducting the procurement.
+Sums not to exceed 1 percent of the total value of procurements received by the Bureau of Land Management from vendors under enterprise information technology-procurements that the Department of the Interior and other Federal Government agencies may use to order information technology on and after March 11, 2009, may be deposited into the Management of Lands and Resources account to offset costs incurred in conducting the procurement.
 
-(Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2101.)
+(Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 704.)
+
+Prior Provisions
+
+Provisions similar to those in this section were contained in the following prior appropriation act:
+
+Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2101.
 
 §1475. Bureau of Reclamation acceptance of services of volunteers
 
@@ -29370,53 +30486,6 @@ Act of June 18, 1934, as amended by the Act of May 1, 1936, referred to in subse
 
 Act of September 2, 1957, referred to in subsec. (d)(1), is Pub. L. 85–271, Sept. 2, 1957, 71 Stat. 596, which is not classified to the Code.
 
-§1616. Joint Federal-State Land Use Planning Commission for Alaska
-
-(a), (b) Omitted
-
-(c) Prohibition against selection of lands from withdrawn area in event of withdrawal of utility and transportation corridor across public lands
-
-In the event that the Secretary withdraws a utility and transportation corridor across public lands in Alaska pursuant to his existing authority, the State, the Village Corporations and the Regional Corporations shall not be permitted to select lands from the area withdrawn.
-
-(d) Public Land Order Numbered 4582 revoked; withdrawal of unreserved public lands; classification and reclassification of lands; opening lands to appropriation; administration; contracting and other authority of Secretary not impaired by withdrawal
-
-(1) Public Land Order Numbered 4582, 34 Federal Register 1025, as amended, is hereby revoked.
-For a period of ninety days after December 18, 1971, all unreserved public lands in Alaska are hereby withdrawn from all forms of appropriation under the public land laws, including the mining (except locations for metalliferous minerals) and the mineral leasing laws.
-During this period of time the Secretary shall review the public lands in Alaska and determine whether any portion of these lands should be withdrawn under authority provided for in existing law to insure that the public interest in these lands is properly protected.
-Any further withdrawal shall require an affirmative act by the Secretary under his existing authority, and the Secretary is authorized to classify or reclassify any lands so withdrawn and to open such lands to appropriation under the public land laws in accord with his classifications.
-Withdrawals pursuant to this paragraph shall not affect the authority of the Village Corporations, the Regional Corporations, and the State to make selections and obtain patents within the areas withdrawn pursuant to section 1610 of this title.
-
-(2)(A) The Secretary, acting under authority provided for in existing law, is directed to withdraw from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, and from selection by Regional Corporations pursuant to section 1610 of this title, up to, but not to exceed, eighty million acres of unreserved public lands in the State of Alaska, including previously classified lands, which the Secretary deems are suitable for addition to or creation as units of the National Park, Forest, Wildlife Refuge, and Wild and Scenic Rivers Systems: Provided, That such withdrawals shall not affect the authority of the State and the Regional and Village Corporations to make selections and obtain patents within the areas withdrawn pursuant to section 1610 of this title.
-
-(B) Lands withdrawn pursuant to paragraph (A) hereof must be withdrawn within nine months of December 18, 1971. All unreserved public lands not withdrawn under paragraph (A) or subsection (d)(1) of this section shall be available for selection by the State and for appropriation under the public land laws.
-
-(C) Every six months, for a period of two years from December 18, 1971, the Secretary shall advise the Congress of the location, size and values of lands withdrawn pursuant to paragraph (A) and submit his recommendations with respect to such lands.
-Any lands withdrawn pursuant to paragraph (A) not recommended for addition to or creation as units of the National Park, Forest, Wildlife Refuge, and Wild and Scenic Rivers Systems at the end of the two years shall be available for selection by the State and the Regional Corporations, and for appropriations under the public land laws.
-
-(D) Areas recommended by the Secretary pursuant to paragraph (C) shall remain withdrawn from any appropriation under the public land laws until such time as the Congress acts on the Secretary's recommendations, but not to exceed five years from the recommendation dates.
-The withdrawal of areas not so recommended shall terminate at the end of the two year period.
-
-(E) Notwithstanding any other provision of this subsection, initial identification of lands desired to be selected by the State pursuant to the Alaska Statehood Act and by the Regional Corporations pursuant to section 1611 of this title may be made within any area withdrawn pursuant to this subsection (d), but such lands shall not be tentatively approved or patented so long as the withdrawals of such areas remain in effect: Provided, That selection of lands by Village Corporations pursuant to section 1611 of this title shall not be affected by such withdrawals and such lands selected may be patented and such rights granted as authorized by this chapter.
-In the event Congress enacts legislation setting aside any areas withdrawn under the provisions of this subsection which the Regional Corporations or the State desired to select, then other unreserved public lands shall be made available for alternative selection by the Regional Corporations and the State.
-Any time periods established by law for Regional Corporations or State selections are hereby extended to the extent that delays are caused by compliance with the provisions of this subsection (2).
-
-(3) Any lands withdrawn under this section shall be subject to administration by the Secretary under applicable laws and regulations, and his authority to make contracts and to grant leases, permits, rights-of-way, or easements shall not be impaired by the withdrawal.
-
-(Pub. L. 92–203, §17, Dec. 18, 1971, 85 Stat. 706; Pub. L. 94–204, §7, Jan. 2, 1976, 89 Stat. 1149.)
-
-References in Text
-
-Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
-For complete classification of this Act to the Code, see Tables.
-
-The public land laws, referred to in subsec. (d)(1), (2)(B) to (D), are classified generally to this title.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (d)(1), are classified generally to Title 30, Mineral Lands and Mining.
-
-Codification
-
-Subsecs. (a) and (b) of this section, which related to the establishment, membership, compensation, procedures, duties and powers of the Joint Federal-State Land Use Planning Commission for Alaska and authorized the Commission to identify public easements across selected lands in Alaska, were omitted pursuant to former subsec. (a)(10) of this section which provided that the Commission was to cease to exist effective June 30, 1979.
-
 §1617. Revocation of Indian allotment authority in Alaska
 
 (a) Revocation of authority
@@ -32363,6 +33432,12 @@ Loans to States and political subdivisions; purposes; amounts; allocation; terms
 1748.
 Funding requirements.
 
+1748a.
+FLAME Wildfire Suppression Reserve Funds.
+
+1748b.
+Cohesive wildfire management strategy.
+
         
 
 SUBCHAPTER IV—RANGE MANAGEMENT
@@ -32482,13 +33557,17 @@ This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct.
 
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
 
+Short Title of 2009 Amendment
+
+Pub. L. 111–88, div. A, title V, §501, Oct. 30, 2009, 123 Stat. 2968, provided that: “This title [enacting sections 1748a and 1748b of this title] may be cited as the ‘Federal Land Assistance, Management, and Enhancement Act of 2009’ or ‘FLAME Act of 2009’.”
+
 Short Title of 1988 Amendment
 
 Pub. L. 100–409, §1, Aug. 20, 1988, 102 Stat. 1086, provided that: “This Act [enacting section 1723 of this title, amending section 1716 of this title and sections 505a, 505b, and 521b of Title 16, Conservation, and enacting provisions set out as notes under sections 751 and 1716 of this title] may be cited as the ‘Federal Land Exchange Facilitation Act of 1988’.”
 
 Short Title
 
-Section 101 of Pub. L. 94–579 provided that: “This Act [enacting this chapter and amending and repealing numerous other laws, which for complete classification, see Tables] may be cited as the ‘Federal Land Policy and Management Act of 1976’.”
+Pub. L. 94–579, title I, §101, Oct. 21, 1976, 90 Stat. 2744, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Land Policy and Management Act of 1976’.”
 
 Savings Provision
 
@@ -32532,7 +33611,7 @@ Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act [
 
 Cooperative Action and Sharing of Resources by Secretaries of the Interior and Agriculture
 
-Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555, provided that: “In fiscal years 2001 through 2008, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and [may] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases.
+Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555; Pub. L. 111–8, div. E, title IV, §418, Mar. 11, 2009, 123 Stat. 747, provided that: “In fiscal years 2001 through 2011, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and [may] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases.
 The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency.
 Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service.
 To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
@@ -32581,7 +33660,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 (m) The term “department” means a unit of the executive branch of the Federal Government which is headed by a member of the President's Cabinet and the term “agency” means a unit of the executive branch of the Federal Government which is not under the jurisdiction of a head of a department.
 
-(n) The term “Bureau means the Bureau of Land Management.
+(n) The term “Bureau 2 means the Bureau of Land Management.
 
 (o) The term “eleven contiguous Western States” means the States of Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
 
@@ -32600,6 +33679,9 @@ Except for title III of the Act, which is classified generally to subchapter IV 
 Section 3(d) of the Act (former 40 U.S.C. 472(d)), which provided the definition of “property”, was repealed and reenacted as section 102(9) of Title 40.
 
 1 See References in Text note below.
+
+2 So in original.
+Probably should be followed by closing quotation marks.
 
 SUBCHAPTER II—LAND USE PLANNING AND LAND ACQUISITION AND DISPOSITION
 
@@ -33476,6 +34558,10 @@ Pub. L. 104–134, title I, §101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2906.
+
+Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 703.
+
 Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2099.
 
 Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 502.
@@ -33826,36 +34912,229 @@ Codification
 
 Section is comprised of subsec. (c) of section 317 of Pub. L. 94–579. Subsecs. (a) and (b) of section 317 of Pub. L. 94–579 are classified to section 191 of Title 30, Mineral Lands and Mining, and a note set out under that section; respectively.
 
-1 So in original.
+§1748a. FLAME Wildfire Suppression Reserve Funds
 
-§1748. Funding requirements
+(a) Definitions
 
-(a) Authorization of appropriations
+In this section:
 
-There are authorized to be appropriated such sums as are necessary to carry out the purposes and provisions of this Act, but no amounts shall be appropriated to carry out after October 1, 2002, any program, function, or activity of the Bureau under this or any other Act unless such sums are specifically authorized to be appropriated as of October 21, 1976 or are authorized to be appropriated in accordance with the provisions of subsection (b) of this section.
+(1) Federal land
 
-(b) Procedure applicable for authorization of appropriations
+The term “Federal land” means—
 
-Consistent with section 1110 of title 31, beginning May 15, 1977, and not later than May 15 of each second even numbered year thereafter, the Secretary shall submit to the Speaker of the House of Representatives and the President of the Senate a request for the authorization of appropriations for all programs, functions, and activities of the Bureau to be carried out during the four-fiscal-year period beginning on October 1 of the calendar year following the calendar year in which such request is submitted.
-The Secretary shall include in his request, in addition to the information contained in his budget request and justification statement to the Office of Management and Budget, the funding levels which he determines can be efficiently and effectively utilized in the execution of his responsibilities for each such program, function, or activity, notwithstanding any budget guidelines or limitations imposed by any official or agency of the executive branch.
+(A) public land, as defined in section 1702 of this title;
 
-(c) Distribution of receipts from Bureau from disposal of lands, etc.
+(B) units of the National Park System;
 
-Nothing in this section shall apply to the distribution of receipts of the Bureau from the disposal of lands, natural resources, and interests in lands in accordance with applicable law, nor to the use of contributed funds, private deposits for public survey work, and townsite trusteeships, nor to fund allocations from other Federal agencies, reimbursements from both Federal and non-Federal sources, and funds expended for emergency firefighting and rehabilitation.
+(C) refuges of the National Wildlife Refuge System;
 
-(d) Purchase of certain public lands from Land and Water Conservation Fund
+(D) land held in trust by the United States for the benefit of Indian tribes or members of an Indian tribe; and
 
-In exercising the authority to acquire by purchase granted by section 1715(a) of this title, the Secretary may use the Land and Water Conservation Fund to purchase lands which are necessary for proper management of public lands which are primarily of value for outdoor recreation purposes.
+(E) land in the National Forest System, as defined in section 1609(a) of title 16.
 
-(Pub. L. 94–579, title III, §318, Oct. 21, 1976, 90 Stat. 2771; Pub. L. 104–333, div. I, title III, §310, Nov. 12, 1996, 110 Stat. 4139.)
+(2) FLAME Fund
 
-References in Text
+The term “FLAME Fund” means a FLAME Wildfire Suppression Reserve Fund established by subsection (b).
 
-This Act, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+(3) Relevant congressional committees
+
+The term “relevant congressional committees” means the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations, the Committee on Energy and Natural Resources, and the Committee on Indian Affairs of the Senate.
+
+(4) Secretary concerned
+
+The term “Secretary concerned” means—
+
+(A) the Secretary of the Interior, with respect to—
+
+(i) Federal land described in subparagraphs (A), (B), (C), and (D) of paragraph (1); and
+
+(ii) the FLAME Fund established for the Department of the Interior; and
+
+(B) the Secretary of Agriculture, with respect to—
+
+(i) National Forest System land; and
+
+(ii) the FLAME Fund established for the Department of the Agriculture.
+
+(b) Establishment of FLAME Funds
+
+There is established in the Treasury of the United States the following accounts:
+
+(1) The FLAME Wildfire Suppression Reserve Fund for the Department of the Interior.
+
+(2) The FLAME Wildfire Suppression Reserve Fund for the Department of Agriculture.
+
+(c) Purpose of FLAME Funds
+
+The FLAME Funds shall be available to cover the costs of large or complex wildfire events and as a reserve when amounts provided for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts are exhausted.
+
+(d) Funding
+
+(1) Credits to funds
+
+A FLAME Fund shall consist of the following:
+
+(A) Such amounts as are appropriated to that FLAME Fund.
+
+(B) Such amounts as are transferred to that FLAME Fund under paragraph (5).
+
+(2) Authorization of appropriations
+
+(A) Authorization of appropriations
+
+There are authorized to be appropriated to the FLAME Funds such amounts as are necessary to carry out this section.
+
+(B) Congressional intent
+
+It is the intent of Congress that, for fiscal year 2011 and each fiscal year thereafter, the amounts requested by the President for a FLAME Fund should be not less than the amount estimated by the Secretary concerned as the amount necessary for that fiscal year for wildfire suppression activities of the Secretary that meet the criteria specified in subsection (e)(2)(B)(i).
+
+(C) Sense of Congress on designation of flame fund appropriations, supplemental funding request, and supplement to other suppression funding
+
+It is the sense of Congress that for fiscal year 2011 and each fiscal year thereafter—
+
+(i) amounts appropriated to a FLAME Fund in excess of the amount estimated by the Secretary concerned as the amount necessary for that fiscal year for wildfire suppression activities of the Secretary that meet the criteria specified in subsection (e)(2)(B)(i) should be designated as amounts necessary to meet emergency needs;
+
+(ii) the Secretary concerned should promptly make a supplemental request for additional funds to replenish the FLAME Fund if the Secretary determines that the FLAME Fund will be exhausted within 30 days; and
+
+(iii) funding made available through the FLAME Fund should be used to supplement the funding otherwise appropriated to the Secretary concerned for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts.
+
+(3) Availability
+
+Amounts in a FLAME Fund shall remain available to the Secretary concerned until expended.
+
+(4) Notice of insufficient funds
+
+The Secretary concerned shall notify the relevant congressional committees if the Secretary estimates that only 60 days worth of funds remain in the FLAME Fund administered by that Secretary.
+
+(5) Transfer authority
+
+If a FLAME Fund has insufficient funds, the Secretary concerned administering the other FLAME Fund may transfer amounts to the FLAME Fund with insufficient funds.
+Not more than $100,000,000 may be transferred from a FLAME Fund during any fiscal year under this authority.
+
+(e) Use of FLAME Fund
+
+(1) In general
+
+Subject to paragraphs (2) and (3), amounts in a FLAME Fund shall be available to the Secretary concerned to transfer to the Wildland Fire Management appropriation account of that Secretary to pay the costs of wildfire suppression activities of that Secretary that are separate from amounts for wildfire suppression activities annually appropriated to that Secretary under the Wildland Fire Management appropriation account of that Secretary.
+
+(2) Declaration required
+
+(A) In general
+
+Amounts in a FLAME Fund shall be available for transfer under paragraph (1) only after that Secretary concerned issues a declaration that a wildfire suppression event is eligible for funding from the FLAME Fund.
+
+(B) Declaration criteria
+
+A declaration by the Secretary concerned under subparagraph (A) may be issued only if—
+
+(i) in the case of an individual wildfire incident—
+
+(I) the fire covers 300 or more acres; or
+
+(II) the Secretary concerned determines that the fire has required an emergency Federal response based on the significant complexity, severity, or threat posed by the fire to human life, property, or resources; or
+
+(ii) the cumulative costs of wildfire suppression and Federal emergency response activities for the Secretary concerned will exceed, within 30 days, all of the amounts previously appropriated (including amounts appropriated under an emergency designation, but excluding amounts appropriated to the FLAME Fund) to the Secretary concerned for wildfire suppression and Federal emergency response.
+
+(3) State, private, and tribal land
+
+Use of a FLAME Fund for emergency wildfire suppression activities on State land, private land, and tribal land shall be consistent with any existing agreements in which the Secretary concerned has agreed to assume responsibility for wildfire suppression activities on the land.
+
+(f) Treatment of anticipated and predicted activities
+
+For fiscal year 2011 and subsequent fiscal years, the Secretary concerned shall request funds within the Wildland Fire Management appropriation account of that Secretary for regular wildfire suppression activities that do not meet the criteria specified in subsection (e)(2)(B)(i).
+
+(g) Prohibition on other transfers
+
+The Secretary concerned may not transfer funds from non-fire accounts to the Wildland Fire Management appropriation account of that Secretary unless amounts in the FLAME Fund of that Secretary and any amounts appropriated to that Secretary for the purpose of wildfire suppression will be exhausted within 30 days.
+
+(h) Accounting and reports
+
+(1) Accounting and reporting requirements
+
+The Secretary concerned shall account and report on amounts transferred from the respective FLAME Fund in a manner that is consistent with existing National Fire Plan reporting procedures.
+
+(2) Annual report
+
+The Secretary concerned shall submit to the relevant congressional committees and make available to the public an annual report that—
+
+(A) describes the obligation and expenditure of amounts transferred from the FLAME Fund; and
+
+(B) includes any recommendations that the Secretary concerned may have to improve the administrative control and oversight of the FLAME Fund.
+
+(3) Estimates of wildfire suppression costs to improve budgeting and funding
+
+(A) In general
+
+Consistent with the schedule provided in subparagraph (C), the Secretary concerned shall submit to the relevant congressional committees an estimate of anticipated wildfire suppression costs for the applicable fiscal year.
+
+(B) Independent review
+
+The methodology for developing the estimates under subparagraph (A) shall be subject to periodic independent review to ensure compliance with subparagraph (D).
+
+(C) Schedule
+
+The Secretary concerned shall submit an estimate under subparagraph (A) during—
+
+(i) the first week of March of each year;
+
+(ii) the first week of May of each year;
+
+(iii) the first week of July of each year; and
+
+(iv) if a bill making appropriations for the Department of the Interior and the Forest Service for the following fiscal year has not been enacted by September 1, the first week of September of each year.
+
+(D) Requirements
+
+An estimate of anticipated wildfire suppression costs shall be developed using the best available—
+
+(i) climate, weather, and other relevant data; and
+
+(ii) models and other analytic tools.
+
+(i) Termination of authority
+
+The authority of the Secretary concerned to use the FLAME Fund established for that Secretary shall terminate at the end of the third fiscal year in which no appropriations to, or withdrawals from, that FLAME Fund have been made for a period of three consecutive fiscal years.
+Upon termination of such authority, any amounts remaining in the affected FLAME Fund shall be transferred to, and made a part of, the Wildland Fire Management appropriation account of the Secretary concerned for wildland suppression activities.
+
+(Pub. L. 111–88, div. A, title V, §502, Oct. 30, 2009, 123 Stat. 2968.)
 
 Codification
 
-In subsec. (b), “section 1110 of title 31” substituted for “section 607 of the Congressional Budget Act of 1974 [31 U.S.C. 11c]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+Section was enacted as part of the Federal Land Assistance, Management, and Enhancement Act of 2009, also known as the FLAME Act of 2009, and also as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+§1748b. Cohesive wildfire management strategy
+
+(a) Strategy required
+
+Not later than one year after October 30, 2009, the Secretary of the Interior and the Secretary of Agriculture, acting jointly, shall submit to Congress a report that contains a cohesive wildfire management strategy, consistent with the recommendations described in recent reports of the Government Accountability Office regarding management strategies.
+
+(b) Elements of strategy
+
+The strategy required by subsection (a) shall provide for—
+
+(1) the identification of the most cost-effective means for allocating fire management budget resources;
+
+(2) the reinvestment in non-fire programs by the Secretary of the Interior and the Secretary of Agriculture;
+
+(3) employing the appropriate management response to wildfires;
+
+(4) assessing the level of risk to communities;
+
+(5) the allocation of hazardous fuels reduction funds based on the priority of hazardous fuels reduction projects;
+
+(6) assessing the impacts of climate change on the frequency and severity of wildfire; and
+
+(7) studying the effects of invasive species on wildfire risk.
+
+(c) Revision
+
+At least once during each five-year period beginning on the date of the submission of the cohesive wildfire management strategy under subsection (a), the Secretary of the Interior and the Secretary of Agriculture shall revise the strategy to address any changes affecting the strategy, including changes with respect to landscape, vegetation, climate, and weather.
+
+(Pub. L. 111–88, div. A, title V, §503, Oct. 30, 2009, 123 Stat. 2971.)
+
+Codification
+
+Section was enacted as part of the Federal Land Assistance, Management, and Enhancement Act of 2009, also known as the FLAME Act of 2009, and also as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 SUBCHAPTER IV—RANGE MANAGEMENT
 
@@ -36723,7 +38002,7 @@ Desert Terminal Lakes
 
 Pub. L. 107–206, title I, §103, Aug. 2, 2002, 116 Stat. 823, provided that: “Not later than 14 days after the date of enactment of this Act [Aug. 2, 2002], the Secretary of Agriculture shall carry out the transfer of funds under section 2507(a) of the Food Security and Rural Investment Act of 2002 (Public Law 107–171) [set out below].”
 
-Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818, provided that:
+Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858, provided that:
 
 “(a) Transfer.—Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008 [June 18, 2008], the Secretary of Agriculture shall transfer $175,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account, which funds shall—
 
@@ -36733,9 +38012,11 @@ Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by 
 
 “(b) Permitted Uses.—In any case in which there are willing sellers, the funds described in subsection (a) may be used—
 
-“(1) to lease water; or
+“(1) to lease water;
 
-“(2) to purchase land, water appurtenant to the land, and related interests in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268).”
+“(2) to purchase land, water appurtenant to the land, and related interests in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268); and
+
+“(3) for efforts consistent with researching, supporting, and conserving fish, wildlife, plant, and habitat resources in the Walker River Basin.”
 
 §2212. Availability of water on temporary basis
 
