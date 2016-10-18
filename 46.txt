@@ -3331,7 +3331,7 @@ References in Text
 
 The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 113–281, which was approved Dec. 18, 2014.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to section 4605(j) of Title 50, War and National Defense.
 
 The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense.
 For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
@@ -4362,7 +4362,7 @@ Pub. L. 101–380, title IV, §4116(c), (d), Aug. 18, 1990, 104 Stat. 523, as am
 
 (5) a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
 
-(6) a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
+(6) a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).1
 
 (c)(1) In this subsection, the age of a vessel is determined from the later of the date on which the vessel—
 
@@ -4473,6 +4473,8 @@ References in Text
 The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters.
 For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
+Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (b)(6), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified to section 4405 of Title 50.
+
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(2)(A)(iv)(I), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
 Effective Date
@@ -4507,6 +4509,8 @@ Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc.
 No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+1 See References in Text note below.
 
 §3704. Coastwise trade vessels
 
@@ -13699,7 +13703,7 @@ Pub. L. 100–448, §6(d), Sept. 28, 1988, 102 Stat. 1841, provided that:
 
 "(A) using amounts available to the Secretary of the Interior for administrative expenses under the Act entitled 'An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes' (64 Stat. 430; 16 U.S.C. 777 et seq.); and
 
-"(B) subject to appropriations, using amounts available to the Secretary of Transportation under section 13106(a)(1) [now section 13107(a)(1)] of title 46, United States Code (as amended by this Act)."
+"(B) subject to appropriations, using amounts available to the Secretary of Transportation under section 13106(a)(1) [now section 13107(a)] of title 46, United States Code (as amended by this Act)."
 
 1 So in original.
 The words "United States Code," probably should not appear.
@@ -13843,11 +13847,9 @@ A prior section 13106 was renumbered section 13107 of this title.
 
 §13107. Authorization of appropriations
 
-(a)(1) Subject to paragraph (2) and subsection (c), the Secretary shall expend in each fiscal year for State recreational boating safety programs, under contracts with States under this chapter, an amount equal to the sum of (A) the amount made available from the Boat Safety Account for that fiscal year under section 15 of the Dingell-Johnson Sport Fish Restoration Act and (B) the amount transferred to the Secretary under subsections (a)(2) and (f) of section 4 of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(a)(2) and (f)). The amount shall be allocated as provided under section 13104 of this title and shall be available for State recreational boating safety programs as provided under the guidelines established under subsection (b) of this section.
+(a) Subject to subsection (c), the Secretary shall expend in each fiscal year for State recreational boating safety programs, under contracts with States under this chapter, an amount equal to the amount transferred to the Secretary under subsections (a)(2) and (f) of section 4 of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(a)(2) and (f)). The amount shall be allocated as provided under section 13104 of this title and shall be available for State recreational boating safety programs as provided under the guidelines established under subsection (b) of this section.
 Amounts authorized to be expended for State recreational boating safety programs shall remain available until expended and are deemed to have been expended only if an amount equal to the total amounts authorized to be expended under this section for the fiscal year in question and all prior fiscal years have been obligated.
 Amounts previously obligated but released by payment of a final voucher or modification of a program acceptance shall be credited to the balance of unobligated amounts and are immediately available for expenditure.
-
-(2) The Secretary shall use not more than two percent of the amount available each fiscal year for State recreational boating safety programs under this chapter to pay the costs of investigations, personnel, and activities related to administering those programs.
 
 (b) The Secretary shall establish guidelines prescribing the purposes for which amounts available under this chapter for State recreational boating safety programs may be used.
 Those purposes shall include—
@@ -13868,16 +13870,26 @@ Those purposes shall include—
 
 (8) providing State recreational vessel numbering and titling programs.
 
-(c)(1) Of the amount transferred to the Secretary under subsection (a)(2) of section 4 of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(a)(2)), $5,500,000 is available to the Secretary for payment of expenses of the Coast Guard for personnel and activities directly related to coordinating and carrying out the national recreational boating safety program under this title, of which not less than $2,000,000 shall be available to the Secretary only to ensure compliance with chapter 43 of this title.
+(c)(1)(A) The Secretary may use amounts made available each fiscal year under section 4(b)(2) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(b)(2)) for payment of expenses of the Coast Guard for investigations, personnel, and activities directly related to—
 
-(2) No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this section.
+(i) administering State recreational boating safety programs under this chapter; or
+
+(ii) coordinating or carrying out the national recreational boating safety program under this title.
+
+(B) Of the amounts used by the Secretary each fiscal year under subparagraph (A)—
+
+(i) not less than $2,100,000 is available to ensure compliance with chapter 43 of this title; and
+
+(ii) not more than $1,500,000 is available to conduct by grant or contract a survey of levels of recreational boating participation and related matters in the United States.
+
+(2) On and after October 1, 2016, no funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
 
 (3) Amounts made available by this subsection shall remain available during the 2 succeeding fiscal years.
 Any amount that is unexpended or unobligated at the end of the 3-year period during which it is available shall be withdrawn by the Secretary and allocated to the States in addition to any other amounts available for allocation in the fiscal year in which they are withdrawn or the following fiscal year.
 
 (4) The Secretary shall publish annually in the Federal Register a detailed accounting of the projects, programs, and activities funded under this subsection.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596, §13106; Pub. L. 98–369, div. A, title X, §1012, July 18, 1984, 98 Stat. 1013; Pub. L. 99–626, §4(c), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 99–640, §7(b), (c), Nov. 10, 1986, 100 Stat. 3548; Pub. L. 100–448, §6(b)(1)(A), (2), (6), Sept. 28, 1988, 102 Stat. 1839, 1840; Pub. L. 105–178, title VII, §7405(b), (c)(1), June 9, 1998, 112 Stat. 487, 488; Pub. L. 108–88, §9(c), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(c), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §6(c), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(c), June 30, 2004, 118 Stat. 704; Pub. L. 108–280, §6(c), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §9(c), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 109–14, §8(c), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §8(c), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §8(c), July 20, 2005, 119 Stat. 390; Pub. L. 109–37, §8(c), July 22, 2005, 119 Stat. 405; Pub. L. 109–40, §8(c), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10143, Aug. 10, 2005, 119 Stat. 1931; Pub. L. 109–74, title I, §102, title II, §203, Sept. 29, 2005, 119 Stat. 2030, 2032; renumbered §13107 and amended Pub. L. 109–304, §16(b)(1), (c)(5), Oct. 6, 2006, 120 Stat. 1705, 1706.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596, §13106; Pub. L. 98–369, div. A, title X, §1012, July 18, 1984, 98 Stat. 1013; Pub. L. 99–626, §4(c), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 99–640, §7(b), (c), Nov. 10, 1986, 100 Stat. 3548; Pub. L. 100–448, §6(b)(1)(A), (2), (6), Sept. 28, 1988, 102 Stat. 1839, 1840; Pub. L. 105–178, title VII, §7405(b), (c)(1), June 9, 1998, 112 Stat. 487, 488; Pub. L. 108–88, §9(c), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(c), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §6(c), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(c), June 30, 2004, 118 Stat. 704; Pub. L. 108–280, §6(c), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §9(c), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 109–14, §8(c), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §8(c), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §8(c), July 20, 2005, 119 Stat. 390; Pub. L. 109–37, §8(c), July 22, 2005, 119 Stat. 405; Pub. L. 109–40, §8(c), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10143, Aug. 10, 2005, 119 Stat. 1931; Pub. L. 109–74, title I, §102, title II, §203, Sept. 29, 2005, 119 Stat. 2030, 2032; renumbered §13107 and amended Pub. L. 109–304, §16(b)(1), (c)(5), Oct. 6, 2006, 120 Stat. 1705, 1706; Pub. L. 114–94, div. A, title X, §10002, Dec. 4, 2015, 129 Stat. 1621.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	13106 	46:1479
@@ -13885,10 +13897,6 @@ Historical and Revision Notes	Revised section	Source section (U.S. Code)
 Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax.
 One third shall be used for State boating safety programs, and 2/3 shall be used for State facilities improvement programs.
 And as provided in Section 13102(f), the approval of a State's program makes it a contractual obligation of the United States Government to provide the amounts available.
-
-References in Text
-
-Section 15 of the Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (a)(1), is classified to section 777n of Title 16, Conservation.
 
 Prior Provisions
 
@@ -19647,7 +19655,7 @@ Miscellaneous studies.
 Securing preference to vessels of the United States.
 
 50111.
-Reports to Congress.
+Submission of annual MARAD authorization request.
 
 50112.
 National Maritime Enhancement Institutes.
@@ -19879,16 +19887,17 @@ Historical and Revision Notes	Revised Section
 	50110(b)	46 App.:1122(b)(1).	June 29, 1936, ch. 858, title II, §212(b)(1), (d), 49 Stat. 1990; Pub. L. 97–31, §12(69), Aug. 6, 1981, 95 Stat. 159; Pub. L. 98–237, §20(c), Mar. 20, 1984, 98 Stat. 90.
 	50110(c)	46 App.:1122(d).	
 
-§50111. Reports to Congress
+§50111. Submission of annual MARAD authorization request
 
-(a) In General.—Not later than April 1 of each year, the Secretary of Transportation shall submit a report to Congress.
-The report shall include, with respect to activities of the Secretary under this subtitle, the results of investigations, a summary of transactions, a statement of all expenditures and receipts, the purposes for which all expenditures were made, and any recommendations for legislation.
+(a) Submission of Legislative Proposal.—Not later than 30 days after the date on which the President submits to Congress a budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Transportation shall submit to the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the Maritime Administration authorization request for that fiscal year.
 
-(b) Administered and Oversight Funds.—The Secretary, in the report under subsection (a) and in the annual budget estimate for the Maritime Administration submitted to Congress, shall state separately the amount, source, intended use, and nature of any funds (other than funds appropriated to the Administration or to the Secretary of Transportation for use by the Administration) administered, or subject to oversight, by the Administration.
+(b) Maritime Administration Request Defined.—In this section, the term "Maritime Administration authorization request" means a proposal for legislation that, for a fiscal year—
 
-(c) Additional Recommendations for Legislation.—The Secretary, from time to time, shall make recommendations to Congress for legislation the Secretary considers necessary to better achieve the objectives and policy of section 50101 of this title.
+(1) recommends authorizations of appropriations for the Maritime Administration for that fiscal year, including with respect to matters described in subsection 1 109(j) of title 49 or authorized in subtitle V of this title; and
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1560.)
+(2) addresses any other matter with respect to the Maritime Administration that the Secretary determines is appropriate.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1560; Pub. L. 114–92, div. A, title X, §1074(c)(1), Nov. 25, 2015, 129 Stat. 996.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -19902,6 +19911,9 @@ June 10, 1933; June 29, 1936, ch. 858, title II, §204, title IX, §904, 49 Stat
 	50111(c)	46 App.:1122(g).	June 29, 1936, ch. 858, title II, §212(g), 49 Stat. 1990; Pub. L. 90–268, §1, Mar. 16, 1968, 82 Stat. 49; Pub. L. 97–31, §12(69), Aug. 6, 1981, 95 Stat. 159; Pub. L. 98–237, §20(c), Mar. 20, 1984, 98 Stat. 90.
 
 In subsection (a), the words "on or before the 1st day of December in each year" in 46 App. U.S.C. 811 (last sentence) are omitted for consistency with the April 1 date in 46 App.:1118. The words "and of the operations of any corporation in which the United States is a stockholder, and the names and compensation of all persons employed by the Secretary of Transportation" in 46 App. U.S.C. 811 (last sentence) are omitted because the provision originally applied to the United States Shipping Board (which was abolished in 1933) and presumably is not intended to apply to the Secretary.
+
+1 So in original.
+Probably should be "section".
 
 §50112. National Maritime Enhancement Institutes
 
@@ -19955,7 +19967,7 @@ Historical and Revision Notes	Revised Section
 
 Change of Name
 
-"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in subsec. (f) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under section 112 of Title 49, Transportation.
+"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in subsec. (f) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under former section 112 of Title 49, Transportation.
 
 §50113. Use and performance reports by operators of vessels
 
@@ -20006,7 +20018,7 @@ Maritime environmental and technical assistance program.
 The Fund has a working capital of $20,000,000, to remain available until expended.
 
 (b) Relationship to Other Laws.—Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund.
-Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), apply to those operations and to seamen employed through general agents as employees of the United States Government.
+Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294),1 apply to those operations and to seamen employed through general agents as employees of the United States Government.
 Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
 
 (c) Advancements.—With the approval of the Director of the Office of Management and Budget, the Secretary may advance amounts the Secretary considers necessary, but not more than 2 percent of vessel operating expenses, from the Fund to the appropriation "Salaries and Expenses" in carrying out duties and powers related to vessel operations, without regard to the limitations on amounts stated in that appropriation.
@@ -20063,6 +20075,12 @@ Paragraph (3) is substituted for "(except in cases where section 1212 of this Ap
 In subsection (f), the words "On and after June 20, 1956", and the last proviso in the 4th complete par. at 70 Stat. 319 (46 App. U.S.C. 1241b note), are omitted as obsolete.
 
 In subsection (g), the words "beginning July 1, 1956" and "after July 1, 1956" are omitted as obsolete.
+
+References in Text
+
+Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (b), are sections 1(a) and (c), 3(c), and 4 of act Mar. 24, 1943, ch. 26, 57 Stat. 45, 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as sections 4701(a), (c), 4703(c), and 4704, respectively, of Title 50.
+
+1 See References in Text note below.
 
 §50302. Port development
 
@@ -20597,78 +20615,6 @@ Historical and Revision Notes	Revised Section
 
 In subsection (c), the word "department" is omitted as unnecessary because of the definition of "agency" in chapter 1 of the revised title.
 
-§51104. General authority of Secretary of the Navy
-
-The Secretary of the Navy, in cooperation with the Maritime Administrator and the head of each State maritime academy, shall ensure that—
-
-(1) the training of future merchant marine officers at the United States Merchant Marine Academy and at State maritime academies includes programs for naval science training in the operation of merchant vessels as a naval and military auxiliary; and
-
-(2) naval officer training programs for future officers, insofar as possible, are maintained at designated maritime academies consistent with Navy standards and needs.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	51104	46 App.:1126–1(a) (last sentence), (b).	Pub. L. 94–361, title VI, §603(a) (last sentence), (b), July 14, 1976, 90 Stat. 929; Pub. L. 97–31, §12(76), Aug. 6, 1981, 95 Stat. 160.
-	 	46 App.:1295 (last sentence cl. (2)).	June 29, 1936, ch. 858, title XIII, §1301 (last sentence cl. (2)), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1997; Pub. L. 97–31, §12(142)(B), Aug. 6, 1981, 95 Stat. 166.
-
-CHAPTER 513—UNITED STATES MERCHANT MARINE ACADEMY
-
-Sec.
-
-51301.
-Maintenance of the Academy.
-
-51302.
-Nomination and competitive appointment of cadets.
-
-51303.
-Non-competitive appointments.
-
-51304.
-Additional appointments from particular areas.
-
-51305.
-Prohibited basis for appointment.
-
-51306.
-Cadet commitment agreements.
-
-51307.
-Places of training.
-
-51308.
-Uniforms, textbooks, and transportation allowances.
-
-51309.
-Academic degree.
-
-51310.
-Deferment of service obligation under cadet commitment agreements.
-
-51311.
-Midshipman status in the Navy Reserve.
-
-51312.
-Board of Visitors.
-
-51313.
-Advisory Board.
-
-51314.
-Limitation on charges and fees for attendance.
-
-51315.
-Gifts to the Merchant Marine Academy.
-
-51316.
-Temporary appointments to the Academy.
-
-51317.
-Adjunct professors.
-
-        
-
 §51301. Maintenance of the Academy
 
 (a) In General.—The Secretary of Transportation shall maintain the United States Merchant Marine Academy as an institution of higher education to provide instruction to individuals to prepare them for service in the merchant marine of the United States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.
@@ -20860,15 +20806,21 @@ Historical and Revision Notes	Revised Section
 
 §51306. Cadet commitment agreements
 
-(a) Agreement Requirements.—A citizen of the United States appointed as a cadet at the United States Merchant Marine Academy must sign, as a condition of the appointment, an agreement to—
+(a) Agreement Requirements.—A citizen of the United States appointed as a cadet at the United States Merchant Marine Academy shall sign, as a condition of the appointment, an agreement to—
 
 (1) complete the course of instruction at the Academy;
 
-(2) fulfill the requirements for a license as an officer in the merchant marine of the United States before graduation from the Academy;
+(2) obtain a merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation, before graduation from the Academy;
 
-(3) maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the Academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
+(3) for at least 6 years after graduation from the Academy, maintain—
 
-(4) apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the Academy;
+(A) a valid merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation;
+
+(B) a valid transportation worker identification credential; and
+
+(C) a Coast Guard medical certificate;
+
+(4) apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve, meet the participation requirements, and maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
 (5) serve the foreign and domestic commerce and the national defense of the United States for at least 5 years after graduation from the Academy—
 
@@ -20921,7 +20873,7 @@ The Secretary may reduce the amount to be recovered to reflect partial performan
 
 (3) Considered as in default.—Upon receipt of such a report or notice, such graduate may be considered to be in default of the graduate's service obligations by the Secretary, and subject to all remedies the Secretary may have with respect to such a default.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §§3505(a), 3506(a), Oct. 17, 2006, 120 Stat. 2516, 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, 122 Stat. 598, 600–602.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §§3505(a), 3506(a), Oct. 17, 2006, 120 Stat. 2516, 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, 122 Stat. 598, 600–602; Pub. L. 114–92, div. C, title XXXV, §3506, Nov. 25, 2015, 129 Stat. 1220.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -21178,64 +21130,6 @@ Historical and Revision Notes	Revised Section
 
 The words "Committee on Armed Services" are substituted for "Committee on Merchant Marine and Fisheries" to reflect changes in committee structure made by the 104th Congress.
 
-Deadlines; Continuation of Service
-
-Pub. L. 113–291, div. C, title XXXV, §3504(b), (c), Dec. 19, 2014, 128 Stat. 3909, provided that:
-
-"(b) Deadlines.—
-
-"(1) Selection of designated federal officer.—The Secretary of Transportation shall select a Designated Federal Officer under subsection (g)(2) of section 51312 of title 46, United States Code, as amended by this Act, by not later than 30 days after the date of the enactment of this Act [Dec. 19, 2014].
-
-"(2) Appointment of members.—Appointments under subsection (b)(1) of such section shall be completed by not later than 60 days after the date of the enactment of this Act.
-
-"(3) Organization of first meeting.—Such Designated Federal Officer shall organize a meeting of the Board under section (d)(2) of such section by not later than 60 days after the date of the enactment of this Act.
-
-"(c) Continuation of Service of Current Members.—Each member of the Board of Visitors serving as a member of the Board on the date of the enactment of this Act shall continue to serve on the Board for the remainder of such member's term."
-
-1 So in original.
-
-2 So in original.
-Probably should be "subsection".
-
-§51313. Advisory Board
-
-(a) In General.—An Advisory Board to the United States Merchant Marine Academy shall be established to visit the Academy at least once during each academic year, for the purpose of examining the course of instruction and management of the Academy and advising the Maritime Administrator and the Superintendent of the Academy.
-
-(b) Appointment and Terms.—The Board shall be composed of not more than 7 individuals appointed by the Secretary of Transportation.
-The individuals must be distinguished in education and other fields related to the Academy.
-Members of the Board shall be appointed for terms of not more than 3 years and may be reappointed.
-The Secretary shall designate one of the members as chairman.
-
-(c) Travel Expenses.—When serving away from home or regular place of business, a member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
-
-(d) Relationship to Other Law.—The Federal Advisory Committee Act (5 App. U.S.C.) does not apply to the Board.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	51313	46 App.:1295b(i).	June 29, 1936, ch. 858, title XIII, §1303(i), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2002; Pub. L. 97–31, §12(144)(C), Aug. 6, 1981, 95 Stat. 166.
-
-References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-§51314. Limitation on charges and fees for attendance
-
-(a) Prohibition.—Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the United States Merchant Marine Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
-
-(b) Exception.—The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees.
-The Secretary of Transportation shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
-Such fees shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees.
-Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary.
-The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576; Pub. L. 111–84, div. C, title XXXV, §3510, Oct. 28, 2009, 123 Stat. 2722; Pub. L. 111–117, div. A, title I, §176, Dec. 16, 2009, 123 Stat. 3068.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	51314	46 App.:1295b(j).	June 29, 1936, ch. 858, title XIII, §1303(j), as added Pub. L. 108–375, Oct. 28, 2004, div. A, title V, §545(e), 118 Stat. 1909.
-
 §51315. Gifts to the Merchant Marine Academy
 
 (a) In General.—The Maritime Administrator may accept and use conditional or unconditional gifts of money or property for the benefit of the United States Merchant Marine Academy, including acceptance and use for non-appropriated fund instrumentalities of the Merchant Marine Academy.
@@ -21343,6 +21237,110 @@ Midshipman status in the Navy Reserve.
 
         
 
+§51501. General support program
+
+(a) Assistance to State Maritime Academies.—The Secretary of Transportation shall cooperate with and assist State maritime academies in providing instruction to individuals to prepare them for service in the merchant marine of the United States.
+
+(b) Course Development.—The Secretary shall provide to each State maritime academy guidance and assistance in developing courses on the operation and maintenance of new vessels, on equipment, and on innovations being introduced to the merchant marine of the United States.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577.)
+
+Historical and Revision Notes	Revised Section
+	Source (U.S. Code)	Source (Statutes at Large)
+	51501(a)	46 App.:1295c(a).	June 29, 1936, ch. 858, title XIII, §1304(a), (d)(2), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003, 2004.
+	51501(b)	46 App.:1295c(d)(2).	
+
+§51502. Detailing of personnel
+
+At the request of the Governor of a State, the President may detail, without reimbursement, personnel of the Navy, the Coast Guard, and the Maritime Service to a State maritime academy to serve as a superintendent, professor, lecturer, or instructor at the academy.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577.)
+
+Historical and Revision Notes	Revised Section
+	Source (U.S. Code)	Source (Statutes at Large)
+	51502	46 App.:1295c(e).	June 29, 1936, ch. 858, title XIII, §1304(e), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2004.
+
+The reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
+
+§51503. Regional maritime academies
+
+The Governors of the States cooperating to sponsor a regional maritime academy shall designate in writing one of those States to conduct the affairs of that academy.
+A regional maritime academy is eligible for assistance from the United States Government on the same basis as a State maritime academy sponsored by a single State.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577.)
+
+Historical and Revision Notes	Revised Section
+	Source (U.S. Code)	Source (Statutes at Large)
+	51503	46 App.:1295c(b).	June 29, 1936, ch. 858, title XIII, §1304(b), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003.
+
+The reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
+
+§51504. Use of training vessels
+
+(a) Applications To Use Vessels.—The Governor of a State sponsoring a State maritime academy (or the Governor of the State designated to conduct the affairs of a regional maritime academy) may apply in writing to the Secretary of Transportation to obtain the use of a training vessel for the academy.
+A vessel provided under this section remains the property of the United States Government.
+
+(b) General Authority.—Subject to subsection (c), the Secretary may provide to a State maritime academy, for use as a training vessel, a suitable vessel under the control of the Secretary or made available to the Secretary under subsection (e). If a suitable vessel is not available, the Secretary may build and provide a suitable vessel.
+
+(c) Approval Requirements.—The Secretary may provide a vessel under this section only if—
+
+(1) an application has been made under subsection (a);
+
+(2) the State maritime academy satisfies section 51506(a) of this title; and
+
+(3) a suitable port will be available for the safe mooring of the vessel while the academy is using the vessel.
+
+(d) Preparation and Maintenance.—A vessel provided under this section shall be—
+
+(1) repaired, reconditioned, and equipped (with all apparel, charts, books, and instruments of navigation) as necessary for use as a training vessel; and
+
+(2) maintained in good repair by the Secretary.
+
+(e) Agency Vessels.—An agency may provide to the Secretary, for use by a State maritime academy, a vessel (including equipment) that—
+
+(1) is suitable for training purposes; and
+
+(2) can be provided without detriment to the service to which the vessel is assigned.
+
+(f) Fuel Costs.—
+
+(1) In general.—Subject to the availability of appropriations, the Secretary shall pay to each State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
+
+(2) Maximum amounts.—The amount of the payment to a State maritime academy under paragraph (1) may not exceed—
+
+(A) $100,000 for fiscal year 2006;
+
+(B) $200,000 for fiscal year 2007; and
+
+(C) $300,000 for fiscal year 2008 and each fiscal year thereafter.
+
+(g) Removing Vessels From Service and Vessel Sharing.—The Secretary may not—
+
+(1) take a vessel, currently in use as a training vessel under this section, out of service to implement an alternative program (including vessel sharing) unless the vessel is incapable of being maintained in good repair as required by subsection (d); or
+
+(2) implement a program requiring a State maritime academy to share its training vessel with another State maritime academy, except with the express consent of Congress.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577; Pub. L. 109–163, div. C, title XXXV, §3502(b), Jan. 6, 2006, 119 Stat. 3548; Pub. L. 110–181, div. C, title XXXV, §3523(a)(2), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
+
+Historical and Revision Notes	Revised Section
+	Source (U.S. Code)	Source (Statutes at Large)
+	51504(a)	46 App.:1295c(c)(1) (A)(ii), (v).	June 29, 1936, ch. 858, title XIII, §1304(c)(1), (2), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003.
+	51504(b)	46 App.:1295c(c)(1) (A) (1st sentence words before "meeting the requirements").	
+	51504(c)(1)	46 App.:1295c(c)(1) (A)(ii).	
+	51504(c)(2)	46 App.:1295c(c)(1) (A) (1st sentence words beginning with "meeting the requirements").	
+	51504(c)(3)	46 App.:1295c(c)(1) (A)(iii).	
+	51504(d)(1)	46 App.:1295c(c)(1) (A)(i).	
+	51504(d)(2)	46 App.:1295c(c)(1) (A)(iv).	
+	51504(e)	46 App.:1295c(c)(1) (B).	
+	51504(f)	46 App.:1295c(c)(2).	
+	51504(g)	46 App.:1295c note.	Pub. L. 101–115, §4, Oct. 13, 1989, 103 Stat. 692; Pub. L. 101–595, title VII, §705, Nov. 16, 1990, 104 Stat. 2994.
+
+In subsection (a), the reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
+
+In subsection (e), before paragraph (1), the word "agency" is substituted for "department or agency of the United States" because of the definition of "agency" in chapter 1 of the revised title.
+
+In subsection (g), the 1st–3d sentences of section 4 of Public Law 101–115 are omitted as obsolete.
+
 §51505. Annual payments for maintenance and support
 
 (a) Payment Agreements.—The Secretary of Transportation may make an agreement (effective for not more than 4 years) with the following academies to provide annual payments to those academies for their maintenance and support:
@@ -21425,20 +21423,31 @@ Historical and Revision Notes	Revised Section
 An agreement with a student may not be effective for more than 4 academic years.
 The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
 
-(b) Payments.—Payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
-The payments shall be used for uniforms, tuition, books, and subsistence.
+(b) Payments.—
 
-(c) Enlisted Reserve Status.—An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
+(1) In general.—Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
+
+(2) Exception.—The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $32,000.
+
+(3) Authorized uses.—The payments shall be used for uniforms, tuition, books, and subsistence.
+
+(c) Enlisted Reserve Status.—An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
 
 (d) Agreement Requirements.—An agreement under this section shall require the student to—
 
 (1) complete the course of instruction at the academy the individual is attending;
 
-(2) take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;
+(2) obtain a merchant mariner license, without limitation as to tonnage or horsepower, from the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation, within three months of completion of the course of instruction at the academy the individual is attending;
 
-(3) maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
+(3) for at least 6 years after graduation from the academy, maintain—
 
-(4) accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;
+(A) a valid merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation;
+
+(B) a valid transportation worker identification credential; and
+
+(C) a Coast Guard medical certificate;
+
+(4) apply for, and accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve and meet the participation requirements and to maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
 (5) serve the foreign and domestic commerce and the national defense of the United States for at least 3 years after graduation from the academy—
 
@@ -21454,8 +21463,25 @@ The payments shall be used for uniforms, tuition, books, and subsistence.
 
 (e) Failure To Complete Course of Instruction.—
 
-(1) Active duty.—If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years.
-In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
+(1) Active duty.—
+
+(A) In general.—The Secretary of Defense may order an individual to serve on active duty in the armed forces of the United States for a period of not more than 2 years if—
+
+(i) the individual has attended an academy under this section for more than 2 academic years, but less than 3 academic years;
+
+(ii) the individual has accepted the payments described in subsection (b) in an amount totaling at least $8,000; and
+
+(iii) the Secretary of Transportation has determined that the individual has failed to fulfill the part of the agreement described in subsection (d)(1).
+
+(B) 3 or more years.—The Secretary of Defense may order an individual to serve on active duty in the armed forces of the United States for a period of not more than 3 years if—
+
+(i) the individual has attended an academy under this section for 3 or more academic years;
+
+(ii) the individual has accepted the payments described in subsection (b) in an amount totaling at least $16,000; and
+
+(iii) the Secretary of Transportation has determined that the individual has failed to fulfill the part of the agreement described in subsection (d)(1).
+
+(C) Hardship waiver.—In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
 
 (2) Recovery of cost.—If the Secretary of Defense is unable or unwilling to order an individual to serve on active duty under paragraph (1), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary of Transportation may recover from the individual the amount of student incentive payments, plus interest and attorney fees.
 The Secretary may reduce the amount to be recovered to reflect partial performance of service obligations and other factors the Secretary determines merit a reduction.
@@ -21474,7 +21500,13 @@ The Secretary may reduce the amount to be recovered to reflect partial performan
 
 (2) make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721.)
+(h) Alternative Service.—
+
+(1) Service as commissioned officer.—An individual who, for the 5-year period following graduation from an academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (d).
+
+(2) Modification or waiver.—The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 114–92, div. C, title XXXV, §3507, Nov. 25, 2015, 129 Stat. 1221.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -21818,7 +21850,7 @@ Reemployment rights for certain merchant seamen.
 
 (A) was employed in the activation or operation of a vessel—
 
-(i) in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744) in a period in which the vessel was in use or being activated for use under subsection (b) of that section;
+(i) in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744) 1 in a period in which the vessel was in use or being activated for use under subsection (b) of that section;
 
 (ii) requisitioned or purchased under chapter 563 of this title; or
 
@@ -21828,7 +21860,7 @@ Reemployment rights for certain merchant seamen.
 
 (2) if the Secretary makes affirmative determinations under subparagraphs (A) and (B) of paragraph (1), certify that individual under this subsection.
 
-(d) Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
+(d) Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).1
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1585.)
 
@@ -21839,6 +21871,14 @@ Historical and Revision Notes	Revised Section
 In subsection (c)(1)(B), the words "(as applicable)" are omitted as unnecessary.
 
 In subsection (d), the words "certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a))" are substituted for "certificate referred to in paragraph (1) of section 4301(a) of title 38" because section 4301 of title 38 was amended generally by section 2(a) of Public Law 103–353, and before the amendment section 4301(a)(1) referred to a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
+
+References in Text
+
+Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (c)(1)(A)(i), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4405 of Title 50.
+
+Section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)), referred to in subsec. (d), is section 9(a) of act June 24, 1948, ch. 625, 62 Stat. 614, which was classified to section 459(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3808(a) of Title 50.
+
+1 See References in Text note below.
 
 Part C—Financial Assistance Programs
 
@@ -22251,7 +22291,7 @@ If as a result of such allocation, the expenses the purchaser incurs with respec
 Such vessel shall thereupon be eligible for an operating-differential subsidy under title VI of this Act [former 46 U.S.C. App. 1171 et seq., see Disposition Table preceding section 101 of this title], notwithstanding the provisions of section 601(a)(1), and section 610(1) [set out below], or any other provision of law.
 
 "(h) The Secretary of Transportation is authorized to construct, purchase, lease, acquire, store, maintain, sell, or otherwise dispose of national defense features intended for installation on vessels.
-The Secretary of Transportation is authorized to install or remove such national defense features on any vessel (1) which is in the National Defense Reserve Fleet as defined by section 11(a) of the Merchant Ship Sales Act of 1946 [50 U.S.C. App. 1744(a)], (2) which is requisitioned, purchased, or chartered under section 902 of the Merchant Marine Act, 1936 [former 46 U.S.C. App. 1242, now 46 U.S.C. 56301 et seq.], (3) which serves as security for the guarantee of an obligation by the Secretary of Transportation under title XI of this Act [former 46 U.S.C. App. 1271 et seq., see 46 U.S.C. 53701 et seq.], or (4) which is the subject of an agreement between the owner of such vessel and the Secretary of Transportation to install or remove such national defense features.
+The Secretary of Transportation is authorized to install or remove such national defense features on any vessel (1) which is in the National Defense Reserve Fleet as defined by section 11(a) of the Merchant Ship Sales Act of 1946 [50 U.S.C. 4405(a)], (2) which is requisitioned, purchased, or chartered under section 902 of the Merchant Marine Act, 1936 [former 46 U.S.C. App. 1242, now 46 U.S.C. 56301 et seq.], (3) which serves as security for the guarantee of an obligation by the Secretary of Transportation under title XI of this Act [former 46 U.S.C. App. 1271 et seq., see 46 U.S.C. 53701 et seq.], or (4) which is the subject of an agreement between the owner of such vessel and the Secretary of Transportation to install or remove such national defense features.
 Title to such national defense features which the Secretary of Transportation determines are not to be permanently incorporated in a vessel shall not be affected by such installation or removal unless otherwise transferred in accordance with the provisions of this title V.
 
 "(i) The Secretary of Transportation shall submit the plans and specifications for such national defense features and the proposals for their acquisition, storage, utilization, or disposition to the Navy Department for examination thereof and suggestion for such changes therein as may be deemed necessary or proper in order that such features shall be suitable for the use of the United States Government in time of war or national emergency.
@@ -22588,7 +22628,7 @@ Contracts Designed Equitably for All Ports; Minimum Allocation of Funds; Report 
 In order to assure equitable treatment for each range of ports referred to in the preceding sentence, not less than 10 percent of the funds appropriated for construction-differential subsidy and operating-differential subsidy pursuant to this Act or any law authorizing funds for the purposes of this Act shall be allocated to each such port range: Provided, however, That such allocation shall apply to the extent that subsidy contracts are approved by the Secretary of Transportation.
 For the purposes of this section, the Secretary shall establish trade routes, services, or lines that take into account the seasonal closure of the Saint Lawrence Seaway and provide for alternate routing of ships via a different range of ports during that closure so as to maintain continuity of service on a year-round basis.
 For the purposes of section 605(c) [set out above], such an alternate routing via a different range of ports shall be deemed to be service from Great Lakes ports, provided such alternative routing is based upon receipt or delivery of cargo at Great Lakes-Saint Lawrence Seaway ports under through intermodal bills of lading.
-The Secretary shall include in the annual report pursuant to section 208 of this Act [former 46 U.S.C. App. 1118, see 46 U.S.C. 50111(a)] a detailed report (1) describing the actions that have been taken pursuant to this Act to assure insofar as possible that direct and adequate service is provided by United States-flag commercial vessels to each range of ports referred to in this section; and (2) including any recommendations for additional legislation that may be necessary to achieve the purpose of this section.
+The Secretary shall include in the annual report pursuant to section 208 of this Act [former 46 U.S.C. App. 1118] a detailed report (1) describing the actions that have been taken pursuant to this Act to assure insofar as possible that direct and adequate service is provided by United States-flag commercial vessels to each range of ports referred to in this section; and (2) including any recommendations for additional legislation that may be necessary to achieve the purpose of this section.
 In awarding contracts under this Act, preference shall be given to persons who are citizens of the United States and who have the support, financial and otherwise, of the domestic communities primarily interested.
 
 "(b) [Repealed.
@@ -22837,13 +22877,17 @@ A transaction shall not be considered a transfer of an operating agreement if th
 
 (A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
 
-(B) $2,900,000,1 for each of fiscal years 2009, 2010, and 2011;
+(B) $2,900,000 for each of fiscal years 2009, 2010, and 2011;
 
-(C) $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
+(C) $3,100,000 for each of fiscal years 2012, 2013, 2014, and 2015;
 
-(D) $3,500,000 for each of fiscal years 2019, 2020, and 2021; and
+(D) $4,999,950 for fiscal year 2017;
 
-(E) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+(E) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
+
+(F) $5,233,463 for fiscal year 2021; and
+
+(G) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
 
 (2) Timing.—The amount shall be paid in equal monthly installments at the end of each month.
 The amount shall not be reduced except as provided by this section.
@@ -22881,10 +22925,7 @@ Days during which the vessel is drydocked, surveyed, inspected, or repaired shal
 
 (3) Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225.)
-
-1 So in original.
-The comma probably should not appear.
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988.)
 
 §53107. National security requirements
 
@@ -22982,13 +23023,20 @@ There are authorized to be appropriated for payments under section 53106, to rem
 
 (2) $174,000,000 for each of fiscal years 2009, 2010, and 2011;
 
-(3) $186,000,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
+(3) $186,000,000 for each of fiscal years 2012, 2013, 2014, and 2015 1
 
-(4) $210,000,000 for each of fiscal years 2019, 2020, and 2021; and
+(4) $299,997,000 for fiscal year 2017;
 
-(5) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
+(5) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1817; amended Pub. L. 111–383, div. C, title XXXV, §3502(3), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(i), Jan. 2, 2013, 126 Stat. 2225.)
+(6) $314,007,780 for fiscal year 2021; and
+
+(7) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
+
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1817; amended Pub. L. 111–383, div. C, title XXXV, §3502(3), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(i), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–92, div. C, title XXXV, §3504(b), Nov. 25, 2015, 129 Stat. 1219; Pub. L. 114–113, div. O, title I, §101(e)(2), Dec. 18, 2015, 129 Stat. 2988.)
+
+1 So in original.
+Probably should be followed by a semicolon.
 
 CHAPTER 533—CONSTRUCTION RESERVE FUNDS
 
@@ -24944,19 +24992,6 @@ Historical and Revision Notes	Revised Section
 
 In subsections (b) and (d), the words "appropriate account under section 53717 of this title" are substituted for "Federal Ship Financing Fund" because the accounts under section 53717 replace the Federal Ship Financing Fund.
 See the explanation for section 53717.
-
-§53724. Rights to secured property
-
-(a) Acquisition of Security Rights.—When the Secretary or Administrator makes a payment on, or assumes, an obligation under section 53721 or 53722 of this title, the Secretary or Administrator acquires the rights under the security agreement with the obligor in the security held by the Secretary or Administrator to guarantee the obligation.
-
-(b) Use and Disposition of Secured Property.—Notwithstanding any other law relating to the acquisition, handling, or disposal of property by the United States Government, the Secretary or Administrator has the right, in the Secretary's or Administrator's discretion, to complete, reconstruct, recondition, renovate, repair, maintain, operate, charter, or sell any property acquired under a security agreement with an obligor, or to place a vessel so acquired in the National Defense Reserve Fleet.
-The terms of a sale under this subsection shall be as approved by the Secretary or Administrator.
-
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1619; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	53724	46 App.:1275(c).	June 29, 1936, ch. 858, title XI, §1105(c), as added June 23, 1938, ch. 600, §46, 52 Stat. 971; Aug. 15, 1953, ch. 513, §3, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §5, 68 Stat. 1272; Aug. 7, 1956, ch. 1026, §1(e)–(g), 70 Stat. 1087; Pub. L. 85–520, July 15, 1958, 72 Stat. 358; Pub. L. 91–469, §33, Oct. 21, 1970, 84 Stat. 1035; restated Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 914; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 98–595, §1(10), Oct. 30, 1984, 98 Stat. 3131.
 
 §53725. Actions against obligor
 
@@ -27174,9 +27209,13 @@ In this chapter, the term "short sea transportation" means the carriage by a doc
 
 (1) that is—
 
-(A) contained in intermodal cargo containers and loaded by crane on the vessel; or
+(A) contained in intermodal cargo containers and loaded by crane on the vessel;
 
-(B) loaded on the vessel by means of wheeled technology; and
+(B) loaded on the vessel by means of wheeled technology;
+
+(C) shipped in discrete units or packages that are handled individually, palletized, or unitized for purposes of transportation; or
+
+(D) freight vehicles carried aboard commuter ferry boats; and
 
 (2) that is—
 
@@ -27184,7 +27223,7 @@ In this chapter, the term "short sea transportation" means the carriage by a doc
 
 (B) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
 
-(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761; amended Pub. L. 112–213, title IV, §405(b), Dec. 20, 2012, 126 Stat. 1571.)
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761; amended Pub. L. 112–213, title IV, §405(b), Dec. 20, 2012, 126 Stat. 1571; Pub. L. 114–92, div. C, title XXXV, §3508, Nov. 25, 2015, 129 Stat. 1223.)
 
 Part E—Control of Merchant Marine Capabilities
 
@@ -27270,8 +27309,10 @@ In subsection (c), before paragraph (1), the words "Notwithstanding any other pr
 
 References in Text
 
-The Merchant Marine Act, 1936, referred to in subsecs. (a)(1), (c), is act June 29, 1936, ch. 858, 49 Stat. 1985, which enacted provisions set out as notes under section 53101 of this title.
-For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
+The Merchant Marine Act, 1936, referred to in subsecs. (a)(1), (c), is act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified principally to chapter 27 (§1101 et seq.) of the former Appendix to Title 46, Shipping.
+Most of the Act was repealed and restated mainly in this subtitle by Pub. L. 109–304, §§8, 19, Oct. 6, 2006, 120 Stat. 1555, 1710. Titles V and VI and sections 301, 801, 802, 809(a), and 909 of the Act were not repealed and are set out as notes under section 53101 of this title.
+For complete classification of the Act to the Code, see Tables.
+For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of this title.
 
 §56102. Additional controls during war or national emergency
 
@@ -27725,7 +27766,7 @@ Operation of vessels purchased, chartered, or leased from Secretary of Transport
 
 §57101. Placement of vessels in National Defense Reserve Fleet
 
-(a) In General.—Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
+(a) In General.—Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).1
 
 (b) Removal From Fleet.—A vessel placed in the Fleet under subsection (a) may not be traded out or sold from the Fleet, except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title.
 
@@ -27741,6 +27782,12 @@ In subsection (a), the words "vessel acquired by the Maritime Administration" ar
 
 In subsection (b), the words "except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title" are substituted for "except as provided for in subsections (g) and (i) of this section.
 This limitation shall not affect the rights of the Secretary of Transportation to dispose of a vessel as provided in other sections of this subchapter or in subchapters VII or XI of this chapter" because of the restatement.
+
+References in Text
+
+Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (a), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4405 of Title 50.
+
+1 See References in Text note below.
 
 §57102. Disposition of vessels not worth preserving
 
@@ -28353,8 +28400,10 @@ Subsection (d) is substituted for "less depreciation based on a twenty-five year
 
 References in Text
 
-The Merchant Marine Act, 1936, referred to in subsec. (a), is act June 29, 1936, ch. 858, 49 Stat. 1985, which enacted provisions set out as notes under section 53101 of this title.
-For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
+The Merchant Marine Act, 1936, referred to in subsec. (a), is act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified principally to chapter 27 (§1101 et seq.) of the former Appendix to this title.
+Most of the Act was repealed and restated mainly in this subtitle by Pub. L. 109–304, §§8, 19, Oct. 6, 2006, 120 Stat. 1555, 1710. Titles V and VI and sections 301, 801, 802, 809(a), and 909 of the Act were not repealed and are set out as notes under section 53101 of this title.
+For complete classification of this Act to the Code, see Tables.
+For disposition of sections of the former Appendix to this title, see Disposition Table preceding section 101 of this title.
 
 SUBCHAPTER II—CHARTERS
 
@@ -28417,8 +28466,10 @@ Historical and Revision Notes	Revised Section
 
 References in Text
 
-The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985, which enacted provisions set out as notes under section 53101 of this title.
-For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
+The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified principally to chapter 27 (§1101 et seq.) of the former Appendix to this title.
+Most of the Act was repealed and restated mainly in this subtitle by Pub. L. 109–304, §§8, 19, Oct. 6, 2006, 120 Stat. 1555, 1710. Titles V and VI and sections 301, 801, 802, 809(a), and 909 of the Act were not repealed and are set out as notes under section 53101 of this title.
+For complete classification of this Act to the Code, see Tables.
+For disposition of sections of the former Appendix to this title, see Disposition Table preceding section 101 of this title.
 
 §57514. Qualifications of bidders
 
@@ -28617,7 +28668,7 @@ Not more than 10 vessels may be operated and tested under this section in any on
 A bareboat charter under this section shall be at reasonable rates and include restrictions the Secretary considers appropriate to protect the public interest, including provisions for recapture of profits under section 57517 of this title.
 A charter or general agency agreement under this section shall be reviewed annually to determine whether conditions exist to justify continuance of the charter or agreement.
 
-(d) Rights of Seamen.—A seaman engaged in vessel operations of the Secretary under this section and employed through a general agent in connection with a charter or agreement under this section is entitled to all the rights and remedies provided in sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294).
+(d) Rights of Seamen.—A seaman engaged in vessel operations of the Secretary under this section and employed through a general agent in connection with a charter or agreement under this section is entitled to all the rights and remedies provided in sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294).1
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1670.)
 
@@ -28626,6 +28677,12 @@ Historical and Revision Notes	Revised Section
 	57532	46 App.:1205.	June 29, 1936, ch. 858, title VII, §715, as added July 11, 1956, ch. 574, 70 Stat. 531; Pub. L. 97–31, §12(117), Aug. 6, 1981, 95 Stat. 164.
 
 Subsection (d) is substituted for "Those provisions of law prescribed or incorporated under section 1241a of this Appendix, which relate to vessel operating activities of the Secretary of Transportation and to employment of seamen through general agents, shall be applicable in connection with charters and agreements entered into under this section" for clarity.
+
+References in Text
+
+Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (d), are sections 1(a) and (c), 3(c), and 4 of act Mar. 24, 1943, ch. 26, 57 Stat. 45, 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as sections 4701(a), (c), 4703(c), and 4704, respectively, of Title 50.
+
+1 See References in Text note below.
 
 §57533. Vessel chartering authority
 

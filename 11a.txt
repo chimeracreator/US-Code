@@ -6,7 +6,7 @@ United States Code Document
 
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 
-(Effective August 1, 1983, as amended to January 5, 2015)
+(Effective August 1, 1983, as amended to January 3, 2016)
 
 Historical Note
 
@@ -38,7 +38,8 @@ Dec. 1, 2010; Apr. 26, 2011, eff.
 Dec. 1, 2011; Apr. 23, 2012, eff.
 Dec. 1, 2012; Apr. 16, 2013, eff.
 Dec. 1, 2013; Apr. 25, 2014, eff.
-Dec. 1, 2014.
+Dec. 1, 2014; Apr. 29, 2015, eff.
+Dec. 1, 2015.
 
 Rule
 
@@ -1002,11 +1003,11 @@ Rule 1007. Lists, Schedules, Statements, and Other Documents; Time Limits
 (a) Corporate Ownership Statement, List of Creditors and Equity Security Holders, and Other Lists.
 
 (1) Voluntary Case.
-In a voluntary case, the debtor shall file with the petition a list containing the name and address of each entity included or to be included on Schedules D, E, F, G, and H as prescribed by the Official Forms.
+In a voluntary case, the debtor shall file with the petition a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H as prescribed by the Official Forms.
 If the debtor is a corporation, other than a governmental unit, the debtor shall file with the petition a corporate ownership statement containing the information described in Rule 7007.1. The debtor shall file a supplemental statement promptly upon any change in circumstances that renders the corporate ownership statement inaccurate.
 
 (2) Involuntary Case.
-In an involuntary case, the debtor shall file, within seven days after entry of the order for relief, a list containing the name and address of each entity included or to be included on Schedules D, E, F, G, and H as prescribed by the Official Forms.
+In an involuntary case, the debtor shall file, within seven days after entry of the order for relief, a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H as prescribed by the Official Forms.
 
 (3) Equity Security Holders.
 In a chapter 11 reorganization case, unless the court orders otherwise, the debtor shall file within 14 days after entry of the order for relief a list of the debtor's equity security holders of each class showing the number and kind of interests registered in the name of each holder, and the last known address or place of business of each holder.
@@ -1123,7 +1124,8 @@ Dec. 1, 2008; Mar. 26, 2009, eff.
 Dec. 1, 2009; Apr. 28, 2010, eff.
 Dec. 1, 2010; Apr. 23, 2012, eff.
 Dec. 1, 2012; Apr. 16, 2013, eff.
-Dec. 1, 2013.)
+Dec. 1, 2013; Apr. 29, 2015, eff.
+Dec. 1, 2015.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -2196,6 +2198,96 @@ The word "debtor" as used in this rule includes the persons named in Rule 9001(5
 
 The affidavit required to be submitted in support of the motion may be subscribed by the unsworn declaration provided for in 28 U.S.C. §1746.
 
+Rule 2006. Solicitation and Voting of Proxies in Chapter 7 Liquidation Cases
+
+(a) Applicability.
+This rule applies only in a liquidation case pending under chapter 7 of the Code.
+
+(b) Definitions.
+
+(1) Proxy.
+A proxy is a written power of attorney authorizing any entity to vote the claim or otherwise act as the owner's attorney in fact in connection with the administration of the estate.
+
+(2) Solicitation of Proxy.
+The solicitation of a proxy is any communication, other than one from an attorney to a regular client who owns a claim or from an attorney to the owner of a claim who has requested the attorney to represent the owner, by which a creditor is asked, directly or indirectly, to give a proxy after or in contemplation of the filing of a petition by or against the debtor.
+
+(c) Authorized Solicitation.
+
+(1) A proxy may be solicited only by (A) a creditor owning an allowable unsecured claim against the estate on the date of the filing of the petition; (B) a committee elected pursuant to §705 of the Code; (C) a committee of creditors selected by a majority in number and amount of claims of creditors (i) whose claims are not contingent or unliquidated, (ii) who are not disqualified from voting under §702(a) of the Code and (iii) who were present or represented at a meeting of which all creditors having claims of over $500 or the 100 creditors having the largest claims had at least seven days' notice in writing and of which meeting written minutes were kept and are available reporting the names of the creditors present or represented and voting and the amounts of their claims; or (D) a bona fide trade or credit association, but such association may solicit only creditors who were its members or subscribers in good standing and had allowable unsecured claims on the date of the filing of the petition.
+
+(2) A proxy may be solicited only in writing.
+
+(d) Solicitation Not Authorized.
+This rule does not permit solicitation (1) in any interest other than that of general creditors; (2) by or on behalf of any custodian; (3) by the interim trustee or by or on behalf of any entity not qualified to vote under §702(a) of the Code; (4) by or on behalf of an attorney at law; or (5) by or on behalf of a transferee of a claim for collection only.
+
+(e) Data Required From Holders of Multiple Proxies.
+At any time before the voting commences at any meeting of creditors pursuant to §341(a) of the Code, or at any other time as the court may direct, a holder of two or more proxies shall file and transmit to the United States trustee a verified list of the proxies to be voted and a verified statement of the pertinent facts and circumstances in connection with the execution and delivery of each proxy, including:
+
+(1) a copy of the solicitation;
+
+(2) identification of the solicitor, the forwarder, if the forwarder is neither the solicitor nor the owner of the claim, and the proxyholder, including their connections with the debtor and with each other.
+If the solicitor, forwarder, or proxyholder is an association, there shall also be included a statement that the creditors whose claims have been solicited and the creditors whose claims are to be voted were members or subscribers in good standing and had allowable unsecured claims on the date of the filing of the petition.
+If the solicitor, forwarder, or proxyholder is a committee of creditors, the statement shall also set forth the date and place the committee was organized, that the committee was organized in accordance with clause (B) or (C) of paragraph (c)(1) of this rule, the members of the committee, the amounts of their claims, when the claims were acquired, the amounts paid therefor, and the extent to which the claims of the committee members are secured or entitled to priority;
+
+(3) a statement that no consideration has been paid or promised by the proxyholder for the proxy;
+
+(4) a statement as to whether there is any agreement and, if so, the particulars thereof, between the proxyholder and any other entity for the payment of any consideration in connection with voting the proxy, or for the sharing of compensation with any entity, other than a member or regular associate of the proxyholder's law firm, which may be allowed the trustee or any entity for services rendered in the case, or for the employment of any person as attorney, accountant, appraiser, auctioneer, or other employee for the estate;
+
+(5) if the proxy was solicited by an entity other than the proxyholder, or forwarded to the holder by an entity who is neither a solicitor of the proxy nor the owner of the claim, a statement signed and verified by the solicitor or forwarder that no consideration has been paid or promised for the proxy, and whether there is any agreement, and, if so, the particulars thereof, between the solicitor or forwarder and any other entity for the payment of any consideration in connection with voting the proxy, or for sharing compensation with any entity other than a member or regular associate of the solicitor's or forwarder's law firm which may be allowed the trustee or any entity for services rendered in the case, or for the employment of any person as attorney, accountant, appraiser, auctioneer, or other employee for the estate;
+
+(6) if the solicitor, forwarder, or proxyholder is a committee, a statement signed and verified by each member as to the amount and source of any consideration paid or to be paid to such member in connection with the case other than by way of dividend on the member's claim.
+
+(f) Enforcement of Restrictions on Solicitation.
+On motion of any party in interest or on its own initiative, the court may determine whether there has been a failure to comply with the provisions of this rule or any other impropriety in connection with the solicitation or voting of a proxy.
+After notice and a hearing the court may reject any proxy for cause, vacate any order entered in consequence of the voting of any proxy which should have been rejected, or take any other appropriate action.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is a comprehensive regulation of solicitation and voting of proxies in liquidation cases.
+It is derived from former Bankruptcy Rule 208. The rule applies only in chapter 7 cases because no voting occurs, other than on a plan, in a chapter 11 case.
+Former Bankruptcy Rule 208 did not apply to solicitations of acceptances of plans.
+
+Creditor control was a basic feature of the Act and is continued, in part, by the Code.
+Creditor democracy is perverted and the congressional objective frustrated, however, if control of administration falls into the hands of persons whose principal interest is not in what the estate can be made to yield to the unsecured creditors but in what it can yield to those involved in its administration or in other ulterior objectives.
+
+Subdivision (b). The definition of proxy in the first paragraph of subdivision (b) is derived from former Bankruptcy Rule 208.
+
+Subdivision (c). The purpose of the rule is to protect creditors against loss of control of administration of their debtors' estates to holders of proxies having interests that differ from those of the creditors.
+The rule does not prohibit solicitation but restricts it to those who were creditors at the commencement of the case or their freely and fairly selected representatives.
+The special role occupied by credit and trade associations is recognized in the last clause of subdivision (c)(1). On the assumption that members or subscribers may have affiliated with an association in part for the purpose of obtaining its services as a representative in liquidation proceedings, an established association is authorized to solicit its own members, or its regular customers or clients, who were creditors on the date of the filing of the petition.
+Although the association may not solicit nonmembers or nonsubscribers for proxies, it may sponsor a meeting of creditors at which a committee entitled to solicit proxies may be selected in accordance with clause (C) of subdivision (c)(1).
+
+Under certain circumstances, the relationship of a creditor, creditors' committee, or association to the estate or the case may be such as to warrant rejection of any proxy solicited by such a person or group.
+Thus a person who is forbidden by the Code to vote his own claim should be equally disabled to solicit proxies from creditors.
+Solicitation by or on behalf of the debtor has been uniformly condemned, e.g., In re White, 15 F.2d 371 (9th Cir. 1926), as has solicitation on behalf of a preferred creditor, Matter of Law, 13 Am.B.R. 650 (S.D. Ill. 1905). The prohibition on solicitation by a receiver or his attorney made explicit by General Order 39 has been collaterally supported by rulings rejecting proxies solicited by a receiver in equity, In re Western States Bldg.-Loan Ass'n, 54 F.2d 415 (S.D. Cal. 1931), and by an assignee for the benefit of creditors, Lines v. Falstaff Brewing Co., 233 F.2d 927 (9th Cir. 1956).
+
+Subdivision (d) prohibits solicitation by any person or group having a relationship described in the preceding paragraph.
+It also makes no exception for attorneys or transferees of claims for collection.
+The rule does not undertake to regulate communications between an attorney and his regular client or between an attorney and a creditor who has asked the attorney to represent him in a proceeding under the Code, but any other communication by an attorney or any other person or group requesting a proxy from the owner of a claim constitutes a regulated solicitation.
+Solicitation by an attorney of a proxy from a creditor who was not a client prior to the solicitation is objectionable not only as unethical conduct as recognized by such cases as In the Matter of Darland Company, 184 F. Supp. 760 (S.D. Iowa 1960) but also and more importantly because the practice carries a substantial risk that administration will fall into the hands of those whose interest is in obtaining fees from the estate rather than securing dividends for creditors.
+The same risk attaches to solicitation by the holder of a claim for collection only.
+
+Subdivision (e). The regulation of solicitation and voting of proxies is achieved by the rule principally through the imposition of requirements of disclosure on the holders of two or more proxies.
+The disclosures must be made to the clerk before the meeting at which the proxies are to be voted to afford the clerk or a party in interest an opportunity to examine the circumstances accompanying the acquisition of the proxies in advance of any exercise of the proxies.
+In the light of the examination the clerk or a party in interest should bring to the attention of the judge any question that arises and the judge may permit the proxies that comply with the rule to be voted and reject those that do not unless the holders can effect or establish compliance in such manner as the court shall prescribe.
+The holders of single proxies are excused from the disclosure requirements because of the insubstantiality of the risk that such proxies have been solicited, or will be voted, in an interest other than that of general creditors.
+
+Every holder of two or more proxies must include in the submission a verified statement that no consideration has been paid or promised for the proxy, either by the proxyholder or the solicitor or any forwarder of the proxy.
+Any payment or promise of consideration for a proxy would be conclusive evidence of a purpose to acquire control of the administration of an estate for an ulterior purpose.
+The holder of multiple proxies must also include in the submission a verified statement as to whether there is any agreement by the holder, the solicitor, or any forwarder of the proxy for the employment of any person in the administration of an estate or for the sharing of any compensation allowed in connection with the administration of the estate.
+The provisions requiring these statements implement the policy of the Code expressed in §504 as well as the policy of this rule to deter the acquisition of proxies for the purpose of obtaining a share in the outlays for administration.
+Finally the facts as to any consideration moving or promised to any member of a committee which functions as a solicitor, forwarder, or proxyholder must be disclosed by the proxyholder.
+Such information would be of significance to the court in evaluating the purpose of the committee in obtaining, transmitting, or voting proxies.
+
+Subdivision (f) has counterparts in the local rules referred to in the Advisory Committee's Note to former Bankruptcy Rule 208. Courts have been accorded a wide range of discretion in the handling of disputes involving proxies.
+Thus the referee was allowed to reject proxies and to proceed forthwith to hold a scheduled election at the same meeting. E.g., In re Portage Wholesale Co., 183 F.2d 959 (7th Cir. 1950); In re McGill, 106 Fed. 57 (6th Cir. 1901); In re Deena Woolen Mills, Inc., 114 F. Supp. 260, 273 (D. Me. 1953); In re Finlay, 3 Am.B.R. 738 (S.D.N.Y. 1900). The bankruptcy judge may postpone an election to permit a determination of issues presented by a dispute as to proxies and to afford those creditors whose proxies are rejected an opportunity to give new proxies or to attend an adjourned meeting to vote their own claims.
+Cf. In the Matter of Lenrick Sales, Inc., 369 F.2d 439, 442–43 (3d Cir.), cert. denied, 389 U.S. 822 (1967); In the Matter of Construction Supply Corp. 221 F. Supp. 124, 128 (E.D. Va. 1963). This rule is not intended to restrict the scope of the court's discretion in the handling of disputes as to proxies.
+
 Rule 2007. Review of Appointment of Creditors' Committee Organized Before Commencement of the Case
 
 (a) Motion To Review Appointment.
@@ -2232,54 +2324,6 @@ Whether or not notice of the application should be given to any other party is l
 Subdivision (b) implements §1102(b)(1). The Code provision allows the court to appoint, as the official §1102(a) committee, a "prepetition" committee if its members were fairly chosen and the committee is representative of the different kinds of claims.
 This subdivision of the rule indicates some of the factors the court may consider in determining whether the requirements of §1102(b)(1) have been satisfied.
 In effect, the subdivision provides various factors which are similar to those set forth in Rule 2006 with respect to the solicitation and voting of proxies in a chapter 7 liquidation case.
-
-Rule 2007.1. Appointment of Trustee or Examiner in a Chapter 11 Reorganization Case
-
-(a) Order To Appoint Trustee or Examiner.
-In a chapter 11 reorganization case, a motion for an order to appoint a trustee or an examiner under §1104(a) or §1104(c) of the Code shall be made in accordance with Rule 9014.
-
-(b) Election of Trustee.
-
-(1) Request for an Election.
-A request to convene a meeting of creditors for the purpose of electing a trustee in a chapter 11 reorganization case shall be filed and transmitted to the United States trustee in accordance with Rule 5005 within the time prescribed by §1104(b) of the Code.
-Pending court approval of the person elected, any person appointed by the United States trustee under §1104(d) and approved in accordance with subdivision (c) of this rule shall serve as trustee.
-
-(2) Manner of Election and Notice.
-An election of a trustee under §1104(b) of the Code shall be conducted in the manner provided in Rules 2003(b)(3) and 2006. Notice of the meeting of creditors convened under §1104(b) shall be given as provided in Rule 2002. The United States trustee shall preside at the meeting.
-A proxy for the purpose of voting in the election may be solicited only by a committee of creditors appointed under §1102 of the Code or by any other party entitled to solicit a proxy pursuant to Rule 2006.
-
-(3) Report of Election and Resolution of Disputes.
-
-(A) Report of Undisputed Election.
-If no dispute arises out of the election, the United States trustee shall promptly file a report certifying the election, including the name and address of the person elected and a statement that the election is undisputed.
-The report shall be accompanied by a verified statement of the person elected setting forth that person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
-
-(B) Dispute Arising Out of an Election.
-If a dispute arises out of an election, the United States trustee shall promptly file a report stating that the election is disputed, informing the court of the nature of the dispute, and listing the name and address of any candidate elected under any alternative presented by the dispute.
-The report shall be accompanied by a verified statement by each candidate elected under each alternative presented by the dispute, setting forth the person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
-Not later than the date on which the report of the disputed election is filed, the United States trustee shall mail a copy of the report and each verified statement to any party in interest that has made a request to convene a meeting under §1104(b) or to receive a copy of the report, and to any committee appointed under §1102 of the Code.
-
-(c) Approval of Appointment.
-An order approving the appointment of a trustee or an examiner under §1104(d) of the Code shall be made on application of the United States trustee.
-The application shall state the name of the person appointed and, to the best of the applicant's knowledge, all the person's connections with the debtor, creditors, any other parties in interest, their respective attorneys and accountants, the United States trustee, or persons employed in the office of the United States trustee.
-The application shall state the names of the parties in interest with whom the United States trustee consulted regarding the appointment.
-The application shall be accompanied by a verified statement of the person appointed setting forth the person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
-
-(Added Apr. 30, 1991, eff.
-Aug. 1, 1991; amended Apr. 11, 1997, eff.
-Dec. 1, 1997; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
-
-Notes of Advisory Committee on Rules—1991
-
-This rule is added to implement the 1986 amendments to §1104 of the Code regarding the appointment of a trustee or examiner in a chapter 11 case.
-A motion for an order to appoint a trustee or examiner is a contested matter.
-Although the court decides whether the appointment is warranted under the particular facts of the case, it is the United States trustee who makes the appointment pursuant to §1104(c) of the Code.
-The appointment is subject to approval of the court, however, which may be obtained by application of the United States trustee.
-Section 1104(c) of the Code requires that the appointment be made after consultation with parties in interest and that the person appointed be disinterested.
-
-The requirement that connections with the United States trustee or persons employed in the United States trustee's office be revealed is not intended to enlarge the definition of "disinterested person" in §101(13) of the Code, to supersede executive regulations or other laws relating to appointments by United States trustees, or to otherwise restrict the United States trustee's discretion in making appointments.
-This information is required, however, in the interest of full disclosure and confidence in the appointment process and to give the court all information that may be relevant to the exercise of judicial discretion in approving the appointment of a trustee or examiner in a chapter 11 case.
 
 Rule 2007.2. Appointment of Patient Care Ombudsman in a Health Care Business Case
 
@@ -2604,6 +2648,30 @@ Notices given under this rule are subject to the provisions of applicable federa
 Changes Made After Publication.
 Two stylistic changes were made to the rule.
 The reference to the court's authority to order otherwise was moved from the beginning to the end of the first sentence of subdivision (a). On line 19, the word "patient" was substituted for "health" to be consistent with the Code.
+
+Rule 2015.2. Transfer of Patient in Health Care Business Case
+
+Unless the court orders otherwise, if the debtor is a health care business, the trustee may not transfer a patient to another health care business under §704(a)(12) of the Code unless the trustee gives at least 14 days' notice of the transfer to the patient care ombudsman, if any, the patient, and any family member or other contact person whose name and address has been given to the trustee or the debtor for the purpose of providing information regarding the patient's health care.
+The notice is subject to applicable nonbankruptcy law relating to patient privacy.
+
+(Added Apr. 23, 2008, eff.
+Dec. 1, 2008; amended Mar. 26, 2009, eff.
+Dec. 1, 2009.)
+
+Committee Notes on Rules—2008
+
+This rule is new.
+Section 704(a)(12), added to the Code by the 2005 amendments, authorizes the trustee to relocate patients when a health care business debtor's facility is in the process of being closed.
+The Code permits the trustee to take this action without the need for any court order, but the notice required by this rule will enable a patient care ombudsman appointed under §333, or a patient who contends that the trustee's actions violate §704(a)(12), to have those issues resolved before the patient is transferred.
+
+This rule also permits the court to enter an order dispensing with or altering the notice requirement in proper circumstances.
+For example, a facility could be closed immediately, or very quickly, such that 10 days' notice would not be possible in some instances.
+In that event, the court may shorten the time required for notice.
+
+Notices given under this rule are subject to the provisions of applicable federal and state law that relate to the protection of patients' privacy, such as the Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104–191 (HIPAA).
+
+Changes Made After Publication.
+No changes were made after publication.
 
 Rule 2015.3. Reports of Financial Information on Entities in Which a Chapter 11 Estate Holds a Controlling or Substantial Interest
 
@@ -3214,37 +3282,6 @@ Except with respect to the need and time for filing claims, the other aspects co
 Holders of equity security interests need not file proofs of interest.
 Voting and distribution participation is dependent on ownership as disclosed by the appropriate records of a transfer agent or the corporate or other business records at the time prescribed in Rules 3017 and 3021.
 
-Rule 3004. Filing of Claims by Debtor or Trustee
-
-If a creditor does not timely file a proof of claim under Rule 3002(c) or 3003(c), the debtor or trustee may file a proof of the claim within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or 3003(c), whichever is applicable.
-The clerk shall forthwith give notice of the filing to the creditor, the debtor and the trustee.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 25, 2005, eff.
-Dec. 1, 2005.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule is adapted from former Bankruptcy Rule 303 but conforms with the changes made by §501(c) of the Code.
-Rule 303 permitted only the filing of tax and wage claims by the debtor.
-Section 501(c) of the Code, however, permits the filing by the debtor or trustee on behalf of any creditor.
-
-It is the policy of the Code that debtors' estates should be administered for the benefit of creditors without regard to the dischargeability of their claims.
-After their estates have been closed, however, discharged debtors may find themselves saddled with liabilities, particularly for taxes, which remain unpaid because of the failure of creditors holding nondischargeable claims to file proofs of claim and receive distributions thereon.
-The result is that the debtor is deprived of an important benefit of the Code without any fault or omission on the debtor's part and without any objective of the Code being served thereby.
-
-Section 501(c) of the Code authorizes a debtor or trustee to file a proof of claim for any holder of a claim.
-Although all claims may not be nondischargeable, it may be difficult to determine, in particular, whether tax claims survive discharge.
-See Plumb, Federal Tax Liens and Priorities in Bankruptcy, 43 Ref. J. 37, 43–44 (1969); 1 Collier, Bankruptcy 17.14 (14th ed. 1967); 3 id.  523.06 (15th ed. 1979). To eliminate the necessity of the resolution of this troublesome issue, the option accorded the debtor by the Code does not depend on the nondischargeability of the claim.
-No serious administrative problems and no unfairness to creditors seemed to develop from adoption of Rule 303, the forerunner to §501(c). The authority to file is conditioned on the creditor's failure to file the proof of claim on or before the first date set for the meeting of creditors, which is the date a claim must ordinarily be filed in order to be voted in a chapter 7 case.
-Notice to the creditor is provided to enable him to file a proof of claim pursuant to Rule 3002, which proof, when filed, would supersede the proof filed by the debtor or trustee.
-Notice to the trustee would serve to alert the trustee to the special character of the proof and the possible need for supplementary evidence of the validity and amount of the claim.
-If the trustee does not qualify until after a proof of claim is filed by the debtor pursuant to this rule, he should be notified as soon as practicable thereafter.
-
-To the extent the claim is allowed and dividends paid thereon, it will be reduced or perhaps paid in full.
-If the claim is also filed pursuant to Rule 3005, only one distribution thereon may be made.
-As expressly required by Rule 3005 and by the purpose of this rule such distribution must diminish the claim.
-
 Rule 3005. Filing of Claim, Acceptance, or Rejection by Guarantor, Surety, Indorser, or Other Codebtor
 
 (a) Filing of Claim.
@@ -3413,26 +3450,6 @@ The second and third sentences of the rule make explicit the method of payment o
 
 The rule does not permit variance at local option.
 This represents a marked change from former Bankruptcy Rule 308.
-
-Rule 3010. Small Dividends and Payments in Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, and Chapter 13 Individual's Debt Adjustment Cases
-
-(a) Chapter 7 Cases.
-In a chapter 7 case no dividend in an amount less than $5 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court.
-Any dividend not distributed to a creditor shall be treated in the same manner as unclaimed funds as provided in §347 of the Code.
-
-(b) Chapter 12 and Chapter 13 Cases.
-In a chapter 12 or chapter 13 case no payment in an amount less than $15 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court.
-Funds not distributed because of this subdivision shall accumulate and shall be paid whenever the accumulation aggregates $15. Any funds remaining shall be distributed with the final payment.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule permits a court to eliminate the disproportionate expense and inconvenience incurred by the issuance of a dividend check of less than $5 (or $15 in a chapter 13 case). Creditors are more irritated than pleased to receive such small dividends, but the money is held subject to their specific request as are unclaimed dividends under §347(a) of the Code.
-When the trustee deposits undistributed dividends pursuant to a direction in accordance with this rule the trustee should file with the clerk a list of the names and addresses, so far as known, of the persons entitled to the money so deposited and the respective amounts payable to them pursuant to Rule 3011. In a chapter 13 case, the small dividend will accumulate and will be payable at the latest, with the final dividend.
-Local rule or order may change the practice permitted in this rule and, in that connection, the order may be incorporated in the order confirming a chapter 13 plan.
 
 Rule 3011. Unclaimed Funds in Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, and Chapter 13 Individual's Debt Adjustment Cases
 
@@ -3796,6 +3813,59 @@ For example, §1127 provides for modification before and after confirmation but 
 The rule makes clear that a modification may be made, after acceptance of the plan without submission to creditors and equity security holders if their interests are not affected.
 To come within this rule, the modification should be one that does not change the rights of a creditor or equity security holder as fixed in the plan before modification.
 
+Rule 3020. Deposit; Confirmation of Plan in a Chapter 9 Municipality or Chapter 11 Reorganization Case
+
+(a) Deposit.
+In a chapter 11 case, prior to entry of the order confirming the plan, the court may order the deposit with the trustee or debtor in possession of the consideration required by the plan to be distributed on confirmation.
+Any money deposited shall be kept in a special account established for the exclusive purpose of making the distribution.
+
+(b) Objection to and Hearing on Confirmation in a Chapter 9 or Chapter 11 Case.
+
+(1) Objection.
+An objection to confirmation of the plan shall be filed and served on the debtor, the trustee, the proponent of the plan, any committee appointed under the Code, and any other entity designated by the court, within a time fixed by the court.
+Unless the case is a chapter 9 municipality case, a copy of every objection to confirmation shall be transmitted by the objecting party to the United States trustee within the time fixed for filing objections.
+An objection to confirmation is governed by Rule 9014.
+
+(2) Hearing.
+The court shall rule on confirmation of the plan after notice and hearing as provided in Rule 2002. If no objection is timely filed, the court may determine that the plan has been proposed in good faith and not by any means forbidden by law without receiving evidence on such issues.
+
+(c) Order of Confirmation.
+
+(1) The order of confirmation shall conform to the appropriate Official Form.
+If the plan provides for an injunction against conduct not otherwise enjoined under the Code, the order of confirmation shall (1) describe in reasonable detail all acts enjoined; (2) be specific in its terms regarding the injunction; and (3) identify the entities subject to the injunction.
+
+(2) Notice of entry of the order of confirmation shall be mailed promptly to the debtor, the trustee, creditors, equity security holders, other parties in interest, and, if known, to any identified entity subject to an injunction provided for in the plan against conduct not otherwise enjoined under the Code.
+
+(3) Except in a chapter 9 municipality case, notice of entry of the order of confirmation shall be transmitted to the United States trustee as provided in Rule 2002(k).
+
+(d) Retained Power.
+Notwithstanding the entry of the order of confirmation, the court may issue any other order necessary to administer the estate.
+
+(e) Stay of Confirmation Order.
+An order confirming a plan is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991; Apr. 22, 1993, eff.
+Aug. 1, 1993; Apr. 26, 1999, eff.
+Dec. 1, 1999; Apr. 23, 2001, eff.
+Dec. 1, 2001; Mar. 26, 2009, eff.
+Dec. 1, 2009.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is adapted from former Rules 10–307, 11–38, and 13–213. It applies to cases filed under chapters 9, 11 and 13. Certain subdivisions of the earlier rules have not been included, such as, a subdivision revesting title in the debtor because §541 of the Code does not transfer title out of the debtor as did §70a of the Bankruptcy Act; see also §§1141(b), 1327(b). Subdivision (b) of former Rule 13–213 is not included because its provisions are contained in the statute; see §§1322, 1325(b), 105.
+
+Subdivision (a) gives discretion to the court to require in chapter 11 cases the deposit of any consideration to be distributed on confirmation.
+If money is to be distributed, it is to be deposited in a special account to assure that it will not be used for any other purpose.
+The Code is silent in chapter 11 with respect to the need to make a deposit or the person with whom any deposit is to be made.
+Consequently, there is no statutory authority for any person to act in a capacity similar to the disbursing agent under former Chapter XI practice.
+This rule provides that only the debtor in possession or trustee should be appointed as the recipient of the deposit.
+Any consideration other than money, e.g., notes or stock may be given directly to the debtor in possession or trustee and need not be left in any kind of special account.
+In chapter 9 cases, §944(b) provides for deposit with a disbursing agent appointed by the court of any consideration to be distributed under the plan.
+
+Subdivision (d) clarifies the authority of the court to conclude matters pending before it prior to confirmation and to continue to administer the estate as necessary, e.g., resolving objections to claims.
+
 Rule 3021. Distribution Under Plan
 
 Except as provided in Rule 3020(e), after a plan is confirmed, distribution shall be made to creditors whose claims have been allowed, to interest holders whose interests have not been disallowed, and to indenture trustees who have filed claims under Rule 3003(c)(5) that have been allowed.
@@ -3821,164 +3891,6 @@ Notes of Advisory Committee on Rules—1983
 
 Section 350 of the Code requires the court to close the case after the estate is fully administered and the trustee has been discharged.
 Section 1143 places a five year limitation on the surrender of securities when required for participation under a plan but this provision should not delay entry of the final decree.
-
-PART IV—THE DEBTOR: DUTIES AND BENEFITS
-
-Rule 4001. Relief from Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Use of Cash Collateral; Obtaining Credit; Agreements
-
-(a) Relief From Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property.
-
-(1) Motion.
-A motion for relief from an automatic stay provided by the Code or a motion to prohibit or condition the use, sale, or lease of property pursuant to §363(e) shall be made in accordance with Rule 9014 and shall be served on any committee elected pursuant to §705 or appointed pursuant to §1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed pursuant to §1102, on the creditors included on the list filed pursuant to Rule 1007(d), and on such other entities as the court may direct.
-
-(2) Ex Parte Relief.
-Relief from a stay under §362(a) or a request to prohibit or condition the use, sale, or lease of property pursuant to §363(e) may be granted without prior notice only if (A) it clearly appears from specific facts shown by affidavit or by a verified motion that immediate and irreparable injury, loss, or damage will result to the movant before the adverse party or the attorney for the adverse party can be heard in opposition, and (B) the movant's attorney certifies to the court in writing the efforts, if any, which have been made to give notice and the reasons why notice should not be required.
-The party obtaining relief under this subdivision and §362(f) or §363(e) shall immediately give oral notice thereof to the trustee or debtor in possession and to the debtor and forthwith mail or otherwise transmit to such adverse party or parties a copy of the order granting relief.
-On two days notice to the party who obtained relief from the stay without notice or on shorter notice to that party as the court may prescribe, the adverse party may appear and move reinstatement of the stay or reconsideration of the order prohibiting or conditioning the use, sale, or lease of property.
-In that event, the court shall proceed expeditiously to hear and determine the motion.
-
-(3) Stay of Order.
-An order granting a motion for relief from an automatic stay made in accordance with Rule 4001(a)(1) is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
-
-(b) Use of Cash Collateral.
-
-(1) Motion; Service.
-
-(A) Motion.
-A motion for authority to use cash collateral shall be made in accordance with Rule 9014 and shall be accompanied by a proposed form of order.
-
-(B) Contents.
-The motion shall consist of or (if the motion is more than five pages in length) begin with a concise statement of the relief requested, not to exceed five pages, that lists or summarizes, and sets out the location within the relevant documents of, all material provisions, including:
-
-(i) the name of each entity with an interest in the cash collateral;
-
-(ii) the purposes for the use of the cash collateral;
-
-(iii) the material terms, including duration, of the use of the cash collateral; and
-
-(iv) any liens, cash payments, or other adequate protection that will be provided to each entity with an interest in the cash collateral or, if no additional adequate protection is proposed, an explanation of why each entity's interest is adequately protected.
-
-(C) Service.
-The motion shall be served on: (1) any entity with an interest in the cash collateral; (2) any committee elected under §705 or appointed under §1102 of the Code, or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, the creditors included on the list filed under Rule 1007(d); and (3) any other entity that the court directs.
-
-(2) Hearing.
-The court may commence a final hearing on a motion for authorization to use cash collateral no earlier than 14 days after service of the motion.
-If the motion so requests, the court may conduct a preliminary hearing before such 14-day period expires, but the court may authorize the use of only that amount of cash collateral as is necessary to avoid immediate and irreparable harm to the estate pending a final hearing.
-
-(3) Notice.
-Notice of hearing pursuant to this subdivision shall be given to the parties on whom service of the motion is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
-
-(c) Obtaining Credit.
-
-(1) Motion; Service.
-
-(A) Motion.
-A motion for authority to obtain credit shall be made in accordance with Rule 9014 and shall be accompanied by a copy of the credit agreement and a proposed form of order.
-
-(B) Contents.
-The motion shall consist of or (if the motion is more than five pages in length) begin with a concise statement of the relief requested, not to exceed five pages, that lists or summarizes, and sets out the location within the relevant documents of, all material provisions of the proposed credit agreement and form of order, including interest rate, maturity, events of default, liens, borrowing limits, and borrowing conditions.
-If the proposed credit agreement or form of order includes any of the provisions listed below, the concise statement shall also: briefly list or summarize each one; identify its specific location in the proposed agreement and form of order; and identify any such provision that is proposed to remain in effect if interim approval is granted, but final relief is denied, as provided under Rule 4001(c)(2). In addition, the motion shall describe the nature and extent of each provision listed below:
-
-(i) a grant of priority or a lien on property of the estate under §364(c) or (d);
-
-(ii) the providing of adequate protection or priority for a claim that arose before the commencement of the case, including the granting of a lien on property of the estate to secure the claim, or the use of property of the estate or credit obtained under §364 to make cash payments on account of the claim;
-
-(iii) a determination of the validity, enforceability, priority, or amount of a claim that arose before the commencement of the case, or of any lien securing the claim;
-
-(iv) a waiver or modification of Code provisions or applicable rules relating to the automatic stay;
-
-(v) a waiver or modification of any entity's authority or right to file a plan, seek an extension of time in which the debtor has the exclusive right to file a plan, request the use of cash collateral under §363(c), or request authority to obtain credit under §364;
-
-(vi) the establishment of deadlines for filing a plan of reorganization, for approval of a disclosure statement, for a hearing on confirmation, or for entry of a confirmation order;
-
-(vii) a waiver or modification of the applicability of nonbankruptcy law relating to the perfection of a lien on property of the estate, or on the foreclosure or other enforcement of the lien;
-
-(viii) a release, waiver, or limitation on any claim or other cause of action belonging to the estate or the trustee, including any modification of the statute of limitations or other deadline to commence an action;
-
-(ix) the indemnification of any entity;
-
-(x) a release, waiver, or limitation of any right under §506(c); or
-
-(xi) the granting of a lien on any claim or cause of action arising under §§544,1 545, 547, 548, 549, 553(b), 723(a), or 724(a).
-
-(C) Service.
-The motion shall be served on: (1) any committee elected under §705 or appointed under §1102 of the Code, or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list filed under Rule 1007(d); and (2) on any other entity that the court directs.
-
-(2) Hearing.
-The court may commence a final hearing on a motion for authority to obtain credit no earlier than 14 days after service of the motion.
-If the motion so requests, the court may conduct a hearing before such 14-day period expires, but the court may authorize the obtaining of credit only to the extent necessary to avoid immediate and irreparable harm to the estate pending a final hearing.
-
-(3) Notice.
-Notice of hearing pursuant to this subdivision shall be given to the parties on whom service of the motion is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
-
-(d) Agreement Relating to Relief From the Automatic Stay, Prohibiting or Conditioning the Use, Sale, or Lease of Property, Providing Adequate Protection, Use of Cash Collateral, and Obtaining Credit.
-
-(1) Motion; Service.
-
-(A) Motion.
-A motion for approval of any of the following shall be accompanied by a copy of the agreement and a proposed form of order:
-
-(i) an agreement to provide adequate protection;
-
-(ii) an agreement to prohibit or condition the use, sale, or lease of property;
-
-(iii) an agreement to modify or terminate the stay provided for in §362;
-
-(iv) an agreement to use cash collateral; or
-
-(v) an agreement between the debtor and an entity that has a lien or interest in property of the estate pursuant to which the entity consents to the creation of a lien senior or equal to the entity's lien or interest in such property.
-
-(B) Contents.
-The motion shall consist of or (if the motion is more than five pages in length) begin with a concise statement of the relief requested, not to exceed five pages, that lists or summarizes, and sets out the location within the relevant documents of, all material provisions of the agreement.
-In addition, the concise statement shall briefly list or summarize, and identify the specific location of, each provision in the proposed form of order, agreement, or other document of the type listed in subdivision (c)(1)(B). The motion shall also describe the nature and extent of each such provision.
-
-(C) Service.
-The motion shall be served on: (1) any committee elected under §705 or appointed under §1102 of the Code, or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list filed under Rule 1007(d); and (2) on any other entity the court directs.
-
-(2) Objection.
-Notice of the motion and the time within which objections may be filed and served on the debtor in possession or trustee shall be mailed to the parties on whom service is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
-Unless the court fixes a different time, objections may be filed within 14 days of the mailing of the notice.
-
-(3) Disposition; Hearing.
-If no objection is filed, the court may enter an order approving or disapproving the agreement without conducting a hearing.
-If an objection is filed or if the court determines a hearing is appropriate, the court shall hold a hearing on no less than seven days' notice to the objector, the movant, the parties on whom service is required by paragraph (1) of this subdivision and such other entities as the court may direct.
-
-(4) Agreement in Settlement of Motion.
-The court may direct that the procedures prescribed in paragraphs (1), (2), and (3) of this subdivision shall not apply and the agreement may be approved without further notice if the court determines that a motion made pursuant to subdivisions (a), (b), or (c) of this rule was sufficient to afford reasonable notice of the material provisions of the agreement and opportunity for a hearing.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991; Apr. 26, 1999, eff.
-Dec. 1, 1999; Apr. 30, 2007, eff.
-Dec. 1, 2007; Mar. 26, 2009, eff.
-Dec. 1, 2009; Apr. 28, 2010, eff.
-Dec. 1, 2010.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule implements §362 of the Code which set forth provisions regarding the automatic stay that arises on the filing of a petition.
-That section and this rule are applicable in chapters 7, 9, 11 and 13 cases.
-It also implements §363(c)(2) concerning use of cash collateral.
-
-Subdivision (a) transforms with respect to the automatic stay what was an adversary proceeding under the former rules to motion practice.
-The Code provides automatic stays in several sections, e.g., §§362(a), 1301(a), and in §362(d) provides some grounds for relief from the stay.
-This rule specifies that the pleading seeking relief is by means of a motion.
-Thus the time period in Rule 7012 to answer a complaint would not be applicable and shorter periods may be fixed.
-Section 362(e) requires the preliminary hearing to be concluded within 30 days of it inception, rendering ordinary complaint and answer practice inappropriate.
-
-This subdivision also makes clear that a motion under Rule 9014 is the proper procedure for a debtor to seek court permission to use cash collateral.
-See §363(c)(2). Pursuant to Rule 5005, the motion should be filed in the court in which the case in pending.
-The court or local rule may specify the persons to be served with the motion for relief from the stay; see Rule 9013.
-
-Subdivision (b) of the rule fills a procedural void left by §362. Pursuant to §362(e), the automatic stay is terminated 30 days after a motion for relief is made unless the court continues the stay as a result of a final hearing or, pending final hearing, after a preliminary hearing.
-If a preliminary hearing is held, §362(e) requires the final hearing to be commenced within 30 days after the preliminary hearing.
-Although the expressed legislative intent is to require expeditious resolution of a secured party's motion for relief, §362 is silent as to the time within which the final hearing must be concluded.
-Subdivision (b) imposes a 30 day deadline on the court to resolve the dispute.
-
-At the final hearing, the stay is to be terminated, modified, annulled, or conditioned for cause, which includes, inter alia, lack of adequate protection; §362(d). The burden of proving adequate protection is on the party opposing relief from the stay; §362(g)(2). Adequate protection is exemplified in §361.
-
-Subdivision (c) implements §362(f) which permits ex parte relief from the stay when there will be irreparable damage.
-This subdivision sets forth the procedure to be followed when relief is sought under §362(f). It is derived from former Bankruptcy Rule 601(d).
 
 1 So in original.
 Probably should be only one section symbol.
@@ -4180,37 +4092,6 @@ See 2 Moore's Federal Practice  1.04[2] (2d ed. 1967). Because of the nationwid
 Subdivision (g). Notice of discharge should be mailed promptly after the order becomes final so that creditors may be informed of entry of the order and of its injunctive provisions.
 Rule 2002 specifies the manner of the notice and persons to whom the notice is to be given.
 
-1 So in original.
-Probably should be only one section symbol.
-
-Rule 4005. Burden of Proof in Objecting to Discharge
-
-At the trial on a complaint objecting to a discharge, the plaintiff has the burden of proving the objection.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule does not address the burden of going forward with the evidence.
-Subject to the allocation by the rule of the initial burden of producing evidence and the ultimate burden of persuasion, the rule leaves to the courts the formulation of rules governing the shift of the burden of going forward with the evidence in the light of considerations such as the difficulty of proving the nonexistence of a fact and of establishing a fact as to which the evidence is likely to be more accessible to the debtor than to the objector.
-See, e.g., In re Haggerty, 165 F.2d 977, 979–80 (2d Cir. 1948); Federal Provision Co. v. Ershowsky, 94 F.2d 574, 575 (2d Cir. 1938); In re Riceputo, 41 F. Supp. 926, 927–28 (E.D.N.Y. 1941).
-
-Rule 4006. Notice of No Discharge
-
-If an order is entered: denying a discharge; revoking a discharge; approving a waiver of discharge; or, in the case of an individual debtor, closing the case without the entry of a discharge, the clerk shall promptly notify all parties in interest in the manner provided by Rule 2002.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
-
-Notes of Advisory Committee on Rules—1983
-
-The suspension by §108(c) of the Code of the statute of limitations affecting any debt of a debtor terminates within 30 days after the debtor is denied a discharge or otherwise loses his right to a discharge.
-If, however, a debtor's failure to receive a discharge does not come to the attention of his creditors until after the statutes of limitations have run, the debtor obtains substantially the same benefits from his bankruptcy as a debtor who is discharged.
-
-This rule requires the clerk to notify creditors if a debtor fails to obtain a discharge because a waiver of discharge was filed under §727(a)(10) or as a result of an order denying or revoking the discharge under §727(a) or (d).
-
 Rule 4007. Determination of Dischargeability of a Debt
 
 (a) Persons Entitled To File Complaint.
@@ -4325,52 +4206,6 @@ Rule 9001 incorporates the definitions of §101 of the Code.
 
 In order for the policy of this rule to be meaningfully implemented, it is necessary to extend the prohibition against appointment or employment to the firm or other business association of the ineligible person and to those affiliated with the firm or business association. "Firm" is defined in Rule 9001 to include a professional partnership or corporation of attorneys or accountants.
 All other types of business and professional associations and relationships are covered by this rule.
-
-Rule 5003. Records Kept By the Clerk
-
-(a) Bankruptcy Dockets.
-The clerk shall keep a docket in each case under the Code and shall enter thereon each judgment, order, and activity in that case as prescribed by the Director of the Administrative Office of the United States Courts.
-The entry of a judgment or order in a docket shall show the date the entry is made.
-
-(b) Claims Register.
-The clerk shall keep in a claims register a list of claims filed in a case when it appears that there will be a distribution to unsecured creditors.
-
-(c) Judgments and Orders.
-The clerk shall keep, in the form and manner as the Director of the Administrative Office of the United States Courts may prescribe, a correct copy of every final judgment or order affecting title to or lien on real property or for the recovery of money or property, and any other order which the court may direct to be kept.
-On request of the prevailing party, a correct copy of every judgment or order affecting title to or lien upon real or personal property or for the recovery of money or property shall be kept and indexed with the civil judgments of the district court.
-
-(d) Index of Cases; Certificate of Search.
-The clerk shall keep indices of all cases and adversary proceedings as prescribed by the Director of the Administrative Office of the United States Courts.
-On request, the clerk shall make a search of any index and papers in the clerk's custody and certify whether a case or proceeding has been filed in or transferred to the court or if a discharge has been entered in its records.
-
-(e) Register of Mailing Addresses of Federal and State Governmental Units and Certain Taxing Authorities.
-The United States or the state or territory in which the court is located may file a statement designating its mailing address.
-The United States, state, territory, or local governmental unit responsible for collecting taxes within the district in which the case is pending may also file a statement designating an address for service of requests under §505(b) of the Code, and the designation shall describe where further information concerning additional requirements for filing such requests may be found.
-The clerk shall keep, in the form and manner as the Director of the Administrative Office of the United States Courts may prescribe, a register that includes the mailing addresses designated under the first sentence of this subdivision, and a separate register of the addresses designated for the service of requests under §505(b) of the Code.
-The clerk is not required to include in any single register more than one mailing address for each department, agency, or instrumentality of the United States or the state or territory.
-If more than one address for a department, agency, or instrumentality is included in the register, the clerk shall also include information that would enable a user of the register to determine the circumstances when each address is applicable, and mailing notice to only one applicable address is sufficient to provide effective notice.
-The clerk shall update the register annually, effective January 2 of each year.
-The mailing address in the register is conclusively presumed to be a proper address for the governmental unit, but the failure to use that mailing address does not invalidate any notice that is otherwise effective under applicable law.
-
-(f) Other Books and Records of the Clerk.
-The clerk shall keep any other books and records required by the Director of the Administrative Office of the United States Courts.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 17, 2000, eff.
-Dec. 1, 2000; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule consolidates former Bankruptcy Rules 504 and 507. The record-keeping duties of the referee under former Bankruptcy Rule 504 are transferred to the clerk.
-Subdivisions (a), (c), (d) and (e) are similar to subdivisions (a)–(d) of Rule 79 F.R.Civ.P.
-
-Subdivision (b) requires that filed claims be listed on a claims register only when there may be a distribution to unsecured creditors.
-Compilation of the list for no asset or nominal asset cases would serve no purpose.
-
-Rule 2013 requires the clerk to maintain a public record of fees paid from the estate and an annual summary thereof.
-
-Former Bankruptcy Rules 507(d) and 508, which made materials in the clerk's office and files available to the public, are not necessary because §107 of the Code guarantees public access to files and dockets of cases under the Code.
 
 Rule 5004. Disqualification
 
@@ -5728,6 +5563,25 @@ Dec. 1, 2014.)
 
 References in Text
 
+The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Rule 7055. Default
+
+Rule 55 F.R.Civ.P. applies in adversary proceedings.
+
+References in Text
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Rule 7056. Summary Judgment
+
+Rule 56 F.R.Civ.P. applies in adversary proceedings, except that any motion for summary judgment must be made at least 30 days before the initial date set for an evidentiary hearing on any issue for which summary judgment is sought, unless a different time is set by local rule or the court orders otherwise.
+
+(As amended Apr. 23, 2012, eff.
+Dec. 1 2012.)
+
+References in Text
+
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Rule 7058. Entering Judgment in Adversary Proceeding
@@ -5767,7 +5621,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 Rule 7064. Seizure of Person or Property
 
-Rule 62 F.R.Civ.P. applies in adversary proceedings.
+Rule 64 F.R.Civ.P. applies in adversary proceedings.
 
 References in Text
 
@@ -8145,42 +7999,6 @@ Subdivision (d) is derived from Rule 6(d) F.R.Civ.P. The reference is to Rule 90
 
 Subdivision (f) is new and is the same as Rule 6(e) F.R.Civ.P.
 
-References in Text
-
-The Federal Rules of Civil Procedure, referred to in subds. (a) and (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-Rule 9007. General Authority to Regulate Notices
-
-When notice is to be given under these rules, the court shall designate, if not otherwise specified herein, the time within which, the entities to whom, and the form and manner in which the notice shall be given.
-When feasible, the court may order any notices under these rules to be combined.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
-
-Rule 9008. Service or Notice by Publication
-
-Whenever these rules require or authorize service or notice by publication, the court shall, to the extent not otherwise specified in these rules, determine the form and manner thereof, including the newspaper or other medium to be used and the number of publications.
-
-Rule 9009. Forms
-
-Except as otherwise provided in Rule 3016(d), the Official Forms prescribed by the Judicial Conference of the United States shall be observed and used with alterations as may be appropriate.
-Forms may be combined and their contents rearranged to permit economies in their use.
-The Director of the Administrative Office of the United States Courts may issue additional forms for use under the Code.
-The forms shall be construed to be consistent with these rules and the Code.
-
-(As amended Apr. 30, 1991, eff.
-Aug. 1, 1991; Apr. 23, 2008, eff.
-Dec. 1, 2008.)
-
-Notes of Advisory Committee on Rules—1983
-
-The rule continues the obligatory character of the Official Forms in the interest of facilitating the processing of the paperwork of bankruptcy administration, but provides that Official Forms will be prescribed by the Judicial Conference of the United States.
-The Supreme Court and the Congress will thus be relieved of the burden of considering the large number of complex forms used in bankruptcy practice.
-The use of the Official Forms has generally been held subject to a "rule of substantial compliance" and some of these rules, for example Rule 1002, specifically state that the filed document need only "conform substantially" to the Official Form.
-See also Rule 9005. The second sentence recognizes the propriety of combining and rearranging Official Forms to take advantage of technological developments and resulting economies.
-
-The Director of the Administrative Office is authorized to issue additional forms for the guidance of the bar.
-
 Rule 9010. Representation and Appearances; Powers of Attorney
 
 (a) Authority To Act Personally or by Attorney.
@@ -8352,6 +8170,31 @@ If a party in interest opposes the amount of compensation sought by a profession
 
 When the rules of Part VII are applicable to a contested matter, reference in the Part VII rules to adversary proceedings is to be read as a reference to a contested matter.
 See Rule 9002(1).
+
+References in Text
+
+The Federal Rules of Civil Procedure, referred to in subds. (b) and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Rule 9015. Jury Trials
+
+(a) Applicability of Certain Federal Rules of Civil Procedure.
+Rules 38, 39, 47–49, and 51, F.R.Civ.P., and Rule 81(c) F.R.Civ.P. insofar as it applies to jury trials, apply in cases and proceedings, except that a demand made under Rule 38(b) F.R.Civ.P. shall be filed in accordance with Rule 5005.
+
+(b) Consent To Have Trial Conducted by Bankruptcy Judge.
+If the right to a jury trial applies, a timely demand has been filed pursuant to Rule 38(b) F.R.Civ.P., and the bankruptcy judge has been specially designated to conduct the jury trial, the parties may consent to have a jury trial conducted by a bankruptcy judge under 28 U.S.C. §157(e) by jointly or separately filing a statement of consent within any applicable time limits specified by local rule.
+
+(c) Applicability of Rule 50 F.R.Civ.P. Rule 50 F.R.Civ.P. applies in cases and proceedings, except that any renewed motion for judgment or request for a new trial shall be filed no later than 14 days after the entry of judgment.
+
+(Added Apr. 11, 1997, eff.
+Dec. 1, 1997; amended Mar. 26, 2009, eff.
+Dec. 1, 2009.)
+
+Notes of Advisory Committee on Rules—1997
+
+This rule provides procedures relating to jury trials.
+This rule is not intended to expand or create any right to trial by jury where such right does not otherwise exist.
+
+GAP Report on Rule 9015. No changes to the published draft.
 
 References in Text
 

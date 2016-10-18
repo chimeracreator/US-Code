@@ -736,13 +736,13 @@ The Undersecretary for Terrorism and Financial Crimes may not redelegate its rep
 
 (c) Delegation.—To the extent that any authorities, powers, and responsibilities over enforcement matters delegated to the Undersecretary for Terrorism and Financial Crimes, or the positions of Assistant Secretary for Terrorism and Financial Crimes, Assistant Secretary for Enforcement and Operations, or Deputy Assistant Secretary for Terrorist Financing and Financial Crimes, have not been transferred to the Department of Homeland Security, the Department of Justice, or the Assistant Secretary for Tax Policy (related to the customs revenue functions of the Bureau of Alcohol and Tobacco Tax and Trade), those remaining authorities, powers, and responsibilities are delegated to the Undersecretary for Terrorism and Financial Crimes.
 
-(d) Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9703 of title 31, United States Code, and other relevant authorities.
+(d) Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31, United States Code, and other relevant authorities.
 
 (e) Use of Existing Resources.—The Secretary may employ personnel, facilities, and other Department of the Treasury resources available to the Secretary on the date of enactment of this section in carrying out this section, except as otherwise prohibited by law.
 
 (f) References.—References in this section to the "Secretary", "Undersecretary", "Deputy Secretary", "Deputy Assistant Secretary", "Office", "Assistant Secretary", and "Department" are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
-(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580.)
+(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237.)
 
 References in Text
 
@@ -752,8 +752,6 @@ For the Bank Secrecy Act, referred to in subsec. (a)(4)(A), see Short Title note
 
 Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is section 105 of Pub. L. 108–177, title I, Dec. 13, 2003, 117 Stat. 2603, which enacted section 311 of this title.
 For complete classification of section 105 to the Code, see Tables.
-
-Section 9703 of title 31, referred to in subsec. (d), probably means the section 9703 of this title added by section 638(b)(1) of Pub. L. 102–393.
 
 Prior Provisions
 
@@ -1555,7 +1553,9 @@ The word "punished" is omitted as unnecessary.
 
 (D) competency to advise and assist persons in presenting their cases.
 
-(b) After notice and opportunity for a proceeding, the Secretary may suspend or disbar from practice before the Department, or censure, a representative who—
+(b) Any enrolled agents properly licensed to practice as required under rules promulgated under subsection (a) shall be allowed to use the credentials or designation of "enrolled agent", "EA", or "E.A.".
+
+(c) After notice and opportunity for a proceeding, the Secretary may suspend or disbar from practice before the Department, or censure, a representative who—
 
 (1) is incompetent;
 
@@ -1569,15 +1569,15 @@ The Secretary may impose a monetary penalty on any representative described in t
 If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct.
 Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.
 
-(c) After notice and opportunity for a hearing to any appraiser, the Secretary may—
+(d) After notice and opportunity for a hearing to any appraiser, the Secretary may—
 
 (1) provide that appraisals by such appraiser shall not have any probative effect in any administrative proceeding before the Department of the Treasury or the Internal Revenue Service, and
 
 (2) bar such appraiser from presenting evidence or testimony in any such proceeding.
 
-(d) Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
+(e) Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, §156(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, §822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587; Pub. L. 109–280, title XII, §1219(d), Aug. 17, 2006, 120 Stat. 1085.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, §156(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, §822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587; Pub. L. 109–280, title XII, §1219(d), Aug. 17, 2006, 120 Stat. 1085; Pub. L. 114–113, div. Q, title IV, §410, Dec. 18, 2015, 129 Stat. 3121.)
 
 Historical and Revision Notes	Revised Section	Source (U.S. Code	Source (Statutes at Large)
 	330(a)	31:1026(1st sentence).	July 7, 1884, ch. 334, §3(proviso and sentence immediately after proviso under heading "War Department"), 23 Stat. 258.
@@ -2338,9 +2338,13 @@ Pub. L. 107–73, title I, §108, Nov. 26, 2001, 115 Stat. 658.
 
 Department of Homeland Security Working Capital Fund
 
-Pub. L. 113–76, div. F, title V, §504, Jan. 17, 2014, 128 Stat. 270, provided that: "The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2014: Provided, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President's fiscal year 2014 budget: Provided further, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: Provided further, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: Provided further, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: Provided further, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: Provided further, That the Committees on Appropriations of the Senate and House of Representatives shall be notified of any activity added to or removed from the fund: Provided further, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter."
+Pub. L. 114–113, div. F, title V, §504, Dec. 18, 2015, 129 Stat. 2512, provided that: "The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2016: Provided, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President's fiscal year 2016 budget: Provided further, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: Provided further, That all Departmental components shall be charged only for direct usage of each Working Capital Fund service: Provided further, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: Provided further, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: Provided further, That the Committees on Appropriations of the Senate and the House of Representatives shall be notified of any activity added to or removed from the fund: Provided further, That for any activity added to the fund, the notification shall identify sources of funds by program, project, and activity: Provided further, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–4, title V, §504, Mar. 4, 2015, 129 Stat. 62.
+
+Pub. L. 113–76, div. F, title V, §504, Jan. 17, 2014, 128 Stat. 270.
 
 Pub. L. 113–6, div. D, title V, §504, Mar. 26, 2013, 127 Stat. 367.
 
@@ -4329,6 +4333,159 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+Salary Increases
+
+1987—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $89,500 and $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+
+1977—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $57,500 and $52,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+
+1969—Salaries of Comptroller General and Assistant Comptroller General increased respectively to $42,500 and $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+
+§704. Relationship to other laws
+
+(a) To the extent applicable, all laws generally related to administering an agency apply to the Comptroller General.
+
+(b) A copy of a record and a transcript from a record or proceeding of the Comptroller General, that the Comptroller General or Deputy Comptroller General certifies under seal, shall be admitted as evidence with the same effect as a copy or transcript referred to in section 1733 of title 28.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889.)
+
+Historical and Revision Notes	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
+	704(a)	31:46(1st sentence).	June 10, 1921, ch. 18, §306, 42 Stat. 24.
+	704(b)	31:46(last sentence).	
+
+In the section, the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
+
+In subsection (a), the word "agency" is substituted for "departments and establishments" because of section 701 of the revised title.
+
+In subsection (b), the word "record" is substituted for "books, records, papers, or documents" for consistency in the revised title and with other titles of the United States Code.
+
+§705. Inspector General for the Government Accountability Office
+
+(a) Establishment of Office.—There is established an Office of the Inspector General in the Government Accountability Office, to—
+
+(1) conduct and supervise audits consistent with generally accepted government auditing standards and investigations relating to the Government Accountability Office;
+
+(2) provide leadership and coordination and recommend policies, to promote economy, efficiency, and effectiveness in the Government Accountability Office; and
+
+(3) keep the Comptroller General and Congress fully and currently informed concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of programs and operations of the Government Accountability Office.
+
+(b) Appointment, Supervision, and Removal.—
+
+(1) The Office of the Inspector General shall be headed by an Inspector General, who shall be appointed by the Comptroller General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+The Inspector General shall report to, and be under the general supervision of, the Comptroller General.
+
+(2) The Inspector General may be removed from office by the Comptroller General.
+The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.
+
+(3) The Inspector General shall be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General, and may not receive any cash award or bonus, including any award under chapter 45 of title 5.
+
+(c) Authority of Inspector General.—In addition to the authority otherwise provided by this section, the Inspector General, in carrying out the provisions of this section, may—
+
+(1) have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material that relate to programs and operations of the Government Accountability Office;
+
+(2) make such investigations and reports relating to the administration of the programs and operations of the Government Accountability Office as are, in the judgment of the Inspector General, necessary or desirable;
+
+(3) request such documents and information as may be necessary for carrying out the duties and responsibilities provided by this section from any Federal agency;
+
+(4) in the performance of the functions assigned by this section, obtain all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence from a person not in the United States Government or from a Federal agency, to the same extent and in the same manner as the Comptroller General under the authority and procedures available to the Comptroller General in section 716 of this title;
+
+(5) administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of the functions assigned by this section, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office of Inspector General designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal;
+
+(6) have direct and prompt access to the Comptroller General when necessary for any purpose pertaining to the performance of functions and responsibilities under this section;
+
+(7) report expeditiously to the Attorney General whenever the Inspector General has reasonable grounds to believe there has been a violation of Federal criminal law; and
+
+(8) provide copies of all reports to the Audit Advisory Committee of the Government Accountability Office and provide such additional information in connection with such reports as is requested by the Committee.
+
+(d) Complaints by Employees.—
+
+(1) The Inspector General—
+
+(A) subject to subparagraph (B), may receive, review, and investigate, as the Inspector General considers appropriate, complaints or information from an employee of the Government Accountability Office concerning the possible existence of an activity constituting a violation of any law, rule, or regulation, mismanagement, or a gross waste of funds; and
+
+(B) shall refer complaints or information concerning violations of personnel law, rules, or regulations to established investigative and adjudicative entities of the Government Accountability Office.
+
+(2) The Inspector General shall not, after receipt of a complaint or information from an employee, disclose the identity of the employee without the consent of the employee, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
+
+(3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+
+(e) Semiannual Reports.—(1) The Inspector General shall submit semiannual reports summarizing the activities of the Office of the Inspector General to the Comptroller General.
+Such reports shall include, but need not be limited to—
+
+(A) a summary of each significant report made during the reporting period, including a description of significant problems, abuses, and deficiencies disclosed by such report;
+
+(B) a description of the recommendations for corrective action made with respect to significant problems, abuses, or deficiencies described pursuant to subparagraph (A);
+
+(C) a summary of the progress made in implementing such corrective action described pursuant to subparagraph (B); and
+
+(D) information concerning any disagreement the Comptroller General has with a recommendation of the Inspector General.
+
+(2) The Comptroller General shall transmit the semiannual reports of the Inspector General, together with any comments the Comptroller General considers appropriate, to Congress within 30 days after receipt of such reports.
+
+(f) Independence in Carrying Out Duties and Responsibilities.—The Comptroller General may not prevent or prohibit the Inspector General from carrying out any of the duties or responsibilities of the Inspector General under this section.
+
+(g) Authority for Staff.—
+
+(1) In general.—The Inspector General shall select, appoint, and employ (including fixing and adjusting the rates of pay of) such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment (including the fixing and adjusting the rates of pay) in the Government Accountability Office.
+Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
+
+(2) Experts and consultants.—The Inspector General may procure temporary and intermittent services under section 3109 of title 5 at rates not to exceed the daily equivalent of the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of such title.
+
+(3) Independence in appointing staff.—No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed by the Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
+
+(4) Limitation on program responsibilities.—The Inspector General and any individual carrying out any of the duties or responsibilities of the Office of the Inspector General are prohibited from performing any program responsibilities.
+
+(h) Office Space.—The Comptroller General shall provide the Office of the Inspector General—
+
+(1) appropriate and adequate office space;
+
+(2) such equipment, office supplies, and communications facilities and services as may be necessary for the operation of the Office of the Inspector General;
+
+(3) necessary maintenance services for such office space, equipment, office supplies, and communications facilities; and
+
+(4) equipment and facilities located in such office space.
+
+(i) Definition.—As used in this section, the term "Federal agency" means a department, agency, instrumentality, or unit thereof, of the Federal Government.
+
+(Added Pub. L. 110–323, §5(a), Sept. 22, 2008, 122 Stat. 3544.)
+
+Incumbent
+
+Pub. L. 110–323, §5(b), Sept. 22, 2008, 122 Stat. 3547, provided that: "The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act [Sept. 22, 2008] shall continue to serve in such position subject to removal in accordance with the amendments made by this section [enacting this section]."
+
+SUBCHAPTER II—GENERAL DUTIES AND POWERS
+
+§711. General authority
+
+The Comptroller General may—
+
+(1) prescribe regulations to carry out the duties and powers of the Comptroller General;
+
+(2) delegate the duties and powers of the Comptroller General to officers and employees of the Government Accountability Office as the Comptroller General decides is necessary to carry out those duties and powers;
+
+(3) regulate the practice of representatives of persons before the Office; and
+
+(4) administer oaths to witnesses when auditing and settling accounts.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+Historical and Revision Notes	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
+	711	31:44(1st sentence).	June 10, 1921, ch. 18, §304(1st par. 1st sentence), 42 Stat. 24.
+	 	31:52(c), (d).	June 10, 1921, ch. 18, §311(c), (d), 42 Stat. 25; Feb. 15, 1980, Pub. L. 96–191, §8(e)(4), 94 Stat. 33.
+	 	31:52–1(related to direct).	Feb. 15, 1980, Pub. L. 96–191, §2(related to direct), 94 Stat. 27.
+	 	31:117.	R.S. §297.
+
+In clause (1), the words "may . . . prescribe regulations to carry out the duties and powers of the Comptroller General" are substituted for "shall make such rules and regulations as may be necessary for carrying on the work of the General Accounting Office" in 31:52(d) for consistency.
+
+In clause (2), the word "delegate" is substituted for "direct" in 31:52–1, and the words "officers and employees" are substituted for "personnel", and 31:52(c) is omitted, for consistency in the revised title and with other titles of the United States Code.
+
+In clause (3), the words "rules and" in 31:52(d) are omitted as surplus.
+The words "representatives of persons" are substituted for "attorneys" for clarity and consistency in the revised title.
+
+In clause (4), the words "in any case in which they may deem it necessary for the due" in 31:117 are omitted as surplus.
+The words "auditing and settling" are substituted for "examination" for consistency.
+The words "with which they shall be charged" are omitted because of the restatement.
+
 Expired Appropriations Available for Deposit Into Employees' Compensation Fund
 
 Pub. L. 113–6, div. F, title VI, §1611, Mar. 26, 2013, 127 Stat. 427, provided that:
@@ -5146,7 +5303,9 @@ Regulations to carry out any such program—
 
 (j) Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, §9(a), Sept. 22, 2008, 122 Stat. 3548; Pub. L. 111–350, §5(h)(2), Jan. 4, 2011, 124 Stat. 3849.)
+(k) Federal Government Details.—The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, §9(a), Sept. 22, 2008, 122 Stat. 3548; Pub. L. 111–350, §5(h)(2), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 114–113, div. I, title I, §1301(a), Dec. 18, 2015, 129 Stat. 2671.)
 
 Historical and Revision Notes	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
 	731(a)	31:44(1st sentence).	June 10, 1921, ch. 18, §304(1st par. 1st sentence), 42 Stat. 24.
@@ -7948,7 +8107,7 @@ The words "of Congress" are added for clarity.
 
 Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 §1109. Current programs and activities estimates
 
@@ -8254,7 +8413,7 @@ Pub. L. 107–295, title III, §322(b), Nov. 25, 2002, 116 Stat. 2103, provided 
 
 "(4) Conditions of public ports of the united states.—Section 308(c) of title 49, United States Code.
 
-"(5) Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 ([former] 46 App. U.S.C. 1118) [see 46 U.S.C. 306(a), 50111(a)].
+"(5) Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 ([former] 46 App. U.S.C. 1118) [see 46 U.S.C. 306(a)].
 
 "(6) Activities of interagency coordinating committee on oil pollution research.—Section 7001(e) of the Oil Pollution Act of 1990 (33 U.S.C. 2761(e))."
 
@@ -8322,7 +8481,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 "(1) Section 3 of the Employment Act of 1946 (15 U.S.C. 1022).
 
-"(2) Section 723 of the Defense Production Act of 1950 [50 U.S.C. App. 2172].
+"(2) Section 723 of the Defense Production Act of 1950 [50 U.S.C. 4568].
 
 "(3) Section 603 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3213).
 
@@ -8388,7 +8547,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 "(34) Section 607(a) of the Housing and Community Development Amendments of 1978 (42 U.S.C. 8106(a)).
 
-"(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)).
+"(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)) [now 50 U.S.C. 4558(l)].
 
 "(36) Section 2546 of the Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990 [Pub. L. 101–647] (28 U.S.C. 522 note).
 
@@ -8622,11 +8781,11 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003
 
 "(8) Section 3 of the International Claims Settlement Act of 1949 (22 U.S.C. 1622).
 
-"(9) Section 9 of the War Claims Act of 1948 (50 U.S.C. App. 2008).
+"(9) Section 9 of the War Claims Act of 1948 (50 U.S.C. App. 2008) [now 50 U.S.C. 4107].
 
 "(10) Section 13(c) of the Act of September 11, 1957 (8 U.S.C. 1255b(c)).
 
-"(11) Section 203(b) of the Aleutian and Pribilof Islands Restitution Act (50 U.S.C. App. 1989c–2(b)).
+"(11) Section 203(b) of the Aleutian and Pribilof Islands Restitution Act (50 U.S.C. App. 1989c–2(b)) [now 50 U.S.C. 4233].
 
 "(12) Section 801(e) of the Immigration Act of 1990 (29 U.S.C. 2920(e)).
 
@@ -8742,7 +8901,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 "(22) Section 12 of the Act of March 9, 1920 (popularly known as the 'Suits in Admiralty Act') (46 App. U.S.C. 752) [now 46 U.S.C. 30918].
 
-"(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 ([former] 46 App. U.S.C. 1118, 1241(b)(2), 1291) [see 46 U.S.C. 306(a), 50111(a), 55305(d)].
+"(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 ([former] 46 App. U.S.C. 1118, 1241(b)(2), 1291) [see 46 U.S.C. 306(a), 55305(d)].
 
 "(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–2, 98h–5).
 
@@ -8756,9 +8915,9 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 "(29) Sections 202(d) and 401(c) of the National Emergencies Act (50 U.S.C. 1622(d), 1641(c)).
 
-"(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)).
+"(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)) [now 50 U.S.C. 3809(g)].
 
-"(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158).
+"(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158) [now 50 U.S.C. 4558].
 
 "(32) Section 703(g) of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1376).
 
@@ -8812,7 +8971,7 @@ Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, as amended by
 
 "(14) section 204 of the International Emergency Economic Powers Act (50 U.S.C. 1703);
 
-"(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+"(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) [now 50 U.S.C. 4616];
 
 "(16) section 207 of the International Economic Policy Act of 1972 (Public Law 92–412; 86 Stat. 648) [former 22 U.S.C. 2846];
 
@@ -8838,9 +8997,9 @@ Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, as amended by
 
 "(27) section 23 of the Act of August 1, 1956 (Chapter 841 [probably should be section 515(b)(2) of Public Law 95–105]; 22 U.S.C. 2694(2));
 
-"(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5));
+"(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5)) [now 50 U.S.C. 4604(c)(5)];
 
-"(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+"(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) [now 50 U.S.C. 4616];
 
 "(30) section 50 of Public Law 87–297 (22 U.S.C. 2590);
 
@@ -8974,7 +9133,7 @@ The drafting of performance plans under this section shall be performed only by 
 
 (g) Chief Human Capital Officers.—With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (b)(5)(A).
 
-(h) Definitions.—For purposes of this section and sections 1116 through 1125, and sections 9703 1 and 9704, the term—
+(h) Definitions.—For purposes of this section and sections 1116 through 1125, and sections 9703 and 9704, the term—
 
 (1) "agency" has the same meaning as such term is defined under section 306(f) of title 5;
 
@@ -9001,10 +9160,6 @@ The drafting of performance plans under this section shall be performed only by 
 (12) "program evaluation" means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
 (Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867.)
-
-References in Text
-
-Section 9703, referred to in subsec. (h), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
 Prior Provisions
 
@@ -9245,8 +9400,6 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 
 George W. Bush.      
 
-1 See References in Text note below.
-
 §1116. Agency performance reporting
 
 (a) The head of each agency shall make available on a public website of the agency and to the Office of Management and Budget an update on agency performance.
@@ -9269,7 +9422,7 @@ George W. Bush.      
 
 (C) if the performance goal is impractical or infeasible, why that is the case and what action is recommended;
 
-(4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 1 of this title;
+(4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 of this title;
 
 (5) include a review of the performance goals and evaluation of the performance plan relative to the agency's strategic human capital management;
 
@@ -9324,10 +9477,6 @@ If after exercising such authority additional funding is necessary to achieve th
 
 (Added Pub. L. 111–352, §4, Jan. 4, 2011, 124 Stat. 3871.)
 
-References in Text
-
-Section 9703, referred to in subsec. (c)(4), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
-
 Prior Provisions
 
 A prior section 1116, added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, §5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–296, title XIII, §1311(b), Nov. 25, 2002, 116 Stat. 2290, related to program performance reports, prior to repeal by Pub. L. 111–352, §4, Jan. 4, 2011, 124 Stat. 3871.
@@ -9343,8 +9492,6 @@ Pub. L. 112–199, title I, §116(b), Nov. 27, 2012, 126 Stat. 1474, provided th
 "(B) The number of such cases filed in the regional and field offices, and the number of petitions for review filed in such cases, during the period covered by such report, and the outcomes of any such cases or petitions for review (irrespective of when filed) decided during such period.
 
 "(2) First report.—The first report described under paragraph (1) submitted after the date of enactment of this Act [Nov. 27, 2012] shall include an addendum required under that paragraph that covers the period beginning on the effective date of this Act [see Effective Date of 2012 Amendment note set out under section 1204 of Title 5, Government Organization and Employees] and ending at the end of the fiscal year in which such effective date occurs."
-
-1 See References in Text note below.
 
 §1117. Exemption
 
@@ -9369,7 +9516,7 @@ A strategic plan shall be used when preparing agency performance plans during on
 
 (2) identify any significant difficulties experienced by the pilot agencies in preparing plans and reports; and
 
-(3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, section 306 of title 5, sections 1105, 1115, 1116, 1117, 1119 and 9703 1 of this title, and this section.
+(3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, section 306 of title 5, sections 1105, 1115, 1116, 1117, 1119 and 9703 of this title, and this section.
 
 (Added Pub. L. 103–62, §6(a), Aug. 3, 1993, 107 Stat. 290.)
 
@@ -9378,13 +9525,9 @@ References in Text
 The Government Performance and Results Act of 1993, referred to in subsec. (c)(1), (3), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of this title, and enacted provisions set out as notes under sections 1101 and 1115 of this title.
 For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of this title and Tables.
 
-Section 9703, referred to in subsec. (c)(3), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
-
 Construction
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
-
-1 See References in Text note below.
 
 §1119. Pilot projects for performance budgeting
 
@@ -9403,7 +9546,7 @@ Such budgets shall present, for one or more of the major functions and operation
 
 (3) recommend whether legislation requiring performance budgets should be proposed and the general provisions of any legislation; and
 
-(4) set forth any recommended changes in the other requirements of the Government Performance and Results Act of 1993, section 306 of title 5, sections 1105, 1115, 1116, 1117, and 9703 1 of this title, and this section.
+(4) set forth any recommended changes in the other requirements of the Government Performance and Results Act of 1993, section 306 of title 5, sections 1105, 1115, 1116, 1117, and 9703 of this title, and this section.
 
 (e) After receipt of the report required under subsection (d), the Congress may specify that a performance budget be submitted as part of the annual budget submitted under section 1105.
 
@@ -9414,13 +9557,9 @@ References in Text
 The Government Performance and Results Act of 1993, referred to in subsec. (d)(4), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of this title, and enacted provisions set out as notes under sections 1101 and 1115 of this title.
 For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of this title and Tables.
 
-Section 9703, referred to in subsec. (d)(4), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
-
 Construction
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
-
-1 See References in Text note below.
 
 §1120. Federal Government and agency priority goals
 
@@ -10001,87 +10140,6 @@ References in Text
 
 Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L. 97–164, title I, §139(l), Apr. 2, 1982, 96 Stat. 43.
 
-Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-1 See References in Text note below.
-
-§1305. Miscellaneous permanent appropriations
-
-Necessary amounts are appropriated for the following:
-
-(1) to pay the proceeds of the personal estate of a United States citizen dying abroad to the legal representative of the deceased on proper demand and proof.
-
-(2) to pay interest on the public debt under laws authorizing payment.
-
-(3) to pay proceeds from derelict and salvage cases adjudged by the courts of the United States to salvors.
-
-(4) to make payments required under contracts made under section 108 of the Housing and Community Development Act of 1974 (42 U.S.C. 5308) for the payment of interest on obligations guaranteed by the Secretary of Housing and Urban Development under section 108.
-
-(5) to make payments required under contracts made under section 103(b) of the Housing Act of 1949 (42 U.S.C. 1453(b)) for projects or programs for which amounts had been committed before January 1, 1975, and for which amounts have not been appropriated.
-
-(6) to pay the interest on the fund derived from the bequest of James Smithson, for the construction of buildings and expenses of the Smithsonian Institution, at the rates determined under section 5590 of the Revised Statutes (20 U.S.C. 54).
-
-annual contributions for assisted housing
-
-(7) to make payments required under contracts made under section 5 of the United States Housing Act of 1937, as amended (42 U.S.C. 1437c).
-
-college housing grants
-
-(8) to make payments required under contracts made under title IV of the Housing Act of 1950, as amended (12 U.S.C. 1749 et seq.).
-
-rent supplement program
-
-(9) to make payments required under contracts under section 101 of the Housing and Urban Development Act of 1965, as amended (12 U.S.C. 1701s).
-
-homeownership and rental housing assistance
-
-(10) to make payments required under contracts under sections 235 and 236, respectively, of the National Housing Act, as amended (12 U.S.C. 1715z, 1715z–1).
-
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918; Pub. L. 97–452, §1(4), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–371, title I, §101, July 18, 1984, 98 Stat. 1220.)
-
-Historical and Revision Notes
-1982 Act	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
-	1305	31:711(1)–(3), (11a)–(23).	R.S. §3689(less last 3 pars. on p. 725 related to redemption of stamps, debentures and other charges, and debentures and drawbacks, 2d par. on p. 726 related to repayment of excess of deposits, 3d–7th pars. on p. 726 related to refunding duties on goods destroyed, marine hospital establishment, refunding duties, refunding proceeds of goods seized and sold, and refunding proceeds of unclaimed merchandise); June 20, 1874, ch. 328, §4(less words between 1st and 2d semicolons), 18 Stat. 109; Mar. 3, 1875, ch. 129, §1(6th par. 3d sentence under heading "War Department"), 18 Stat. 359; June 19, 1878, ch. 329, §1(par. immediately before heading "Office of the Attorney General"), 20 Stat. 205; May 26, 1908, ch. 198, §1(last par. on p. 295), 35 Stat. 295; June 25, 1910, ch. 384, §8(words before semicolon), 36 Stat. 773; Oct. 18, 1972, Pub. L. 92–500, §12(p), 86 Stat. 902; Aug. 22, 1974, Pub. L. 93–383, §§108(i), 117(a), 88 Stat. 649, 653; Oct. 12, 1977, Pub. L. 95–128, §108(2), 91 Stat. 1123.
-
-In the section, the words "out of any moneys in the Treasury not otherwise appropriated" and "and such appropriations shall be deemed permanent annual appropriations" are omitted as surplus.
-
-In clause (2), the text of section 4(words after 2d semicolon) of the Act of June 20, 1874 (ch. 328, 18 Stat. 109), is omitted as expired.
-
-The text of 31:711(3) is omitted as superseded by the source provisions restated in section 1322 of the revised title.
-
-The text of 31:711(11a) is omitted because the Environmental Financing Authority expired on June 30, 1975.
-
-The text of 31:711(12) is omitted as superseded by 31:725s(a)(1st proviso) and 31:725s(a)(59).
-
-The text of 31:711(13) is omitted as obsolete because provisions relating to horses and property lost in military service were repealed by section 1 of the Act of December 16, 1930 (ch. 14, 46 Stat. 1028), and section 3 of the Act of May 29, 1945 (ch. 135, 59 Stat. 225).
-
-The text of 31:711(14) is omitted as superseded by 31:240–243.
-
-The text of 31:711(16) is omitted as obsolete because of the repeal of the permanent appropriation for surveying within land grants (reimbursable) by 31:725(a) and (b)(13).
-
-The text of 31:711(17) is omitted as superseded by the repeal of the appropriation account "Five Percent Funds to States" by 31:725c(a) and (b)(34).
-
-The text of 31:711(18) is omitted as superseded by 31:725b(a) and (b)(8).
-
-The text of 31:711(19) is omitted as superseded by 31:725q(a) and (b)(14).
-
-The text of 31:711(20) is omitted as superseded by section 1(1st par. on p. 447) of the Act of March 3, 1875 (ch. 132, 18 Stat. 447), and section 1(last par. on p. 197) of the Act of August 15, 1876 (ch. 289, 19 Stat. 197).
-
-1983 Act
-
-This amends 31:1305(6) to conform to the Smithsonian Institution charter as amended by section 1 of the Act of June 22, 1982 (Pub. L. 97–199, 96 Stat. 121).
-
-References in Text
-
-Section 103(b) of the Housing Act of 1949 (42 U.S.C. 1453(b)), referred to in par. (5), was omitted from the Code pursuant to section 5316 of Title 42, The Public Health and Welfare, which terminated the authority to make grants or loans under title I of that Act (42 U.S.C. 1450 et seq.) after Jan. 1, 1975.
-
-The Housing Act of 1950, referred to in par. (8), is act Apr. 20, 1950, ch. 94, 64 Stat. 48, as amended.
-Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, §702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12 and Tables.
-
-Section 101 of the Housing and Urban Development Act of 1965, as amended, referred to in par. (9), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, and amended sections 1451 and 1465 of this title.
-
 §1306. Use of foreign credits
 
 (a) In General.—Foreign credits (including currencies) owed to or owned by the United States may be used by any agency for any purpose for which appropriations are made for the agency for the current fiscal year (including the carrying out of Acts requiring or authorizing the use of such credits), but only when reimbursement therefor is made to the Treasury from applicable appropriations of the agency.
@@ -10420,6 +10478,10 @@ The name of the Office of National Parks, Buildings, and Reservations was change
 
 The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means the District of Columbia Unemployment Compensation Act, act Aug. 28, 1935, ch. 794, 49 Stat. 946, which is not classified to the Code.
 
+Investment of National Park Service Trust Funds
+
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: "In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts (31 U.S.C. 1321(a)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: Provided, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project."
+
 Trust Funds for Individual Indians
 
 Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
@@ -10562,7 +10624,7 @@ Amendment by section 10909(b)(2)(P) of Pub. L. 111–148 applicable to taxable y
 
 Construction of 2002 Amendment
 
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of Title 29, Labor.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of Title 26, Internal Revenue Code.
 
 Coordination With Refund Provision
 
@@ -10710,9 +10772,11 @@ Pub. L. 100–202, §101(b) [title VIII, §8119], Dec. 22, 1987, 101 Stat. 1329�
 
 Maximum Purchase Price of Motor Vehicles; Exceptions
 
-Pub. L. 113–235, div. E, title VII, §702, Dec. 16, 2014, 128 Stat. 2379, provided that: "Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $13,197 except station wagons for which the maximum shall be $13,631: Provided, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [15 U.S.C. 2501 et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on emerging motor vehicle technology, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles."
+Pub. L. 114–113, div. E, title VII, §702, Dec. 18, 2015, 129 Stat. 2473, provided that: "Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [15 U.S.C. 2501 et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. E, title VII, §702, Dec. 16, 2014, 128 Stat. 2379.
 
 Pub. L. 113–76, div. E, title VII, §702, Jan. 17, 2014, 128 Stat. 230.
 
@@ -11605,9 +11669,9 @@ In subsection (b), the words "balance of an appropriation or fund" are substitut
 
 Quarterly Reports
 
-Pub. L. 113–235, div. G, title V, §523, Dec. 16, 2014, 128 Stat. 2518, provided that: "Not later than 30 days after the end of each calendar quarter, beginning with the first quarter of fiscal year 2013, the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a quarterly report on the status of balances of appropriations: Provided, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the quarterly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived."
+Pub. L. 114–113, div. H, title V, §526, Dec. 18, 2015, 129 Stat. 2653, provided that: "Not later than 30 days after the end of each calendar quarter, beginning with the first quarter of fiscal year 2013, the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a quarterly report on the status of balances of appropriations: Provided, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the quarterly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived."
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following prior appropriation acts:Pub. L. 113–235, div. G, title V, §523, Dec. 16, 2014, 128 Stat. 2518.
 
 Pub. L. 113–76, div. H, title V, §524, Jan. 17, 2014, 128 Stat. 413.
 
@@ -12679,6 +12743,24 @@ The Rules of the House of Representatives for the One Hundred Sixth Congress wer
 Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 1272(a) of Title 26, Internal Revenue Code.
 
 Temporary Debt Limit Extension
+
+Pub. L. 114–74, title IX, §§901, 902, Nov. 2, 2015, 129 Stat. 620, 621, provided that:
+
+"SEC. 901. TEMPORARY EXTENSION OF PUBLIC DEBT LIMIT.
+
+"(a) In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act [Nov. 2, 2015] and ending on March 15, 2017.
+
+"(b) Special Rule Relating to Obligations Issued During Extension Period.—Effective March 16, 2017, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
+
+"(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on March 16, 2017, exceeds
+
+"(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+"SEC. 902. RESTORING CONGRESSIONAL AUTHORITY OVER THE NATIONAL DEBT.
+
+"(a) Extension Limited to Necessary Obligations.—An obligation shall not be taken into account under section 901(b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before March 16, 2017.
+
+"(b) Prohibition on Creation of Cash Reserve During Extension Period.—The Secretary of the Treasury shall not issue obligations during the period specified in section 901(a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period."
 
 Pub. L. 113–83, Feb. 15, 2014, 128 Stat. 1011, provided that:
 
@@ -14234,6 +14316,10 @@ The word "public" is added for consistency.
 In subsection (b), the words "Except as provided in section 3326 of this title" are added for clarity.
 The words "endorse . . . as required by subsection (a)(4) of this section" are substituted for "so signed" for clarity and consistency.
 
+Short Title of 2015 Amendment
+
+Pub. L. 114–109, §1, Dec. 18, 2015, 129 Stat. 2225, provided that: "This Act [amending provisions set out as a note under section 3321 of this title] may be cited as the 'Federal Improper Payments Coordination Act of 2015'."
+
 Short Title of 2010 Amendment
 
 Pub. L. 111–204, §1, July 22, 2010, 124 Stat. 2224, provided that: "This Act [amending sections 3501 and 3562 of this title and section 612 of Title 6, Domestic Security, repealing sections 3561 and 3563 to 3567 of this title, enacting provisions set out as notes under section 3321 of this title, and amending provisions set out as a note under section 3321 of this title] may be cited as the 'Improper Payments Elimination and Recovery Act of 2010'."
@@ -14438,7 +14524,7 @@ Section 4 of Reorganization Plan No. 4 of 1940 is omitted because (1) the Post O
 
 Improper Payments Elimination and Recovery Improvement
 
-Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, §204(c), Dec. 26, 2013, 127 Stat. 1181, provided that:
+Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, §204(c), Dec. 26, 2013, 127 Stat. 1181; Pub. L. 114–109, §§2–4, Dec. 18, 2015, 129 Stat. 2225–2227, provided that:
 
 "SECTION 1. SHORT TITLE.
 
@@ -14490,7 +14576,7 @@ Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67
 
 "(2) Databases.—At a minimum and before issuing any payment and award, each agency shall review as appropriate the following databases to verify eligibility of the payment and award:
 
-"(A) The Death Master File of the Social Security Administration.
+"(A) The death records maintained by the Commissioner of Social Security.
 
 "(B) The General Services Administration's Excluded Parties List System.
 
@@ -14516,7 +14602,13 @@ Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67
 
 "(B) provide public notice and an opportunity for comment before designating a database under paragraph (1)(B).
 
-"(3) Access and review by agencies.—For purposes of identifying and preventing improper payments, each agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a) when the Director of the Office of Management and Budget determines the Do Not Pay Initiative is appropriately established for the agency.
+"(3) Access and review.—
+
+"(A) In general.—For purposes of identifying and preventing improper payments, each agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a) when the Director of the Office of Management and Budget determines the Do Not Pay Initiative is appropriately established for the agency.
+
+"(B) Other entities.—States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code), shall have access to, and use of, the Do Not Pay Initiative for the purpose of verifying payment or award eligibility for payments (as defined in section 2(g)(3) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note)) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of the State, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable.
+
+"(C) Consistency with privacy act of 1974.—To ensure consistency with the principles of section 552a of title 5, United States Code (commonly known as the 'Privacy Act of 1974'), the Director of the Office of Management and Budget may issue guidance that establishes privacy and other requirements that shall be incorporated into Do Not Pay Initiative access agreements with States, including any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States.
 
 "(4) Payment otherwise required.—When using the Do Not Pay Initiative, an agency shall recognize that there may be circumstances under which the law requires a payment or award to be made to a recipient, regardless of whether that recipient is identified as potentially ineligible under the Do Not Pay Initiative.
 
@@ -14542,9 +14634,11 @@ Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67
 
 "(A) may be located within an appropriate agency;
 
-"(B) shall include not less than 3 agencies as users of the system; and
+"(B) shall include not less than 3 agencies as users of the system;
 
-"(C) shall include investigation activities for fraud and systemic improper payments detection through analytic technologies and other techniques, which may include commercial database use or access.
+"(C) shall include investigation activities for fraud and systemic improper payments detection through analytic technologies and other techniques, which may include commercial database use or access; and
+
+"(D) may include States and their quasi-government entities, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code) as users of the system in accordance with subsection (b)(3).
 
 "(3) Application to all agencies.—Not later than June 1, 2013, each agency shall review all payments and awards for all programs of that agency through the system established under this subsection.
 
@@ -14618,6 +14712,20 @@ Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67
 
 "(3) Report.—Not later than 120 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall submit a report to Congress on the plan established under this subsection, including recommended legislation.
 
+"(h) Report on Improper Payments Data Analysis.—Not later than 180 days after the date of enactment of the Federal Improper Payments Coordination Act of 2015 [Dec. 18, 2015], the Secretary of the Treasury shall submit to Congress a report which shall include a description of—
+
+"(1) data analytics performed as part of the Do Not Pay Business Center operated by the Department of the Treasury for the purpose of detecting, preventing, and recovering improper payments through preaward, postaward prepayment, and postpayment analysis, which shall include a description of any analysis or investigations incorporating—
+
+"(A) review and data matching of payments and beneficiary enrollment lists of State programs carried out using Federal funds for the purposes of identifying eligibility duplication, residency ineligibility, duplicate payments, or other potential improper payment issues;
+
+"(B) review of multiple Federal agencies and programs for which comparison of data could show payment duplication; and
+
+"(C) review of other information the Secretary of the Treasury determines could prove effective for identifying, preventing, or recovering improper payments, which may include investigation or review of information from multiple Federal agencies or programs;
+
+"(2) the metrics used in determining whether the analytic and investigatory efforts have reduced, or contributed to the reduction of, improper payments or improper awards; and
+
+"(3) the target dates for implementing the data analytics operations performed as part of the Do Not Pay Business Center[.]
+
 "SEC. 6. IMPROVING RECOVERY OF IMPROPER PAYMENTS.
 
 "(a) Definition.—In this section, the term 'recovery audit' means a recovery audit described under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 [Pub. L. 111–204] (31 U.S.C. 3301 note).
@@ -14626,7 +14734,29 @@ Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67
 
 "(1) current and historical rates and amounts of recovery of improper payments (or, in cases in which improper payments are identified solely on the basis of a sample, recovery rates and amounts estimated on the basis of the applicable sample), including a list of agency recovery audit contract programs and specific information of amounts and payments recovered by recovery audit contractors; and
 
-"(2) targets for recovering improper payments, including specific information on amounts and payments recovered by recovery audit contractors."
+"(2) targets for recovering improper payments, including specific information on amounts and payments recovered by recovery audit contractors.
+
+"SEC. 7. IMPROVING THE USE OF DATA BY GOVERNMENT AGENCIES FOR CURBING IMPROPER PAYMENTS.
+
+"(a) Prompt Reporting of Death Information by the Department of State and the Department of Defense.—Not later than 1 year after the date of enactment of this section [Dec. 18, 2015], the Secretary of State and the Secretary of Defense shall establish a procedure under which each Secretary shall, promptly and on a regular basis, submit information relating to the deaths of individuals to each agency for which the Director of the Office of Management and Budget determines receiving and using such information would be relevant and necessary.
+
+"(b) Guidance to Agencies Regarding Data Access and Use for Improper Payments Purposes.—
+
+"(1) In general.—Not later than 1 year after the date of enactment of this section, the Director of the Office of Management and Budget, in consultation with the Council of the Inspectors General on Integrity and Efficiency, the heads of other relevant Federal, State, and local agencies, and Indian tribes and tribal organizations, as appropriate, shall issue guidance regarding implementation of the Do Not Pay Initiative under section 5 to—
+
+"(A) the Department of the Treasury; and
+
+"(B) each agency or component of an agency—
+
+"(i) that operates or maintains a database of information described in section 5(a)(2); or
+
+"(ii) for which the Director determines improved data matching would be relevant, necessary, or beneficial.
+
+"(2) Requirements.—The guidance issued under paragraph (1) shall—
+
+"(A) address the implementation of subsection (a); and
+
+"(B) include the establishment of deadlines for access to and use of the databases described in section 5(a)(2) under the Do Not Pay Initiative."
 
 Determinations of Agency Readiness for Opinion on Internal Control
 
@@ -16455,6 +16585,190 @@ In subsection (b)(3), the words "as a whole" and "respective" are omitted as sur
 
 Subsection (c)(2) is substituted for 31:49 and the words "and, to the extent he deems necessary, the authority vested in him by section 49 of this title" in 31:66(a) for clarity and consistency. H. Rept. 2556, 81st Cong. (1950), states that the Comptroller General will be able to prescribe appropriation and fund accounting systems under 31:49 "in terms of principles, standards and related requirements rather than in terms of detailed forms and procedures". The reference to the judicial branch covers authority that the Comptroller General was given under 31:49 that applies to departments and establishments except the Supreme Court that was not superseded by the source provisions restated in subsection (a) of this section.
 
+Adoption of Capital Accounting Standards
+
+Pub. L. 101–576, title III, §307, Nov. 15, 1990, 104 Stat. 2855, provided that: "No capital accounting standard or principle, including any human capital standard or principle, shall be adopted for use in an executive department or agency until such standard has been reported to the Congress and a period of 45 days of continuous session of the Congress has expired."
+
+§3512. Executive agency accounting and other financial management reports and plans
+
+(a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
+
+(2) A financial management status report under this subsection shall include—
+
+(A) a description and analysis of the status of financial management in the executive branch;
+
+(B) a summary of the most recently completed financial statements—
+
+(i) of Federal agencies under section 3515 of this title; and
+
+(ii) of Government corporations;
+
+(C) a summary of the most recently completed financial statement audits and reports—
+
+(i) of Federal agencies under section 3521(e) and (f) of this title; and
+
+(ii) of Government corporations;
+
+(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255);
+
+(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section 1 3(a) 2 the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
+
+(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
+
+(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
+
+(B) Each governmentwide 5-year financial management plan prepared under this subsection shall—
+
+(i) describe the existing financial management structure and any changes needed to establish an integrated financial management system;
+
+(ii) be consistent with applicable accounting principles, standards, and requirements;
+
+(iii) provide a strategy for developing and integrating individual agency accounting, financial information, and other financial management systems to ensure adequacy, consistency, and timeliness of financial information;
+
+(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systems which have sufficient capacity to perform the functions needed;
+
+(v) identify projects to bring existing systems into compliance with the applicable standards and requirements;
+
+(vi) contain milestones for equipment acquisitions and other actions necessary to implement the 5-year plan consistent with the requirements of this section;
+
+(vii) identify financial management personnel needs and actions to ensure those needs are met;
+
+(viii) include a plan for ensuring the annual audit of financial statements of executive agencies pursuant to section 3521(h) of this title; and
+
+(ix) estimate the costs of implementing the governmentwide 5-year plan.
+
+(4)(A) Not later than 15 months after the date of the enactment of this subsection, the Director of the Office of Management and Budget shall submit the first financial management status report and governmentwide 5-year financial management plan under this subsection to the appropriate committees of the Congress.
+
+(B)(i) Not later than January 31 of each year thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of the Congress a financial management status report and a revised governmentwide 5-year financial management plan to cover the succeeding 5 fiscal years, including a report on the accomplishments of the executive branch in implementing the plan during the preceding fiscal year.
+
+(ii) The Director shall include with each revised governmentwide 5-year financial management plan a description of any substantive changes in the financial statement audit plan required by paragraph (3)(B)(viii), progress made by executive agencies in implementing the audit plan, and any improvements in Federal Government financial management related to preparation and audit of financial statements of executive agencies.
+
+(5) Not later than 30 days after receiving each annual report under section 902(a)(6) of this title, the Director shall transmit to the Chairman of the Committee on Government Operations of the House of Representatives and the Chairman of the Committee on Governmental Affairs of the Senate a final copy of that report and any comments on the report by the Director.
+
+(b) The head of each executive agency shall establish and maintain systems of accounting and internal controls that provide—
+
+(1) complete disclosure of the financial results of the activities of the agency;
+
+(2) adequate financial information the agency needs for management purposes;
+
+(3) effective control over, and accountability for, assets for which the agency is responsible, including internal audit;
+
+(4) reliable accounting results that will be the basis for—
+
+(A) preparing and supporting the budget requests of the agency;
+
+(B) controlling the carrying out of the agency budget; and
+
+(C) providing financial information the President requires under section 1104(e) of this title; and
+
+(5) suitable integration of the accounting of the agency with the central accounting and reporting responsibilities of the Secretary of the Treasury under section 3513 of this title.
+
+(c)(1) To ensure compliance with subsection (b)(3) of this section and consistent with standards the Comptroller General prescribes, the head of each executive agency shall establish internal accounting and administrative controls that reasonably ensure that—
+
+(A) obligations and costs comply with applicable law;
+
+(B) all assets are safeguarded against waste, loss, unauthorized use, and misappropriation; and
+
+(C) revenues and expenditures applicable to agency operations are recorded and accounted for properly so that accounts and reliable financial and statistical reports may be prepared and accountability of the assets may be maintained.
+
+(2) Standards the Comptroller General prescribes under this subsection shall include standards to ensure the prompt resolution of all audit findings.
+
+(d)(1) In consultation with the Comptroller General, the Director of the Office of Management and Budget—
+
+(A) shall establish by December 31, 1982, guidelines that the head of each executive agency shall follow in evaluating the internal accounting and administrative control systems of the agency to decide whether the systems comply with subsection (c) of this section; and
+
+(B) may change a guideline when considered necessary.
+
+(2) By December 31 of each year (beginning in 1983), the head of each executive agency, based on an evaluation conducted according to guidelines prescribed under paragraph (1) of this subsection, shall prepare a statement on whether the systems of the agency comply with subsection (c) of this section, including—
+
+(A) if the head of an executive agency decides the systems do not comply with subsection (c) of this section, a report identifying any material weakness in the systems and describing the plans and schedule for correcting the weakness; and
+
+(B) a separate report on whether the accounting system of the agency conforms to the principles, standards, and requirements the Comptroller General prescribes under section 3511(a) of this title.
+
+(3) The head of each executive agency shall sign the statement and reports required by this subsection and submit them to the President and Congress.
+The statement and reports are available to the public, except that information shall be deleted from a statement or report before it is made available if the information specifically is—
+
+(A) prohibited from disclosure by law; or
+
+(B) required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
+
+(e) To assist in preparing a cost-based budget under section 1108(b) of this title and consistent with principles and standards the Comptroller General prescribes, the head of each executive agency shall maintain the accounts of the agency on an accrual basis to show the resources, liabilities, and costs of operations of the agency.
+An accounting system under this subsection shall include monetary property accounting records.
+
+(f) The Comptroller General shall—
+
+(1) cooperate with the head of each executive agency in developing an accounting system for the agency; and
+
+(2) approve the system when the Comptroller General considers it to be adequate and in conformity with the principles, standards, and requirements prescribed under section 3511 of this title.
+
+(g) The Comptroller General shall review the accounting systems of each executive agency.
+The results of a review shall be available to the head of the executive agency, the Secretary, and the President.
+The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, §1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, §301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, §4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) [title VIII, §805(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 113–101, §4, May 9, 2014, 128 Stat. 1153.)
+
+Historical and Revision Notes
+1982 Act	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
+	3512(a)	31:66a(a).	Sept. 12, 1950, ch. 946, §§112(c), 113(a), 64 Stat. 835; Reorg.
+Plan No. 2 of 1970, eff.
+July 1, 1970, §102(a), 84 Stat. 2085.
+	3512(b)	31:66a(c).	Sept. 12, 1950, ch. 946, 64 Stat. 832, §113(c); added Aug. 1, 1956, ch. 814, §2(b), 70 Stat. 782.
+	3512(c)	31:66(b)(less Treasury Department).	Sept. 12, 1950, ch. 946, §§112(b)(less Treasury Department), 113(b), 64 Stat. 835, 836.
+	 	31:66a(b).	
+	3512(d)	31:66(c).	
+
+In subsection (a)(3), the words "funds, property, and other" are omitted as surplus.
+
+In subsection (a)(4)(C), the word "President" is substituted for "Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff.
+July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+
+In subsection (a)(5), the words "the accounting of the Treasury Department in connection with" are omitted as surplus.
+
+In subsection (b), the words "As soon as practicable after August 1, 1956" are omitted as executed.
+The words "with a view", "adequate", and "as an integral part of the system" are omitted as surplus.
+
+In subsections (c) and (d), the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
+The word "considers" is substituted for "deemed" as being more precise.
+
+In subsection (c), the text of 31:66a(b) is omitted as unnecessary.
+In clause (1), the words "the head of" are added for consistency with the revised title and other titles of the United States Code.
+In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
+
+In subsection (d), the word "concerned" is omitted as surplus.
+The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+
+1983 Act	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
+	3512(b)	31 App.:66a(d)(1).	Sept. 12, 1950, ch. 946, 64 Stat. 832, §113(d); added Sept. 8, 1982, Pub. L. 97–255, §2, 96 Stat. 814.
+	3512(c)(1)	31 App.:66a(d)(2).	
+	3512(c)(2) (A)	31 App.:66a(d)(3), (4).	
+	3512(c)(2) (B)	31 App.:66a(b)(last sentence).	Sept. 12, 1950, ch. 946, 64 Stat. 832, §113(b)(last sentence); added Sept. 8, 1982, Pub. L. 97–255, §4, 96 Stat. 815.
+	3512(c)(3)	31 App.:66a(d)(5).	
+
+In subsections (b)(1) and (c)(1)(A), the words "the requirements of" are omitted as surplus.
+
+In subsection (b)(1), before clause (A), the words "the head of" are added for consistency in the revised title and with other titles of the United States Code.
+The word "provide" is omitted as surplus.
+In clause (B), the word "all" is substituted for "funds, property, and other" to eliminate unnecessary words.
+
+In subsection (c)(1)(A), the words "the head of each executive agency shall follow" are substituted for "agencies" for clarity and consistency in the revised title and with other titles of the Code.
+
+In subsection (c)(2), before clause (A), the words "beginning in" are substituted for "succeeding" because of the restatement.
+The words "on whether the systems of the agency comply with subsection (b) of this section" are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words.
+In clause (B), the word "related" is omitted as surplus.
+
+In subsection (c)(3)(A), the words "provision of" are omitted as surplus.
+
+References in Text
+
+The Federal Managers' Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance.
+Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section.
+Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
+
+The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, §101(f) [title VIII], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section.
+Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
+
+The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), is the date of enactment of Pub. L. 101–576, which added subsec. (a) and was approved Nov. 15, 1990.
+
 Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
@@ -17818,6 +18132,86 @@ Construction of 2004 Amendment
 
 Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
 
+§3553. Review of protests; effect on contracts pending decision
+
+(a) Under procedures prescribed under section 3555 of this title, the Comptroller General shall decide a protest submitted to the Comptroller General by an interested party.
+
+(b)(1) Within one day after the receipt of a protest, the Comptroller General shall notify the Federal agency involved of the protest.
+
+(2) Except as provided in paragraph (3) of this subsection, a Federal agency receiving a notice of a protested procurement under paragraph (1) of this subsection shall submit to the Comptroller General a complete report (including all relevant documents) on the protested procurement—
+
+(A) within 30 days after the date of the agency's receipt of that notice;
+
+(B) if the Comptroller General, upon a showing by the Federal agency, determines (and states the reasons in writing) that the specific circumstances of the protest require a longer period, within the longer period determined by the Comptroller General; or
+
+(C) in a case determined by the Comptroller General to be suitable for the express option under section 3554(a)(2) of this title, within 20 days after the date of the Federal agency's receipt of that determination.
+
+(3) A Federal agency need not submit a report to the Comptroller General pursuant to paragraph (2) of this subsection if the agency is sooner notified by the Comptroller General that the protest concerned has been dismissed under section 3554(a)(4) of this title.
+
+(c)(1) Except as provided in paragraph (2) of this subsection, a contract may not be awarded in any procurement after the Federal agency has received notice of a protest with respect to such procurement from the Comptroller General and while the protest is pending.
+
+(2) The head of the procuring activity responsible for award of a contract may authorize the award of the contract (notwithstanding a protest of which the Federal agency has notice under this section)—
+
+(A) upon a written finding that urgent and compelling circumstances which significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General under this subchapter; and
+
+(B) after the Comptroller General is advised of that finding.
+
+(3) A finding may not be made under paragraph (2)(A) of this subsection unless the award of the contract is otherwise likely to occur within 30 days after the making of such finding.
+
+(d)(1) A contractor awarded a Federal agency contract may, during the period described in paragraph (4), begin performance of the contract and engage in any related activities that result in obligations being incurred by the United States under the contract unless the contracting officer responsible for the award of the contract withholds authorization to proceed with performance of the contract.
+
+(2) The contracting officer may withhold an authorization to proceed with performance of the contract during the period described in paragraph (4) if the contracting officer determines in writing that—
+
+(A) a protest is likely to be filed; and
+
+(B) the immediate performance of the contract is not in the best interests of the United States.
+
+(3)(A) If the Federal agency awarding the contract receives notice of a protest in accordance with this section during the period described in paragraph (4)—
+
+(i) the contracting officer may not authorize performance of the contract to begin while the protest is pending; or
+
+(ii) if authorization for contract performance to proceed was not withheld in accordance with paragraph (2) before receipt of the notice, the contracting officer shall immediately direct the contractor to cease performance under the contract and to suspend any related activities that may result in additional obligations being incurred by the United States under that contract.
+
+(B) Performance and related activities suspended pursuant to subparagraph (A)(ii) by reason of a protest may not be resumed while the protest is pending.
+
+(C) The head of the procuring activity may authorize the performance of the contract (notwithstanding a protest of which the Federal agency has notice under this section)—
+
+(i) upon a written finding that—
+
+(I) performance of the contract is in the best interests of the United States; or
+
+(II) urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General concerning the protest; and
+
+(ii) after the Comptroller General is notified of that finding.
+
+(4) The period referred to in paragraphs (2) and (3)(A), with respect to a contract, is the period beginning on the date of the contract award and ending on the later of—
+
+(A) the date that is 10 days after the date of the contract award; or
+
+(B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
+
+(e) The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
+
+(f)(1) Within such deadlines as the Comptroller General prescribes, upon request each Federal agency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.
+
+(2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party of information described in subparagraph (B) that is contained in such a document.
+
+(B) Information referred to in subparagraph (A) is procurement sensitive information, trade secrets, or other proprietary or confidential research, development, or commercial information.
+
+(C) A protective order under this paragraph shall not be considered to authorize the withholding of any document or information from Congress or an executive agency.
+
+(g) If an interested party files a protest in connection with a public-private competition described in section 3551(2)(B) of this title, a person representing a majority of the employees of the Federal agency who are engaged in the performance of the activity or function subject to the public-private competition may intervene in protest.
+
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(2), div. E, title LV, §5501(1), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 108–375, div. A, title III, §326(c), Oct. 28, 2004, 118 Stat. 1848.)
+
+Effective Date
+
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
+
+Construction of 2004 Amendment
+
+Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
+
 §3554. Decisions on protests
 
 (a)(1) To the maximum extent practicable, the Comptroller General shall provide for the inexpensive and expeditious resolution of protests under this subchapter.
@@ -18962,6 +19356,161 @@ Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section.
 The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Offsets From Social Security Payments
+
+Pub. L. 104–134, title III, §31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act [Apr. 26, 1996]."
+
+Ex. Ord.
+No. 13019. Supporting Families: Collecting Delinquent Child Support Obligations
+
+Ex. Ord.
+No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
+
+The Debt Collection Improvement Act of 1996, Public Law 104–134 [§31001] (110 Stat. 1321–358 et seq.) [see Short Title of 1996 Amendment note set out under section 3701 of this title], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
+
+The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children.
+Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State.
+With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
+
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Administrative Offsets. (a)(1) The Secretary of the Treasury ("the Secretary"), in accordance with the provisions of the Debt Collection Improvement Act of 1996 and to the extent permitted by law, and in consultation with the Secretary of Health and Human Services and other affected agencies, shall promptly develop and implement procedures necessary for the Secretary to collect past-due child support debts by administrative offset, and shall issue such rules, regulations, and procedures as the Secretary, in consultation with the heads of affected agencies, deems appropriate to govern administrative offsets by the Department of the Treasury and other executive departments and agencies that disburse Federal payments.
+
+(2) The Secretary may enter into reciprocal agreements with States concerning the collection by the Secretary of delinquent child support debts through administrative offsets.
+
+(b) The Secretary of Health and Human Services shall, within 120 days of the date of this order, implement procedures necessary to report to the Secretary of the Treasury information on past-due child support claims referred by States (including claims enforced by States pursuant to cooperative agreements with or by Indian tribal governments) to the Department of Health and Human Services.
+
+(c) The head of each executive department and agency that certifies payments to the Secretary or to another disbursing official shall review each class of payments that the department or agency certifies to determine if any such class should be exempt from offset and, if any class is so identified, submit to the Secretary a request for such an exemption together with the reasons therefor.
+With respect to classes of payments under means-tested programs existing on the date of this order, such submission shall be made within 30 days of the date of this order.
+With respect to classes of payments other than payments under means-tested programs existing on the date of this order, such submissions shall be made within 30 days of the date the Secretary establishes standards pursuant to section 3716(c)(3) of title 31, United States Code.
+With respect to a class of payments established after the date of this order, such submissions shall be made not later than 30 days after such class is established.
+
+(d) The head of each executive department and agency that certifies payments to the Secretary shall promptly implement any rule, regulation, or procedure issued by the Secretary pursuant to this section.
+
+(e) The head of each executive department and agency that is authorized by law to disburse payments shall promptly implement any rule, regulation, or procedure issued by the Secretary pursuant to this section and shall:
+
+(1) match, consistent with computer privacy matching laws, the payment certification records of such department or agency with records of persons delinquent in child support payments as directed by the Secretary; and
+
+(2) conduct administrative offsets to collect delinquent child support payments.
+
+(f) The Secretary shall, to the extent permitted by law, share with the Secretary of Health and Human Services any information contained in payment certification records of persons who are delinquent in child support obligations that would assist in the collection of such debts, whether or not an administrative offset is conducted.
+
+Sec. 2. Denial of Federal Assistance. (a) The Secretary shall, to the extent permitted by law, ensure that information concerning individuals whose payments are subject to administrative offset because of delinquent child support obligations is made available to the head of each executive department and agency that provides Federal financial assistance to individuals.
+
+(b) In conformance with section 2(e) of this order, the head of each executive department and agency shall, with respect to any individuals whose payments are subject to administrative offset because of a delinquent child support obligation, promptly implement procedures to deny Federal financial assistance to such individuals.
+
+(c) The Attorney General, in consultation with the Secretary of Health and Human Services and other affected agencies, shall promptly issue guidelines for departments and agencies concerning minimum due-process standards to be included in the procedures required by subsection (b) of this section.
+
+(d) For purposes of this section, Federal financial assistance means any Federal loan (other than a disaster loan), loan guarantee, or loan insurance.
+
+(e)(1) A class of Federal financial assistance shall not be subject to denial if the head of the concerned department or agency determines:
+
+(A) in consultation with the Attorney General and the Secretary of Health and Human Services, that such action:
+
+(i) is not permitted by law; or
+
+(ii) would likely result in valid legal claims for damages against the United States;
+
+(B) that such action would be inconsistent with the best interests of the child or children with respect to whom a child support obligation is owed; or
+
+(C) that such action should be waived.
+
+(2) The head of each executive department and agency shall provide written notification to the Secretary upon determining that the denial of a class of Federal financial assistance is not permitted by law or should be waived.
+
+(f) The head of each executive department and agency shall:
+
+(1) review all laws under the jurisdiction of the department or agency that do not permit the denial of Federal financial assistance to individuals and whose payments are subject to administrative offset because of a delinquent child support obligation and, where appropriate, transmit to the Director of the Office of Management and Budget recommendations for statutory changes; and
+
+(2) to the extent practicable, review all rules, regulations, and procedures implementing laws under the jurisdiction of the department or agency governing the provision of any Federal financial assistance to individuals and, where appropriate, conform such rules, regulations, and procedures to the provisions of this order and the rules, regulations, and procedures issued by the Secretary pursuant to section 1 of this order.
+
+Sec. 3. Reports. (a) The head of each executive department and agency shall provide to the Secretary such information as the Secretary may request concerning the implementation of this order, the provisions of the Debt Collection Improvement Act of 1996 applicable to delinquent child support obligations, and the rules, regulations, and procedures issued by the Secretary pursuant to section 1 of this order.
+
+(b) The Secretary shall report annually to the President concerning the implementation by departments and agencies of this order and the provisions of the Debt Collection Improvement Act of 1996 applicable to delinquent child support obligations.
+
+Sec. 4. Judicial Review.
+This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.      
+
+§3717. Interest and penalty on claims
+
+(a)(1) The head of an executive, judicial, or legislative agency shall charge a minimum annual rate of interest on an outstanding debt on a United States Government claim owed by a person that is equal to the average investment rate for the Treasury tax and loan accounts for the 12-month period ending on September 30 of each year, rounded to the nearest whole percentage point.
+The Secretary of the Treasury shall publish the rate before November 1 of that year.
+The rate is effective on the first day of the next calendar quarter.
+
+(2) The Secretary may change the rate of interest for a calendar quarter if the average investment rate for the 12-month period ending at the close of the prior calendar quarter, rounded to the nearest whole percentage point, is more or less than the existing published rate by 2 percentage points.
+
+(b) Interest under subsection (a) of this section accrues from the date—
+
+(1) on which notice is mailed after October 25, 1982, if notice was first mailed before October 25, 1982; or
+
+(2) notice of the amount due is first mailed to the debtor at the most current address of the debtor available to the head of the executive or 1 legislative agency, if notice is first mailed after October 24, 1982.
+
+(c) The rate of interest charged under subsection (a) of this section—
+
+(1) is the rate in effect on the date from which interest begins to accrue under subsection (b) of this section; and
+
+(2) remains fixed at that rate for the duration of the indebtedness.
+
+(d) Interest under subsection (a) of this section may not be charged if the amount due on the claim is paid within 30 days after the date from which interest accrues under subsection (b) of this section.
+The head of an executive, judicial, or legislative agency may extend the 30-day period.
+
+(e) The head of an executive, judicial, or legislative agency shall assess on a claim owed by a person—
+
+(1) a charge to cover the cost of processing and handling a delinquent claim; and
+
+(2) a penalty charge of not more than 6 percent a year for failure to pay a part of a debt more than 90 days past due.
+
+(f) Interest under subsection (a) of this section does not accrue on a charge assessed under subsection (e) of this section.
+
+(g) This section does not apply—
+
+(1) if a statute, regulation required by statute, loan agreement, or contract prohibits charging interest or assessing charges or explicitly fixes the interest or charges; and
+
+(2) to a claim under a contract executed before October 25, 1982, that is in effect on October 25, 1982.
+
+(h) In conformity with standards prescribed jointly by the Attorney General, the Secretary of the Treasury, and the Comptroller General, the head of an executive, judicial, or legislative agency may prescribe regulations identifying circumstances appropriate to waiving collection of interest and charges under subsections (a) and (e) of this section.
+A waiver under the regulations is deemed to be compliance with this section.
+
+(i)(1) The head of an executive, judicial, or legislative agency may increase an administrative claim by the cost of living adjustment in lieu of charging interest and penalties under this section.
+Adjustments under this subsection will be computed annually.
+
+(2) For the purpose of this subsection—
+
+(A) the term "cost of living adjustment" means the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the claim was determined or last adjusted; and
+
+(B) the term "administrative claim" includes all debt that is not based on an extension of Government credit through direct loans, loan guarantees, or insurance, including fines, penalties, and overpayments.
+
+(Added Pub L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2472; amended Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (q), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–372.)
+
+Historical and Revision Notes	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
+	3717(a)	31 App.:952(e)(1) (1st–3d sentences).	July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(e)(1) (1st–3d sentences), (2)–(7); added Oct. 25, 1982, Pub. L. 97–365, §11, 96 Stat. 1755.
+	3717(b), (c)	31 App.:952(e)(5).	
+	3717(d)	31 App.:952(e)(6).	
+	3717(e)	31 App.:952(e)(2).	
+	3717(f)	31 App.:952(e)(7).	
+	3717(g)(1)	31 App.:952(e)(3) (1st sentence).	
+	3717(g)(2)	31 App.:952(e)(4).	
+	3717(h)	31 App.:952(e)(3) (2d, last sentences).	
+
+In subsection (a), the words "percentage point" and "percentage points" are substituted for "per centum" for clarity.
+
+In subsections (a)(1) and (e), the words "Except as provided in paragraph (3)" are omitted as surplus.
+
+In subsection (a)(2), the words "for a calendar quarter" are substituted for "quarterly", and the words "prior calendar quarter" are substituted for "that calendar quarter", for clarity.
+
+In subsection (b), before clause (1), the words "Subject to paragraph (6)" and "except as provided in subparagraph (B)" are omitted as surplus.
+In clause (2), the words "on the claim" are omitted as surplus.
+The words "if notice is first mailed after October 24, 1982" are added for clarity.
+
+In subsection (c), the words "on a claim" are omitted as surplus.
+
+In subsection (g)(1), the words "applicable" and "either" are omitted as surplus.
+The word "assessing" is added for clarity.
+The words "that apply to claims involved" are omitted as surplus.
+
+In subsection (h), the words "under this section" are added for clarity.
 
 1 So in original.
 Probably should be ", judicial, or".
@@ -22081,6 +22630,8 @@ Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 114–5, Mar. 7, 2015, 129 Stat. 78, recognizing Foot Soldiers who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March in March, 1965.
+
 Pub. L. 113–210, Dec. 16, 2014, 128 Stat. 2077, recognizing Jack Nicklaus.
 
 Pub. L. 113–120, June 10, 2014, 128 Stat. 1187, recognizing the 65th Infantry Regiment of the United States Army, known as the "Borinqueneers".
@@ -22621,33 +23172,21 @@ The Secretary may procure services under section 3109 of title 5 in carrying out
 
 (ii) bear such other inscriptions as the Secretary determines to be appropriate.
 
-(3) Subsequent designs.—After the 1-year period described to in paragraph (2), the Secretary may—
-
-(A) after consulting with the Commission of Fine Arts, and subject to the review of the Citizens Coinage Advisory Committee, change the design on the obverse or reverse of gold bullion coins struck under this subsection; and
-
-(B) change the maximum number of coins issued in any year.
-
-(4) Source of gold bullion.—
+(3) Source of gold bullion.—
 
 (A) In general.—The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
 
 (B) Price of gold.—The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
 
-(5) Sale of coins.—Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
+(4) Sale of coins.—Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
 
 (A) the market value of the bullion at the time of sale; and
 
 (B) the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping.
 
-(6) Legal tender.—The coins minted under this title shall be legal tender, as provided in section 5103.
+(5) Legal tender.—The coins minted under this title shall be legal tender, as provided in section 5103.
 
-(7) Treatment as numismatic items.—For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
-
-(8) Protective covering.—
-
-(A) In general.—Each bullion coin having a metallic content as described in subsection (a)(11) and a design specified in paragraph (2) shall be sold in an inexpensive covering that will protect the coin from damage due to ordinary handling or storage.
-
-(B) Design.—The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
+(6) Treatment as numismatic items.—For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
 (r) Redesign and Issuance of Circulating $1 Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—
 
@@ -22833,7 +23372,7 @@ The Secretary may procure services under section 3109 of title 5 in carrying out
 
 (A) Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
-(B) Silver coins.—Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
+(B) Silver coins.—Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of not less than 90 percent silver.
 
 (7) Period of issuance.—
 
@@ -22885,11 +23424,11 @@ The Secretary may procure services under section 3109 of title 5 in carrying out
 
 (v) Palladium Bullion Investment Coins.—
 
-(1) In general.—Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
+(1) In general.—The Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
 
 (2) Source of bullion.—
 
-(A) In general.—The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
+(A) In general.—To the greatest extent possible, the Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
 If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
 
 (B) Price of bullion.—The Secretary shall pay not more than the average world price for the palladium under subparagraph (A).
@@ -22902,7 +23441,7 @@ If no such palladium is available or if it is not economically feasible to obtai
 
 (4) Treatment.—For purposes of section 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
-(5) Quality.—The Secretary may issue the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year's proof or uncirculated version differs in some material way from that of the preceding year.
+(5) Quality.—The Secretary may issue collectible versions of the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year's proof or uncirculated version differs in some material way from that of the preceding year.
 
 (6) Design.—Coins minted and issued under this subsection shall bear designs on the obverse and reverse that are close likenesses of the work of famed American coin designer and medallic artist Adolph Alexander Weinman—
 
@@ -22915,9 +23454,7 @@ If no such palladium is available or if it is not economically feasible to obtai
 (7) Mint facility.—Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin.
 If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
 
-(8) Marketing study defined.—The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.
-
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) [title V, §§523, 524, 529(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) [title V, §§523, 524, 529(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, §73001(1), Dec. 4, 2015, 129 Stat. 1785.)
 
 Historical and Revision Notes
 1982 Act	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
@@ -23299,6 +23836,8 @@ Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 114–30, July 6, 2015, 129 Stat. 424.—Boys Town Centennial.
+
 Pub. L. 113–291, div. B, title XXX, §3055, Dec. 19, 2014, 128 Stat. 3808.—National Park Service 100th anniversary.
 
 Pub. L. 113–212, Dec. 16, 2014, 128 Stat. 2082.—World War I American Veterans Centennial.
@@ -23425,7 +23964,7 @@ The possession of gold coins and bullion was prohibited except under Government 
 No. 6260, eff.
 Aug. 28, 1933. That prohibition was revoked by Ex. Ord.
 No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff.
-Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
+Dec. 31, 1974.
 
 1 So in original.
 Probably should be "sections".
@@ -23863,7 +24402,7 @@ The possession of gold coins and bullion was prohibited except under Government 
 No. 6260, eff.
 Aug. 28, 1933. That prohibition was revoked by Ex. Ord.
 No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff.
-Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
+Dec. 31, 1974.
 
 §5122. Payment to depositors
 
@@ -23987,7 +24526,7 @@ Except with respect to amounts deposited in the Numismatic Public Enterprise Fun
 
 (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
-(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
+(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of not less than 90 percent silver; and
 
 (ii) all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
 
@@ -24008,7 +24547,7 @@ Not more than $965,000 of amounts appropriated pursuant to the preceding sentenc
 
 (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 114–94, div. G, title LXXIII, §73001(2), Dec. 4, 2015, 129 Stat. 1786.)
 
 Historical and Revision Notes
 1982 Act	Revised Section	Source (U.S. Code)	Source (Statutes at Large)
@@ -25912,7 +26451,7 @@ The initial report shall include historical data on compliance with such reporti
 
 (2) it is important to have the most feasible current and complete information on the kind and source of capital flows, including transactions by large United States businesses and their foreign affiliates; and
 
-(3) additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) and section 8 of the Bretton Woods Agreement Act (22 U.S.C. 286f).
+(3) additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) 1 and section 8 of the Bretton Woods Agreement Act (22 U.S.C. 286f).
 
 (b) In this section, "United States person" and "foreign person controlled by a United States person" have the same meanings given those terms in section 7(f)(2)(A) and (C), respectively, of the Securities and Exchange Act of 1934 (15 U.S.C. 78g(f)(2)(A), (C)).
 
@@ -25936,7 +26475,9 @@ The words "such terms are" and "the policy of" are omitted as surplus.
 
 References in Text
 
-Section 5(b) of the Trading With the Enemy Act, referred to in subsec. (a)(3), is also classified to section 95a of Title 12, Banks and Banking.
+Section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)), referred to in subsec. (a)(3), is section 5(b) of act Oct. 6, 1917, ch. 106, 40 Stat. 415, which was editorially transferred and is now classified to section 4305(b) of Title 50, War and National Defense.
+
+1 See References in Text note below.
 
 §5316. Reports on exporting and importing monetary instruments
 
@@ -27122,7 +27663,7 @@ SUBCHAPTER III—MONEY LAUNDERING AND RELATED FINANCIAL CRIMES
 
 For purposes of this subchapter, the following definitions shall apply:
 
-(1) Department of the treasury law enforcement organizations.—The term "Department of the Treasury law enforcement organizations" has the meaning given to such term in section 9703(p)(1).
+(1) Department of the treasury law enforcement organizations.—The term "Department of the Treasury law enforcement organizations" has the meaning given to such term in section 9705(o).
 
 (2) Money laundering and related financial crime.—The term "money laundering and related financial crime"—
 
@@ -27134,7 +27675,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 (4) Attorney general.—The term "Attorney General" means the Attorney General of the United States.
 
-(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2941.)
+(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2941; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(II), May 29, 2015, 129 Stat. 237.)
 
 Part 1—National Money Laundering and Related Financial Crimes Strategy
 
@@ -30037,7 +30578,7 @@ Subject to subsection (c), the assistance provided shall be used, in amounts det
 
 (3) The Gang Resistance Education and Training Program under the Act entitled "An Act making appropriations for the Treasury Department, the United States Postal Service, the Executive Office of the President, and certain Independent Agencies, for the fiscal year ending September 30, 1991, and for other purposes", approved November 5, 1990 (Public Law 101–509).
 
-(4) Programs under title I of the Workforce Investment Act of 1998.
+(4) Programs under title I of the Workforce Innovation and Opportunity Act.
 
 (5) Programs under subtitle C of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.), as amended.
 
@@ -30119,22 +30660,16 @@ The notice shall state that if the government does not take corrective action by
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–277, div. A, §101(f) [title VIII, §405(c)(3), (d)(27), (f)(19)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 109–270, §2(i), Aug. 12, 2006, 120 Stat. 748; Pub. L. 113–128, title V, §512(ff), July 22, 2014, 128 Stat. 1719.)
 
-Amendment of Subsection (a)(4)
-
-Pub. L. 113–128, title V, §§506, 512(ff), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(4) of this section is amended by striking "Programs under title I of the Workforce Investment Act of 1998." and inserting "Programs under title I of the Workforce Innovation and Opportunity Act." See 2014 Amendment note below.
-
 References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended.
-Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See part A (§6311 et seq.) and subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and is classified to section 7213a of Title 20.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See part A (§6311 et seq.) and subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and was classified to section 7213a of Title 20, prior to repeal by Pub. L. 114–95, title IV, §4001(b)(1)(A), Dec. 10, 2015, 129 Stat. 1967.
 
 Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified to section 9910c of Title 42, The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. A new section 682 of the Act, containing similar subject matter, is classified to section 9923 of Title 42.
 
 Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1389. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended.
-Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor.
-For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor.
+For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended.
 Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare.
@@ -32834,6 +33369,10 @@ Priority of sureties.
 
         
 
+Amendment of Analysis
+
+Pub. L. 114–92, div. A, title VIII, §874(a)(2), (c), Nov. 25, 2015, 129 Stat. 940, 941, provided that, effective 1 year after Nov. 25, 2015, this analysis is amended by adding item 9310 "Individual sureties". See 2015 Amendment note below.
+
 1 Section catchline amended by Pub. L. 109–351 without corresponding amendment of chapter analysis.
 
 §9301. Definitions
@@ -33173,6 +33712,20 @@ In clause (2), the words "and maintain" are omitted as surplus.
 The words "civil action" are substituted for "suit" for consistency.
 The words "in law or equity" are omitted as surplus.
 
+§9310. Individual sureties
+
+If another applicable Federal law or regulation permits the acceptance of a bond from a surety that is not subject to sections 9305 and 9306 and is based on a pledge of assets by the surety, the assets pledged by such surety shall—
+
+(1) consist of eligible obligations described under section 9303(a); and
+
+(2) be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
+
+(Added Pub. L. 114–92, div. A, title VIII, §874(a)(1), Nov. 25, 2015, 129 Stat. 940.)
+
+Effective Date
+
+Section effective 1 year after Nov. 25, 2015, see section 874(c) of Pub. L. 114–92, set out as an Effective Date of 2015 Amendment note under section 694b of Title 15, Commerce and Trade.
+
 CHAPTER 95—GOVERNMENT PENSION PLAN PROTECTION
 
 Sec.
@@ -33335,21 +33888,16 @@ Fees and charges for Government services and things of value.
 9702.
 Investment of trust funds.
 
-9703.1
+9703.
 Managerial accountability and flexibility.
-
-        
 
 9704.
 Pilot projects for managerial accountability and flexibility.
 
-9703.1
+9705.
 Department of the Treasury Forfeiture Fund.
 
         
-
-1 So in original.
-Two sections 9703 have been enacted.
 
 §9701. Fees and charges for Government services and things of value
 
@@ -33413,10 +33961,10 @@ Historical and Revision Notes	Revised Section	Source (U.S. Code)	Source (Statute
 
 The section is substituted for 31:547a for clarity and consistency in the revised title.
 
-§9703.1 Managerial accountability and flexibility
+§9703. Managerial accountability and flexibility
 
 (a) Beginning with fiscal year 1999, the performance plans required under section 1115 may include proposals to waive administrative procedural requirements and controls, including specification of personnel staffing levels, limitations on compensation or remuneration, and prohibitions or restrictions on funding transfers among budget object classification 20 and subclassifications 11, 12, 31, and 32 of each annual budget submitted under section 1105, in return for specific individual or organization accountability to achieve a performance goal.
-In preparing and submitting the performance plan under section 1105(a)(29),2 the Director of the Office of Management and Budget shall review and may approve any proposed waivers.
+In preparing and submitting the performance plan under section 1105(a)(29),1 the Director of the Office of Management and Budget shall review and may approve any proposed waivers.
 A waiver shall take effect at the beginning of the fiscal year for which the waiver is approved.
 
 (b) Any such proposal under subsection (a) shall describe the anticipated effects on performance resulting from greater managerial or organizational flexibility, discretion, and authority, and shall quantify the expected improvements in performance resulting from any waiver.
@@ -33430,7 +33978,7 @@ The expected improvements shall be compared to current actual performance, and t
 A waiver may be renewed for a subsequent year.
 After a waiver has been in effect for three consecutive years, the performance plan prepared under section 1115 may propose that a waiver, other than a waiver of limitations on compensation or remuneration, be made permanent.
 
-(f) For purposes of this section, the definitions under section 1115(f) 2 shall apply.
+(f) For purposes of this section, the definitions under section 1115(f) 1 shall apply.
 
 (Added Pub. L. 103–62, §5(a), Aug. 3, 1993, 107 Stat. 289.)
 
@@ -33440,19 +33988,21 @@ Section 1105(a)(29), referred to in subsec. (a), was redesignated section 1105(a
 
 Section 1115(f), referred to in subsec. (f), was redesignated section 1115(g) of this title by Pub. L. 107–296, title XIII, §1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
 
+Codification
+
+Another section 9703 was renumbered section 9705 of this title.
+
 Construction
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
 
-1 Another section 9703 is set out after section 9704 of this title.
-
-2 See References in Text note below.
+1 See References in Text note below.
 
 §9704. Pilot projects for managerial accountability and flexibility
 
 (a) The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
 
-(b) Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 1 for one or more of the major functions and operations of the agency.
+(b) Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 for one or more of the major functions and operations of the agency.
 
 (c) The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
 
@@ -33466,8 +34016,6 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 References in Text
 
-Section 9703, referred to in subsec. (b), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289, which is set out preceding this section.
-
 Section 1115(f), referred to in subsec. (d), was redesignated section 1115(g) of this title by Pub. L. 107–296, title XIII, §1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
 
 Construction
@@ -33476,7 +34024,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 1 See References in Text note below.
 
-§9703.1 Department of the Treasury Forfeiture Fund
+§9705. Department of the Treasury Forfeiture Fund
 
 (a) In General.—There is established in the Treasury of the United States a fund to be known as the "Department of the Treasury Forfeiture Fund" (referred to in this section as the "Fund"). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard for the following law enforcement purposes:
 
@@ -33507,9 +34055,9 @@ To determine the validity of any such lien or mortgage, the amount of payment to
 
 (H) Payment for services of experts and consultants needed by a Department of the Treasury law enforcement organization to carry out the organization's duties relating to seizure and forfeiture.
 
-(I) payment 2 of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization; 3
+(I) Payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization.
 
-(J) payment 2 made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
+(J) Payment made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
 
 (i) the purchase or lease of automatic data processing systems (not less than a majority of which use will be related to such program);
 
@@ -33541,13 +34089,15 @@ To determine the validity of any such lien or mortgage, the amount of payment to
 
 (iii) the United States Secret Service with respect to a violation of—
 
-(I) section 1028, 1029, or 1030 or 4 title 18;
+(I) section 1028, 1029, or 1030 of title 18;
 
 (II) any law of the United States relating to coins, obligations, or securities of the United States or of a foreign government; or
 
-(III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation; and
+(III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
 
-(iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act).
+(iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
+
+(v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking);
 
 (C) payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 (19 U.S.C. 1619);
 
@@ -33557,9 +34107,9 @@ To determine the validity of any such lien or mortgage, the amount of payment to
 
 (F) payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
 
-(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; 5
+(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
 
-(H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury; and 6
+(H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury.
 
 (b) Limitations.—
 
@@ -33659,19 +34209,19 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
 (B) $50,000,000 for each fiscal year after fiscal year 1993.
 
-(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.7
+(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.1
 
 (B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year.
 In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
 (C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section.
 Such amount shall be available for any expenses or activities authorized under this section.
-At the end of fiscal year 8 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year.
-At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) 9 shall also be carried forward.
+At the end of fiscal year 2 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year.
+At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) 3 shall also be carried forward.
 
 (4)(A) After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993, shall be deposited into the general fund of the Treasury of the United States.
 
-(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 7 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
+(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 1 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
 (C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
@@ -33687,13 +34237,13 @@ At the end of fiscal year 1997, and at the end of each fiscal year thereafter, t
 
 (ii) any State or local law enforcement agency that participated directly or indirectly in the seizure or forfeiture of the property.
 
-(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of 10 forfeiture of the property, if such a transfer—
+(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of 4 forfeiture of the property, if such a transfer—
 
 (A) is one with which the Secretary of State has agreed;
 
 (B) is authorized in an international agreement between the United States and the foreign country; and
 
-(C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(h)).7
+(C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(h)).1
 
 (3) Nothing in this section shall affect the authority of the Secretary under section 981 of title 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
 
@@ -33713,7 +34263,7 @@ At the end of fiscal year 1997, and at the end of each fiscal year thereafter, t
 
 (l) Authority To Warrant Title.—Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary's discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
 
-(m) Forfeited Property.—For purposes of this section and notwithstanding section 524(c)(11) 7 of title 28 or any other law—
+(m) Forfeited Property.—For purposes of this section and notwithstanding section 524(c)(11) 1 of title 28 or any other law—
 
 (1) during fiscal year 1993, property and currency shall be deemed to be forfeited pursuant to a law enforced or administered by the United States Customs Service if it is forfeited pursuant to—
 
@@ -33740,7 +34290,7 @@ For purposes of the preceding sentence, a "participating Federal agency" is an a
 
 (2) Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) [title I, §116], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, §5(h)(10), Jan. 4, 2011, 124 Stat. 3849.)
+(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779, §9703; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) [title I, §116], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, §5(h)(10), Jan. 4, 2011, 124 Stat. 3849; renumbered §9705 and amended Pub. L. 114–22, title I, §105(c)(1), May 29, 2015, 129 Stat. 237.)
 
 References in Text
 
@@ -33780,37 +34330,14 @@ Unavailable Collections
 
 Pub. L. 105–61, title I, §122(a), Oct. 10, 1997, 111 Stat. 1289, provided that: "The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 [6073] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B)."
 
-1 Another section 9703 is set out preceding section 9704 of this title.
+1 See References in Text note below.
 
 2 So in original.
-Probably should be capitalized.
-
-3 So in original.
-The semicolon probably should be a period.
-
-4 So in original.
-Probably should be "of".
-
-5 So in original.
-Probably should be followed by "and".
-
-6 So in original.
-The "; and" probably should be a period.
-
-7 See References in Text note below.
-
-8 So in original.
 Probably should be "years".
 
-9 So in original.
-Probably should be "paragraph (4)(B)".
+3 So in original.
+Probably should be "paragraph (4)(B) of section 9703(g)".
 
-10 So in original.
+4 So in original.
 Probably should be "or".
-
-[§9704.]
-
-Codification
-
-Section 9704 is set out after the first section 9703.
 
