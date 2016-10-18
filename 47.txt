@@ -1411,6 +1411,9 @@ Relay services for deaf-blind individuals.
 621.
 Rulemaking on loud commercials required.
 
+622.
+Optional electronic labeling of communications equipment.
+
         
 
 SUBCHAPTER I—GENERAL PROVISIONS
@@ -1428,7 +1431,7 @@ For complete classification of this Act to the Code, see section 609 of this tit
 
 Moratorium on Internet Taxes
 
-Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026, provided that:
+Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026; Pub. L. 113–235, div. E, title VI, §624, Dec. 16, 2014, 128 Stat. 2377, provided that:
 
 "SEC. 1100. SHORT TITLE.
 
@@ -1436,7 +1439,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 
 "SEC. 1101. MORATORIUM.
 
-"(a) Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2014:
+"(a) Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending October 1, 2015:
 
 "(1) Taxes on Internet access.
 
@@ -1615,7 +1618,7 @@ No finding or recommendation shall be included in the report unless agreed to by
 
 "(2) Termination.—
 
-"(A) In general.—Except as provided in subparagraph (B), this subsection shall not apply after November 1, 2014.
+"(A) In general.—Except as provided in subparagraph (B), this subsection shall not apply after October 1, 2015.
 
 "(B) State telecommunications service tax.—
 
@@ -2253,6 +2256,12 @@ The United States was a party to the International Convention for the Safety of 
 
 Definitions
 
+Pub. L. 113–200, title I, §112, Dec. 4, 2014, 128 Stat. 2066, provided that: "In this title [amending sections 325, 338, 534, and 543 of this title and enacting provisions set out as notes under sections 325, 338, and 534 of this title]:
+
+"(1) Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on the Judiciary of the Senate.
+
+"(2) Commission.—The term 'Commission' means the Federal Communications Commission."
+
 Pub. L. 111–260, title II, §206, Oct. 8, 2010, 124 Stat. 2776, provided that: "In this title [amending sections 303, 330, and 613 of this title and enacting provisions set out as notes under sections 303 and 613 of this title]:
 
 "(1) Advisory committee.—The term 'Advisory Committee' means the advisory committee established in section 201 [47 U.S.C. 613 note].
@@ -2612,23 +2621,6 @@ Level V of the Executive Schedule, referred to in subsec. (e), is set out in sec
 Codification
 
 In subsec. (c)(1), (8), "adjudication (as defined in section 551 of title 5)" substituted for "adjudication (as defined in the Administrative Procedure Act)", and in subsec. (c)(1) "section 556(b) of title 5" substituted for references to "section 7(a) of the Administrative Procedure Act", on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
-§156. Authorization of appropriations
-
-(a) There are authorized to be appropriated for the administration of this chapter by the Commission $109,831,000 for fiscal year 1990 and $119,831,000 for fiscal year 1991, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1990 and 1991.
-
-(b) In addition to the amounts authorized to be appropriated under this section, not more than 4 percent of the amount of any fees or other charges payable to the United States which are collected by the Commission during fiscal year 1990 are authorized to be made available to the Commission until expended to defray the fully distributed costs of such fees collection.
-
-(c) Of the amounts appropriated pursuant to subsection (a) of this section for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission's electronic emissions test laboratory located in Laurel, Maryland.
-
-(d) Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title, shall be derived from fees authorized by section 159 of this title.
-
-(June 19, 1934, ch. 652, title I, §6, as added Pub. L. 97–35, title XII, §1251(a), Aug. 13, 1981, 95 Stat. 738; amended Pub. L. 98–214, §2(a), Dec. 8, 1983, 97 Stat. 1467; Pub. L. 99–272, title V, §5002(a)(1), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–594, §2(a), Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–396, §2(a), Sept. 28, 1990, 104 Stat. 848; Pub. L. 103–66, title VI, §6003(b), Aug. 10, 1993, 107 Stat. 401.)
-
-References in Text
-
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter.
-For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Authorization of Appropriations
 
@@ -10947,7 +10939,7 @@ Certifications under this section shall be provided and certified as accurate by
 
 (F) Definitions
 
-For purposes of this paragraph, the terms "authorized committee" and "Federal office" have the meanings given such terms by section 431 of title 2.
+For purposes of this paragraph, the terms "authorized committee" and "Federal office" have the meanings given such terms by section 30101 of title 52.
 
 (c) Definitions
 
@@ -11170,7 +11162,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 (iii) the satellite carrier complies with any network nonduplication, syndicated exclusivity, and sports blackout rules adopted by the Commission under section 339(b) of this title;
 
-(C) until December 31, 2014, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
+(C) until December 31, 2019, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
 
 (i) is located in an area outside the local market of such stations; and
 
@@ -11196,9 +11188,13 @@ If there is more than one cable system which services the same geographic area, 
 
 (i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-(ii) until January 1, 2015, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
+(ii) until January 1, 2020, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations;
 
-(iii) until January 1, 2015, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
+(iii) until January 1, 2020, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
+
+(iv) prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market (as defined in section 122(j) of title 17) to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission; and
+
+(v) prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market (as defined in section 122(j) of title 17) of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of section 534 of this title shall not apply to the carriage of the signal of such station by such cable system.
 If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, section 338 of this title shall not apply to the carriage of the signal of such station by such satellite carrier.
@@ -11352,9 +11348,11 @@ If the Commission denies relief in response to a complaint filed by a television
 
 No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) [title I, §1009], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX [title II, §§201, 207(a)], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245.)
+(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) [title I, §1009], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX [title II, §§201, 207(a)], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245; Pub. L. 113–200, title I, §§101, 103(a), (b), (d), Dec. 4, 2014, 128 Stat. 2060, 2062.)
 
 Regulations
+
+Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act [Dec. 4, 2014], the [Federal Communications] Commission shall promulgate regulations to implement the amendments made by this section [amending this section]."
 
 Pub. L. 108–447, div. J, title IX [title II, §207(b)], Dec. 8, 2004, 118 Stat. 3428, provided that: "The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) [amending this section] within 180 days after the date of enactment of this Act [Dec. 8, 2004]."
 
@@ -11369,6 +11367,10 @@ Pub. L. 111–175, title II, §208, May 27, 2010, 124 Stat. 1254, provided that:
 Severability
 
 Pub. L. 106–113, div. B, §1000(a)(9) [title I, §1010], Nov. 29, 1999, 113 Stat. 1536, 1501A–543, provided that: "If any provision of section 325(b) of the Communications Act of 1934 (47 U.S.C. 325(b)), or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that section, and the application of that provision to other persons and circumstances, shall not be affected."
+
+Good Faith
+
+Pub. L. 113–200, title I, §103(c), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act [Dec. 4, 2014], the [Federal Communications] Commission shall commence a rulemaking to review its totality of the circumstances test for good faith negotiations under clauses (ii) and (iii) of section 325(b)(3)(C) of the Communications Act of 1934 (47 U.S.C. 325(b)(3)(C))."
 
 Digital Transition Savings Provision
 
@@ -12628,7 +12630,53 @@ The term "subscriber" has the meaning given that term under section 122(j) of ti
 
 The term "television broadcast station" has the meaning given such term in section 325(b)(7) of this title.
 
-(June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) [title I, §1008(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–531; amended Pub. L. 108–447, div. J, title IX [title II, §§203, 205, 206(a), 210], Dec. 8, 2004, 118 Stat. 3414, 3424, 3425, 3429; Pub. L. 111–175, title II, §§204(a), 207, May 27, 2010, 124 Stat. 1246, 1253.)
+(l) Market determinations
+
+(1) In general
+
+Following a written request, the Commission may, with respect to a particular commercial television broadcast station, include additional communities within its local market or exclude communities from such station's local market to better effectuate the purposes of this section.
+
+(2) Considerations
+
+In considering requests filed under paragraph (1), the Commission—
+
+(A) may determine that particular communities are part of more than one local market; and
+
+(B) shall afford particular attention to the value of localism by taking into account such factors as—
+
+(i) whether the station, or other stations located in the same area—
+
+(I) have been historically carried on the cable system or systems within such community; or
+
+(II) have been historically carried on the satellite carrier or carriers serving such community;
+
+(ii) whether the television station provides coverage or other local service to such community;
+
+(iii) whether modifying the local market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
+
+(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+
+(v) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
+
+(3) Carriage of signals
+
+(A) Carriage obligation
+
+A market determination under this subsection shall not create additional carriage obligations for a satellite carrier if it is not technically and economically feasible for such carrier to accomplish such carriage by means of its satellites in operation at the time of the determination.
+
+(B) Deletion of signals
+
+A satellite carrier shall not delete from carriage the signal of a commercial television broadcast station during the pendency of any proceeding under this subsection.
+
+(4) Determinations
+
+Not later than 120 days after the date that a written request is filed under paragraph (1), the Commission shall grant or deny the request.
+
+(5) No effect on eligibility to receive distant signals
+
+No modification of a commercial television broadcast station's local market pursuant to this subsection shall have any effect on the eligibility of households in the community affected by such modification to receive distant signals pursuant to section 339 of this title, notwithstanding subsection (h)(1) of this section.
+
+(June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) [title I, §1008(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–531; amended Pub. L. 108–447, div. J, title IX [title II, §§203, 205, 206(a), 210], Dec. 8, 2004, 118 Stat. 3414, 3424, 3425, 3429; Pub. L. 111–175, title II, §§204(a), 207, May 27, 2010, 124 Stat. 1246, 1253; Pub. L. 113–200, title I, §102(a), Dec. 4, 2014, 128 Stat. 2060.)
 
 References in Text
 
@@ -12640,6 +12688,52 @@ Section 119(a)(14) of title 17, referred to in subsec. (a)(3), was redesignated 
 The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(5) and (k)(2)(B), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
 
 For the effective date of this subsection, referred to in subsec. (i)(1), as 60 days after Dec. 8, 2004, see section 206(b) of Pub. L. 108–447, set out as an Effective Date of 2004 Amendment note below.
+
+Market Modification Process
+
+Pub. L. 113–200, title I, §102(c), Dec. 4, 2014, 128 Stat. 2061, provided that: "The [Federal Communications] Commission shall make information available to consumers on its website that explains the market modification process, including—
+
+"(1) who may petition to include additional communities within, or exclude communities from, a—
+
+"(A) local market (as defined in section 122(j) of title 17, United States Code); or
+
+"(B) television market (as determined under section 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 534(h)(1)(C))); and
+
+"(2) the factors that the Commission takes into account when responding to a petition described in paragraph (1)."
+
+Implementation
+
+Pub. L. 113–200, title I, §102(d), Dec. 4, 2014, 128 Stat. 2061, provided that:
+
+"(1) Deadline for regulations.—Not later than 9 months after the date of the enactment of this Act [Dec. 4, 2014], the [Federal Communications] Commission shall promulgate regulations to implement this section [amending this section and section 534 of this title and enacting provisions set out as notes under this section] and the amendments made by this section.
+
+"(2) Matters for consideration.—As part of the rulemaking required by paragraph (1), the Commission shall ensure that procedures for the filing and consideration of a written request under sections 338(l) and 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 338(l); 534(h)(1)(C)) fully effectuate the purposes of the amendments made by this section, and update what it considers to be a community for purposes of a modification of a market under section 338(l) or 614(h)(1)(C) of the Communications Act of 1934."
+
+Local Network Channel Broadcast Reports
+
+Pub. L. 113–200, title I, §108, Dec. 4, 2014, 128 Stat. 2064, provided that:
+
+"(a) Requirement.—
+
+"(1) In general.—On the 270th day after the date of the enactment of this Act [Dec. 4, 2014], and on each succeeding anniversary of such 270th day, each satellite carrier shall submit an annual report to the [Federal Communications] Commission setting forth—
+
+"(A) each local market in which it—
+
+"(i) retransmits signals of 1 or more television broadcast stations with a community of license in that market;
+
+"(ii) has commenced providing such signals in the preceding 1-year period; and
+
+"(iii) has ceased to provide such signals in the preceding 1-year period; and
+
+"(B) detailed information regarding the use and potential use of satellite capacity for the retransmission of local signals in each local market.
+
+"(2) Termination.—The requirement under paragraph (1) shall cease after each satellite carrier has submitted 5 reports under such paragraph.
+
+"(b) Definitions.—In this section—
+
+"(1) the terms 'local market' and 'satellite carrier' have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
+
+"(2) the term 'television broadcast station' has the meaning given such term in section 325(b)(7) of the Communications Act of 1934 (47 U.S.C. 325(b)(7))."
 
 Application Pending Completion of Rulemakings
 
@@ -15465,6 +15559,10 @@ The proceeds from any such sale shall be deposited in the general fund of the Tr
 
 (June 19, 1934, ch. 652, title V, §510, as added Pub. L. 97–259, title I, §125, Sept. 13, 1982, 96 Stat. 1098.)
 
+References in Text
+
+The supplemental rules for certain admiralty and maritime claims, referred to in subsec. (b), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
 Prior Provisions
 
 A prior section 510, act June 19, 1934, ch. 652, title V, §510, as added May 11, 1962, Pub. L. 87–448, §1, 76 Stat. 68, related to forfeitures for violations of rules and regulations by radio stations operating in common carrier, safety and special radio fields, prior to repeal effective the thirtieth day after Feb. 21, 1978, by Pub. L. 95–234, §§4, 7, Feb. 21, 1978, 92 Stat. 35.
@@ -15887,210 +15985,11 @@ For purposes of this section, the term "media of mass communications" shall have
 
 Effective Date
 
-Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
-
-§534. Carriage of local commercial television signals
-
-(a) Carriage obligations
-
-Each cable operator shall carry, on the cable system of that operator, the signals of local commercial television stations and qualified low power stations as provided by this section.
-Carriage of additional broadcast television signals on such system shall be at the discretion of such operator, subject to section 325(b) of this title.
-
-(b) Signals required
-
-(1) In general
-
-(A) A cable operator of a cable system with 12 or fewer usable activated channels shall carry the signals of at least three local commercial television stations, except that if such a system has 300 or fewer subscribers, it shall not be subject to any requirements under this section so long as such system does not delete from carriage by that system any signal of a broadcast television station.
-
-(B) A cable operator of a cable system with more than 12 usable activated channels shall carry the signals of local commercial television stations, up to one-third of the aggregate number of usable activated channels of such system.
-
-(2) Selection of signals
-
-Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
-
-(A) under no circumstances shall a cable operator carry a qualified low power station in lieu of a local commercial television station; and
-
-(B) if the cable operator elects to carry an affiliate of a broadcast network (as such term is defined by the Commission by regulation), such cable operator shall carry the affiliate of such broadcast network whose city of license reference point, as defined in section 76.53 of title 47, Code of Federal Regulations (in effect on January 1, 1991), or any successor regulation thereto, is closest to the principal headend of the cable system.
-
-(3) Content to be carried
-
-(A) A cable operator shall carry in its entirety, on the cable system of that operator, the primary video, accompanying audio, and line 21 closed caption transmission of each of the local commercial television stations carried on the cable system and, to the extent technically feasible, program-related material carried in the vertical blanking interval or on subcarriers.
-Retransmission of other material in the vertical blanking internal or other nonprogram-related material (including teletext and other subscription and advertiser-supported information services) shall be at the discretion of the cable operator.
-Where appropriate and feasible, operators may delete signal enhancements, such as ghost-canceling, from the broadcast signal and employ such enhancements at the system headend or headends.
-
-(B) The cable operator shall carry the entirety of the program schedule of any television station carried on the cable system unless carriage of specific programming is prohibited, and other programming authorized to be substituted, under section 76.67 or subpart F of part 76 of title 47, Code of Federal Regulations (as in effect on January 1, 1991), or any successor regulations thereto.
-
-(4) Signal quality
-
-(A) Nondegradation; technical specifications
-
-The signals of local commercial television stations that a cable operator carries shall be carried without material degradation.
-The Commission shall adopt carriage standards to ensure that, to the extent technically feasible, the quality of signal processing and carriage provided by a cable system for the carriage of local commercial television stations will be no less than that provided by the system for carriage of any other type of signal.
-
-(B) Advanced television
-
-At such time as the Commission prescribes modifications of the standards for television broadcast signals, the Commission shall initiate a proceeding to establish any changes in the signal carriage requirements of cable television systems necessary to ensure cable carriage of such broadcast signals of local commercial television stations which have been changed to conform with such modified standards.
-
-(5) Duplication not required
-
-Notwithstanding paragraph (1), a cable operator shall not be required to carry the signal of any local commercial television station that substantially duplicates the signal of another local commercial television station which is carried on its cable system, or to carry the signals of more than one local commercial television station affiliated with a particular broadcast network (as such term is defined by regulation). If a cable operator elects to carry on its cable system a signal which substantially duplicates the signal of another local commercial television station carried on the cable system, or to carry on its system the signals of more than one local commercial television station affiliated with a particular broadcast network, all such signals shall be counted toward the number of signals the operator is required to carry under paragraph (1).
-
-(6) Channel positioning
-
-Each signal carried in fulfillment of the carriage obligations of a cable operator under this section shall be carried on the cable system channel number on which the local commercial television station is broadcast over the air, or on the channel on which it was carried on July 19, 1985, or on the channel on which it was carried on January 1, 1992, at the election of the station, or on such other channel number as is mutually agreed upon by the station and the cable operator.
-Any dispute regarding the positioning of a local commercial television station shall be resolved by the Commission.
-
-(7) Signal availability
-
-Signals carried in fulfillment of the requirements of this section shall be provided to every subscriber of a cable system.
-Such signals shall be viewable via cable on all television receivers of a subscriber which are connected to a cable system by a cable operator or for which a cable operator provides a connection.
-If a cable operator authorizes subscribers to install additional receiver connections, but does not provide the subscriber with such connections, or with the equipment and materials for such connections, the operator shall notify such subscribers of all broadcast stations carried on the cable system which cannot be viewed via cable without a converter box and shall offer to sell or lease such a converter box to such subscribers at rates in accordance with section 543(b)(3) of this title.
-
-(8) Identification of signals carried
-
-A cable operator shall identify, upon request by any person, the signals carried on its system in fulfillment of the requirements of this section.
-
-(9) Notification
-
-A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station.
-No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations.
-The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
-
-(10) Compensation for carriage
-
-A cable operator shall not accept or request monetary payment or other valuable consideration in exchange either for carriage of local commercial television stations in fulfillment of the requirements of this section or for the channel positioning rights provided to such stations under this section, except that—
-
-(A) any such station may be required to bear the costs associated with delivering a good quality signal or a baseband video signal to the principal headend of the cable system;
-
-(B) a cable operator may accept payments from stations which would be considered distant signals under section 111 of title 17 as indemnification for any increased copyright liability resulting from carriage of such signal; and
-
-(C) a cable operator may continue to accept monetary payment or other valuable consideration in exchange for carriage or channel positioning of the signal of any local commercial television station carried in fulfillment of the requirements of this section, through, but not beyond, the date of expiration of an agreement thereon between a cable operator and a local commercial television station entered into prior to June 26, 1990.
-
-(c) Low power station carriage obligation
-
-(1) Requirement
-
-If there are not sufficient signals of full power local commercial television stations to fill the channels set aside under subsection (b) of this section—
-
-(A) a cable operator of a cable system with a capacity of 35 or fewer usable activated channels shall be required to carry one qualified low power station; and
-
-(B) a cable operator of a cable system with a capacity of more than 35 usable activated channels shall be required to carry two qualified low power stations.
-
-(2) Use of public, educational, or governmental channels
-
-A cable operator required to carry more than one signal of a qualified low power station under this subsection may do so, subject to approval by the franchising authority pursuant to section 531 of this title, by placing such additional station on public, educational, or governmental channels not in use for their designated purposes.
-
-(d) Remedies
-
-(1) Complaints by broadcast stations
-
-Whenever a local commercial television station believes that a cable operator has failed to meet its obligations under this section, such station shall notify the operator, in writing, of the alleged failure and identify its reasons for believing that the cable operator is obligated to carry the signal of such station or has otherwise failed to comply with the channel positioning or repositioning or other requirements of this section.
-The cable operator shall, within 30 days of such written notification, respond in writing to such notification and either commence to carry the signal of such station in accordance with the terms requested or state its reasons for believing that it is not obligated to carry such signal or is in compliance with the channel positioning and repositioning and other requirements of this section.
-A local commercial television station that is denied carriage or channel positioning or repositioning in accordance with this section by a cable operator may obtain review of such denial by filing a complaint with the Commission.
-Such complaint shall allege the manner in which such cable operator has failed to meet its obligations and the basis for such allegations.
-
-(2) Opportunity to respond
-
-The Commission shall afford such cable operator an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
-
-(3) Remedial actions; dismissal
-
-Within 120 days after the date a complaint is filed, the Commission shall determine whether the cable operator has met its obligations under this section.
-If the Commission determines that the cable operator has failed to meet such obligations, the Commission shall order the cable operator to reposition the complaining station or, in the case of an obligation to carry a station, to commence carriage of the station and to continue such carriage for at least 12 months.
-If the Commission determines that the cable operator has fully met the requirements of this section, it shall dismiss the complaint.
-
-(e) Input selector switch rules abolished
-
-No cable operator shall be required—
-
-(1) to provide or make available any input selector switch as defined in section 76.5(mm) of title 47, Code of Federal Regulations, or any comparable device; or
-
-(2) to provide information to subscribers about input selector switches or comparable devices.
-
-(f) Regulations by Commission
-
-Within 180 days after October 5, 1992, the Commission shall, following a rulemaking proceeding, issue regulations implementing the requirements imposed by this section.
-Such implementing regulations shall include necessary revisions to update section 76.51 of title 47 of the Code of Federal Regulations.
-
-(g) Sales presentations and program length commercials
-
-(1) Carriage pending proceeding
-
-Pending the outcome of the proceeding under paragraph (2), nothing in this chapter shall require a cable operator to carry on any tier, or prohibit a cable operator from carrying on any tier, the signal of any commercial television station or video programming service that is predominantly utilized for the transmission of sales presentations or program length commercials.
-
-(2) Proceeding concerning certain stations
-
-Within 270 days after October 5, 1992, the Commission, notwithstanding prior proceedings to determine whether broadcast television stations that are predominantly utilized for the transmission of sales presentations or program length commercials are serving the public interest, convenience, and necessity, shall complete a proceeding in accordance with this paragraph to determine whether broadcast television stations that are predominantly utilized for the transmission of sales presentations or program length commercials are serving the public interest, convenience, and necessity.
-In conducting such proceeding, the Commission shall provide appropriate notice and opportunity for public comment.
-The Commission shall consider the viewing of such stations, the level of competing demands for the spectrum allocated to such stations, and the role of such stations in providing competition to nonbroadcast services offering similar programming.
-In the event that the Commission concludes that one or more of such stations are serving the public interest, convenience, and necessity, the Commission shall qualify such stations as local commercial television stations for purposes of subsection (a) of this section.
-In the event that the Commission concludes that one or more of such stations are not serving the public interest, convenience, and necessity, the Commission shall allow the licensees of such stations a reasonable period within which to provide different programming, and shall not deny such stations a renewal expectancy solely because their programming consisted predominantly of sales presentations or program length commercials.
-
-(h) Definitions
-
-(1) Local commercial television station
-
-(A) In general
-
-For purposes of this section, the term "local commercial television station" means any full power television broadcast station, other than a qualified noncommercial educational television station within the meaning of section 535(l)(1) of this title, licensed and operating on a channel regularly assigned to its community by the Commission that, with respect to a particular cable system, is within the same television market as the cable system.
-
-(B) Exclusions
-
-The term "local commercial television station" shall not include—
-
-(i) low power television stations, television translator stations, and passive repeaters which operate pursuant to part 74 of title 47, Code of Federal Regulations, or any successor regulations thereto;
-
-(ii) a television broadcast station that would be considered a distant signal under section 111 of title 17, if such station does not agree to indemnify the cable operator for any increased copyright liability resulting from carriage on the cable system; or
-
-(iii) a television broadcast station that does not deliver to the principal headend of a cable system either a signal level of −45dBm for UHF signals or −49dBm for VHF signals at the input terminals of the signal processing equipment, if such station does not agree to be responsible for the costs of delivering to the cable system a signal of good quality or a baseband video signal.
-
-(C) Market determinations
-
-(i) For purposes of this section, a broadcasting station's market shall be determined by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns, except that, following a written request, the Commission may, with respect to a particular television broadcast station, include additional communities within its television market or exclude communities from such station's television market to better effectuate the purposes of this section.
-In considering such requests, the Commission may determine that particular communities are part of more than one television market.
-
-(ii) In considering requests filed pursuant to clause (i), the Commission shall afford particular attention to the value of localism by taking into account such factors as—
-
-(I) whether the station, or other stations located in the same area, have been historically carried on the cable system or systems within such community;
-
-(II) whether the television station provides coverage or other local service to such community;
-
-(III) whether any other television station that is eligible to be carried by a cable system in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
-
-(IV) evidence of viewing patterns in cable and noncable households within the areas served by the cable system or systems in such community.
-
-(iii) A cable operator shall not delete from carriage the signal of a commercial television station during the pendency of any proceeding pursuant to this subparagraph.
-
-(iv) Within 120 days after the date on which a request is filed under this subparagraph (or 120 days after February 8, 1996, if later), the Commission shall grant or deny the request.
-
-(2) Qualified low power station
-
-The term "qualified low power station" means any television broadcast station conforming to the rules established for Low Power Television Stations contained in part 74 of title 47, Code of Federal Regulations, only if—
-
-(A) such station broadcasts for at least the minimum number of hours of operation required by the Commission for television broadcast stations under part 73 of title 47, Code of Federal Regulations;
-
-(B) such station meets all obligations and requirements applicable to television broadcast stations under part 73 of title 47, Code of Federal Regulations, with respect to the broadcast of nonentertainment programming; programming and rates involving political candidates, election issues, controversial issues of public importance, editorials, and personal attacks; programming for children; and equal employment opportunity; and the Commission determines that the provision of such programming by such station would address local news and informational needs which are not being adequately served by full power television broadcast stations because of the geographic distance of such full power stations from the low power station's community of license;
-
-(C) such station complies with interference regulations consistent with its secondary status pursuant to part 74 of title 47, Code of Federal Regulations;
-
-(D) such station is located no more than 35 miles from the cable system's headend, and delivers to the principal headend of the cable system an over-the-air signal of good quality, as determined by the Commission;
-
-(E) the community of license of such station and the franchise area of the cable system are both located outside of the largest 160 Metropolitan Statistical Areas, ranked by population, as determined by the Office of Management and Budget on June 30, 1990, and the population of such community of license on such date did not exceed 35,000; and
-
-(F) there is no full power television broadcast station licensed to any community within the county or other political subdivision (of a State) served by the cable system.
-
-Nothing in this paragraph shall be construed to change the secondary status of any low power station as provided in part 74 of title 47, Code of Federal Regulations, as in effect on October 5, 1992.
-
-(June 19, 1934, ch. 652, title VI, §614, as added Pub. L. 102–385, §4, Oct. 5, 1992, 106 Stat. 1471; amended Pub. L. 104–104, title III, §301(d)(1), Feb. 8, 1996, 110 Stat. 116.)
-
-References in Text
-
-This chapter, referred to in subsec. (g)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter.
-For complete classification of this Act to the Code, see section 609 of this title and Tables.
-
-Effective Date
-
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
+
+Revision of Rules
+
+Pub. L. 113–200, title I, §105(b), Dec. 4, 2014, 128 Stat. 2063, provided that: "Not later than 90 days after the date of the enactment of this Act [Dec. 4, 2014], the [Federal Communications] Commission shall revise section 76.1601 of its rules (47 CFR 76.1601) and any note to such section by removing the prohibition against deletion or repositioning of a local commercial television station during a period in which major television ratings services measure the size of audiences of local television stations."
 
 Application to Pending Requests
 
@@ -16679,11 +16578,19 @@ During the term of an agreement made before July 1, 1990, by a franchising autho
 
 (k) Reports on average prices
 
-The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
+(1) In general
 
-(1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
+The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
 
-(2) cable systems that the Commission has found are not subject to such effective competition.
+(2) Inclusion in annual report
+
+(A) In general
+
+The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under section 325 of this title.
+
+(B) Form
+
+The Commission shall publish information under this paragraph in a manner substantially similar to the way other comparable information is published in such report.
 
 (l) Definitions
 
@@ -16725,7 +16632,21 @@ For purposes of this subsection, the term "small cable operator" means a cable o
 
 Notwithstanding any other provision of this section or of section 532 of this title, losses associated with a cable system (including losses associated with the grant or award of a franchise) that were incurred prior to September 4, 1992, with respect to a cable system that is owned and operated by the original franchisee of such system shall not be disallowed, in whole or in part, in the determination of whether the rates for any tier of service or any type of equipment that is subject to regulation under this section are lawful.
 
-(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118.)
+(o) Streamlined petition process for small cable operators
+
+(1) In general
+
+Not later than 180 days after December 4, 2014, the Commission shall complete a rulemaking to establish a streamlined process for filing of an effective competition petition pursuant to this section for small cable operators, particularly those who serve primarily rural areas.
+
+(2) Construction
+
+Nothing in this subsection shall be construed to have any effect on the duty of a small cable operator to prove the existence of effective competition under this section.
+
+(3) Definition of small cable operator
+
+In this subsection, the term "small cable operator" has the meaning given the term in subsection (m)(2).
+
+(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118; Pub. L. 113–200, title I, §§110, 111, Dec. 4, 2014, 128 Stat. 2065, 2066.)
 
 Effective Date
 
@@ -18017,118 +17938,6 @@ References in Text
 This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter.
 For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
-Transfer of Functions
-
-Office of Postmaster General of Post Office Department abolished and functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
-
-Abolition of Interstate Commerce Commission and Transfer of Functions
-
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-§605. Unauthorized publication or use of communications
-
-(a) Practices prohibited
-
-Except as authorized by chapter 119, title 18, no person receiving, assisting in receiving, transmitting, or assisting in transmitting, any interstate or foreign communication by wire or radio shall divulge or publish the existence, contents, substance, purport, effect, or meaning thereof, except through authorized channels of transmission or reception, (1) to any person other than the addressee, his agent, or attorney, (2) to a person employed or authorized to forward such communication to its destination, (3) to proper accounting or distributing officers of the various communicating centers over which the communication may be passed, (4) to the master of a ship under whom he is serving, (5) in response to a subpena issued by a court of competent jurisdiction, or (6) on demand of other lawful authority.
-No person not being authorized by the sender shall intercept any radio communication and divulge or publish the existence, contents, substance, purport, effect, or meaning of such intercepted communication to any person.
-No person not being entitled thereto shall receive or assist in receiving any interstate or foreign communication by radio and use such communication (or any information therein contained) for his own benefit or for the benefit of another not entitled thereto.
-No person having received any intercepted radio communication or having become acquainted with the contents, substance, purport, effect, or meaning of such communication (or any part thereof) knowing that such communication was intercepted, shall divulge or publish the existence, contents, substance, purport, effect, or meaning of such communication (or any part thereof) or use such communication (or any information therein contained) for his own benefit or for the benefit of another not entitled thereto.
-This section shall not apply to the receiving, divulging, publishing, or utilizing the contents of any radio communication which is transmitted by any station for the use of the general public, which relates to ships, aircraft, vehicles, or persons in distress, or which is transmitted by an amateur radio station operator or by a citizens band radio operator.
-
-(b) Exceptions
-
-The provisions of subsection (a) of this section shall not apply to the interception or receipt by any individual, or the assisting (including the manufacture or sale) of such interception or receipt, of any satellite cable programming for private viewing if—
-
-(1) the programming involved is not encrypted; and
-
-(2)(A) a marketing system is not established under which—
-
-(i) an agent or agents have been lawfully designated for the purpose of authorizing private viewing by individuals, and
-
-(ii) such authorization is available to the individual involved from the appropriate agent or agents; or
-
-(B) a marketing system described in subparagraph (A) is established and the individuals receiving such programming has obtained authorization for private viewing under that system.
-
-(c) Scrambling of Public Broadcasting Service programming
-
-No person shall encrypt or continue to encrypt satellite delivered programs included in the National Program Service of the Public Broadcasting Service and intended for public viewing by retransmission by television broadcast stations; except that as long as at least one unencrypted satellite transmission of any program subject to this subsection is provided, this subsection shall not prohibit additional encrypted satellite transmissions of the same program.
-
-(d) Definitions
-
-For purposes of this section—
-
-(1) the term "satellite cable programming" means video programming which is transmitted via satellite and which is primarily intended for the direct receipt by cable operators for their retransmission to cable subscribers;
-
-(2) the term "agent", with respect to any person, includes an employee of such person;
-
-(3) the term "encrypt", when used with respect to satellite cable programming, means to transmit such programming in a form whereby the aural and visual characteristics (or both) are modified or altered for the purpose of preventing the unauthorized receipt of such programming by persons without authorized equipment which is designed to eliminate the effects of such modification or alteration;
-
-(4) the term "private viewing" means the viewing for private use in an individual's dwelling unit by means of equipment, owned or operated by such individual, capable of receiving satellite cable programming directly from a satellite;
-
-(5) the term "private financial gain" shall not include the gain resulting to any individual for the private use in such individual's dwelling unit of any programming for which the individual has not obtained authorization for that use; and
-
-(6) the term "any person aggrieved" shall include any person with proprietary rights in the intercepted communication by wire or radio, including wholesale or retail distributors of satellite cable programming, and, in the case of a violation of paragraph (4) of subsection (e) of this section, shall also include any person engaged in the lawful manufacture, distribution, or sale of equipment necessary to authorize or receive satellite cable programming.
-
-(e) Penalties; civil actions; remedies; attorney's fees and costs; computation of damages; regulation by State and local authorities
-
-(1) Any person who willfully violates subsection (a) of this section shall be fined not more than $2,000 or imprisoned for not more than 6 months, or both.
-
-(2) Any person who violates subsection (a) of this section willfully and for purposes of direct or indirect commercial advantage or private financial gain shall be fined not more than $50,000 or imprisoned for not more than 2 years, or both, for the first such conviction and shall be fined not more than $100,000 or imprisoned for not more than 5 years, or both, for any subsequent conviction.
-
-(3)(A) Any person aggrieved by any violation of subsection (a) of this section or paragraph (4) of this subsection may bring a civil action in a United States district court or in any other court of competent jurisdiction.
-
-(B) The court—
-
-(i) may grant temporary and final injunctions on such terms as it may deem reasonable to prevent or restrain violations of subsection (a) of this section;
-
-(ii) may award damages as described in subparagraph (C); and
-
-(iii) shall direct the recovery of full costs, including awarding reasonable attorneys' fees to an aggrieved party who prevails.
-
-(C)(i) Damages awarded by any court under this section shall be computed, at the election of the aggrieved party, in accordance with either of the following subclauses;
-
-(I) the party aggrieved may recover the actual damages suffered by him as a result of the violation and any profits of the violator that are attributable to the violation which are not taken into account in computing the actual damages; in determining the violator's profits, the party aggrieved shall be required to prove only the violator's gross revenue, and the violator shall be required to prove his deductible expenses and the elements of profit attributable to factors other than the violation; or
-
-(II) the party aggrieved may recover an award of statutory damages for each violation of subsection (a) of this section involved in the action in a sum of not less than $1,000 or more than $10,000, as the court considers just, and for each violation of paragraph (4) of this subsection involved in the action an aggrieved party may recover statutory damages in a sum not less than $10,000, or more than $100,000, as the court considers just.
-
-(ii) In any case in which the court finds that the violation was committed willfully and for purposes of direct or indirect commercial advantage or private financial gain, the court in its discretion may increase the award of damages, whether actual or statutory, by an amount of not more than $100,000 for each violation of subsection (a) of this section.
-
-(iii) In any case where the court finds that the violator was not aware and had no reason to believe that his acts constituted a violation of this section, the court in its discretion may reduce the award of damages to a sum of not less than $250.
-
-(4) Any person who manufactures, assembles, modifies, imports, exports, sells, or distributes any electronic, mechanical, or other device or equipment, knowing or having reason to know that the device or equipment is primarily of assistance in the unauthorized decryption of satellite cable programming, or direct-to-home satellite services, or is intended for any other activity prohibited by subsection (a) of this section, shall be fined not more than $500,000 for each violation, or imprisoned for not more than 5 years for each violation, or both.
-For purposes of all penalties and remedies established for violations of this paragraph, the prohibited activity established herein as it applies to each such device shall be deemed a separate violation.
-
-(5) The penalties under this subsection shall be in addition to those prescribed under any other provision of this subchapter.
-
-(6) Nothing in this subsection shall prevent any State, or political subdivision thereof, from enacting or enforcing any laws with respect to the importation, sale, manufacture, or distribution of equipment by any person with the intent of its use to assist in the interception or receipt of radio communications prohibited by subsection (a) of this section.
-
-(f) Rights, obligations, and liabilities under other laws unaffected
-
-Nothing in this section shall affect any right, obligation, or liability under title 17, any rule, regulation, or order thereunder, or any other applicable Federal, State, or local law.
-
-(g) Universal encryption standard
-
-The Commission shall initiate an inquiry concerning the need for a universal encryption standard that permits decryption of satellite cable programming intended for private viewing.
-In conducting such inquiry, the Commission shall take into account—
-
-(1) consumer costs and benefits of any such standard, including consumer investment in equipment in operation;
-
-(2) incorporation of technological enhancements, including advanced television formats;
-
-(3) whether any such standard would effectively prevent present and future unauthorized decryption of satellite cable programming;
-
-(4) the costs and benefits of any such standard on other authorized users of encrypted satellite cable programming, including cable systems and satellite master antenna television systems;
-
-(5) the effect of any such standard on competition in the manufacture of decryption equipment; and
-
-(6) the impact of the time delay associated with the Commission procedures necessary for establishment of such standards.
-
-(h) Rulemaking for encryption standard
-
-If the Commission finds, based on the information gathered from the inquiry required by subsection (g) of this section, that a universal encryption standard is necessary and in the public interest, the Commission shall initiate a rulemaking to establish such a standard.
-
-(June 19, 1934, ch. 652, title VII, §705, formerly title VI, §605, 48 Stat. 1103; Pub. L. 90–351, title III, §803, June 19, 1968, 82 Stat. 223; Pub. L. 97–259, title I, §126, Sept. 13, 1982, 96 Stat. 1099; renumbered title VII, §705, and amended Pub. L. 98–549, §§5(a), 6(a), Oct. 30, 1984, 98 Stat. 2802, 2804; Pub. L. 100–626, §11, Nov. 7, 1988, 102 Stat. 3211; Pub. L. 100–667, title II, §§204, 205, Nov. 16, 1988, 102 Stat. 3958, 3959; Pub. L. 103–414, title III, §§303(a)(25)–(28), 304(a)(15), Oct. 25, 1994, 108 Stat. 4295–4297; Pub. L. 104–104, title II, §205(a), Feb. 8, 1996, 110 Stat. 114.)
-
 §606. War powers of President
 
 (a) Priority communications
@@ -18269,6 +18078,12 @@ This chapter may be cited as the "Communications Act of 1934."
 References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+Short Title of 2014 Amendment
+
+Pub. L. 113–200, §1(a), Dec. 4, 2014, 128 Stat. 2059, provided that: "This Act [amending sections 325, 338, 534, and 543 of this title and sections 111, 119, and 122 of Title 17, Copyrights, enacting provisions set out as notes under sections 153, 325, 338, and 534 of this title and section 111 of Title 17, and repealing provisions set out as a note under section 119 of Title 17] may be cited as the 'STELA Reauthorization Act of 2014'."
+
+Pub. L. 113–197, §1, Nov. 26, 2014, 128 Stat. 2055, provided that: "This Act [enacting section 622 of this title and provisions set out as notes under section 622 of this title] may be cited as the 'Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014' or the 'E–LABEL Act'."
 
 Short Title of 2010 Amendment
 
@@ -19545,51 +19360,6 @@ References in Text
 This chapter, referred to in subsec. (a)(8), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter.
 For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
-§619. Internet browsers built into telephones used with public mobile services
-
-(a) Accessibility
-
-If a manufacturer of a telephone used with public mobile services (as such term is defined in section 610(b)(4)(B) of this title) includes an Internet browser in such telephone, or if a provider of mobile service arranges for the inclusion of a browser in telephones to sell to customers, the manufacturer or provider shall ensure that the functions of the included browser (including the ability to launch the browser) are accessible to and usable by individuals who are blind or have a visual impairment, unless doing so is not achievable, except that this subsection shall not impose any requirement on such manufacturer or provider—
-
-(1) to make accessible or usable any Internet browser other than a browser that such manufacturer or provider includes or arranges to include in the telephone; or
-
-(2) to make Internet content, applications, or services accessible or usable (other than enabling individuals with disabilities to use an included browser to access such content, applications, or services).
-
-(b) Industry flexibility
-
-A manufacturer or provider may satisfy the requirements of subsection (a) with respect to such telephone or services by—
-
-(1) ensuring that the telephone or services that such manufacture or provider offers is accessible to and usable by individuals with disabilities without the use of third party applications, peripheral devices, software, hardware, or customer premises equipment; or
-
-(2) using third party applications, peripheral devices, software, hardware, or customer premises equipment that is available to the consumer at nominal cost and that individuals with disabilities can access.
-
-(June 19, 1934, ch. 652, title VII, §718, as added Pub. L. 111–260, title I, §104(a), Oct. 8, 2010, 124 Stat. 2761.)
-
-Effective Date
-
-Pub. L. 111–260, title I, §104(b), Oct. 8, 2010, 124 Stat. 2761, provided that: "Section 718 of the Communications Act of 1934 [47 U.S.C. 619], as added by subsection (a), shall take effect 3 years after the date of enactment of this Act [Oct. 8, 2010]."
-
-§620. Relay services for deaf-blind individuals
-
-(a) In general
-
-Within 6 months after October 8, 2010, the Commission shall establish rules that define as eligible for relay service support those programs that are approved by the Commission for the distribution of specialized customer premises equipment designed to make telecommunications service, Internet access service, and advanced communications, including interexchange services and advanced telecommunications and information services, accessible by low-income individuals who are deaf-blind.
-
-(b) Individuals who are deaf-blind defined
-
-For purposes of this subsection,1 the term "individuals who are deaf-blind" has the same meaning given such term in the Helen Keller National Center Act, as amended by the Rehabilitation Act Amendments of 1992 (29 U.S.C. 1905(2)).
-
-(c) Annual amount
-
-The total amount of support the Commission may provide from its interstate relay fund for any fiscal year may not exceed $10,000,000.
-
-(June 19, 1934, ch. 652, title VII, §719, as added Pub. L. 111–260, title I, §105, Oct. 8, 2010, 124 Stat. 2762; amended Pub. L. 111–265, §2(4), (5), Oct. 8, 2010, 124 Stat. 2795.)
-
-References in Text
-
-The Helen Keller National Center Act, referred to in subsec. (b), is title II of Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 32, which is classified principally to chapter 21 (§1901 et seq.) of Title 29, Labor.
-The term "individuals who are deaf-blind" is defined in section 206(2) of the Act, as amended by Pub. L. 102–569, which is classified to section 1905(2) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 29 and Tables.
-
 1 So in original.
 Probably should be "section,".
 
@@ -19637,6 +19407,42 @@ This Act, referred to in subsec. (b)(3), is Pub. L. 111–311, Dec. 15, 2010, 12
 Codification
 
 Section was enacted as part of the Commercial Advertisement Loudness Mitigation Act, or the CALM Act, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+§622. Optional electronic labeling of communications equipment
+
+(a) Definitions
+
+In this section—
+
+(1) the term "electronic labeling" means displaying required labeling and regulatory information electronically; and
+
+(2) the term "radiofrequency device with display" means any equipment or device that—
+
+(A) is required under regulations of the Commission to be authorized by the Commission before the equipment or device may be marketed or sold within the United States; and
+
+(B) has the capability to digitally display required labeling and regulatory information.
+
+(b) Requirement to promulgate regulations for electronic labeling
+
+Not later than 9 months after November 26, 2014, the Commission shall promulgate regulations or take other appropriate action, as necessary, to allow manufacturers of radiofrequency devices with display the option to use electronic labeling for the equipment in place of affixing physical labels to the equipment.
+
+(June 19, 1934, ch. 652, title VII, §720, as added Pub. L. 113–197, §3, Nov. 26, 2014, 128 Stat. 2055.)
+
+Savings Clause
+
+Pub. L. 113–197, §4, Nov. 26, 2014, 128 Stat. 2056, provided that: "The amendment made by section 3 [enacting this section] shall not be construed to affect the authority of the Federal Communications Commission under section 302 of the Communications Act of 1934 (47 U.S.C. 302a) to provide for electronic labeling of devices."
+
+Findings
+
+Pub. L. 113–197, §2, Nov. 26, 2014, 128 Stat. 2055, provided that: "Congress finds the following:
+
+"(1) The Federal Communications Commission (referred to in this section as the 'Commission') first standardized physical labels for licensed products such as computers, phones, and other electronic devices in 1973, and the Commission has continually refined physical label requirements over time.
+
+"(2) As devices become smaller, compliance with physical label requirements can become more difficult and costly.
+
+"(3) Many manufacturers and consumers of licensed devices in the United States would prefer to have the option to provide or receive important Commission labeling information digitally on the screen of the device, at the discretion of the user.
+
+"(4) An electronic labeling option would give flexibility to manufacturers in meeting labeling requirements."
 
 CHAPTER 6—COMMUNICATIONS SATELLITE SYSTEM
 
@@ -20634,7 +20440,7 @@ Section 805, Pub. L. 92–225, title I, §106, Feb. 7, 1972, 86 Stat. 8, related
 
 Effective Date of Repeal
 
-Sections 801 to 805 repealed effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 431 of Title 2, The Congress.
+Sections 801 to 805 repealed effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
 CHAPTER 8—NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION
 
@@ -20993,170 +20799,6 @@ Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set 
 No. 12046, set out as a note under section 305 of this title.
 Section 10 of Ex. Ord.
 No. 11556 related to advisory committees established by the Director of the former Office of Telecommunications Policy.
-
-Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
-
-Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX, §941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: "This section may be cited as the 'ED 1.0 Act'.
-
-"(a) In this section:
-
-"(1) The term 'Administrator' means the Administrator of the National Telecommunications and Information Administration.
-
-"(2) The term 'eligible educational institution' means an institution that is—
-
-"(A) a historically Black college or university;
-
-"(B) a Hispanic-serving institution as that term is defined in section 502(a)(5) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)(5));
-
-"(C) a tribally controlled college or university as that term is defined in section 2(a)(4) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)(4));
-
-"(D) an Alaska Native-serving institution as that term is defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)); or
-
-"(E) a Native Hawaiian-serving institution as that term is defined in section 317(b)(4) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(4)).
-
-"(3) The term 'historically Black college or university' means a part B institution as that term is defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
-
-"(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions.
-The Administrator shall award not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2).
-
-"(B)(i) The Administrator shall award a total of 9 grants under this subsection.
-
-"(ii) The Administrator shall make grant payments under this subsection in the amount of $500,000.
-
-"(2)(A) In awarding grants under this subsection the Administrator shall give priority to an eligible educational institution that, according to the most recent data available (including data available from the Bureau of the Census), serves a county, or other appropriate political subdivision where no counties exist—
-
-"(i) in which 50 percent of the residents of the county, or other appropriate political subdivision where no counties exist, are members of a racial or ethnic minority;
-
-"(ii) in which less than 18 percent of the residents of the county, or other appropriate political subdivision where no counties exist, have obtained a baccalaureate degree or a higher education;
-
-"(iii) that has an unemployment rate of 7 percent or greater;
-
-"(iv) in which 20 percent or more of the residents of the county, or other appropriate political subdivision where no counties exist, live in poverty;
-
-"(v) that has a negative population growth rate; or
-
-"(vi) that has a family income of not more than $32,000.
-
-"(B) In awarding grants under this subsection the Administrator shall give the highest priority to an eligible educational institution that meets the greatest number of requirements described in clauses (i) through (vi) of subparagraph (A).
-
-"(3) An eligible educational institution receiving a grant under this subsection may use the grant funds—
-
-"(A) to acquire equipment, instrumentation, networking capability, hardware, software, digital network technology, wireless technology, or wireless infrastructure;
-
-"(B) to develop and provide educational services, including faculty development; or
-
-"(C) to develop strategic plans for information technology investments.
-
-"(4) The Administrator shall not require an eligible educational institution to provide matching funds for a grant awarded under this subsection.
-
-"(5)(A) The Administrator shall consult with the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, on a quarterly basis regarding the pilot program assisted under this subsection.
-
-"(B) Not later than 1 year after the date of enactment of this section [Dec. 26, 2007], the Administrator shall submit to the committees described in subparagraph (A) a report evaluating the progress of the pilot program assisted under this subsection.
-
-"(c) There are authorized to be appropriated to carry out this section $4,500,000 for each of fiscal years 2008 and 2009.
-
-"(d) The Administrator shall carry out this section only with amounts appropriated in advance specifically to carry out this section."
-
-Study of Technology Protection Measures
-
-Pub. L. 106–554, §1(a)(4) [div. B, title XVII, §1703], Dec. 21, 2000, 114 Stat. 2763, 2763A–336, provided that:
-
-"(a) In General.—Not later than 18 months after the date of the enactment of this Act [Dec. 21, 2000], the National Telecommunications and Information Administration shall initiate a notice and comment proceeding for purposes of—
-
-"(1) evaluating whether or not currently available technology protection measures, including commercial Internet blocking and filtering software, adequately addresses the needs of educational institutions;
-
-"(2) making recommendations on how to foster the development of measures that meet such needs; and
-
-"(3) evaluating the development and effectiveness of local Internet safety policies that are currently in operation after community input.
-
-"(b) Definitions.—In this section:
-
-"(1) Technology protection measure.—The term 'technology protection measure' means a specific technology that blocks or filters Internet access to visual depictions that are—
-
-"(A) obscene, as that term is defined in section 1460 of title 18, United States Code;
-
-"(B) child pornography, as that term is defined in section 2256 of title 18, United States Code; or
-
-"(C) harmful to minors.
-
-"(2) Harmful to minors.—The term 'harmful to minors' means any picture, image, graphic image file, or other visual depiction that—
-
-"(A) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
-
-"(B) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
-
-"(C) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
-
-"(3) Sexual act; sexual contact.—The terms 'sexual act' and 'sexual contact' have the meanings given such terms in section 2246 of title 18, United States Code."
-
-1 See References in Text note below.
-
-§903. Spectrum management activities
-
-(a) Revision of regulations
-
-Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amend the Department of Commerce spectrum management document entitled "Manual of Regulations and Procedures for Federal Radio Frequency Management" to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
-
-(b) Requirements for revisions
-
-The amendments required by subsection (a) of this section shall—
-
-(1) provide for a period at the beginning of each meeting of the Interdepartmental Radio Advisory Committee to be open to the public to make presentations and receive advice, and provide the public with other meaningful opportunities to make presentations and receive advice;
-
-(2) include provisions that will require (A) publication in the Federal Register of major policy proposals that are not classified and that involve spectrum management, and (B) adequate opportunity for public review and comment on those proposals;
-
-(3) include provisions that will require publication in the Federal Register of major policy decisions that are not classified and that involve spectrum management;
-
-(4) include provisions that will require that nonclassified spectrum management information be made available to the public, including access to electronic databases; and
-
-(5) establish procedures that provide for the prompt and impartial consideration of requests for access to Government spectrum by the public, which procedures shall include provisions that will require the disclosure of the status and ultimate disposition of any such request.
-
-(c) Certification to Congress
-
-Not later than 180 days after October 27, 1992, the Secretary of Commerce shall certify to Congress that the Secretary has complied with this section.
-
-(d) Radio services
-
-(1) Assignments for radio services
-
-In assigning frequencies for mobile radio services and other radio services, the Secretary of Commerce shall promote efficient and cost-effective use of the spectrum to the maximum extent feasible.
-
-(2) Authority to withhold assignments
-
-The Secretary of Commerce shall have the authority to withhold or refuse to assign frequencies for mobile radio service or other radio service in order to further the goal of making efficient and cost-effective use of the spectrum.
-
-(3) Spectrum plan
-
-By October 1, 1993, the Secretary of Commerce shall adopt and commence implementation of a plan for Federal agencies with existing mobile radio systems to use more spectrum-efficient technologies that are at least as spectrum-efficient and cost-effective as readily available commercial mobile radio systems.
-The plan shall include a time schedule for implementation.
-
-(4) Report to Congress
-
-By October 1, 1993, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the plan adopted under paragraph (3), including the implementation schedule for the plan.
-
-(e) Proof of compliance with FCC licensing requirements
-
-(1) Amendment to manual required
-
-Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) of this section to require that—
-
-(A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to section 902(b)(2)(A) of this title for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
-
-(B) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to utilize a radio station belonging to the United States for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission.
-
-(2) Retention of forms
-
-The NTIA shall maintain on file the proofs submitted under paragraph (1), or facsimiles thereof.
-
-(3) Certification
-
-Within 1 year after August 10, 1993, the Secretary and the NTIA shall certify to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that—
-
-(A) the amendments required by paragraph (1) have been accomplished; and
-
-(B) the requirements of subparagraphs (A) and (B) of such paragraph are being enforced.
-
-(Pub. L. 102–538, title I, §104, Oct. 27, 1992, 106 Stat. 3537; Pub. L. 103–66, title VI, §6001(b), Aug. 10, 1993, 107 Stat. 387.)
 
 Change of Name
 
@@ -24276,6 +23918,9 @@ Sec. 6. General Provisions. (a) This order shall be implemented consistent with 
 
 Barack Obama.      
 
+[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord.
+No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]
+
 Unleashing the Wireless Broadband Revolution
 
 Memorandum of President of the United States, June 28, 2010, 75 F.R. 38387, provided:
@@ -24346,6 +23991,9 @@ Sec. 6.
 Sec. 7. The Secretary of Commerce is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.      
+
+[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord.
+No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]
 
 Expanding America's Leadership in Wireless Innovation
 
@@ -24461,6 +24109,9 @@ Sec. 8. General Provisions. (a) Nothing in this memorandum shall be construed to
 (g) The Secretary of Commerce is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.      
+
+[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord.
+No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]
 
 §1302. Advanced telecommunications incentives
 
@@ -26583,7 +26234,7 @@ For purposes of this subsection, the term "eligible facilities request" means an
 
 (3) Applicability of environmental laws
 
-Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act or the National Environmental Policy Act of 1969.
+Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act 1 or the National Environmental Policy Act of 1969.
 
 (b) Federal easements and rights-of-way
 
@@ -26643,11 +26294,14 @@ Section 704 of the Telecommunications Act of 1996, referred to in subsecs. (a)(1
 Subsec. (b) of section 704 of Pub. L. 104–104 is not classified to the Code.
 Subsec. (c) of section 704 of Pub. L. 104–104 is set out as a note under section 332 of this title.
 
-The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation.
-For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation.
+The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables.
+For disposition of former sections of Title 16, see Disposition Table preceding section 100101 of Title 54.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare.
 For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+1 See References in Text note below.
 
 §1456. System certification
 

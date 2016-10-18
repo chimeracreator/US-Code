@@ -381,12 +381,21 @@ Expenditures.
 (1) Composition.—The Commission is composed of 5 Commissioners, appointed by the President by and with the advice and consent of the Senate.
 Not more than 3 Commissioners may be appointed from the same political party.
 
-(2) Terms.—The term of each Commissioner is 5 years, with each term beginning one year apart.
-An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded.
-A vacancy shall be filled in the same manner as the original appointment.
-When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.
+(2) Terms.—The term of each Commissioner is 5 years.
+When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year.
+Except as provided in paragraph (3), no individual may serve more than 2 terms.
 
-(3) Removal.—The President may remove a Commissioner for inefficiency, neglect of duty, or malfeasance in office.
+(3) Vacancies.—A vacancy shall be filled in the same manner as the original appointment.
+An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded.
+An individual appointed to fill a vacancy may serve 2 terms in addition to the remainder of the term for which the predecessor of that individual was appointed.
+
+(4) Conflicts of interest.—
+
+(A) Limitation on relationships with regulated entities.—A Commissioner may not have a pecuniary interest in, hold an official relation to, or own stocks or bonds of any entity the Commission regulates under chapter 401 of this title.
+
+(B) Limitation on other activities.—A Commissioner may not engage in another business, vocation, or employment.
+
+(5) Removal.—The President may remove a Commissioner for inefficiency, neglect of duty, or malfeasance in office.
 
 (c) Chairman.—
 
@@ -415,7 +424,7 @@ In carrying out the duties and powers of the Commission (other than under paragr
 
 (d) Seal.—The Commission shall have a seal which shall be judicially recognized.
 
-(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1488.)
+(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1488; Pub. L. 113–281, title IV, §403(a), Dec. 18, 2014, 128 Stat. 3056.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -1637,35 +1646,11 @@ The Secretary may not establish a fee or charge under paragraph (1) for inspecti
 
 (5) The Secretary may not collect a fee or charge under this subsection for any search or rescue service.
 
-(b)(1) The Secretary shall establish a fee or charge as provided in paragraph (2) of this subsection, and collect it annually in fiscal years 1993 and 1994, from the owner or operator of each recreational vessel to which paragraph (2) of this subsection applies.
+(b)(1) In addition to the collection of fees and charges established under subsection (a), in providing a service or thing of value under this subtitle the Secretary may accept in-kind transportation, travel, and subsistence.
 
-(2) The fee or charge established under paragraph (1) of this subsection is as follows:
+(2) The value of in-kind transportation, travel, and subsistence accepted under this paragraph may not exceed applicable per diem rates set forth in regulations prescribed under section 464 of title 37.
 
-(A) in fiscal year 1993—
-
-(i) for vessels of more than 21 feet in length but less than 27 feet, not more than $35;
-
-(ii) for vessels of at least 27 feet in length but less than 40 feet, not more than $50; and
-
-(iii) for vessels of at least 40 feet in length, not more than $100; and
-
-(B) in fiscal year 1994—
-
-(i) for vessels of at least 37 feet in length but less than 40 feet, not more than $50; and
-
-(ii) for vessels of at least 40 feet in length, not more than $100.
-
-(3) The fee or charge established under this subsection applies only to vessels operated on the navigable waters of the United States where the Coast Guard has a presence.
-
-(4) The fee or charge established under this subsection does not apply to a—
-
-(A) public vessel; or
-
-(B) vessel deemed to be a public vessel under section 827 of title 14.
-
-(5) The Secretary shall provide to each person who pays a fee or charge under this subsection a separate document on which appears, in readily discernible print, only the following statement: "The fee for which this document was provided was established under the Omnibus Budget Reconciliation Act of 1990. Persons paying this fee can expect no increase in the quantity, quality, or variety of services the person receives from the Coast Guard as a result of that payment."
-
-(c) In addition to the collection of fees and charges established under subsections (a) and (b), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
+(c) In addition to the collection of fees and charges established under subsection (a), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
 
 (d)(1) The Secretary may employ any Federal, State, or local agency or instrumentality, or any private enterprise or business, to collect a fee or charge established under this section.
 A private enterprise or business selected by the Secretary to collect fees or charges—
@@ -1693,7 +1678,7 @@ A private enterprise or business selected by the Secretary to collect fees or ch
 (k) The Secretary may not plan, implement or finalize any regulation that would promulgate any new maritime user fee which was not implemented and collected prior to January 1, 1998, including a fee or charge for any domestic icebreaking service or any other navigational assistance service.
 This subsection expires on September 30, 2006.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 507; Pub. L. 99–509, title V, §5102(b)(4), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–710, title I, §104(a)(3), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–508, title X, §10401(a), Nov. 5, 1990, 104 Stat. 1388–397; Pub. L. 102–241, §53, Dec. 19, 1991, 105 Stat. 2232; Pub. L. 102–582, title V, §501(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title V, §5207, Nov. 4, 1992, 106 Stat. 5075; Pub. L. 104–324, title XI, §1112, Oct. 19, 1996, 110 Stat. 3970; Pub. L. 105–383, title II, §207, Nov. 13, 1998, 112 Stat. 3416; Pub. L. 107–295, title III, §344, Nov. 25, 2002, 116 Stat. 2106; Pub. L. 109–304, §15(6), Oct. 6, 2006, 120 Stat. 1702.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 507; Pub. L. 99–509, title V, §5102(b)(4), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–710, title I, §104(a)(3), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–508, title X, §10401(a), Nov. 5, 1990, 104 Stat. 1388–397; Pub. L. 102–241, §53, Dec. 19, 1991, 105 Stat. 2232; Pub. L. 102–582, title V, §501(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title V, §5207, Nov. 4, 1992, 106 Stat. 5075; Pub. L. 104–324, title XI, §1112, Oct. 19, 1996, 110 Stat. 3970; Pub. L. 105–383, title II, §207, Nov. 13, 1998, 112 Stat. 3416; Pub. L. 107–295, title III, §344, Nov. 25, 2002, 116 Stat. 2106; Pub. L. 109–304, §15(6), Oct. 6, 2006, 120 Stat. 1702; Pub. L. 113–281, title III, §311(a), Dec. 18, 2014, 128 Stat. 3047.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	2110 	46:331
@@ -1869,7 +1854,7 @@ The strategy shall include the issuance each year of an annual plan and schedule
 
 (C) To improve the quality and effectiveness of marine safety information databases by ensuring that all Coast Guard personnel accurately and effectively report all safety, casualty, and injury information.
 
-(D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c).1
+(D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) of title 14.
 
 (2) Resource needs.—The strategy and annual plans shall include estimates of—
 
@@ -1887,17 +1872,15 @@ The strategy shall include the issuance each year of an annual plan and schedule
 
 (A) on the performance of the marine safety program in achieving the goals of the marine safety strategy and annual plan under subsection (a) for the year covered by the report;
 
-(B) on the program's mission performance in achieving numerical measurable goals established under subsection (b); and
+(B) on the program's mission performance in achieving numerical measurable goals established under subsection (b), including—
+
+(i) the number of civilian and military Coast Guard personnel assigned to marine safety positions; and
+
+(ii) an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plans under subsection (a); and
 
 (C) recommendations on how to improve performance of the program.
 
-(Added Pub. L. 111–281, title V, §522(a), Oct. 15, 2010, 124 Stat. 2956.)
-
-References in Text
-
-Section 93(c), referred to in subsec. (b)(1)(D), probably means section 93(c) of Title 14, Coast Guard, which relates to marine safety responsibilities of the Commandant of the Coast Guard.
-
-1 See References in Text note below.
+(Added Pub. L. 111–281, title V, §522(a), Oct. 15, 2010, 124 Stat. 2956; amended Pub. L. 113–281, title II, §221(b)(1)(A), title III, §307(a), Dec. 18, 2014, 128 Stat. 3037, 3045.)
 
 §2117. Termination for unsafe operation
 
@@ -3314,9 +3297,22 @@ The representatives shall serve without compensation, except for necessary trave
 
 (e) The Secretary shall revoke a delegation made to a classification society under subsection (b) or (d) if the Secretary of State determines that the classification society provides comparable services in or for a state sponsor of terrorism.
 
-(f) In this section, the term "state sponsor of terrorism" means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+(f)(1) Upon request of an owner or operator of an offshore supply vessel, the Secretary shall delegate the authorities set forth in paragraph (1) of subsection (b) with respect to such vessel to a classification society to which a delegation is authorized under that paragraph.
+A delegation by the Secretary under this subsection shall be used for any vessel inspection and examination function carried out by the Secretary, including the issuance of certificates of inspection and all other related documents.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978; Pub. L. 112–213, title III, §304, Dec. 20, 2012, 126 Stat. 1563.)
+(2) If the Secretary determines that a certificate of inspection or related document issued under authority delegated under paragraph (1) of this subsection with respect to a vessel has reduced the operational safety of that vessel, the Secretary may terminate the certificate or document, respectively.
+
+(3) Not later than 2 years after the date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, and for each year of the subsequent 2-year period, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing—
+
+(A) the number of vessels for which a delegation was made under paragraph (1);
+
+(B) any savings in personnel and operational costs incurred by the Coast Guard that resulted from the delegations; and
+
+(C) based on measurable marine casualty and other data, any impacts of the delegations on the operational safety of vessels for which the delegations were made, and on the crew on those vessels.
+
+(g) In this section, the term "state sponsor of terrorism" means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978; Pub. L. 112–213, title III, §304, Dec. 20, 2012, 126 Stat. 1563; Pub. L. 113–281, title III, §315, Dec. 18, 2014, 128 Stat. 3050.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	3316 	46:9 (less (c))46:369
@@ -3333,14 +3329,16 @@ However, a "similar classification society" continues to mean one that is organi
 
 References in Text
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (f), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
+The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 113–281, which was approved Dec. 18, 2014.
 
-The International Emergency Economic Powers Act, referred to in subsec. (f), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
+
+The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense.
 For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (f), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
+Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (g), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
 
-Section 40 of the Arms Export Control Act, referred to in subsec. (f), is classified to section 2780 of Title 22, Foreign Relations and Intercourse.
+Section 40 of the Arms Export Control Act, referred to in subsec. (g), is classified to section 2780 of Title 22, Foreign Relations and Intercourse.
 
 Transfer of Functions
 
@@ -3361,6 +3359,84 @@ Historical and Revision Notes	Revised section	Source section (U.S. Code)
 Section 3317 provides the regulatory authority for prescribing fees for the inspection of small passenger vessels and sailing school vessels.
 Although section 2110 generally prohibits fees of this nature, this provision is consistent with the exception that permits specific statutory authorization for fee collection.
 Subsection (b) requires the reimbursement of expenses for the conduct of an inspection or examination at a foreign port or place when done there for the convenience of the owner or operator of the vessel.
+
+Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+§3318. Penalties
+
+(a) Except as otherwise provided in this part, the owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this part or a regulation prescribed under this part, and a person violating a regulation that applies to a small passenger vessel, freight vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, or sailing school vessel, are liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
+
+(b)(1) A person that knowingly manufactures, sells, offers for sale, or possesses with intent to sell, any equipment subject to this part, and the equipment is so defective as to be insufficient to accomplish the purpose for which it is intended, commits a class D felony.
+
+(2) A person commits a class D felony if the person—
+
+(A) alters or services lifesaving, fire safety, or any other equipment subject to this part for compensation; and
+
+(B) by that alteration or servicing, intentionally renders that equipment unsafe and unfit for the purpose for which it is intended.
+
+(c) A person that employs a means or device whereby a boiler may be subjected to a pressure greater than allowed by the terms of the vessel's certificate of inspection commits a class D felony.
+
+(d) A person that deranges or hinders the operation of any machinery or device employed on a vessel to denote the state of steam or water in any boiler or to give warning of approaching danger, or permits the water level of any boiler when in operation of a vessel to fall below its prescribed low-water line, commits a class D felony.
+
+(e) A person that alters, defaces, obliterates, removes, or destroys any plans or specifications required by and approved under a regulation prescribed under section 3306 of this title, with intent to deceive or impede any official of the United States in carrying out that official's duties, commits a class A misdemeanor.
+
+(f) A person commits a class D felony if the person—
+
+(1) forges or counterfeits with intent to make it appear genuine any mark or stamp prescribed for material to be tested and approved under section 3306 of this title or a regulation prescribed under section 3306;
+
+(2) knowingly uses, affixes, or causes to be used or affixed, any such forged or counterfeited mark or stamp to or on material of any description;
+
+(3) with fraudulent intent, possesses any such mark, stamp, or other device knowing it to be forged or counterfeited; or
+
+(4) with fraudulent intent, marks or causes to be marked with the trademark or name of another, material required to be tested and approved under section 3306 of this title or a regulation prescribed under section 3306.
+
+(g) A person is liable to the Government for a civil penalty of not more than $5,000, if the person—
+
+(1) interferes with the inspection of a nautical school vessel;
+
+(2) violates a regulation prescribed for a nautical school vessel;
+
+(3) is an owner of a nautical school vessel operated in violation of this part; or
+
+(4) is an officer or member of the board of directors of a school, organization, association, partnership, or corporation owning a nautical school vessel operated in violation of a regulation prescribed for a nautical school vessel.
+
+(h) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel that fails to give the notice required by section 3304(b) of this title is liable to the Government for a civil penalty of not more than $1,000. The vessel also is liable in rem for the penalty.
+
+(i) A person violating section 3309(c) of this title is liable to the Government for a civil penalty of not more than $1,000.
+
+(j)(1) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel required to be inspected under this chapter operating the vessel without the certificate of inspection is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs, except when the violation involves operation of a vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, the penalty is not more than $2,000 for each day during which the violation occurs.
+The vessel also is liable in rem for the penalty.
+
+(2) A person is not liable for a penalty under this subsection if—
+
+(A) the owner, charterer, managing operator, agent, master, or individual in charge of the vessel has notified the Secretary under section 3309(c) of this title;
+
+(B) the owner, charterer, managing operator, agent, master, or individual in charge of the vessel has complied with all other directions and requirements for obtaining an inspection under this part; and
+
+(C) the Secretary believes that unforeseen circumstances exist so that it is not feasible to conduct a scheduled inspection before the expiration of the certificate of inspection.
+
+(k) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to comply with a direction issued by the Secretary under section 3311(b) of this title is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs.
+The vessel also is liable in rem for the penalty.
+
+(l) A person committing an act described by subsections (b)–(f) of this section is liable to the Government for a civil penalty of not more than $5,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 517; Pub. L. 98–498, title II, §211(c), Oct. 19, 1984, 98 Stat. 2304; Pub. L. 99–307, §1(6), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §4302(b), Aug. 18, 1990, 104 Stat. 538; Pub. L. 104–324, title III, §310, title VII, §713, Oct. 19, 1996, 110 Stat. 3919, 3936; Pub. L. 109–304, §15(13), Oct. 6, 2006, 120 Stat. 1703.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	3318 	46:369(e)46:390d
+46:398
+46:403
+46:407
+46:408
+46:410
+46:413
+46:436
+46:481(d)
+46:1295f(d)(2), (3)
+
+Section 3318 provides for a number of specific civil and criminal penalties.
 
 CHAPTER 35—CARRIAGE OF PASSENGERS
 
@@ -3535,6 +3611,386 @@ Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	3505 	46:362(c)
 
 Section 3505 prohibits the departure from a United States port or place of any passenger vessel of more than 100 gross tons having berthing for at least 50 passengers, if the vessel does not comply with the international maritime safety standards applicable to United States vessels.
+
+International Convention for Safety of Life at Sea
+
+For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+
+§3506. Copies of laws
+
+A master of a passenger vessel shall keep on board a copy of this subtitle, to be provided by the Secretary at reasonable cost.
+If the master fails to do so, the master is liable to the United States Government for a civil penalty of $200.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 520.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	3506 	46:492
+
+Section 3506 requires the master of a passenger vessel to keep on board a copy of subtitle II of title 46, U.S.C. Copies of the subtitle shall be provided by the Secretary at reasonable cost.
+
+§3507. Passenger vessel security and safety requirements
+
+(a) Vessel Design, Equipment, Construction, and Retrofitting Requirements.—
+
+(1) In general.—Each vessel to which this subsection applies shall comply with the following design and construction standards:
+
+(A) The vessel shall be equipped with ship rails that are located not less than 42 inches above the cabin deck.
+
+(B) Each passenger stateroom and crew cabin shall be equipped with entry doors that include peep holes or other means of visual identification.
+
+(C) For any vessel the keel of which is laid after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, each passenger stateroom and crew cabin shall be equipped with—
+
+(i) security latches; and
+
+(ii) time-sensitive key technology.
+
+(D) The vessel shall integrate technology that can be used for capturing images of passengers or detecting passengers who have fallen overboard, to the extent that such technology is available.
+
+(E) The vessel shall be equipped with a sufficient number of operable acoustic hailing or other such warning devices to provide communication capability around the entire vessel when operating in high risk areas (as defined by the United States Coast Guard).
+
+(2) Fire safety codes.—In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
+
+(3) Effective date.—
+
+(A) In general.—Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
+
+(B) Latch and key requirements.—The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
+
+(b) Video Recording.—
+
+(1) Requirement to maintain surveillance.—The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes, as determined by the Secretary.
+
+(2) Access to video records.—The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
+
+(c) Safety Information.—
+
+(1) Criminal Activity Prevention and Response Guide.—The owner of a vessel to which this section applies (or the owner's designee) shall—
+
+(A) have available for each passenger a guide (referred to in this subsection as the "security guide"), written in commonly understood English, which—
+
+(i) provides a description of medical and security personnel designated on board to prevent and respond to criminal and medical situations with 24 hour contact instructions;
+
+(ii) describes the jurisdictional authority applicable, and the law enforcement processes available, with respect to the reporting of homicide, suspicious death, a missing United States national, kidnapping, assault with serious bodily injury, any offense to which section 2241, 2242, 2243, or 2244(a) or (c) of title 18 applies, firing or tampering with the vessel, or theft of money or property in excess of $10,000, together with contact information for the appropriate law enforcement authorities for missing persons or reportable crimes which arise—
+
+(I) in the territorial waters of the United States;
+
+(II) on the high seas; or
+
+(III) in any country to be visited on the voyage;
+
+(B) provide a copy of the security guide to the Federal Bureau of Investigation for comment; and
+
+(C) publicize the security guide on the website of the vessel owner.
+
+(2) Embassy and consulate locations.—The owner of a vessel to which this section applies shall provide in each passenger stateroom, and post in a location readily accessible to all crew and in other places specified by the Secretary, information regarding the locations of the United States embassy and each consulate of the United States for each country the vessel will visit during the course of the voyage.
+
+(d) Sexual Assault.—The owner of a vessel to which this section applies shall—
+
+(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
+
+(2) maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
+
+(3) make available on the vessel at all times medical staff who have undergone a credentialing process to verify that he or she—
+
+(A) possesses a current physician's or registered nurse's license and—
+
+(i) has at least 3 years of post-graduate or post-registration clinical practice in general and emergency medicine; or
+
+(ii) holds board certification in emergency medicine, family practice medicine, or internal medicine;
+
+(B) is able to provide assistance in the event of an alleged sexual assault, has received training in conducting forensic sexual assault examination, and is able to promptly perform such an examination upon request and provide proper medical treatment of a victim, including administration of anti-retroviral medications and other medications that may prevent the transmission of human immunodeficiency virus and other sexually transmitted diseases; and
+
+(C) meets guidelines established by the American College of Emergency Physicians relating to the treatment and care of victims of sexual assault;
+
+(4) prepare, provide to the patient, and maintain written documentation of the findings of such examination that is signed by the patient; and
+
+(5) provide the patient free and immediate access to—
+
+(A) contact information for local law enforcement, the Federal Bureau of Investigation, the United States Coast Guard, the nearest United States consulate or embassy, and the National Sexual Assault Hotline program or other third party victim advocacy hotline service; and
+
+(B) a private telephone line and Internet-accessible computer terminal by which the individual may confidentially access law enforcement officials, an attorney, and the information and support services available through the National Sexual Assault Hotline program or other third party victim advocacy hotline service.
+
+(e) Confidentiality of Sexual Assault Examination and Support Information.—The master or other individual in charge of a vessel to which this section applies shall—
+
+(1) treat all information concerning an examination under subsection (d) confidential, so that no medical information may be released to the cruise line or other owner of the vessel or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin, except that nothing in this paragraph prohibits the release of—
+
+(A) information, other than medical findings, necessary for the owner or master of the vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
+
+(B) information to secure the safety of passengers or crew on board the vessel; or
+
+(C) any information to law enforcement officials performing official duties in the course and scope of an investigation; and
+
+(2) treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin.
+
+(f) Crew Access to Passenger Staterooms.—The owner of a vessel to which this section applies shall—
+
+(1) establish and implement procedures and restrictions concerning—
+
+(A) which crewmembers have access to passenger staterooms; and
+
+(B) the periods during which they have that access; and
+
+(2) ensure that the procedures and restrictions are fully and properly implemented and periodically reviewed.
+
+(g) Log Book and Reporting Requirements.—
+
+(1) In general.—The owner of a vessel to which this section applies shall—
+
+(A) record in a log book, either electronically or otherwise, in a centralized location readily accessible to law enforcement personnel, a report on—
+
+(i) all complaints of crimes described in paragraph (3)(A)(i),
+
+(ii) all complaints of theft of property valued in excess of $1,000, and
+
+(iii) all complaints of other crimes,
+
+committed on any voyage that embarks or disembarks passengers in the United States; and
+
+(B) make such log book available upon request to any agent of the Federal Bureau of Investigation, any member of the United States Coast Guard, and any law enforcement officer performing official duties in the course and scope of an investigation.
+
+(2) Details required.—The information recorded under paragraph (1) shall include, at a minimum—
+
+(A) the vessel operator;
+
+(B) the name of the cruise line;
+
+(C) the flag under which the vessel was operating at the time the reported incident occurred;
+
+(D) the age and gender of the victim and the accused assailant;
+
+(E) the nature of the alleged crime or complaint, as applicable, including whether the alleged perpetrator was a passenger or a crewmember;
+
+(F) the vessel's position at the time of the incident, if known, or the position of the vessel at the time of the initial report;
+
+(G) the time, date, and method of the initial report and the law enforcement authority to which the initial report was made;
+
+(H) the time and date the incident occurred, if known;
+
+(I) the total number of passengers and the total number of crew members on the voyage; and
+
+(J) the case number or other identifier provided by the law enforcement authority to which the initial report was made.
+
+(3) Requirement to report crimes and other information.—
+
+(A) In general.—The owner of a vessel to which this section applies (or the owner's designee)—
+
+(i) shall contact the nearest Federal Bureau of Investigation Field Office or Legal Attache by telephone as soon as possible after the occurrence on board the vessel of an incident involving homicide, suspicious death, a missing United States national, kidnapping, assault with serious bodily injury, any offense to which section 2241, 2242, 2243, or 2244(a) or (c) of title 18 applies, firing or tampering with the vessel, or theft of money or property in excess of $10,000 to report the incident;
+
+(ii) shall furnish a written report of each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A);
+
+(iii) may report any serious incident that does not meet the reporting requirements of clause (i) and that does not require immediate attention by the Federal Bureau of Investigation via the Internet website maintained by the Secretary of Transportation under paragraph (4)(A); and
+
+(iv) may report any other criminal incident involving passengers or crewmembers, or both, to the proper State or local government law enforcement authority.
+
+(B) Incidents to which subparagraph (A) applies.—Subparagraph (A) applies to an incident involving criminal activity if—
+
+(i) the vessel, regardless of registry, is owned, in whole or in part, by a United States person, regardless of the nationality of the victim or perpetrator, and the incident occurs when the vessel is within the admiralty and maritime jurisdiction of the United States and outside the jurisdiction of any State;
+
+(ii) the incident concerns an offense by or against a United States national committed outside the jurisdiction of any nation;
+
+(iii) the incident occurs in the Territorial Sea of the United States, regardless of the nationality of the vessel, the victim, or the perpetrator; or
+
+(iv) the incident concerns a victim or perpetrator who is a United States national on a vessel during a voyage that departed from or will arrive at a United States port.
+
+(4) Availability of incident data via internet.—
+
+(A) Website.—
+
+(i) In general.—The Secretary of Transportation shall maintain a statistical compilation of all incidents on board a cruise vessel specified in paragraph (3)(A)(i) on an Internet website that provides a numerical accounting of the missing persons and alleged crimes reported under that paragraph without regard to the investigative status of the incident.
+
+(ii) Updates and other requirements.—The compilation under clause (i) shall—
+
+(I) be updated not less frequently than quarterly;
+
+(II) be able to be sorted by cruise line;
+
+(III) identify each cruise line by name;
+
+(IV) identify each crime or alleged crime committed or allegedly committed by a passenger or crewmember;
+
+(V) identify the number of individuals alleged overboard; and
+
+(VI) include the approximate number of passengers and crew carried by each cruise line during each quarterly reporting period.
+
+(iii) User-friendly format.—The Secretary of Transportation shall ensure that the compilation, data, and any other information provided on the Internet website maintained under this subparagraph are in a user-friendly format.
+The Secretary shall, to the greatest extent practicable, use existing commercial off the shelf technology to transfer and establish the website, and shall not independently develop software, or acquire new hardware in operating the site.
+
+(B) Access to website.—Each cruise line taking on or discharging passengers in the United States shall include a link on its Internet website to the website maintained by the Secretary of Transportation under subparagraph (A).
+
+(h) Enforcement.—
+
+(1) Penalties.—
+
+(A) Civil penalty.—Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $25,000 for each day during which the violation continues, except that the maximum penalty for a continuing violation is $50,000.
+
+(B) Criminal penalty.—Any person that willfully violates this section or a regulation under this section shall be fined not more than $250,000 or imprisoned not more than 1 year, or both.
+
+(2) Denial of entry.—The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
+
+(A) commits an act or omission for which a penalty may be imposed under this subsection; or
+
+(B) fails to pay a penalty imposed on the owner under this subsection.
+
+(i) Procedures.—Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
+
+(j) Regulations.—The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
+
+(k) Application.—
+
+(1) In general.—This section and section 3508 apply to a passenger vessel (as defined in section 2101(22)) that—
+
+(A) is authorized to carry at least 250 passengers;
+
+(B) has onboard sleeping facilities for each passenger;
+
+(C) is on a voyage that embarks or disembarks passengers in the United States; and
+
+(D) is not engaged on a coastwise voyage.
+
+(2) Federal and state vessels.—This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
+
+(l) Definitions.—In this section and section 3508:
+
+(1) Commandant.—The term "Commandant" means the Commandant of the Coast Guard.
+
+(2) Owner.—The term "owner" means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
+
+(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244; amended Pub. L. 113–281, title III, §321, Dec. 18, 2014, 128 Stat. 3054.)
+
+References in Text
+
+The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a)(1)(C), (3) and (i), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+
+Findings
+
+Pub. L. 111–207, §2, July 27, 2010, 124 Stat. 2243, provided that: "The Congress makes the following findings:
+
+"(1) There are approximately 200 overnight ocean-going cruise vessels worldwide.
+The average ocean-going cruise vessel carries 2,000 passengers with a crew of 950 people.
+
+"(2) In 2007 alone, approximately 12,000,000 passengers were projected to take a cruise worldwide.
+
+"(3) Passengers on cruise vessels have an inadequate appreciation of their potential vulnerability to crime while on ocean voyages, and those who may be victimized lack the information they need to understand their legal rights or to know whom to contact for help in the immediate aftermath of the crime.
+
+"(4) Sexual violence, the disappearance of passengers from vessels on the high seas, and other serious crimes have occurred during luxury cruises.
+
+"(5) Over the last 5 years, sexual assault and physical assaults on cruise vessels were the leading crimes investigated by the Federal Bureau of Investigation with regard to cruise vessel incidents.
+
+"(6) These crimes at sea can involve attacks both by passengers and crewmembers on other passengers and crewmembers.
+
+"(7) Except for United States flagged vessels, or foreign flagged vessels operating in an area subject to the direct jurisdiction of the United States, there are no Federal statutes or regulations that explicitly require cruise lines to report alleged crimes to United States Government officials.
+
+"(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many people have disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public.
+
+"(9) Obtaining reliable crime-related cruise data from governmental sources can be difficult, because multiple countries may be involved when a crime occurs on the high seas, including the flag country for the vessel, the country of citizenship of particular passengers, and any countries having special or maritime jurisdiction.
+
+"(10) It can be difficult for professional crime investigators to immediately secure an alleged crime scene on a cruise vessel, recover evidence of an onboard offense, and identify or interview potential witnesses to the alleged crime.
+
+"(11) Most cruise vessels that operate into and out of United States ports are registered under the laws of another country, and investigations and prosecutions of crimes against passengers and crewmembers may involve the laws and authorities of multiple nations.
+
+"(12) The Department of Homeland Security has found it necessary to establish 500-yard security zones around cruise vessels to limit the risk of terrorist attack.
+Recently piracy has dramatically increased throughout the world.
+
+"(13) To enhance the safety of cruise passengers, the owners of cruise vessels could upgrade, modernize, and retrofit the safety and security infrastructure on such vessels by installing peep holes in passenger room doors, installing security video cameras in targeted areas, limiting access to passenger rooms to select staff during specific times, and installing acoustic hailing and warning devices capable of communicating over distances."
+
+§3508. Crime scene preservation training for passenger vessel crewmembers
+
+(a) In General.—Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall develop training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment.
+The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
+
+(b) Minimum Standards.—The standards established by the Secretary under subsection (a) shall include—
+
+(1) the training and certification of vessel security personnel, crewmembers, and law enforcement officials in accordance with accepted law enforcement and security guidelines, policies, and procedures, including recommendations for incorporating a background check process for personnel trained and certified in foreign ports;
+
+(2) the training of students and instructors in all aspects of prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment; and
+
+(3) the provision or recognition of off-site training and certification courses in the United States and foreign countries to develop and provide the required training and certification described in subsection (a) and to enhance security awareness and security practices related to the preservation of evidence in response to crimes on board passenger vessels.
+
+(c) Certification Requirement.—Beginning 2 years after the standards are established under subsection (b), no vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
+
+(d) Interim Training Requirement.—No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who has been properly trained in the prevention detection, evidence preservation and the reporting requirements of criminal activities in the international maritime environment.
+The owner of a such a vessel shall maintain certification or other documentation, as prescribed by the Secretary, verifying the training of such individual and provide such documentation upon request for inspection in connection with enforcement of the provisions of this section.
+This subsection shall take effect 1 year after the date of enactment of the Cruise Vessel Safety and Security Act of 2010 and shall remain in effect until superseded by the requirements of subsection (c).
+
+(e) Civil Penalty.—Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $50,000.
+
+(f) Denial of Entry.—The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
+
+(1) commits an act or omission for which a penalty may be imposed under subsection (e); or
+
+(2) fails to pay a penalty imposed on the owner under subsection (e).
+
+(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2250.)
+
+References in Text
+
+The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a) and (d), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+
+CHAPTER 37—CARRIAGE OF LIQUID BULK DANGEROUS CARGOES
+
+Sec.
+
+3701.
+Definitions.
+
+3702.
+Application.
+
+3703.
+Regulations.
+
+3703a.
+Tank vessel construction standards.
+
+3704.
+Coastwise trade vessels.
+
+3705.
+Crude oil tanker minimum standards.
+
+3706.
+Product carrier minimum standards.
+
+3707.
+Tanker minimum standards.
+
+3708.
+Self-propelled tank vessel minimum standards.
+
+3709.
+Exemptions.
+
+3710.
+Evidence of compliance by vessels of the United States.
+
+3711.
+Evidence of compliance by foreign vessels.
+
+3712.
+Notification of noncompliance.
+
+3713.
+Prohibited acts.
+
+3714.
+Inspection and examination.
+
+3715.
+Lightering.
+
+3716.
+Tank washings.
+
+3717.
+Marine safety information system.
+
+3718.
+Penalties.
+
+3719.
+Reduction of oil spills from single hull non-self-propelled tank vessels.
+
+        
 
 Historical and Revision Notes
 
@@ -4629,18 +5085,26 @@ Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529, required Secretary to pre
 
 (a) Chapter 43 of this title applies to an uninspected passenger vessel.
 
-(b) Within twenty-four months of the date of enactment of this subsection, the Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in section 2101(42)(A) of this title.
+(b)(1) In applying this title with respect to an uninspected vessel of less than 24 meters overall in length that carries passengers to or from a port in the United States Virgin Islands, the Secretary shall substitute "12 passengers" for "6 passengers" each place it appears in section 2101(42) if the Secretary determines that the vessel complies with, as applicable to the vessel—
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529; Pub. L. 103–206, title V, §511(b), Dec. 20, 1993, 107 Stat. 2442.)
+(A) the Code of Practice for the Safety of Small Commercial Motor Vessels (commonly referred to as the "Yellow Code"), as published by the U.K. Maritime and Coastguard Agency and in effect on January 1, 2014; or
+
+(B) the Code of Practice for the Safety of Small Commercial Sailing Vessels (commonly referred to as the "Blue Code"), as published by such agency and in effect on such date.
+
+(2) If the Secretary establishes standards to carry out this subsection—
+
+(A) such standards shall be identical to those established in the Codes of Practice referred to in paragraph (1); and
+
+(B) on any dates before the date on which such standards are in effect, the Codes of Practice referred to in paragraph (1) shall apply with respect to the vessels referred to in paragraph (1).
+
+(c) The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in section 2101(42)(A) of this title.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529; Pub. L. 103–206, title V, §511(b), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 113–281, title III, §319, Dec. 18, 2014, 128 Stat. 3051.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	4105 	46:145246:1453
 
 Section 4105 provides that an uninspected passenger vessel is subject to Chapter 43, as a recreational vessel even when it is carrying not more than six passengers.
-
-References in Text
-
-The date of enactment of this subsection, referred to in subsec. (b), is the date of enactment of Pub. L. 103–206, which was approved Dec. 20, 1993.
 
 §4106. Penalties
 
@@ -5170,7 +5634,7 @@ The regulations shall require that individuals who are issued a certificate unde
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2014 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2015 through 2017 for grants under this subsection.
 
 (j)(1) The Secretary shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
 
@@ -5178,9 +5642,9 @@ The regulations shall require that individuals who are issued a certificate unde
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each fiscal years 2010 through 2014 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each fiscal years 2015 through 2017 for activities under this subsection.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 113–281, title III, §309, Dec. 18, 2014, 128 Stat. 3045.)
 
 Studies Regarding Safety of Fishing Vessels
 
@@ -6126,8 +6590,7 @@ The regulations shall require reporting the following marine casualties:
 (b) A marine casualty shall be reported within 5 days as provided in this part and regulations prescribed under this part.
 Each report filed under this section shall include information as to whether the use of alcohol contributed to the casualty.
 
-[(c) Repealed.
-Pub. L. 98–498, title II, §212(b)(1)(B), Oct. 19, 1984, 98 Stat. 2306.]
+(c) Notice to State and Tribal Governments.—Not later than 24 hours after receiving a notice of a major marine casualty under this section, the Secretary shall notify each State or federally recognized Indian tribe that is, or may reasonably be expected to be, affected by such marine casualty.
 
 (d)(1) This part applies to a foreign vessel when involved in a marine casualty on the navigable waters of the United States.
 
@@ -6155,21 +6618,21 @@ Pub. L. 98–498, title II, §212(b)(1)(B), Oct. 19, 1984, 98 Stat. 2306.]
 
 (g) To the extent consistent with generally recognized practices and procedures of international law, this part applies to a foreign vessel involved in a marine casualty or incident, as defined in the International Maritime Organization Code for the Investigation of Marine Casualties and Incidents, where the United States is a Substantially Interested State and is, or has the consent of, the Lead Investigating State under the Code.
 
-(h)(1) The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
+(h) The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
 
-(2) For purposes of this paragraph, the term "major marine casualty" means a casualty involving a vessel, other than a public vessel, that results in—
+(i) For purposes of this section, the term "major marine casualty" means a casualty involving a vessel, other than a public vessel, that results in—
 
-(A) the loss of 6 or more lives;
+(1) the loss of 6 or more lives;
 
-(B) the loss of a mechanically propelled vessel of 100 or more gross tons;
+(2) the loss of a mechanically propelled vessel of 100 or more gross tons;
 
-(C) property damage initially estimated at $500,000 or more; or
+(3) property damage initially estimated at $500,000 or more; or
 
-(D) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
+(4) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
 
-(i) The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
+(j) The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(o), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(o), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603; Pub. L. 113–281, title III, §312, Dec. 18, 2014, 128 Stat. 3048.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	6101 	46:23946:1486
@@ -6551,7 +7014,13 @@ Merchant Mariner Medical Advisory Committee.
 
 (i) The Secretary shall require the testing of an individual who applies for issuance or renewal of a license or certificate of registry under this chapter for use of a dangerous drug in violation of law or Federal regulation.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 539; Pub. L. 98–557, §29(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 101–380, title IV, §4101(a), Aug. 18, 1990, 104 Stat. 509; Pub. L. 104–324, title VII, §720, Oct. 19, 1996, 110 Stat. 3938.)
+(j) The Secretary may issue a license under this section in a class under subsection (c) to an applicant that—
+
+(1) has at least 3 months of qualifying service on vessels of the uniformed services (as that term is defined in section 101(a) of title 10) of appropriate tonnage or horsepower within the 7-year period immediately preceding the date of application; and
+
+(2) satisfies all other requirements for such a license.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 539; Pub. L. 98–557, §29(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 101–380, title IV, §4101(a), Aug. 18, 1990, 104 Stat. 509; Pub. L. 104–324, title VII, §720, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 113–281, title III, §305(a), Dec. 18, 2014, 128 Stat. 3043.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	7101 	46:214
@@ -6902,6 +7371,10 @@ Historical and Revision Notes	Revised section	Source section (U.S. Code)
 Section 7301 defines "service on deck", "one year's service" and "day" with respect to the qualifying time for the issuance of various types of endorsements as able seamen.
 This section also provides the Secretary with the authority to prescribe regulations to carry out this chapter.
 
+Merchant Marine Post-Service Career Opportunities
+
+Pub. L. 113–281, title III, §305(d), Dec. 18, 2014, 128 Stat. 3044, provided that: "Not later than 180 days after the date of enactment of this Act [Dec. 18, 2014], the Commandant of the Coast Guard shall take steps to promote better awareness, on an ongoing basis, among Coast Guard personnel regarding post-service use of Coast Guard training, education, and practical experience in satisfaction of requirements for merchant mariner credentials under section 11.213 of title 46, Code of Federal Regulations."
+
 §7302. Issuing merchant mariners' documents and continuous discharge books
 
 (a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part.
@@ -6940,6 +7413,14 @@ Section 7302(a) requires the Secretary to issue a merchant mariner's document to
 The purpose of the document is to serve as positive identification and to specify each rating in which the individual is qualified to serve on vessels.
 
 Subsection (b) allows the Secretary to issue a continuous discharge book to an individual who requests a book.
+
+Crediting of United States Armed Forces Service, Training, and Qualifications
+
+Pub. L. 113–281, title III, §305(c), Dec. 18, 2014, 128 Stat. 3044, provided that:
+
+"(1) Maximizing creditability.—The Secretary of the department in which the Coast Guard is operating, in implementing United States merchant mariner license, certification, and document laws and the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, shall maximize the extent to which United States Armed Forces service, training, and qualifications are creditable toward meeting the requirements of such laws and such Convention.
+
+"(2) Notification.—Not later than 90 days after the date of enactment of this Act [Dec. 18, 2014], the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the steps taken to implement this subsection."
 
 Merchant Mariners' Documents Pilot Program
 
@@ -7556,55 +8037,17 @@ Section 7705 allows officials designated to investigate or preside at hearings o
 
 §7706. Drug testing reporting
 
-(a) Release of Drug Test Results to Coast Guard.—Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant of the Coast Guard the report.
+(a) Release of Drug Test Results to Coast Guard.—Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an applicant for employment by a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant of the Coast Guard the report.
 
 (b) Standards, Procedures, and Regulations.—The head of a Federal agency shall carry out a release under subsection (a) in accordance with the standards, procedures, and regulations applicable to the disclosure and reporting to the Coast Guard of drug tests results and drug test records of individuals employed on vessels documented under the laws of the United States.
 
-(c) Waiver.—Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note), the report of a drug test of an employee may be released under this section without the prior written consent of the employee.
+(c) Waiver.—Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note), the report of a drug test of an employee or an applicant for employment by a Federal agency may be released under this section without the prior written consent of the employee or the applicant.
 
-(Added Pub. L. 108–293, title IV, §414(a), Aug. 9, 2004, 118 Stat. 1046.)
+(Added Pub. L. 108–293, title IV, §414(a), Aug. 9, 2004, 118 Stat. 1046; amended Pub. L. 113–281, title III, §304, Dec. 18, 2014, 128 Stat. 3043.)
 
 References in Text
 
 Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (c), is section 503(e) of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
-
-Part F—Manning of Vessels
-
-Historical and Revision Notes
-
-Part F provides for the manning of vessels including requirements generally for the number of individuals required, qualifications and conditions of employment, and duties; for masters and other licenses and registered individuals; for pilots; for unlicensed personnel; for small vessels; for tank vessels; and for pilotage on the Great Lakes.
-The Committee intends that all manning provisions throughout this subtitle will be interpreted to be consistent with one another.
-
-CHAPTER 81—GENERAL
-
-Sec.
-
-8101.
-Complement of inspected vessels.
-
-8102.
-Watchmen.
-
-8103.
-Citizenship and Navy Reserve requirements.
-
-8104.
-Watches.
-
-8105.
-Fishing vessel exemption.
-
-8106.
-Riding gangs.
-
-8107.
-Use of force against piracy.
-
-        
-
-Historical and Revision Notes
-
-Chapter 81 provides for the composition, citizenship, working hours, and other limitations affecting the complement of licensed individuals and crew on certain vessels, a safety watch onboard passenger vessels, membership in the Naval Reserve for certain deck and engineer officers, and penalties for violating, and regulatory authority for implementing its provisions.
 
 §8101. Complement of inspected vessels
 
@@ -7871,7 +8314,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Distant Water Tuna Fleet
 
-Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579, provided that:
+Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579; Pub. L. 113–281, title VI, §601, Dec. 18, 2014, 128 Stat. 3060, provided that:
 
 "(a) Manning Requirements.—Notwithstanding section 8103(a) of title 46, United States Code, United States purse seine fishing vessels fishing exclusively for highly migratory species in the treaty area under a fishing license issued pursuant to the 1987 Treaty on Fisheries Between the Governments of Certain Pacific Islands States and the Government of the United States of America, or transiting to or from the treaty area exclusively for such purpose, may engage foreign citizens to meet the manning requirement (except for the master) until the date of expiration of this section if, after timely notice of a vacancy to meet the manning requirement, no United States citizen personnel are readily available to fill such vacancy.
 
@@ -7881,13 +8324,9 @@ Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by 
 
 "(2) Treatment of credential.—An equivalent credential under paragraph (1) shall be considered as meeting the requirements of section 8304 of title 46, United States Code, but only while a person holding the credential is in the service of the vessel to which this section applies.
 
-"(c) Limitation.—Subsection (a) applies only to vessels operating in and out of American Samoa or Guam.
+"(c) Expiration.—This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 [Dec. 20, 2012].
 
-"(d) Expiration.—This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 [Dec. 20, 2012].
-
-"(e) Safety Inspections.—A vessel may not engage a foreign citizen to meet a manning requirement under this section unless it has an annual safety examination by an individual authorized to enforce part B of subtitle II of title 46, United States Code.
-
-"(f) Reports.—On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources [now Natural Resources] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
+"(d) Reports.—On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources [now Natural Resources] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
 
 "(1) The number and identity of vessels in the fleet using foreign citizens to meet manning requirements pursuant to this section and any marine casualties involving such vessel.
 
@@ -7922,7 +8361,7 @@ The period probably should be "; and".
 
 (c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
 
-(d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, coal passers, firemen, oilers, and water tenders shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel.
+(d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel.
 The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed.
 A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
 
@@ -7948,7 +8387,7 @@ A licensed individual or seaman in the deck or engine department may not be requ
 
 (4) performing fire, lifeboat, or other drills in port or at sea.
 
-(g)(1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen, oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
+(g)(1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers may be divided, when at sea, into at least 2 watches.
 
 (2) Paragraph (1) applies to an offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title if the individuals engaged on the vessel are in compliance with hours of service requirements (including recording and recordkeeping of that service) as prescribed by the Secretary.
 
@@ -7987,7 +8426,7 @@ In this subsection, "work" includes any administrative duties associated with th
 
 (p) The Secretary may prescribe the watchstanding and work hours requirements for an oil spill response vessel.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 549; Pub. L. 98–364, title IV, §402(11), July 17, 1984, 98 Stat. 448; Pub. L. 98–557, §33(c), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(12), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §§4114(b), 4302(f), Aug. 18, 1990, 104 Stat. 517, 538; Pub. L. 101–595, title VI, §602(e)(1), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 102–587, title V, §5212, Nov. 4, 1992, 106 Stat. 5077; Pub. L. 103–206, title III, §322(a), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §728, title XI, §§1104(c), 1114, Oct. 19, 1996, 110 Stat. 3939, 3967, 3971; Pub. L. 109–241, title III, §311(b), July 11, 2006, 120 Stat. 530; Pub. L. 111–281, title VI, §617(d), title IX, §903(a)(1), Oct. 15, 2010, 124 Stat. 2973, 3010.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 549; Pub. L. 98–364, title IV, §402(11), July 17, 1984, 98 Stat. 448; Pub. L. 98–557, §33(c), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(12), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §§4114(b), 4302(f), Aug. 18, 1990, 104 Stat. 517, 538; Pub. L. 101–595, title VI, §602(e)(1), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 102–587, title V, §5212, Nov. 4, 1992, 106 Stat. 5077; Pub. L. 103–206, title III, §322(a), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §728, title XI, §§1104(c), 1114, Oct. 19, 1996, 110 Stat. 3939, 3967, 3971; Pub. L. 109–241, title III, §311(b), July 11, 2006, 120 Stat. 530; Pub. L. 111–281, title VI, §617(d), title IX, §903(a)(1), Oct. 15, 2010, 124 Stat. 2973, 3010; Pub. L. 113–281, title III, §316, Dec. 18, 2014, 128 Stat. 3050.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	8104 	46:23546:405(b)
@@ -8148,6 +8587,94 @@ For International Conventions for the Safety of Life at Sea to which the United 
 Standard Rules for the Use of Force for Self-Defense of Vessels of the United States
 
 Pub. L. 111–281, title IX, §912(c), Oct. 15, 2010, 124 Stat. 3017, provided that: "Not later than 180 days after the date of enactment of this act [Oct. 15, 2010], the secretary [sic] of the department in which the coast guard [sic] is operating, in consultation with representatives of industry and labor, shall develop standard rules for the use of force for self-defense of vessels of the United States."
+
+§8108. Merchant Marine Personnel Advisory Committee
+
+(a) Establishment.—The Secretary shall establish a Merchant Marine Personnel Advisory Committee (in this section referred to as "the Committee"). The Committee—
+
+(1) shall act solely in an advisory capacity to the Secretary through the Commandant of the Coast Guard on matters relating to personnel in the United States merchant marine, including training, qualifications, certification, documentation, and fitness standards, and other matters as assigned by the Commandant;
+
+(2) shall review and comment on proposed Coast Guard regulations and policies relating to personnel in the United States merchant marine, including training, qualifications, certification, documentation, and fitness standards;
+
+(3) may be given special assignments by the Secretary and may conduct studies, inquiries, workshops, and fact finding in consultation with individuals and groups in the private sector and with State or local governments;
+
+(4) shall advise, consult with, and make recommendations reflecting its independent judgment to the Secretary;
+
+(5) shall meet not less than twice each year; and
+
+(6) may make available to Congress recommendations that the Committee makes to the Secretary.
+
+(b) Membership.—
+
+(1) In general.—The Committee shall consist of not more than 19 members who are appointed by and serve terms of a duration determined by the Secretary.
+Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
+
+(2) Required members.—Subject to paragraph (3), the Secretary shall appoint as members of the Committee—
+
+(A) 9 United States citizens with active licenses or certificates issued under chapter 71 or merchant mariner documents issued under chapter 73, including—
+
+(i) 3 deck officers who represent the viewpoint of merchant marine deck officers, of whom—
+
+(I) 2 shall be licensed for oceans any gross tons;
+
+(II) 1 shall be licensed for inland river route with a limited or unlimited tonnage;
+
+(III) 2 shall have a master's license or a master of towing vessels license;
+
+(IV) 1 shall have significant tanker experience; and
+
+(V) to the extent practicable—
+
+(aa) 1 shall represent the viewpoint of labor; and
+
+(bb) another shall represent a management perspective;
+
+(ii) 3 engineering officers who represent the viewpoint of merchant marine engineering officers, of whom—
+
+(I) 2 shall be licensed as chief engineer any horsepower;
+
+(II) 1 shall be licensed as either a limited chief engineer or a designated duty engineer; and
+
+(III) to the extent practicable—
+
+(aa) 1 shall represent a labor viewpoint; and
+
+(bb) another shall represent a management perspective;
+
+(iii) 2 unlicensed seamen, of whom—
+
+(I) 1 shall represent the viewpoint of able-bodied seamen; and
+
+(II) another shall represent the viewpoint of qualified members of the engine department; and
+
+(iv) 1 pilot who represents the viewpoint of merchant marine pilots;
+
+(B) 6 marine educators, including—
+
+(i) 3 marine educators who represent the viewpoint of maritime academies, including—
+
+(I) 2 who represent the viewpoint of State maritime academies and are jointly recommended by such State maritime academies; and
+
+(II) 1 who represents either the viewpoint of the State maritime academies or the United States Merchant Marine Academy; and
+
+(ii) 3 marine educators who represent the viewpoint of other maritime training institutions, 1 of whom shall represent the viewpoint of the small vessel industry;
+
+(C) 2 individuals who represent the viewpoint of shipping companies employed in ship operation management; and
+
+(D) 2 members who are appointed from the general public.
+
+(3) Consultation.—The Secretary shall consult with the Secretary of Transportation in making an appointment under paragraph (2)(B)(i)(II).
+
+(c) Chairman and Vice Chairman.—The Secretary shall designate one member of the Committee as the Chairman and one member of the Committee as the Vice Chairman.
+The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
+
+(d) Subcommittees.—The Committee may establish and disestablish subcommittees and working groups for any purpose consistent with this section, subject to conditions imposed by the Committee.
+Members of the Committee and additional persons drawn from the general public may be assigned to such subcommittees and working groups.
+Only Committee members may chair subcommittee or working groups.
+
+(e) Termination.—The Committee shall terminate on September 30, 2020.
+
+(Added Pub. L. 113–281, title III, §310(a), Dec. 18, 2014, 128 Stat. 3045.)
 
 CHAPTER 83—MASTERS AND OFFICERS
 
@@ -10538,6 +11065,9 @@ Limit on amount recoverable on voyage.
 11112.
 Master's lien for wages.
 
+11113.
+Treatment of abandoned seafarers.
+
         
 
 §11101. Accommodations for seamen
@@ -10763,6 +11293,126 @@ Section 11111 limits the amount of money recoverable from a seaman for a debt in
 The master of a documented vessel has the same lien against the vessel for the master's wages and the same priority as any other seaman serving on the vessel.
 
 (Added Pub. L. 99–307, §1(19)(B), May 19, 1986, 100 Stat. 446.)
+
+§11113. Treatment of abandoned seafarers
+
+(a) Abandoned Seafarers Fund.—
+
+(1) Establishment.—There is established in the Treasury a separate account to be known as the Abandoned Seafarers Fund.
+
+(2) Authorized uses.—Amounts in the Fund may be appropriated to the Secretary for use—
+
+(A) to pay necessary support of a seafarer—
+
+(i) who—
+
+(I) was paroled into the United States under section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or for whom the Secretary has requested parole under such section; and
+
+(II) is involved in an investigation, reporting, documentation, or adjudication of any matter that is related to the administration or enforcement of law by the Coast Guard; or
+
+(ii) who—
+
+(I) is physically present in the United States;
+
+(II) the Secretary determines was abandoned in the United States; and
+
+(III) has not applied for asylum under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.); and
+
+(B) to reimburse a vessel owner or operator for the costs of necessary support of a seafarer who has been paroled into the United States to facilitate an investigation, reporting, documentation, or adjudication of any matter that is related to the administration or enforcement of law by the Coast Guard, if—
+
+(i) the vessel owner or operator is not convicted of a criminal offense related to such matter; or
+
+(ii) the Secretary determines that reimbursement is appropriate.
+
+(3) Crediting of amounts to fund.—
+
+(A) In general.—Except as provided in subparagraph (B), there shall be credited to the Fund the following:
+
+(i) Penalties deposited in the Fund under section 9 of the Act to Prevent Pollution from Ships (33 U.S.C. 1908).
+
+(ii) Amounts reimbursed or recovered under subsection (c).
+
+(B) Limitation.—Amounts may be credited to the Fund under subparagraph (A) only if the unobligated balance of the Fund is less than $5,000,000.
+
+(4) Report required.—On the date on which the President submits each budget for a fiscal year pursuant to section 1105 of title 31, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
+
+(A) the amounts credited to the Fund under paragraph (2) 1 for the preceding fiscal year; and
+
+(B) amounts in the Fund that were expended for the preceding fiscal year.
+
+(b) Limitation.—Nothing in this section shall be construed—
+
+(1) to create a private right of action or any other right, benefit, or entitlement to necessary support for any person; or
+
+(2) to compel the Secretary to pay or reimburse the cost of necessary support.
+
+(c) Reimbursement; Recovery.—
+
+(1) In general.—A vessel owner or operator shall reimburse the Fund an amount equal to the total amount paid from the Fund for necessary support of a seafarer, if—
+
+(A) the vessel owner or operator—
+
+(i) during the course of an investigation, reporting, documentation, or adjudication of any matter under this Act that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
+
+(ii) subsequently is—
+
+(I) convicted of a criminal offense related to such matter; or
+
+(II) required to reimburse the Fund pursuant to a court order or negotiated settlement related to such matter; or
+
+(B) the vessel owner or operator abandons a seafarer in the United States, as determined by the Secretary based on substantial evidence.
+
+(2) Enforcement.—If a vessel owner or operator fails to reimburse the Fund under paragraph (1) within 60 days after receiving a written, itemized description of reimbursable expenses and a demand for payment, the Secretary may—
+
+(A) proceed in rem against the vessel on which the seafarer served in the Federal district court for the district in which the vessel is found; and
+
+(B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(9)(a) 2 of the Act to Prevent Pollution from Ships (33 U.S.C. 1901(9)(a)) 3 as the vessel on which the seafarer served.
+
+(3) Obtaining clearance.—A vessel may obtain clearance from the Secretary after it is withheld or revoked under paragraph (2)(B) if the vessel owner or operator—
+
+(A) reimburses the Fund the amount required under paragraph (1); or
+
+(B) provides a bond, or other evidence of financial responsibility, sufficient to meet the amount required to be reimbursed under paragraph (1).
+
+(4) Notification required.—The Secretary shall notify the vessel at least 72 hours before taking any action under paragraph (2)(B).
+
+(d) Definitions.—In this section:
+
+(1) Abandons; abandoned.—Each of the terms "abandons" and "abandoned" means—
+
+(A) a vessel owner's or operator's unilateral severance of ties with a seafarer; or
+
+(B) a vessel owner's or operator's failure to provide necessary support of a seafarer.
+
+(2) Fund.—The term "Fund" means the Abandoned Seafarers Fund established under this section.
+
+(3) Necessary support.—The term "necessary support" means normal wages and expenses the Secretary considers reasonable for lodging, subsistence, clothing, medical care (including hospitalization), repatriation, and any other support the Secretary considers to be appropriate.
+
+(4) Seafarer.—The term "seafarer" means an alien crew member who is employed or engaged in any capacity on board a vessel subject to the jurisdiction of the United States.
+
+(5) Vessel subject to the jurisdiction of the united states.—The term "vessel subject to the jurisdiction of the United States" has the meaning given that term in section 70502(c), except that it does not include a vessel that is—
+
+(A) owned, or operated under a bareboat charter, by the United States, a State or political subdivision thereof, or a foreign nation; and
+
+(B) not engaged in commerce.
+
+(Added Pub. L. 113–281, title III, §320(a), Dec. 18, 2014, 128 Stat. 3051.)
+
+References in Text
+
+The Immigration and Nationality Act, referred to in subsec. (a)(2)(A)(ii)(III), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality.
+For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+This Act, referred to in subsec. (c)(1)(A)(i), probably means Pub. L. 113–281, Dec. 18, 2014, 128 Stat. 3022, known as the Howard Coble Coast Guard and Maritime Transportation Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 1 of Title 14, Coast Guard, and Tables.
+
+1 So in original.
+Probably should be "(3)".
+
+2 So in original.
+Probably should be "2(a)(9)(a)".
+
+3 So in original.
+Probably should be "33 U.S.C. 1901(a)(9)(a)))".
 
 CHAPTER 112—MERCHANT MARINER BENEFITS
 
@@ -13003,14 +13653,14 @@ In doing so, the Secretary—
 
 (1) shall consider, among other things, factors affecting recreational boating safety by contributing to overcrowding and congestion of waterways, such as the increasing number of recreational vessels operating on those waterways and their geographic distribution, the availability and geographic distribution of recreational boating facilities in and among applying States, and State marine casualty and fatality statistics for recreational vessels;
 
-(2) shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4—460l–11) 1 the Federal Aid in Sport Fish Restoration Act of 1950 (16 U.S.C. 777–777k), and with the guidelines developed under those Acts; and
+(2) shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of chapter 2003 of title 54, United States Code,1 the Federal Aid in Sport Fish Restoration Act of 1950 (16 U.S.C. 777–777k), and with the guidelines developed under those Acts; and
 
 (3) shall maintain environmental standards consistent with the Coastal Zone Management Act of 1972 (16 U.S.C. 1451–1464) and other laws and policies of the United States intended to safeguard the ecological and esthetic quality of the waters and wetlands of the United States.
 
 (c) A State whose recreational boating safety program has been approved by the Secretary is eligible for allocation and distribution of amounts under this chapter to assist that State in developing, carrying out, and financing its program.
 Matching amounts shall be allocated and distributed among eligible States by the Secretary as provided by section 13104 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 592, §13101; Pub. L. 98–369, div. A, title X, §1011(b), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(a), Nov. 16, 1990, 104 Stat. 2987; renumbered §13102 and amended Pub. L. 109–304, §16(b)(1), (c)(3), Oct. 6, 2006, 120 Stat. 1705, 1706.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 592, §13101; Pub. L. 98–369, div. A, title X, §1011(b), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(a), Nov. 16, 1990, 104 Stat. 2987; renumbered §13102 and amended Pub. L. 109–304, §16(b)(1), (c)(3), Oct. 6, 2006, 120 Stat. 1705, 1706; Pub. L. 113–287, §5(n), Dec. 19, 2014, 128 Stat. 3272.)
 
 Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	13101 	46:1474
@@ -13022,9 +13672,6 @@ Subsection (b) requires the Secretary to establish guidelines and standards for 
 Subsection (c) makes the States who meet the standards prescribed by the Secretary eligible for the amounts authorized under this chapter.
 
 References in Text
-
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(2), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation.
-For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
 
 The Federal Aid in Sport Fish Restoration Act of 1950, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Dingell-Johnson Sport Fish Restoration Act, the Federal Aid in Fish Restoration Act, and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
 
@@ -13055,7 +13702,7 @@ Pub. L. 100–448, §6(d), Sept. 28, 1988, 102 Stat. 1841, provided that:
 "(B) subject to appropriations, using amounts available to the Secretary of Transportation under section 13106(a)(1) [now section 13107(a)(1)] of title 46, United States Code (as amended by this Act)."
 
 1 So in original.
-A comma probably should appear after "(16 U.S.C. 460l–4—460l–11)".
+The words "United States Code," probably should not appear.
 
 §13103. Program acceptance
 
@@ -16676,6 +17323,27 @@ This subsection makes no substantive change to law.
 Section 31341(b) provides that any person that is tortiously or unlawfully in possession of or in charge of a vessel has no authority to procure necessaries.
 This subsection makes no substantive change to law.
 
+§31342. Establishing maritime liens
+
+(a) Except as provided in subsection (b) of this section, a person providing necessaries to a vessel on the order of the owner or a person authorized by the owner—
+
+(1) has a maritime lien on the vessel;
+
+(2) may bring a civil action in rem to enforce the lien; and
+
+(3) is not required to allege or prove in the action that credit was given to the vessel.
+
+(b) This section does not apply to a public vessel.
+
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748; Pub. L. 101–225, title III, §303(6), Dec. 12, 1989, 103 Stat. 1924.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	31342 	46:971
+
+Section 31342 provides that any authorized person providing necessaries for a vessel has a maritime lien on the vessel, may bring a civil action in rem in admiralty to enforce the lien, and is not required to allege or prove that credit was given to the vessel. "Providing" has been substituted for "furnishing" for consistency with other laws.
+This section makes no substantive change to law.
+This section does not supersede the prohibition under the Public Vessels Act, the Foreign Sovereign Immunities Act, or the Suits in Admiralty Act, on bringing an in rem action against a public vessel.
+
 §31343. Recording and discharging notices of claim of maritime lien
 
 (a) Except as provided under subsection (d) of this section, a person claiming a lien on a vessel documented, or for which an application for documentation has been filed, under chapter 121 may record with the Secretary a notice of that person's lien claim on the vessel.
@@ -18168,13 +18836,15 @@ In subsection (a), the words "upon sworn complaint or on its own motion" are omi
 
 (a) Definition.—In this section, the term "actual injury" includes the loss of interest at commercial rates compounded from the date of injury.
 
-(b) Basic Amount.—If the complaint was filed within the period specified in section 41301(a) of this title, the Federal Maritime Commission shall direct the payment of reparations to the complainant for actual injury caused by a violation of this part, plus reasonable attorney fees.
+(b) Basic Amount.—If the complaint was filed within the period specified in section 41301(a) of this title, the Federal Maritime Commission shall direct the payment of reparations to the complainant for actual injury caused by a violation of this part.
 
 (c) Additional Amounts.—On a showing that the injury was caused by an activity prohibited by section 41102(b), 41104(3) or (6), or 41105(1) or (3) of this title, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
 
 (d) Difference Between Rates.—If the injury was caused by an activity prohibited by section 41104(4)(A) or (B) of this title, the amount of the injury shall be the difference between the rate paid by the injured shipper and the most favorable rate paid by another shipper.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1546.)
+(e) Attorney Fees.—In any action brought under section 41301, the prevailing party may be awarded reasonable attorney fees.
+
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1546; Pub. L. 113–281, title IV, §402, Dec. 18, 2014, 128 Stat. 3056.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -19275,13 +19945,17 @@ In subsection (a), the words "on or before the 1st day of December in each year"
 The aggregate annual amount of the Federal share of the awards by the Secretary may not exceed $500,000.
 
 (f) University Transportation Research Funds.—The Secretary may make a grant under section 5505 of title 49 to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center.
-In making a grant, the Secretary, through the Research and Innovative Technology Administration, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
+In making a grant, the Secretary, through the Office of the Assistant Secretary for Research and Technology of the Department of Transportation, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1561.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1561; Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
 	50112	46 App.:1121–2.	Pub. L. 101–115, §8, Oct. 13, 1989, 103 Stat. 694; Pub. L. 101–595, title VII, §702, Nov. 16, 1990, 104 Stat. 2994; Pub. L. 102–241, §47, Dec. 19, 1991, 105 Stat. 2227; Pub. L. 106–398, §1 [div. C, title XXXV, §3504], Oct. 30, 2000, 114 Stat. 1654, 1654A–493; Pub. L. 108–426, Nov. 30, 2004, §2(c)(4), 118 Stat. 2424.
+
+Change of Name
+
+"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in subsec. (f) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under section 112 of Title 49, Transportation.
 
 §50113. Use and performance reports by operators of vessels
 
@@ -19886,7 +20560,33 @@ The consent of the Secretary of the Navy shall be obtained with respect to any p
 
 (2) pay the individual without regard to chapter 51 and subchapter III of chapter 53 of title 5.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1569; Pub. L. 112–213, title IV, §404, Dec. 20, 2012, 126 Stat. 1570.)
+(e) Donation for Historical Purposes.—
+
+(1) In general.—The Secretary may convey the right, title, and interest of the United States Government in any property administered by the Maritime Administration, except real estate or vessels, if—
+
+(A) the Secretary determines that such property is not needed by the Maritime Administration; and
+
+(B) the recipient—
+
+(i) is a nonprofit organization, a State, or a political subdivision of a State;
+
+(ii) agrees to hold the Government harmless for any claims arising from exposure to hazardous materials, including asbestos, polychlorinated biphenyls, or lead paint, after conveyance of the property;
+
+(iii) provides a description and explanation of the intended use of the property to the Secretary for approval;
+
+(iv) has provided to the Secretary proof, as determined by the Secretary, of resources sufficient to accomplish the intended use provided under clause (iii) and to maintain the property;
+
+(v) agrees that when the recipient no longer requires the property, the recipient shall—
+
+(I) return the property to the Secretary, at the recipient's expense and in the same condition as received except for ordinary wear and tear; or
+
+(II) subject to the approval of the Secretary, retain, sell, or otherwise dispose of the property in a manner consistent with applicable law; and
+
+(vi) agrees to any additional terms the Secretary considers appropriate.
+
+(2) Reversion.—The Secretary shall include in any conveyance under this subsection terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the property has been used other than as approved by the Secretary under paragraph (1)(B)(iii).
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1569; Pub. L. 112–213, title IV, §404, Dec. 20, 2012, 126 Stat. 1570; Pub. L. 113–281, title III, §302, Dec. 18, 2014, 128 Stat. 3042.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -20335,35 +21035,167 @@ Historical and Revision Notes	Revised Section
 
 §51312. Board of Visitors
 
-(a) In General.—A Board of Visitors to the United States Merchant Marine Academy shall be established, for a term of 2 years commencing at the beginning of each Congress, to visit the Academy annually on a date determined by the Secretary of Transportation and to make recommendations on the operation of the Academy.
+(a) In General.—There shall be a Board of Visitors to the United States Merchant Marine Academy (referred to in this section as the "Board" and the "Academy", respectively) to provide independent advice and recommendations on matters relating to the United States Merchant Marine Academy.
 
-(b) Appointment.—
+(b) Membership.—
 
 (1) In general.—The Board shall be composed of—
 
-(A) 2 Senators appointed by the chairman of the Committee on Commerce, Science, and Transportation of the Senate;
+(A) 2 Senators appointed by the Chairman of the Committee on Commerce, Science, and Transportation of the Senate in consultation with the ranking member of such Committee;
 
-(B) 3 Members of the House of Representatives appointed by the chairman of the Committee on Armed Services of the House of Representatives;
+(B) 3 Members of the House of Representatives appointed by the Chairman of the Committee on Armed Services of the House of Representatives in consultation with the ranking member of such Committee;
 
-(C) 1 Senator appointed by the Vice President;
+(C) 1 Senator appointed by the Vice President, who shall be a member of the Committee on Appropriations of the Senate;
 
-(D) 2 Members of the House of Representatives appointed by the Speaker of the House of Representatives; and
+(D) 2 Members of the House of Representatives appointed by the Speaker of the House of Representatives, in consultation with the Minority Leader, at least 1 of whom shall be a member of the Committee on Appropriations of the House of Representatives;
 
-(E) the chairmen of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives, as ex officio members.
+(E) 5 individuals appointed by the President; and
 
-(2) Substitute appointment.—If an appointed member of the Board is unable to visit the Academy as provided in subsection (a), another individual may be appointed as a substitute in the manner provided in paragraph (1).
+(F) as ex officio members—
 
-(c) Staff.—The chairmen of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives may designate staff members of their committees to serve without reimbursement as staff for the Board.
+(i) the Commander of the Military Sealift Command;
 
-(d) Travel Expenses.—When serving away from home or regular place of business, a member of the Board or a staff member designated under subsection (c) shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
+(ii) the Deputy Commandant for Operations of the Coast Guard;
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1575.)
+(iii) the chairman of the Committee on Commerce, Science, and Transportation of the Senate;
+
+(iv) the chairman of the Committee on Armed Services of the House of Representatives;
+
+(v) the chairman of the Advisory Board to the Academy established under section 51313; and
+
+(vi) the Member of the House of Representatives for the congressional district in which the Academy is located, as a nonvoting member, unless such Member of the House of Representatives is appointed as a voting member of the Board under subparagraph (B) or (D).
+
+(2) Presidential appointees.—Of the individuals appointed by the President under paragraph (1)(E)—
+
+(A) at least 2 shall be graduates of the Academy;
+
+(B) at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies; and
+
+(C) 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from 1 the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
+
+(3) Term of service.—
+
+(A) In general.—Except as provided in subparagraph (B), each member of the Board, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
+
+(B) Continuation of service.—Any member described in subparagraph (A) whose term on the Board has expired, other than a member appointed under any of subparagraphs (A) through (D) of paragraph (1) who is no longer a Member of Congress, shall continue to serve until a successor is appointed.
+
+(4) Vacancies.—If a member of the Board is no longer able to serve on the Board or resigns, the Designated Federal Officer selected under subsection (g)(2) shall immediately notify the person who appointed such member.
+Not later than 60 days after that notification, such person shall designate a replacement to serve the remainder of such member's term.
+
+(5) Designation and responsibility of substitute board members.—
+
+(A) Authority to designate.—A member of the Board under clause (i) or (ii) of paragraph (1)(F) or appointed under subparagraph (B) or (C) of paragraph (2) may, if unable to attend or participate in an activity described in subsection (d), (e), or (f), designate another individual to serve as a substitute member of the Board, on a temporary basis, to attend or participate in such activity.
+
+(B) Requirements.—A substitute member of the Board designated under subparagraph (A) shall be—
+
+(i) an individual serving in a position for which the individual was appointed by the President and confirmed by the Senate;
+
+(ii) a member of the Senior Executive Service; or
+
+(iii) an officer of flag-rank who is employed by—
+
+(I) the Coast Guard; or
+
+(II) the Military Sealift Command.
+
+(C) Participation.—A substitute member of the Board designated under subparagraph (A)—
+
+(i) shall be permitted by the Board to fully participate in the proceedings and activities of the Board;
+
+(ii) shall report to the member that designated the substitute member on the Board's activities not later than 15 days following the substitute member's participation in such activities; and
+
+(iii) shall be permitted by the Board to participate in the preparation of reports described in paragraph 2 (j) related to any proceedings or activities of the Board in which such substitute member participates.
+
+(c) Chairperson.—
+
+(1) In general.—On a biennial basis and subject to paragraph (2), the Board shall select from among its members a Member of the House of Representatives or a Senator to serve as the Chairperson.
+
+(2) Rotation.—A Member of the House of Representatives and a Member of the Senate shall alternately be selected as the Chairperson of the Board.
+
+(3) Term.—An individual may not serve as Chairperson for consecutive terms.
+
+(d) Meetings.—
+
+(1) In general.—The Board shall meet as provided for in the Charter adopted under paragraph (2)(B), including at least 1 meeting held at the Academy.
+
+(2) Chairperson and charter.—The Designated Federal Officer selected under subsection (g)(2) shall organize a meeting of the Board for the purposes of—
+
+(A) selecting a Chairperson under subsection (c); and
+
+(B) adopting an official Charter for the Board, which shall establish the schedule of meetings of the Board.
+
+(e) Visiting the Academy.—
+
+(1) Annual visit.—The Board shall visit the Academy annually on a date selected by the Board, in consultation with the Secretary of Transportation and the Superintendent of the Academy.
+
+(2) Other visits.—In cooperation with the Superintendent, the Board or its members may make other visits to the Academy in connection with the duties of the Board.
+
+(3) Access.—While visiting the Academy under this subsection, members of the Board shall have reasonable access to the grounds, facilities, midshipmen, faculty, staff, and other personnel of the Academy for the purpose of carrying out the duties of the Board.
+
+(f) Responsibility.—The Board shall inquire into the state of morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, and academic methods of the Academy, and other matters relating to the Academy that the Board decides to consider.
+
+(g) Department of Transportation Support.—The Secretary of Transportation shall—
+
+(1) provide support as deemed necessary by the Board for the performance of the Board's functions;
+
+(2) select a Designated Federal Officer to support the performance of the Board's functions; and
+
+(3) in cooperation with the Maritime Administrator and the Superintendent of the Academy, advise the Board of any institutional issues, consistent with applicable laws concerning the disclosure of information.
+
+(h) Staff.—Each of the chairman of the Committee on Commerce, Science, and Transportation of the Senate and the chairman of the Committee on Armed Services of the House of Representatives may designate staff members of such Committee to serve, without additional reimbursement (except as provided in subsection (i)), as staff for the Board.
+
+(i) Travel Expenses.—While serving away from his or her home or regular place of business, a member of the Board or a staff member designated under subsection (h) shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of title 5, United States Code.
+
+(j) Reports.—
+
+(1) Annual report.—Not later than 60 days after each annual visit required under subsection (e)(1), the Board shall submit to the President a written report of its actions, views, and recommendations pertaining to the Academy.
+
+(2) Other reports.—If the members of the Board visit the Academy under subsection (e)(2), the Board may—
+
+(A) prepare a report on such visit; and
+
+(B) if approved by a majority of the members of the Board, submit such report to the President not later than 60 days after the date of the approval.
+
+(3) Advisors.—The Board may call in advisers—
+
+(A) for consultation regarding the execution of the Board's responsibility under subsection (f); or
+
+(B) to assist in the preparation of a report described in paragraph (1) or (2).
+
+(4) Submission.—A report submitted to the President under paragraph (1) or (2) shall be concurrently submitted to—
+
+(A) the Secretary of Transportation;
+
+(B) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+(C) the Committee on Armed Services of the House of Representatives.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1575; Pub. L. 113–291, div. C, title XXXV, §3504(a), Dec. 19, 2014, 128 Stat. 3905.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
 	51312	46 App.:1295b(h).	June 29, 1936, ch. 858, title XIII, §1303(h), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2002; Pub. L. 97–35, title XVI, §1607, Aug. 13, 1981, 95 Stat. 752; Pub. L. 101–595, title VII, §703, Nov. 16, 1990, 104 Stat. 2994.
 
 The words "Committee on Armed Services" are substituted for "Committee on Merchant Marine and Fisheries" to reflect changes in committee structure made by the 104th Congress.
+
+Deadlines; Continuation of Service
+
+Pub. L. 113–291, div. C, title XXXV, §3504(b), (c), Dec. 19, 2014, 128 Stat. 3909, provided that:
+
+"(b) Deadlines.—
+
+"(1) Selection of designated federal officer.—The Secretary of Transportation shall select a Designated Federal Officer under subsection (g)(2) of section 51312 of title 46, United States Code, as amended by this Act, by not later than 30 days after the date of the enactment of this Act [Dec. 19, 2014].
+
+"(2) Appointment of members.—Appointments under subsection (b)(1) of such section shall be completed by not later than 60 days after the date of the enactment of this Act.
+
+"(3) Organization of first meeting.—Such Designated Federal Officer shall organize a meeting of the Board under section (d)(2) of such section by not later than 60 days after the date of the enactment of this Act.
+
+"(c) Continuation of Service of Current Members.—Each member of the Board of Visitors serving as a member of the Board on the date of the enactment of this Act shall continue to serve on the Board for the remainder of such member's term."
+
+1 So in original.
+
+2 So in original.
+Probably should be "subsection".
 
 §51313. Advisory Board
 
@@ -20510,110 +21342,6 @@ Deferment of service obligation under student incentive payment agreements.
 Midshipman status in the Navy Reserve.
 
         
-
-§51501. General support program
-
-(a) Assistance to State Maritime Academies.—The Secretary of Transportation shall cooperate with and assist State maritime academies in providing instruction to individuals to prepare them for service in the merchant marine of the United States.
-
-(b) Course Development.—The Secretary shall provide to each State maritime academy guidance and assistance in developing courses on the operation and maintenance of new vessels, on equipment, and on innovations being introduced to the merchant marine of the United States.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	51501(a)	46 App.:1295c(a).	June 29, 1936, ch. 858, title XIII, §1304(a), (d)(2), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003, 2004.
-	51501(b)	46 App.:1295c(d)(2).	
-
-§51502. Detailing of personnel
-
-At the request of the Governor of a State, the President may detail, without reimbursement, personnel of the Navy, the Coast Guard, and the Maritime Service to a State maritime academy to serve as a superintendent, professor, lecturer, or instructor at the academy.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	51502	46 App.:1295c(e).	June 29, 1936, ch. 858, title XIII, §1304(e), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2004.
-
-The reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
-
-§51503. Regional maritime academies
-
-The Governors of the States cooperating to sponsor a regional maritime academy shall designate in writing one of those States to conduct the affairs of that academy.
-A regional maritime academy is eligible for assistance from the United States Government on the same basis as a State maritime academy sponsored by a single State.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	51503	46 App.:1295c(b).	June 29, 1936, ch. 858, title XIII, §1304(b), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003.
-
-The reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
-
-§51504. Use of training vessels
-
-(a) Applications To Use Vessels.—The Governor of a State sponsoring a State maritime academy (or the Governor of the State designated to conduct the affairs of a regional maritime academy) may apply in writing to the Secretary of Transportation to obtain the use of a training vessel for the academy.
-A vessel provided under this section remains the property of the United States Government.
-
-(b) General Authority.—Subject to subsection (c), the Secretary may provide to a State maritime academy, for use as a training vessel, a suitable vessel under the control of the Secretary or made available to the Secretary under subsection (e). If a suitable vessel is not available, the Secretary may build and provide a suitable vessel.
-
-(c) Approval Requirements.—The Secretary may provide a vessel under this section only if—
-
-(1) an application has been made under subsection (a);
-
-(2) the State maritime academy satisfies section 51506(a) of this title; and
-
-(3) a suitable port will be available for the safe mooring of the vessel while the academy is using the vessel.
-
-(d) Preparation and Maintenance.—A vessel provided under this section shall be—
-
-(1) repaired, reconditioned, and equipped (with all apparel, charts, books, and instruments of navigation) as necessary for use as a training vessel; and
-
-(2) maintained in good repair by the Secretary.
-
-(e) Agency Vessels.—An agency may provide to the Secretary, for use by a State maritime academy, a vessel (including equipment) that—
-
-(1) is suitable for training purposes; and
-
-(2) can be provided without detriment to the service to which the vessel is assigned.
-
-(f) Fuel Costs.—
-
-(1) In general.—Subject to the availability of appropriations, the Secretary shall pay to each State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
-
-(2) Maximum amounts.—The amount of the payment to a State maritime academy under paragraph (1) may not exceed—
-
-(A) $100,000 for fiscal year 2006;
-
-(B) $200,000 for fiscal year 2007; and
-
-(C) $300,000 for fiscal year 2008 and each fiscal year thereafter.
-
-(g) Removing Vessels From Service and Vessel Sharing.—The Secretary may not—
-
-(1) take a vessel, currently in use as a training vessel under this section, out of service to implement an alternative program (including vessel sharing) unless the vessel is incapable of being maintained in good repair as required by subsection (d); or
-
-(2) implement a program requiring a State maritime academy to share its training vessel with another State maritime academy, except with the express consent of Congress.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577; Pub. L. 109–163, div. C, title XXXV, §3502(b), Jan. 6, 2006, 119 Stat. 3548; Pub. L. 110–181, div. C, title XXXV, §3523(a)(2), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	51504(a)	46 App.:1295c(c)(1) (A)(ii), (v).	June 29, 1936, ch. 858, title XIII, §1304(c)(1), (2), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003.
-	51504(b)	46 App.:1295c(c)(1) (A) (1st sentence words before "meeting the requirements").	
-	51504(c)(1)	46 App.:1295c(c)(1) (A)(ii).	
-	51504(c)(2)	46 App.:1295c(c)(1) (A) (1st sentence words beginning with "meeting the requirements").	
-	51504(c)(3)	46 App.:1295c(c)(1) (A)(iii).	
-	51504(d)(1)	46 App.:1295c(c)(1) (A)(i).	
-	51504(d)(2)	46 App.:1295c(c)(1) (A)(iv).	
-	51504(e)	46 App.:1295c(c)(1) (B).	
-	51504(f)	46 App.:1295c(c)(2).	
-	51504(g)	46 App.:1295c note.	Pub. L. 101–115, §4, Oct. 13, 1989, 103 Stat. 692; Pub. L. 101–595, title VII, §705, Nov. 16, 1990, 104 Stat. 2994.
-
-In subsection (a), the reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
-
-In subsection (e), before paragraph (1), the word "agency" is substituted for "department or agency of the United States" because of the definition of "agency" in chapter 1 of the revised title.
-
-In subsection (g), the 1st–3d sentences of section 4 of Public Law 101–115 are omitted as obsolete.
 
 §51505. Annual payments for maintenance and support
 
@@ -21173,29 +21901,27 @@ In this chapter:
 
 (B) commerce or trade between foreign countries.
 
-(5) LASH vessel.—The term "LASH vessel" means a lighter aboard ship vessel.
+(5) Participating fleet vessel.—The term "participating fleet vessel" means any vessel that—
 
-(6) Participating fleet vessel.—The term "participating fleet vessel" means any vessel that—
-
-(A) on October 1, 2005—
+(A) on October 1, 2015—
 
 (i) meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c); and
 
-(ii) is less than 25 years of age, or less than 30 years of age in the case of a LASH vessel; and
+(ii) is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
 
-(B) on December 31, 2004, is covered by an operating agreement under subtitle B of title VI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1187 et seq.).1
+(B) on December 31, 2014, is covered by an operating agreement under this chapter.
 
-(7) Person.—The term "person" includes corporations, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country.
+(6) Person.—The term "person" includes corporations, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country.
 
-(8) Product tank vessel.—The term "product tank vessel" means a double hulled tank vessel capable of carrying simultaneously more than 2 separated grades of refined petroleum products.
+(7) Product tank vessel.—The term "product tank vessel" means a double hulled tank vessel capable of carrying simultaneously more than 2 separated grades of refined petroleum products.
 
-(9) Secretary.—The term "Secretary" means the Secretary of Transportation.
+(8) Secretary.—The term "Secretary" means the Secretary of Transportation.
 
-(10) Tank vessel.—The term "tank vessel" has the meaning that term has under section 2101 of this title.
+(9) Tank vessel.—The term "tank vessel" has the meaning that term has under section 2101 of this title.
 
-(11) United states.—The term "United States" includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands.
+(10) United states.—The term "United States" includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands.
 
-(12) United states citizen trust.—(A) Subject to subparagraph (C), the term "United States citizen trust" means a trust that is qualified under this paragraph.
+(11) United states citizen trust.—(A) Subject to subparagraph (C), the term "United States citizen trust" means a trust that is qualified under this paragraph.
 
 (B) A trust is qualified under this paragraph with respect to a vessel only if—
 
@@ -21207,35 +21933,9 @@ In this chapter:
 
 (D) This paragraph shall not be considered to prohibit a person who is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
 
-(13) United states-documented vessel.—The term "United States-documented vessel" means a vessel documented under chapter 121 of this title.
+(12) United states-documented vessel.—The term "United States-documented vessel" means a vessel documented under chapter 121 of this title.
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1803; amended Pub. L. 112–239, div. C, title XXXV, §3508(a), Jan. 2, 2013, 126 Stat. 2223.)
-
-Amendment of Section
-
-Pub. L. 112–239, div. C, title XXXV, §3508(a)(2)–(4), (j)(1), Jan. 2, 2013, 126 Stat. 2223, 2226, provided that, effective Dec. 31, 2014, this section is amended:
-
-(1) by striking paragraph (5);
-
-(2) by redesignating paragraphs (6) through (13) as paragraphs (5) through (12), respectively; and
-
-(3) by amending paragraph (5), as so redesignated, to read as follows:
-
-(5) Participating fleet vessel.—The term "participating fleet vessel" means any vessel that—
-
-(A) on October 1, 2015—
-
-(i) meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c); and
-
-(ii) is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
-
-(B) on December 31, 2014, is covered by an operating agreement under this chapter.
-
-See 2013 Amendment notes below.
-
-References in Text
-
-The Merchant Marine Act, 1936, referred to in par. (6)(B), is act June 29, 1936, ch. 858, 49 Stat. 1985. Subtitle B of title VI of the Act was classified generally to part B (§1187 et seq.) of subchapter VI of chapter 27 of the former Appendix to this title prior to repeal by Pub. L. 108–136, div. C, title XXXV, §3534(a)(1), Nov. 24, 2003, 117 Stat. 1818. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.
 
 Effective Date
 
@@ -21900,8 +22600,6 @@ Enrollment in Sealift Readiness Program
 
 Act June 29, 1936, ch. 858, title IX, §909, as added by Pub. L. 97–35, title XVI, §1605, Aug. 13, 1981, 95 Stat. 752, provided that: "No vessel may receive construction differential subsidy or operating differential subsidy if it is not offered for enrollment in a sealift readiness program approved by the Secretary of Defense."
 
-1 See References in Text note below.
-
 §53102. Establishment of Maritime Security Fleet
 
 (a) In General.—The Secretary of Transportation, in consultation with the Secretary of Defense, shall establish a fleet of active, commercially viable, militarily useful, privately owned vessels to meet national defense and other security requirements and maintain a United States presence in international commercial shipping.
@@ -22165,7 +22863,7 @@ Days during which the vessel is drydocked, surveyed, inspected, or repaired shal
 
 (B) 20 years of age, in the case of a tank vessel; or
 
-(C) 30 years of age, in the case of a LASH vessel.
+(C) 30 years of age, in the case of a lighter aboard ship vessel.
 
 (d) Reductions in Payments.—With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
 
@@ -22184,10 +22882,6 @@ Days during which the vessel is drydocked, surveyed, inspected, or repaired shal
 (3) Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225.)
-
-Amendment of Subsection (c)(3)(C)
-
-Pub. L. 112–239, div. C, title XXXV, §3508(f)(2), (j)(2), Jan. 2, 2013, 126 Stat. 2225, 2226, provided that, effective Dec. 31, 2014, subsection (c)(3)(C) of this section is amended by striking "a LASH vessel." and inserting "a lighter aboard ship vessel." See 2013 Amendment note below.
 
 1 So in original.
 The comma probably should not appear.
@@ -23012,24 +23706,13 @@ The rate shall be such that its relationship to 8 percent is comparable, as dete
 
 (1) In general.—The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal:
 
-If the amount remains in the fund at
-The applicable
-
-  the close of the—
-percentage is—
-
-        
-
-   26th taxable year
-  20 percent  
-   27th taxable year
-  40 percent  
-   28th taxable year
-  60 percent  
-   29th taxable year
-  80 percent  
-   30th taxable year
-  100 percent.
+ 	 If the amount remains in the fund at  the close of the—
+	The applicable percentage is—
+	26th taxable year	20 percent  
+	27th taxable year	40 percent  
+	28th taxable year	60 percent  
+	29th taxable year	80 percent  
+	30th taxable year	100 percent.
 
 (2) Earnings.—The earnings of a capital construction fund for any taxable year (except net gains) shall be treated under this subsection as an amount deposited for the taxable year.
 
@@ -25037,13 +25720,13 @@ Probably should be followed by a period.
 
 (h) Small Shipyard Defined.—In this section, the term "small shipyard" means a shipyard facility in one geographic location that does not have more than 1,200 employees.
 
-(i) Authorization of Appropriations.—There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2009 through 2013 to carry out this section—
+(i) Authorization of Appropriations.—There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2015 through 2017 to carry out this section—
 
 (1) $5,000,000 for training grants; and
 
 (2) $25,000,000 for capital and related improvements.
 
-(Added Pub. L. 110–417, div. C, title XXXV, §3508(a), Oct. 14, 2008, 122 Stat. 4767.)
+(Added Pub. L. 110–417, div. C, title XXXV, §3508(a), Oct. 14, 2008, 122 Stat. 4767; amended Pub. L. 113–281, title III, §303, Dec. 18, 2014, 128 Stat. 3043.)
 
 Prior Provisions
 
@@ -25120,6 +25803,9 @@ Transshipment of imported merchandise intended for immediate exportation.
 
 55121.
 Transportation of merchandise and passengers on Canadian vessels.
+
+55122.
+Floating dry docks.
 
         
 
@@ -25742,6 +26428,32 @@ July 16, 1946, 11 F.R. 7875, 60 Stat. 1097.
 
 In subsection (a), the Secretary of Homeland Security is substituted for the Commissioner of Customs because the functions of the Customs Service and of the Secretary of the Treasury relating thereto were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178). The functions of the Commissioner of Customs previously were vested in the Secretary of the Treasury under section 321(c) of title 31. For prior related transfers of functions, see the transfer of functions note under 46 App. U.S.C. 289a.
 
+§55122. Floating dry docks
+
+(a) In General.—Section 55102 of this title does not apply to the movement of a floating dry dock if—
+
+(1) the floating dry dock—
+
+(A) is being used to launch or raise a vessel in connection with the construction, maintenance, or repair of that vessel;
+
+(B) is owned and operated by—
+
+(i) a shipyard located in the United States that is an eligible owner specified under section 12103(b) of this title; or
+
+(ii) an affiliate of such a shipyard; and
+
+(C) was owned or contracted for purchase by such shipyard or affiliate prior to the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015; and
+
+(2) the movement occurs within 5 nautical miles of the shipyard or affiliate that owns and operates such floating dry dock.
+
+(b) Definition.—In this section, the term "floating dry dock" means equipment with wing walls and a fully submersible deck.
+
+(Added Pub. L. 113–291, div. C, title XXXV, §3502(a), Dec. 19, 2014, 128 Stat. 3904.)
+
+References in Text
+
+The date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (a)(1)(C), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
+
 CHAPTER 553—PASSENGER AND CARGO PREFERENCES
 
 SUBCHAPTER I—GENERAL
@@ -25898,13 +26610,15 @@ The Secretary, after consulting with the department or agency or organization or
 
 (e) Security of Government-Impelled Cargo.—
 
-(1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to provide armed personnel aboard vessels of the United States carrying such equipment, materials, or commodities if the vessels are transiting high-risk waters.
+(1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to reimburse, subject to the availability of appropriations, the owners or operators of vessels of the United States carrying such equipment, materials, or commodities for the cost of providing armed personnel aboard such vessels if the vessels are transiting high-risk waters.
 
-(2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
+(2) In this subsection, the term "high-risk waters" means waters so designated by the Commandant of the Coast Guard in the maritime security directive issued by the Commandant and in effect on the date on which an applicable voyage begins, if the Secretary of Transportation—
 
-(3) In this subsection, the term "high-risk waters" means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.
+(A) determines that an act of piracy occurred in the 12-month period preceding the date the voyage begins; or
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575.)
+(B) in such period, issued an advisory warning that an act of piracy is possible in such waters.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575; Pub. L. 113–281, title III, §306, Dec. 18, 2014, 128 Stat. 3044.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -26234,32 +26948,11 @@ CHAPTER 555—MISCELLANEOUS
 Sec.
 
 55501.
-Mobile trade fairs.
-
-55502.
 United States Committee on the Marine Transportation System.
 
         
 
-§55501. Mobile trade fairs
-
-(a) In General.—The Secretary of Commerce shall encourage and promote the development and use of mobile trade fairs designed to show and sell the products of United States business and agriculture at foreign ports and at other commercial centers throughout the world where the operators of the fairs use, insofar as practicable, vessels and aircraft of the United States in transporting their exhibits.
-
-(b) Technical and Financial Assistance.—When the Secretary determines that a mobile trade fair provides an economical and effective means of promoting export sales, the Secretary may provide to the operator of the fair—
-
-(1) technical assistance and support; and
-
-(2) financial assistance to defray certain expenses incurred outside the United States, except the cost of transportation on foreign vessels and aircraft.
-
-(c) Use of Foreign Currencies.—To carry out this section, the President may use, in addition to amounts appropriated to carry out trade promotion activities, foreign currencies owned by or owed to the United States Government.
-
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1650.)
-
-Historical and Revision Notes	Revised Section
-	Source (U.S. Code)	Source (Statutes at Large)
-	55501	46 App.:1122b.	June 29, 1936, ch. 858, title II, §212(B), as added Pub. L. 87–839, §1, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 89–66, July 7, 1965, 79 Stat. 211; Pub. L. 90–434, July 27, 1968, 82 Stat. 449; Pub. L. 100–418, title X, §10003(a), Aug. 23, 1988, 102 Stat. 1572.
-
-§55502. United States Committee on the Marine Transportation System
+§55501. United States Committee on the Marine Transportation System
 
 (a) Establishment.—There is established a United States Committee on the Marine Transportation System (in this section referred to as the "Committee").
 
@@ -26341,11 +27034,17 @@ The order of rotation shall be determined by a majority of the voting members of
 
 (f) Consultation.—In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.
 
-(Added Pub. L. 112–213, title III, §310(a), Dec. 20, 2012, 126 Stat. 1567.)
+(Added Pub. L. 112–213, title III, §310(a), Dec. 20, 2012, 126 Stat. 1567, §55502; renumbered §55501, Pub. L. 113–281, title III, §301(2), Dec. 18, 2014, 128 Stat. 3042.)
 
 References in Text
 
 The date of enactment of this Act, referred to in subsec. (e), probably means the date of enactment of Pub. L. 112–213, which enacted this section and was approved Dec. 20, 2012.
+
+Prior Provisions
+
+A prior section 55501, Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1650, related to mobile trade fairs to show and sell United States products at foreign ports and other global commercial centers, prior to repeal by Pub. L. 113–281, title III, §301(1), Dec. 18, 2014, 128 Stat. 3042.
+
+[§55502. Renumbered §55501]
 
 CHAPTER 556—SHORT SEA TRANSPORTATION
 
@@ -29232,27 +29931,18 @@ The Secretary shall also establish a process to provide an individual whose name
 
 Vessel and Intermodal Security Reports
 
-Pub. L. 108–293, title VIII, §809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, provided that:
+Pub. L. 108–293, title VIII, §809(g), (i), formerly §809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, renumbered and amended by Pub. L. 113–284, §2(a)(1), (2)(B), Dec. 18, 2014, 128 Stat. 3089, provided that:
 
-"(g) Evaluation of Cargo Inspection Targeting System for International Intermodal Cargo Containers.—Within 180 days after the date of the enactment of this Act [Aug. 9, 2004] and annually thereafter, the Inspector General of the department in which the Coast Guard is operating shall prepare a report that includes an assessment of—
-
-"(1) the effectiveness of the current tracking system to determine whether it is adequate to prevent international intermodal containers from being used for purposes of terrorism;
-
-"(2) the sources of information, and the quality of the information at the time of reporting, used by the system to determine whether targeting information is collected from the best and most credible sources and evaluate data sources to determine information gaps and weaknesses;
-
-"(3) the targeting system for reporting and analyzing inspection statistics, as well as testing effectiveness;
-
-"(4) the competence and training of employees operating the system to determine whether they are sufficiently capable to detect potential terrorist threats; and
-
-"(5) whether the system is an effective system to detect potential acts of terrorism and whether additional steps need to be taken in order to remedy deficiencies in targeting international intermodal containers for inspection.
-
-"(h) Action Report.—If the Inspector General of the department in which the Coast Guard is operating determines in any of the reports prepared under subsection (g) that the targeting system is insufficiently effective as a means of detecting potential acts of terrorism utilizing international intermodal containers, then the Secretary of the department in which the Coast Guard is operating shall, within 90 days, submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure [of the] House of Representatives on what actions will be taken to correct deficiencies identified in the Inspector General Report.
-
-"(i) Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act [Aug. 9, 2004] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code.
+"(g) Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act [Aug. 9, 2004] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code.
 The reports shall also include a summary of security standards established pursuant to such section during the previous year.
 The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-"(k) Report and Plan Formats.—The Secretary and the Inspector General of the department in which the Coast Guard is operating may submit any plan or report required by this section in both classified and redacted formats, if the Secretary determines that it is appropriate or necessary."
+[(h) Repealed.
+Pub. L. 113–284, §2(a)(1), Dec. 18, 2014, 128 Stat. 3089.]
+
+"(i) Report and Plan Formats.—The Secretary and the Inspector General of the department in which the Coast Guard is operating may submit any plan or report required by this section in both classified and redacted formats, if the Secretary determines that it is appropriate or necessary."
+
+[(k) Redesignated (i).]
 
 Findings
 
@@ -31541,6 +32231,9 @@ Patrol services.
 80303.
 Speed of vessel in ice region.
 
+80304.
+Limitation on ice patrol data.
+
         
 
 §80301. International agreements
@@ -31559,7 +32252,9 @@ Speed of vessel in ice region.
 
 (2) contribution by the Government for its proportionate share if the agreement provides for another country to maintain the services.
 
-(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692.)
+(c) Payments.—Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operating expenses of the Coast Guard.
+
+(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692; Pub. L. 113–281, title III, §314(a)(1), Dec. 18, 2014, 128 Stat. 3049.)
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -31592,7 +32287,19 @@ On request of such Secretary, the head of an agency may detail personnel, lend o
 (e) Annual Report.—The Commandant shall publish an annual report of the activities of the services provided for in this section.
 A copy of the report shall be provided to each interested foreign government and to each agency assisting in the work.
 
-(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692.)
+(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692; Pub. L. 113–281, title III, §314(a)(2), Dec. 18, 2014, 128 Stat. 3049.)
+
+Amendment of Section
+
+Pub. L. 113–281, title III, §314(a)(2), (c), Dec. 18, 2014, 128 Stat. 3049, provided that, effective Jan. 1, 2017, this section is amended:
+
+(1) in subsection (b), by striking "An ice patrol vessel" and inserting "The ice patrol";
+
+(2) in subsection (c)(1), by striking "An ice patrol vessel" and inserting "The ice patrol"; and
+
+(3) in the first sentence of subsection (d), by striking "vessels" and inserting "aircraft".
+
+See 2014 Amendment notes below.
 
 Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
@@ -31614,6 +32321,20 @@ Historical and Revision Notes	Revised Section
 
 In subsection (b), the words "liable to the United States Government for a civil penalty" are substituted for "liable to a fine" for clarity and for consistency in the revised title.
 The words "for each offense" are omitted as unnecessary.
+
+§80304. Limitation on ice patrol data
+
+Notwithstanding sections 80301 and 80302, data collected by an ice patrol conducted by the Coast Guard under this chapter may not be disseminated to a vessel unless such vessel is—
+
+(1) documented under the laws of the United States; or
+
+(2) documented under the laws of a foreign country that made the payment or contribution required under section 80301(b) for the year preceding the year in which the data is collected.
+
+(Added Pub. L. 113–281, title III, §314(a)(3), Dec. 18, 2014, 128 Stat. 3049.)
+
+Effective Date
+
+Section effective Jan. 1, 2017, see section 314(c) of Pub. L. 113–281, set out as an Effective Date of 2014 Amendment note under section 80301 of this title.
 
 CHAPTER 805—SAFE CONTAINERS FOR INTERNATIONAL CARGO
 

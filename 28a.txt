@@ -22,7 +22,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 
 FEDERAL RULES OF APPELLATE PROCEDURE
 
-(As amended to January 2, 2014)
+(As amended to January 5, 2015)
 
 Historical Note
 
@@ -49,7 +49,8 @@ Dec. 1, 2007; Mar. 26, 2009, eff.
 Dec. 1, 2009; Apr. 28, 2010, eff.
 Dec. 1, 2010; Apr. 26, 2011, eff.
 Dec. 1, 2011; Apr. 16, 2013, eff.
-Dec. 1, 2013.
+Dec. 1, 2013; Apr. 25, 2014, eff.
+Dec. 1, 2014.
 
 TITLE I. APPLICABILITY OF RULES
 
@@ -81,7 +82,7 @@ Appeal by Permission.
 Abrogated.]
 
 6.
-Appeal in a Bankruptcy Case from a Final Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel.
+Appeal in a Bankruptcy Case
 
 7.
 Bond for Costs on Appeal in a Civil Case.
@@ -660,7 +661,7 @@ Although a majority of the circuits now require the filing of a notice of appeal
 [Rule 5.1. Appeal by Leave under 28 U.S.C. §636(c)(5)] (Abrogated Apr. 24, 1998, eff.
 Dec. 1, 1998)
 
-Rule 6. Appeal in a Bankruptcy Case from a Final Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel
+Rule 6. Appeal in a Bankruptcy Case
 
 (a) Appeal From a Judgment, Order, or Decree of a District Court Exercising Original Jurisdiction in a Bankruptcy Case.
 An appeal to a court of appeals from a final judgment, order, or decree of a district court exercising jurisdiction under 28 U.S.C. §1334 is taken as any other civil appeal under these rules.
@@ -668,30 +669,32 @@ An appeal to a court of appeals from a final judgment, order, or decree of a dis
 (b) Appeal From a Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel Exercising Appellate Jurisdiction in a Bankruptcy Case.
 
 (1) Applicability of Other Rules.
-These rules apply to an appeal to a court of appeals under 28 U.S.C. §158(d) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction under 28 U.S.C. §158(a) or (b). But there are 3 exceptions:
+These rules apply to an appeal to a court of appeals under 28 U.S.C. §158(d)(1) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction under 28 U.S.C. §158(a) or (b), but with these qualifications:
 
-(A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(b), 13–20, 22–23, and 24(b) do not apply;
+(A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(c), 13–20, 22–23, and 24(b) do not apply;
 
-(B) the reference in Rule 3(c) to "Form 1 in the Appendix of Forms" must be read as a reference to Form 5; and
+(B) the reference in Rule 3(c) to "Form 1 in the Appendix of Forms" must be read as a reference to Form 5;
 
-(C) when the appeal is from a bankruptcy appellate panel, the term "district court," as used in any applicable rule, means "appellate panel."
+(C) when the appeal is from a bankruptcy appellate panel, "district court," as used in any applicable rule, means "appellate panel"; and
+
+(D) in Rule 12.1, "district court" includes a bankruptcy court or bankruptcy appellate panel.
 
 (2) Additional Rules.
 In addition to the rules made applicable by Rule 6(b)(1), the following rules apply:
 
 (A) Motion for Rehearing.
 
-(i) If a timely motion for rehearing under Bankruptcy Rule 8015 is filed, the time to appeal for all parties runs from the entry of the order disposing of the motion.
+(i) If a timely motion for rehearing under Bankruptcy Rule 8022 is filed, the time to appeal for all parties runs from the entry of the order disposing of the motion.
 A notice of appeal filed after the district court or bankruptcy appellate panel announces or enters a judgment, order, or decree—but before disposition of the motion for rehearing—becomes effective when the order disposing of the motion for rehearing is entered.
 
-(ii) Appellate review of the order disposing of the motion requires the party, in compliance with Rules 3(c) and 6(b)(1)(B), to amend a previously filed notice of appeal.
-A party intending to challenge an altered or amended judgment, order, or decree must file a notice of appeal or amended notice of appeal within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
+(ii) If a party intends to challenge the order disposing of the motion—or the alteration or amendment of a judgment, order, or decree upon the motion—then the party, in compliance with Rules 3(c) and 6(b)(1)(B), must file a notice of appeal or amended notice of appeal.
+The notice or amended notice must be filed within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
 
 (iii) No additional fee is required to file an amended notice.
 
-(B) The record on appeal.
+(B) The Record on Appeal.
 
-(i) Within 14 days after filing the notice of appeal, the appellant must file with the clerk possessing the record assembled in accordance with Bankruptcy Rule 8006—and serve on the appellee—a statement of the issues to be presented on appeal and a designation of the record to be certified and sent to the circuit clerk.
+(i) Within 14 days after filing the notice of appeal, the appellant must file with the clerk possessing the record assembled in accordance with Bankruptcy Rule 8009—and serve on the appellee—a statement of the issues to be presented on appeal and a designation of the record to be certified and made available to the circuit clerk.
 
 (ii) An appellee who believes that other parts of the record are necessary must, within 14 days after being served with the appellant's designation, file with the clerk and serve on the appellant a designation of additional parts to be included.
 
@@ -703,17 +706,51 @@ A party intending to challenge an altered or amended judgment, order, or decree 
 
 • a certified copy of the docket entries prepared by the clerk under Rule 3(d).
 
-(C) Forwarding the Record.
+(C) Making the Record Available.
 
-(i) When the record is complete, the district clerk or bankruptcy appellate panel clerk must number the documents constituting the record and send them promptly to the circuit clerk together with a list of the documents correspondingly numbered and reasonably identified.
-Unless directed to do so by a party or the circuit clerk, the clerk will not send to the court of appeals documents of unusual bulk or weight, physical exhibits other than documents, or other parts of the record designated for omission by local rule of the court of appeals.
-If the exhibits are unusually bulky or heavy, a party must arrange with the clerks in advance for their transportation and receipt.
+(i) When the record is complete, the district clerk or bankruptcy-appellate-panel clerk must number the documents constituting the record and promptly make it available to the circuit clerk.
+If the clerk makes the record available in paper form, the clerk will not send documents of unusual bulk or weight, physical exhibits other than documents, or other parts of the record designated for omission by local rule of the court of appeals, unless directed to do so by a party or the circuit clerk.
+If unusually bulky or heavy exhibits are to be made available in paper form, a party must arrange with the clerks in advance for their transportation and receipt.
 
-(ii) All parties must do whatever else is necessary to enable the clerk to assemble and forward the record.
-The court of appeals may provide by rule or order that a certified copy of the docket entries be sent in place of the redesignated record, but any party may request at any time during the pendency of the appeal that the redesignated record be sent.
+(ii) All parties must do whatever else is necessary to enable the clerk to assemble the record and make it available.
+When the record is made available in paper form, the court of appeals may provide by rule or order that a certified copy of the docket entries be made available in place of the redesignated record.
+But any party may request at any time during the pendency of the appeal that the redesignated record be made available.
 
 (D) Filing the Record.
-Upon receiving the record—or a certified copy of the docket entries sent in place of the redesignated record—the circuit clerk must file it and immediately notify all parties of the filing date.
+When the district clerk or bankruptcy-appellate-panel clerk has made the record available, the circuit clerk must note that fact on the docket.
+The date noted on the docket serves as the filing date of the record.
+The circuit clerk must immediately notify all parties of the filing date.
+
+(c) Direct Review by Permission Under 28 U.S.C. §158(d)(2).
+
+(1) Applicability of Other Rules.
+These rules apply to a direct appeal by permission under 28 U.S.C. §158(d)(2), but with these qualifications:
+
+(A) Rules 3–4, 5(a)(3), 6(a), 6(b), 8(a), 8(c), 9–12, 13–20, 22–23, and 24(b) do not apply;
+
+(B) as used in any applicable rule, "district court" or "district clerk" includes—to the extent appropriate—a bankruptcy court or bankruptcy appellate panel or its clerk; and
+
+(C) the reference to "Rules 11 and 12(c)" in Rule 5(d)(3) must be read as a reference to Rules 6(c)(2)(B) and (C).
+
+(2) Additional Rules.
+In addition, the following rules apply:
+
+(A) The Record on Appeal.
+Bankruptcy Rule 8009 governs the record on appeal.
+
+(B) Making the Record Available.
+Bankruptcy Rule 8010 governs completing the record and making it available.
+
+(C) Stays Pending Appeal.
+Bankruptcy Rule 8007 applies to stays pending appeal.
+
+(D) Duties of the Circuit Clerk.
+When the bankruptcy clerk has made the record available, the circuit clerk must note that fact on the docket.
+The date noted on the docket serves as the filing date of the record.
+The circuit clerk must immediately notify all parties of the filing date.
+
+(E) Filing a Representation Statement.
+Unless the court of appeals designates another time, within 14 days after entry of the order granting permission to appeal, the attorney who sought permission must file a statement with the circuit clerk naming the parties that the attorney represents on appeal.
 
 (As amended Apr. 30, 1979, eff.
 Aug. 1, 1979; Apr. 25, 1989, eff.
@@ -721,7 +758,8 @@ Dec. 1, 1989; Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 24, 1998, eff.
 Dec. 1, 1998; Mar. 26, 2009, eff.
-Dec. 1, 2009.)
+Dec. 1, 2009; Apr. 25, 2014, eff.
+Dec. 1, 2014.)
 
 Notes of Advisory Committee on Rules—1967
 
@@ -737,7 +775,7 @@ For the reasons explained in the Note accompanying Rule 4, that rule makes the t
 
 References in Text
 
-The Bankruptcy Rules, referred to in subd. (b)(2)(A)(i), (B)(i), are set out in the Appendix to Title 11, Bankruptcy.
+The Bankruptcy Rules, referred to in subd. (b)(2)(A)(i), (B)(i), (c)(2)(A)–(C), are set out in the Appendix to Title 11, Bankruptcy.
 
 Rule 7. Bond for Costs on Appeal in a Civil Case
 
@@ -1995,114 +2033,6 @@ A court of appeals may by order or rule abridge the power of a single judge if i
 Exercise of any power granted a single judge is discretionary with the judge.
 The final sentence in this subdivision makes the disposition of any matter by a single judge subject to review by the court.
 
-Rule 28. Briefs
-
-(a) Appellant's Brief.
-The appellant's brief must contain, under appropriate headings and in the order indicated:
-
-(1) a corporate disclosure statement if required by Rule 26.1;
-
-(2) a table of contents, with page references;
-
-(3) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
-
-(4) a jurisdictional statement, including:
-
-(A) the basis for the district court's or agency's subject-matter jurisdiction, with citations to applicable statutory provisions and stating relevant facts establishing jurisdiction;
-
-(B) the basis for the court of appeals' jurisdiction, with citations to applicable statutory provisions and stating relevant facts establishing jurisdiction;
-
-(C) the filing dates establishing the timeliness of the appeal or petition for review; and
-
-(D) an assertion that the appeal is from a final order or judgment that disposes of all parties' claims, or information establishing the court of appeals' jurisdiction on some other basis;
-
-(5) a statement of the issues presented for review;
-
-(6) a concise statement of the case setting out the facts relevant to the issues submitted for review, describing the relevant procedural history, and identifying the rulings presented for review, with appropriate references to the record (see Rule 28(e));
-
-(7) a summary of the argument, which must contain a succinct, clear, and accurate statement of the arguments made in the body of the brief, and which must not merely repeat the argument headings;
-
-(8) the argument, which must contain:
-
-(A) appellant's contentions and the reasons for them, with citations to the authorities and parts of the record on which the appellant relies; and
-
-(B) for each issue, a concise statement of the applicable standard of review (which may appear in the discussion of the issue or under a separate heading placed before the discussion of the issues);
-
-(9) a short conclusion stating the precise relief sought; and
-
-(10) the certificate of compliance, if required by Rule 32(a)(7).
-
-(b) Appellee's Brief.
-The appellee's brief must conform to the requirements of Rule 28(a)(1)–(8) and (10), except that none of the following need appear unless the appellee is dissatisfied with the appellant's statement:
-
-(1) the jurisdictional statement;
-
-(2) the statement of the issues;
-
-(3) the statement of the case; and
-
-(4) the statement of the standard of review.
-
-(c) Reply Brief.
-The appellant may file a brief in reply to the appellee's brief.
-Unless the court permits, no further briefs may be filed.
-A reply brief must contain a table of contents, with page references, and a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the reply brief where they are cited.
-
-(d) References to Parties.
-In briefs and at oral argument, counsel should minimize use of the terms "appellant" and "appellee." To make briefs clear, counsel should use the parties' actual names or the designations used in the lower court or agency proceeding, or such descriptive terms as "the employee," "the injured person," "the taxpayer," "the ship," "the stevedore."
-
-(e) References to the Record.
-References to the parts of the record contained in the appendix filed with the appellant's brief must be to the pages of the appendix.
-If the appendix is prepared after the briefs are filed, a party referring to the record must follow one of the methods detailed in Rule 30(c). If the original record is used under Rule 30(f) and is not consecutively paginated, or if the brief refers to an unreproduced part of the record, any reference must be to the page of the original document.
-For example:
-
-• Answer p. 7;
-
-• Motion for Judgment p. 2;
-
-• Transcript p. 231.
-
-Only clear abbreviations may be used.
-A party referring to evidence whose admissibility is in controversy must cite the pages of the appendix or of the transcript at which the evidence was identified, offered, and received or rejected.
-
-(f) Reproduction of Statutes, Rules, Regulations, etc.
-If the court's determination of the issues presented requires the study of statutes, rules, regulations, etc., the relevant parts must be set out in the brief or in an addendum at the end, or may be supplied to the court in pamphlet form.
-
-(g) [Reserved]
-
-(h) [Reserved]
-
-(i) Briefs in a Case Involving Multiple Appellants or Appellees.
-In a case involving more than one appellant or appellee, including consolidated cases, any number of appellants or appellees may join in a brief, and any party may adopt by reference a part of another's brief.
-Parties may also join in reply briefs.
-
-(j) Citation of Supplemental Authorities.
-If pertinent and significant authorities come to a party's attention after the party's brief has been filed—or after oral argument but before decision—a party may promptly advise the circuit clerk by letter, with a copy to all other parties, setting forth the citations.
-The letter must state the reasons for the supplemental citations, referring either to the page of the brief or to a point argued orally.
-The body of the letter must not exceed 350 words.
-Any response must be made promptly and must be similarly limited.
-
-(As amended Apr. 30, 1979, eff.
-Aug. 1, 1979; Mar. 10, 1986, eff.
-July 1, 1986; Apr. 25, 1989, eff.
-Dec. 1, 1989; Apr. 30, 1991, eff.
-Dec. 1, 1991; Apr. 22, 1993, eff.
-Dec. 1, 1993; Apr. 29, 1994, eff.
-Dec. 1, 1994; Apr. 24, 1998, eff.
-Dec. 1, 1998; Apr. 29, 2002, eff.
-Dec. 1, 2002; Apr. 25, 2005, eff.
-Dec. 1, 2005; Apr. 16, 2013, eff.
-Dec. 1, 2013.)
-
-Notes of Advisory Committee on Rules—1967
-
-This rule is based upon Supreme Court Rule 40. For variations in present circuit rules on briefs see 2d Cir.
-Rule 17, 3d Cir.
-Rule 24, 5th Cir.
-Rule 24, and 7th Cir.
-Rule 17. All circuits now limit the number of pages of briefs, a majority limiting the brief to 50 pages of standard typographic printing.
-Fifty pages of standard typographic printing is the approximate equivalent of 70 pages of typewritten text, given the page sizes required by Rule 32 and the requirement set out there that text produced by a method other than standard typographic must be double spaced.
-
 Rule 28.1. Cross-Appeals
 
 (a) Applicability.
@@ -2728,61 +2658,6 @@ Rule 31; 6th Cir.
 Rule 20; 10th Cir.
 Rule 23.
 
-Rule 35. En Banc Determination
-
-(a) When Hearing or Rehearing En Banc May Be Ordered.
-A majority of the circuit judges who are in regular active service and who are not disqualified may order that an appeal or other proceeding be heard or reheard by the court of appeals en banc.
-An en banc hearing or rehearing is not favored and ordinarily will not be ordered unless:
-
-(1) en banc consideration is necessary to secure or maintain uniformity of the court's decisions; or
-
-(2) the proceeding involves a question of exceptional importance.
-
-(b) Petition for Hearing or Rehearing En Banc.
-A party may petition for a hearing or rehearing en banc.
-
-(1) The petition must begin with a statement that either:
-
-(A) the panel decision conflicts with a decision of the United States Supreme Court or of the court to which the petition is addressed (with citation to the conflicting case or cases) and consideration by the full court is therefore necessary to secure and maintain uniformity of the court's decisions; or
-
-(B) the proceeding involves one or more questions of exceptional importance, each of which must be concisely stated; for example, a petition may assert that a proceeding presents a question of exceptional importance if it involves an issue on which the panel decision conflicts with the authoritative decisions of other United States Courts of Appeals that have addressed the issue.
-
-(2) Except by the court's permission, a petition for an en banc hearing or rehearing must not exceed 15 pages, excluding material not counted under Rule 32.
-
-(3) For purposes of the page limit in Rule 35(b)(2), if a party files both a petition for panel rehearing and a petition for rehearing en banc, they are considered a single document even if they are filed separately, unless separate filing is required by local rule.
-
-(c) Time for Petition for Hearing or Rehearing En Banc.
-A petition that an appeal be heard initially en banc must be filed by the date when the appellee's brief is due.
-A petition for a rehearing en banc must be filed within the time prescribed by Rule 40 for filing a petition for rehearing.
-
-(d) Number of Copies.
-The number of copies to be filed must be prescribed by local rule and may be altered by order in a particular case.
-
-(e) Response.
-No response may be filed to a petition for an en banc consideration unless the court orders a response.
-
-(f) Call for a Vote.
-A vote need not be taken to determine whether the case will be heard or reheard en banc unless a judge calls for a vote.
-
-(As amended Apr. 1, 1979, eff.
-Aug. 1, 1979; Apr. 29, 1994, eff.
-Dec. 1, 1994; Apr. 24, 1998, eff.
-Dec. 1, 1998; Apr. 25, 2005, eff.
-Dec. 1, 2005.)
-
-Notes of Advisory Committee on Rules—1967
-
-Statutory authority for in banc hearings is found in 28 U.S.C. §46(c). The proposed rule is responsive to the Supreme Court's view in Western Pacific Ry. Corp. v. Western Pacific Ry. Co., 345 U.S. 247, 73 S.Ct. 656, 97 L.Ed. 986 (1953), that litigants should be free to suggest that a particular case is appropriate for consideration by all the judges of a court of appeals.
-The rule is addressed to the procedure whereby a party may suggest the appropriateness of convening the court in banc.
-It does not affect the power of a court of appeals to initiate in banc hearings sua sponte.
-
-The provision that a vote will not be taken as a result of the suggestion of the party unless requested by a judge of the court in regular active service or by a judge who was a member of the panel that rendered a decision sought to be reheard is intended to make it clear that a suggestion of a party as such does not require any action by the court.
-See Western Pacific Ry. Corp. v. Western Pacific Ry. Co., supra, 345 U.S. at 262, 73 S.Ct. 656. The rule merely authorizes a suggestion, imposes a time limit on suggestions for rehearings in banc, and provides that suggestions will be directed to the judges of the court in regular active service.
-
-In practice, the suggestion of a party that a case be reheard in banc is frequently contained in a petition for rehearing, commonly styled "petition for rehearing in banc." Such a petition is in fact merely a petition for a rehearing, with a suggestion that the case be reheard in banc.
-Since no response to the suggestion, as distinguished from the petition for rehearing, is required, the panel which heard the case may quite properly dispose of the petition without reference to the suggestion.
-In such a case the fact that no response has been made to the suggestion does not affect the finality of the judgment or the issuance of the mandate, and the final sentence of the rule expressly so provides.
-
 Rule 36. Entry of Judgment; Notice
 
 (a) Entry.
@@ -2918,54 +2793,6 @@ Taxation of the cost of the reporter's transcript is specifically authorized by 
 Berner v. British Commonwealth Pacific Air Lines, Ltd., 362 F.2d 799 (2d Cir. 1966); Land Oberoesterreich v. Gude, 93 F.2d 292 (2d Cir., 1937); In re Northern Ind.
 Oil Co., 192 F.2d 139 (7th Cir., 1951); Lunn v. F. W. Woolworth, 210 F.2d 159 (9th Cir., 1954).
 
-Rule 40. Petition for Panel Rehearing
-
-(a) Time to File; Contents; Answer; Action by the Court if Granted.
-
-(1) Time.
-Unless the time is shortened or extended by order or local rule, a petition for panel rehearing may be filed within 14 days after entry of judgment.
-But in a civil case, unless an order shortens or extends the time, the petition may be filed by any party within 45 days after entry of judgment if one of the parties is:
-
-(A) the United States;
-
-(B) a United States agency;
-
-(C) a United States officer or employee sued in an official capacity; or
-
-(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States' behalf—including all instances in which the United States represents that person when the court of appeals' judgment is entered or files the petition for that person.
-
-(2) Contents.
-The petition must state with particularity each point of law or fact that the petitioner believes the court has overlooked or misapprehended and must argue in support of the petition.
-Oral argument is not permitted.
-
-(3) Answer.
-Unless the court requests, no answer to a petition for panel rehearing is permitted.
-But ordinarily rehearing will not be granted in the absence of such a request.
-
-(4) Action by the Court.
-If a petition for panel rehearing is granted, the court may do any of the following:
-
-(A) make a final disposition of the case without reargument;
-
-(B) restore the case to the calendar for reargument or resubmission; or
-
-(C) issue any other appropriate order.
-
-(b) Form of Petition; Length.
-The petition must comply in form with Rule 32. Copies must be served and filed as Rule 31 prescribes.
-Unless the court permits or a local rule provides otherwise, a petition for panel rehearing must not exceed 15 pages.
-
-(As amended Apr. 30, 1979, eff.
-Aug. 1, 1979; Apr. 29, 1994, eff.
-Dec. 1, 1994; Apr. 24, 1998, eff.
-Dec. 1, 1998; Apr. 26, 2011, eff.
-Dec. 1, 2011.)
-
-Notes of Advisory Committee on Rules—1967
-
-This is the usual rule among the circuits, except that the express prohibition against filing a reply to the petition is found only in the rules of the Fourth, Sixth and Eighth Circuits (it is also contained in Supreme Court Rule 58(3)). It is included to save time and expense to the party victorious on appeal.
-In the very rare instances in which a reply is useful, the court will ask for it.
-
 Rule 41. Mandate: Contents; Issuance and Effective Date; Stay
 
 (a) Contents.
@@ -3076,25 +2903,6 @@ Rules of Civil Procedure for Superior Courts of Arizona, Rule 73(t), 16 A.R.S.; 
 Rules 1:3–3; New York Civil Practice Law and Rules, Sec. 1022; Wisconsin Statutes Ann. 274.01(2). The provision in the proposed rule is derived from California Code of Civil Procedure, Sec. 941.
 
 Subdivision (c). This subdivision is derived from FRCP 25(d) and Supreme Court Rule 48, with appropriate changes.
-
-Rule 44. Case Involving a Constitutional Question When the United States or the Relevant State is Not a Party
-
-(a) Constitutional Challenge to Federal Statute.
-If a party questions the constitutionality of an Act of Congress in a proceeding in which the United States or its agency, officer, or employee is not a party in an official capacity, the questioning party must give written notice to the circuit clerk immediately upon the filing of the record or as soon as the question is raised in the court of appeals.
-The clerk must then certify that fact to the Attorney General.
-
-(b) Constitutional Challenge to State Statute.
-If a party questions the constitutionality of a statute of a State in a proceeding in which that State or its agency, officer, or employee is not a party in an official capacity, the questioning party must give written notice to the circuit clerk immediately upon the filing of the record or as soon as the question is raised in the court of appeals.
-The clerk must then certify that fact to the attorney general of the State.
-
-(As amended Apr. 24, 1998, eff.
-Dec. 1, 1998; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
-
-Notes of Advisory Committee on Rules—1967
-
-This rule is now found in the rules of a majority of the circuits.
-It is in response to the Act of August 24, 1937 (28 U.S.C. §2403), which requires all courts of the United States to advise the Attorney General of the existence of an action or proceeding of the kind described in the rule.
 
 Rule 45. Clerk's Duties
 
@@ -3389,7 +3197,7 @@ No changes were made to the text of the proposed amendment or to the Committee N
 
 FEDERAL RULES OF CIVIL PROCEDURE
 
-(As amended to January 2, 2014)
+(As amended to January 5, 2015)
 
 Historical Note
 
@@ -3430,7 +3238,8 @@ Dec. 1, 2007; Apr. 23, 2008, eff.
 Dec. 1, 2008; Mar. 26, 2009, eff.
 Dec. 1, 2009; Apr. 28, 2010, eff.
 Dec. 1, 2010; Apr. 16, 2013, eff.
-Dec. 1, 2013.
+Dec. 1, 2013; Apr.25, 2014, eff.
+Dec. 1, 2014.
 
 TITLE I. SCOPE OF RULES; FORM OF ACTION
 
@@ -10566,7 +10375,7 @@ But no hearing—other than one ex parte—may be conducted outside the district
 
 (1) Hours.
 The clerk's office—with a clerk or deputy on duty—must be open during business hours every day except Saturdays, Sundays, and legal holidays.
-But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(4)(A).
+But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(6)(A).
 
 (2) Orders.
 Subject to the court's power to suspend, alter, or rescind the clerk's action for good cause, the clerk may:
@@ -10597,7 +10406,8 @@ July 1, 1971; Mar. 2, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 23, 2001, eff.
 Dec. 1, 2001; Apr. 30, 2007, eff.
-Dec. 1, 2007.)
+Dec. 1, 2007; Apr. 25, 2014, eff.
+Dec. 1, 2014.)
 
 Notes of Advisory Committee on Rules—1937
 
@@ -10930,7 +10740,7 @@ Effective Date of Abrogation
 
 Abrogation of par. (7) of subdivision (a) of this rule as effective August 1, 1951, see Effective Date note under Rule 71A.
 
-* Note.—The Supreme Court made these changes in the committee's proposed amendment to Rule 81(c): The phrase, "or within 20 days after the service of summons upon such initial pleading, then filed," was inserted following the phrase, "within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon ­which the action or proceeding is based", because in several states suit is commenced by service of summons upon the defendant, notifying him that the plaintiff's pleading has been filed with the clerk of court.
+* Note.—The Supreme Court made these changes in the committee's proposed amendment to Rule 81(c): The phrase, "or within 20 days after the service of summons upon such initial pleading, then filed," was inserted following the phrase, "within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based", because in several states suit is commenced by service of summons upon the defendant, notifying him that the plaintiff's pleading has been filed with the clerk of court.
 Thus, he may never receive a copy of the initial pleading.
 The added phrase is intended to give the defendant 20 days after the service of such summons in which to answer in a removed action, or 5 days after the filing of the petition for removal, whichever is longer.
 In these states, the 20-day period does not begin to run until such pleading is actually filed.
@@ -11004,13 +10814,6 @@ Compare 2 Mass.
 Gen. Laws (Ter.
 Ed., 1932) ch. 231, §147, Forms 1–47; English Annual Practice (1937) Appendix A to M, inclusive; Conn.
 Practice Book (1934) Rules, 47–68, pp. 123–427.
-
-Rule 85. Title
-
-These rules may be cited as the Federal Rules of Civil Procedure.
-
-(As amended Apr. 30, 2007, eff.
-Dec. 1, 2007.)
 
 Rule 86. Effective Dates
 
@@ -15035,7 +14838,11 @@ The declarant testifies and is subject to cross-examination about a prior statem
 
 (A) is inconsistent with the declarant's testimony and was given under penalty of perjury at a trial, hearing, or other proceeding or in a deposition;
 
-(B) is consistent with the declarant's testimony and is offered to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
+(B) is consistent with the declarant's testimony and is offered:
+
+(i) to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
+
+(ii) to rehabilitate the declarant's credibility as a witness when attacked on another ground; or
 
 (C) identifies a person as someone the declarant perceived earlier.
 
@@ -15057,7 +14864,8 @@ The statement must be considered but does not by itself establish the declarant'
 (Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1938; Pub. L. 94–113, §1, Oct. 16, 1975, 89 Stat. 576; Mar. 2, 1987, eff.
 Oct. 1, 1987; Apr. 11, 1997, eff.
 Dec. 1, 1997; Apr. 26, 2011, eff.
-Dec. 1, 2011.)
+Dec. 1, 2011; Apr. 25, 2014, eff.
+Dec. 1, 2014.)
 
 Notes of Advisory Committee on Proposed Rules
 
@@ -15323,7 +15131,7 @@ A record of an act, event, condition, opinion, or diagnosis if:
 
 (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification that complies with Rule 902(11) or (12) or with a statute permitting certification; and
 
-(E) neither the source of information nor the method or circumstances of preparation indicate a lack of trustworthiness.
+(E) the opponent does not show that the source of information or the method or circumstances of preparation indicate a lack of trustworthiness.
 
 (7) Absence of a Record of a Regularly Conducted Activity.
 Evidence that a matter is not included in a record described in paragraph (6) if:
@@ -15332,7 +15140,7 @@ Evidence that a matter is not included in a record described in paragraph (6) if
 
 (B) a record was regularly kept for a matter of that kind; and
 
-(C) neither the possible source of the information nor other circumstances indicate a lack of trustworthiness.
+(C) the opponent does not show that the possible source of the information or other circumstances indicate a lack of trustworthiness.
 
 (8) Public Records.
 A record or statement of a public office if:
@@ -15345,7 +15153,7 @@ A record or statement of a public office if:
 
 (iii) in a civil case or against the government in a criminal case, factual findings from a legally authorized investigation; and
 
-(B) neither the source of information nor other circumstances indicate a lack of trustworthiness.
+(B) the opponent does not show that the source of information or other circumstances indicate a lack of trustworthiness.
 
 (9) Public Records of Vital Statistics.
 A record of a birth, death, or marriage, if reported to a public office in accordance with a legal duty.
@@ -15439,7 +15247,8 @@ Oct. 1, 1987; Apr. 11, 1997, eff.
 Dec. 1, 1997; Apr. 17, 2000, eff.
 Dec. 1, 2000; Apr. 26, 2011, eff.
 Dec. 1, 2011; Apr. 13, 2013, eff.
-Dec. 1, 2013.)
+Dec. 1, 2013; Apr. 25, 2014, eff.
+Dec. 1, 2014.)
 
 Notes of Advisory Committee on Proposed Rules
 
@@ -16325,6 +16134,32 @@ The Senate amendment permits an attack upon the credibility of the declarant of 
 The Conference adopts the Senate amendment.
 The Senate amendment conforms the rule to present practice.
 
+Rule 807. Residual Exception
+
+(a) In General.
+Under the following circumstances, a hearsay statement is not excluded by the rule against hearsay even if the statement is not specifically covered by a hearsay exception in Rule 803 or 804:
+
+(1) the statement has equivalent circumstantial guarantees of trustworthiness;
+
+(2) it is offered as evidence of a material fact;
+
+(3) it is more probative on the point for which it is offered than any other evidence that the proponent can obtain through reasonable efforts; and
+
+(4) admitting it will best serve the purposes of these rules and the interests of justice.
+
+(b) Notice.
+The statement is admissible only if, before the trial or hearing, the proponent gives an adverse party reasonable notice of the intent to offer the statement and its particulars, including the declarant's name and address, so that the party has a fair opportunity to meet it.
+
+(Added Apr. 11, 1997, eff.
+Dec. 1, 1997; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
+
+Notes of Advisory Committee on Rules
+
+The contents of Rule 803(24) and Rule 804(b)(5) have been combined and transferred to a new Rule 807. This was done to facilitate additions to Rules 803 and 804. No change in meaning is intended.
+
+GAP Report on Rule 807. Restylization changes were eliminated.
+
 ARTICLE IX. AUTHENTICATION AND IDENTIFICATION
 
 Rule 901. Authenticating or Identifying Evidence
@@ -16785,20 +16620,6 @@ Recognition of degrees of secondary evidence in this situation is an appropriate
 The provisions of 28 U.S.C. §1733(b) apply only to departments or agencies of the United States.
 The rule, however, applies to public records generally and is comparable in scope in this respect to Rule 44(a) of the Rules of Civil Procedure.
 
-Rule 1006. Summaries to Prove Content
-
-The proponent may use a summary, chart, or calculation to prove the content of voluminous writings, recordings, or photographs that cannot be conveniently examined in court.
-The proponent must make the originals or duplicates available for examination or copying, or both, by other parties at a reasonable time and place.
-And the court may order the proponent to produce them in court.
-
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1946; Apr. 26, 2011, eff.
-Dec. 1, 2011.)
-
-Notes of Advisory Committee on Proposed Rules
-
-The admission of summaries of voluminous books, records, or documents offers the only practicable means of making their contents available to judge and jury.
-The rule recognizes this practice, with appropriate safeguards. 4 Wigmore §1230.
-
 Rule 1007. Testimony or Statement of a Party to Prove Content
 
 The proponent may prove the content of a writing, recording, or photograph by the testimony, deposition, or written statement of the party against whom the evidence is offered.
@@ -16843,6 +16664,175 @@ The decision is not one for uncontrolled discretion of the jury but is subject t
 See Rule 104(b), supra.
 
 For similar provisions, see Uniform Rule 70(2); Kansas Code of Civil Procedure §60–467(b); New Jersey Evidence Rule 70(2), (3).
+
+ARTICLE XI. MISCELLANEOUS RULES
+
+Rule 1101. Applicability of the Rules
+
+(a) To Courts and Judges.
+These rules apply to proceedings before:
+
+• United States district courts;
+
+• United States bankruptcy and magistrate judges;
+
+• United States courts of appeals;
+
+• the United States Court of Federal Claims; and
+
+• the district courts of Guam, the Virgin Islands, and the Northern Mariana Islands.
+
+(b) To Cases and Proceedings.
+These rules apply in:
+
+• civil cases and proceedings, including bankruptcy, admiralty, and maritime cases;
+
+• criminal cases and proceedings; and
+
+• contempt proceedings, except those in which the court may act summarily.
+
+(c) Rules on Privilege.
+The rules on privilege apply to all stages of a case or proceeding.
+
+(d) Exceptions.
+These rules—except for those on privilege—do not apply to the following:
+
+(1) the court's determination, under Rule 104(a), on a preliminary question of fact governing admissibility;
+
+(2) grand-jury proceedings; and
+
+(3) miscellaneous proceedings such as:
+
+• extradition or rendition;
+
+• issuing an arrest warrant, criminal summons, or search warrant;
+
+• a preliminary examination in a criminal case;
+
+• sentencing;
+
+• granting or revoking probation or supervised release; and
+
+• considering whether to release on bail or otherwise.
+
+(e) Other Statutes and Rules.
+A federal statute or a rule prescribed by the Supreme Court may provide for admitting or excluding evidence independently from these rules.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1947; Pub. L. 94–149, §1(14), Dec. 12, 1975, 89 Stat. 806; Pub. L. 95–598, title II, §§251, 252, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §142, Apr. 2, 1982, 96 Stat. 45; Mar. 2, 1987, eff.
+Oct. 1, 1987; Apr. 25, 1988, eff.
+Nov. 1, 1988; Pub. L. 100–690, title VII, §7075(c), Nov. 18, 1988, 102 Stat. 4405; Apr. 22, 1993, eff.
+Dec. 1, 1993; Apr. 26, 2011, eff.
+Dec. 1, 2011.)
+
+Notes of Advisory Committee on Proposed Rules
+
+Subdivision (a). The various enabling acts contain differences in phraseology in their descriptions of the courts over which the Supreme Court's power to make rules of practice and procedure extends.
+The act concerning civil actions, as amended in 1966, refers to "the district courts * * * of the United States in civil actions, including admiralty and maritime cases. * * *" 28 U.S.C. §2072, Pub. L. 89–773, §1, 80 Stat. 1323. The bankruptcy authorization is for rules of practice and procedure "under the Bankruptcy Act." 28 U.S.C. §2075, Pub. L. 88–623, §1, 78 Stat. 1001. The Bankruptcy Act in turn creates bankruptcy courts of "the United States district courts and the district courts of the Territories and possessions to which this title is or may hereafter be applicable." 11 U.S.C. §§1(10), 11(a). The provision as to criminal rules up to and including verdicts applies to "criminal cases and proceedings to punish for criminal contempt of court in the United States district courts, in the district courts for the districts of the Canal Zone and Virgin Islands, in the Supreme Court of Puerto Rico, and in proceedings before United States magistrates." 18 U.S.C. §3771.
+
+These various provisions do not in terms describe the same courts.
+In congressional usage the phrase "district courts of the United States," without further qualification, traditionally has included the district courts established by Congress in the states under Article III of the Constitution, which are "constitutional" courts, and has not included the territorial courts created under Article IV, Section 3, Clause 2, which are "legislative" courts.
+Hornbuckle v. Toombs, 85 U.S. 648, 21 L.Ed. 966 (1873). However, any doubt as to the inclusion of the District Court for the District of Columbia in the phrase is laid at rest by the provisions of the Judicial Code constituting the judicial districts, 28 U.S.C. §81 et seq. creating district courts therein, Id. §132, and specifically providing that the term "district court of the United States" means the courts so constituted.
+Id. §451. The District of Columbia is included.
+Id. §88. Moreover, when these provisions were enacted, reference to the District of Columbia was deleted from the original civil rules enabling act. 28 U.S.C. §2072. Likewise Puerto Rico is made a district, with a district court, and included in the term.
+Id. §119. The question is simply one of the extent of the authority conferred by Congress.
+With respect to civil rules it seems clearly to include the district courts in the states, the District Court for the District of Columbia, and the District Court for the District of Puerto Rico.
+
+The bankruptcy coverage is broader.
+The bankruptcy courts include "the United States district courts," which includes those enumerated above.
+Bankruptcy courts also include "the district courts of the Territories and possessions to which this title is or may hereafter be applicable." 11 U.S.C. §§1(10), 11(a). These courts include the district courts of Guam and the Virgin Islands. 48 U.S.C. §§1424(b), 1615. Professor Moore points out that whether the District Court for the District of the Canal Zone is a court of bankruptcy "is not free from doubt in view of the fact that no other statute expressly or inferentially provides for the applicability of the Bankruptcy Act in the Zone." He further observes that while there seems to be little doubt that the Zone is a territory or possession within the meaning of the Bankruptcy Act, 11 U.S.C. §1(10), it must be noted that the appendix to the Canal Zone Code of 1934 did not list the Act among the laws of the United States applicable to the Zone. 1 Moore's Collier on Bankruptcy 1.10, pp. 67, 72, n. 25 (14th ed. 1967). The Code of 1962 confers on the district court jurisdiction of:
+
+"(4) actions and proceedings involving laws of the United States applicable to the Canal Zone; and
+
+"(5) other matters and proceedings wherein jurisdiction is conferred by this Code or any other law." Canal Zone Code, 1962, Title 3, §141.
+
+Admiralty jurisdiction is expressly conferred.
+Id. §142. General powers are conferred on the district court, "if the course of proceeding is not specifically prescribed by this Code, by the statute, or by applicable rule of the Supreme Court of the United States * * *" Id. §279. Neither these provisions nor §1(10) of the Bankruptcy Act ("district courts of the Territories and possessions to which this title is or may hereafter be applicable") furnishes a satisfactory answer as to the status of the District Court for the District of the Canal Zone as a court of bankruptcy.
+However, the fact is that this court exercises no bankruptcy jurisdiction in practice.
+
+The criminal rules enabling act specifies United States district courts, district courts for the districts of the Canal Zone and the Virgin Islands, the Supreme Court of the Commonwealth of Puerto Rico, and proceedings before United States commissioners.
+Aside from the addition of commissioners, now magistrates, this scheme differs from the bankruptcy pattern in that it makes no mention of the District Court of Guam but by specific mention removes the Canal Zone from the doubtful list.
+
+The further difference in including the Supreme Court of the Commonwealth of Puerto Rico seems not to be significant for present purposes, since the Supreme Court of the Commonwealth of Puerto Rico is an appellate court.
+The Rules of Criminal Procedure have not been made applicable to it, as being unneeded and inappropriate, Rule 54(a) of the Federal Rules of Criminal Procedure, and the same approach is indicated with respect to rules of evidence.
+
+If one were to stop at this point and frame a rule governing the applicability of the proposed rules of evidence in terms of the authority conferred by the three enabling acts, an irregular pattern would emerge as follows:
+
+Civil actions, including admiralty and maritime cases—district courts in the states, District of Columbia, and Puerto Rico.
+
+Bankruptcy—same as civil actions, plus Guam and Virgin Islands.
+
+Criminal cases—same as civil actions, plus Canal Zone and Virgin Islands (but not Guam).
+
+This irregular pattern need not, however, be accepted.
+Originally the Advisory Committee on the Rules of Civil Procedure took the position that, although the phrase "district courts of the United States" did not include territorial courts, provisions in the organic laws of Puerto Rico and Hawaii would make the rules applicable to the district courts thereof, though this would not be so as to Alaska, the Virgin Islands, or the Canal Zone, whose organic acts contained no corresponding provisions.
+At the suggestion of the Court, however, the Advisory Committee struck from its notes a statement to the above effect. 2 Moore's Federal Practice 1.07 (2nd ed. 1967); 1 Barron and Holtzoff, Federal Practice and Procedure §121 (Wright ed. 1960). Congress thereafter by various enactments provided that the rules and future amendments thereto should apply to the district courts of Hawaii, 53 Stat. 841 (1939), Puerto Rico, 54 Stat. 22 (1940), Alaska, 63 Stat. 445 (1949), Guam, 64 Stat. 384–390 (1950), and the Virgin Islands, 68 Stat. 497, 507 (1954). The original enabling act for rules of criminal procedure specifically mentioned the district courts of the Canal Zone and the Virgin Islands.
+The Commonwealth of Puerto Rico was blanketed in by creating its court a "district court of the United States" as previously described.
+Although Guam is not mentioned in either the enabling act or in the expanded definition of "district court of the United States," the Supreme Court in 1956 amended Rule 54(a) to state that the Rules of Criminal Procedure are applicable in Guam.
+The Court took this step following the enactment of legislation by Congress in 1950 that rules theretofore or thereafter promulgated by the Court in civil cases, admiralty, criminal cases and bankruptcy should apply to the District Court of Guam, 48 U.S.C. §1424(b), and two Ninth Circuit decisions upholding the applicability of the Rules of Criminal Procedure to Guam.
+Pugh v. United States, 212 F.2d 761 (9th Cir. 1954); Hatchett v. Guam, 212 F.2d 767 (9th Cir. 1954); Orfield, The Scope of the Federal Rules of Criminal Procedure, 38 U. of Det.L.J. 173, 187 (1960).
+
+From this history, the reasonable conclusion is that Congressional enactment of a provision that rules and future amendments shall apply in the courts of a territory or possession is the equivalent of mention in an enabling act and that a rule on scope and applicability may properly be drafted accordingly.
+Therefore the pattern set by Rule 54 of the Federal Rules of Criminal Procedure is here followed.
+
+The substitution of magistrates in lieu of commissioners is made in pursuance of the Federal Magistrates Act, P.L. 90–578, approved October 17, 1968, 82 Stat. 1107.
+
+Subdivision (b) is a combination of the language of the enabling acts, supra, with respect to the kinds of proceedings in which the making of rules is authorized.
+It is subject to the qualifications expressed in the subdivisions which follow.
+
+Subdivision (c), singling out the rules of privilege for special treatment, is made necessary by the limited applicability of the remaining rules.
+
+Subdivision (d). The rule is not intended as an expression as to when due process or other constitutional provisions may require an evidentiary hearing.
+Paragraph (1) restates, for convenience, the provisions of the second sentence of Rule 104(a), supra.
+See Advisory Committee's Note to that rule.
+
+(2) While some states have statutory requirements that indictments be based on "legal evidence," and there is some case law to the effect that the rules of evidence apply to grand jury proceedings, 1 Wigmore §4(5), the Supreme Court has not accepted this view.
+In Costello v. United States, 350 U.S. 359, 76 S.Ct. 406, 100 L.Ed. 397 (1965), the Court refused to allow an indictment to be attacked, for either constitutional or policy reasons, on the ground that only hearsay evidence was presented.
+
+"It would run counter to the whole history of the grand jury institution, in which laymen conduct their inquiries unfettered by technical rules.
+Neither justice nor the concept of a fair trial requires such a change." Id. at 364. The rule as drafted does not deal with the evidence required to support an indictment.
+
+(3) The rule exempts preliminary examinations in criminal cases.
+Authority as to the applicability of the rules of evidence to preliminary examinations has been meagre and conflicting.
+Goldstein, The State and the Accused: Balance of Advantage in Criminal Procedure, 69 Yale L.J. 1149, 1168, n. 53 (1960); Comment, Preliminary Hearings on Indictable Offenses in Philadelphia, 106 U. of Pa.L.Rev. 589, 592–593 (1958). Hearsay testimony is, however, customarily received in such examinations.
+Thus in a Dyer Act case, for example, an affidavit may properly be used in a preliminary examination to prove ownership of the stolen vehicle, thus saving the victim of the crime the hardship of having to travel twice to a distant district for the sole purpose of testifying as to ownership.
+It is believed that the extent of the applicability of the Rules of Evidence to preliminary examinations should be appropriately dealt with by the Federal Rules of Criminal Procedure which regulate those proceedings.
+
+Extradition and rendition proceedings are governed in detail by statute. 18 U.S.C. §§3181–3195. They are essentially administrative in character.
+Traditionally the rules of evidence have not applied. 1 Wigmore §4(6). Extradition proceedings are accepted from the operation of the Rules of Criminal Procedure.
+Rule 54(b)(5) of Federal Rules of Criminal Procedure.
+
+The rules of evidence have not been regarded as applicable to sentencing or probation proceedings, where great reliance is placed upon the presentence investigation and report.
+Rule 32(c) of the Federal Rules of Criminal Procedure requires a presentence investigation and report in every case unless the court otherwise directs.
+In Williams v. New York, 337 U.S. 241, 69 S.Ct. 1079, 93 L.Ed. 1337 (1949), in which the judge overruled a jury recommendation of life imprisonment and imposed a death sentence, the Court said that due process does not require confrontation or cross-examination in sentencing or passing on probation, and that the judge has broad discretion as to the sources and types of information relied upon.
+Compare the recommendation that the substance of all derogatory information be disclosed to the defendant, in A.B.A. Project on Minimum Standards for Criminal Justice, Sentencing Alternatives and Procedures §4.4, Tentative Draft (1967, Sobeloff, Chm.). Williams was adhered to in Specht v. Patterson, 386 U.S. 605, 87 S.Ct. 1209, 18 L.Ed.2d 326 (1967), but not extended to a proceeding under the Colorado Sex Offenders Act, which was said to be a new charge leading in effect to punishment, more like the recidivist statutes where opportunity must be given to be heard on the habitual criminal issue.
+
+Warrants for arrest, criminal summonses, and search warrants are issued upon complaint or affidavit showing probable cause.
+Rules 4(a) and 41(c) of the Federal Rules of Criminal Procedure.
+The nature of the proceedings makes application of the formal rules of evidence inappropriate and impracticable.
+
+Criminal contempts are punishable summarily if the judge certifies that he saw or heard the contempt and that it was committed in the presence of the court.
+Rule 42(a) of the Federal Rules of Criminal Procedure.
+The circumstances which preclude application of the rules of evidence in this situation are not present, however, in other cases of criminal contempt.
+
+Proceedings with respect to release on bail or otherwise do not call for application of the rules of evidence.
+The governing statute specifically provides:
+
+"Information stated in, or offered in connection with, any order entered pursuant to this section need not conform to the rules pertaining to the admissibility of evidence in a court of law." 18 U.S.C.A. §3146(f). This provision is consistent with the type of inquiry contemplated in A.B.A. Project on Minimum Standards for Criminal Justice, Standards Relating to Pretrial Release, §4.5(b), (c), p. 16 (1968). The references to the weight of the evidence against the accused, in Rule 46(a)(1), (c) of the Federal Rules of Criminal Procedure and in 18 U.S.C.A. §3146(b), as a factor to be considered, clearly do not have in view evidence introduced at a hearing.
+
+The rule does not exempt habeas corpus proceedings.
+The Supreme Court held in Walker v. Johnston, 312 U.S. 275, 61 S.Ct. 574, 85 L.Ed. 830 (1941), that the practice of disposing of matters of fact on affidavit, which prevailed in some circuits, did not "satisfy the command of the statute that the judge shall proceed 'to determine the facts of the case, by hearing the testimony and arguments.' " This view accords with the emphasis in Townsend v. Sain, 372 U.S. 293, 83 S.Ct. 745, 9 L.Ed.2d 770 (1963), upon trial-type proceedings, Id. 311, 83 S.Ct. 745, with demeanor evidence as a significant factor, Id. 322, 83 S.Ct. 745, in applications by state prisoners aggrieved by unconstitutional detentions.
+Hence subdivision (e) applies the rules to habeas corpus proceedings to the extent not inconsistent with the statute.
+
+Subdivision (e). In a substantial number of special proceedings, ad hoc evaluation has resulted in the promulgation of particularized evidentiary provisions, by Act of Congress or by rule adopted by the Supreme Court.
+Well adapted to the particular proceedings, though not apt candidates for inclusion in a set of general rules, they are left undisturbed.
+Otherwise, however, the rules of evidence are applicable to the proceedings enumerated in the subdivision.
+
+Notes of Committee on the Judiciary, House Report No. 93–650
+
+Subdivision (a) as submitted to the Congress, in stating the courts and judges to which the Rules of Evidence apply, omitted the Court of Claims and commissioners of that Court.
+At the request of the Court of Claims, the Committee amended the Rule to include the Court and its commissioners within the purview of the Rules.
+
+Subdivision (b) was amended merely to substitute positive law citations for those which were not.
 
 Change of Name
 

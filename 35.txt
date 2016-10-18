@@ -386,6 +386,25 @@ References in Text
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare.
 For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
+USPTO Law School Clinic Certification Program
+
+Pub. L. 113–227, §1, Dec. 16, 2014, 128 Stat. 2114, provided that:
+
+"(a) Establishment.—The Law School Clinic Certification Program of the United States Patent and Trademark Office, as implemented by the Office, is established as a program entitled the 'Law School Clinic Certification Program'. The Program shall allow students enrolled in a participating law school's clinic to practice patent and trademark law before the Office by drafting, filing, and prosecuting patent or trademark applications, or both, on a pro-bono basis for clients that qualify for assistance from the law school's clinic.
+The Director shall establish regulations and procedures for application to and participation in the Program.
+All law schools accredited by the American Bar Association are eligible for participation in the Program, and shall be examined for acceptance using identical criteria established by the Director.
+The Program shall be in effect for the 10-year period beginning on the date of the enactment of this Act [Dec. 16, 2014].
+
+"(b) Report on the Program.—The Director shall, not later than the last day of the 2-year period beginning on the date of the enactment of this Act, submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the Program, describing the number of law schools and law students participating in the Program, the work done through the Program, the benefits of the Program, and any recommendations of the Director for modifications to the Program.
+
+"(c) Definitions.—In this section:
+
+"(1) Office.—The term 'Office' means the United States Patent and Trademark Office.
+
+"(2) Program.—The term 'Program' means the Law School Clinic Certification Program established in subsection (a).
+
+"(3) Director.—The term 'Director' means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office."
+
 Patent Ombudsman Program for Small Business Concerns
 
 Pub. L. 112–29, §28, Sept. 16, 2011, 125 Stat. 339, provided that: "Using available resources, the Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall establish and maintain in the [United States Patent and Trademark] Office a Patent Ombudsman Program.
@@ -2593,19 +2612,6 @@ The first paragraph of the corresponding section of existing statute is revised 
 
 The last sentence relating to new matter is added but represents no departure from present practice.
 
-§133. Time for prosecuting application
-
-Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Director in such action, the application shall be regarded as abandoned by the parties thereto.
-
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–211, title II, §202(b)(5), Dec. 18, 2012, 126 Stat. 1536.)
-
-Historical and Revision Notes
-
-Based on Title 35, U.S.C., 1946 ed., §37 (R.S. 4894, amended (1) Mar. 3, 1897, ch. 391, §4, 29 Stat. 692, 693, (2) July 6, 1916, ch. 225, §1, 39 Stat. 345, 347–8, (3) Mar. 2, 1927, ch. 273, §1, 44 Stat. 1335, (4) Aug. 7, 1939, ch. 568, 53 Stat. 1264).
-
-The opening clause of the corresponding section of existing statute is omitted as having no present day meaning or value and the last two sentences are omitted for inclusion in section 267. The notice is stated as given or mailed.
-Language is revised.
-
 §134. Appeal to the Patent Trial and Appeal Board
 
 (a) Patent Applicant.—An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Patent Trial and Appeal Board, having once paid the fee for such appeal.
@@ -3702,6 +3708,47 @@ It is the policy and objective of the Congress to use the patent system to promo
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3018; amended Pub. L. 106–404, §5, Nov. 1, 2000, 114 Stat. 1745.)
 
+Effective Date
+
+Chapter effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
+
+Short Title
+
+This chapter is popularly known as the Bayh-Dole Act.
+Section 6(a) of Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3018, which enacted this chapter, is also popularly known as the Bayh-Dole Act and also as the University and Small Business Patent Procedures Act of 1980. For complete classification of section 6(a) of Pub. L. 96–517 to the Code, see Tables.
+
+§201. Definitions
+
+As used in this chapter—
+
+(a) The term "Federal agency" means any executive agency as defined in section 105 of title 5, and the military departments as defined by section 102 of title 5.
+
+(b) The term "funding agreement" means any contract, grant, or cooperative agreement entered into between any Federal agency, other than the Tennessee Valley Authority, and any contractor for the performance of experimental, developmental, or research work funded in whole or in part by the Federal Government.
+Such term includes any assignment, substitution of parties, or subcontract of any type entered into for the performance of experimental, developmental, or research work under a funding agreement as herein defined.
+
+(c) The term "contractor" means any person, small business firm, or nonprofit organization that is a party to a funding agreement.
+
+(d) The term "invention" means any invention or discovery which is or may be patentable or otherwise protectable under this title or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
+
+(e) The term "subject invention" means any invention of the contractor conceived or first actually reduced to practice in the performance of work under a funding agreement: Provided, That in the case of a variety of plant, the date of determination (as defined in section 41(d) 1 of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during the period of contract performance.
+
+(f) The term "practical application" means to manufacture in the case of a composition or product, to practice in the case of a process or method, or to operate in the case of a machine or system; and, in each case, under such conditions as to establish that the invention is being utilized and that its benefits are to the extent permitted by law or Government regulations available to the public on reasonable terms.
+
+(g) The term "made" when used in relation to any invention means the conception or first actual reduction to practice of such invention.
+
+(h) The term "small business firm" means a small business concern as defined at section 2 of Public Law 85–536 (15 U.S.C. 632) and implementing regulations of the Administrator of the Small Business Administration.
+
+(i) The term "nonprofit organization" means universities and other institutions of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)) and exempt from taxation under section 501(a) of the Internal Revenue Code (26 U.S.C. 501(a)) or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.
+
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3019; amended Pub. L. 98–620, title V, §501(1), (2), Nov. 8, 1984, 98 Stat. 3364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–273, div. C, title III, §13206(a)(12), Nov. 2, 2002, 116 Stat. 1904.)
+
+References in Text
+
+The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture.
+For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
+
+Section 41 of the Plant Variety Protection Act (7 U.S.C. 2401(d)), referred to in subsec. (e), was subsequently amended, and no longer defines the term "date of determination".
+
 1 See References in Text note below.
 
 §202. Disposition of rights
@@ -4242,22 +4289,6 @@ See section 288.
 
 The second paragraph is new and provides for the disclaiming or dedication of an entire patent, or any terminal part of the term, for example, a patentee may disclaim the last three years of the term of his patent.
 
-§254. Certificate of correction of Patent and Trademark Office mistake
-
-Whenever a mistake in a patent, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office, the Director may issue a certificate of correction stating the fact and nature of such mistake, under seal, without charge, to be recorded in the records of patents.
-A printed copy thereof shall be attached to each printed copy of the patent, and such certificate shall be considered as part of the original patent.
-Every such patent, together with such certificate, shall have the same effect and operation in law on the trial of actions for causes thereafter arising as if the same had been originally issued in such corrected form.
-The Director may issue a corrected patent without charge in lieu of and with like effect as a certificate of correction.
-
-(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
-
-Historical and Revision Notes
-
-Based on Title 35, U.S.C., 1946 ed., §88 (Mar. 4, 1925, ch. 535, §1, 43 Stat. 1268).
-
-The last sentence of the present section is omitted as obsolete.
-A sentence is added similar to a provision in the corresponding section in the trade-mark law, 15 U.S.C., 1946 ed., §1057(f), and provides that the Commissioner may issue a corrected patent instead of a certificate of correction.
-
 §255. Certificate of correction of applicant's mistake
 
 Whenever a mistake of a clerical or typographical nature, or of minor character, which was not the fault of the Patent and Trademark Office, appears in a patent and a showing has been made that such mistake occurred in good faith, the Director may, upon payment of the required fee, issue a certificate of correction, if the correction does not involve such changes in the patent as would constitute new matter or would require re-examination.
@@ -4362,7 +4393,7 @@ An interest that constitutes an assignment, grant or conveyance shall be void as
 
 Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §47 (R.S. 4898, amended (1) Mar. 3, 1897, ch. 391, §5, 29 Stat. 93, (2) Feb. 18, 1922, ch. 58, §6, 42 Stat. 391, (3) Aug. 18, 1941, ch. 370, 55 Stat. 634).
+Based on Title 35, U.S.C., 1946 ed., §47 (R.S. 4898, amended (1) Mar. 3, 1897, ch. 391, §5, 29 Stat. 93 [29 Stat. 693], (2) Feb. 18, 1922, ch. 58, §6, 42 Stat. 391, (3) Aug. 18, 1941, ch. 370, 55 Stat. 634).
 
 The first paragraph is new but is declaratory only.
 The second paragraph is the same as in the corresponding section of existing statute.
@@ -4517,16 +4548,6 @@ Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, c
 For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 Section 351 of the Public Health Service Act, referred to in subsec. (e)(2)(C), (4)(D), (6)(A), (C), is classified to section 262 of Title 42, The Public Health and Welfare.
-
-§272. Temporary presence in the United States
-
-The use of any invention in any vessel, aircraft or vehicle of any country which affords similar privileges to vessels, aircraft or vehicles of the United States, entering the United States temporarily or accidentally, shall not constitute infringement of any patent, if the invention is used exclusively for the needs of the vessel, aircraft or vehicle and is not offered for sale or sold in or used for the manufacture of anything to be sold in or exported from the United States.
-
-(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 103–465, title V, §533(b)(4), Dec. 8, 1994, 108 Stat. 4989.)
-
-Historical and Revision Notes
-
-This section follows the requirement of the International Convention for the Protection of Industrial Property, to which the United States is a party, and also codifies the holding of the Supreme Court that use of a patented invention on board a foreign ship does not infringe a patent.
 
 §273. Defense to infringement based on prior commercial use
 
@@ -4899,6 +4920,35 @@ See section 253.
 
 Language is changed.
 
+§289. Additional remedy for infringement of design patent
+
+Whoever during the term of a patent for a design, without license of the owner, (1) applies the patented design, or any colorable imitation thereof, to any article of manufacture for the purpose of sale, or (2) sells or exposes for sale any article of manufacture to which such design or colorable imitation has been applied shall be liable to the owner to the extent of his total profit, but not less than $250, recoverable in any United States district court having jurisdiction of the parties.
+
+Nothing in this section shall prevent, lessen, or impeach any other remedy which an owner of an infringed patent has under the provisions of this title, but he shall not twice recover the profit made from the infringement.
+
+(July 19, 1952, ch. 950, 66 Stat. 813.)
+
+Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §§74, 75 (Feb. 4, 1887, ch. 105, §§1, 2, 24 Stat. 387, 388).
+
+Language is changed.
+
+§290. Notice of patent suits
+
+The clerks of the courts of the United States, within one month after the filing of an action under this title shall give notice thereof in writing to the Director, setting forth so far as known the names and addresses of the parties, name of the inventor, and the designating number of the patent upon which the action has been brought.
+If any other patent is subsequently included in the action he shall give like notice thereof.
+Within one month after the decision is rendered or a judgment issued the clerk of the court shall give notice thereof to the Director.
+The Director shall, on receipt of such notices, enter the same in the file of such patent.
+
+(July 19, 1952, ch. 950, 66 Stat. 814; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+
+Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §70, part (R.S. 4921, amended (1) Mar. 3, 1897, ch. 391, §6, 29 Stat. 694, (2) Feb. 18, 1922, ch. 58, §8, 42 Stat. 392, (3) Aug. 1, 1946, ch. 726, §1, 60 Stat. 778).
+
+This is the last sentence of R.S. 4921, third paragraph, with minor changes in language.
+
 §291. Derived patents
 
 (a) In General.—The owner of a patent may have relief by civil action against the owner of another patent that claims the same invention and has an earlier effective filing date, if the invention claimed in such other patent was derived from the inventor of the invention claimed in the patent owned by the person seeking relief under this section.
@@ -5181,14 +5231,6 @@ If the patent owner files such a statement, he promptly will serve a copy of it 
 That person promptly will serve on the patent owner a copy of any reply filed.
 
 (Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
-
-§305. Conduct of reexamination proceedings
-
-After the times for filing the statement and reply provided for by section 304 have expired, reexamination will be conducted according to the procedures established for initial examination under the provisions of sections 132 and 133. In any reexamination proceeding under this chapter, the patent owner will be permitted to propose any amendment to his patent and a new claim or claims thereto, in order to distinguish the invention as claimed from the prior art cited under the provisions of section 301, or in response to a decision adverse to the patentability of a claim of a patent.
-No proposed amended or new claim enlarging the scope of a claim of the patent will be permitted in a reexamination proceeding under this chapter.
-All reexamination proceedings under this section, including any appeal to the Patent Trial and Appeal Board, will be conducted with special dispatch within the Office.
-
-(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 98–622, title II, §204(c), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 112–29, §§3(j)(1), 20(j), Sept. 16, 2011, 125 Stat. 290, 335.)
 
 §306. Appeal
 
@@ -5540,7 +5582,7 @@ The transitional proceeding implemented pursuant to this subsection shall be reg
 
 "(3) Sunset.—
 
-"(A) In general.—This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to [sic] paragraph (1) take effect.
+"(A) In general.—This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to [sic] paragraph (1) take effect [Regulations effective Sept. 16, 2012, see 77 F.R. 48680.].
 
 "(B) Applicability.—Notwithstanding subparagraph (A), this subsection and the regulations issued under this subsection shall continue to apply, after the date of the repeal under subparagraph (A), to any petition for a transitional proceeding that is filed before the date of such repeal.
 
@@ -5907,6 +5949,22 @@ An international application designating the United States shall have the effect
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §5, Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–211, title II, §202(b)(8), Dec. 18, 2012, 126 Stat. 1536.)
 
+§365. Right of priority; benefit of the filing date of a prior application
+
+(a) In accordance with the conditions and requirements of subsections (a) through (d) of section 119, a national application shall be entitled to the right of priority based on a prior filed international application which designated at least one country other than the United States.
+
+(b) In accordance with the conditions and requirement of section 119(a) and the treaty and the Regulations, an international application designating the United States shall be entitled to the right of priority based on a prior foreign application, or a prior international application designating at least one country other than the United States.
+The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed claim for priority under the treaty and the Regulations, and to accept a priority claim that pertains to an application that was not filed within the priority period specified in the treaty and Regulations, but was filed within the additional 2-month period specified under section 119(a) or the treaty and Regulations.
+
+(c) In accordance with the conditions and requirements of section 120, an international application designating the United States shall be entitled to the benefit of the filing date of a prior national application or a prior international application designating the United States, and a national application shall be entitled to the benefit of the filing date of a prior international application designating the United States.
+If any claim for the benefit of an earlier filing date is based on a prior international application which designated but did not originate in the United States, the Director may require the filing in the Patent and Trademark Office of a certified copy of such application together with a translation thereof into the English language, if it was filed in another language.
+
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–465, title V, §532(c)(4), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335; Pub. L. 112–211, title I, §102(8), title II, §201(c)(2), Dec. 18, 2012, 126 Stat. 1532, 1535.)
+
+Amendment of Subsection (c)
+
+Pub. L. 112–211, title I, §§102(8), 103, Dec. 18, 2012, 126 Stat. 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (c) of this section is amended, in the first sentence, by substituting ", a prior international application designating the United States, or a prior international design application as defined in section 381(a)(6) designating the United States" for "or a prior international application designating the United States" and, in the second sentence, by inserting "or a prior international design application as defined in section 381(a)(6) which designated but did not originate in the United States" after "did not originate in the United States". See 2012 Amendment note below.
+
 §366. Withdrawn international application
 
 Subject to section 367 of this part, if an international application designating the United States is withdrawn or considered withdrawn, either generally or as to the United States, under the conditions of the treaty and the Regulations, before the applicant has complied with the applicable requirements prescribed by section 371(c) of this part, the designation of the United States shall have no effect after the date of withdrawal, and shall be considered as not having been made, unless a claim for the benefit of a prior filing date under section 365(c) of this part was made in a national application, or an international application designating the United States, filed before the date of such withdrawal.
@@ -6055,20 +6113,6 @@ He may refund any sum paid by mistake or in excess of the fees so specified, or 
 The Director may also refund any part of the search fee, the national fee, the preliminary examination fee, and any additional fees, where he determines such refund to be warranted.
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 690; amended Pub. L. 98–622, title IV, §§402(g), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §8, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, §5(g)(1), Dec. 10, 1991, 105 Stat. 1640; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(21), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906.)
-
-Effective Date of 1999 Amendment
-
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, §4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
-
-Effective Date of 1986 Amendment
-
-Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pending before or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
-
-Effective Date of 1984 Amendment
-
-Amendment by section 402(g) of Pub. L. 98–622 effective six months after Nov. 8, 1984, see section 406(b) of Pub. L. 98–622, set out as a note under section 3 of this title.
-
-Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under section 351 of this title.
 
 PART V—THE HAGUE AGREEMENT CONCERNING INTERNATIONAL REGISTRATION OF INDUSTRIAL DESIGNS
 
