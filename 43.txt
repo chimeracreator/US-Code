@@ -486,10 +486,16 @@ Establishment.
 Duties.
 
 31e.
-Geologic mapping program implementation plan.
+Geologic mapping program 5-year plan.
+
+(a)
+In general.
+
+(b)
+Requirements.
 
 31f.
-National geologic-map data base.
+National geologic map database.
 
 (a)
 Establishment.
@@ -502,6 +508,12 @@ Biennial report.
 
 31h.
 Authorization of appropriations.
+
+(a)
+In general.
+
+(b)
+Allocation of appropriations.
 
 31i.
 Report on resource research activities.
@@ -580,6 +592,9 @@ Recording of obligations against accounts receivable and crediting of amounts re
 
 50c.
 Payment of costs incidental to utilization of services of volunteers.
+
+50d.
+Services of students or recent graduates.
 
         
 
@@ -744,20 +759,28 @@ The Congress finds and declares that—
 
 (6) the lack of proper geologic maps has led to the poor design of such structures as dams and waste-disposal facilities;
 
-(7) geologic maps have proven indispensable in the search for needed fossil-fuel and mineral resources; and
+(7) geologic maps have proven indispensable in the search for needed fossil-fuel and mineral resources;
 
-(8) a comprehensive nationwide program of geologic mapping is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand.
+(8) geologic map information is required for the sustainable and balanced development of natural resources of all types, including energy, minerals, land, water, and biological resources;
+
+(9) advances in digital technology and geographical information system science have made geologic map databases increasingly important as decision support tools for land and resource management; and
+
+(10) a comprehensive nationwide program of geologic mapping of surficial and bedrock deposits is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand.
 
 (b) Purpose
 
 The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection.
 
-(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166.)
+(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719.)
 
 References in Text
 
 Sections 31a to 31h of this title, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 102–285, which is classified principally to sections 31a to 31h of this title.
 For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+Short Title of 1999 Amendment
+
+Pub. L. 106–148, §1, Dec. 9, 1999, 113 Stat. 1719, provided that: “This Act [enacting sections 31e, 31g and 31h of this title, amending sections 31a to 31d and 31f of this title, and repealing former sections 31e, 31g, and 31h of this title] may be cited as the ‘National Geologic Mapping Reauthorization Act of 1999’.”
 
 Short Title of 1997 Amendment
 
@@ -791,7 +814,7 @@ Pub. L. 105–36, §2, Aug. 5, 1997, 111 Stat. 1107, provided that: “Congress 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 31b, 31d, 31f, 31g, 31h of this title.
+This section is referred to in sections 31b, 31h of this title.
 
 §31b. Definitions
 
@@ -809,23 +832,48 @@ The term “Association” means the Association of American State Geologists.
 
 The term “Director” means the Director of the United States Geological Survey.
 
-(4) Geologic mapping program
+(4) Education component
+
+The term “education component” means the education component of the geologic mapping program described in section 31e(d)(3) 1 of this title.
+
+(5) Federal component
+
+The term “Federal component” means the Federal component of the geologic mapping program described in section 31e(d)(1) 2 of this title.
+
+(6) Geologic mapping program
 
 The term “geologic mapping program” means the National Cooperative Geologic Mapping Program established by section 31c(a) of this title.
 
-(5) Secretary
+(7) Secretary
 
 The term “Secretary” means the Secretary of the Interior.
 
-(6) State
+(8) State
 
 The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
 
-(7) Survey
+(9) State component
+
+The term “State component” means the State component of the geologic mapping program described in section 31e(d)(2) 3 of this title.
+
+(10) Survey
 
 The term “Survey” means the United States Geological Survey.
 
-(Pub. L. 102–285, §3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, §3(a), Aug. 5, 1997, 111 Stat. 1107.)
+(Pub. L. 102–285, §3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, §3(a), Aug. 5, 1997, 111 Stat. 1107; Pub. L. 106–148, §3, Dec. 9, 1999, 113 Stat. 1719.)
+
+Section Referred to in Other Sections
+
+This section is referred to in section 31h of this title.
+
+1 So in original.
+Probably should be section “31c(d)(3)”.
+
+2 So in original.
+Probably should be section “31c(d)(1)”.
+
+3 So in original.
+Probably should be section “31c(d)(2)”.
 
 §31c. Geologic mapping program
 
@@ -849,20 +897,20 @@ The cooperative geologic mapping program shall be—
 
 (1) Lead agency
 
-The Survey shall be the lead Federal agency responsible for planning, developing priorities, coordinating, and managing the geologic mapping program.
+The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program.
 In carrying out this paragraph, the Secretary, acting through the Director, shall—
 
-(A) develop a geologic mapping program implementation plan in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate within 300 days after August 5, 1997;
+(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after December 9, 1999;
 
-(B) appoint, with the advice and consultation of the Association, the advisory committee within 90 days after August 5, 1997, in accordance with section 31d of this title; and
+(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after December 9, 1999, in accordance with section 31d of this title; and
 
-(C) within 210 days after August 5, 1997, submit a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
+(C) not later than 3 years after December 9, 1999, and biennially thereafter, submit a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
 
-(i) how the Survey and the Association will coordinate the development and implementation of the geologic mapping program;
+(i) how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;
 
-(ii) how the Survey and the Association will establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and
+(ii) how the Survey and the Association establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and
 
-(iii) how long-term staffing plans for the various components of the geologic mapping program will lead to successful implementation of the geologic mapping program.
+(iii) how long-term staffing plans for the various components of the geologic mapping program affect successful implementation of the geologic mapping program.
 
 (2) Responsibilities of the Secretary
 
@@ -876,7 +924,7 @@ In addition to paragraph (1), the Secretary, acting through the Director, shall 
 
 The objectives of the geologic mapping program shall include—
 
-(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map 1 data base;
+(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
 
 (2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that provide value-added descriptive and interpretative information to the geologic-map data base;
 
@@ -886,68 +934,109 @@ The objectives of the geologic mapping program shall include—
 
 (d) Program components
 
-The geologic mapping program shall include the following components:
-
 (1) Federal component
 
-A Federal geologic mapping component, whose objective shall be determining the geologic framework of areas determined to be vital to the economic, social, or scientific welfare of the Nation.
-Mapping priorities shall be based on—
+(A) In general
 
-(A) national requirements for geologic-map information in areas of multiple-issue need or areas of compelling single-issue need; and
+The geologic mapping program shall include a Federal geologic mapping component, the objective of which shall be to determine the geologic framework of areas determined to be vital to the economic, social, environmental, or scientific welfare of the United States.
 
-(B) national requirements for geologic-map information in areas where mapping is required to solve critical earth-science problems.
+(B) Mapping priorities
 
-(2) Support component
+For the Federal component, mapping priorities—
 
-A geologic mapping support component, whose objective shall be providing interdisciplinary support for the Federal Geologic Mapping Component.
-Representative categories of interdisciplinary support shall include—
+(i) shall be described in the 5-year plan under section 31e of this title; and
 
-(A) establishment of a national geologic-map data base, established pursuant to section 31f of this title;
+(ii) shall be based on—
 
-(B) studies that lead to the implementation of cost-effective digital methods for the acquisition, compilation, analysis, cartographic production, and dissemination of geologic-map information;
+(I) national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need; and
 
-(C) paleontologic investigations that provide information critical to understanding the age and depositional environment of fossil-bearing geologic-map units, which investigations shall be contributed to a national paleontologic data base;
+(II) national requirements for geologic map information in areas where mapping is required to solve critical earth science problems.
 
-(D) geochronologic and isotopic investigations that—
+(C) Interdisciplinary studies
 
-(i) provide radiometric age dates for geologic-map units; and
+(i) In general
 
-(ii) fingerprint the geothermometry, geobarometry, and alteration history of geologic-map units,
+The Federal component shall include interdisciplinary studies that add value to geologic mapping.
 
-which investigations shall be contributed to a national geochronologic data base;
+(ii) Representative categories
 
-(E) geophysical investigations that assist in delineating and mapping the physical characteristics and three-dimensional distribution of geologic materials and geologic structures, which investigations shall be contributed to a national geophysical-map data base; and
+Interdisciplinary studies under clause (i) may include—
 
-(F) geochemical investigations and analytical operations that characterize the major- and minor-element composition of geologic-map units, and that lead to the recognition of stable and anomalous geochemical signatures for geologic terrains, which investigations shall be contributed to a national geochemical-map data base.
+(I) establishment of a national geologic map database under section 31f of this title;
 
-(3) State component
+(II) studies that lead to the implementation of cost-effective digital methods for the acquisition, compilation, analysis, cartographic production, and dissemination of geologic map information;
 
-A State geologic mapping component, whose objective shall be determining the geologic framework of areas that the State geological surveys determine to be vital to the economic, social, or scientific welfare of individual States.
-Mapping priorities shall be determined by multirepresentational State panels and shall be integrated with national priorities.
-Federal funding for the State component shall be matched on a one-to-one basis with non-Federal funds.
+(III) paleontologic, geochrono-logic, and isotopic investigations that provide information critical to understanding the age and history of geologic map units;
 
-(4) Education component
+(IV) geophysical investigations that assist in delineating and mapping the physical characteristics and 3-dimensional distribution of geologic materials and geologic structures; and
 
-A geologic mapping education component—
+(V) geochemical investigations and analytical operations that characterize the composition of geologic map units.
 
-(A) the objectives of which shall be—
+(iii) Use of results
 
-(i) to develop the academic programs that teach earth-science students the fundamental principles of geologic mapping and field analysis; and
+The results of investigations under clause (ii) shall be contributed to national databases.
 
-(ii) to provide for broad education in geologic mapping and field analysis through support of field studies;
+(2) State component
 
-(B) investigations under which shall be integrated with the other mapping components of the geologic mapping program and shall respond to priorities identified for those components; and
+(A) In general
 
-(C) Federal funding for which shall be matched by non-Federal sources on a 1-to-1 basis.
+The geologic mapping program shall include a State geologic mapping component, the objective of which shall be to establish the geologic framework of areas determined to be vital to the economic, social, environmental, or scientific welfare of individual States.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108.)
+(B) Mapping priorities
+
+For the State component, mapping priorities—
+
+(i) shall be determined by State panels representing a broad range of users of geologic maps; and
+
+(ii) shall be based on—
+
+(I) State requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need; and
+
+(II) State requirements for geologic map information in areas where mapping is required to solve critical earth science problems.
+
+(C) Integration of Federal and State priorities
+
+A national panel including representatives of the Survey shall integrate the State mapping priorities under this paragraph with the Federal mapping priorities under paragraph (1).
+
+(D) Use of funds
+
+The Survey and recipients of grants under the State component shall not use more than 15.25 percent of the Federal funds made available under the State component for any fiscal year to pay indirect, servicing, or program management charges.
+
+(E) Federal share
+
+The Federal share of the cost of activities under the State component for any fiscal year shall not exceed 50 percent.
+
+(3) Education component
+
+(A) In general
+
+The geologic mapping program shall include a geologic mapping education component for the training of geologic mappers, the objectives of which shall be—
+
+(i) to provide for broad education in geologic mapping and field analysis through support of field studies; and
+
+(ii) to develop academic programs that teach students of earth science the fundamental principles of geologic mapping and field analysis.
+
+(B) Investigations
+
+The education component may include the conduct of investigations, which—
+
+(i) shall be integrated with the Federal component and the State component; and
+
+(ii) shall respond to mapping priorities identified for the Federal component and the State component.
+
+(C) Use of funds
+
+The Survey and recipients of grants under the education component shall not use more than 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
+
+(D) Federal share
+
+The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
+
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 31b, 31f of this title.
-
-1 So in original.
-Probably should be “geologic-map”.
+This section is referred to in sections 31b, 31d, 31f, 31g, 31h of this title.
 
 §31d. Advisory committee
 
@@ -963,19 +1052,19 @@ Federal agency members shall include the Administrator of the Environmental Prot
 
 (3) Appointed members
 
-Not later than 90 days after August 5, 1997, in consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Chief Geologist, as Chairman), two representatives from the State geological surveys, one representative from academia, and one representative from the private sector.
+Not later than 1 year after December 9, 1999, in consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Chief Geologist, as Chairman), two representatives from the State geological surveys, one representative from academia, and one representative from the private sector.
 
 (b) Duties
 
 The advisory committee shall—
 
-(1) review and critique the draft implementation plan prepared by the Director pursuant to section 31e of this title;
+(1) review and update the 5-year plan prepared by the Director pursuant to section 31e of this title;
 
 (2) review the scientific progress of the geologic mapping program; and
 
-(3) submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 31a to 31h of this title.
+(3) submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 31c through 31f of this title.
 
-(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110.)
+(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §5, Dec. 9, 1999, 113 Stat. 1722.)
 
 Termination of Advisory Committees
 
@@ -983,51 +1072,79 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 31b, 31c of this title.
+This section is referred to in sections 31b, 31c, 31g, 31h of this title.
 
-§31e. Geologic mapping program implementation plan
+§31e. Geologic mapping program 5-year plan
 
-The Secretary, acting through the Director, shall, with the advice and review of the advisory committee, prepare an implementation plan for the geologic mapping program.
-The plan shall identify the overall management structure and operation of the geologic mapping program and shall provide for—
+(a) In general
 
-(1) the role of the Survey in its capacity as overall management lead, including the responsibility for developing the national cooperative geologic mapping program that meets Federal needs while simultaneously fostering State needs;
+The Secretary, acting through the Director, shall, with the advice and review of the advisory committee, prepare a 5-year plan for the geologic mapping program.
 
-(2) the responsibilities accruing to the State geological surveys, with particular emphasis on mechanisms that incorporate their needs, missions, capabilities, and requirements into the nationwide geologic mapping program;
+(b) Requirements
 
-(3) mechanisms for identifying short- and long-term priorities for each component of the geologic mapping program, including—
+The 5-year plan shall identify—
 
-(A) for the Federal geologic mapping component, a priority-setting mechanism that responds both to (i) Federal mission requirements for geologic-map information, and (ii) critical scientific problems that require geologic-map control for their resolution;
+(1) overall priorities for the geologic mapping program; and
 
-(B) for the geologic mapping support component, a strong interdisciplinary research program plan in isotopic and paleontologic geochronology, geophysical mapping, and process studies to provide data to and interpret results from geologic mapping;
+(2) implementation of the overall management structure and operation of the geologic mapping program, including—
 
-(C) for the State geologic mapping component, a priority-setting mechanism that responds to—
+(A) the role of the Survey in the capacity of overall management lead, including the responsibility for developing the national geologic mapping program that meets Federal needs while fostering State needs;
 
-(i) specific intrastate needs for geologic-map information; and
+(B) the responsibilities of the State geological surveys, with emphasis on mechanisms that incorporate the needs, missions, capabilities, and requirements of the State geological surveys, into the nationwide geologic mapping program;
 
-(ii) interstate needs shared by adjacent entities that have common requirements; and
+(C) mechanisms for identifying short- and long-term priorities for each component of the geologic mapping program, including—
 
-(D) for the geologic mapping education component, a priority-setting mechanism that responds to requirements for geologic-map information that are driven by Federal and State mission requirements;
+(i) for the Federal component, a priority-setting mechanism that responds to—
 
-(4) a mechanism for adopting scientific and technical mapping standards for preparing and publishing general-purpose and special-purpose geologic maps to—
+(I) Federal mission requirements for geologic map information;
 
-(A) ensure uniformity of cartographic and scientific conventions; and
+(II) critical scientific problems that require geologic maps for their resolution; and
 
-(B) provide a basis for judgment as to the comparability and quality of map products; and
+(III) shared Federal and State needs for geologic maps, in which joint Federal-State geologic mapping projects are in the national interest;
 
-(5) a mechanism for monitoring the inventory of published and current mapping investigations nationwide in order to facilitate planning and information exchange and to avoid redundancy.
+(ii) for the State component, a priority-setting mechanism that responds to—
 
-(Pub. L. 102–285, §6, May 18, 1992, 106 Stat. 170; Pub. L. 105–36, §3(d), Aug. 5, 1997, 111 Stat. 1110.)
+(I) specific intrastate needs for geologic map information; and
+
+(II) interstate needs shared by adjacent States that have common requirements; and
+
+(iii) for the education component, a priority-setting mechanism that responds to requirements for geologic map information that are dictated by Federal and State mission requirements;
+
+(D) a mechanism for adopting scientific and technical mapping standards for preparing and publishing general- and special-purpose geologic maps to—
+
+(i) ensure uniformity of cartographic and scientific conventions; and
+
+(ii) provide a basis for assessing the comparability and quality of map products; and
+
+(E) a mechanism for monitoring the inventory of published and current mapping investigations nationwide to facilitate planning and information exchange and to avoid redundancy.
+
+(Pub. L. 102–285, §6, as added Pub. L. 106–148, §6, Dec. 9, 1999, 113 Stat. 1722.)
+
+Prior Provisions
+
+A prior section 31e, Pub. L. 102–285, §6, May 18, 1992, 106 Stat. 170; Pub. L. 105–36, §3(d), Aug. 5, 1997, 111 Stat. 1110, provided for the preparation of a geologic mapping program implementation plan, prior to repeal by Pub. L. 106–148, §6, Dec. 9, 1999, 113 Stat. 1722.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 31c, 31d of this title.
+This section is referred to in sections 31c, 31d, 31g, 31h of this title.
 
-§31f. National geologic-map data base
+§31f. National geologic map database
 
 (a) Establishment
 
-The Survey shall establish a national geologic-map data base.
-Such data base shall be a national archive that includes all maps developed pursuant to sections 31a to 31h of this title, the data bases developed pursuant to the investigations under sections 31c(d)(2)(C), (D), (E), and (F) of this title, and other maps and data as the Survey deems appropriate.
+(1) In general
+
+The Survey shall establish a national geologic map database.
+
+(2) Function
+
+The database shall serve as a national catalog and archive, distributed through links to Federal and State geologic map holdings, that includes—
+
+(A) all maps developed under the Federal component and the education component;
+
+(B) the databases developed in connection with investigations under subclauses (III), (IV), and (V) of section 31c(d)(1)(C)(ii) of this title; and
+
+(C) other maps and data that the Survey and the Association consider appropriate.
 
 (b) Standardization
 
@@ -1040,7 +1157,7 @@ Reg. 17,671 (1994)), which established the National Spatial Data Infrastructure.
 
 Entities that contribute geologic maps to the national archives shall develop the standards described in paragraph (1) in cooperation with the Federal Geographic Data Committee, which is charged with standards development and other data coordination activities as described in Office of Management and Budget revised Circular A–16.
 
-(Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110.)
+(Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §7, Dec. 9, 1999, 113 Stat. 1723.)
 
 References in Text
 
@@ -1048,70 +1165,68 @@ Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under
 
 Section Referred to in Other Sections
 
-This section is referred to in section 31c of this title.
+This section is referred to in sections 31c, 31d, 31g, 31h of this title.
 
 §31g. Biennial report
 
-The Secretary shall, within 90 days after the end of each second fiscal year, submit a biennial report to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate describing the status of the nationwide geologic mapping program and describing and evaluating the progress achieved during the 2 preceding fiscal years in developing the national geologic-map data base.
-Each report shall include any recommendations for legislative or other action as the Secretary deems necessary and appropriate to fulfill the purposes of sections 31a to 31h of this title.
+Not later 3 1 years after December 9, 1999, and biennially thereafter, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
 
-(Pub. L. 102–285, §8, May 18, 1992, 106 Stat. 171; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(f), Aug. 5, 1997, 111 Stat. 1111; Pub. L. 105–362, title IX, §902(b), Nov. 10, 1998, 112 Stat. 3291.)
+(1) describes the status of the national geologic mapping program;
+
+(2) describes and evaluates the progress achieved during the preceding 2 years in developing the national geologic map database; and
+
+(3) includes any recommendations that the Secretary may have for legislative or other action to achieve the purposes of sections 31c through 31f of this title.
+
+(Pub. L. 102–285, §8, as added Pub. L. 106–148, §8, Dec. 9, 1999, 113 Stat. 1724.)
+
+Prior Provisions
+
+A prior section 31g, Pub. L. 102–285, §8, May 18, 1992, 106 Stat. 171; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(f), Aug. 5, 1997, 111 Stat. 1111; Pub. L. 105–362, title IX, §902(b), Nov. 10, 1998, 112 Stat. 3291, directed the Secretary to submit a biennial report to Congress describing the status of the nationwide geologic mapping program and evaluating the progress achieved during the preceding fiscal year in developing the national geologic-map data base, prior to repeal by Pub. L. 106–148, §8, Dec. 9, 1999, 113 Stat. 1724.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 31h of this title.
+
+1 So in original.
+Probably should be preceded by “than”.
 
 §31h. Authorization of appropriations
 
 (a) In general
 
-There are authorized to be appropriated to carry out the national cooperative geologic mapping program under sections 31a to 31h of this title—
+There are authorized to be appropriated to carry out sections 31a to 31h of this title—
 
-(1) $26,000,000 for fiscal year 1998;
+(1) $28,000,000 for fiscal year 1999;
 
-(2) $28,000,000 for fiscal year 1999; and
+(2) $30,000,000 for fiscal year 2000;
 
-(3) $30,000,000 for fiscal year 2000.
+(3) $37,000,000 for fiscal year 2001;
 
-(b) Allocation of appropriated funds
+(4) $43,000,000 for fiscal year 2002;
 
-(1) In general
+(5) $50,000,000 for fiscal year 2003;
 
-Of the amount of funds that are appropriated under subsection (a) of this section for any fiscal year up to the amount that is equal to the amount appropriated to carry out the national cooperative geologic mapping program for fiscal year 1996—
+(6) $57,000,000 for fiscal year 2004; and
 
-(A) not less than 20 percent shall be allocated to State mapping activities; and
+(7) $64,000,000 for fiscal year 2005.
 
-(B) not less than 2 percent shall be allocated to educational mapping activities.
+(b) Allocation of appropriations
 
-(2) Increased appropriations
+Of any amounts appropriated for any fiscal year in excess of the amount appropriated for fiscal year 2000—
 
-Of the amount of funds that are appropriated under subsection (a) of this section for any fiscal year up to the amount that exceeds the amount appropriated to carry out the national cooperative geologic mapping program for fiscal year 1996—
+(1) 48 percent shall be available for the State component; and
 
-(A) for fiscal year 1998—
+(2) 2 percent shall be available for the education component.
 
-(i) 75 percent shall be allocated for Federal mapping and support mapping activities;
+(Pub. L. 102–285, §9, as added Pub. L. 106–148, §9, Dec. 9, 1999, 113 Stat. 1724.)
 
-(ii) 23 percent shall be allocated for State mapping activities; and
+Prior Provisions
 
-(iii) 2 percent shall be allocated for educational mapping activities;
-
-(B) for fiscal year 1999—
-
-(i) 74 percent shall be allocated for Federal mapping and support mapping activities;
-
-(ii) 24 percent shall be allocated for State mapping activities; and
-
-(iii) 2 percent shall be allocated for educational mapping activities; and
-
-(C) for fiscal year 2000—
-
-(i) 73 percent shall be allocated for Federal mapping and support mapping activities;
-
-(ii) 25 percent shall be allocated for State mapping activities; and
-
-(iii) 2 percent shall be allocated for educational mapping activities.
-
-(Pub. L. 102–285, §9, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(g), Aug. 5, 1997, 111 Stat. 1111.)
+A prior section 31h, Pub. L. 102–285, §9, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(g), Aug. 5, 1997, 111 Stat. 1111, authorized appropriations for the national cooperative geologic mapping program, prior to repeal by Pub. L. 106–148, §9, Dec. 9, 1999, 113 Stat. 1724.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 31a, 31b, 31d, 31f, 31g of this title.
+This section is referred to in sections 31a, 31b of this title.
 
 §31i. Report on resource research activities
 
@@ -1429,7 +1544,7 @@ May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this ti
 
 The share of the United States Geological Survey in any topographic mapping or water resources data collection and investigations carried on in cooperation with any State or municipality shall not exceed 50 per centum of the cost thereof.
 
-(Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–242.)
+(Pub. L. 106–113, div. B, §1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–145.)
 
 Codification
 
@@ -1438,6 +1553,8 @@ Section text is based on act July 31, 1953, ch. 298, title I, §1, 67 Stat. 269,
 Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–242.
 
 Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1552.
 
@@ -1597,6 +1714,16 @@ Appropriations herein, referred to in text, probably means appropriations under 
 Change of Name
 
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+
+§50d. Services of students or recent graduates
+
+The United States Geological Survey may on and after November 29, 1999, contract directly with individuals or indirectly with institutions or nonprofit organizations, without regard to section 5 of title 41, for the temporary or intermittent services of students or recent graduates, who shall be considered employees for the purposes of chapters 57 and 81 of title 5, relating to compensation for travel and work injuries, and chapter 171 of title 28, relating to tort claims, but shall not be considered to be Federal employees for any other purposes.
+
+(Pub. L. 106–113, div. B, §1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–146.)
+
+Prior Provisions
+
+Provisions similar to those in this section were contained in Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–243.
 
 CHAPTER 3—SURVEYS
 
@@ -6009,9 +6136,6 @@ General authority.
 (b)
 Federal share.
 
-(c)
-Report.
-
 390h–7.
 Tucson area water reclamation study.
 
@@ -8497,45 +8621,6 @@ Within six months, after the enactment of an appropriation Act to carry out phas
 
 Section Referred to in Other Sections
 
-This section is referred to in section 390g–2 of this title.
-
-§390g–2. Phase II of groundwater recharge demonstration program
-
-(a) Design, construction, and operation of projects
-
-During phase II, and subject to State water laws and interstate water compacts, the Bureau is authorized and directed to design, construct, and operate demonstration projects in the High Plains States and other Reclamation Act States to recharge groundwater systems as recommended in the report referred to in subsection (c) of this section.
-
-(b) Alternative means of cost allocation; economic feasibility of projects
-
-During phase II the Secretary, acting through the Bureau, shall contract with the various High Plains States and other Reclamation Act States to conduct a study to identify and evaluate alternative means by which the costs of groundwater recharge projects could be allocated among the beneficiaries of the projects within the respective States and identify and evaluate the economic feasibility of and the legal authority for utilizing groundwater recharge in water resource development projects.
-
-(c) Reports to Congress
-
-(1) Within twelve months after the initiation of phase II, and at annual intervals thereafter, the Secretary shall submit interim reports to Congress.
-Each report shall contain a detailed statement of his findings and progress respecting the design, construction, and operation of the demonstration projects referred to in subsection (a) of this section and the study referred to in subsection (b) of this section.
-
-(2) Within five years after the initiation of phase II, the Secretary shall submit a summary report to Congress.
-The summary report shall contain—
-
-(A) a detailed evaluation of the demonstration projects referred to in subsection (a) of this section;
-
-(B) the results of the studies referred to in subsection (b) of this section;
-
-(C) specific recommendations regarding the location, scope, and feasibility of operational groundwater recharge projects to be constructed and maintained by the Bureau; and
-
-(D) an evaluation of the feasibility of integrating these groundwater recharge projects into existing reclamation projects.
-
-(3) In addition to recommendations made under section 390g–1 of this title, the Secretary shall make additional recommendations for design, construction, and operation of demonstration projects.
-Such projects are authorized to be designed, constructed, and operated in accordance with subsection (a) of this section.
-
-(4) Each project under this section shall terminate five years after the date on which construction on the project is completed.
-
-(5) At the conclusion of phase II the Secretary shall submit a final report to the Congress which shall include, but not be limited to, a detailed evaluation of the projects under this section.
-
-(Pub. L. 98–434, §4, Sept. 28, 1984, 98 Stat. 1676; Pub. L. 102–575, title XXVI, §2601(1), (2), Oct. 30, 1992, 106 Stat. 4689.)
-
-Section Referred to in Other Sections
-
 This section is referred to in section 390g–3 of this title.
 
 §390g–3. Evaluation of water quality impacts
@@ -8636,7 +8721,7 @@ Section 1601 of title XVI of Pub. L. 102–575 provided that: “This title [ena
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 390h–1, 390h–2, 390h–4, 390h–6, 390h–7, 390h–8, 390h–9, 390h–13 of this title.
+This section is referred to in sections 390h–1, 390h–2, 390h–4, 390h–7, 390h–8, 390h–9, 390h–13 of this title.
 
 §390h–1. Appraisal investigations
 
@@ -8782,112 +8867,6 @@ The Federal share of the costs associated with this study shall not exceed 50 pe
 The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–15 of this title.
 
 (Pub. L. 102–575, title XVI, §1606, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
-
-Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-Reuse of Waste Water
-
-Pub. L. 102–580, title II, §217, Oct. 31, 1992, 106 Stat. 4833, provided that:
-
-“(a) In General.—The Secretary is authorized to provide assistance to non-Federal interests for carrying out projects described in subsection (c) for the beneficial reuse of waste water.
-Such assistance may be in the form of technical and planning and design assistance.
-If the Secretary is to provide any design or engineering assistance to carry out a project under this section, the Secretary shall obtain by procurement from private sources all services necessary for the Secretary to provide such assistance, unless the Secretary finds that—
-
-“(1) the service would require the use of a new technology unavailable in the private sector; or
-
-“(2) a solicitation or request for proposal has failed to attract 2 or more bids or proposals.
-
-“(b) Non-Federal Share.—The non-Federal share of the cost of assistance provided under this section shall not be less than 25 percent, except that such share shall be subject to the ability of the non-Federal interest to pay, including the procedures and regulations relating to ability to pay established under section 103(m) of the Water Resources Development Act of 1986 [33 U.S.C. 2213(m)].
-
-“(c) Project Descriptions.—The projects for which the Secretary is authorized to provide assistance under subsection (a) are as follows:
-
-“(1) Southern california comprehensive water reuse system.—
-
-“(A) Description.—A regional water reuse system for Southern California to treat, store, and transfer water in order to provide a new increment of water supply for agricultural, municipal, industrial, and environmental needs of Southern California.
-
-“(B) Cooperation.—The Secretary shall carry out this paragraph in cooperation with the State of California and appropriate local and regional entities.
-
-“(C) Southern california defined.—For purposes of this paragraph, the term ‘Southern California’ means those portions of the counties of Imperial, Los Angeles, Orange, San Bernardino, Riverside, San Diego, Ventura, Santa Barbara, and San Luis Obispo, California, within the south coast, central coast, and Colorado River hydrologic regions as defined by the California Department of Water Resources.
-
-“(2) San diego area water reuse demonstration facilities.—Water reuse facilities (which are not inconsistent with facilities mandated by the United States District Court in San Diego, California) to develop advance technology for economically and environmentally sound alternative water supplies for the San Diego metropolitan area.
-
-“(3) Santa rosa water reuse projects.—
-
-“(A) Description.—Water reuse projects for the city of Santa Rosa, California, to treat waste water and store such treated water for the purposes of providing new water supplies for agriculture, municipal, environmental, and other purposes and reducing the use of potable water supplies for purposes where treated waste water is a viable substitute.
-
-“(B) Cooperation.—The Secretary shall carry out this paragraph in cooperation with the city of Santa Rosa, California, and other appropriate authorities.
-
-“(4) Monterey county, california.—
-
-“(A) Description.—Reduction of salt water intrusion into aquifers in the vicinity of Castroville, California, for the purposes of improving the water quality of Monterey Bay and enhancing long-term water supply in the area.
-
-“(B) Cooperation.—The Secretary shall carry out this paragraph in cooperation with the Monterey Regional Water Pollution Control Agency and the Monterey County Water Resources Agency.
-
-“(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000. Such sums shall remain available until expended.”
-
-Section Referred to in Other Sections
-
-This section is referred to in section 390h–2 of this title.
-
-§390h–5. San Jose area water reclamation and reuse program
-
-(a) The Secretary, in cooperation with the city of San Jose, California, and the Santa Clara Valley Water District, and local water suppliers, shall participate in the planning, design and construction of demonstration and permanent facilities to reclaim and reuse water in the San Jose metropolitan service area.
-
-(b) The Federal share of the costs of the facilities authorized by subsection (a) of this section shall not exceed 25 per centum of the total.
-The Secretary shall not provide funds for the operation or maintenance of the project.
-
-(Pub. L. 102–575, title XVI, §1607, Oct. 30, 1992, 106 Stat. 4666.)
-
-Demonstration of Waste Water Technology, Santa Clara Valley Water District and San Jose, California
-
-Pub. L. 102–580, title II, §218, Oct. 31, 1992, 106 Stat. 4834, provided that:
-
-“(a) In General.—The Secretary, in cooperation with the Administrator of the Environmental Protection Agency, is authorized to provide design and construction assistance to the Santa Clara Valley Water District in San Jose, California, and to the city of San Jose, California, for demonstrating and field testing public use innovative processes which advance the technology of waste water reuse and treatment and which promote the use of treated waste water for critical water supply purposes and for the protection of fish and wildlife in the San Francisco Bay.
-All design, construction, and comprehensive health effects studies shall be carried out by non-Federal interests.
-
-“(b) Purposes of Assistance.—Assistance may be provided under this section—
-
-“(1) for the design and construction of an innovative nonpotable waste water reuse treatment facility with distribution systems;
-
-“(2) for the design and construction of an innovative potable waste water reuse pilot plant;
-
-“(3) for implementation of a comprehensive health effects study of the performance of the potable waste water reuse pilot plant; and
-
-“(4) after the pilot plant is constructed and is operational, for the design and construction of a potable waste water reuse project, along with integration of the additional potable processes into the existing nonpotable facilities, and the extension of the distribution systems to groundwater recharge areas, if the Secretary, in cooperation with the Administrator of the Environmental Protection Agency, determines that the established public health requirements and water quality goals and objectives are being met by the pilot plant, the public health and safety is not at risk as a result of the operation of the pilot plant, and the pilot plant is operating reliably.
-
-“(c) Cost Sharing.—Total project costs under this section shall be shared at 75 percent Federal and 25 percent non-Federal.
-The non-Federal sponsor shall receive credit for lands, easements, rights-of-way, and relocations toward its share of project costs, but not to exceed 25 percent of total project costs.
-Operation and maintenance cost shall be 100 percent non-Federal.
-
-“(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000. Such sums shall remain available until expended.”
-
-Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
-
-§390h–6. Phoenix metropolitan water reclamation study and program
-
-(a) General authority
-
-The Secretary, in cooperation with the city of Phoenix, Arizona, shall conduct a feasibility study of the potential for development of facilities to utilize fully wastewater from the regional wastewater treatment plant for direct municipal, industrial, agricultural, and environmental purposes, groundwater recharge and direct potable reuse in the Phoenix metropolitan area, and in cooperation with the city of Phoenix design and construct facilities for environmental purposes, ground water recharge and direct potable reuse.
-
-(b) Federal share
-
-The Federal share of the costs of the study authorized by this section shall not exceed 50 per centum of the total.
-The Federal share of the costs associated with the project described in subsection (a) of this section shall not exceed 25 per centum of the total.
-The Secretary shall not provide funds for operation or maintenance of the project.
-
-(c) Report
-
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than two years after appropriation of funds authorized by sections 390h to 390h–15 of this title.
-
-(Pub. L. 102–575, title XVI, §1608, Oct. 30, 1992, 106 Stat. 4666; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
-
-Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Section Referred to in Other Sections
 
@@ -9415,7 +9394,7 @@ There is authorized to be appropriated for fiscal years beginning after Septembe
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 390h, 390h–1, 390h–2, 390h–4, 390h–6, 390h–7, 390h–8, 390h–9, 390h–14 of this title.
+This section is referred to in sections 390h, 390h–1, 390h–2, 390h–4, 390h–7, 390h–8, 390h–9, 390h–14 of this title.
 
 §390h–16. Willow Lake Natural Treatment System Project
 
@@ -10319,6 +10298,31 @@ Prior Provisions
 
 Provisions similar to those in this section were contained in acts Mar. 2, 1889, ch. 411, §1, 25 Stat. 960; Oct. 2, 1888, ch. 1069, §1, 25 Stat. 526.
 
+Section as Unaffected by Submerged Lands Act
+
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
+
+Cross References
+
+Grand Teton National Park, withdrawn lands within exterior boundary, use for reclamation purposes, see section 406d–5 of Title 16, Conservation.
+
+§411a. Repealed.
+Feb. 28, 1929, ch. 374, §2, 45 Stat. 1406
+
+Section, act June 28, 1926, ch. 704, 44 Stat. 776, authorized employment of engineers for consultation.
+
+§411a–1. Authorization of appropriations for investigations of feasibility of reclamation projects
+
+The sum of $125,000 annually is authorized to be appropriated for cooperative and miscellaneous investigations of the feasibility of reclamation projects.
+
+(Feb. 21, 1923, ch. 101, 42 Stat. 1281.)
+
+§411b. Employment of engineers, geologists, appraisers and economists for reclamation consultation work; compensation; retired Army and Navy officers as consulting engineers
+
+The Secretary of the Interior is authorized, in his judgment and discretion, to employ for consultation purposes on important reclamation work ten consulting engineers, geologists, appraisers, and economists, at rates of compensation to be fixed by him, but not to exceed $50 per day for any engineer, geologist, appraiser, or economist so employed: Provided, That the total compensation paid to any engineer, geologist, appraiser, or economist during any fiscal year shall not exceed $5,000: Provided further, That notwithstanding the provisions of any other Act, retired officers of the Army or Navy may be employed by the Secretary of the Interior as consulting engineers in accordance with the provisions of this section.
+
+(Feb. 28, 1929, ch. 374, §1, 45 Stat. 1406; Apr. 22, 1940, ch. 125, 54 Stat. 148; Dec. 23, 1944, ch. 708, 58 Stat. 915; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 652.)
+
 Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg.
@@ -10602,89 +10606,6 @@ References in Text
 
 The Federal reclamation laws, referred to in text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to this chapter.
 For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421c, 421e to 421h, 502 of this title.
-
-§421e. Municipal and industrial water supply delivery and distribution; allocation of loan funds; loan repayment contract requirements; rate of interest
-
-Unless otherwise provided in the Act authorizing construction of the project, the delivery and distribution of municipal and industrial water supplies shall be deemed to be an authorized project purpose under sections 421a to 421h of this title, and where appropriate, an allocation of loan funds acceptable to the Secretary shall be made between irrigation and municipal and industrial purposes.
-Loan repayment contracts shall require that the borrower pay interest on that portion of the unamortized loan obligation (including interest during construction) allocated in each year to municipal and industrial purposes at the rate provided in the Act authorizing the project, or absent such an authorized rate, at a rate determined by the Secretary of the Treasury as of the beginning of the fiscal year in which the contract, or contract amendment entered into pursuant to section 421f of this title, is executed, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations which are neither due nor callable for redemption for fifteen years from date of issue, and by adjusting such average rate to the nearest one-eighth of 1 per centum.
-
-(July 4, 1955, ch. 271, §5, as added Pub. L. 92–487, Oct. 3, 1972, 86 Stat. 805.)
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421d, 421f to 421h of this title.
-
-§421f. Existing loan contracts; negotiation by Secretary of amendments
-
-The Secretary is hereby authorized to negotiate amendments to existing water service and irrigation distribution system loan contracts to conform said contracts to the provisions of sections 421a to 421h of this title.
-
-(July 4, 1955, ch. 271, §6, as added Pub. L. 92–487, Oct. 13, 1972, 86 Stat. 805.)
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421e, 421g, 421h, 502 of this title.
-
-§421g. Existing rights unaffected
-
-Nothing in sections 421a to 421h of this title shall be construed to repeal or limit the procedural and substantive requirements of sections 372 and 383 of this title.
-
-(July 4, 1955, ch. 271, §7, as added Pub. L. 92–487, Oct. 13, 1972, 86 Stat. 806.)
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421f, 421h, 502 of this title.
-
-§421h. Procedural and substantive requirements applicable to works financed by loans pursuant to sections 421a to 421h of this title
-
-Works financed by loans made under sections 421a to 421h of this title shall be subject to all procedural and substantive requirements of the Fish and Wildlife Coordination Act [16 U.S.C. 661 et seq.], the Federal Water Pollution Control Act, as amended [33 U.S.C. 1251 et seq.], and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
-
-(July 4, 1955, ch. 271, §8, as added Pub. L. 92–487, Oct. 13, 1972, 86 Stat. 806.)
-
-References in Text
-
-The Fish and Wildlife Coordination Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation.
-For complete classification of this Act to the Code, see Short Title note set under section 661 of Title 16 and Tables.
-
-The Federal Water Pollution Control Act, as amended, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters.
-For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
-
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare.
-For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421g, 502 of this title.
-
-§422. Construction of dams across Yellowstone River
-
-Where, in carrying out projects under the provisions of the national reclamation Act it shall be necessary to construct dams in or across the Yellowstone River in the State of Montana, the Secretary of the Interior is hereby authorized to construct and use and operate the same in the manner and for the purposes contemplated by said reclamation Act.
-
-(Mar. 3, 1905, ch. 1476, 33 Stat. 1045.)
-
-References in Text
-
-The national reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter.
-For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
-
-SUBCHAPTER IV—CONSTRUCTION OF SMALL PROJECTS
-
-Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 502, 504, 2201 of this title; title 16 section 460l–17.
-
-§422a. Declaration of purpose
-
-The purpose of this subchapter is to encourage State and local participation in the development of projects under the Federal reclamation laws, with emphasis on rehabilitation and betterment of existing projects for purposes of significant conservation of water, energy and the environment and for purpose of water quality control, and to provide for Federal assistance in the development of similar projects in the seventeen western reclamation States by non-Federal organizations.
-
-(Aug. 6, 1956, ch. 972, §1, 70 Stat. 1044; Pub. L. 99–546, title III, §302, Oct. 27, 1986, 100 Stat. 3053.)
-
-References in Text
-
-The Federal reclamation laws, referred to in text, are defined in section 422b of this title.
 
 Separability
 
@@ -21646,7 +21567,7 @@ Lease of small tracts of the lands described in this section for residential, re
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1181b, 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 16 section 4804; title 30 sections 601, 603.
+This section is referred to in sections 1181b, 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
 
 1 See References in Text note below.
 
@@ -21664,7 +21585,7 @@ The Secretary of the Interior is authorized, in his discretion, to make cooperat
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 16 section 4804; title 30 sections 601, 603.
+This section is referred to in sections 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
 
 §1181c. Repealed.
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787
@@ -21687,7 +21608,7 @@ The Secretary of the Interior is authorized, in his discretion, to lease for gra
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1181e, 1181f, 1181f–4, 1181i, 1735, 1751, 1752 of this title; title 16 section 4804; title 30 sections 601, 603.
+This section is referred to in sections 1181e, 1181f, 1181f–4, 1181i, 1735, 1751, 1752 of this title; title 30 sections 601, 603.
 
 §1181e. Rules and regulations generally; consultation and agreements with other agencies regarding fire regulations
 
@@ -21700,7 +21621,7 @@ In formulating regulations for the protection of such timberlands against fire, 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1181d, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 16 section 4804; title 30 sections 601, 603.
+This section is referred to in sections 1181d, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
 
 §1181f. Oregon and California land-grant fund; annual distribution of moneys
 
@@ -21768,7 +21689,7 @@ Provisions respecting administration, management and consolidation of certain na
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 869–4, 1181d, 1181e, 1181f–4, 1181g, 1181i, 1735, 1752 of this title; title 16 sections 521a, 4804; title 30 sections 601, 603.
+This section is referred to in sections 869–4, 1181d, 1181e, 1181f–4, 1181g, 1181i, 1735, 1752 of this title; title 16 section 521a; title 30 sections 601, 603.
 
 §1181f–1. Coos Bay Wagon Road grant fund; annual payments; appraisal and assessment of land and timber; computation of payments
 
@@ -22760,6 +22681,37 @@ IN WITNESS WHEREOF, I have hereunto set my hand this 27th day of December, in th
 
 Ronald Reagan.      
 
+Proc.
+No. 7219. Contiguous Zone of the United States
+
+Proc.
+No. 7219, Sept. 2, 1999, 64 F.R. 48701, 49844, provided:
+
+International law recognizes that coastal nations may establish zones contiguous to their territorial seas, known as contiguous zones.
+
+The contiguous zone of the United States is a zone contiguous to the territorial sea of the United States, in which the United States may exercise the control necessary to prevent infringement of its customs, fiscal, immigration, or sanitary laws and regulations within its territory or territorial sea, and to punish infringement of the above laws and regulations committed within its territory or territorial sea.
+
+Extension of the contiguous zone of the United States to the limits permitted by international law will advance the law enforcement and public health interests of the United States.
+Moreover, this extension is an important step in preventing the removal of cultural heritage found within 24 nautical miles of the baseline.
+
+NOW, THEREFORE, I, WILLIAM J. CLINTON, by the authority vested in me as President by the Constitution of the United States, and in accordance with international law, do hereby proclaim the extension of the contiguous zone of the United States of America, including the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and any other territory or possession over which the United States exercises sovereignty, as follows:
+
+The contiguous zone of the United States extends to 24 nautical miles from the baselines of the United States determined in accordance with international law, but in no case within the territorial sea of another nation.
+
+In accordance with international law, reflected in the applicable provisions of the 1982 Convention on the Law of the Sea, within the contiguous zone of the United States the ships and aircraft of all countries enjoy the high seas freedoms of navigation and overflight and the laying of submarine cables and pipelines, and other internationally lawful uses of the sea related to those freedoms, such as those associated with the operation of ships, aircraft, and submarine cables and pipelines, and compatible with the other provisions of international law reflected in the 1982 Convention on the Law of the Sea.
+
+Nothing in this proclamation:
+
+(a) amends existing Federal or State law;
+
+(b) amends or otherwise alters the rights and duties of the United States or other nations in the Exclusive Economic Zone of the United States established by Proclamation 5030 of March 10, 1983 [16 U.S.C. 1453 note]; or
+
+(c) impairs the determination, in accordance with international law, of any maritime boundary of the United States with a foreign jurisdiction.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this second day of September, in the year of our Lord nineteen hundred and ninety-nine, and of the Independence of the United States of America the two hundred and twenty-fourth.
+
+William J. Clinton.      
+
 Section Referred to in Other Sections
 
 This section is referred to in sections 155, 168 of this title; title 15 section 3301; title 16 section 1453; title 30 section 1702; title 33 section 1205; title 42 sections 6202, 7627; title 46 section 8103; title 50 App. section 2415.
@@ -23338,7 +23290,7 @@ A sulphur lease issued by the Secretary pursuant to this section shall (1) cover
 (ii) for use in a construction project, other than a project described in clause (i), that is funded in whole or in part by or authorized by the Federal Government.
 
 (B) In carrying out a negotiation under this paragraph, the Secretary may assess a fee based on an assessment of the value of the resources and the public interest served by promoting development of the resources.
-No fee shall be assessed directly or indirectly under this subparagraph against an agency of the Federal Government.
+No fee shall be assessed directly or indirectly under this subparagraph against a Federal, State, or local government agency.
 
 (C) The Secretary may, through this paragraph and in consultation with the Secretary of Commerce, seek to facilitate projects in the coastal zone, as such term is defined in section 1453 of title 16, that promote the policy set forth in section 1452 of title 16.
 
@@ -23361,7 +23313,7 @@ The issuance of any lease by the Secretary pursuant to this subchapter, or the m
 
 The Secretary may cancel any lease obtained by fraud or misrepresentation.
 
-(Aug. 7, 1953, ch. 345, §8, 67 Stat. 468; Pub. L. 95–372, title II, §205(a), (b), Sept. 18, 1978, 92 Stat. 640, 644; Pub. L. 99–272, title VIII, §8003, Apr. 7, 1986, 100 Stat. 148; Pub. L. 100–202, §101(g) [title I, §100], Dec. 22, 1987, 101 Stat. 1329–213, 1329–225; Pub. L. 103–426, §1(a), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–58, title III, §§302, 303, Nov. 28, 1995, 109 Stat. 563, 565; Pub. L. 105–362, title IX, §901(k), Nov. 10, 1998, 112 Stat. 3290.)
+(Aug. 7, 1953, ch. 345, §8, 67 Stat. 468; Pub. L. 95–372, title II, §205(a), (b), Sept. 18, 1978, 92 Stat. 640, 644; Pub. L. 99–272, title VIII, §8003, Apr. 7, 1986, 100 Stat. 148; Pub. L. 100–202, §101(g) [title I, §100], Dec. 22, 1987, 101 Stat. 1329–213, 1329–225; Pub. L. 103–426, §1(a), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–58, title III, §§302, 303, Nov. 28, 1995, 109 Stat. 563, 565; Pub. L. 105–362, title IX, §901(k), Nov. 10, 1998, 112 Stat. 3290; Pub. L. 106–53, title II, §215(b)(1), Aug. 17, 1999, 113 Stat. 292.)
 
 References in Text
 
@@ -23397,6 +23349,10 @@ Functions vested in, or delegated to, Secretary of Energy and Department of Ener
 
 Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior.
 See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+Reimbursement of Local Interests
+
+Pub. L. 106–53, title II, §215(b)(2), Aug. 17, 1999, 113 Stat. 293, provided that: “Any amounts paid by non-Federal interests for beach erosion control, hurricane protection, shore protection, or storm damage reduction projects as a result of an assessment under section 8(k) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(k)) shall be fully reimbursed.”
 
 Fees for Royalty Rate Relief Applications
 
@@ -24029,620 +23985,6 @@ Further, the remedies and penalties prescribed in this subchapter shall be in ad
 
 (Aug. 7, 1953, ch. 345, §24, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 659; amended Pub. L. 101–380, title VIII, §8201, Aug. 18, 1990, 104 Stat. 570.)
 
-§1351. Oil and gas development and production
-
-(a) Development and production plans; submission to Secretary; statement of facilities and operation; submission to Governors of affected States and local governments
-
-(1) Prior to development and production pursuant to an oil and gas lease issued after September 18, 1978, in any area of the outer Continental Shelf, other than the Gulf of Mexico, or issued or maintained prior to September 18, 1978, in any area of the outer Continental Shelf, other than the Gulf of Mexico, with respect to which no oil or gas has been discovered in paying quantities prior to September 18, 1978, the lessee shall submit a development and production plan (hereinafter in this section referred to as a “plan”) to the Secretary, for approval pursuant to this section.
-
-(2) A plan shall be accompanied by a statement describing all facilities and operations, other than those on the outer Continental Shelf, proposed by the lessee and known by him (whether or not owned or operated by such lessee) which will be constructed or utilized in the development and production of oil or gas from the lease area, including the location and site of such facilities and operations, the land, labor, material, and energy requirements associated with such facilities and operations, and all environmental and safety safeguards to be implemented.
-
-(3) Except for any privileged or proprietary information (as such term is defined in regulations issued by the Secretary), the Secretary, within ten days after receipt of a plan and statement, shall (A) submit such plan and statement to the Governor of any affected State, and, upon request to the executive of any affected local government, and (B) make such plan and statement available to any appropriate interstate regional entity and the public.
-
-(b) Development and production activities in accordance with plan as lease requirement
-
-After September 18, 1978, no oil and gas lease may be issued pursuant to this subchapter in any region of the outer Continental Shelf, other than the Gulf of Mexico, unless such lease requires that development and production activities be carried out in accordance with a plan which complies with the requirements of this section.
-
-(c) Scope and contents of plan
-
-A plan may apply to more than one oil and gas lease, and shall set forth, in the degree of detail established by regulations issued by the Secretary—
-
-(1) the specific work to be performed;
-
-(2) a description of all facilities and operations located on the outer Continental Shelf which are proposed by the lessee or known by him (whether or not owned or operated by such lessee) to be directly related to the proposed development, including the location and size of such facilities and operations, and the land, labor, material, and energy requirements associated with such facilities and operations;
-
-(3) the environmental safeguards to be implemented on the outer Continental Shelf and how such safeguards are to be implemented;
-
-(4) all safety standards to be met and how such standards are to be met;
-
-(5) an expected rate of development and production and a time schedule for performance; and
-
-(6) such other relevant information as the Secretary may by regulation require.
-
-(d) State concurrence in land or water zone use in coastal zone of State
-
-The Secretary shall not grant any license or permit for any activity described in detail in a plan and affecting any land use or water use in the coastal zone of a State with a coastal zone management program approved pursuant to section 306 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1455), unless the State concurs or is conclusively presumed to concur with the consistency certification accompanying such plan pursuant to section 307(c)(3)(B)(i) or (ii) of such Act [16 U.S.C. 1456(c)(3)(B)(i) or (ii)], or the Secretary of Commerce makes the finding authorized by section 307(c)(3)(B)(iii) of such Act [16 U.S.C. 1456(c)(3)(B)(iii)].
-
-(e) Declaration of approval of development and production plan as major Federal action; submission of preliminary or final lease plans prior to commencement of National Environmental Policy provisions procedures
-
-(1) At least once the Secretary shall declare the approval of a development and production plan in any area or region (as defined by the Secretary) of the outer Continental Shelf, other than the Gulf of Mexico, to be a major Federal action.
-
-(2) The Secretary may require lessees of tracts for which development and production plans have not been approved, to submit preliminary or final plans for their leases, prior to or immediately after a determination by the Secretary that the procedures under the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.] shall commence.
-
-(f) Plans considered major Federal actions; submission of draft environmental impact statement to Governors of affected States and local governments
-
-If approval of a development and production plan is found to be a major Federal action, the Secretary shall transmit the draft environmental impact statement to the Governor of any affected State, and upon request, to the executive of any local government, and shall make such draft available to any appropriate interstate regional entity and the public.
-
-(g) Plans considered nonmajor Federal actions; comments and recommendations from States
-
-If approval of a development and production plan is not found to be a major Federal action, the Governor of any affected State and the executive of any affected local government shall have sixty days from the date of receipt of the plan from the Secretary to submit comments and recommendations.
-Prior to submitting recommendations to the Secretary, the executive of any affected local government must forward his recommendations to the Governor of his State.
-Such comments and recommendations shall be made available to the public upon request.
-In addition, any interested person may submit comments and recommendations.
-
-(h) Approval, disapproval or modification of plan; reapplication; periodic review
-
-(1) After reviewing the record of any public hearing held with respect to the approval of a plan pursuant to the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.] or the comments and recommendations submitted under subsection (g) of this section, the Secretary shall, within sixty days after the release of the final environmental impact statement prepared pursuant to the National Environmental Policy Act of 1969 in accordance with subsection (e) of this section, or sixty days after the period provided for comment under subsection (g) of this section, approve, disapprove, or require modifications of the plan.
-The Secretary shall require modification of a plan if he determines that the lessee has failed to make adequate provision in such plan for safe operations on the lease area or for protection of the human, marine, or coastal environment, including compliance with the regulations prescribed by the Secretary pursuant to paragraph (8) of section 1334(a) of this title.
-Any modification required by the Secretary which involves activities for which a Federal license or permit is required and which affects any land use or water use in the coastal zone of a State with a coastal zone management program approved pursuant to section 306 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1455) must receive concurrence by such State with respect to the consistency certification accompanying such plan pursuant to section 307(c)(3)(B)(i) or (ii) of such Act [16 U.S.C. 1456(c)(3)(B)(i) or (ii)] unless the Secretary of Commerce makes the finding authorized by section 307(c)(3)(B)(iii) of such Act [16 U.S.C. 1456(c)(3)(B)(iii)]. The Secretary shall disapprove a plan—
-
-(A) if the lessee fails to demonstrate that he can comply with the requirements of this subchapter or other applicable Federal law, including the regulations prescribed by the Secretary pursuant to paragraph (8) of section 1334(a) of this title;
-
-(B) if any of the activities described in detail in the plan for which a Federal license or permit is required and which affects any land use or water use in the coastal zone of a State with a coastal zone management program approved pursuant to section 306 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1455) do not receive concurrence by such State with respect to the consistency certification accompanying such plan pursuant to section 307(c)(3)(B)(i) or (ii) of such Act [16 U.S.C. 1456(c)(3)(B)(i) or (ii)] and the Secretary of Commerce does not make the finding authorized by section 307(c)(3)(B)(iii) of such Act [16 U.S.C. 1456(c)(3)(B)(iii)];
-
-(C) if operations threaten national security or national defense; or
-
-(D) if the Secretary determines, because of exceptional geological conditions in the lease areas, exceptional resource values in the marine or coastal environment, or other exceptional circumstances, that (i) implementation of the plan would probably cause serious harm or damage to life (including fish and other aquatic life), to property, to any mineral deposits (in areas leased or not leased), to the national security or defense, or to the marine, coastal or human environments, (ii) the threat of harm or damage will not disappear or decrease to an acceptable extent within a reasonable period of time, and (iii) the advantages of disapproving the plan outweigh the advantages of development and production.
-
-(2)(A) If a plan is disapproved—
-
-(i) under subparagraph (A) of paragraph (1); or
-
-(ii) under subparagraph (B) of paragraph (1) with respect to a lease issued after approval of a coastal zone management program pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1455),
-
-the lessee shall not be entitled to compensation because of such disapproval.
-
-(B) If a plan is disapproved—
-
-(i) under subparagraph (C) or (D) of paragraph (1); or
-
-(ii) under subparagraph (B) of paragraph (1) with respect to a lease issued before approval of a coastal zone management program pursuant to the Coastal Zone Management Act of 1972 [16 U.S.C. 1451 et seq.], and such approval occurs after the lessee has submitted a plan to the Secretary,
-
-the term of the lease shall be duly extended, and at any time within five years after such disapproval, the lessee may reapply for approval of the same or a modified plan, and the Secretary shall approve, disapprove, or require modifications of such plan in accordance with this subsection.
-
-(C) Upon expiration of the five-year period described in subparagraph (B) of this paragraph, or, in the Secretary's discretion, at an earlier time upon request of a lessee, if the Secretary has not approved a plan, the Secretary shall cancel the lease and the lessee shall be entitled to receive compensation in accordance with section 1334(a)(2)(C) of this title.
-The Secretary may, at any time within the five-year period described in subparagraph (B) of this paragraph, require the lessee to submit a development and production plan for approval, disapproval, or modification.
-If the lessee fails to submit a required plan expeditiously and in good faith, the Secretary shall find that the lessee has not been duly diligent in pursuing his obligations under the lease, and shall immediately initiate procedures to cancel such lease, without compensation, under the provisions of section 1334(c) of this title.
-
-(3) The Secretary shall, from time to time, review each plan approved under this section.
-Such review shall be based upon changes in available information and other onshore or offshore conditions affecting or impacted by development and production pursuant to such plan.
-If the review indicates that the plan should be revised to meet the requirements of this subsection, the Secretary shall require such revision.
-
-(i) Approval of revision of approved plan
-
-The Secretary may approve any revision of an approved plan proposed by the lessee if he determines that such revision will lead to greater recovery of oil and natural gas, improve the efficiency, safety, and environmental protection of the recovery operation, is the only means available to avoid substantial economic hardship to the lessee, or is otherwise not inconsistent with the provisions of this subchapter, to the extent such revision is consistent with protection of the human, marine, and coastal environments.
-Any revision of an approved plan which the Secretary determines is significant shall be reviewed in accordance with subsections (d) through (f) of this section.
-
-(j) Cancellation of lease on failure to submit plan or comply with approved plan
-
-Whenever the owner of any lease fails to submit a plan in accordance with regulations issued under this section, or fails to comply with an approved plan, the lease may be canceled in accordance with section 1334(c) and (d) of this title.
-Termination of a lease because of failure to comply with an approved plan, including required modifications or revisions, shall not entitle a lessee to any compensation.
-
-(k) Production and transportation of natural gas; submission of plan to Federal Energy Regulatory Commission; impact statement
-
-If any development and production plan submitted to the Secretary pursuant to this section provides for the production and transportation of natural gas, the lessee shall contemporaneously submit to the Federal Energy Regulatory Commission that portion of such plan which relates to production of natural gas and the facilities for transportation of natural gas.
-The Secretary and the Federal Energy Regulatory Commission shall agree as to which of them shall prepare an environmental impact statement pursuant to the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.] applicable to such portion of such plan, or conduct studies as to the effect on the environment of implementing it.
-Thereafter, the findings and recommendations by the agency preparing such environmental impact statement or conducting such studies pursuant to such agreement shall be adopted by the other agency, and such other agency shall not independently prepare another environmental impact statement or duplicate such studies with respect to such portion of such plan, but the Federal Energy Regulatory Commission, in connection with its review of an application for a certificate of public convenience and necessity applicable to such transportation facilities pursuant to section 717f of title 15, may prepare such environmental studies or statement relevant to certification of such transportation facilities as have not been covered by an environmental impact statement or studies prepared by the Secretary.
-The Secretary, in consultation with the Federal Energy Regulatory Commission, shall promulgate rules to implement this subsection, but the Federal Energy Regulatory Commission shall retain sole authority with respect to rules and procedures applicable to the filing of any application with the Commission and to all aspects of the Commission's review of, and action on, any such application.
-
-(l) Application of provisions to leases in Gulf of Mexico
-
-The Secretary may require the provisions of this section to apply to an oil and gas lease issued or maintained under this subchapter, which is located in that area of the Gulf of Mexico which is adjacent to the State of Florida, as determined pursuant to section 1333(a)(2) of this title.
-
-(Aug. 7, 1953, ch. 345, §25, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 659.)
-
-References in Text
-
-The National Environmental Policy Act of 1969, referred to in subsecs. (e)(2), (h)(1), and (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare.
-For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-The Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A)(ii), (B)(ii), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation.
-For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
-
-§1352. Oil and gas information program
-
-(a) Access to data and information obtained by lessee or permittee from oil or gas exploration, etc., data obtained by Federal department or agency from geological and geophysical explorations
-
-(1)(A) Any lessee or permittee conducting any exploration for, or development or production of, oil or gas pursuant to this subchapter shall provide the Secretary access to all data and information (including processed, analyzed, and interpreted information) obtained from such activity and shall provide copies of such data and information as the Secretary may request.
-Such data and information shall be provided in accordance with regulations which the Secretary shall prescribe.
-
-(B) If an interpretation provided pursuant to subparagraph (A) of this paragraph is made in good faith by the lessee or permittee, such lessee or permittee shall not be held responsible for any consequence of the use of or reliance upon such interpretation.
-
-(C) Whenever any data and information is provided to the Secretary, pursuant to subparagraph (A) of this paragraph—
-
-(i) by a lessee, in the form and manner of processing which is utilized by such lessee in the normal conduct of his business, the Secretary shall pay the reasonable cost of reproducing such data and information;
-
-(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
-
-(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
-
-(iv) by a permittee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay such permittee the reasonable cost of processing and reproducing such data and information for the Secretary,
-
-pursuant to such regulations as he may prescribe.
-
-(2) Each Federal department and agency shall provide the Secretary with any data obtained by such Federal department or agency pursuant to section 1340 of this title, and any other information which may be necessary or useful to assist him in carrying out the provisions of this subchapter.
-
-(b) Processing, analyzing, and interpreting information; availability of summary of data to affected States and local government
-
-(1) Data and information provided to the Secretary pursuant to subsection (a) of this section shall be processed, analyzed, and interpreted by the Secretary for purposes of carrying out his duties under this subchapter.
-
-(2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production.
-Such summary shall include estimates of (A) the oil and gas reserves in areas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
-
-(c) Confidentiality of information; regulations
-
-The Secretary shall prescribe regulations to (1) assure that the confidentiality of privileged or proprietary information received by the Secretary under this section will be maintained, and (2) set forth the time periods and conditions which shall be applicable to the release of such information.
-Such regulations shall include a provision that no such information will be transmitted to any affected State unless the lessee, or the permittee and all persons to whom such permittee has sold such information under promise of confidentiality, agree to such transmittal.
-
-(d) Transmittal of information to affected State; protection of competitive position
-
-(1) The Secretary shall transmit to any affected State—
-
-(A) an index, and upon request copies of, all relevant actual or proposed programs, plans, reports, environmental impact statements, tract nominations (including negative nominations) and other lease sale information, any similar type of relevant information, and all modifications and revisions thereof and comments thereon, prepared or obtained by the Secretary pursuant to this subchapter, but no information transmitted by the Secretary under this subsection shall identify any particular tract with the name or names of any particular party so as not to compromise the competitive position of any party or parties participating in the nominations;
-
-(B)(i) the summary of data prepared by the Secretary pursuant to subsection (b)(2) of this section, and (ii) any other processed, analyzed, or interpreted data prepared by the Secretary pursuant to subsection (b)(1) of this section, unless the Secretary determines that transmittal of such data prepared pursuant to subsection (b)(1) of this section would unduly damage the competitive position of the lessee or permittee who provided the Secretary with the information which the Secretary had processed, analyzed, or interpreted; and
-
-(C) any relevant information received by the Secretary pursuant to subsection (a) of this section, subject to any applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
-
-(2) Notwithstanding the provisions of any regulation required pursuant to the second sentence of subsection (c) of this section, the Governor of any affected State may designate an appropriate State official to inspect, at a regional location which the Secretary shall designate, any privileged information received by the Secretary regarding any activity adjacent to such State, except that no such inspection shall take place prior to the sale of a lease covering the area in which such activity was conducted.
-Knowledge obtained by such State during such inspection shall be subject to applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
-
-(e) Agreement with State to waive defenses and hold United States harmless from failure to maintain confidentiality of information
-
-Prior to transmitting any privileged information to any State, or granting such State access to such information, the Secretary shall enter into a written agreement with the Governor of such State in which such State agrees, as a condition precedent to receiving or being granted access to such information, to waive the defenses set forth in subsection (f)(2) of this section, and to hold the United States harmless from any violations of the regulations prescribed pursuant to subsection (c) of this section that the State or its employees may commit.
-
-(f) Civil action against United States or State for failure to maintain confidentiality of information; certain defenses unavailable
-
-(1) Whenever any employee of the Federal Government or of any State reveals information in violation of the regulations prescribed pursuant to subsection (c) of this section, the lessee or permittee who supplied such information to the Secretary or to any other Federal official, and any person to whom such lessee or permittee has sold such information under promise of confidentiality, may commence a civil action for damages in the appropriate district court of the United States against the Federal Government or such State, as the case may be.
-
-(2) In any action commenced against the Federal Government or a State pursuant to paragraph (1) of this subsection, the Federal Government or such State, as the case may be, may not raise as a defense (A) any claim of sovereign immunity, or (B) any claim that the employee who revealed the privileged information which is the basis of such suit was acting outside the scope of his employment in revealing such information.
-
-(g) Preemption of State law by Federal law
-
-Any provision of State or local law which provides for public access to any privileged information received or obtained by any person pursuant to this subchapter is expressly preempted by the provisions of this section, to the extent that it applies to such information.
-
-(h) Failure by State to comply with regulations; withholding of information
-
-If the Secretary finds that any State cannot or does not comply with the regulations issued under subsection (c) of this section, he shall thereafter withhold transmittal and deny inspection of privileged information to such State until he finds that such State can and will comply with such regulations.
-
-(Aug. 7, 1953, ch. 345, §26, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 664.)
-
-Payment of Processing Costs for Data and Information Acquired; Permittees Eligible
-
-Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 732, provided that: “Notwithstanding any other provision of law, for data and information acquired in fiscal year 1986 or thereafter, by the Secretary, pursuant to section 1352(a)(1)(C)(iii) of title 43, United States Code, payment shall be made for processing costs to permittees with permits issued on or before September 30, 1985.”
-
-Payment of Costs of Reproducing Data and Information Provided to Secretary
-
-Pub. L. 99–190, §101(d) [title I, §100], Dec. 19, 1985, 99 Stat. 1224, 1232, provided: “That notwithstanding any other provision of law, when in fiscal year 1986 and thereafter any permittee provides data and information to the Secretary pursuant to section 1352(a)(1)(C)(iii) of title 43, United States Code, the Secretary shall pay only the reasonable cost of reproducing such data and information.”
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 1337, 1345 of this title; title 42 section 6508.
-
-§1353. Federal purchase and disposition of oil and gas
-
-(a) Payment of royalties or net profit shares in oil and gas; purchase of oil and gas by United States; transfer of title to Federal agencies
-
-(1) Except as may be necessary to comply with the provisions of sections 1335 and 1336 of this title, all royalties or net profit shares, or both, accruing to the United States under any oil and gas lease issued or maintained in accordance with this subchapter, shall, on demand of the Secretary, be paid in oil or gas.
-
-(2) The United States shall have the right to purchase not to exceed 162/3 per centum by volume of the oil and gas produced pursuant to a lease issued or maintained in accordance with this subchapter, at the regulated price, or, if no regulated price applies, at the fair market value at the well head of the oil and gas saved, removed, or sold, except that any oil or gas obtained by the United States as royalty or net profit share shall be credited against the amount that may be purchased under this subsection.
-
-(3) Title to any royalty, net profit share, or purchased oil or gas may be transferred, upon request, by the Secretary to the Secretary of Defense, to the Administrator of the General Services Administration, or to the Secretary of Energy, for disposal within the Federal Government.
-
-(b) Sale of oil by United States to public; disposition of oil to small refiners; application of other laws
-
-(1) The Secretary, except as provided in this subsection, may offer to the public and sell by competitive bidding for not more than its regulated price, or, if no regulated price applies, not less than its fair market value, any part of the oil (A) obtained by the United States pursuant to any lease as royalty or net profit share, or (B) purchased by the United States pursuant to subsection (a)(2) of this section.
-
-(2) Whenever, after consultation with the Secretary of Energy, the Secretary determines that small refiners do not have access to adequate supplies of oil at equitable prices, the Secretary may dispose of any oil which is taken as a royalty or net profit share accruing or reserved to the United States pursuant to any lease issued or maintained under this subchapter, or purchased by the United States pursuant to subsection (a)(2) of this section, by conducting a lottery for the sale of such oil, or may equitably allocate such oil among the competitors for the purchase of such oil, at the regulated price, or if no regulated price applies, at its fair market value.
-The Secretary shall limit participation in any allocation or lottery sale to assure such access and shall publish notice of such allocation or sale, and the terms thereof, at least thirty days in advance.
-Such notice shall include qualifications for participation, the amount of oil to be sold, and any limitation in the amount of oil which any participant may be entitled to purchase.
-
-(3) The Secretary may only sell or otherwise dispose of oil described in paragraph (1) of this subsection in accordance with any provision of law, or regulations issued in accordance with such provisions, which provide for the Secretary of Energy to allocate, transfer, exchange, or sell oil in amounts or at prices determined by such provision of law or regulations.
-
-(c) Sale of gas by United States to public
-
-(1) Except as provided in paragraph (2) of this subsection, the Secretary, pursuant to such terms as he determines, many 1 offer to the public and sell by competitive bidding for not more than its regulated price, or, if no regulated price applies, not less than its fair market value any part of the gas (A) obtained by the United States pursuant to a lease as royalty or net profit share, or (B) purchased by the United States pursuant to subsection (a)(2) of this section.
-
-(2) Whenever, after consultation with and advice from the Secretary of Energy, the Federal Energy Regulatory Commission determines that an emergency shortage of natural gas is threatening to cause severe economic or social dislocation in any region of the United States and that such region can be serviced in a practical, feasible, and efficient manner by royalty, net profit share, or purchased gas obtained pursuant to the provisions of this section, the Secretary of the Interior may allocate or conduct a lottery for the sale of such gas, and shall limit participation in any allocation or lottery sale of such gas to any person servicing such region, but he shall not sell any such gas for more than its regulated price, or, if no regulated price applies, less than its fair market value.
-Prior to selling or allocating any gas pursuant to this subsection, the Secretary shall consult with the Federal Energy Regulatory Commission.
-
-(d) Purchase by lessee of Federal oil or gas for which no bids received
-
-The lessee shall take any Federal oil or gas for which no acceptable bids are received, as determined by the Secretary, and which is not transferred pursuant to subsection (a)(3) of this section, and shall pay to the United States a cash amount equal to the regulated price, or, if no regulated price applies, the fair market value of the oil or gas so obtained.
-
-(e) Definitions
-
-As used in this section—
-
-(1) the term “regulated price” means the highest price—
-
-(A) at which oil many 2 be sold pursuant to the Emergency Petroleum Allocation Act of 1973 3 [15 U.S.C. 751 et seq.] and any rule or order issued under such Act;
-
-(B) at which natural gas may be sold to natural-gas companies pursuant to the Natural Gas Act [15 U.S.C. 717 et seq.], any other Act, regulations governing natural gas pricing, or any rule or order issued under any such Act or any such regulations; or
-
-(C) at which either Federal oil or gas may be sold under any other provision of law or rule or order thereunder which sets a price (or manner for determining a price) for oil or gas; and
-
-(2) the term “small refiner” has the meaning given such term by Small Business Administration Standards 128.3–8(d) and (g), as in effect on September 18, 1978, or as there-after revised or amended.
-
-(f) Purchase of oil and gas in time of war
-
-Nothing in this section shall prohibit the right of the United States to purchase any oil or gas produced on the outer Continental Shelf as provided by section 1341(b) of this title.
-
-(Aug. 7, 1953, ch. 345, §27, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 666.)
-
-References in Text
-
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e)(1)(A), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
-
-The Natural Gas Act, referred to in subsec. (e)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15. For complete classification of that Act to the Code, see section 717w of Title 15 and Tables.
-
-Transfer of Functions
-
-Functions vested in Secretary of Energy and Department of Energy under or with respect to subsec. (b)(2), (3) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
-
-1 So in original.
-Probably should be “may”.
-
-2 So in original.
-Probably should be “may”.
-
-3 See References in Text note below.
-
-§1354. Limitations on export of oil or gas
-
-(a) Application of Export Administration provisions
-
-Except as provided in subsection (d) of this section, any oil or gas produced from the outer Continental Shelf shall be subject to the requirements and provisions of the Export Administration Act of 1969.
-
-(b) Condition precedent to exportation; express finding by President of no increase in reliance on imported oil or gas
-
-Before any oil or gas subject to this section may be exported under the requirements and provisions of the Export Administration Act of 1969, the President shall make and publish an express finding that such exports will not increase reliance on imported oil or gas, are in the national interest, and are in accord with the provisions of the Export Administration Act of 1969.
-
-(c) Report of findings by President to Congress; joint resolution of disagreement with findings of President
-
-The President shall submit reports to the Congress containing findings made under this section, and after the date of receipt of such report Congress shall have a period of sixty calendar days, thirty days of which Congress must have been in session, to consider whether exports under the terms of this section are in the national interest.
-If the Congress within such time period passes a concurrent resolution of disapproval stating disagreement with the President's finding concerning the national interest, further exports made pursuant to such Presidential findings shall cease.
-
-(d) Exchange or temporary exportation of oil and gas for convenience or efficiency of transportation
-
-The provisions of this section shall not apply to any oil or gas which is either exchanged in similar quantity for convenience or increased efficiency of transportation with persons or the government of a foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, or which is exchanged or exported pursuant to an existing international agreement.
-
-(Aug. 7, 1953, ch. 345, §28, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 668.)
-
-References in Text
-
-The Export Administration Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, as amended, which was formerly classified to sections 2401 to 2413 of Title 50, Appendix, War and National Defense, and which terminated on Sept. 30, 1979, pursuant to the terms of that Act.
-
-§1355. Restrictions on employment of former officers or employees of Department of the Interior
-
-No full-time officer or employee of the Department of the Interior who directly or indirectly discharged duties or responsibilities under this subchapter, and who was at any time during the twelve months preceding the termination of his employment with the Department compensated under the Executive Schedule or compensated at or above the annual rate of basic pay for grade GS–16 of the General Schedule shall—
-
-(1) within two years after his employment with the Department has ceased—
-
-(A) knowingly act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before;
-
-(B) with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to; or
-
-(C) knowingly aid or assist in representing any other person (except the United States) in any formal or informal appearance before,
-
-any department, agency, or court of the United States, or any officer or employee thereof, in connection with any judicial or other proceeding, application, request for a ruling or other determination, regulation, order, lease, permit, rulemaking, or other particular matter involving a specific party or parties in which the United States is a party or has a direct and substantial interest which was actually pending under his official responsibility as an officer or employee within a period of one year prior to the termination of such responsibility or in which he participated personally and substantially as an officer or employee; or
-
-(2) within one year after his employment with the Department has ceased—
-
-(A) knowingly act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before; or
-
-(B) with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to,
-
-the Department of the Interior, or any officer or employee thereof, in connection with any judicial, rulemaking, regulation, order, lease, permit, regulation, or other particular matter which is pending before the Department of the Interior or in which the Department has a direct and substantial interest.
-
-(Aug. 7, 1953, ch. 345, §29, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 668.)
-
-References in Text
-
-The Executive Schedule, referred to in text, is set out in section 5311 et seq. of Title 5, Government Organization and Employees.
-
-References in Other Laws to GS–16, 17, or 18 Pay Rates
-
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-§1356. Documentary, registry and manning requirements
-
-(a) Regulations
-
-Within six months after September 18, 1978, the Secretary of the Department in which the Coast Guard is operating shall issue regulations which require that any vessel, rig, platform, or other vehicle or structure—
-
-(1) which is used at any time after the one-year period beginning on the effective date of such regulations for activities pursuant to this subchapter and which is built or rebuilt at any time after such one-year period, when required to be documented by the laws of the United States, be documented under the laws of the United States;
-
-(2) which is used for activities pursuant to this subchapter, comply, except as provided in subsection (b) of this section, with such minimum standards of design, construction, alteration, and repair as the Secretary or the Secretary of the Department in which the Coast Guard is operating establishes; and
-
-(3) which is used at any time after the one-year period beginning on the effective date of such regulations for activities pursuant to this subchapter, be manned or crewed, except as provided in subsection (c) of this section, by citizens of the United States or aliens lawfully admitted to the United States for permanent residence.
-
-(b) Exceptions from design, construction, alteration, and repair requirements
-
-The regulations issued under subsection (a)(2) of this section shall not apply to any vessel, rig, platform, or other vehicle or structure built prior to September 18, 1978, until such time after such date as such vehicle or structure is rebuilt.
-
-(c) Exceptions from manning requirements
-
-The regulations issued under subsection (a)(3) of this section shall not apply—
-
-(1) to any vessel, rig, platform, or other vehicle or structure if—
-
-(A) specific contractual provisions or national registry manning requirements in effect on September 18, 1978, provide to the contrary;
-
-(B) there are not a sufficient number of citizens of the United States, or aliens lawfully admitted to the United States for permanent residence, qualified and available for such work; or
-
-(C) the President makes a specific finding, with respect to the particular vessel, rig, platform, or other vehicle or structure, that application would not be consistent with the national interest; and
-
-(2) to any vessel, rig, platform, or other vehicle or structure, over 50 percent of which is owned by citizens of a foreign nation or with respect to which the citizens of a foreign nation have the right effectively to control, except to the extent and to the degree that the President determines that the government of such foreign nation or any of its political subdivisions has implemented, by statute, regulation, policy, or practice, a national manning requirement for equipment engaged in the exploration, development, or production of oil and gas in its offshore areas.
-
-(Aug. 7, 1953, ch. 345, §30, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 669.)
-
-CHAPTER 30—ADMINISTRATION OF PUBLIC LANDS
-
-SUBCHAPTER I—GENERAL PROVISIONS
-
-Sec.
-
-1361 to 1364. Repealed.
-
-        
-
-SUBCHAPTER II—SERVICE CHARGES AND EXCESS PAYMENTS
-
-1371 to 1374. Repealed.
-
-        
-
-SUBCHAPTER III—DEPOSITS AND FORFEITURES
-
-1381 to 1383. Repealed.
-
-        
-
-SUBCHAPTER IV—PUBLIC LAND LAW REVIEW COMMISSION
-
-1391 to 1400. Omitted.
-
-        
-
-SUBCHAPTER V—CLASSIFICATION OF LANDS TO PROVIDE FOR DISPOSAL OR INTERIM MANAGEMENT
-
-1411 to 1418. Omitted.
-
-        
-
-SUBCHAPTER VI—SALE OF PUBLIC LAND
-
-1421 to 1427. Omitted.
-
-        
-
-SUBCHAPTER VII—SALE OF PUBLIC LANDS SUBJECT TO UNINTENTIONAL TRESPASS
-
-1431 to 1435. Omitted.
-
-        
-
-SUBCHAPTER VIII—PUBLIC AIRPORTS
-
-1441.
-Lease of contiguous public lands for public airports; authority of Secretary of the Interior.
-
-1442.
-Terms of lease; public lands for public airports.
-
-1443.
-Cancellation of leases of public lands used as airports made under law in force May 24, 1928.
-
-        
-
-SUBCHAPTER I—GENERAL PROVISIONS
-
-§§1361 to 1364. Repealed.
-Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792
-
-Section 1361, Pub. L. 86–649, §2, July 14, 1960, 74 Stat. 506, defined “public lands”.
-
-Section 1362, Pub. L. 86–649, title I, §101, July 14, 1960, 74 Stat. 506, authorized the Secretary of the Interior to conduct investigations, etc., for improvement, management, use, and protection of public lands and resources.
-
-Section 1362a, Pub. L. 91–429, Sept. 26, 1970, 84 Stat. 885, authorized contracts for use of aircraft, services, and supplies for protection from fire of public lands administered by the Secretary of the Interior.
-
-Section 1363, Pub. L. 86–649, title I, §102, July 14, 1960, 74 Stat. 506, authorized cooperative agreements by Secretary of the Interior with respect to improvement, etc., of public lands and resources.
-
-Section 1364, Pub. L. 86–649, title I, §103, July 14, 1960, 74 Stat. 506, authorized acceptance of contributions by Secretary of the Interior with respect to improvements, etc., of public lands and resources.
-
-Effective Date of Repeal
-
-Section 705(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
-
-Savings Provision
-
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-SUBCHAPTER II—SERVICE CHARGES AND EXCESS PAYMENTS
-
-§§1371, 1372. Repealed.
-Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792
-
-Section 1371, Pub. L. 86–649, title II, §201, July 14, 1960, 74 Stat. 506, related to fees, charges, and commissions for applications and other documents relating to public lands and resources.
-
-Section 1372, Pub. L. 86–649, title II, §202(a), July 14, 1960, 74 Stat. 506, provided that existing fees, charges, and commissions remain in effect until changed or abolished by the Secretary.
-
-Repeals
-
-Section 202(b) of Pub. L. 86–649 provided that: “Subject to the provisions of this section, any provisions in statutes which fix fees, service fees or charges, or commissions for the purposes covered in this title, are hereby repealed, including, without limitation, the first proviso of the General Land Office appropriations in the Act of February 14, 1931 (46 Stat. 1115, 1118; 43 U.S.C. 23), section 2239 of the Revised Statutes (43 U.S.C. 84), and such provisions of the following Acts as are contained in section 82, title 43, United States Code:
-
- 	Act	Citation
-	“Revised Statutes	Section 2238.
-	“May 14, 1880 (in sec. 2)	21 Stat. 140, 141.
-	“December 17, 1880	21 Stat. 311.
-	“July 26, 1892	27 Stat. 270.
-	“March 22, 1904	33 Stat. 144.
-	“May 29, 1908 (in sec. 14)	35 Stat. 465, 468.
-	“January 24, 1923	42 Stat. 1174, 1179.
-	“June 5, 1924	43 Stat. 390, 395.
-	“March 3, 1925	43 Stat. 1141, 1145.”
-
-Effective Date of Repeal
-
-Section 705(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
-
-Savings Provision
-
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-§§1373, 1374. Repealed.
-Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792
-
-Section 1373, Pub. L. 86–649, title II, §203, July 14, 1960, 74 Stat. 507, related to price of copies of records furnished by the Department of the Interior.
-
-Section 1374, Pub. L. 86–649, title II, §204(a), July 14, 1960, 74 Stat. 507, related to refund of excess or other payments.
-
-Effective Date of Repeal
-
-Section 705(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
-
-Savings Provision
-
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-SUBCHAPTER III—DEPOSITS AND FORFEITURES
-
-§§1381 to 1383. Repealed.
-Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792
-
-Section 1381, Pub. L. 86–649, title III, §301, July 14, 1960, 74 Stat. 507, related to forfeiture of bond or deposit by timber purchaser or permittee.
-
-Section 1382, Pub. L. 86–649, title III, §302, July 14, 1960, 74 Stat. 507, related to maintenance of roads and trails under jurisdiction of Bureau of Land Management and deposit of funds to insure maintenance.
-
-Section 1383, Pub. L. 86–649, title III, §303, July 14, 1960, 74 Stat. 508, related to Oregon and California Railroad and Coos Bay Wagon Road Grant lands.
-
-Effective Date of Repeal
-
-Section 705(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
-
-Savings Provision
-
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-SUBCHAPTER IV—PUBLIC LAND LAW REVIEW COMMISSION
-
-§§1391 to 1400. Omitted
-
-Codification
-
-Sections 1391 to 1400 of this title, which related to the Public Land Law Review Commission, were omitted in view of the termination of the Commission pursuant to section 1394 of this title.
-
-Section 1391, Pub. L. 88–606, §1, Sept. 19, 1964, 78 Stat. 982, related to Congressional declaration of policy.
-
-Section 1392, Pub. L. 88–606, §2, Sept. 19, 1964, 78 Stat. 982, provided for review of public land laws.
-
-Section 1393, Pub. L. 88–606, §3, Sept. 19, 1964, 78 Stat. 982, established Public Land Law Review Commission and provided for membership, a chairman, vacancies, and compensation.
-
-Section 1394, Pub. L. 88–606, §4, Sept. 19, 1964, 78 Stat. 983; Pub. L. 90–213, §1(1), (2), Dec. 18, 1967, 81 Stat. 660, related to duties of Commission and provided that Commission, not later than June 30, 1970, submit its final report to President and Congress and that six months after submission of this report or on Dec. 31, 1970, whichever was earlier, the Commission cease to exist.
-
-Section 1395, Pub. L. 88–606, §5, Sept. 19, 1964, 78 Stat. 983, related to departmental liaison officers.
-
-Section 1396, Pub. L. 88–606, §6, Sept. 19, 1964, 78 Stat. 983, established an advisory council to aid Commission.
-
-Section 1397, Pub. L. 88–606, §7, Sept. 19, 1964, 78 Stat. 984, related to representation of State Governors.
-
-Section 1398, Pub. L. 88–606, §8, Sept. 19, 1964, 78 Stat. 984; Pub. L. 90–213, §1(4), Dec. 18, 1967, 81 Stat. 660, related to powers of Commission.
-
-Section 1399, Pub. L. 88–606, §9, Sept. 19, 1964, 78 Stat. 985; Pub. L. 90–213, §1(3), Dec. 18, 1967, 81 Stat. 660, related to appropriations, compensation of chairman and staff director, contracts and transfer of fund.
-
-Section 1400, Pub. L. 88–606, §10, Sept. 19, 1964, 78 Stat. 985, defined public land as used in this subchapter.
-
-SUBCHAPTER V—CLASSIFICATION OF LANDS TO PROVIDE FOR DISPOSAL OR INTERIM MANAGEMENT
-
-§§1411 to 1418. Omitted
-
-Codification
-
-Sections 1411 to 1418 of this title, which related to the classification of lands to provide for disposal or interim management, were omitted pursuant to section 1418 of this title which terminated this authority.
-
-Section 1411, Pub. L. 88–607, §1, Sept. 19, 1964, 78 Stat. 986, authorized Secretary of the Interior to classify lands for purpose of disposal or retention.
-
-Section 1412, Pub. L. 88–607, §2, Sept. 19, 1964, 78 Stat. 986, related to publication of notice by Secretary.
-
-Section 1413, Pub. L. 88–607, §3, Sept. 19, 1964, 78 Stat. 986, related to development and administration of lands for multiple use and sustained yield.
-
-Section 1414, Pub. L. 88–607, §4, Sept. 19, 1964, 78 Stat. 987, related to exemption of lands from other forms of disposal for certain period of time.
-
-Section 1415, Pub. L. 88–607, §5, Sept. 19, 1964, 78 Stat. 987, related to definitions.
-
-Section 1416, Pub. L. 88–607, §6, Sept. 19, 1964, 78 Stat. 988, related to supplemental legislation and provided that this subchapter not be construed as repealing any existing laws.
-
-Section 1417, Pub. L. 88–607, §7, Sept. 19, 1964, 78 Stat. 988, related to restrictions.
-
-Section 1418, Pub. L. 88–607, §8, Sept. 19, 1964, 78 Stat. 988; Pub. L. 90–213, §2, Dec. 18, 1967, 81 Stat. 660, provided that the authorizations and requirements of this subchapter expire six months after the final report of the Public Land Law Review Commission, which report was to be submitted not later than June 30, 1970.
-
-SUBCHAPTER VI—SALE OF PUBLIC LAND
-
-§§1421 to 1427. Omitted
-
-Codification
-
-Sections 1421 to 1427 of this title, which related to the sale of public land, were omitted pursuant to section 1427 of this title, which terminated this authority.
-
-Section 1421, Pub. L. 88–608, §1, Sept. 19, 1964, 78 Stat. 988, authorized and directed Secretary of the Interior to dispose of public lands in tracts not exceeding a certain size at the appraised fair market value thereof.
-
-Section 1422, Pub. L. 88–608, §2, Sept. 19, 1964, 78 Stat. 988, related to notification of local zoning authority by the Secretary of the Interior.
-
-Section 1423, Pub. L. 88–608, §3, Sept. 19, 1964, 78 Stat. 989, related to notice of land offerings by publication.
-
-Section 1424, Pub. L. 88–608, §4, Sept. 19, 1964, 78 Stat. 989, related to title reservations.
-
-Section 1425, Pub. L. 88–608, §5, Sept. 19, 1964, 78 Stat. 989, defined “public lands”, “qualified governmental agency”, and “qualified individual”.
-
-Section 1426, Pub. L. 88–608, §6, Sept. 19, 1964, 78 Stat. 989, related to sales in Alaska.
-
-Section 1427, Pub. L. 88–608, §7, Sept. 19, 1964, 78 Stat. 989; Pub. L. 90–213, §3, Dec. 18, 1967, 81 Stat. 660, provided that authority granted by this subchapter expire six months after final report of the Public Land Law Review Commission, which report was to be submitted not later than June 30, 1970, except that sales concerning which notice had been given in accordance with section 1423 of this title prior to such time could be consummated and patents issued in connection therewith after such time.
-
-SUBCHAPTER VII—SALE OF PUBLIC LANDS SUBJECT TO UNINTENTIONAL TRESPASS
-
-§§1431 to 1435. Omitted
-
-Codification
-
-Sections 1431 to 1435, relating to the sale of public lands subject to unintentional trespass, were omitted pursuant to section 1435 of this title, which provided for an expiration date three years after September 26, 1968, with certain exceptions.
-
-Section 1431, Pub. L. 90–516, §1, Sept. 26, 1968, 82 Stat. 870, authorized Secretary of the Interior to sell at public auction any tract of public domain not exceeding a certain size which was subject to unintentional trespass.
-
-Section 1432, Pub. L. 90–516, §2, Sept. 26, 1968, 82 Stat. 870, related to preference rights of contiguous landowners.
-
-Section 1433, Pub. L. 90–516, §3, Sept. 26, 1968, 82 Stat. 870, related to continuing liability for unauthorized prior use.
-
-Section 1434, Pub. L. 90–516, §4, Sept. 26, 1968, 82 Stat. 870, related to acreage limitations.
-
-Section 1435, Pub. L. 90–516, §5, Sept. 26, 1968, 82 Stat. 870, provided that authority granted by this subchapter expire three years from Sept. 26, 1968, except that sales for which application had been made in accordance with this subchapter prior to expiration of that period could be consummated and patents issued after expiration of that period.
-
-SUBCHAPTER VIII—PUBLIC AIRPORTS
-
-§1441. Lease of contiguous public lands for public airports; authority of Secretary of the Interior
-
-The Secretary of the Interior is authorized, in his discretion and under such regulations as he may prescribe, to lease for use as a public airport any contiguous public lands, unreserved and unappropriated, not to exceed two thousand five hundred and sixty acres in area, subject to valid rights in such lands under the public-land laws.
-
-(May 24, 1928, ch. 728, §1, 45 Stat. 728; Aug. 16, 1941, ch. 354, 55 Stat. 621.)
-
-References in Text
-
-The public-land laws, referred to in text, are classified generally to this title.
-
-Codification
-
-Section was previously classified to section 211 of former Title 49, Transportation.
-
 Section Referred to in Other Sections
 
 This section is referred to in section 1442 of this title.
@@ -24875,9 +24217,6 @@ Projects.
 (e)
 Marine research activities.
 
-(f)
-Sunset.
-
 1475.
 Bureau of Reclamation acceptance of services of volunteers.
 
@@ -24903,6 +24242,15 @@ Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg.
 Plan No. 3 of 1950, §§1, 2, eff.
 May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out below.
+
+Charges for Use of Property at Main and South Interior Building Complex, Washington, D.C.
+
+Pub. L. 106–113, div. B, §1000(a)(3) [title I, §115], Nov. 29, 1999, 113 Stat. 1535, 1501A-158, provided that: “Notwithstanding any other provision of law, in fiscal year 2000 and thereafter, the Secretary is authorized to permit persons, firms or organizations engaged in commercial, cultural, educational, or recreational activities (as defined in section 612a of title 40, United States Code) not currently occupying such space to use courtyards, auditoriums, meeting rooms, and other space of the main and south Interior building complex, Washington, D.C., the maintenance, operation, and protection of which has been delegated to the Secretary from the Administrator of General Services pursuant to the Federal Property and Administrative Services Act of 1949 [40 U.S.C. 471 et seq.], and to assess reasonable charges therefore, subject to such procedures as the Secretary deems appropriate for such uses.
+Charges may be for the space, utilities, maintenance, repair, and other services.
+Charges for such space and services may be at rates equivalent to the prevailing commercial rate for comparable space and services devoted to a similar purpose in the vicinity of the main and south Interior building complex, Washington, D.C., for which charges are being assessed.
+The Secretary may without further appropriation hold, administer, and use such proceeds within the Departmental Management Working Capital Fund to offset the operation of the buildings under his jurisdiction, whether delegated or otherwise, and for related purposes, until expended.”
+
+Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) [title I, §117], Oct. 21, 1998, 112 Stat. 2681–231, 2681–256.
 
 Compensation of Secretary
 
@@ -26014,6 +25362,48 @@ References in Text
 
 This appropriation, referred to in text, probably means appropriations under the heading “natural resource damage assessment and restoration fund” of the annual Department of the Interior and Related Agencies Appropriations Act.
 
+Investment of Exxon Valdez Oil Spill Court Recovery in High Yield Investments and in Marine Research
+
+Pub. L. 106–113, div. B, §1000(a)(3) [title III, §350], Nov. 29, 1999, 113 Stat. 1535, 1501A–207, provided that:
+
+“(1) Notwithstanding any other provision of law and subject to the provisions of paragraphs (5) and (7), upon the joint motion of the United States and the State of Alaska and the issuance of an appropriate order by the United States District Court for the District of Alaska, the joint trust funds, or any portion thereof, including any interest accrued thereon, previously received or to be received by the United States and the State of Alaska pursuant to the Agreement and Consent Decree issued in United States v. Exxon Corporation, et al. (No. A91–082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91–083 CIV) (hereafter referred to as the ‘Consent Decree’), may be deposited in—
+
+“(A) the Natural Resource Damage Assessment and Restoration Fund (hereafter referred to as the ‘Fund’) established in title I of the Department of the Interior and Related Agencies Appropriations Act, 1992 (Public Law 102–154; 43 U.S.C. 1474b);
+
+“(B) accounts outside the United States Treasury (hereafter referred to as ‘outside accounts’); or
+
+“(C) both.
+
+Any funds deposited in an outside account may be invested only in income-producing obligations and other instruments or securities that have been determined unanimously by the Federal and State natural resource trustees for the Exxon Valdez oil spill (‘trustees’) to have a high degree of reliability and security.
+
+“(2) Joint trust funds deposited in the Fund or an outside account that have been approved unanimously by the Trustees for expenditure by or through a State or Federal agency shall be transferred promptly from the Fund or the outside account to the State of Alaska or United States upon the joint request of the governments.
+
+“(3) The transfer of joint trust funds outside the Court Registry shall not affect the supervisory jurisdiction of the district court under the Consent Decree or the Memorandum of Agreement and Consent Decree in United States v. State of Alaska (No. A91–081–CIV) over all expenditures of the joint trust funds.
+
+“(4) Nothing herein shall affect the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of ‘Operation Desert Shield/Desert Storm’ Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note [43 U.S.C. 1474b note]) that amounts received by the United States and designated by the trustees for the expenditure by or through a Federal agency must be deposited into the Fund.
+
+“(5) All remaining settlement funds are eligible for the investment authority granted under this section so long as they are managed and allocated consistent with the Resolution of the Trustees adopted March 1, 1999, concerning the Restoration Reserve, as follows:
+
+“(A) $55 million of the funds remaining on October 1, 2002, and the associated earnings thereafter shall be managed and allocated for habitat protection programs including small parcel habitat acquisitions.
+Such sums shall be reduced by—
+
+“(i) the amount of any payments made after the date of enactment of this Act [Nov. 29, 1999] from the Joint Trust Funds pursuant to an agreement between the Trustee Council and Koniag, Inc., which includes those lands which are presently subject to the Koniag Non-Development Easement, including, but not limited to, the continuation or modification of such Easement; and
+
+“(ii) payments in excess of $6.32 million for any habitat acquisition or protection from the joint trust funds after the date of enactment of this Act and prior to October 1, 2002, other than payments for which the Council is currently obligated through purchase agreements with the Kodiak Island Borough, Afognak Joint Venture and the Eyak Corporation.
+
+“(B) All other funds remaining on October 1, 2002, and the associated earnings shall be used to fund a program, consisting of—
+
+“(i) marine research, including applied fisheries research;
+
+“(ii) monitoring; and
+
+“(iii) restoration, other than habitat acquisition, which may include community and economic restoration projects and facilities (including projects proposed by the communities of the EVOS Region or the fishing industry), consistent with the Consent Decree.
+
+“(6) The Federal trustees and the State trustees, to the extent authorized by State law, are authorized to issue grants as needed to implement this program.
+
+“(7) The authority provided in this section shall expire on September 30, 2002, unless by September 30, 2001, the Trustees have submitted to the Congress a report recommending a structure the Trustees believe would be most effective and appropriate for the administration and expenditure of remaining funds and interest received.
+Upon the expiration of the authorities granted in this section all monies in the Fund or outside accounts shall be returned to the Court Registry or other account permitted by law.”
+
 Deposit of Funds From Settlement of Litigation
 
 Pub. L. 102–229, title II, §207, Dec. 12, 1991, 105 Stat. 1715, provided that: “Notwithstanding any other provision of law, amounts received by the United States for restitution and future restoration (including replacement or acquisition of equivalent natural resources) in settlement of United States v. Exxon Corporation and Exxon Shipping Company (Case No. A90–015–1CR and 2CR), hereinafter the Plea Agreement, United States v. Exxon Corporation et al. (Civil No. A91–082 CIV) and State of Alaska v. Exxon Corporation et al. (Civil No. A91–083 CIV), hereinafter referred to together as the Agreement and Consent Decree, as approved by the United States District Court for the District of Alaska on October 8, 1991, in fiscal year 1992 and thereafter shall be deposited into the Natural Resource Damage Assessment and Restoration Fund established by Public Law 102–154 [105 Stat. 994]. Such amounts, and the interest accruing thereon, shall be available to the Federal Trustees identified in the Agreement and Consent Decree for necessary expenses for assessment and restoration of areas affected by the discharge of oil from the T/V EXXON VALDEZ on March 23–24, 1989, for fiscal year 1992 and thereafter in accordance with the Plea Agreement and the Agreement and Consent Decree: Provided, That such amounts (and accrued interest) shall remain available until expended: Provided further, That such amounts may be transferred to any account, as authorized by section 311(f)(5) of the Federal Water Pollution Control Act (33 U.S.C. 1321(f)(5)), to carry out the provisions of the Plea Agreement and the Agreement and Consent Decree: Provided further, That herein and hereafter any amounts deposited into the Natural Resource Damage Assessment and Restoration Fund shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: Provided further, That interest earned by such investments shall be available for obligation without further appropriation: Provided further, That, for fiscal year 1992, the Federal Trustees shall provide written notification of the proposed transfer of such amounts to the Appropriations Committees of the House of Representatives and the Senate thirty days prior to the actual transfer of such amounts: Provided further, That, for fiscal year 1993 and thereafter, the Federal Trustees shall submit in the President's Budget for each fiscal year the proposed use of such amounts.”
@@ -26093,12 +25483,12 @@ The interest earned from investments of the Fund shall be covered into and form 
 
 (c) Transfer and availability of amounts earned
 
-Each year, interest earned and covered into the Fund in the previous fiscal year shall be available for appropriation, to the extent provided in the subsequent appropriations Acts, as follows:
+Each year, interest earned and covered into the Fund in the previous fiscal year shall be made available as follows:
 
-(1) 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public lands respectively as provided in subsection (d) of this section and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field.
+(1) To the extent provided in the subsequent appropriations Acts, 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public lands respectively as provided in subsection (d) of this section and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field.
 The Secretary shall submit with the annual budget submission to Congress a list of high priority maintenance and modernization projects for congressional consideration.
 
-(2) 20 percent of such amounts shall be made available to the Secretary of Commerce for the purpose of carrying out marine research activities in the North Pacific in accordance with subsection (e) of this section.
+(2) 20 percent of such amounts shall be made available without further appropriation to the Secretary of Commerce for the purpose of carrying out marine research activities in the North Pacific in accordance with subsection (e) of this section.
 
 (d) Projects
 
@@ -26152,11 +25542,7 @@ The Board shall be considered an advisory panel established under section 1852(g
 Members of the Board may be reimbursed for actual expenses incurred in performance of their duties for the Board.
 Not more than 5 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.
 
-(f) Sunset
-
-If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.
-
-(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–277, div. A, §101(e) [title III, §331], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293.)
+(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–277, div. A, §101(e) [title III, §331], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293; Pub. L. 106–113, div. B, §1000(a)(3) [title III, §352(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–209.)
 
 §1475. Bureau of Reclamation acceptance of services of volunteers
 
@@ -29007,7 +28393,7 @@ Section 6(g) of the Alaska Statehood Act, as amended, referred to in subsec. (e)
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1615, 1626, 1641 of this title; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7938; title 25 sections 472a, 1903, 2012, 3103; title 29 sections 2911, 2914; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
+This section is referred to in sections 1615, 1626, 1641 of this title; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7938; title 25 sections 472a, 1903, 2012, 3103; title 29 section 2911; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
 
 1 So in original.
 Probably should be “Metlakatla”.
@@ -30107,7 +29493,7 @@ For complete classification of this Act to the Code, see Tables.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1611, 1613, 1615, 1616, 1621, 1629g, 1634, 1635, 1641 of this title; title 16 section 3215.
+This section is referred to in sections 1602, 1611, 1613, 1615, 1616, 1621, 1629g, 1634, 1635, 1641 of this title; title 7 section 2025; title 16 section 3215.
 
 §1611. Native land selections
 
@@ -31773,7 +31159,7 @@ Section Referred to in Other Sections
 This section is referred to in sections 1629b, 1629c of this title.
 
 1 So in original.
-Probably should be “board of directors”.
+Probably should not be capitalized.
 
 §1629e. Settlement Trust option
 
@@ -31856,367 +31242,6 @@ the assets so conveyed to the Settlement Trust shall not be subject to attachmen
 (7) Except where otherwise expressly provided, no provision of this section shall be construed to require shareholder approval of an action where shareholder approval would not be required under the laws of the State.
 
 (Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804; amended Pub. L. 105–333, §13, Oct. 31, 1998, 112 Stat. 3135.)
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1629b, 1636 of this title.
-
-§1629f. Claims arising from contamination of transferred lands
-
-(a) As used in this section the term “contaminant” means 1 hazardous substance harmful to public health or the environment, including friable asbestos.
-
-(b) Within 18 months of November 2, 1995, and after consultation with the Secretary of Agriculture, State of Alaska, and appropriate Alaska Native Corporations and organizations, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, a report addressing issues presented by the presence of contaminants on lands conveyed or prioritized for conveyance to such corporations pursuant to this chapter.
-Such report shall consist of—
-
-(1) existing information concerning the nature and types of contaminants present on such lands prior to conveyance to Alaska Native Corporations;
-
-(2) existing information identifying to the extent practicable the existence and availability of potentially responsible parties for the removal or remediation of the effects of such contaminants;
-
-(3) identification of existing remedies;
-
-(4) recommendations for any additional legislation that the Secretary concludes is necessary to remedy the problem of contaminants on the lands; and
-
-(5) in addition to the identification of contaminants, identification of structures known to have asbestos present and recommendations to inform Native landowners on the containment of asbestos.
-
-(Pub. L. 92–203, §40, as added Pub. L. 104–42, title I, §103, Nov. 2, 1995, 109 Stat. 354.)
-
-1 So in original.
-Probably should be “means a”.
-
-§1629g. Open season for certain Alaska Native veterans for allotments
-
-(a) In general
-
-(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal 1 land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect before December 18, 1971.
-
-(2) Allotments may be selected only from lands that were vacant, unappropriated, and unreserved on the date when the person eligible for the allotment first used and occupied those lands.
-
-(3) The Secretary may not convey allotments containing any of the following—
-
-(A) lands upon which a native or non-native campsite is located, except for a campsite used primarily by the person selecting the allotment;
-
-(B) lands selected by, but not conveyed to, the State of Alaska pursuant to the Alaska Statehood Act or any other provision of law;
-
-(C) lands selected by, but not conveyed to, a Village or Regional Corporation;
-
-(D) lands designated as wilderness by statute;
-
-(E) acquired lands;
-
-(F) lands containing a building, permanent structure, or other development owned or controlled by the United States, another unit of government, or a person other than the person selecting the allotment;
-
-(G) lands withdrawn or reserved for national defense purposes other than National Petroleum Reserve-Alaska;
-
-(H) National Forest Lands; and
-
-(I) lands selected or claimed, but not conveyed, under a public land law, including but not limited to the following:
-
-(1) Lands within a recorded mining claim.
-
-(2) Home sites.
-
-(3) Trade and Manufacturing sites.
-
-(4) Reindeer sites and Reindeer headquarters sites.
-
-(5) Cemetery sites.
-
-(4) A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following lands located within the geographic boundaries of the same Regional Corporation as the excluded allotment—
-
-(A) lands withdrawn pursuant to section 1610(a)(1) of this title which were not selected, or were relinquished after selection;
-
-(B) lands contiguous to the outer boundary of lands withdrawn pursuant to section 1610(a)(1)(C) of this title, except lands excluded from selection by a provision of subsection (a)(3) of this section and lands within a National Park; and
-
-(C) vacant, unappropriated and unreserved lands.
-
-(5) After consultation with a person entitled to an allotment within a Conservation System Unit, the Secretary may convey alternative lands of equal acreage, including lands within a Conservation System Unit, to that person if the Secretary determines that the allotment would be incompatible with a purpose for which the Conservation System Unit was established.
-
-(6) All conveyances under this section shall—
-
-(A) be subject to valid existing rights, including any right of the United States to income derived, directly or indirectly, from a lease, license, permit, right-of-way or easement; and
-
-(B) reserve to the United States deposits of oil, gas and coal, together with the right to explore, mine, and remove these minerals, on lands which the Secretary determines to be prospectively valuable for development.
-
-(b) Eligible person
-
-(1) A person is eligible to select an allotment under this section if that person—
-
-(A) would have been eligible for an allotment under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as that Act was in effect before December 18, 1971; and
-
-(B) is a veteran who served during the period between January 1, 1969 and December 31, 1971 and—
-
-(i) served at least 6 months between January 1, 1969 and June 2, 1971; or
-
-(ii) enlisted or was drafted into military service after June 2, 1971 but before December 3, 1971.
-
-(2) The personal representative of the estate of a decedent who was eligible under subsection (b)(1) of this section may, for the benefit of the heirs, select an allotment if, during the period specified in subsection (b)(1)(B) of this section, the decedent—
-
-(A) was killed in action;
-
-(B) was wounded in action and subsequently died as a direct consequence of that wound, as determined by the Department of Veterans Affairs; or
-
-(C) died while a prisoner of war.
-
-(3) No person who received an allotment or has a pending allotment under the Act of May 17, 1906 may receive an allotment under this section.
-
-(c) Study and report
-
-(1) The Secretary of the Interior shall conduct a study to identify and assess the circumstances of veterans of the Vietnam era who—
-
-(A) served during a period other than that specified in subsection (b)(1)(B) of this section;
-
-(B) were eligible for an allotment under the Act of May 17, 1906; and
-
-(C) did not apply for an allotment under that Act.
-
-(2) The Secretary shall, within one year of October 21, 1998, issue a written report on the study, including findings and recommendations, to the Committee on Appropriations and the Committee on Energy and Natural Resources in the Senate and the Committee on Appropriations and the Committee on Resources in the House of Representatives.
-
-(d) Definitions
-
-For the purposes of this section, the terms “veteran” and “Vietnam era” have the meanings given those terms by paragraphs (2) and (29), respectively, of section 101 of title 38.
-
-(e) Regulations
-
-No later than 18 months after October 21, 1998, the Secretary of the Interior shall promulgate, after consultation with Alaska Natives groups, rules to carry out this section.
-
-(Pub. L. 92–203, §41, as added Pub. L. 105–276, title IV, §432, Oct. 21, 1998, 112 Stat. 2516.)
-
-References in Text
-
-Act of May 17, 1906, referred to in subsecs. (a)(1), (b)(1)(A), (3) and (c)(1)(B), (C), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
-
-The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
-For complete classification of this Act to the Code, see Tables.
-
-Public land law, referred to in subsec. (a)(3)(I), is classified generally to this title.
-
-1 So in original.
-Probably should be capitalized.
-
-CHAPTER 33A—IMPLEMENTATION OF ALASKA NATIVE CLAIMS SETTLEMENT AND ALASKA STATEHOOD
-
-Sec.
-
-1631.
-Ownership of submerged lands.
-
-(a)
-Meandering in the surveying of submerged land.
-
-(b)
-Ownership of riparian lands; ratification of memorandum of agreement.
-
-(c)
-Interim conveyances and patents; navigability of streams; award of costs and attorney's fees.
-
-(d)
-Definitions.
-
-1632.
-Statute of limitations on decisions of Secretary and reconveyance of land by Village Corporation.
-
-1633.
-Administrative provisions.
-
-(a)
-Limitations concerning easements.
-
-(b)
-Acquisition of future easements.
-
-(c)
-Status of certain lease offers.
-
-(d)
-Limitation.
-
-1634.
-Alaska Native allotments.
-
-(a)
-Approval of applications for certain lands; lands containing coal, oil, or gas; nonmineral lands; lands within National Park System; protests; voluntary relinquishment of application.
-
-(b)
-Conflicting land descriptions in applications; adjustments; reductions.
-
-(c)
-Amendment of land description in application; notification; protest; adoption of final plan of survey.
-
-(d)
-Powersites and power projects.
-
-(e)
-Validity of existing rights; rights acquired by actual use and national forest lands unaffected.
-
-(f)
-Reinstatement.
-
-1635.
-State selections and conveyances.
-
-(a)
-Omitted.
-
-(b)
-School lands settlement.
-
-(c)
-Prior tentative approvals.
-
-(d)
-Prior State selections.
-
-(e)
-Future “top filings”.
-
-(f)
-Right to overselect.
-
-(g)
-Conveyance of specified lands.
-
-(h)
-Limitation of conveyances of specified lands tentative approvals; surveys.
-
-(i)
-Adjudication.
-
-(j)
-Clarification of land status outside units.
-
-(k)
-Interim provisions.
-
-(l)
-Existing rights.
-
-(m)
-Extinguishment of certain time extensions.
-
-(n)
-Effect on third-party rights.
-
-(o)
-Status of lands within units.
-
-(p)
-PYK Line.
-
-1636.
-Alaska land bank.
-
-(a)
-Establishment; agreements.
-
-(b)
-Terms of agreement.
-
-(c)
-Benefits to private landowners.
-
-(d)
-Automatic protections for lands conveyed pursuant to Alaska Native Claims Settlement Act.
-
-(e)
-Condemnation.
-
-(f)
-Existing contracts.
-
-(g)
-State jurisdiction.
-
-1637.
-Use of protraction diagrams.
-
-1638.
-National Environmental Policy Act.
-
-1639.
-Construction with Alaska Native Claims Settlement Act.
-
-1640.
-Relinquishment of selections partly within conservation units.
-
-1641.
-Conveyances to Village Corporations.
-
-(a)
-Optional procedure.
-
-(b)
-“Core” townships, etc.
-
-(c)
-Documents.
-
-(d)
-Reconveyances; disputes.
-
-(e)
-Existing rights.
-
-(f)
-Easements.
-
-(g)
-“Native Corporation” defined.
-
-1642.
-Land conveyances.
-
-        
-
-§1631. Ownership of submerged lands
-
-(a) Meandering in the surveying of submerged land
-
-(1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shall be meandered in accordance with the principles in the Bureau of Land Management, “Manual of Surveying Instructions” (1973).
-
-(2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river or stream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act [43 U.S.C. 1301 et seq., 1311 et seq.], such lake, river, or stream shall not be meandered.
-
-(3) The Secretary is not required to determine the navigability of a lake, river, or stream which because of its size or width is required to be meandered or to compute the acreage of the land beneath such lake, river, or stream or to describe such land in any conveyance document.
-
-(4) Nothing in this subsection shall be construed to require ground survey or monumentation of meanderlines.
-
-(b) Ownership of riparian lands; ratification of memorandum of agreement
-
-(1) Whenever, either before or after August 16, 1988, the Secretary conveys land to a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], the Alaska Statehood Act, or this Act which abuts or surrounds a meanderable lake, river, or stream, all right, title, and interest of the United States, if any, in the land under such lake, river, or stream lying between the uplands and the median line or midpoint, as the case may be, shall vest in and shall not be charged against the acreage entitlement of such Native or Native Corporation or the State.
-The right, title, and interest vested in a Native or Native Corporation shall be no greater an estate than the estate he or it is conveyed in the land which abuts or surrounds the lake, river, or stream.
-
-(2) The specific terms, conditions, procedures, covenants, reservations, and other restrictions set forth in the document entitled, “Memorandum of Agreement between the United States Department of the Interior and the State of Alaska” dated March 28, 1984, signed by the Secretary and the Governor of Alaska and submitted to the Committee on Interior and Insular Affairs of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, are hereby incorporated in this section and are ratified as to the duties and obligations of the United States and the State, as a matter of Federal law.
-
-(c) Interim conveyances and patents; navigability of streams; award of costs and attorney's fees
-
-(1) The execution of an interim conveyance or patent, as appropriate, by the Bureau of Land Management which conveys an area of land selected by a Native or Native Corporation which includes, surrounds, or abuts a lake, river, or stream, or any portion thereof, shall be the final agency action with respect to a decision of the Secretary of the Interior that such lake, river, or stream, is or is not navigable, unless such decision was validly appealed to an agency or board of the Department of the Interior on or before December 2, 1980.
-
-(2) No agency or board of the Department of the Interior other than the Bureau of Land Management shall have authority to determine the navigability of a lake, river, or stream within an area selected by a Native or Native Corporation pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.] or this Act unless a determination by the Bureau of Land Management that such lake, river, or stream, is or is not navigable, was validly appealed to such agency or board on or before December 2, 1980.
-
-(3) If title to land conveyed to a Native Corporation pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.] or this Act which underlies a lake, river, or stream is challenged in a court of competent jurisdiction and such court determines that such land is owned by the Native Corporation, the Native Corporation shall be awarded a money judgment against the plaintiffs in an amount equal to its costs and attorney's fees, including costs and attorney's fees incurred on appeal.
-
-(d) Definitions
-
-For the purposes of this section, the terms “navigable” and “navigability” means navigable for the purpose of determining title to lands beneath navigable waters, as between the United States and the several States pursuant to the Submerged Lands Act [43 U.S.C. 1301 et seq., 1311 et seq.] and section 6(m) of the Alaska Statehood Act.
-
-(Pub. L. 96–487, title IX, §901, Dec. 2, 1980, 94 Stat. 2430; Pub. L. 99–258, Mar. 19, 1986, 100 Stat. 42; Pub. L. 99–644, Nov. 10, 1986, 100 Stat. 3581; Pub. L. 100–395, title I, §101, Aug. 16, 1988, 102 Stat. 979.)
-
-References in Text
-
-The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title.
-For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
-
-This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act.
-For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
-
-The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
-For complete classification of this Act to the Code, see Tables.
-
-The Submerged Lands Act, referred to in subsecs. (a)(2) and (d), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of this title.
-For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
-
-Codification
-
-August 16, 1988, referred to in subsec. (b)(1), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 100–395, which amended this section generally, to reflect the probable intent of Congress.
 
 Change of Name
 
@@ -34092,7 +33117,7 @@ Management plan.
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1635, 1783, 1785, 1903 of this title; title 10 section 7439; title 16 sections 79b, 410ii–3, 410aaa–77, 460mm–1, 460mm–2, 460uu–22, 460uu–44, 460uu–45, 460uu–46, 460xx–1, 460ccc–2, 460ddd, 1248, 3209, 3210, 4804, 4805; title 23 section 206; title 25 section 713f; title 30 section 28j.
+This chapter is referred to in sections 1635, 1783, 1785, 1903 of this title; title 10 section 7439; title 16 sections 79b, 410ii–3, 410aaa–77, 410fff–5, 460mm–1, 460mm–2, 460uu–22, 460uu–44, 460uu–45, 460uu–46, 460xx–1, 460ccc–2, 460ddd, 1248, 3209, 3210; title 23 section 206; title 25 section 713f; title 30 section 28j.
 
 SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -34725,7 +33750,7 @@ Nothing in this Act shall be construed to change the discretionary nature of lan
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1715, 1718, 1719 of this title; title 16 sections 410aaa–77, 460ii–1, 460kk, 460mm–1, 460uu–43, 460ccc–4, 521b, 545b; title 25 section 1776c; title 30 sections 193, 1260.
+This section is referred to in sections 1715, 1718, 1719 of this title; title 16 sections 410aaa–77, 460kk, 460mm–1, 460uu–43, 460ccc–4, 521b, 545b; title 25 section 1776c; title 30 sections 193, 1260.
 
 §1717. Qualifications of conveyees
 
@@ -35170,9 +34195,11 @@ Sections 1181f–1 to 1181f–4, included within the parenthetical reference to 
 
 Availability of Funds for Improvement, Protection, or Rehabilitation of Damaged Public Lands
 
-Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–234, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of Public Law 94–579 (43 U.S.C. 1735(a)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act (43 U.S.C. 1735(c)), shall be available and may be expended under the authority of this Act [probably means the Department of the Interior and Related Agencies Appropriations Act, 1999, Pub. L. 105–277, div. A, §101(e), Oct. 21, 1998, 112 Stat. 2681–231, see Tables for classification] by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such action are used on the exact lands damaged which led to the action: Provided further, That any such moneys that are in excess of amounts needed to repair damage to the exact land for which funds were collected may be used to repair other damaged public lands.”
+Pub. L. 106–113, div. B, §1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–138, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of Public Law 94–579 (43 U.S.C. 1735(a)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act (43 U.S.C. 1735(c)), shall be available and may be expended under the authority of this Act [probably means the Department of the Interior and Related Agencies Appropriations Act, 2000, Pub. L. 106–113, div. B, §1000(a)(3), Nov. 29, 1999, 113 Stat. 1535, 1501A–135, see Tables for classification] by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such action are used on the exact lands damaged which led to the action: Provided further, That any such moneys that are in excess of amounts needed to repair damage to the exact land for which funds were collected may be used to repair other damaged public lands.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–234.
 
 Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1545.
 
@@ -36232,7 +35259,7 @@ Pub. L. 104–134, title I, §101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1702, 1732, 1784 of this title; title 16 sections 460ccc–3, 460iii–5; title 25 section 640d–26; title 42 section 6508.
+This section is referred to in sections 1702, 1732, 1784 of this title; title 16 sections 410fff–6, 460ccc–3, 460iii–5; title 25 section 640d–26; title 42 section 6508.
 
 §1783. Yaquina Head Outstanding Natural Area
 
@@ -38533,9 +37560,9 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS
 
 §2241. Authorization of appropriations
 
-Except as otherwise provided in section 2243 of this title (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $90,000,000 in total for fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+Except as otherwise provided in section 2243 of this title (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $90,000,000 in total for fiscal years 1992, 1993, 1994, 1995, 1996, 1999, and 2000.
 
-(Pub. L. 102–250, title III, §301, Mar. 5, 1992, 106 Stat. 58; Pub. L. 104–206, title II, Sept. 30, 1996, 110 Stat. 2992.)
+(Pub. L. 102–250, title III, §301, Mar. 5, 1992, 106 Stat. 58; Pub. L. 104–206, title II, Sept. 30, 1996, 110 Stat. 2992; Pub. L. 106–60, title II, Sept. 29, 1999, 113 Stat. 488.)
 
 §2242. Authority of Secretary
 

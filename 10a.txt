@@ -8,7 +8,7 @@ UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES
 
 RULES OF PRACTICE AND PROCEDURE
 
-(Effective July 1, 1983, as amended to January 5, 1999)
+(Effective July 1, 1983, as amended to January 23, 2000)
 
 GENERAL
 
@@ -106,7 +106,7 @@ Mandatory Review Case.
 BRIEFS
 
 24.
-Form and Content, Page Limitations, Style, and Classified Information.
+Form, Content, and Page Limitations.
 
 25.
 When Briefs are Required.
@@ -140,6 +140,13 @@ Motions.
 
         
 
+FACT FINDING
+
+30A.
+Fact Finding.
+
+        
+
 RECONSIDERATION
 
 31.
@@ -161,11 +168,17 @@ Computation of Time.
 35.
 Filing of Record.
 
+35A.
+Use of Classified Information.
+
 36.
 Filing of Pleadings.
 
+36A.
+Citations to Supplemental Authorities.
+
 37.
-Copies.
+Printing, Copying and Style Requirements.
 
 38.
 Signatures.
@@ -350,18 +363,20 @@ Before entering upon the execution of his office, the Clerk shall take the oath 
 
 (c) Custodian of records.
 The Clerk shall serve as custodian of the records of the Court and shall not permit any documents relative to a case to be taken from the courthouse except by order of a judge of the Court.
-However, after final action on a case in which documents containing classified information have been filed with the Court under Rule 24(d), the Clerk shall, as Court Security Officer, consult with the originating armed service to determine the appropriate disposition of such documents.
+However, after final action on a case in which documents containing classified information have been filed with the Court under Rule 35A, the Clerk shall, as Court Security Officer, consult with the originating armed service to determine the appropriate disposition of such documents.
 See Rule 12.
 
 (d) Disposition of procedural matters.
-Notwithstanding the provisions of Rule 6, the Clerk, on behalf of the Court, may entertain and act on any motion seeking an enlargement of time not to exceed 30 days, leave to withdraw as counsel, or permission to file citations, pleadings, or other papers relative to a matter pending before the Court, provided such motion is not opposed and such action does not substantially affect the rights of the parties or the ultimate decision in the case.
+Notwithstanding the provisions of Rule 6, the Clerk, on behalf of the Court, may entertain and act on any motion seeking an enlargement of time not to exceed 30 days, leave to withdraw as counsel, or permission to file pleadings, or other papers relative to a matter pending before the Court, provided such motion is not opposed and such action does not substantially affect the rights of the parties or the ultimate decision in the case.
 The order of the Clerk shall be deemed the order of the Court.
 
 (e) Hours.
 The Clerk's office shall be open for the filing of pleadings and other papers from 9:00 a.m. to 5:00 p.m. every day except Saturdays, Sundays, and legal holidays, or as otherwise ordered by the Court.
 See Rule 36(a).
 
-(As amended Mar. 31, 1994.)
+(As amended Mar. 31, 1994; Jan. 20, 1999, eff.
+Feb. 1, 1999; Sept. 20, 1999, eff.
+Oct. 1, 1999.)
 
 Rule 10. Docket
 
@@ -418,10 +433,13 @@ The Clerk shall serve as the Court Security Officer for the purposes of providin
 
 (b) Classified documents.
 Documents containing classified information will be stored and safeguarded by the Court Security Officer in accordance with the Department of Defense Information Security Program Regulation (DOD Regulation 5200.1–R) or the Security Procedures Established by the Chief Justice of the United States pursuant to Pub. L. 96–456, 94 Stat. 2025, as appropriate.
-See Rules 9(c) and 24(d).
+See Rules 9(c) and 35A.
 
 (c) Security clearances.
 Security clearances for personnel on the staff of the Court will be obtained by the Court Security Officer in accordance with the Department of Defense Information Security Program Regulation.
+
+(As amended Jan. 20, 1999, eff.
+Feb. 1, 1999.)
 
 ATTORNEYS
 
@@ -759,7 +777,7 @@ Rule 21. Supplement to Petition for Grant of Review
 Good cause must be shown by the appellant in the supplement to the petition, which shall state with particularity the error(s) claimed to be materially prejudicial to the substantial rights of the appellant.
 See Article 59(a), UCMJ, 10 U.S.C. §859(a).
 
-(b) The supplement to the petition shall be filed in accordance with the applicable time limit set forth in Rule 19(a)(5)(A) or (B), shall include an Appendix required by Rule 24(a), shall conform to the provisions of Rule 24(b), (c), and (d), and shall contain:
+(b) The supplement to the petition shall be filed in accordance with the applicable time limit set forth in Rule 19(a)(5)(A) or (B), shall include an Appendix required by Rule 24(a), shall conform to the provisions of Rules 24(b), 35A, and 37, and shall contain:
 
 (1) A statement of the errors assigned for review by the Court;
 
@@ -803,7 +821,8 @@ See Rule 19(a)(5).
 See Rule 30.
 
 (As amended Oct. 1, 1987; July 16, 1990, eff.
-Aug. 15, 1990; Oct. 12, 1994.)
+Aug. 15, 1990; Oct. 12, 1994; Jan. 20, 1999, eff.
+Feb. 1, 1999.)
 
 Rule 22. Certificate for Review
 
@@ -901,16 +920,16 @@ Aug. 1, 1984; Oct. 12, 1994; Feb. 27, 1996.)
 
 BRIEFS
 
-Rule 24. Form and Content, Page Limitations, Style, and Classified Information
+Rule 24. Form, Content, and Page Limitations
 
 (a) Form and content.
-All briefs will be legible and will be substantially as follows:
+All briefs shall conform to the printing, copying, and style requirements of Rule 37, shall be legible, and shall be substantially as follows:
 
 in the united states court of appeals for the armed forces
 
 Index of Brief
 
-[See Rule 24(c)(2)]
+[See Rule 37(c)(1)]
 
 Table of Cases, Statutes, and Other Authorities
 
@@ -986,29 +1005,11 @@ Unless otherwise authorized by order of the Court or by motion of a party grante
 
 (3) Replies of appellants/petitioners shall not exceed 15 pages.
 
-(c) Style. (1) Except for records of trial and as otherwise provided by Rule 27(a)(6), all pleadings or other papers relative to a case shall be typewritten and double spaced on white paper, 8.5 by 11 inches in size, securely fastened at the top.
-Copies of typewritten pleadings and papers may include those produced by any process capable of producing a clearly legible black image on white paper but shall not include ordinary carbon copies.
-If papers are filed in any other form, the Clerk shall require the substitution of new copies, but such substitution will not affect the filing date of the papers or pleadings involved.
-See Rule 37.
-
-(2) All pleadings presented to the Court shall, unless they are less than 5 pages in length, be preceded by a subject index of the matter contained therein, with page references, and a table of cases (alphabetically arranged with citations), textbooks and statutes cited, with references to the pages where cited.
-
-(3) Citations shall conform with the Uniform System of Citation.
-
-(4) All references to the record of trial shall include page numbers or exhibit designations, as appropriate.
-
-(5) No pleading or other paper filed with the Court shall incorporate by reference any material from any other source.
-
-(d) Classified information.
-Classified information will be included in documents filed with the Court only when necessary to a proper consideration of the issues involved.
-The original or one complete copy of a document containing the classified information shall be filed with the Court.
-The party filing such document shall give written notice to the Clerk and to all other parties prior to the time of such filing that such document contains classified information.
-In addition, there shall be filed in accordance with Rule 37 an original and seven copies of each such document from which the classified information has been deleted or omitted in such manner that the pages which contained the deleted or omitted classified information are clearly identified.
-
 (As amended Oct. 1, 1987; Oct. 30, 1991, eff.
 Nov. 4, 1991; Mar. 3, 1992, eff.
 Apr. 1, 1992; Oct. 12, 1994; Feb. 27, 1996; Jan. 12, 1998, eff.
-Feb. 2, 1998.)
+Feb. 2, 1998; Jan. 20, 1999, eff.
+Feb. 1, 1999.)
 
 Rule 25. When Briefs are Required
 
@@ -1218,7 +1219,7 @@ Rule 30. Motions
 
 (d) Motions will be separately filed before the Court and shall not be incorporated in any other pleading.
 
-(e) Once a notice of hearing has been given to counsel for the parties, motions other than those to file recent supplemental citations of authority without additional argument may not be filed within 5 working days prior to the date on which such hearing is scheduled except by leave of the Court and for good cause shown.
+(e) Once a notice of hearing has been given to counsel for the parties, motions may not be filed within 5 working days prior to the date on which such hearing is scheduled except by leave of the Court and for good cause shown.
 
 (f) Oral motions presented by counsel by leave of the Court during a hearing shall be forthwith reduced to writing by the moving counsel and filed with the Court within 3 days after such hearing.
 
@@ -1226,7 +1227,32 @@ Rule 30. Motions
 Any party adversely affected by such action may request reconsideration, vacation, or modification of such action.
 
 (As amended Nov. 1, 1995, eff.
-Nov. 15, 1995.)
+Nov. 15, 1995; Sept. 20, 1999, eff.
+Oct. 1, 1999.)
+
+FACT FINDING
+
+Rule 30A. Fact Finding
+
+(a) General.
+The Court will normally not consider any facts outside of the record established at the trial and the Court of Criminal Appeals.
+
+(b) Judicial notice.
+In an appropriate case, the Court may take judicial notice of an indisputable adjudicative fact.
+
+(c) Remand for fact finding.
+If an issue concerning an unresolved material fact may affect the Court's resolution of the case, a party may request, or the Court may sua sponte order, a remand of the case or the record to the Court of Criminal Appeals.
+If the record is remanded, the Court retains jurisdiction over the case.
+If the case is remanded, the Court does not retain jurisdiction, and a new petition for grant of review or certificate for review will be necessary if a party seeks review of the proceedings conducted on remand.
+
+(d) Stipulation by the parties.
+If an issue concerning an unresolved material fact may affect the Court's resolution of the case, the parties may stipulate to a factual matter, subject to the Court's approval.
+
+(e) Other means.
+Where it is impracticable to remand a case to the Court of Criminal Appeals, the Court may order other means to develop relevant facts, including the appointment of a special master to hold hearings, if necessary, and to make such recommendations to the Court as are deemed appropriate.
+
+(Added May 25, 1999, eff.
+July 1, 1999.)
 
 RECONSIDERATION
 
@@ -1238,12 +1264,13 @@ Rule 31. Petition for Reconsideration
 
 (c) A reply to an answer to a petition may be filed no later than 5 days after the filing of the answer.
 
-(d) The concurrence of two judges who participated in the original decision shall be required for the allowance of a petition for reconsideration.
+(d) A petition for reconsideration shall be granted with the concurrence of a majority of the judges who participated in the original decision.
 
 (e) Consecutive petitions for reconsideration, and any such petition that is out of time, will not be filed unless accompanied by a motion for leave to file the same, in accordance with Rule 30, and unless such motion is granted by the Court.
 
 (As amended Nov. 1, 1995, eff.
-Nov. 15, 1995.)
+Nov. 15, 1995; Jan. 20, 1999, eff.
+Feb. 1, 1999.)
 
 Rule 32. Form of Petition for Reconsideration
 
@@ -1302,20 +1329,79 @@ Rule 35. Filing of Record
 
 The record shall be filed by the Judge Advocate General as soon as practicable after the docketing of any action pursuant to Rule 4. See Rule 27(a)(1) and (b).
 
+Rule 35A. Use of Classified Information
+
+Classified information shall be included in documents filed with the Court only when necessary to a proper consideration of the issues involved.
+The original or one complete copy of a document containing the classified information shall be filed with the Court.
+The party filing such document shall give written notice to the Clerk and to all other parties prior to the time of such filing that such document contains classified information.
+In addition, there shall be filed in accordance with Rule 37(b)(2) an original and seven copies of each such document from which the classified information has been deleted or omitted in such manner that the pages which contain the deleted or omitted classified information are clearly identified.
+
+(Added Jan. 20, 1999, eff.
+Feb. 1, 1999.)
+
 Rule 36. Filing of Pleadings
 
-(a) All pleadings or other papers relative to a case will be submitted to the Clerk's office, 450 E Street, Northwest, Washington, D.C. 20442–0001. Pleadings transmitted by mail or other means for filing in the Clerk's office will be deemed to have been filed when received by the Court or when deposited in the United States mails addressed to the Court, whichever occurs first.
-See Rule 27(a)(6).
+(a) In general.
+Pleadings or other papers relative to a case shall be filed in the Clerk's office, 450 E Street, Northwest, Washington, D.C. 20442–0001, either in person or by mail.
+See Rule 37(b)(2).
 
-(b) If any pleading or paper is not filed or offered for filing in compliance with these rules or an order of the Court, the Court may issue an order to show cause, dismiss the proceeding, or return the proffered pleading or paper on its own motion or the motion of a party.
+(b) Filing in person.
+If a pleading or other paper is filed in person, such filing shall consist of delivery to a member of the Clerk's office during normal business hours.
+See Rule 9(e).
 
-Rule 37. Copies
+(c) Filing by mail.
+If a pleading or other paper is filed by mail, such filing shall consist of depositing the pleading or other paper with the United States Postal Service, with no less than first-class postage prepaid, properly addressed to the Clerk's office.
 
-An original and seven legible copies of all pleadings or other papers relative to a case shall be filed.
-See Rule 24(d) concerning documents which contain classified information.
+(d) Time of filing.
+Pleadings or other papers shall be deemed to have been filed on the date they are delivered to the Clerk's office under subsection (b) or on the date they are mailed under subsection (c). See Rules 37(b)(1) and 39(e).
+
+(e) Non-compliant pleadings.
+If any pleading or other paper is not filed or offered for filing in compliance with these Rules or an order of the Court, the Court may issue an order to show cause, dismiss the proceeding, or return the proffered pleading or paper on its own motion or the motion of a party.
+See Rules 27(a)(4) and 37(b)(1).
+
+(As amended Sept. 20, 1999, eff.
+Oct. 1, 1999.)
+
+Rule 36A. Citations to Supplemental Authorities
+
+If pertinent and significant authorities come to a party's attention after such party has filed a pleading allowed under these Rules, or after oral argument but before a final decision, the party may promptly advise the Clerk by letter, with a copy to all parties, setting forth the citations.
+The letter must state, without argument, the reasons for each supplemental citation, referring either to the page of the earlier filed pleading or to a point argued orally to which the citation is pertinent.
+Any response by other parties must be made promptly and must be similarly limited.
+See Rule 37(b)(2).
+
+(Added Sept. 20, 1999, eff.
+Oct. 1, 1999.)
+
+Rule 37. Printing, Copying and Style Requirements
+
+(a) Printing.
+Except for records of trial and as otherwise provided by Rule 27(a)(4), all pleadings or other papers relative to a case shall be typewritten and double-spaced, printed on one side only on white unglazed paper, 8.5 by 11 inches in size, securely fastened in the top left corner.
+With the exception of footnotes which may appear in 11 point type, all printed matter must appear in nonproportional typeface using 12 point type and with no more than ten characters per inch.
+Margins shall not exceed 6.5 by 9.5 inches, with double-spacing between each line of text.
+Headings, footnotes and block quotations may be single-spaced, but should not be used excessively to avoid page limit requirements.
+
+(b) Copying.
+
+(1) Copies of typewritten pleadings and papers may include those produced by any process capable of producing a clearly legible black image on white paper, but shall not include ordinary carbon copies.
+If papers are filed in any other form, the Clerk shall require the substitution of new copies, but such substitution will not affect the filing date of the papers or pleadings involved.
+See Rule 36.
+
+(2) An original and seven legible copies of all pleadings or other papers relative to a case shall be filed.
+See Rule 35A concerning documents which contain classified information.
+
+(c) Style.
+
+(1) All pleadings presented to the Court shall, unless they are less than 5 pages in length, be preceded by a subject index of the matter contained therein, with page references, and a table of cases (alphabetically arranged with citations), textbooks and statutes cited, with references to the pages where cited.
+
+(2) Citations shall conform with the Uniform System of Citation.
+
+(3) All references to the record of trial shall include page numbers or exhibit designations, as appropriate.
+
+(4) No pleading or other paper filed with the Court shall incorporate by reference any material from any other source.
 
 (As amended Oct. 30, 1991, eff.
-Nov. 4, 1991.)
+Nov. 4, 1991; Jan. 20, 1999, eff.
+Feb. 1, 1999.)
 
 Rule 38. Signatures
 
@@ -1334,25 +1420,42 @@ However, within 30 days of the filing of a pleading, such counsel shall, as a pr
 Rule 39. Service of Pleadings
 
 (a) In general.
-At or before the filing of any pleading or other paper relative to a case in the Clerk's office, service of a copy of the same will be made on all counsel of record, including amicus curiae counsel, in person or by mail.
+At or before the filing of any pleading or other paper relative to a case in the Clerk's office, a copy thereof shall be served in person or by mail on all counsel of record, including amicus curiae counsel.
+See Rule 16(b). When a party is not represented by counsel, service shall be made on such party in person or by mail.
+When reasonable, considering such factors as the immediacy of the relief sought, distance, and cost, service must be at least as expeditious as the manner used to file the pleading or other paper with the Court.
+See Rule 36.
 
-(b) Certificate for review.
-In the case of a certificate for review, service of a copy thereof will be made on appellate defense counsel and appellate government counsel as prescribed in Rule 22(a).
+(b) Personal service.
+If service is made in person, it shall consist of delivery at the office of the counsel of record, either to counsel or to an employee therein.
+If the party is not represented, service shall consist of delivery to such party.
 
-(c) Form of certificate of filing and service.
-A certificate of filing and service will be included in any pleading or other paper substantially in the following form:
+(c) Service by mail.
+If service is made by mail, it shall consist of depositing the pleading or other paper with the United States Postal Service, with no less than first-class postage prepaid, addressed to the counsel of record or, if the party is not represented, to such party, at the proper post office address.
+
+(d) Certificate for review.
+In the case of a certificate for review, service of a copy thereof shall be made on appellate defense counsel and appellate government counsel as prescribed in Rule 22(a).
+
+(e) Form of certificate of filing and service.
+A certificate indicating the specific manner of filing under Rule 36 and the specific manner of service under this rule shall be included in any pleading or other paper substantially in the following form:
 
 certificate of filing and service
 
-I certify that a copy of the foregoing was [delivered] [mailed] to the Court and was [delivered] [mailed] to (enter name of each counsel of record) on ________. (Date)
+I certify that the original and seven copies of the foregoing were [delivered] (or) [mailed-specify class of mail] to the Court on ____(date)____ and that a copy of the foregoing was [delivered] (or) [mailed-specify class of mail] to (enter specific name of each counsel of record or party, if not represented) on ____(date)____.
 
 ______________________________________      
 
-(Typed name and signature)        
+(Typed name and signature of        
+
+certifying person)           
 
 ______________________________________      
 
-(Address and telephone no.)        
+(Address and telephone no.         
+
+of certifying person)           
+
+(As amended Sept. 20, 1999, eff.
+Oct. 1, 1999.)
 
 HEARINGS
 
@@ -1452,7 +1555,7 @@ COURTS OF CRIMINAL APPEALS
 
 RULES OF PRACTICE AND PROCEDURE
 
-(Effective May 1, 1996, as amended to January 5, 1999)
+(Effective May 1, 1996, as amended to January 23, 2000)
 
 Rule
 

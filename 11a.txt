@@ -6,7 +6,7 @@ United States Code Document
 
 BANKRUPTCY RULES AND OFFICIAL FORMS
 
-(Effective August 1, 1983, as amended to January 5, 1999)
+(Effective August 1, 1983, as amended to January 23, 2000)
 
 Part
 Rule
@@ -119,7 +119,7 @@ Dismissal or Conversion of Case; Suspension.
 Contested Involuntary Petitions; Contested Petitions Commencing Ancillary Cases; Proceedings To Vacate Order for Relief; Applicability of Rules in Part VII Governing Adversary Proceedings.
 
 1019.
-Conversion of Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to Chapter 7 Liquidation Case.
+Conversion of a Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to a Chapter 7 Liquidation Case.
 
 1020.
 Election to be Considered a Small Business in a Chapter 11 Reorganization Case.
@@ -349,7 +349,7 @@ Use, Sale, or Lease of Property.
 Appraisers and Auctioneers.
 
 6006.
-Assumption, Rejection and Assignment of Executory Contracts and Unexpired Leases.
+Assumption, Rejection or Assignment of an Executory Contract or Unexpired Lease.
 
 6007.
 Abandonment or Disposition of Property.
@@ -1393,38 +1393,45 @@ Rule 1017. Dismissal or Conversion of Case; Suspension
 
 (a) Voluntary Dismissal; Dismissal for Want of Prosecution or Other Cause
 
-Except as provided in §§707(b), 1208(b), and 1307(b) of the Code, a case shall not be dismissed on motion of the petitioner or for want of prosecution or other cause or by consent of the parties prior to a hearing on notice as provided in Rule 2002. For such notice the debtor shall file a list of all creditors with their addresses within the time fixed by the court unless the list was previously filed.
-If the debtor fails to file the list, the court may order the preparing and filing by the debtor or other entity.
+Except as provided in §§707(a)(3), 707(b), 1208(b), and 1307(b) of the Code, and in Rule 1017(b), (c), and (e), a case shall not be dismissed on motion of the petitioner, for want of prosecution or other cause, or by consent of the parties, before a hearing on notice as provided in Rule 2002. For the purpose of the notice, the debtor shall file a list of creditors with their addresses within the time fixed by the court unless the list was previously filed.
+If the debtor fails to file the list, the court may order the debtor or another entity to prepare and file it.
 
 (b) Dismissal for Failure To Pay Filing Fee
 
-(1) For failure to pay any installment of the filing fee, the court may after hearing on notice to the debtor and the trustee dismiss the case.
+(1) If any installment of the filing fee has not been paid, the court may, after a hearing on notice to the debtor and the trustee, dismiss the case.
 
-(2) If the case is dismissed or the case closed without full payment of the filing fee, the installments collected shall be distributed in the same manner and proportions as if the filing fee had been paid in full.
+(2) If the case is dismissed or closed without full payment of the filing fee, the installments collected shall be distributed in the same manner and proportions as if the filing fee had been paid in full.
 
-(3) Notice of dismissal for failure to pay the filing fee shall be given within 30 days after the dismissal to creditors appearing on the list of creditors and to those who have filed claims, in the manner provided in Rule 2002.
+(c) Dismissal of Voluntary Chapter 7 or Chapter 13 Case for Failure To Timely File List of Creditors, Schedules, and Statement of Financial Affairs
 
-(c) Suspension
+The court may dismiss a voluntary chapter 7 or chapter 13 case under §707(a)(3) or §1307(c)(9) after a hearing on notice served by the United States trustee on the debtor, the trustee, and any other entities as the court directs.
 
-A case shall not be dismissed or proceedings suspended pursuant to §305 of the Code prior to a hearing on notice as provided in Rule 2002(a).
+(d) Suspension
 
-(d) Procedure for Dismissal or Conversion
+The court shall not dismiss a case or suspend proceedings under §305 before a hearing on notice as provided in Rule 2002(a).
 
-A proceeding to dismiss a case or convert a case to another chapter, except pursuant to §§706(a), 707(b), 1112(a), 1208(a) or (b), or 1307(a) or (b) of the Code, is governed by Rule 9014. Conversion or dismissal pursuant to §§706(a), 1112(a), 1208(b), or 1307(b) shall be on motion filed and served as required by Rule 9013. A chapter 12 or chapter 13 case shall be converted without court order on the filing by the debtor of a notice of conversion pursuant to §§1208(a) or 1307(a), and the filing date of the notice shall be deemed the date of the conversion order for the purposes of applying §348(c) of the Code and Rule 1019. The clerk shall forthwith transmit to the United States trustee a copy of the notice.
+(e) Dismissal of an Individual Debtor's Chapter 7 Case for Substantial Abuse
 
-(e) Dismissal of Individual Debtor's Chapter 7 Case for Substantial Abuse
+The court may dismiss an individual debtor's case for substantial abuse under §707(b) only on motion by the United States trustee or on the court's own motion and after a hearing on notice to the debtor, the trustee, the United States trustee, and any other entities as the court directs.
 
-An individual debtor's case may be dismissed for substantial abuse pursuant to §707(b) only on motion by the United States trustee or on the court's own motion and after a hearing on notice to the debtor, the trustee, the United States trustee, and such other parties in interest as the court directs.
+(1) A motion to dismiss a case for substantial abuse may be filed by the United States trustee only within 60 days after the first date set for the meeting of creditors under §341(a), unless, before the time has expired, the court for cause extends the time for filing the motion.
+The United States trustee shall set forth in the motion all matters to be submitted to the court for its consideration at the hearing.
 
-(1) A motion by the United States trustee shall be filed not later than 60 days following the first date set for the meeting of creditors held pursuant to §341(a), unless, before such time has expired, the court for cause extends the time for filing the motion.
-The motion shall advise the debtor of all matters to be submitted to the court for its consideration at the hearing.
+(2) If the hearing is set on the court's own motion, notice of the hearing shall be served on the debtor no later than 60 days after the first date set for the meeting of creditors under §341(a). The notice shall set forth all matters to be considered by the court at the hearing.
 
-(2) If the hearing is on the court's own motion, notice thereof shall be served on the debtor not later than 60 days following the first date set for the meeting of creditors pursuant to §341(a). The notice shall advise the debtor of all matters to be considered by the court at the hearing.
+(f) Procedure for Dismissal, Conversion, or Suspension
+
+(1) Rule 9014 governs a proceeding to dismiss or suspend a case, or to convert a case to another chapter, except under §§706(a), 1112(a), 1208(a) or (b), or 1307(a) or (b).
+
+(2) Conversion or dismissal under §§706(a), 1112(a), 1208(b), or 1307(b) shall be on motion filed and served as required by Rule 9013.
+
+(3) A chapter 12 or chapter 13 case shall be converted without court order when the debtor files a notice of conversion under §§1208(a) or 1307(a). The filing date of the notice becomes the date of the conversion order for the purposes of applying §348(c) and Rule 1019. The clerk shall promptly transmit a copy of the notice to the United States trustee.
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 22, 1993, eff.
-Aug. 1, 1993.)
+Aug. 1, 1993; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1462,7 +1469,7 @@ See Rule 9002 infra.
 This Rule 1018 requires that the terms “adversary proceedings” when used in the rules in Part VII and “complaint” when used in the Federal Rules of Civil Procedure be given altered meanings when they are made applicable to proceedings relating to a contested petition or proceedings to vacate any order for relief.
 A motion to vacate an order for relief, whether or not made on a petition that was or could have been contested, is governed by the rules in Part VII referred to in this Rule 1018.
 
-Rule 1019. Conversion of Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to Chapter 7 Liquidation Case
+Rule 1019. Conversion of a Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to a Chapter 7 Liquidation Case
 
 When a chapter 11, chapter 12, or chapter 13 case has been converted or reconverted to a chapter 7 case:
 
@@ -1471,8 +1478,8 @@ When a chapter 11, chapter 12, or chapter 13 case has been converted or reconver
 (A) Lists, inventories, schedules, and statements of financial affairs theretofore filed shall be deemed to be filed in the chapter 7 case, unless the court directs otherwise.
 If they have not been previously filed, the debtor shall comply with Rule 1007 as if an order for relief had been entered on an involuntary petition on the date of the entry of the order directing that the case continue under chapter 7.
 
-(B) The statement of intention, if required, shall be filed within 30 days following entry of the order of conversion or before the first date set for the meeting of creditors, whichever is earlier.
-An extension of time may be granted for cause only on motion made before the time has expired.
+(B) If a statement of intention is required, it shall be filed within 30 days after entry of the order of conversion or before the first date set for the meeting of creditors, whichever is earlier.
+The court may grant an extension of time for cause only on written motion filed, or oral request made during a hearing, before the time has expired.
 Notice of an extension shall be given to the United States trustee and to any committee, trustee, or other party as the court may direct.
 
 (2) New Filing Periods.
@@ -1512,14 +1519,17 @@ Unless the court orders otherwise, if a chapter 11, chapter 12, or chapter 13 ca
 (D) Transmission to United States Trustee.
 The clerk shall forthwith transmit to the United States trustee a copy of every schedule filed pursuant to Rule 1019(5).
 
-(6) Filing of Postpetition Claims; Notice.
-On the filing of the schedule of unpaid debts, the clerk, or some other person as the court may direct, shall give notice to those entities, including the United States, any state, or any subdivision thereof, that their claims may be filed pursuant to Rules 3001(a)–(d) and 3002. Unless a notice of insufficient assets to pay a dividend is mailed pursuant to Rule 2002(e), the court shall fix the time for filing claims arising from the rejection of executory contracts or unexpired leases under §§348(c) and 365(d) of the Code.
+(6) Postpetition Claims; Preconversion Administrative Expenses; Notice.
+A request for payment of an administrative expense incurred before conversion of the case is timely filed under §503(a) of the Code if it is filed before conversion or a time fixed by the court.
+If the request is filed by a governmental unit, it is timely if it is filed before conversion or within the later of a time fixed by the court or 180 days after the date of the conversion.
+A claim of a kind specified in §348(d) may be filed in accordance with Rules 3001(a)–(d) and 3002. Upon the filing of the schedule of unpaid debts incurred after commencement of the case and before conversion, the clerk, or some other person as the court may direct, shall give notice to those entities listed on the schedule of the time for filing a request for payment of an administrative expense and, unless a notice of insufficient assets to pay a dividend is mailed in accordance with Rule 2002(e), the time for filing a claim of a kind specified in §348(d).
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 11, 1997, eff.
-Dec. 1, 1997.)
+Dec. 1, 1997; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1555,6 +1565,62 @@ Pursuant to §348(c) of the Code, the conversion order is treated as the order f
 Paragraph (8) permits the extension of the time for filing claims when claims are not timely filed but only with respect to any surplus that may remain in the estate.
 See also §726(a)(2)(C) and (3) of the Code.
 
+Rule 1020. Election to be Considered a Small Business in a Chapter 11 Reorganization Case
+
+In a chapter 11 reorganization case, a debtor that is a small business may elect to be considered a small business by filing a written statement of election not later than 60 days after the date of the order for relief.
+
+(Added Apr. 11, 1997, eff.
+Dec. 1, 1997.)
+
+Notes of Advisory Committee on Rules—1997
+
+This rule is designed to implement §§1121(e) and 1125(f) that were added to the Code by the Bankruptcy Reform Act of 1994.
+
+GAP Report on Rule 1020. The phrase “or by a later date as the court, for cause, may fix” at the end of the published draft was deleted.
+The general provisions on reducing or extending time periods under Rule 9006 will be applicable.
+
+PART II—OFFICERS AND ADMINISTRATION; NOTICES; MEETINGS; EXAMINATIONS; ELECTIONS; ATTORNEYS AND ACCOUNTANTS
+
+Rule 2001. Appointment of Interim Trustee Before Order for Relief in a Chapter 7 Liquidation Case
+
+(a) Appointment
+
+At any time following the commencement of an involuntary liquidation case and before an order for relief, the court on written motion of a party in interest may order the appointment of an interim trustee under §303(g) of the Code.
+The motion shall set forth the necessity for the appointment and may be granted only after hearing on notice to the debtor, the petitioning creditors, the United States trustee, and other parties in interest as the court may designate.
+
+(b) Bond of Movant
+
+An interim trustee may not be appointed under this rule unless the movant furnishes a bond in an amount approved by the court, conditioned to indemnify the debtor for costs, attorney's fee, expenses, and damages allowable under §303(i) of the Code.
+
+(c) Order of Appointment
+
+The order directing the appointment of an interim trustee shall state the reason the appointment is necessary and shall specify the trustee's duties.
+
+(d) Turnover and Report
+
+Following qualification of the trustee selected under §702 of the Code, the interim trustee, unless otherwise ordered, shall (1) forthwith deliver to the trustee all the records and property of the estate in possession or subject to control of the interim trustee and, (2) within 30 days thereafter file a final report and account.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is adapted from former Bankruptcy Rule 201. See also former Chapter X Rule 10–201. In conformity with title 11 of the United States Code, this rule substitutes “interim trustee” for “receiver.” Subdivision (a) and (e) of Rule 201 are not included because the provisions contained therein are found in detail in §303(g) of the Code, or they are inconsistent with §701 of the Code.
+Similarly, the provisions in Rule 201(d) relating to a debtor's counterbond are not included because of their presence in §303(g).
+
+Subdivision (a) makes it clear that the court may not on its own motion order the appointment of an interim trustee before an order for relief is entered.
+Appointment may be ordered only on motion of a party in interest.
+
+Subdivision (b) requires those seeking the appointment of an interim trustee to furnish a bond.
+The bond may be the same one required of petitioning creditors under §303(e) of the Code to indemnify the debtor for damages allowed by the court under §303(i).
+
+Subdivision (c) requires that the order specify which duties enumerated in §303(g) shall be performed by the interim trustee.
+Reference should be made to Rule 2015 for additional duties required of an interim trustee including keeping records and filing periodic reports with the court.
+
+Subdivision (d) requires turnover of records and property to the trustee selected under §702 of the Code, after qualification.
+That trustee may be the interim trustee who becomes the trustee because of the failure of creditors to elect one under §702(d) or the trustee elected by creditors under §702(b), (c).
+
 Rule 2002. Notices to Creditors, Equity Security Holders, United States, and United States Trustee
 
 (a) Twenty-Day Notices to Parties in Interest
@@ -1567,7 +1633,7 @@ Except as provided in subdivisions (h), (i), and (l) of this rule, the clerk, or
 
 (3) the hearing on approval of a compromise or settlement of a controversy other than approval of an agreement pursuant to Rule 4001(d), unless the court for cause shown directs that notice not be sent;
 
-(4) in a chapter 7 liquidation, a chapter 11 reorganization case, and a chapter 12 family farmer debt adjustment case, the hearing on the dismissal of the case, unless the hearing is under §707(b) of the Code, or the conversion of the case to another chapter;
+(4) in a chapter 7 liquidation, a chapter 11 reorganization case, or a chapter 12 family farmer debt adjustment case, the hearing on the dismissal of the case or the conversion of the case to another chapter, unless the hearing is under §707(a)(3) or §707(b) or is on dismissal of the case for failure to pay the filing fee;
 
 (5) the time fixed to accept or reject a proposed modification of a plan;
 
@@ -1600,7 +1666,7 @@ In a chapter 7 liquidation case, if it appears from the schedules that there are
 
 (f) Other Notices
 
-Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, all creditors, and indenture trustees notice by mail of: (1) the order for relief; (2) the dismissal or the conversion of the case to another chapter; (3) the time allowed for filing claims pursuant to Rule 3002; (4) the time fixed for filing a complaint objecting to the debtor's discharge pursuant to §727 of the Code as provided in Rule 4004; (5) the time fixed for filing a complaint to determine the dischargeability of a debt pursuant to §523 of the Code as provided in Rule 4007; (6) the waiver, denial, or revocation of a discharge as provided in Rule 4006; (7) entry of an order confirming a chapter 9, 11, or 12 plan; and (8) a summary of the trustee's final report in a chapter 7 case if the net proceeds realized exceed $1,500. Notice of the time fixed for accepting or rejecting a plan pursuant to Rule 3017(c) shall be given in accordance with Rule 3017(d).
+Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, all creditors, and indenture trustees notice by mail of: (1) the order for relief; (2) the dismissal or the conversion of the case to another chapter, or the suspension of proceedings under §305; (3) the time allowed for filing claims pursuant to Rule 3002; (4) the time fixed for filing a complaint objecting to the debtor's discharge pursuant to §727 of the Code as provided in Rule 4004; (5) the time fixed for filing a complaint to determine the dischargeability of a debt pursuant to §523 of the Code as provided in Rule 4007; (6) the waiver, denial, or revocation of a discharge as provided in Rule 4006; (7) entry of an order confirming a chapter 9, 11, or 12 plan; and (8) a summary of the trustee's final report in a chapter 7 case if the net proceeds realized exceed $1,500. Notice of the time fixed for accepting or rejecting a plan pursuant to Rule 3017(c) shall be given in accordance with Rule 3017(d).
 
 (g) Addresses of Notices
 
@@ -1649,7 +1715,8 @@ Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 22, 1993, eff.
 Aug. 1, 1993; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 11, 1997, eff.
-Dec. 1, 1997.)
+Dec. 1, 1997; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1750,6 +1817,122 @@ Subd. (n). Pub. L. 98–353 added subd. (n).
 1983 Amendment
 
 Subd. (f). Pub. L. 98–91 inserted “, or some other person as the Court may direct,” after “clerk”.
+
+Rule 2003. Meeting of Creditors or Equity Security Holders
+
+(a) Date and Place
+
+In a chapter 7 liquidation or a chapter 11 reorganization case, the United States trustee shall call a meeting of creditors to be held no fewer than 20 and no more than 40 days after the order for relief.
+In a chapter 12 family farmer debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 20 and no more than 35 days after the order for relief.
+In a chapter 13 individual's debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 20 and no more than 50 days after the order for relief.
+If there is an appeal from or a motion to vacate the order for relief, or if there is a motion to dismiss the case, the United States trustee may set a later date for the meeting.
+The meeting may be held at a regular place for holding court or at any other place designated by the United States trustee within the district convenient for the parties in interest.
+If the United States trustee designates a place for the meeting which is not regularly staffed by the United States trustee or an assistant who may preside at the meeting, the meeting may be held not more than 60 days after the order for relief.
+
+(b) Order of Meeting
+
+(1) Meeting of Creditors.
+The United States trustee shall preside at the meeting of creditors.
+The business of the meeting shall include the examination of the debtor under oath and, in a chapter 7 liquidation case, may include the election of a trustee or of a creditors’ committee.
+The presiding officer shall have the authority to administer oaths.
+
+(2) Meeting of Equity Security Holders.
+If the United States trustee convenes a meeting of equity security holders pursuant to §341(b) of the Code, the United States trustee shall fix a date for the meeting and shall preside.
+
+(3) Right To Vote.
+In a chapter 7 liquidation case, a creditor is entitled to vote at a meeting if, at or before the meeting, the creditor has filed a proof of claim or a writing setting forth facts evidencing a right to vote pursuant to §702(a) of the Code unless objection is made to the claim or the proof of claim is insufficient on its face.
+A creditor of a partnership may file a proof of claim or writing evidencing a right to vote for the trustee for the estate of the general partner notwithstanding that a trustee for the estate of the partnership has previously qualified.
+In the event of an objection to the amount or allowability of a claim for the purpose of voting, unless the court orders otherwise, the United States trustee shall tabulate the votes for each alternative presented by the dispute and, if resolution of such dispute is necessary to determine the result of the election, the tabulations for each alternative shall be reported to the court.
+
+(c) Record of Meeting
+
+Any examination under oath at the meeting of creditors held pursuant to §341(a) of the Code shall be recorded verbatim by the United States trustee using electronic sound recording equipment or other means of recording, and such record shall be preserved by the United States trustee and available for public access until two years after the conclusion of the meeting of creditors.
+Upon request of any entity, the United States trustee shall certify and provide a copy or transcript of such recording at the entity's expense.
+
+(d) Report of Election and Resolution of Disputes in a Chapter 7 Case
+
+(1) Report of Undisputed Election.
+In a chapter 7 case, if the election of a trustee or a member of a creditors’ committee is not disputed, the United States trustee shall promptly file a report of the election, including the name and address of the person or entity elected and a statement that the election is undisputed.
+
+(2) Disputed Election.
+If the election is disputed, the United States trustee shall promptly file a report stating that the election is disputed, informing the court of the nature of the dispute, and listing the name and address of any candidate elected under any alternative presented by the dispute.
+No later than the date on which the report is filed, the United States trustee shall mail a copy of the report to any party in interest that has made a request to receive a copy of the report.
+Pending disposition by the court of a disputed election for trustee, the interim trustee shall continue in office.
+Unless a motion for the resolution of the dispute is filed no later than 10 days after the United States trustee files a report of a disputed election for trustee, the interim trustee shall serve as trustee in the case.
+
+(e) Adjournment
+
+The meeting may be adjourned from time to time by announcement at the meeting of the adjourned date and time without further written notice.
+
+(f) Special Meetings
+
+The United States trustee may call a special meeting of creditors on request of a party in interest or on the United States trustee's own initiative.
+
+(g) Final Meeting
+
+If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk shall mail a summary of the trustee's final account to the creditors with a notice of the meeting, together with a statement of the amount of the claims allowed.
+The trustee shall attend the final meeting and shall, if requested, report on the administration of the estate.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991; Apr. 22, 1993, eff.
+Aug. 1, 1993; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
+
+Notes of Advisory Committee on Rules—1983
+
+Section 341(a) of the Code requires a meeting of creditors in a chapter 7, 11 or 13 case, and §341(b) permits the court to order a meeting of equity security holders.
+A major change from prior law, however, prohibits the judge from attending or presiding over the meeting.
+Section 341(c).
+
+This rule does not apply either in a case for the reorganization of a railroad or for the adjustment of debts of a municipality.
+Sections 1161 and 901 render §§341 and 343 inapplicable in these types of cases.
+Section 341 sets the requirement for a meeting of creditors and §343 provides for the examination of the debtor.
+
+Subdivision (a). The meeting is to be held between 20 and 40 days after the date of the order for relief.
+In a voluntary case, the date of the order for relief is the date of the filing of the petition (§301 of the Code); in an involuntary case, it is the date of an actual order (§303(i) of the Code).
+
+Subdivision (b) provides flexibility as to who will preside at the meeting of creditors.
+The court may designate a person to serve as presiding officer, such as the interim trustee appointed under §701 of the Code.
+If the court does not designate anyone, the clerk will preside.
+In either case, creditors may elect a person of their own choosing.
+In any event, the clerk may remain to record the proceedings and take appearances.
+Use of the clerk is not contrary to the legislative policy of §341(c). The judge remains insulated from any information coming forth at the meeting and any information obtained by the clerk must not be relayed to the judge.
+
+Although the clerk may preside at the meeting, the clerk is not performing any kind of judicial role, nor should the clerk give any semblance of performing such a role.
+It would be pretentious for the clerk to ascend the bench, don a robe or be addressed as “your honor”. The clerk should not appear to parties or others as any type of judicial officer.
+
+In a chapter 11 case, if a committee of unsecured creditors has been appointed pursuant to §1102(a)(1) of the Code and a chairman has been selected, the chairman will preside or a person, such as the attorney for the committee, may be designated to preside by the chairman.
+
+Since the judge must fix the bond of the trustee but cannot be present at the meeting, the rule allows the creditors to recommend the amount of the bond.
+They should be able to obtain relevant information concerning the extent of assets of the debtor at the meeting.
+
+Paragraph (1) authorizes the presiding officer to administer oaths.
+This is important because the debtor's examination must be under oath.
+
+Paragraph (3) of subdivision (b) has application only in a chapter 7 case.
+That is the only type of case under the Code that permits election of a trustee or committee.
+In all other cases, no vote is taken at the meeting of creditors.
+If it is necessary for the court to make a determination with respect to a claim, the meeting may be adjourned until the objection or dispute is resolved.
+
+The second sentence recognizes that partnership creditors may vote for a trustee of a partner's estate along with the separate creditors of the partner.
+Although §723(c) gives the trustee of a partnership a claim against a partner's estate for the full amount of partnership creditors’ claims allowed, the purpose and function of this provision are to simplify distribution and prevent double proof, not to disfranchise partnership creditors in electing a trustee of an estate against which they hold allowable claims.
+
+Subdivision (c) requires minutes and a record of the meeting to be maintained by the presiding officer.
+A verbatim record must be made of the debtor's examination but the rule is flexible as to the means used to record the examination.
+
+Subdivision (d) recognizes that the court must be informed immediately about the election or nonelection of a trustee in a chapter 7 case.
+Pursuant to Rule 2008, the clerk officially informs the trustee of his election or appointment and how he is to qualify.
+The presiding person has no authority to resolve a disputed election.
+
+For purposes of expediency, the results of the election should be obtained for each alternative presented by the dispute and immediately reported to the court.
+Thus, when an interested party presents the dispute to the court, its prompt resolution by the court will determine the dispute and a new or adjourned meeting to conduct the election may be avoided.
+The clerk is not an interested party.
+
+A creditors’ committee may be elected only in a chapter 7 case.
+In chapter 11 cases, a creditors’ committee is appointed pursuant to §1102.
+
+While a final meeting is not required, Rule 2002(f)(10) provides for the trustee's final account to be sent to creditors.
 
 Rule 2004. Examination
 
@@ -3116,10 +3299,15 @@ Except in a chapter 9 municipality case, notice of entry of the order of confirm
 
 Notwithstanding the entry of the order of confirmation, the court may issue any other order necessary to administer the estate.
 
+(e) Stay of Confirmation Order
+
+An order confirming a plan is stayed until the expiration of 10 days after the entry of the order, unless the court orders otherwise.
+
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 22, 1993, eff.
-Aug. 1, 1993.)
+Aug. 1, 1993; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3137,11 +3325,12 @@ Subdivision (d) clarifies the authority of the court to conclude matters pending
 
 Rule 3021. Distribution Under Plan
 
-After confirmation of a plan, distribution shall be made to creditors whose claims have been allowed, to interest holders whose interests have not been disallowed, and to indenture trustees who have filed claims pursuant to Rule 3003(c)(5) that have been allowed.
-For the purpose of this rule, creditors include holders of bonds, debentures, notes, and other debt securities, and interest holders include the holders of stock and other equity securities, of record at the time of commencement of distribution unless a different time is fixed by the plan or the order confirming the plan.
+Except as provided in Rule 3020(e), after a plan is confirmed, distribution shall be made to creditors whose claims have been allowed, to interest holders whose interests have not been disallowed, and to indenture trustees who have filed claims under Rule 3003(c)(5) that have been allowed.
+For purposes of this rule, creditors include holders of bonds, debentures, notes, and other debt securities, and interest holders include the holders of stock and other equity securities, of record at the time of commencement of distribution, unless a different time is fixed by the plan or the order confirming the plan.
 
 (As amended Apr. 11, 1997, eff.
-Dec. 1, 1997.)
+Dec. 1, 1997; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3174,6 +3363,9 @@ Relief from a stay under §362(a) or a request to prohibit or condition the use,
 The party obtaining relief under this subdivision and §362(f) or §363(e) shall immediately give oral notice thereof to the trustee or debtor in possession and to the debtor and forthwith mail or otherwise transmit to such adverse party or parties a copy of the order granting relief.
 On two days notice to the party who obtained relief from the stay without notice or on shorter notice to that party as the court may prescribe, the adverse party may appear and move reinstatement of the stay or reconsideration of the order prohibiting or conditioning the use, sale, or lease of property.
 In that event, the court shall proceed expeditiously to hear and determine the motion.
+
+(3) Stay of Order.
+An order granting a motion for relief from an automatic stay made in accordance with Rule 4001(a)(1) is stayed until the expiration of 10 days after the entry of the order, unless the court orders otherwise.
 
 (b) Use of Cash Collateral
 
@@ -3219,7 +3411,8 @@ The court may direct that the procedures prescribed in paragraphs (1), (2), and 
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3302,13 +3495,13 @@ Rule 4004. Grant or Denial of Discharge
 
 (a) Time for Filing Complaint Objecting to Discharge; Notice of Time Fixed
 
-In a chapter 7 liquidation case a complaint objecting to the debtor's discharge under §727(a) of the Code shall be filed not later than 60 days following the first date set for the meeting of creditors held pursuant to §341(a). In a chapter 11 reorganization case, such complaint shall be filed not later than the first date set for the hearing on confirmation.
-Not less than 25 days notice of the time so fixed shall be given to the United States trustee and all creditors as provided in Rule 2002(f) and (k) and to the trustee and the trustee's attorney.
+In a chapter 7 liquidation case a complaint objecting to the debtor's discharge under §727(a) of the Code shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). In a chapter 11 reorganization case, the complaint shall be filed no later than the first date set for the hearing on confirmation.
+At least 25 days’ notice of the time so fixed shall be given to the United States trustee and all creditors as provided in Rule 2002(f) and (k), and to the trustee and the trustee's attorney.
 
 (b) Extension of Time
 
-On motion of any party in interest, after hearing on notice, the court may extend for cause the time for filing a complaint objecting to discharge.
-The motion shall be made before such time has expired.
+On motion of any party in interest, after hearing on notice, the court may for cause extend the time to file a complaint objecting to discharge.
+The motion shall be filed before the time has expired.
 
 (c) Grant of Discharge
 
@@ -3348,7 +3541,8 @@ The clerk shall promptly mail a copy of the final order of discharge to those sp
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 23, 1996, eff.
-Dec. 1, 1996.)
+Dec. 1, 1996; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3414,15 +3608,15 @@ A debtor or any creditor may file a complaint to obtain a determination of the d
 A complaint other than under §523(c) may be filed at any time.
 A case may be reopened without payment of an additional filing fee for the purpose of filing a complaint to obtain a determination under this rule.
 
-(c) Time for Filing Complaint Under §523(c) in Chapter 7 Liquidation, Chapter 11 Reorganization, and Chapter 12 Family Farmer's Debt Adjustment Cases; Notice of Time Fixed
+(c) Time for Filing Complaint Under §523(c) in a Chapter 7 Liquidation, Chapter 11 Reorganization, or Chapter 12 Family Farmer's Debt Adjustment Case; Notice of Time Fixed
 
-A complaint to determine the dischargeability of any debt pursuant to §523(c) of the Code shall be filed not later than 60 days following the first date set for the meeting of creditors held pursuant to §341(a). The court shall give all creditors not less than 30 days notice of the time so fixed in the manner provided in Rule 2002. On motion of any party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision.
-The motion shall be made before the time has expired.
+A complaint to determine the dischargeability of a debt under §523(c) shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). The court shall give all creditors no less than 30 days’ notice of the time so fixed in the manner provided in Rule 2002. On motion of a party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision.
+The motion shall be filed before the time has expired.
 
-(d) Time for Filing Complaint Under §523(c) in Chapter 13 Individual's Debt Adjustment Cases; Notice of Time Fixed
+(d) Time for Filing Complaint Under §523(c) in a Chapter 13 Individual's Debt Adjustment Case; Notice of Time Fixed
 
-On motion by a debtor for a discharge under §1328(b), the court shall enter an order fixing a time for the filing of a complaint to determine the dischargeability of any debt pursuant to §523(c) and shall give not less than 30 days notice of the time fixed to all creditors in the manner provided in Rule 2002. On motion of any party in interest after hearing on notice the court may for cause extend the time fixed under this subdivision.
-The motion shall be made before the time has expired.
+On motion by a debtor for a discharge under §1328(b), the court shall enter an order fixing the time to file a complaint to determine the dischargeability of any debt under §523(c) and shall give no less than 30 days’ notice of the time fixed to all creditors in the manner provided in Rule 2002. On motion of any party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision.
+The motion shall be filed before the time to has expired.
 
 (e) Applicability of Rules in Part VII
 
@@ -3430,7 +3624,8 @@ A proceeding commenced by a complaint filed under this rule is governed by Part 
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3811,7 +4006,7 @@ Notes of Advisory Committee on Rules—1991
 This rule is abrogated in view of the role of the United States trustee in supervising trustees.
 Use of estate funds by a trustee or debtor in possession is governed by §363 of the Code.
 
-Rule 6004. Use, Sale or Lease of Property
+Rule 6004. Use, Sale, or Lease of Property
 
 (a) Notice of Proposed Use, Sale, or Lease of Property
 
@@ -3848,9 +4043,14 @@ If the property is not sold by an auctioneer, the trustee, debtor in possession,
 (2) Execution of Instruments.
 After a sale in accordance with this rule the debtor, the trustee, or debtor in possession, as the case may be, shall execute any instrument necessary or ordered by the court to effectuate the transfer to the purchaser.
 
+(g) Stay of Order Authorizing Use, Sale, or Lease of Property
+
+An order authorizing the use, sale, or lease of property other than cash collateral is stayed until the expiration of 10 days after entry of the order, unless the court orders otherwise.
+
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3904,7 +4104,7 @@ The final sentence is to guard against imposition of parochial requirements not 
 
 Reference should also be made to Rule 2013(a) regarding the limitation on employment of appraisers and auctioneers, and Rule 2014(a) regarding the application for appointment of an appraiser or auctioneer.
 
-Rule 6006. Assumption, Rejection and Assignment of Executory Contracts and Unexpired Leases
+Rule 6006. Assumption, Rejection or Assignment of an Executory Contract or Unexpired Lease
 
 (a) Proceeding To Assume, Reject, or Assign
 
@@ -3918,10 +4118,15 @@ A proceeding by a party to an executory contract or unexpired lease in a chapter
 
 Notice of a motion made pursuant to subdivision (a) or (b) of this rule shall be given to the other party to the contract or lease, to other parties in interest as the court may direct, and, except in a chapter 9 municipality case, to the United States trustee.
 
+(d) Stay of Order Authorizing Assignment
+
+An order authorizing the trustee to assign an executory contract or unexpired lease under §365(f) is stayed until the expiration of 10 days after the entry of the order, unless the court orders otherwise.
+
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 22, 1993, eff.
-Aug. 1, 1993.)
+Aug. 1, 1993; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3983,46 +4188,36 @@ The rule specifies that the request be by motion and, pursuant to the Code, list
 Subdivision (c) requires a hearing when an objection under subdivision (a) is filed or a motion under subdivision (b) is made.
 Filing of an objection is sufficient to require a hearing; a separate or joined request for a hearing is unnecessary since the objection itself is tantamount to such a request.
 
-Rule 6008. Redemption of Property from Lien or Sale
-
-On motion by the debtor, trustee, or debtor in possession and after hearing on notice as the court may direct, the court may authorize the redemption of property from a lien or from a sale to enforce a lien in accordance with applicable law.
-
-Notes of Advisory Committee on Rules—1983
-
-This rule is derived from former Bankruptcy Rule 609. No provision in the Code addresses the trustee's right of redemption.
-Ordinarily the secured creditor should be given notice of the trustee's motion so that any objection may be raised to the proposed redemption.
-
-The rule applies also to a debtor exercising a right of redemption pursuant to §722. A proceeding under that section is governed by Rule 9014.
-
-Rule 6009. Prosecution and Defense of Proceedings by Trustee or Debtor in Possession
-
-With or without court approval, the trustee or debtor in possession may prosecute or may enter an appearance and defend any pending action or proceeding by or against the debtor, or commence and prosecute any action or proceeding in behalf of the estate before any tribunal.
-
-Notes of Advisory Committee on Rules—1983
-
-This rule is derived from former Bankruptcy Rule 610.
-
-Rule 6010. Proceeding to Avoid Indemnifying Lien or Transfer to Surety
-
-If a lien voidable under §547 of the Code has been dissolved by the furnishing of a bond or other obligation and the surety thereon has been indemnified by the transfer of, or the creation of a lien upon, nonexempt property of the debtor, the surety shall be joined as a defendant in any proceeding to avoid the indemnifying transfer or lien.
-Such proceeding is governed by the rules in Part VII.
-
-(As amended Apr. 30, 1991, eff.
-Aug. 1, 1991.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule is derived from former Bankruptcy Rule 612.
-
 PART VII—ADVERSARY PROCEEDINGS
 
 Rule 7001. Scope of Rules of Part VII
 
-An adversary proceeding is governed by the rules of this Part VII. It is a proceeding (1) to recover money or property, except a proceeding to compel the debtor to deliver property to the trustee, or a proceeding under §554(b) or §725 of the Code, Rule 2017, or Rule 6002, (2) to determine the validity, priority, or extent of a lien or other interest in property, other than a proceeding under Rule 4003(d), (3) to obtain approval pursuant to §363(h) for the sale of both the interest of the estate and of a co-owner in property, (4) to object to or revoke a discharge, (5) to revoke an order of confirmation of a chapter 11, chapter 12, or chapter 13 plan, (6) to determine the dischargeability of a debt, (7) to obtain an injunction or other equitable relief, (8) to subordinate any allowed claim or interest, except when subordination is provided in a chapter 9, 11, 12, or 13 plan, (9) to obtain a declaratory judgment relating to any of the foregoing, or (10) to determine a claim or cause of action removed pursuant to 28 U.S.C. §1452.
+An adversary proceeding is governed by the rules of this Part VII. The following are adversary proceedings:
+
+(1) a proceeding to recover money or property, other than a proceeding to compel the debtor to deliver property to the trustee, or a proceeding under §554(b) or §725 of the Code, Rule 2017, or Rule 6002;
+
+(2) a proceeding to determine the validity, priority, or extent of a lien or other interest in property, other than a proceeding under Rule 4003(d);
+
+(3) a proceeding to obtain approval under §363(h) for the sale of both the interest of the estate and of a co-owner in property;
+
+(4) a proceeding to object to or revoke a discharge;
+
+(5) a proceeding to revoke an order of confirmation of a chapter 11, chapter 12, or chapter 13 plan;
+
+(6) a proceeding to determine the dischargeability of a debt;
+
+(7) a proceeding to obtain an injunction or other equitable relief, except when a chapter 9, chapter 11, chapter 12, or chapter 13 plan provides for the relief;
+
+(8) a proceeding to subordinate any allowed claim or interest, except when a chapter 9, chapter 11, chapter 12, or chapter 13 plan provides for subordination;
+
+(9) a proceeding to obtain a declaratory judgment relating to any of the foregoing; or
+
+(10) a proceeding to determine a claim or cause of action removed under 28 U.S.C. §1452.
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -4147,11 +4342,12 @@ If a party to an adversary proceeding to determine or protect rights in property
 
 The summons and complaint and all other process except a subpoena may be served anywhere in the United States.
 
-(e) Summons: Time Limit for Service
+(e) Summons: Time Limit for Service Within the United States
 
-If service is made pursuant to Rule 4(e)–(j) F.R.Civ.P. it shall be made by delivery of the summons and complaint within 10 days following issuance of the summons.
-If service is made by any authorized form of mail, the summons and complaint shall be deposited in the mail within 10 days following issuance of the summons.
+Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 10 days after the summons is issued.
+If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 10 days after the summons is issued.
 If a summons is not timely delivered or mailed, another summons shall be issued and served.
+This subdivision does not apply to service in a foreign country.
 
 (f) Personal Jurisdiction
 
@@ -4173,7 +4369,8 @@ Service on an insured depository institution (as defined in section 3 of the Fed
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff.
-Dec. 1, 1996.)
+Dec. 1, 1996; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -4550,10 +4747,10 @@ Rule 56 F.R.Civ.P. applies in adversary proceedings.
 Rule 7062. Stay of Proceedings to Enforce a Judgment
 
 Rule 62 F.R.Civ.P. applies in adversary proceedings.
-An order granting relief from an automatic stay provided by §362, §922, §1201, or §1301 of the Code, an order authorizing or prohibiting the use of cash collateral or the use, sale or lease of property of the estate under §363, an order authorizing the trustee to obtain credit pursuant to §364, and an order authorizing the assumption or assignment of an executory contract or unexpired lease pursuant to §365 shall be additional exceptions to Rule 62(a).
 
 (As amended Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -4582,17 +4779,6 @@ Rule 69 F.R.Civ.P. applies in adversary proceedings.
 Rule 7070. Judgment for Specific Acts; Vesting Title
 
 Rule 70 F.R.Civ.P. applies in adversary proceedings and the court may enter a judgment divesting the title of any party and vesting title in others whenever the real or personal property involved is within the jurisdiction of the court.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
-
-Rule 7071. Process in Behalf of and Against Persons Not Parties
-
-Rule 71 F.R.Civ.P. applies in adversary proceedings.
-
-Rule 7087. Transfer of Adversary Proceeding
-
-On motion and after a hearing, the court may transfer an adversary proceeding or any part thereof to another district pursuant to 28 U.S.C. §1412, except as provided in Rule 7019(2).
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987.)
@@ -5273,7 +5459,7 @@ As used in this rule and in Rule 5001(c), “legal holiday” includes New Year'
 Except as provided in paragraphs (2) and (3) of this subdivision, when an act is required or allowed to be done at or within a specified period by these rules or by a notice given thereunder or by order of court, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if the request therefor is made before the expiration of the period originally prescribed or as extended by a previous order or (2) on motion made after the expiration of the specified period permit the act to be done where the failure to act was the result of excusable neglect.
 
 (2) Enlargement Not Permitted.
-The court may not enlarge the time for taking action under Rules 1007(d), 1017(b)(3), 2003(a) and (d), 7052, 9023, and 9024.
+The court may not enlarge the time for taking action under Rules 1007(d), 2003(a) and (d), 7052, 9023, and 9024.
 
 (3) Enlargement Limited.
 The court may enlarge the time for taking action under Rules 1006(b)(2), 1017(e), 3002(c), 4003(b), 4004(a), 4007(c), 8002, and 9033, only to the extent and under the conditions stated in those rules.
@@ -5308,7 +5494,8 @@ This rule shall not limit the court's authority under §557 of the Code to enter
 Aug. 1, 1987; Apr. 25, 1989, eff.
 Aug. 1, 1989; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 23, 1996, eff.
-Dec. 1, 1996.)
+Dec. 1, 1996; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -5512,13 +5699,14 @@ Rule 9014. Contested Matters
 
 In a contested matter in a case under the Code not otherwise governed by these rules, relief shall be requested by motion, and reasonable notice and opportunity for hearing shall be afforded the party against whom relief is sought.
 No response is required under this rule unless the court orders an answer to a motion.
-The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004, and, unless the court otherwise directs, the following rules shall apply: 7021, 7025, 7026, 7028–7037, 7041, 7042, 7052, 7054–7056, 7062, 7064, 7069, and 7071. The court may at any stage in a particular matter direct that one or more of the other rules in Part VII shall apply.
+The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004, and, unless the court otherwise directs, the following rules shall apply: 7021, 7025, 7026, 7028–7037, 7041, 7042, 7052, 7054–7056, 7064, 7069, and 7071. The court may at any stage in a particular matter direct that one or more of the other rules in Part VII shall apply.
 An entity that desires to perpetuate testimony may proceed in the same manner as provided in Rule 7027 for the taking of a deposition before an adversary proceeding.
 The clerk shall give notice to the parties of the entry of any order directing that additional rules of Part VII are applicable or that certain of the rules of Part VII are not applicable.
 The notice shall be given within such time as is necessary to afford the parties a reasonable opportunity to comply with the procedures made applicable by the order.
 
 (As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -5884,17 +6072,6 @@ Remand orders of bankruptcy judges are not appealable. 28 U.S.C. §1478(b).
 
 This rule does not deal with the question whether a single plaintiff or defendant may remove a claim or cause of action if there are two or more plaintiffs or defendants.
 See 28 U.S.C. §1478.
-
-Rule 9028. Disability of a Judge
-
-Rule 63 F.R.Civ.P. applies in cases under the Code.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule is an adaptation of Rule 63 F.R.Civ.P.
 
 References in Text
 
@@ -6534,6 +6711,8 @@ In addition to signing, a bankruptcy petition preparer is required by section 11
 
 Form 8
 
+ 
+
 (Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997.)
 
 Notes of Advisory Committee on Rules—1991
@@ -6638,6 +6817,8 @@ The court may use blank spaces on the form to include additional information app
 Form 10
 
 Form 10
+
+ 
 
 (Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997.)
 
@@ -6827,6 +7008,8 @@ A party filing a notice of appeal pro se should provide equivalent information.
 Form 18
 
 Form 18
+
+ 
 
 (Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997.)
 

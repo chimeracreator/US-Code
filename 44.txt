@@ -154,7 +154,7 @@ Revolving fund for operation and maintenance of Government Printing Office: capi
 Payments for printing, binding, blank paper, and supplies.
 
 311.
-Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority.
+Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority; small purchase threshold.
 
 312.
 Machinery, material, equipment, or supplies from other Government agencies.
@@ -175,6 +175,23 @@ Detail of employees of Government Printing Office to other Government establishm
 Special policemen.
 
         
+
+Federal Records Management Provisions Without Effect on Chapter
+
+Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
+
+§301. Public Printer: appointment
+
+The President of the United States shall nominate and, by and with the advice and consent of the Senate, appoint a suitable person, who must be a practical printer and versed in the art of bookbinding, to take charge of and manage the Government Printing Office.
+His title shall be Public Printer.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1239; Pub. L. 92–310, title II, §210(a)(1), (2), June 6, 1972, 86 Stat. 204.)
+
+Historical and Revision Notes
+
+Based on 44 U.S. Code, 1964 ed., §31 (Jan. 12, 1895, ch. 23, §17, 28 Stat. 603; June 12, 1917, ch. 27, §1, 40 Stat. 173; Feb. 20, 1923, ch. 98, 42 Stat. 1278; Mar. 4, 1925, ch. 549, §1, 43 Stat. 1299; May 29, 1928, ch. 909, 45 Stat. 1006).
+
+Changes are made in phraseology.
 
 §302. Deputy Public Printer: appointment; duties
 
@@ -500,7 +517,7 @@ Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §230 (Aug. 1, 1953, ch. 304, title I, §101, 67 Stat. 331).
 
-§311. Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority
+§311. Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority; small purchase threshold
 
 (a) Purchases may be made from appropriations under the “Government Printing Office” without reference to the Federal Property and Administrative Services Act, approved June 30, 1949, as amended, concerning purchases for the Federal Government.
 
@@ -510,7 +527,9 @@ The justification shall set out facts and circumstances that clearly and convinc
 Such a justification is final and a copy thereof shall be maintained in the Government Printing Office for at least 6 years after the date of the determination.
 The Public Printer may designate one or more employees of the Government Printing Office to carry out this subsection.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1242; Pub. L. 99–151, title III, §305(a), (b)(1), Nov. 13, 1985, 99 Stat. 808.)
+(c) Notwithstanding any other provision of law, section 3709 of the Revised Statutes (41 U.S.C. 5) shall apply with respect to purchases and contracts for the Government Printing Office as if the reference to “$25,000” in clause (1) of such section were a reference to “$100,000”.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1242; Pub. L. 99–151, title III, §305(a), (b)(1), Nov. 13, 1985, 99 Stat. 808; Pub. L. 106–57, title II, §210(a), (b), Sept. 29, 1999, 113 Stat. 425.)
 
 Historical and Revision Notes
 
@@ -656,7 +675,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in title 22 section 3714b.
+This chapter is referred to in title 2 section 183; title 22 section 3714b.
 
 §501. Government printing, binding, and blank-book work to be done at Government Printing Office
 
@@ -812,7 +831,7 @@ Tax Court reports, publication at Government Printing Office, see section 7462 o
 
 Section Referred to in Other Sections
 
-This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916l, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 42 sections 284, 1870.
+This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916l, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 35 section 2; title 42 sections 299c–3, 284, 1870.
 
 §502. Procurement of printing, binding, and blank-book work by Public Printer
 
@@ -842,7 +861,7 @@ The Public Printer may use such procurement procedures as he considers necessary
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b; title 50 App. section 460.
+This section is referred to in title 22 section 3714b; title 35 section 2; title 50 App. section 460.
 
 §503. Printing in veterans’ hospitals
 
@@ -858,7 +877,7 @@ Based on 44 U.S. Code, 1964 ed., §111b (June 16, 1933, ch. 101, §1, 48 Stat. 3
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §504. Direct purchase of printing, binding, and blank-book work by Government agencies
 
@@ -872,7 +891,7 @@ Based on 44 U.S. Code, 1964 ed., §14 (Jan. 12, 1895, ch. 23, §12, 28 Stat. 602
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b; title 42 section 5197.
+This section is referred to in title 22 section 3714b; title 35 section 2; title 42 section 5197.
 
 §505. Sale of duplicate plates
 
@@ -886,7 +905,7 @@ Based on 44 U.S. Code, 1964 ed., §58 (Jan. 12, 1895, ch. 23, §52, 28 Stat. 608
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b; title 39 section 405.
+This section is referred to in title 22 section 3714b; title 35 section 2; title 39 section 405.
 
 §506. Time for printing documents or reports which include illustrations or maps
 
@@ -902,7 +921,7 @@ This section incorporates only the first clause of former section 115. The balan
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §507. Orders for printing to be acted upon within one year
 
@@ -918,7 +937,7 @@ This section incorporates only the second clause of former section 115. The bala
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §508. Annual estimates of quantity of paper required for public printing and binding
 
@@ -932,7 +951,7 @@ Based on 44 U.S. Code, 1964 ed., §36 (Jan. 12, 1895, ch. 23, §26, 28 Stat. 604
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §509. Standards of paper; advertisements for proposals; samples
 
@@ -985,7 +1004,7 @@ Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, provided that:
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 §510. Specifications in advertisements for paper
 
@@ -999,7 +1018,7 @@ Based on 44 U.S. Code, 1954 ed., §6 (Jan. 12, 1895, ch. 23, §4, 28 Stat. 601).
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 §511. Opening bids; bonds
 
@@ -1015,7 +1034,7 @@ Based on 44 U.S. Code, 1964 ed., §7 (Jan. 12, 1895, ch. 23, §5, 28 Stat. 602; 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 1 So in original.
 Probably should be capitalized.
@@ -1034,7 +1053,7 @@ Based on 44 U.S. Code, 1964 ed., §8 (Jan. 12, 1895, ch. 23, §6, 28 Stat. 602; 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 §513. Comparison of paper and envelopes with standard quality
 
@@ -1049,7 +1068,7 @@ Based on 44 U.S. Code, 1964 ed., §9 (Jan. 12, 1895, ch. 23, §7, 28 Stat. 602; 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 §514. Determination of quality of paper
 
@@ -1063,7 +1082,7 @@ Based on 44 U.S. Code, 1964 ed., §10 (Jan. 12, 1895, ch. 23, §8, 28 Stat. 602;
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 §515. Default of contractor; new contracts and purchase in open market
 
@@ -1078,7 +1097,7 @@ Based on 44 U.S. Code, 1964 ed., §11 (Jan. 12, 1895, ch. 23, §9, 28 Stat. 602;
 
 Section Referred to in Other Sections
 
-This section is referred to in section 1121 of this title; title 22 section 3714b.
+This section is referred to in section 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 §516. Liability of defaulting contractor
 
@@ -1093,7 +1112,7 @@ Based on 44 U.S. Code, 1964 ed., §12 (Jan. 12, 1895, ch. 23, §10, 28 Stat. 602
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 
 §517. Purchase of paper in open market
 
@@ -1107,7 +1126,7 @@ Based on 44 U.S. Code, 1964 ed., §13 (Jan. 12, 1895, ch. 23, §11, 28 Stat. 602
 
 Section Referred to in Other Sections
 
-This section is referred to in section 515 of this title; title 22 section 3714b.
+This section is referred to in section 515 of this title; title 22 section 3714b; title 35 section 2.
 
 CHAPTER 7—CONGRESSIONAL PRINTING AND BINDING
 
@@ -1447,45 +1466,6 @@ Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., §192 (R.S. §3805; Jan. 12, 1895, ch. 23, §56, 28 Stat. 609; 1950 Reorg.
 Plan No. 20, §1, eff.
 May 24, 1950, 15 F.R. 3178, 64 Stat. 1272).
-
-§712. Printing of postal conventions
-
-The Public Printer, on receiving from the Postmaster General a copy of a postal convention between the Postmaster General, on the part of the United States, and an equivalent officer of a foreign government, shall print an accurate copy and transmit it in duplicate to the Postmaster General.
-On the return of one of the revised duplicates, he shall make the marked corrections and print the number specified by section 709 of this title.
-
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1249.)
-
-Historical and Revision Notes
-
-Based on 44 U.S. Code, 1964 ed., §193 (R.S. §3806; June 20, 1874, ch. 328, §1, 18 Stat. 88; Jan. 12, 1895, ch. 23, §56, 28 Stat. 609).
-
-Transfer of Functions
-
-Office of Postmaster General of Post Office Department abolished and functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
-
-§713. Journals of Houses of Congress
-
-There shall be printed of the Journals of the Senate and House of Representatives eight hundred and twenty copies, which shall be distributed as follows:
-
-to the Senate document room, ninety copies for distribution to Senators, and twenty-five additional copies;
-
-to the Senate library, ten copies;
-
-to the House document room, three hundred and sixty copies for distribution to Members, and twenty-five additional copies;
-
-to the Department of State, four copies;
-
-to the Superintendent of Documents, one hundred and forty-four copies to be distributed to three libraries in each of the States to be designated by the Superintendent of Documents; and
-
-to the Library of the House of Representatives, ten copies.
-
-The remaining number of the Journals of the Senate and House of Representatives, consisting of twenty-five copies, shall be furnished to the Secretary of the Senate and the Clerk of the House of Representatives, respectively, as the necessities of their respective offices require, as rapidly as signatures are completed for distribution.
-
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1249; Pub. L. 97–164, title I, §158, Apr. 2, 1982, 96 Stat. 47.)
-
-Historical and Revision Notes
-
-Based on 44 U.S. Code, 1964 ed., §147 (Jan. 12, 1895, ch. 23, §57, 28 Stat. 609; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464).
 
 §714. Printing documents for Congress in two or more editions; printing of full number and allotment of full quota
 
@@ -2282,7 +2262,7 @@ Section constitutes part of section 88 of act Jan. 12, 1895. Remainder of sectio
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1102. Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Public Printer
 
@@ -2302,7 +2282,7 @@ This section incorporates the first paragraph of former section 213 and the firs
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1103. Certificate of necessity; estimate of cost
 
@@ -2318,7 +2298,7 @@ Based on 44 U.S. Code, 1964 ed., §117 (Jan. 12, 1895, ch. 23, §93, 28 Stat. 62
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1104. Restrictions on use of illustrations
 
@@ -2334,7 +2314,7 @@ The term “executive department, independent office, or establishment of the Go
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1105. Form and style of work for departments
 
@@ -2348,7 +2328,7 @@ Based on 44 U.S. Code, 1964 ed., §216 (Jan. 12, 1895, ch. 23, §51, 28 Stat. 60
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1106. Inserting “compliments” forbidden
 
@@ -2362,7 +2342,7 @@ Based on 44 U.S. Code, 1964 ed., §218 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 62
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1107. Appropriations chargeable for printing and binding of documents or reports
 
@@ -2384,7 +2364,7 @@ A proviso in the 1906 resolution, requiring annual estimates of probable costs f
 
 Section Referred to in Other Sections
 
-This section is referred to in section 717 of this title; title 22 section 3714b.
+This section is referred to in section 717 of this title; title 22 section 3714b; title 35 section 2.
 
 §1108. Presidential approval required for printing of periodicals; number printed; sale to public
 
@@ -2405,7 +2385,7 @@ No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of 
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1109. Printing documents in two or more editions; full number and allotment of full quota
 
@@ -2420,7 +2400,7 @@ Based on 44 U.S. Code, 1964 ed., §224 (Mar. 30, 1906, No. 14, 34 Stat. 826).
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1110. Daily examination of Congressional Record for immediate ordering of documents for official use; limit; bills and resolutions
 
@@ -2436,7 +2416,7 @@ Based on 44 U.S. Code, 1964 ed., §215 (Jan. 12, 1895, ch. 23, §90, 28 Stat. 62
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1111. Annual reports: time for furnishing manuscript and proofs to Public Printer
 
@@ -2450,21 +2430,17 @@ complete revised proofs of the accompanying documents on March 1, each year, and
 
 Annual reports and accompanying documents shall be printed, made public, and available for distribution not later than within the first five days after the assembling of each regular session of Congress.
 
-This section does not apply to the annual reports of the Smithsonian Institution, the Commissioner of Patents, the Comptroller of the Currency, or the Secretary of the Treasury.
+This section does not apply to the annual reports of the Smithsonian Institution, the Comptroller of the Currency, or the Secretary of the Treasury.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263; Pub. L. 94–273, §28, Apr. 21, 1976, 90 Stat. 380.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263; Pub. L. 94–273, §28, Apr. 21, 1976, 90 Stat. 380; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(22)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
 
 Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., Supp. II, §121 (July 1, 1916, ch. 209, §3, 39 Stat. 336; June 20, 1936, ch. 630, §8, 49 Stat. 1550).
 
-Change of Name
-
-“Commissioner of Patents” redesignated “Commissioner of Patents and Trademarks” by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
-
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1112. Annual reports: type for reports of executive officers
 
@@ -2478,7 +2454,7 @@ Based on 44 U.S. Code, 1964 ed., §222 (Jan. 12, 1895, ch. 23, §91, 28 Stat. 62
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1113. Annual reports: exclusion of irrelevant matter
 
@@ -2494,15 +2470,15 @@ This section incorporates only the second clause of former section 219. The bala
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1114. Annual reports: number of copies for Congress
 
 One thousand copies of the annual reports of the departments to Congress shall be printed for the Senate, and two thousand for the House of Representatives.
 
-The usual number only of the reports of the Chief of Engineers of the Army, the Commissioner of Patents, the Commissioner of Internal Revenue, the report of the Chief Signal Officer of the Department of the Army, and the Chief of Ordnance shall be printed.
+The usual number only of the reports of the Chief of Engineers of the Army, the Commissioner of Internal Revenue, the report of the Chief Signal Officer of the Department of the Army, and the Chief of Ordnance shall be printed.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263; (As amended Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(23)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
 
 Historical and Revision Notes
 
@@ -2510,17 +2486,13 @@ Based on 44 U.S. Code, 1964 ed., §212 (part) (Jan. 12, 1895, ch. 23, §73, 28 S
 
 This section incorporates only the second sentence of former section 212. The balance will be found in section 1115 of this revision.
 
-Change of Name
-
-“Commissioner of Patents” redesignated “Commissioner of Patents and Trademarks” by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
-
 Abolition of Offices
 
 Positions of Chief Signal Officer and Chief of Ordinance of Army Department abolished, see note set out under section 3036 of Title 10, Armed Forces.
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2; title 35 section 2.
 
 §1115. Annual reports: time of delivery by Public Printer to Congress
 
@@ -2537,7 +2509,7 @@ This section incorporates only the first sentence of former section 212. The bal
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1116. Annual reports: limitation on number of copies printed; reports of bureau chiefs
 
@@ -2557,7 +2529,7 @@ The balance will be found in sections 1102, 1302, 1308, 1309, 1310, 1336 of the 
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1117. Annual reports: discontinuance of printing of annual or special reports to keep within appropriations
 
@@ -2574,7 +2546,7 @@ The term “executive departments, independent offices, and establishments of th
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1118. Documents beyond scope of ordinary departmental business
 
@@ -2588,7 +2560,7 @@ Based on 44 U.S. Code, 1964 ed., §219a (Mar. 3, 1905, ch. 1484, §1, 33 Stat. 1
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1119. Government publications as public property
 
@@ -2604,7 +2576,7 @@ This section incorporates only the first sentence of former section 92. The bala
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1120. Blanks and letterheads for judges and officers of courts
 
@@ -2618,7 +2590,7 @@ Based on 44 U.S. Code, 1964 ed., §119 (Jan. 12, 1895, ch. 23, §97, 28 Stat. 62
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1121. Paper and envelopes for Government agencies in the District of Columbia
 
@@ -2633,7 +2605,7 @@ Based on 44 U.S. Code, 1964 ed., §225 (June 7, 1924, ch. 303, §1, 43 Stat. 592
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1122. Supplies for Government establishments
 
@@ -2649,14 +2621,14 @@ The term “executive department, independent office, or establishment of the go
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 §1123. Binding materials; bookbinding for libraries
 
 Binding for the departments of the Government shall be done in plain sheep or cloth, except that record and account books may be bound in Russia leather, sheep fleshers, and skivers, when authorized by the head of a department.
-The libraries of the several departments, the Library of Congress, the libraries of the Surgeon General's Office, the Patent Office, and the Naval Observatory may have books for the exclusive use of these libraries bound in half Turkey, or material no more expensive.
+The libraries of the several departments, the Library of Congress, the libraries of the Surgeon General's Office, and the Naval Observatory may have books for the exclusive use of these libraries bound in half Turkey, or material no more expensive.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1264.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1264; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(24)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
 
 Historical and Revision Notes
 
@@ -2664,17 +2636,13 @@ Based on 44 U.S. Code, 1964 ed., §116 (Jan. 12, 1895, ch. 23, §86, 28 Stat. 62
 
 This section incorporates all but the first sentence of former section 116. The balance will be found in section 501 of the revision.
 
-Change of Name
-
-“Patent Office” redesignated “Patent and Trademark Office” by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
-
 Cross References
 
 Binding of journals, documents, and books of either house of Congress, see section 145 of Title 2, The Congress.
 
 Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 
 CHAPTER 13—PARTICULAR REPORTS AND DOCUMENTS
 
@@ -2791,11 +2759,7 @@ Naval Observatory Observations.
 1336.
 National Imagery and Mapping Agency: special publications.
 
-1337.
-Patent Office: publications authorized to be printed.
-
-1338.
-Patent Office: limitations and conditions concerning printing and lithographing.
+[1337, 1338. Repealed.]
 
 1339.
 Printing of the President's message.
@@ -3467,67 +3431,16 @@ Based on 44 U.S. Code, 1964 ed., §213 (Jan. 12, 1895, ch. 23, §89, 28 Stat. 62
 
 This section incorporates only part of the third sentence, second paragraph of former section 213. The balance will be found in sections 1102, 1116, 1302, 1308, 1309, 1310, of the revision.
 
-§1337. Patent Office: publications authorized to be printed
+[§§1337, 1338. Repealed.
+Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(25)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585]
 
-The Commissioner of Patents, upon the requisition of the Secretary of Commerce may cause to be printed:
+Section 1337, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1271, related to publications authorized to be printed by the Commissioner of Patents.
 
-1. Patents issued.—The patents for inventions and designs issued by the Patent Office, including grants, specifications, and drawings, together with copies of them, and of patents already issued, in the number needed for the business of the office.
+Section 1338, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1272, related to limitations and conditions concerning printing and lithographing by the Patent Office.
 
-2. Trade-marks and labels.—The certificates of trade-marks and labels registered in the Patent Office, including descriptions and drawings, together with copies of them, and of trade-marks and labels previously registered, in the numbers needed for the business of the office.
+Effective Date of Repeal
 
-3. Official Gazette.—The Official Gazette of the United States Patent Office in numbers sufficient to supply all who subscribe for it at $5 a year; also for exchange for other scientific publications desirable for the use of the Patent Office; also to supply one copy to each Senator and Representative in Congress; with one hundred additional copies, together with weekly, monthly, and annual indexes.
-The “usual number” of the Official Gazette may not be printed.
-
-4. Report of Commissioner of Patents.—The annual report of the Commissioner of Patents, not exceeding five hundred in number, for distribution by him; the annual report of the Commissioner of Patents to Congress, without the list of patents, not exceeding one thousand five hundred in number, for distribution by him; and the annual report of the Commissioner of Patents to Congress, with the list of patents, five hundred copies for sale by him, if needed, and in addition the “usual number” only shall be printed.
-
-5. Rules of practice, laws, etc.—Pamphlet copies of the rules of practice, and of the patent laws, and pamphlet copies of the laws and rules relating to trade-marks and labels, and circulars relating to the business of the office, all in numbers as needed for the business of the office.
-The “usual number” may not be printed.
-
-6. Decisions of Commissioner and courts.—Annual volumes of the decisions of the Commissioner of Patents and of the United States courts in patent cases, not exceeding one thousand five hundred in number, of which the usual number shall be printed, and for this purpose a copy of each shall be transmitted to Congress promptly when prepared.
-
-7. Indexes.—Indexes to patents relating to electricity, and indexes to foreign patents, in the numbers needed for the business of the office.
-The “usual number” may not be printed.
-
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1271.)
-
-Historical and Revision Notes
-
-Based on 44 U.S. Code, 1964 ed., §283 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 619, 620; Feb. 14, 1903, ch. 552, §§4, 12, 32 Stat. 826, 830; Aug. 24, 1912, ch. 355, §1, 37 Stat. 481; Feb. 18, 1922, ch. 58, §4, 42 Stat. 391; June 7, 1924, ch. 303, §1, 43 Stat. 592).
-
-Change of Name
-
-“Patent Office” and “Commissioner of Patents” redesignated “Patent and Trademark Office” and “Commissioner of Patents and Trademarks”, respectively, by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
-
-Cross References
-
-Commissioner of Patents and Trademarks, annual report to Congress, see section 14 of Title 35, Patents.
-
-Copies of patents for public libraries, see section 13 of Title 35.
-
-Copyright Office, see section 701 et seq. of Title 17, Copyrights.
-
-Patent and Trademark Office publications, see section 11 of Title 35, Patents.
-
-§1338. Patent Office: limitations and conditions concerning printing and lithographing
-
-Printing for the Patent Office making use of lithography or photo-lithography, together with the plates, shall be contracted for and performed under the direction of the Commissioner of Patents, under limitations and conditions prescribed by the Joint Committee on Printing, and other printing for the Patent Office shall be done by the Public Printer under limitations and conditions prescribed by the Joint Committee on Printing.
-The entire work may be done at the Government Printing Office when in the judgment of the Joint Committee on Printing it is to the interest of the Government.
-
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1272.)
-
-Historical and Revision Notes
-
-Based on 44 U.S. Code, 1964 ed., §284 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 620).
-
-Change of Name
-
-“Patent Office” and “Commissioner of Patents” redesignated “Patent and Trademark Office” and “Commissioner of Patents and Trademarks”, respectively, by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
-
-Cross References
-
-Executive and judiciary printing and binding, restrictions on use of illustrations, see section 1104 of this title.
-
-Government printing, binding, and blank-book work to be done at Government Printing Office, see section 501 of this title.
+Repeal effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, §4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of Title 35, Patents.
 
 §1339. Printing of the President's Message
 
@@ -5046,6 +4959,565 @@ Prior Provisions
 
 A prior section 2107 was renumbered section 2111 of this title.
 
+Short Title of 1994 Amendment
+
+Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act [amending provisions set out as a note below] may be cited as the ‘President John F. Kennedy Assassination Records Collection Extension Act of 1994’.”
+
+President John F. Kennedy Assassination Records Collection
+
+Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130; Pub. L. 105–25, §1, July 3, 1997, 111 Stat. 240, provided that:
+
+“SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘President John F. Kennedy Assassination Records Collection Act of 1992’.
+
+“SEC. 2. FINDINGS, DECLARATIONS, AND PURPOSES.
+
+“(a) Findings and Declarations.—The Congress finds and declares that—
+
+“(1) all Government records related to the assassination of President John F. Kennedy should be preserved for historical and governmental purposes;
+
+“(2) all Government records concerning the assassination of President John F. Kennedy should carry a presumption of immediate disclosure, and all records should be eventually disclosed to enable the public to become fully informed about the history surrounding the assassination;
+
+“(3) legislation is necessary to create an enforceable, independent, and accountable process for the public disclosure of such records;
+
+“(4) legislation is necessary because congressional records related to the assassination of President John F. Kennedy would not otherwise be subject to public disclosure until at least the year 2029;
+
+“(5) legislation is necessary because the Freedom of Information Act [5 U.S.C. 552], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
+
+“(6) legislation is necessary because Executive Order No. 12356 [50 U.S.C. 435 note], entitled ‘National Security Information’ has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
+
+“(7) most of the records related to the assassination of President John F. Kennedy are almost 30 years old, and only in the rarest cases is there any legitimate need for continued protection of such records.
+
+“(b) Purposes.—The purposes of this Act are—
+
+“(1) to provide for the creation of the President John F. Kennedy Assassination Records Collection at the National Archives and Records Administration; and
+
+“(2) to require the expeditious public transmission to the Archivist and public disclosure of such records.
+
+“SEC. 3. DEFINITIONS.
+
+“In this Act:
+
+“(1) ‘Archivist’ means the Archivist of the United States.
+
+“(2) ‘Assassination record’ means a record that is related to the assassination of President John F. Kennedy, that was created or made available for use by, obtained by, or otherwise came into the possession of—
+
+“(A) the Commission to Investigate the Assassination of President John F. Kennedy (the ‘Warren Commission’);
+
+“(B) the Commission on Central Intelligence Agency Activities Within the United States (the ‘Rockefeller Commission’);
+
+“(C) the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (the ‘Church Committee’);
+
+“(D) the Select Committee on Intelligence (the ‘Pike Committee’) of the House of Representatives;
+
+“(E) the Select Committee on Assassinations (the ‘House Assassinations Committee’) of the House of Representatives;
+
+“(F) the Library of Congress;
+
+“(G) the National Archives and Records Administration;
+
+“(H) any Presidential library;
+
+“(I) any Executive agency;
+
+“(J) any independent agency;
+
+“(K) any other office of the Federal Government; and
+
+“(L) any State or local law enforcement office that provided support or assistance or performed work in connection with a Federal inquiry into the assassination of President John F. Kennedy,
+
+but does not include the autopsy records donated by the Kennedy family to the National Archives pursuant to a deed of gift regulating access to those records, or copies and reproductions made from such records.
+
+“(3) ‘Collection’ means the President John F. Kennedy Assassination Records Collection established under section 4.
+
+“(4) ‘Executive agency’ means an Executive agency as defined in subsection 552(f) of title 5, United States Code, and includes any Executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government, including the Executive Office of the President, or any independent regulatory agency.
+
+“(5) ‘Government office’ means any office of the Federal Government that has possession or control of assassination records, including—
+
+“(A) the House Committee on Administration with regard to the Select Committee on Assassinations of the records of the House of Representatives;
+
+“(B) the Select Committee on Intelligence of the Senate with regard to records of the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities and other assassination records;
+
+“(C) the Library of Congress;
+
+“(D) the National Archives as custodian of assassination records that it has obtained or possesses, including the Commission to Investigate the Assassination of President John F. Kennedy and the Commission on Central Intelligence Agency Activities in the United States; and
+
+“(E) any other executive branch office or agency, and any independent agency.
+
+“(6) ‘Identification aid’ means the written description prepared for each record as required in section 4.
+
+“(7) ‘National Archives’ means the National Archives and Records Administration and all components thereof, including Presidential archival depositories established under section 2112 of title 44, United States Code.
+
+“(8) ‘Official investigation’ means the reviews of the assassination of President John F. Kennedy conducted by any Presidential commission, any authorized congressional committee, and any Government agency either independently, at the request of any Presidential commission or congressional committee, or at the request of any Government official.
+
+“(9) ‘Originating body’ means the Executive agency, government commission, congressional committee, or other governmental entity that created a record or particular information within a record.
+
+“(10) ‘Public interest’ means the compelling interest in the prompt public disclosure of assassination records for historical and governmental purposes and for the purpose of fully informing the American people about the history surrounding the assassination of President John F. Kennedy.
+
+“(11) ‘Record’ includes a book, paper, map, photograph, sound or video recording, machine readable material, computerized, digitized, or electronic information, regardless of the medium on which it is stored, or other documentary material, regardless of its physical form or characteristics.
+
+“(12) ‘Review Board’ means the Assassination Records Review Board established by section 7.
+
+“(13) ‘Third agency’ means a Government agency that originated an assassination record that is in the possession of another agency.
+
+“SEC. 4. PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS COLLECTION AT THE NATIONAL ARCHIVES AND RECORDS ADMINISTRATION.
+
+“(a) In General.—(1) Not later than 60 days after the date of enactment of this Act [Oct. 26, 1992], the National Archives and Records Administration shall commence establishment of a collection of records to be known as the President John F. Kennedy Assassination Records Collection.
+In so doing, the Archivist shall ensure the physical integrity and original provenance of all records.
+The Collection shall consist of record copies of all Government records relating to the assassination of President John F. Kennedy, which shall be transmitted to the National Archives in accordance with section 2107 of title 44, United States Code.
+The Archivist shall prepare and publish a subject guidebook and index to the collection.
+
+“(2) The Collection shall include—
+
+“(A) all assassination records—
+
+“(i) that have been transmitted to the National Archives or disclosed to the public in an unredacted form prior to the date of enactment of this Act;
+
+“(ii) that are required to be transmitted to the National Archives; or
+
+“(iii) the disclosure of which is postponed under this Act;
+
+“(B) a central directory comprised of identification aids created for each record transmitted to the Archivist under section 5; and
+
+“(C) all Review Board records as required by this Act.
+
+“(b) Disclosure of Records.—All assassination records transmitted to the National Archives for disclosure to the public shall be included in the Collection and shall be available to the public for inspection and copying at the National Archives within 30 days after their transmission to the National Archives.
+
+“(c) Fees for Copying.—The Archivist shall—
+
+“(1) charge fees for copying assassination records; and
+
+“(2) grant waivers of such fees pursuant to the standards established by section 552(a)(4) of title 5, United States Code.
+
+“(d) Additional Requirements.—(1) The Collection shall be preserved, protected, archived, and made available to the public at the National Archives using appropriations authorized, specified, and restricted for use under the terms of this Act.
+
+“(2) The National Archives, in consultation with the Information Security Oversight Office, shall ensure the security of the postponed assassination records in the Collection.
+
+“(e) Oversight.—The Committee on Government Operations [now Committee on Government Reform] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
+
+“SEC. 5. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.
+
+“(a) In General.—(1) As soon as practicable after the date of enactment of this Act [Oct. 26, 1992], each Government office shall identify and organize its records relating to the assassination of President John F. Kennedy and prepare them for transmission to the Archivist for inclusion in the Collection.
+
+“(2) No assassination record shall be destroyed, altered, or mutilated in any way.
+
+“(3) No assassination record made available or disclosed to the public prior to the date of enactment of this Act may be withheld, redacted, postponed for public disclosure, or reclassified.
+
+“(4) No assassination record created by a person or entity outside government (excluding names or identities consistent with the requirements of section 6) shall be withheld, redacted, postponed for public disclosure, or reclassified.
+
+“(b) Custody of Assassination Records Pending Review.—During the review by Government offices and pending review activity by the Review Board, each Government office shall retain custody of its assassination records for purposes of preservation, security, and efficiency, unless—
+
+“(1) the Review Board requires the physical transfer of records for purposes of conducting an independent and impartial review;
+
+“(2) transfer is necessary for an administrative hearing or other Review Board function; or
+
+“(3) it is a third agency record described in subsection (c)(2)(C).
+
+“(c) Review.—(1) Not later than 300 days after the date of enactment of this Act [Oct. 26, 1992], each Government office shall review, identify and organize each assassination record in its custody or possession for disclosure to the public, review by the Review Board, and transmission to the Archivist.
+
+“(2) In carrying out paragraph (1), a Government office shall—
+
+“(A) determine which of its records are assassination records;
+
+“(B) determine which of its assassination records have been officially disclosed or publicly available in a complete and unredacted form;
+
+“(C)(i) determine which of its assassination records, or particular information contained in such a record, was created by a third agency or by another Government office; and
+
+“(ii) transmit to a third agency or other Government office those records, or particular information contained in those records, or complete and accurate copies thereof;
+
+“(D)(i) determine whether its assassination records or particular information in assassination records are covered by the standards for postponement of public disclosure under this Act; and
+
+“(ii) specify on the identification aid required by subsection (d) the applicable postponement provision contained in section 6;
+
+“(E) organize and make available to the Review Board all assassination records identified under subparagraph (D) the public disclosure of which in whole or in part may be postponed under this Act;
+
+“(F) organize and make available to the Review Board any record concerning which the office has any uncertainty as to whether the record is an assassination record governed by this Act;
+
+“(G) give priority to—
+
+“(i) the identification, review, and transmission of all assassination records publicly available or disclosed as of the date of enactment of this Act in a redacted or edited form; and
+
+“(ii) the identification, review, and transmission, under the standards for postponement set forth in this Act, of assassination records that on the date of enactment of this Act are the subject of litigation under section 552 of title 5, United States Code; and
+
+“(H) make available to the Review Board any additional information and records that the Review Board has reason to believe it requires for conducting a review under this Act.
+
+“(3) The Director of each archival depository established under section 2112 of title 44, United States Code, shall have as a priority the expedited review for public disclosure of assassination records in the possession and custody of the depository, and shall make such records available to the Review Board as required by this Act.
+
+“(d) Identification Aids.—(1)(A) Not later than 45 days after the date of enactment of this Act [Oct. 26, 1992], the Archivist, in consultation with the appropriate Government offices, shall prepare and make available to all Government offices a standard form of identification or finding aid for use with each assassination record subject to review under this Act.
+
+“(B) The Archivist shall ensure that the identification aid program is established in such a manner as to result in the creation of a uniform system of electronic records by Government offices that are compatible with each other.
+
+“(2) Upon completion of an identification aid, a Government office shall—
+
+“(A) attach a printed copy to the record it describes;
+
+“(B) transmit to the Review Board a printed copy; and
+
+“(C) attach a printed copy to each assassination record it describes when it is transmitted to the Archivist.
+
+“(3) Assassination records which are in the possession of the National Archives on the date of enactment of this Act, and which have been publicly available in their entirety without redaction, shall be made available in the Collection without any additional review by the Review Board or another authorized office under this Act, and shall not be required to have such an identification aid unless required by the Archivist.
+
+“(e) Transmission to the National Archives.—Each Government office shall—
+
+“(1) transmit to the Archivist, and make immediately available to the public, all assassination records that can be publicly disclosed, including those that are publicly available on the date of enactment of this Act [Oct. 26, 1992], without any redaction, adjustment, or withholding under the standards of this Act; and
+
+“(2) transmit to the Archivist upon approval for postponement by the Review Board or upon completion of other action authorized by this Act, all assassination records the public disclosure of which has been postponed, in whole or in part, under the standards of this Act, to become part of the protected Collection.
+
+“(f) Custody of Postponed Assassination Records.—An assassination record the public disclosure of which has been postponed shall, pending transmission to the Archivist, be held for reasons of security and preservation by the originating body until such time as the information security program has been established at the National Archives as required in section 4(e)(2).
+
+“(g) Periodic Review of Postponed Assassination Records.—(1) All postponed or redacted records shall be reviewed periodically by the originating agency and the Archivist consistent with the recommendations of the Review Board under section 9(c)(3)(B).
+
+“(2)(A) A periodic review shall address the public disclosure of additional assassination records in the Collection under the standards of this Act.
+
+“(B) All postponed assassination records determined to require continued postponement shall require an unclassified written description of the reason for such continued postponement.
+Such description shall be provided to the Archivist and published in the Federal Register upon determination.
+
+“(C) The periodic review of postponed assassination records shall serve to downgrade and declassify security classified information.
+
+“(D) Each assassination record shall be publicly disclosed in full, and available in the Collection no later than the date that is 25 years after the date of enactment of this Act [Oct. 26, 1992], unless the President certifies, as required by this Act, that—
+
+“(i) continued postponement is made necessary by an identifiable harm to the military defense, intelligence operations, law enforcement, or conduct of foreign relations; and
+
+“(ii) the identifiable harm is of such gravity that it outweighs the public interest in disclosure.
+
+“(h) Fees for Copying.—Executive branch agencies shall—
+
+“(1) charge fees for copying assassination records; and
+
+“(2) grant waivers of such fees pursuant to the standards established by section 552(a)(4) of title 5, United States Code.
+
+“SEC. 6. GROUNDS FOR POSTPONEMENT OF PUBLIC DISCLOSURE OF RECORDS.
+
+“Disclosure of assassination records or particular information in assassination records to the public may be postponed subject to the limitations of this Act if there is clear and convincing evidence that—
+
+“(1) the threat to the military defense, intelligence operations, or conduct of foreign relations of the United States posed by the public disclosure of the assassination record is of such gravity that it outweighs the public interest, and such public disclosure would reveal—
+
+“(A) an intelligence agent whose identity currently requires protection;
+
+“(B) an intelligence source or method which is currently utilized, or reasonably expected to be utilized, by the United States Government and which has not been officially disclosed, the disclosure of which would interfere with the conduct of intelligence activities; or
+
+“(C) any other matter currently relating to the military defense, intelligence operations or conduct of foreign relations of the United States, the disclosure of which would demonstrably impair the national security of the United States;
+
+“(2) the public disclosure of the assassination record would reveal the name or identity of a living person who provided confidential information to the United States and would pose a substantial risk of harm to that person;
+
+“(3) the public disclosure of the assassination record could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy is so substantial that it outweighs the public interest;
+
+“(4) the public disclosure of the assassination record would compromise the existence of an understanding of confidentiality currently requiring protection between a Government agent and a cooperating individual or a foreign government, and public disclosure would be so harmful that it outweighs the public interest; or
+
+“(5) the public disclosure of the assassination record would reveal a security or protective procedure currently utilized, or reasonably expected to be utilized, by the Secret Service or another Government agency responsible for protecting Government officials, and public disclosure would be so harmful that it outweighs the public interest.
+
+“SEC. 7. ESTABLISHMENT AND POWERS OF THE ASSASSINATION RECORDS REVIEW BOARD.
+
+“(a) Establishment.—There is established as an independent agency a board to be known as the Assassinations Records Review Board.
+
+“(b) Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint, without regard to political affiliation, 5 citizens to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of Government records related to the assassination of President John F. Kennedy.
+
+“(2) The President shall make nominations to the Review Board not later than 90 calendar days after the date of enactment of this Act [Oct. 26, 1992].
+
+“(3) If the Senate votes not to confirm a nomination to the Review Board, the President shall make an additional nomination not later than 30 days thereafter.
+
+“(4)(A) The President shall make nominations to the Review Board after considering persons recommended by the American Historical Association, the Organization of American Historians, the Society of American Archivists, and the American Bar Association.
+
+“(B) If an organization described in subparagraph (A) does not recommend at least 2 nominees meeting the qualifications stated in paragraph (5) by the date that is 45 days after the date of enactment of this Act, the President shall consider for nomination the persons recommended by the other organizations described in subparagraph (A).
+
+“(C) The President may request an organization described in subparagraph (A) to submit additional nominations.
+
+“(5) Persons nominated to the Review Board—
+
+“(A) shall be impartial private citizens, none of whom is presently employed by any branch of the Government, and none of whom shall have had any previous involvement with any official investigation or inquiry conducted by a Federal, State, or local government, relating to the assassination of President John F. Kennedy;
+
+“(B) shall be distinguished persons of high national professional reputation in their respective fields who are capable of exercising the independent and objective judgment necessary to the fulfillment of their role in ensuring and facilitating the review, transmission to the public, and public disclosure of records related to the assassination of President John F. Kennedy and who possess an appreciation of the value of such material to the public, scholars, and government; and
+
+“(C) shall include at least 1 professional historian and 1 attorney.
+
+“(c) Security Clearances.—(1) All Review Board nominees shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
+
+“(2) All nominees shall qualify for the necessary security clearance prior to being considered for confirmation by the Committee on Governmental Affairs of the Senate.
+
+“(d) Confirmation Hearings.—(1) The Committee on Governmental Affairs of the Senate shall hold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
+
+“(2) The Committee on Governmental Affairs shall vote on the nominations within 14 days in which the Senate is in session after the confirmation hearings, and shall report its results to the full Senate immediately.
+
+“(3) The Senate shall vote on each nominee to confirm or reject within 14 days in which the Senate is in session after reported by the Committee on Governmental Affairs.
+
+“(e) Vacancy.—A vacancy on the Review Board shall be filled in the same manner as specified for original appointment within 30 days of the occurrence of the vacancy.
+
+“(f) Chairperson.—The Members of the Review Board shall elect one of its members as chairperson at its initial meeting.
+
+“(g) Removal of Review Board Member.—(1) No member of the Review Board shall be removed from office, other than—
+
+“(A) by impeachment and conviction; or
+
+“(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
+
+“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations [now Committee on Government Reform] of the House of Representatives and the Committee on Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
+
+“(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
+
+“(3)(A) A member of the Review Board removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia.
+
+“(B) The member may be reinstated or granted other appropriate relief by order of the court.
+
+“(h) Compensation of Members.—(1) A member of the Review Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Review Board.
+
+“(2) A member of the Review Board shall be allowed reasonable travel expenses, including per diem in lieu of subsistence, at rates for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the member's home or regular place of business in the performance of services for the Review Board.
+
+“(i) Duties of the Review Board.—(1) The Review Board shall consider and render decisions on a determination by a Government office to seek to postpone the disclosure of assassination records.
+
+“(2) In carrying out paragraph (1), the Review Board shall consider and render decisions—
+
+“(A) whether a record constitutes an assassination record; and
+
+“(B) whether an assassination record or particular information in a record qualifies for postponement of disclosure under this Act.
+
+“(j) Powers.—(1) The Review Board shall have the authority to act in a manner prescribed under this Act including authority to—
+
+“(A) direct Government offices to complete identification aids and organize assassination records;
+
+“(B) direct Government offices to transmit to the Archivist assassination records as required under this Act, including segregable portions of assassination records, and substitutes and summaries of assassination records that can be publicly disclosed to the fullest extent;
+
+“(C)(i) obtain access to assassination records that have been identified and organized by a Government office;
+
+“(ii) direct a Government office to make available to the Review Board, and if necessary investigate the facts surrounding, additional information, records, or testimony from individuals, which the Review Board has reason to believe is required to fulfill its functions and responsibilities under this Act; and
+
+“(iii) request the Attorney General to subpoena private persons to compel testimony, records, and other information relevant to its responsibilities under this Act;
+
+“(D) require any Government office to account in writing for the destruction of any records relating to the assassination of President John F. Kennedy;
+
+“(E) receive information from the public regarding the identification and public disclosure of assassination records;
+
+“(F) hold hearings, administer oaths, and subpoena witnesses and documents; and
+
+“(G) use the Federal Supply Service in the same manner and under the same conditions as other departments and agencies of the United States; and
+
+“(H) use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+“(2) A subpoena issued under paragraph (1)(C)(iii) may be enforced by any appropriate Federal court acting pursuant to a lawful request of the Review Board.
+
+“(k) Witness Immunity.—The Review Board shall be considered to be an agency of the United States for purposes of section 6001 of title 18, United States Code.
+
+“(l) Oversight.—(1) The Committee on Government Operations [now Committee on Government Reform] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+
+“(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
+
+“(m) Support Services.—The Administrator of the General Services Administration shall provide administrative services for the Review Board on a reimbursable basis.
+
+“(n) Interpretive Regulations.—The Review Board may issue interpretive regulations.
+
+“(o) Termination and Winding Up.—(1) The Review Board and the terms of its members shall terminate not later than September 30, 1998.
+
+“(2) Upon its termination, the Review Board shall submit reports to the President and the Congress including a complete and accurate accounting of expenditures during its existence, and shall complete all other reporting requirements under this Act.
+
+“(3) Upon termination and winding up, the Review Board shall transfer all of its records to the Archivist for inclusion in the Collection, and no record of the Review Board shall be destroyed.
+
+“SEC. 8. ASSASSINATION RECORDS REVIEW BOARD PERSONNEL.
+
+“(a) Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
+
+“(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
+
+“(3)(A) A candidate for Executive Director shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
+
+“(B) A candidate shall qualify for the necessary security clearance prior to being approved by the Review Board.
+
+“(4) The Executive Director shall—
+
+“(A) serve as principal liaison to Government offices;
+
+“(B) be responsible for the administration and coordination of the Review Board's review of records;
+
+“(C) be responsible for the administration of all official activities conducted by the Review Board; and
+
+“(D) have no authority to decide or determine whether any record should be disclosed to the public or postponed for disclosure.
+
+“(5) The Executive Director shall not be removed for reasons other than by a majority vote of the Review Board for cause on the grounds of inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the responsibilities of the Executive Director or the staff of the Review Board.
+
+“(b) Staff.—(1) The Review Board, without regard to the civil service laws, may appoint and terminate additional personnel as are necessary to enable the Review Board and its Executive Director to perform the duties of the Review Board.
+
+“(2)(A) Except as provided in subparagraph (B), a person appointed to the staff of the Review Board shall be a private citizen of integrity and impartiality who is not a present employee of any branch of the Government and who has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
+
+“(B) An individual who is an employee of the Government may be appointed to the staff of the Review Board if in that position the individual will perform only administrative functions.
+
+“(3)(A) A candidate for staff shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
+
+“(B)(i) The Review Board may offer conditional employment to a candidate for a staff position pending the completion of security clearance background investigations.
+During the pendency of such investigations, the Review Board shall ensure that any such employee does not have access to, or responsibility involving, classified or otherwise restricted assassination record materials.
+
+“(ii) If a person hired on a conditional basis under clause (i) is denied or otherwise does not qualify for all security clearances necessary to carry out the responsibilities of the position for which conditional employment has been offered, the Review Board shall immediately terminate the person's employment.
+
+“(c) Compensation.—Subject to such rules as may be adopted by the Review Board, the chairperson, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, may—
+
+“(1) appoint an Executive Director, who shall be paid at a rate not to exceed the rate of basic pay for level V of the Executive Schedule; and
+
+“(2) appoint and fix compensation of such other personnel as may be necessary to carry out this Act.
+
+“(d) Advisory Committees.—(1) The Review Board shall have the authority to create advisory committees to assist in fulfilling the responsibilities of the Review Board under this Act.
+
+“(2) Any advisory committee created by the Review Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+
+“(e) Security Clearance Required.—An individual employed in any position by the Review Board (including an individual appointed as Executive Director) shall be required to qualify for any necessary security clearance prior to taking office in that position, but may be employed conditionally in accordance with subsection (b)(3)(B) before qualifying for that clearance.
+
+“SEC. 9. REVIEW OF RECORDS BY THE ASSASSINATION RECORDS REVIEW BOARD.
+
+“(a) Custody of Records Reviewed by Board.—Pending the outcome of the Review Board's review activity, a Government office shall retain custody of its assassination records for purposes of preservation, security, and efficiency, unless—
+
+“(1) the Review Board requires the physical transfer of records for reasons of conducting an independent and impartial review; or
+
+“(2) such transfer is necessary for an administrative hearing or other official Review Board function.
+
+“(b) Startup Requirements.—The Review Board shall—
+
+“(1) not later than 90 days after the date of its appointment, publish a schedule for review of all assassination records in the Federal Register; and
+
+“(2) not later than 180 days after the date of enactment of this Act [Oct. 26, 1992], begin its review of assassination records under this Act.
+
+“(c) Determinations of the Review Board.—(1) The Review Board shall direct that all assassination records be transmitted to the Archivist and disclosed to the public in the Collection in the absence of clear and convincing evidence that—
+
+“(A) a Government record is not an assassination record; or
+
+“(B) a Government record or particular information within an assassination record qualifies for postponement of public disclosure under this Act.
+
+“(2) In approving postponement of public disclosure of an assassination record, the Review Board shall seek to—
+
+“(A) provide for the disclosure of segregable parts, substitutes, or summaries of such a record; and
+
+“(B) determine, in consultation with the originating body and consistent with the standards for postponement under this Act, which of the following alternative forms of disclosure shall be made by the originating body:
+
+“(i) Any reasonably segregable particular information in an assassination record.
+
+“(ii) A substitute record for that information which is postponed.
+
+“(iii) A summary of an assassination record.
+
+“(3) With respect to each assassination record or particular information in assassination records the public disclosure of which is postponed pursuant to section 6, or for which only substitutions or summaries have been disclosed to the public, the Review Board shall create and transmit to the Archivist a report containing—
+
+“(A) a description of actions by the Review Board, the originating body, the President, or any Government office (including a justification of any such action to postpone disclosure of any record or part of any record) and of any official proceedings conducted by the Review Board with regard to specific assassination records; and
+
+“(B) a statement, based on a review of the proceedings and in conformity with the decisions reflected therein, designating a recommended specified time at which or a specified occurrence following which the material may be appropriately disclosed to the public under this Act.
+
+“(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
+
+“(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the case of legislative branch records.
+Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
+
+“(d) Presidential Authority Over Review Board Determination.—
+
+“(1) Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch assassination record or information within such a record, or of any information contained in an assassination record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 6, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive branch agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 6, accompanied by a copy of the identification aid required under section 4.
+
+“(2) Periodic review.—Any executive branch assassination record postponed by the President shall be subject to the requirements of periodic review, downgrading and declassification of classified information, and public disclosure in the collection set forth in section 4.
+
+“(3) Record of presidential postponement.—The Review Board shall, upon its receipt, publish in the Federal Register a copy of any unclassified written certification, statement, and other materials transmitted by or on behalf of the President with regard to postponement of assassination records.
+
+“(e) Notice to Public.—Every 30 calendar days, beginning on the date that is 60 calendar days after the date on which the Review Board first approves the postponement of disclosure of an assassination record, the Review Board shall publish in the Federal Register a notice that summarizes the postponements approved by the Review Board or initiated by the President, the House of Representatives, or the Senate, including a description of the subject, originating agency, length or other physical description, and each ground for postponement that is relied upon.
+
+“(f) Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations [now Committee on Government Reform] of the House of Representatives, the Committee on Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+
+“(2) The first report shall be issued on the date that is 1 year after the date of enactment of this Act [Oct. 26, 1992], and subsequent reports every 12 months thereafter until termination of the Review Board.
+
+“(3) A report under paragraph (1) shall include the following information:
+
+“(A) A financial report of the expenses for all official activities and requirements of the Review Board and its personnel.
+
+“(B) The progress made on review, transmission to the Archivist, and public disclosure of assassination records.
+
+“(C) The estimated time and volume of assassination records involved in the completion of the Review Board's performance under this Act.
+
+“(D) Any special problems, including requests and the level of cooperation of Government offices, with regard to the ability of the Review Board to operate as required by this Act.
+
+“(E) A record of review activities, including a record of postponement decisions by the Review Board or other related actions authorized by this Act, and a record of the volume of records reviewed and postponed.
+
+“(F) Suggestions and requests to Congress for additional legislative authority needs.
+
+“(G) An appendix containing copies of reports of postponed records to the Archivist required under section 9(c)(3) made since the date of the preceding report under this subsection.
+
+“(4) At least 90 calendar days before completing its work, the Review Board shall provide written notice to the President and Congress of its intention to terminate its operations at a specified date.
+
+“SEC. 10. DISCLOSURE OF OTHER MATERIALS AND ADDITIONAL STUDY.
+
+“(a) Materials Under Seal of Court.—
+
+“(1) The Review Board may request the Attorney General to petition any court in the United States or abroad to release any information relevant to the assassination of President John F. Kennedy that is held under seal of the court.
+
+“(2)(A) The Review Board may request the Attorney General to petition any court in the United States to release any information relevant to the assassination of President John F. Kennedy that is held under the injunction of secrecy of a grand jury.
+
+“(B) A request for disclosure of assassination materials under this Act shall be deemed to constitute a showing of particularized need under Rule 6 of the Federal Rules of Criminal Procedure [18 App. U.S.C.].
+
+“(b) Sense of Congress.—It is the sense of the Congress that—
+
+“(1) the Attorney General should assist the Review Board in good faith to unseal any records that the Review Board determines to be relevant and held under seal by a court or under the injunction of secrecy of a grand jury;
+
+“(2) the Secretary of State should contact the Government of the Republic of Russia and seek the disclosure of all records of the government of the former Soviet Union, including the records of the Komitet Gosudarstvennoy Bezopasnosti (KGB) and the Glaynoye Razvedyvatelnoye Upravleniye (GRU), relevant to the assassination of President Kennedy, and contact any other foreign government that may hold information relevant to the assassination of President Kennedy and seek disclosure of such information; and
+
+“(3) all Executive agencies should cooperate in full with the Review Board to seek the disclosure of all information relevant to the assassination of President John F. Kennedy consistent with the public interest.
+
+“SEC. 11. RULES OF CONSTRUCTION.
+
+“(a) Precedence Over Other Law.—When this Act requires transmission of a record to the Archivist or public disclosure, it shall take precedence over any other law (except section 6103 of the Internal Revenue Code [26 U.S.C. 6103]), judicial decision construing such law, or common law doctrine that would otherwise prohibit such transmission or disclosure, with the exception of deeds governing access to or transfer or release of gifts and donations of records to the United States Government.
+
+“(b) Freedom of Information Act.—Nothing in this Act shall be construed to eliminate or limit any right to file requests with any executive agency or seek judicial review of the decisions pursuant to section 552 of title 5, United States Code.
+
+“(c) Judicial Review.—Nothing in this Act shall be construed to preclude judicial review, under chapter 7 of title 5, United States Code, of final actions taken or required to be taken under this Act.
+
+“(d) Existing Authority.—Nothing in this Act revokes or limits the existing authority of the President, any executive agency, the Senate, or the House of Representatives, or any other entity of the Government to publicly disclose records in its possession.
+
+“(e) Rules of the Senate and House of Representatives.—To the extent that any provision of this Act establishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
+
+“(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and is deemed to be part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+
+“(2) with full recognition of the constitutional right of either House to change the rules (so far as they relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+“SEC. 12. TERMINATION OF EFFECT OF ACT.
+
+“(a) Provisions Pertaining to the Review Board.—The provisions of this Act that pertain to the appointment and operation of the Review Board shall cease to be effective when the Review Board and the terms of its members have terminated pursuant to section 7(o).
+
+“(b) Other Provisions.—The remaining provisions of this Act shall continue in effect until such time as the Archivist certifies to the President and the Congress that all assassination records have been made available to the public in accordance with this Act.
+
+“SEC. 13. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a) In General.—There are authorized to be appropriated to carry out the provisions of this Act $1,600,000 for fiscal year 1998.
+
+“(b) Interim Funding.—Until such time as funds are appropriated pursuant to subsection (a), the President may use such sums as are available for discretionary use to carry out this Act.
+
+“SEC. 14. SEVERABILITY.
+
+“If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to other circumstances shall not be affected by the invalidation.”
+
+Classified National Security Information
+
+For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord.
+No. 12958, §3.6(b)(4), Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 3102, 3317 of this title; title 36 section 2103.
+
+§2108. Responsibility for custody, use, and withdrawal of records
+
+(a) The Archivist shall be responsible for the custody, use, and withdrawal of records transferred to him.
+When records, the use of which is subject to statutory limitations and restrictions, are so transferred, permissive and restrictive statutory provisions with respect to the examination and use of records applicable to the head of the agency from which the records were transferred or to employees of that agency are applicable to the Archivist and to the employees of the National Archives and Records Administration, respectively.
+Except as provided in subsection (b) of this section, when the head of a Federal agency states, in writing, restrictions that appear to him to be necessary or desirable in the public interest with respect to the use or examination of records being considered for transfer from his custody to the Archivist, the Archivist shall, if he concurs,,1 impose such restrictions on the records so transferred, and may not relax or remove such restrictions without the written concurrence of the head of the agency from which the material was transferred, or of his successor in function, if any.
+In the event that a Federal agency is terminated and there is no successor in function, the Archivist is authorized to relax, remove, or impose restrictions on such agency's records when he determines that such action is in the public interest.
+Statutory and other restrictions referred to in this subsection shall remain in force until the records have been in existence for thirty years unless the Archivist by order, having consulted with the head of the transferring Federal agency or his successor in function, determines, with respect to specific bodies of records, that for reasons consistent with standards established in relevant statutory law, such restrictions shall remain in force for a longer period.
+Restriction on the use or examination of records deposited with the National Archives of the United States imposed by section 3 of the National Archives Act, approved June 19, 1934, shall continue in force regardless of the expiration of the tenure of office of the official who imposed them but may be removed or relaxed by the Archivist with the concurrence in writing of the head of the agency from which material was transferred or of his successor in function, if any.
+
+(b) With regard to the census and survey records of the Bureau of the Census containing data identifying individuals enumerated in population censuses, any release pursuant to this section of such identifying information contained in such records shall be made by the Archivist pursuant to the specifications and agreements set forth in the exchange of correspondence on or about the date of October 10, 1952, between the Director of the Bureau of the Census and the Archivist of the United States, together with all amendments thereto, now or hereafter entered into between the Director of the Bureau of the Census and the Archivist of the United States.
+Such amendments, if any, shall be published in the Register.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1288, §2104; Pub. L. 95–416, §1(b), Oct. 5, 1978, 92 Stat. 915; renumbered §2108 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(2), Oct. 19, 1984, 98 Stat. 2280, 2285.)
+
+Historical and Revision Notes
+
+Based on 44 U.S. Code, 1964 ed., §397(b) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
+
+References in Text
+
+Section 3 of the National Archives Act, approved June 19, 1934, referred to in subsec. (a), was classified to section 300c of former Title 44, Public Printing and Documents, and was repealed by act June 30, 1949, ch. 288, title VI, §602(a)(32), renumbered and added Sept. 5, 1950, ch. 849, §7(d), 64 Stat. 590.
+
+Prior Provisions
+
+A prior section 2108 was renumbered section 2112 of this title.
+
 Section Referred to in Other Sections
 
 This section is referred to in sections 3102, 3317 of this title.
@@ -6125,42 +6597,6 @@ Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §50
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 2506, 3102 of this title.
-
-§2505. Special advisory committees; membership; reimbursement
-
-The Commission may establish special advisory committees to consult with and make recommendations to it, from among the leading historians, political scientists, archivists, librarians, and other specialists of the Nation.
-Members of special advisory committees shall be reimbursed for transportation and other expenses on the same basis as members of the Commission.
-
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294.)
-
-Historical and Revision Notes
-
-Based on 44 U.S. Code, 1964 ed., §393(e) (June 30, 1949, ch. 288, title V, §503, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
-
-Termination of Advisory Committees
-
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law.
-See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
-
-§2506. Records to be kept by grantees
-
-(a) Each recipient of grant assistance under section 2504 of this title shall keep such records as the Archivist of the United States prescribes, including records which fully disclose the amount and disposition by the recipient of the proceeds of the grants, the total cost of the project or undertaking in connection with which funds are given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and any other records as will facilitate an effective audit.
-
-(b) The Archivist and the Comptroller General of the United States or their authorized representatives shall have access for the purposes of audit and examination to books, documents, papers, and records of the recipients that are pertinent to the grants received under section 2504 of this title.
-
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 98–497, title I, §107(b)(11), Oct. 19, 1984, 98 Stat. 2287.)
-
-Historical and Revision Notes
-
-Based on 44 U.S. Code, 1964 ed., §393(g) (June 30, 1949, ch. 288, title V, §503, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
-
-Section Referred to in Other Sections
-
 This section is referred to in section 3102 of this title.
 
 [§2507. Repealed.
@@ -6436,6 +6872,31 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 Prior Provisions
 
 A prior section 2901, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1295, related to definitions, prior to repeal by Pub. L. 94–575, §2(a)(1).
+
+Records Center Revolving Fund
+
+Pub. L. 106–58, title IV, [(a)–(e)], Sept. 29, 1999, 113 Stat. 460, 461, provided that:
+
+“(a) Establishment of Fund.—There is hereby established in the Treasury a revolving fund to be available for expenses and equipment necessary to provide for storage and related services for all temporary and pre-archival Federal records, which are to be stored or stored at Federal National and Regional Records Centers by agencies and other instrumentalities of the Federal Government.
+The Fund shall be available without fiscal year limitation for expenses necessary for operation of these activities.
+
+“(b) Start-Up Capital.—
+
+“(1) There is appropriated $22,000,000 as initial capitalization of the Fund.
+
+“(2) In addition, the initial capital of the Fund shall include the fair and reasonable value at the Fund's inception of the inventories, equipment, receivables, and other assets, less the liabilities, transferred to the Fund.
+The Archivist of the United States is authorized to accept inventories, equipment, receivables and other assets from other Federal entities that were used to provide for storage and related services for temporary and pre-archival Federal records.
+
+“(c) User Charges.—The Fund shall be credited with user charges received from other Federal Government accounts as payment for providing personnel, storage, materials, supplies, equipment, and services as authorized by subsection (a). Such payments may be made in advance or by way of reimbursement.
+The rates charged will return in full the expenses of operation, including reserves for accrued annual leave, worker's compensation, depreciation of capitalized equipment and shelving, and amortization of information technology software and systems.
+
+“(d) Funds Returned to Miscellaneous Receipts of the Department of the Treasury.—
+
+“(1) In addition to funds appropriated to and assets transferred to the Fund in subsection (b), an amount not to exceed 4 percent of the total annual income may be retained in the Fund as an operating reserve or for the replacement or acquisition of capital equipment, including shelving, and the improvement and implementation of the financial management, information technology, and other support systems of the National Archives and Records Administration.
+
+“(2) Funds in excess of the 4 percent at the close of each fiscal year shall be returned to the Treasury of the United States as miscellaneous receipts.
+
+“(e) Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform of the House of Representatives on the operation of the Records Center Revolving Fund.”
 
 Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Printing Office
 
@@ -8046,7 +8507,8 @@ Ex. Ord.
 No. 13073. Year 2000 Conversion
 
 Ex. Ord.
-No. 13073, Feb. 4, 1998, 63 F.R. 6467, provided:
+No. 13073, Feb. 4, 1998, 63 F.R. 6467, as amended by Ex. Ord.
+No. 13127, June 14, 1999, 64 F.R. 32793, provided:
 
 The American people expect reliable service from their Government and deserve the confidence that critical government functions dependent on electronic systems will be performed accurately and in a timely manner.
 Because of a design feature in many electronic systems, a large number of activities in the public and private sectors could be at risk beginning in the year 2000. Some computer systems and other electronic devices will misinterpret the year “00” as 1900, rather than 2000. Unless appropriate action is taken, this flaw, known as the “Y2K problem,” can cause systems that support those functions to compute erroneously or simply not run.
@@ -8090,7 +8552,19 @@ Sec. 3. Responsibilities of Agency Heads. (a) The head of each agency shall:
 Sec. 4. Responsibilities of Interagency and Executive Office Councils.
 Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
 
-Sec. 5. Judicial Review.
+Sec. 5. Information Coordination Center. (a) To assist the Chair in the Y2K response duties included under section 2(c) of this order, there shall be established the Information Coordination Center (ICC) in the General Services Administration.
+
+(b) At the direction of the Chair, the ICC will assist in making preparations for information sharing and coordination within the Federal Government and key components of the public and private sectors, coordinating agency assessments of Y2K emergencies that could have an adverse affect on U.S. interests at home and abroad, and, if necessary, assisting Federal agencies and the Chair in reconstitution processes where appropriate.
+
+(c) The ICC will:
+
+(1) consist of officials from executive agencies, designated by agency heads under subsection 3(a)(2) of this order, who have expertise in important management and technical areas, computer hardware, software or security systems, reconstitution and recovery, and of additional personnel hired directly or by contract, as required, to carry out the duties described under section 5 of this order;
+
+(2) work with the Council and the Office of Management and Budget to assure that Federal efforts to restore critical systems are coordinated with efforts managed by Federal agencies acting under existing emergency response authorities.
+
+(d) The Chair of the President's Council on Year 2000 Conversion shall designate a Director of the ICC.
+
+Sec. 6. Judicial Review.
 This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.      
