@@ -254,7 +254,7 @@ In particular, the Patent and Trademark Office shall be subject to all Federal l
 
 (3) may acquire, construct, purchase, lease, hold, manage, operate, improve, alter, and renovate any real, personal, or mixed property, or any interest therein, as it considers necessary to carry out its functions;
 
-(4)(A) may make such purchases, contracts for the construction, maintenance, or management and operation of facilities, and contracts for supplies or services, without regard to the provisions of the Federal Property and Administrative Services Act of 1949 1, the Public Buildings Act,1 and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
+(4)(A) may make such purchases, contracts for the construction, maintenance, or management and operation of facilities, and contracts for supplies or services, without regard to the provisions of subtitle I and chapter 33 of title 40, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
 
 (B) may enter into and perform such purchases and contracts for printing services, including the process of composition, platemaking, presswork, silk screen processes, binding, microform, and the products of such processes, as it considers necessary to carry out the functions of the Office, without regard to sections 501 through 517 and 1101 through 1123 of title 44;
 
@@ -292,7 +292,7 @@ In particular, the Patent and Trademark Office shall be subject to all Federal l
 
 (d) Construction.—Nothing in this section shall be construed to nullify, void, cancel, or interrupt any pending request-for-proposal let or contract issued by the General Services Administration for the specific purpose of relocating or leasing space to the United States Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4712], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–273, div. C, title III, §13206(a)(1), Nov. 2, 2002, 116 Stat. 1904.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4712], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–273, div. C, title III, §13206(a)(1), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 108–178, §4(g), Dec. 15, 2003, 117 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -303,9 +303,8 @@ Based on Title 35, U.S.C., 1946 ed., §3 (R.S. 478).
 References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(4)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended.
-Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
-The Public Buildings Act, referred to in subsec. (b)(4)(A), probably means Pub. L. 86–249, Sept. 9, 1959, 73 Stat. 479, as amended, known as the Public Buildings Act of 1959, which was classified principally to chapter 12 (§601 et seq.) of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3301–3305 and 3307–3315 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts.
+For complete classification of this Act to the Code, see Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare.
 For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -329,8 +328,6 @@ Pub. L. 107–273, div. C, title III, §13103, Nov. 2, 2002, 116 Stat. 1899, pro
 Section Referred to in Other Sections
 
 This section is referred to in section 32 of this title.
-
-1 See References in Text note below.
 
 §3. Officers and employees
 
@@ -628,6 +625,26 @@ Language is changed.
 Prior Provisions
 
 A prior section 10 was renumbered section 9 of this title.
+
+§11. Exchange of copies of patents and applications with foreign countries
+
+The Director may exchange copies of specifications and drawings of United States patents and published applications for patents for those of foreign countries.
+The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a NAFTA country or a WTO member country, without the express authorization of the Secretary of Commerce.
+For purposes of this section, the terms “NAFTA country” and “WTO member country” have the meanings given those terms in section 104(b).
+
+(July 19, 1952, ch. 950, 66 Stat. 794, §12; renumbered §11 and amended Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §§4507(2), 4717(1), 4732(a)(10)(A), 4808], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–591; Pub. L. 107–273, div. C, title III, §§13205(2)(B), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1903, 1906.)
+
+Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §§15, and 78, part (Jan. 14, 1915, 38 Stat. 1221; Feb. 18, 1922, ch. 58, §9, proviso in, 42 Stat. 393).
+
+The first act mentioned applies to Canada only, the second to any country; these are consolidated in one section, specific reference to one country not being necessary.
+
+Language is changed.
+
+Prior Provisions
+
+A prior section 11 was renumbered section 10 of this title.
 
 §12. Copies of patents and applications for public libraries
 
@@ -3890,6 +3907,8 @@ if the purpose of such submission is to obtain approval under such Act to engage
 
 The remedies prescribed by subparagraphs (A), (B), and (C) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
 
+(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
+
 (f)(1) Whoever without authority supplies or causes to be supplied in or from the United States all or a substantial portion of the components of a patented invention, where such components are uncombined in whole or in part, in such manner as to actively induce the combination of such components outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
 
 (2) Whoever without authority supplies or causes to be supplied in or from the United States any component of a patented invention that is especially made or especially adapted for use in the invention and not a staple article or commodity of commerce suitable for substantial noninfringing use, where such component is uncombined in whole or in part, knowing that such component is so made or adapted and intending that such component will be combined outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
@@ -3907,7 +3926,7 @@ Any State, and any such instrumentality, officer, or employee, shall be subject 
 
 (i) As used in this section, an “offer for sale” or an “offer to sell” by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988.)
+(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, §1101(d), Dec. 8, 2003, 117 Stat. 2457.)
 
 Historical and Revision Notes
 
@@ -3920,7 +3939,7 @@ A patentee is not deemed to have misused his patent solely by reason of doing an
 References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs.
-Sections 505(b)(2), 505(j), and 512 of that Act are classified, respectively, to sections 355(b)(2), 355(j), and 360b of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended.
 The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§151 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
@@ -4112,44 +4131,6 @@ The first paragraph declares the existing presumption of validity of patents.
 The five defenses named in R.S. 4920 are omitted and replaced by a broader paragraph specifying defenses in general terms.
 
 The third paragraph, relating to notice of prior patents, publications and uses, is based on part of the last paragraph of R.S. 4920 which was superseded by the Federal Rules of Civil Procedure but which is reinstated with modifications.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 157, 294 of this title.
-
-§283. Injunction
-
-The several courts having jurisdiction of cases under this title may grant injunctions in accordance with the principles of equity to prevent the violation of any right secured by patent, on such terms as the court deems reasonable.
-
-(July 19, 1952, ch. 950, 66 Stat. 812.)
-
-Historical and Revision Notes
-
-Based on Title 35, U.S.C., 1946 ed., §70, part (R.S. 4921, amended (1) Mar. 3, 1897, ch. 391, §6, 29 Stat. 694, (2) Feb. 18, 1922, ch. 58, §8, 42 Stat. 392, (3) Aug. 1, 1946, ch. 726, §1, 60 Stat. 778).
-
-This section is the same as the provision which opens R.S. 4921 with minor changes in language.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 154, 157, 287 of this title.
-
-§284. Damages
-
-Upon finding for the claimant the court shall award the claimant damages adequate to compensate for the infringement, but in no event less than a reasonable royalty for the use made of the invention by the infringer, together with interest and costs as fixed by the court.
-
-When the damages are not found by a jury, the court shall assess them.
-In either event the court may increase the damages up to three times the amount found or assessed.
-Increased damages under this paragraph shall not apply to provisional rights under section 154(d) of this title.
-
-The court may receive expert testimony as an aid to the determination of damages or of what royalty would be reasonable under the circumstances.
-
-(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4507(9)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566.)
-
-Historical and Revision Notes
-
-Based on Title 35, U.S.C., 1946 ed., §§67 and 70, part (R.S. 4919; R.S. 4921, amended (1) Mar. 3, 1897, ch. 391, §6, 29 Stat. 694, (2) Feb. 18, 1922, ch. 58, §8, 42 Stat. 392, (3) Aug. 1, 1946, ch. 726, §1, 60 Stat. 778).
-
-This section consolidates the provisions relating to damages in R.S. 4919 and 4921, with some changes in language.
 
 Section Referred to in Other Sections
 
@@ -4366,6 +4347,46 @@ Historical and Revision Notes
 Based on Title 35, U.S.C., 1946 ed., §70, part (R.S. 4921, amended (1) Mar. 3, 1897, ch. 391, §6, 29 Stat. 694, (2) Feb. 18, 1922, ch. 58, §8, 42 Stat. 392, (3) Aug. 1, 1946, ch. 726, §1, 60 Stat. 778).
 
 This is the last sentence of R.S. 4921, third paragraph, with minor changes in language.
+
+§291. Interfering patents
+
+The owner of an interfering patent may have relief against the owner of another by civil action, and the court may adjudge the question of the validity of any of the interfering patents, in whole or in part.
+The provisions of the second paragraph of section 146 of this title shall apply to actions brought under this section.
+
+(July 19, 1952, ch. 950, 66 Stat. 814.)
+
+Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §66 (R.S. 4918, amended Mar. 2, 1927, ch. 273, §12, 44 Stat. 1337).
+
+Language is changed.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 102 of this title.
+
+§292. False marking
+
+(a) Whoever, without the consent of the patentee, marks upon, or affixes to, or uses in advertising in connection with anything made, used, offered for sale, or sold by such person within the United States, or imported by the person into the United States, the name or any imitation of the name of the patentee, the patent number, or the words “patent,” “patentee,” or the like, with the intent of counterfeiting or imitating the mark of the patentee, or of deceiving the public and inducing them to believe that the thing was made, offered for sale, sold, or imported into the United States by or with the consent of the patentee; or
+
+Whoever marks upon, or affixes to, or uses in advertising in connection with any unpatented article, the word “patent” or any word or number importing that the same is patented for the purpose of deceiving the public; or
+
+Whoever marks upon, or affixes to, or uses in advertising in connection with any article, the words “patent applied for,” “patent pending,” or any word importing that an application for patent has been made, when no application for patent has been made, or if made, is not pending, for the purpose of deceiving the public—
+
+Shall be fined not more than $500 for every such offense.
+
+(b) Any person may sue for the penalty, in which event one-half shall go to the person suing and the other to the use of the United States.
+
+(July 19, 1952, ch. 950, 66 Stat. 814; Pub. L. 103–465, title V, §533(b)(6), Dec. 8, 1994, 108 Stat. 4990.)
+
+Historical and Revision Notes
+
+Based on Title 35, U.S.C., 1946 ed., §50 (R.S. 4901).
+
+This is a criminal provision.
+The first two paragraphs of the corresponding section of existing statute are consolidated, a new paragraph relating to false marking of “patent applied for” is added, and false advertising is included in all the offenses.
+The minimum fine which has been interpreted by the courts as a maximum, is replaced by a higher maximum.
+The informer action is included as additional to an ordinary criminal action.
 
 Section Referred to in Other Sections
 
@@ -4802,7 +4823,7 @@ Definitions.
 
 When used in this part unless the context otherwise indicates—
 
-(a) The term “treaty” means the Patent Co- operation Treaty done at Washington, on June 19, 1970.
+(a) The term “treaty” means the Patent Cooperation Treaty done at Washington, on June 19, 1970.
 
 (b) The term “Regulations”, when capitalized, means the Regulations under the treaty, done at Washington on the same date as the treaty.
 The term “regulations”, when not capitalized, means the regulations established by the Director under this title.
@@ -4886,6 +4907,22 @@ In accordance with any agreement made between the United States and another coun
 (d) The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+
+Effective Date
+
+Chapter effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 376 of this title.
+
+§362. International Searching Authority and International Preliminary Examining Authority
+
+(a) The Patent and Trademark Office may act as an International Searching Authority and International Preliminary Examining Authority with respect to international applications in accordance with the terms and conditions of an agreement which may be concluded with the International Bureau, and may discharge all duties required of such Authorities, including the collection of handling fees and their transmittal to the International Bureau.
+
+(b) The handling fee, preliminary examination fee, and any additional fees due for international preliminary examination shall be paid within such time as may be fixed by the Director.
+
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §4, Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 Section Referred to in Other Sections
 

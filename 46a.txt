@@ -2506,7 +2506,7 @@ Reports as to awards and settlements.
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 740, 782, 1247, 1292 of this Appendix; title 14 sections 821, 823a; title 28 section 2680; title 41 section 603; title 42 section 2212; title 50 App. section 1291.
+This chapter is referred to in sections 740, 782, 1247, 1292 of this Appendix; title 14 sections 821, 823a; title 28 section 2680; title 41 section 603; title 50 section 2783; title 50 App. section 1291.
 
 §741. Exemption of United States vessels and cargoes from arrest or seizure
 
@@ -2822,7 +2822,7 @@ Reports by Attorney General.
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in section 740 of this Appendix; title 10 section 7721; title 14 sections 821, 823a; title 28 section 2680; title 41 section 603; title 42 section 2212.
+This chapter is referred to in section 740 of this Appendix; title 10 section 7721; title 14 sections 821, 823a; title 28 section 2680; title 41 section 603; title 50 section 2783.
 
 §781. Libel in admiralty against or impleader of United States
 
@@ -2936,7 +2936,7 @@ Validity of unlawful charter, sale, etc.; penalties.
 (e)
 Placement in foreign registry without approval of Secretary.
 
-(e)
+(f)
 Approval of certain vessel transactions before documentation of vessel.
 
 808a.
@@ -3098,7 +3098,7 @@ For provisional repeal, see note set out preceding section 801 of this Appendix.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 292, 883, 883–1, 888, 891u, 1187a, 1187e, 1244, 1271 of this Appendix; title 15 sections 144, 713c–3, 2509; title 16 section 742c; title 28 section 2342; title 30 sections 185, 1522; title 42 section 5919; title 46 sections 12102, 12106; title 50 App. section 1736.
+This section is referred to in sections 292, 883, 883–1, 888, 891u, 1187a, 1187e, 1244, 1271 of this Appendix; title 15 sections 144, 713c–3, 2509; title 16 section 742c; title 28 section 2342; title 30 sections 185, 1522; title 42 section 5919; title 46 sections 12102, 12106, 53102, 53103, 53104, 53106; title 50 App. section 1736.
 
 §803. Applicability of chapter to receivers and trustees
 
@@ -3167,30 +3167,23 @@ Except as provided in section 1181 of this Appendix and in section 12106(e) of t
 
 Notwithstanding subsection (c)(2) of this section, the Merchant Marine Act, 1936 [46 App. U.S.C. 1101 et seq.], or any contract entered into with the Secretary of Transportation under that Act, a vessel may be placed under a foreign registry, without approval of the Secretary, if—
 
-(1)(A) the Secretary determines that at least one replacement vessel of a capacity that is equivalent or greater, as measured by deadweight tons, gross tons, or container equivalent units, as appropriate, is documented under chapter 121 of title 46 by the owner of the vessel placed under the foreign registry; and
+(1)(A) the Secretary, in conjunction with the Secretary of Defense, determines that at least one replacement vessel of equal or greater military capability and of a capacity that is equivalent or greater, as measured by deadweight tons, gross tons, or container equivalent units, as appropriate, is documented under chapter 121 of title 46 by the owner of the vessel placed under the foreign registry; and
 
-(B) the replacement vessel is not more than 10 years of age on the date of that documentation;
+(B) the replacement vessel is not more than 10 years of age on the date of that documentation; or
 
-(2)(A) an application for an operating agreement under subtitle B of title VI of the Merchant Marine Act, 1936 [46 App. U.S.C. 1187 et seq.] has been filed with respect to a vessel which is eligible to be included in the Maritime Security Fleet under section 651(b)(1) of that Act [46 App. U.S.C. 1187(b)(1)]; and
+(2) an operating agreement covering the vessel under chapter 531 of title 46 has expired.
 
-(B) the Secretary has not awarded an operating agreement with respect to that vessel within 90 days after the date of that application;
-
-(3) a contract covering the vessel under subtitle A of title VI of the Merchant Marine Act, 1936 [46 App. U.S.C. 1171 et seq.] has expired, and that vessel is more than 15 years of age on the date the contract expires; or
-
-(4) an operating agreement covering the vessel under subtitle B of title VI of the Merchant Marine Act, 1936 has expired.
-
-(e) 1 Approval of certain vessel transactions before documentation of vessel
+(f) Approval of certain vessel transactions before documentation of vessel
 
 To promote financing with respect to a vessel to be documented under chapter 121 of title 46, the Secretary may grant approval under subsection (c) of this section before the date the vessel is documented.
 
 (Sept. 7, 1916, ch. 451, §9, 39 Stat. 730; July 15, 1918, ch. 152, §3, 40 Stat. 900; June 5, 1920, ch. 250, §18, 41 Stat. 994; Ex. Ord.
 No. 6166, §12, eff.
-June 10, 1933; June 29, 1936, ch. 858, title II, §204, title IX, §904, 49 Stat. 1987, 2016; June 23, 1938, ch. 600, §42, 52 Stat. 964; Pub. L. 89–346, §1, Nov. 8, 1965, 79 Stat. 1305; Pub. L. 97–31, §12(26), Aug. 6, 1981, 95 Stat. 155; Pub. L. 100–710, title I, §104(b), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §§304(a), 307(3), Dec. 12, 1989, 103 Stat. 1924, 1925; Pub. L. 104–239, §6, Oct. 8, 1996, 110 Stat. 3132; Pub. L. 104–324, title XI, §§1113(c), (e), 1136(b), Oct. 19, 1996, 110 Stat. 3970, 3971, 3987; Pub. L. 107–295, title II, §205(d), Nov. 25, 2002, 116 Stat. 2096.)
+June 10, 1933; June 29, 1936, ch. 858, title II, §204, title IX, §904, 49 Stat. 1987, 2016; June 23, 1938, ch. 600, §42, 52 Stat. 964; Pub. L. 89–346, §1, Nov. 8, 1965, 79 Stat. 1305; Pub. L. 97–31, §12(26), Aug. 6, 1981, 95 Stat. 155; Pub. L. 100–710, title I, §104(b), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §§304(a), 307(3), Dec. 12, 1989, 103 Stat. 1924, 1925; Pub. L. 104–239, §6, Oct. 8, 1996, 110 Stat. 3132; Pub. L. 104–324, title XI, §§1113(c), (e), 1136(b), Oct. 19, 1996, 110 Stat. 3970, 3971, 3987; Pub. L. 107–295, title II, §205(d), Nov. 25, 2002, 116 Stat. 2096; Pub. L. 108–136, div. C, title XXXV, §3532(a), Nov. 24, 2003, 117 Stat. 1817.)
 
 References in Text
 
 The Merchant Marine Act, 1936, referred to in subsec. (e), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended, which is classified principally to chapter 27 (§1101 et seq.) of this Appendix.
-Subtitles A and B of title VI of the Act are classified generally to parts A (§1171 et seq.) and B (§1187 et seq.), respectively, of subchapter VI of chapter 27 of this Appendix.
 For complete classification of this Act to the Code, see section 1245 of this Appendix and Tables.
 
 Retroactive Provisions
@@ -3214,10 +3207,7 @@ Plan No. 21 of 1950, set out under section 1111 of this Appendix.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 808a, 839, 865a, 883, 883–1, 1160, 1222 of this Appendix; title 28 section 2342; title 46 sections 12111, 31306, 31325; title 50 section 198.
-
-1 So in original.
-Probably should be “(f)”.
+This section is referred to in sections 808a, 839, 865a, 883, 883–1, 1160, 1222 of this Appendix; title 28 section 2342; title 46 sections 12111, 31306, 31325, 53104; title 50 section 198.
 
 §808a. Sale, chartering, leasing, mortgaging or transferring of documented vessels without approval of Secretary
 
@@ -4177,11 +4167,6 @@ Plan No. 6 of 1949, Reorg.
 Plan No. 21 of 1950, and Reorg.
 Plan No. 7 of 1961, set out under section 1111 of this Appendix.
 
-Canton Island
-
-Proc.
-No. 3215, Dec. 12, 1957, 72 Stat. c19, extended period for establishment of adequate shipping service for, and deferred extension of coastwise laws to, Canton Island.
-
 §883. Transportation of merchandise between points in United States in other than domestic built or rebuilt and documented vessels; incineration of hazardous waste at sea
 
 No merchandise, including merchandise owned by the United States Government, a State (as defined in section 2101 of the 1 title 46), or a subdivision of a State, shall be transported by water, or by land and water, on penalty of forfeiture of the merchandise (or a monetary amount up to the value thereof as determined by the Secretary of the Treasury, or the actual cost of the transportation, whichever is greater, to be recovered from any consignor, seller, owner, importer, consignee, agent, or other person or persons so transporting or causing said merchandise to be transported), between points in the United States, including Districts, Territories, and possessions thereof embraced within the coastwise laws, either directly or via a foreign port, or for any part of the transportation, in any other vessel than a vessel built in and documented under the laws of the United States and owned by persons who are citizens of the United States, or vessels to which the privilege of engaging in the coastwise trade is extended by section 808 of this Appendix or section 22 2 of this Act: Provided, That no vessel of more than 200 gross tons (as measured under chapter 143 of title 46) having at any time acquired the lawful right to engage in the coastwise trade, either by virtue of having been built in, or documented under the laws of the United States, and later sold foreign in whole or in part, or placed under foreign registry, shall hereafter acquire the right to engage in the coastwise trade: Provided further, That no vessel which has acquired the lawful right to engage in the coastwise trade, by virtue of having been built in or documented under the laws of the United States, and which has later been rebuilt shall have the right thereafter to engage in the coastwise trade, unless the entire rebuilding, including the construction of any major components of the hull or superstructure of the vessel, is effected within the United States, its territories (not including trust territories), or its possessions: Provided further, That this section shall not apply to merchandise transported between points within the continental United States, including Alaska, over through routes heretofore or hereafter recognized by the Surface Transportation Board for which routes rate tariffs have been or shall hereafter be filed with the Board when such routes are in part over Canadian rail lines and their own or other connecting water facilities: Provided further, That this section shall not become effective upon the Yukon River until the Alaska Railroad shall be completed and the Secretary of Transportation shall find that proper facilities will be furnished for transportation by persons citizens of the United States for properly handling the traffic: Provided further, That this section shall not apply to the transportation of merchandise loaded on railroad cars or to motor vehicles with or without trailers, and with their passengers or contents when accompanied by the operator thereof, when such railroad cars or motor vehicles are transported in any railroad car ferry operated between fixed termini on the Great Lakes as a part of a rail route, if such car ferry is owned by a common carrier by water and operated as part of a rail route with the approval of the Surface Transportation Board, and if the stock of such common carrier by water, or its predecessor, was owned or controlled by a common carrier by rail prior to June 5, 1920, and if the stock of the common carrier owning such car ferry is, with the approval of the Board, now owned or controlled by any common carrier by rail and if such car ferry is built in and documented under the laws of the United States: Provided further, That upon such terms and conditions as the Secretary of the Treasury by regulation may prescribe, and, if the transporting vessel is of foreign registry, upon a finding by the Secretary of the Treasury, pursuant to information obtained and furnished by the Secretary of State, that the government of the nation of registry extends reciprocal privileges to vessels of the United States, this section shall not apply to the transportation by vessels of the United States not qualified to engage in the coastwise trade, or by vessels of foreign registry, of (a) empty cargo vans, empty lift vans, and empty shipping tanks, (b) equipment for use with cargo vans, lift vans, or shipping tanks, (c) empty barges specifically designed for carriage aboard a vessel and equipment, excluding propulsion equipment, for use with such barges, and (d) any empty instrument for international traffic exempted from application of the customs laws by the Secretary of the Treasury pursuant to the provisions of section 1322(a) of title 19, if the articles described in clauses (a) through (d) are owned or leased by the owner or operator of the transporting vessel and are transported for his use in handling his cargo in foreign trade; and (e) stevedoring equipment and material, if such equipment and material is owned or leased by the owner or operator of the transporting vessel, or is owned or leased by the stevedoring company contracting for the lading or unlading of that vessel, and is transported without charge for use in the handling of cargo in foreign trade: Provided further, That upon such terms and conditions as the Secretary of the Treasury by regulation may prescribe, and, if the transporting vessel is of foreign registry, upon his finding, pursuant to information furnished by the Secretary of State, that the government of the nation of registry extends reciprocal privileges to vessels of the United States, the Secretary of the Treasury may suspend the application of this section to the transportation of merchandise between points in the United States (excluding transportation between the continental United States and noncontiguous states, districts, territories, and possessions embraced within the coastwise laws) which, while moving in the foreign trade of the United States, is transferred from a non-self-propelled barge certified by the owner or operator to be specifically designed for carriage aboard a vessel and regularly carried aboard a vessel in foreign trade to another such barge owned or leased by the same owner or operator, without regard to whether any such barge is under foreign registry or qualified to engage in the coastwise trade: Provided further, That until April 1, 1984, and notwithstanding any other provisions of this section, any vessel documented under the laws of the United States and owned by persons who are citizens of the United States may, when operated upon a voyage in foreign trade, transport merchandise in cargo vans, lift vans, and shipping-tanks between points embraced within the coastwise laws for transfer to or when transferred from another vessel or vessels, so documented and owned, of the same operator when the merchandise movement has either a foreign origin or a foreign destination; but this proviso (1) shall apply only to vessels which that same operator owned, chartered or contracted for the construction of prior to November 16, 1979, and (2) shall not apply to movements between points in the contiguous United States and points in Hawaii, Alaska, the Commonwealth of Puerto Rico and United States territories and possessions.
@@ -4952,6 +4937,12 @@ Construction of new vessel to replace obsolete; purchase of old vessel by Secret
 1158.
 Disposition of vessels transferred to Maritime Administration of Department of Transportation.
 
+(a)
+Authority to scrap or sell obsolete vessels.
+
+(b)
+Authority to convey vessels.
+
 1159.
 Vessels to be operated in domestic trade; terms and conditions of construction aid and sale to purchaser.
 
@@ -5717,6 +5708,12 @@ Restrictions on commitments to guarantee obligations on eligible export vessels.
 (h)
 Risk categories.
 
+(i)
+Priority for national defense tank vessels.
+
+(j)
+Priority for other vessels suitable for service as a naval auxiliary.
+
 1273a.
 Certain loan guarantees and commitments.
 
@@ -5753,6 +5750,18 @@ Limitation on authority to establish uniform percentage limitations.
 (j)
 Guarantees for eligible export vessels.
 
+(k)
+Monitoring.
+
+(l)
+Review of applications.
+
+(m)
+Agreement with obligor.
+
+(n)
+Decision period.
+
 1274a.
 Authorization of Secretary to guarantee obligations arising from statutorily mandated change in standards for operation of vessels.
 
@@ -5786,6 +5795,9 @@ Cash payments; issuance of notes or obligations.
 (e)
 Actions against obligor.
 
+(f)
+Default response.
+
 1279a.
 Escrow fund.
 
@@ -5806,6 +5818,9 @@ Payment of income.
 
 (f)
 Terms of escrow agreement.
+
+(g)
+Payments required before disbursement.
 
 1279b.
 Deposit fund.
@@ -5890,6 +5905,9 @@ Advances to fund.
 
 1280a.
 Eligible shipyards.
+
+1280b.
+Annual report on program.
 
         
 
@@ -5999,7 +6017,7 @@ Commitment agreements.
 Places of training.
 
 (g)
-Bachelor of science degrees awarded.
+Degrees awarded.
 
 (h)
 Board of Visitors.
@@ -6060,6 +6078,9 @@ Enrollment; compensation; course of study and periods of training; uniforms.
 
 (c)
 Ranks, grades, and ratings same as for United States Coast Guard.
+
+(d)
+Awards and medals.
 
 1295f.
 Civilian nautical school.
@@ -7761,9 +7782,60 @@ Nothing in any amendment made by Pub. L. 86–518 to operate or be interpreted t
 
 §1158. Disposition of vessels transferred to Maritime Administration of Department of Transportation
 
+(a) Authority to scrap or sell obsolete vessels
+
 If the Secretary of Transportation shall determine that any vessel transferred to the Maritime Administration of the Department of Transportation by section 1112 of this Appendix, or hereafter acquired, is of insufficient value for commercial or military operation to warrant its further preservation, the Secretary of Transportation is authorized (1) to scrap said vessel, or (2) to sell such vessel for cash, after appraisement and due advertisement, and upon competitive sealed bids, either to citizens of the United States or to aliens: Provided, That the purchaser thereof shall enter into an undertaking with sureties approved by the Secretary of Transportation that such vessel shall not be operated in the foreign commerce of the United States at any time within the period of ten years after the date of the sale, in competition with any other vessel owned by a citizen or citizens of the United States and registered under the laws thereof.
 
-(June 29, 1936, ch. 858, title V, §508, 49 Stat. 2000; Pub. L. 97–31, §12(89), Aug. 6, 1981, 95 Stat. 161.)
+(b) Authority to convey vessels
+
+(1) In general
+
+Notwithstanding section 1160(j) of this Appendix, the Secretary of Transportation may convey the right, title, and interest of the United States Government in any vessel of the National Defense Reserve Fleet that has been identified by the Secretary as an obsolete vessel of insufficient value to warrant its further preservation, if—
+
+(A) the recipient is a non-profit organization, a State, Commonwealth, or possession of the United States or any municipal corporation or political subdivision thereof, or the District of Columbia;
+
+(B) the recipient agrees not to use, or allow others to use, the vessel for commercial transportation purposes;
+
+(C) the recipient agrees to make the vessel available to the Government whenever the Secretary indicates that it is needed by the Government;
+
+(D) the recipient agrees to hold the Government harmless for any claims arising from exposure to asbestos, polychlorinated biphenyls, lead paint, or other hazardous substances after conveyance of the vessel, except for claims arising from use of the vessel by the Government;
+
+(E) the recipient has a conveyance plan and a business plan that describes the intended use of the vessel, each of which have been submitted to and approved by the Secretary;
+
+(F) the recipient has provided proof, as determined by the Secretary, of resources sufficient to accomplish the transfer, necessary repairs and modifications, and initiation of the intended use of the vessel; and
+
+(G) the recipient agrees that when the recipient no longer requires the vessel for use as described in the business plan required under subparagraph (E)—
+
+(i) the recipient will, at the discretion of the Secretary, reconvey the vessel to the Government in good condition except for ordinary wear and tear; or
+
+(ii) if the Board of Trustees of the recipient has decided to dissolve the recipient according to the laws of the State in which the recipient is incorporated, then—
+
+(I) the recipient shall distribute the vessel, as an asset of the recipient, to a person that has been determined exempt from taxation under the provisions of section 501(c)(3) of title 26, or to the Federal Government or a State or local government for a public purpose; and
+
+(II) the vessel shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the recipient is located, for such purposes as the court shall determine, or to such organizations as the court shall determine are organized exclusively for public purposes.
+
+(2) Other equipment
+
+At the Secretary's discretion, additional equipment from other obsolete vessels of the National Defense Reserve Fleet may be conveyed to assist the recipient with maintenance, repairs, or modifications.
+
+(3) Additional terms
+
+The Secretary may require any additional terms the Secretary considers appropriate.
+
+(4) Delivery of vessel
+
+If conveyance is made under this subsection the vessel shall be delivered to the recipient at a time and place to be determined by the Secretary.
+The vessel shall be conveyed in an “as is” condition.
+
+(5) Limitations
+
+If at any time prior to delivery of the vessel to the recipient, the Secretary determines that a different disposition of a vessel would better serve the interests of the Government, the Secretary shall pursue the more favorable disposition of the obsolete vessel and shall not be liable for any damages that may result from an intended recipient's reliance upon a proposed transfer.
+
+(6) Reversion
+
+The Secretary shall include in any conveyance under this subsection terms under which all right, title, and interest conveyed by the Secretary shall revert to the United States if the Secretary determines the vessel has been used other than as described in the business plan required under paragraph (1)(E).
+
+(June 29, 1936, ch. 858, title V, §508, 49 Stat. 2000; Pub. L. 97–31, §12(89), Aug. 6, 1981, 95 Stat. 161; Pub. L. 108–136, div. C, title XXXV, §3512, Nov. 24, 2003, 117 Stat. 1789.)
 
 Transfer of Functions
 
@@ -7895,7 +7967,7 @@ Act May 14, 1940, ch. 201, §1, 54 Stat. 216, as extended by act June 16, 1942, 
 
 Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2218; title 16 section 5405; title 26 section 1061.
+This section is referred to in section 1158 of this Appendix; title 10 section 2218; title 16 section 5405; title 26 section 1061.
 
 §1161. Reserve funds for construction or acquisition of vessels; taxation
 
@@ -8009,9 +8081,13 @@ This section is referred to in title 26 sections 543, 1023, 1061.
 
 §1162. Limitation on restrictions
 
-Notwithstanding any other provision of law or contract, all restrictions and requirements under sections 1153, 1156, and 1212 of this Appendix applicable to a liner vessel constructed, reconstructed, or reconditioned with the aid of construction-differential subsidy shall terminate upon the expiration of the 25-year period beginning on the date of the original delivery of the vessel from the shipyard.
+(a) Except as provided in subsection (b) of this section, notwithstanding any other provision of law or contract, all restrictions and requirements under sections 1153, 1156, and 1212 of this Appendix applicable to a liner vessel constructed, reconstructed, or reconditioned with the aid of construction-differential subsidy shall terminate upon the expiration of the 25-year period beginning on the date of the original delivery of the vessel from the shipyard.
 
-(June 29, 1936, ch. 858, title V, §512, as added Pub. L. 104–239, §7, Oct. 8, 1996, 110 Stat. 3133.)
+(b)(1) Except as provided in paragraph (2), the restrictions and requirements of section 1156 of this Appendix shall terminate upon the expiration of the 20-year period beginning on the date of the original delivery of the vessel from the shipyard for operation of a vessel in any domestic trade in which it has operated at any time since 1996.
+
+(2) Paragraph (1) shall not affect any requirement to make payments under section 1156 of this Appendix.
+
+(June 29, 1936, ch. 858, title V, §512, as added Pub. L. 104–239, §7, Oct. 8, 1996, 110 Stat. 3133; amended Pub. L. 108–136, div. C, title XXXV, §3532(b), Nov. 24, 2003, 117 Stat. 1818.)
 
 SUBCHAPTER VI—VESSEL OPERATING ASSISTANCE PROGRAMS
 
@@ -8023,7 +8099,7 @@ Part A—Operating-Differential Subsidy Program
 
 Part Referred to in Other Sections
 
-This part is referred to in sections 808, 1187a, 1222, 1223 of this Appendix.
+This part is referred to in sections 1187a, 1222, 1223 of this Appendix.
 
 §1171. Subsidy authorized for operation of vessels in foreign trade or in off-season cruises
 
@@ -8370,7 +8446,7 @@ percentage is—
 
 (ii) by increasing the tax imposed by chapter 1 of such Code by the product of the amount of such withdrawal and the highest rate of tax specified in section 1 (section 11 in the case of a corporation) of such Code [26 U.S.C. 1, 11].
 
-With respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code [26 U.S.C. 1(h), 1201(a)] applies, the rate of tax taken into account under the preceding sentence shall not exceed 20 percent (34 percent in the case of a corporation).
+With respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code [26 U.S.C. 1(h), 1201(a)] applies, the rate of tax taken into account under the preceding sentence shall not exceed 15 percent (34 percent in the case of a corporation).
 
 (B) Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which did not reduce the taxpayer's liability for tax under chapter 1 [26 U.S.C. 1 et seq.] for any taxable year preceding the taxable year in which such withdrawal occurs—
 
@@ -8464,13 +8540,23 @@ Each report shall set forth the name and taxpayer identification number of each 
 
 (E) with respect to which a determination has been made during such calendar year that such person has failed to fulfill a substantial obligation under any capital construction fund agreement to which such person is a party.
 
-(June 29, 1936, ch. 858, title VI, §607, 49 Stat. 2005; June 23, 1938, ch. 600, §§23–28, 52 Stat. 960, 961; Aug. 4, 1939, ch. 417, §10, 53 Stat. 1185; July 17, 1952, ch. 939, §§17–19, 66 Stat. 764, 765; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 592; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, §6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; Pub. L. 91–469, §21(a), Oct. 21, 1970, 84 Stat. 1026; Pub. L. 93–116, Oct. 1, 1973, 87 Stat. 421; Pub. L. 97–31, §12(97), Aug. 6, 1981, 95 Stat. 162; Pub. L. 99–514, §2, title II, §261(d), (e), Oct. 22, 1986, 100 Stat. 2095, 2214; Pub. L. 100–647, title I, §1002(m)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11101(d)(7)(B), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835.)
+(June 29, 1936, ch. 858, title VI, §607, 49 Stat. 2005; June 23, 1938, ch. 600, §§23–28, 52 Stat. 960, 961; Aug. 4, 1939, ch. 417, §10, 53 Stat. 1185; July 17, 1952, ch. 939, §§17–19, 66 Stat. 764, 765; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 592; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, §6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; Pub. L. 91–469, §21(a), Oct. 21, 1970, 84 Stat. 1026; Pub. L. 93–116, Oct. 1, 1973, 87 Stat. 421; Pub. L. 97–31, §12(97), Aug. 6, 1981, 95 Stat. 162; Pub. L. 99–514, §2, title II, §261(d), (e), Oct. 22, 1986, 100 Stat. 2095, 2214; Pub. L. 100–647, title I, §1002(m)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11101(d)(7)(B), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(E), May 28, 2003, 117 Stat. 758.)
+
+Amendment of Section
+
+For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.
 
 References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (d)(1) and (h)(3), is classified generally to Title 26, Internal Revenue Code.
 
 Section 103, referred to in subsec. (e)(2)(D), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds.
+
+Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as a note under section 1 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 Merchant Marine Capital Construction Funds
 
@@ -8745,9 +8831,13 @@ Probably should be “sections”.
 
 Part B—Maritime Security Fleet Program
 
+Repeal of Part
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this part is repealed effective Oct. 1, 2005.
+
 Part Referred to in Other Sections
 
-This part is referred to in sections 808, 1185a, 1222, 1704 of this Appendix; title 46 section 12102.
+This part is referred to in sections 1185a, 1222, 1704 of this Appendix; title 46 sections 12102, 53101.
 
 §1187. Establishment of Fleet
 
@@ -8788,6 +8878,10 @@ except that the Secretary of Transportation may waive the application of clause 
 
 (June 29, 1936, ch. 858, title VI, §651, as added Pub. L. 104–239, §2(2), Oct. 8, 1996, 110 Stat. 3118.)
 
+Repeal of Section
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this section is repealed effective Oct. 1, 2005.
+
 Regulations
 
 Section 8 of Pub. L. 104–239 provided that:
@@ -8826,7 +8920,7 @@ Pub. L. 104–324, title XI, §1136(d), Oct. 19, 1996, 110 Stat. 3987, provided 
 
 Vessel Standards
 
-Pub. L. 104–324, title XI, §1137, Oct. 19, 1996, 110 Stat. 3988, provided that:
+Pub. L. 104–324, title XI, §1137, Oct. 19, 1996, 110 Stat. 3988, as amended by Pub. L. 108–136, div. C, title XXXV, §3534(b)(2), Nov. 24, 2003, 117 Stat. 1818, provided that:
 
 “(a) Certificate of Inspection.—A vessel used to provide transportation service as a common carrier which the Secretary of Transportation determines meets the criteria of section 651(b) of the Merchant Marine Act, 1936 [46 App. U.S.C. 1187(b)], but which on the date of enactment of this Act [Oct. 19, 1996] is not a documented vessel (as that term is defined in section 2101 of title 46, United States Code), shall be eligible for a certificate of inspection if the Secretary determines that—
 
@@ -8848,9 +8942,11 @@ Pub. L. 104–324, title XI, §1137, Oct. 19, 1996, 110 Stat. 3988, provided tha
 
 “(B) if the foreign classification society has offices and maintains records in the United States.”
 
+[Pub. L. 108–136, div. C, title XXXV, §§3534(b)(2), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that, effective Oct. 1, 2005, section 1137 of Pub. L. 104–324, set out above, is amended by striking “section 651(b) of the Merchant Marine Act, 1936” and inserting “section 53102(b) of title 46, United States Code”.]
+
 Section Referred to in Other Sections
 
-This section is referred to in sections 808, 1187a, 1187c of this Appendix.
+This section is referred to in sections 1187a, 1187c of this Appendix.
 
 §1187a. Operating agreements
 
@@ -9032,6 +9128,10 @@ The Secretary shall include in any operating agreement under this part a require
 
 (June 29, 1936, ch. 858, title VI, §652, as added Pub. L. 104–239, §2(2), Oct. 8, 1996, 110 Stat. 3119; amended Pub. L. 105–85, div. C, title XXXVI, §3603(b), Nov. 18, 1997, 111 Stat. 2075.)
 
+Repeal of Section
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this section is repealed effective Oct. 1, 2005.
+
 This section is referred to in sections 1187b, 1187c of this Appendix.
 
 §1187b. National security requirements
@@ -9107,6 +9207,10 @@ Any Emergency Preparedness Agreement entered into by a contractor shall supersed
 
 (June 29, 1936, ch. 858, title VI, §653, as added Pub. L. 104–239, §2(2), Oct. 8, 1996, 110 Stat. 3124; amended Pub. L. 105–85, div. C, title XXXVI, §3604, Nov. 18, 1997, 111 Stat. 2076.)
 
+Repeal of Section
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this section is repealed effective Oct. 1, 2005.
+
 This section is referred to in sections 1187a, 1222 of this Appendix.
 
 §1187c. Definitions
@@ -9144,11 +9248,19 @@ The term “United States-documented vessel” means a vessel documented under c
 
 (June 29, 1936, ch. 858, title VI, §654, as added Pub. L. 104–239, §2(2), Oct. 8, 1996, 110 Stat. 3126.)
 
+Repeal of Section
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this section is repealed effective Oct. 1, 2005.
+
 §1187d. Authorization of appropriations
 
 There are authorized to be appropriated for operating agreements under this part, to remain available until expended, $100,000,000 for fiscal year 1996 and such sums as may be necessary, not to exceed $100,000,000, for each fiscal year thereafter through fiscal year 2005.
 
 (June 29, 1936, ch. 858, title VI, §655, as added Pub. L. 104–239, §2(2), Oct. 8, 1996, 110 Stat. 3126.)
+
+Repeal of Section
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this section is repealed effective Oct. 1, 2005.
 
 Section Referred to in Other Sections
 
@@ -9247,6 +9359,10 @@ As used in this section:
 (B) an officer, director, agent, or other executive of a contractor or of a person referred to in subparagraph (A).
 
 (June 29, 1936, ch. 858, title VI, §656, as added Pub. L. 104–239, §4(a), Oct. 8, 1996, 110 Stat. 3127; amended Pub. L. 105–85, div. C, title XXXVI, §3603(a), Nov. 18, 1997, 111 Stat. 2075.)
+
+Repeal of Section
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this section is repealed effective Oct. 1, 2005.
 
 SUBCHAPTER VII—PRIVATE CHARTER OPERATION
 
@@ -9696,6 +9812,10 @@ The provisions of subsection (a) of this section shall not preclude a contractor
 
 (June 29, 1936, ch. 858, title VIII, §804, 49 Stat. 2012; June 23, 1938, ch. 600, §35, 52 Stat. 963; Pub. L. 91–469, §24, Oct. 21, 1970, 84 Stat. 1033; Pub. L. 96–470, title II, §201(b), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 97–31, §12(121), Aug. 6, 1981, 95 Stat. 164; Pub. L. 101–225, title III, §307(7), Dec. 12, 1989, 103 Stat. 1925; Pub. L. 104–239, §5(a), Oct. 8, 1996, 110 Stat. 3131.)
 
+Repeal of Section
+
+Pub. L. 108–136, div. C, title XXXV, §§3534(a)(2), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that this section is repealed effective Oct. 1, 2005.
+
 §1223. Forbidden practices relating to coastwise service, salaries, officers, and employees
 
 (a) Foreign trade subsidy contractor engaging in coastwise or intercoastal trade
@@ -9833,7 +9953,7 @@ Act Aug. 3, 1956, ch. 933, §3, 70 Stat. 988, provided that sales of fresh fruit
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1185, 1187a, 1187b, 1241e, 1241f, 1241j, 1241l, 1241q, 1241s of this Appendix; title 10 section 2350b; title 22 sections 2223, 2353, 2399d.
+This section is referred to in sections 1185, 1187a, 1187b, 1241e, 1241f, 1241j, 1241l, 1241q, 1241s of this Appendix; title 10 section 2350b; title 22 sections 2223, 2353, 2399d; title 46 sections 53106, 53107, 53108.
 
 §1241–1. Shipment of exports financed by Government in United States vessels
 
@@ -9874,7 +9994,7 @@ Section not affected by other requirements regarding transportation of certain c
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1187a, 1187b, 1241, 1241e, 1241j, 1241l of this Appendix.
+This section is referred to in sections 1187a, 1187b, 1241, 1241e, 1241j, 1241l of this Appendix; title 46 sections 53106, 53107.
 
 §1241a. Vessel operations revolving fund; establishment; uses; limitation
 
@@ -10037,7 +10157,7 @@ This section shall apply to any export activity of the Commodity Credit Corporat
 
 (1) The requirement for United States-flag transportation imposed by subsection (a) of this section shall be subject to the same terms and conditions as provided in section 1241(b) of this Appendix.
 
-(2) In order to provide for effective and equitable administration of the cargo preference laws the calendar year for the purpose of compliance with minimum percentage requirements shall be for 12 month periods commencing April 1, 1986.
+(2) In order to provide for effective and equitable administration of the cargo preference laws the calendar year for the purpose of compliance with minimum percentage requirements shall be for 12 month periods commencing April 1, 1986, the 18-month period beginning April 1, 2002, and the 12-month period beginning October 1, 2003, and each year thereafter.
 
 (3)(A) Subject to subparagraph (B), in administering sections 1241(b) and 1241f of this Appendix, and, subject to subparagraph (B) of this paragraph, consistent with those sections, the Commodity Credit Corporation shall take such steps as may be necessary and practicable without detriment to any port range to allocate, on the principle of lowest landed cost without regard to the country of documentation of the vessel, 25 percent of the bagged, processed, or fortified commodities furnished pursuant to title II of the Agricultural Trade Development and Assistance Act of 1954 [7 U.S.C. 1721 et seq.].
 
@@ -10063,7 +10183,7 @@ The Secretary shall prescribe such procedures by regulation, with notice and opp
 
 (2) In the event that a determination of the prevailing world market price of any other type of materials, goods, equipment, or service is required in order to determine whether a barter or exchange transaction is subject to subsection (b)(6) or (b)(7) of this section, such determination shall be made by the Secretary of Agriculture in consultation with the heads of other appropriate Federal agencies.
 
-(June 29, 1936, ch. 858, title IX, §901b, as added Pub. L. 99–198, title XI, §1142, Dec. 23, 1985, 99 Stat. 1491; amended Pub. L. 101–624, title XV, §1525, Nov. 28, 1990, 104 Stat. 3667; Pub. L. 104–239, §17, Oct. 8, 1996, 110 Stat. 3138; Pub. L. 105–385, title II, §212(b)(5), Nov. 13, 1998, 112 Stat. 3467.)
+(June 29, 1936, ch. 858, title IX, §901b, as added Pub. L. 99–198, title XI, §1142, Dec. 23, 1985, 99 Stat. 1491; amended Pub. L. 101–624, title XV, §1525, Nov. 28, 1990, 104 Stat. 3667; Pub. L. 104–239, §17, Oct. 8, 1996, 110 Stat. 3138; Pub. L. 105–385, title II, §212(b)(5), Nov. 13, 1998, 112 Stat. 3467; Pub. L. 108–136, div. C, title XXXV, §3514, Nov. 24, 2003, 117 Stat. 1792.)
 
 References in Text
 
@@ -10075,7 +10195,7 @@ The cargo preference laws, referred to in subsec. (c)(2), include act Mar. 26, 1
 The Shipping Act of 1984, referred to in subsec. (c)(3)(C)(ii), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, as amended, which is classified principally to chapter 36 (§1701 et seq.) of this Appendix.
 For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this Appendix and Tables.
 
-This section is referred to in sections 1187a, 1187b, 1241d, 1241e, 1241g, 1241h, 1241i, 1241j, 1241l, 1241o, 1241p, 1241s of this Appendix.
+This section is referred to in sections 1187a, 1187b, 1241d, 1241e, 1241g, 1241h, 1241i, 1241j, 1241l, 1241o, 1241p, 1241s of this Appendix; title 46 sections 53106, 53107.
 
 §1241g. Minimum tonnage
 
@@ -10594,7 +10714,7 @@ Act July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretati
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 865a, 1132, 1152, 1160, 1185a, 1187a, 1187b, 1222, 1241a, 1289 of this Appendix; title 46 sections 12111, 31329; title 50 sections 196, 197; title 50 App. section 1744.
+This section is referred to in sections 865a, 1132, 1152, 1160, 1185a, 1187a, 1187b, 1222, 1241a, 1289 of this Appendix; title 46 sections 12111, 31329, 53104; title 50 sections 196, 197; title 50 App. section 1744.
 
 §1242a. Maintenance of and adjustment of obligations with respect to essential vessels affected by Neutrality Act
 
@@ -10760,9 +10880,13 @@ As used in this subchapter—
 
 (e) The term “obligee” shall mean the holder of an obligation;
 
-(f) The term “actual cost” of a vessel as of any specified date means the aggregate, as determined by the Secretary, of (i) all amounts paid by or for the account of the obligor on or before that date, and (ii) all amounts which the obligor is then obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of such vessel;
+(f) Actual Cost Defined.—The term “actual cost” means the sum of—
 
-(g) The term “depreciated actual cost” of a vessel means the actual cost of the vessel depreciated on a straightline basis over the useful life of the vessel as determined by the Secretary, not to exceed twenty-five years from the date the vessel was delivered by the shipbuilder, or, if the vessel has been reconstructed or reconditioned, the actual cost of the vessel depreciated on a straightline basis from the date the vessel was delivered by the shipbuilder to the date of such reconstruction or reconditioning on the basis of the original useful life of the vessel and from the date of such reconstruction or reconditioning on a straightline basis and on the basis of a useful life of the vessel determined by the Secretary, plus all amounts paid or obligated to be paid for the reconstruction or reconditioning depreciated on a straightline basis and on the basis of a useful life of the vessel determined by the Secretary.
+(1) all amounts paid by or for the account of the obligor as of the date on which a determination is made under section 1279a(g)(1) of this Appendix; and
+
+(2) all amounts that the Secretary reasonably estimates that the obligor will become obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of the vessel, including guarantee fees that will become payable under section 1274(e) of this Appendix in connection with all obligations issued for construction, reconstruction, or reconditioning of the vessel or equipment to be delivered, and all obligations issued for the delivered vessel or equipment.1
+
+(g) The term “depreciated actual cost” of a vessel means the actual cost of the vessel depreciated on a straightline basis over the useful life of the vessel as determined by the Secretary, not to exceed twenty-five years from the date the vessel was delivered by the shipbuilder, or, if the vessel has been reconstructed or reconditioned, the actual cost of the vessel depreciated on a straightline basis from the date the vessel was delivered by the shipbuilder to the date of such reconstruction or reconditioning on the basis of the original useful life of the vessel and from the date of such reconstruction or reconditioning on a straightline basis and on the basis of a useful life of the vessel determined by the Secretary, plus all amounts paid or obligated to be paid for the reconstruction or reconditioning depreciated on a straightline basis and on the basis of a useful life of the vessel determined by the Secretary.1
 
 (h) The terms “construction,” “reconstruction,” or “reconditioning” shall include, but shall not be limited to, designing, inspecting, outfitting, and equipping;
 
@@ -10804,19 +10928,59 @@ but only if such structure, appurtenance, land, equipment, or vessel is owned by
 
 (l) The term “fishing vessel” has the meaning given such term by section 1802(11) 3 of title 16; and any reference in this subchapter to a vessel designed principally for commercial use in the fishing trade or industry shall be treated as a reference to a fishing vessel;
 
-(m) The term “United States” when used in a geographical context with respect to fishing vessels or fishery facilities includes all States referred to in subsection (k)(i) of this section.
+(m) The term “United States” when used in a geographical context with respect to fishing vessels or fishery facilities includes all States referred to in subsection (k)(i) of this section.1
 
-(n) The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishing facilities as provided by this subchapter, and the Secretary of Transportation with respect to all other vessels and general shipyard facilities (as defined in section 1279e(d)(3) of this Appendix).
+(n) The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishing facilities as provided by this subchapter, and the Secretary of Transportation with respect to all other vessels and general shipyard facilities (as defined in section 1279e(d)(3) of this Appendix).1
 
 (o) The term “eligible export vessel” means a vessel constructed, reconstructed, or reconditioned in the United States for use in world-wide trade which will, upon delivery or redelivery, be placed under or continued to be documented under the laws of a country other than the United States.
 
-(June 29, 1936, ch. 858, title XI, §1101, as added June 23, 1938, ch. 600, §46, 52 Stat. 969; amended Sept. 3, 1954, ch. 1265, §1, 68 Stat. 1267; Aug. 7, 1956, ch. 1026, §1(a), (b), 70 Stat. 1087; Pub. L. 86–127, §1(1), July 31, 1959, 73 Stat. 272; Pub. L. 86–685, §1, Sept. 2, 1960, 74 Stat. 733; Pub. L. 87–303, §2, Sept. 26, 1961, 75 Stat. 661; Pub. L. 91–469, §29, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 92–507, §1, Oct. 19, 1972, 86 Stat. 909; Pub. L. 96–320, title II, §202(a), Aug. 3, 1980, 94 Stat. 992; Pub. L. 96–561, title II, §§220(1), 238(b), Dec. 22, 1980, 94 Stat. 3291, 3300; Pub. L. 97–31, §12(135), Aug. 6, 1981, 95 Stat. 165; Pub. L. 100–710, title I, §104(d), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 102–567, title III, §304, Oct. 29, 1992, 106 Stat. 4283; Pub. L. 103–160, div. A, title XIII, §§1356(1), 1357(b), Nov. 30, 1993, 107 Stat. 1812, 1815; Pub. L. 104–208, div. A, title I, §101(a) [title II, §211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–239, §11(1), Oct. 8, 1996, 110 Stat. 3134.)
+(June 29, 1936, ch. 858, title XI, §1101, as added June 23, 1938, ch. 600, §46, 52 Stat. 969; amended Sept. 3, 1954, ch. 1265, §1, 68 Stat. 1267; Aug. 7, 1956, ch. 1026, §1(a), (b), 70 Stat. 1087; Pub. L. 86–127, §1(1), July 31, 1959, 73 Stat. 272; Pub. L. 86–685, §1, Sept. 2, 1960, 74 Stat. 733; Pub. L. 87–303, §2, Sept. 26, 1961, 75 Stat. 661; Pub. L. 91–469, §29, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 92–507, §1, Oct. 19, 1972, 86 Stat. 909; Pub. L. 96–320, title II, §202(a), Aug. 3, 1980, 94 Stat. 992; Pub. L. 96–561, title II, §§220(1), 238(b), Dec. 22, 1980, 94 Stat. 3291, 3300; Pub. L. 97–31, §12(135), Aug. 6, 1981, 95 Stat. 165; Pub. L. 100–710, title I, §104(d), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 102–567, title III, §304, Oct. 29, 1992, 106 Stat. 4283; Pub. L. 103–160, div. A, title XIII, §§1356(1), 1357(b), Nov. 30, 1993, 107 Stat. 1812, 1815; Pub. L. 104–208, div. A, title I, §101(a) [title II, §211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–239, §11(1), Oct. 8, 1996, 110 Stat. 3134; Pub. L. 108–136, div. C, title XXXV, §3521(b), Nov. 24, 2003, 117 Stat. 1799.)
 
 References in Text
 
 Section 1274(a) of this Appendix, referred to in subsec. (c), was in the original a reference to subsection (a) of section 1104 of this title, meaning section 1104 of title XI of the Merchant Marine Act, 1936, act June 29, 1936, ch. 858. Section 1104 of that Act was renumbered as section 1104A of that Act by Pub. L. 101–380, title IV, §4115(f)(1), Aug. 18, 1990, 104 Stat. 521.
 
 Section 1802 of title 16, referred to in subsec. (l), was subsequently amended, and section 1802(11) no longer defines the term “fishing vessel”. However, such term is defined elsewhere in that section.
+
+Regulations
+
+Pub. L. 103–160, div. A, title XIII, §1362, Nov. 30, 1993, 107 Stat. 1817, provided that:
+
+“(a) In General.—Within 90 days after the date of the enactment of this Act [Nov. 30, 1993], the Secretary of Transportation shall prescribe regulations as necessary to carry out the Secretary's responsibilities under this title [probably should be “subtitle” meaning subtitle D (§§1351–1363) of title XIII of div.
+A of Pub. L. 103–160, see Tables for classification] (including the amendments made by this title [subtitle]).
+
+“(b) Interim Regulations.—The Secretary of Transportation may prescribe interim regulations necessary to carry out this title [subtitle] and for accepting applications under title XI of the Merchant Marine Act, 1936 [46 App. U.S.C. 1271 et seq.], as amended by this title [subtitle]. For that purpose, the Secretary is excepted from compliance with the notice and comment requirements of section 553 of title 5, United States Code.
+All regulations prescribed under this subsection that are not earlier superseded by final rules shall expire 270 days after the date of the enactment of this Act.”
+
+Secretary of Commerce: Fishing Vessel Insurance
+
+Secretary of Commerce authorized to exercise authority in relation to issuance of insurance on fishing vessels comparable to authority of Secretary of Commerce under this subchapter, see note set out under section 1275 of this Appendix.
+
+Review of Program
+
+Pub. L. 108–136, div. C, title XXXV, §3528(a), Nov. 24, 2003, 117 Stat. 1802, provided that: “The Secretary of Transportation shall conduct a comprehensive assessment of the human capital and other resource needs in connection with the title XI loan guarantee program under the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.). In connection with this assessment, the Secretary shall develop an organizational framework for the program offices that insures that a clear separation of duties is established among the loan application, project monitoring, and default management functions.”
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 1274, 1274a, 1279c of this Appendix; title 30 section 1412.
+
+1 So in original.
+The period probably should be a semicolon.
+
+2 See References in Text note below.
+
+3 See References in Text note below.
+
+§1272. Federal Ship Financing Fund
+
+There is created a Federal Ship Financing Fund (hereinafter referred to as the Fund) which shall be used by the Secretary as a revolving fund for the purpose of carrying out the provisions of this subchapter, and there shall be allocated to such fund the sum of $1,000,000 out of funds made available to the Secretary under the appropriation authorized by section 1279 1 of this Appendix.
+Moneys in the Fund shall be deposited in the Treasury of the United States to the credit of the Fund or invested in bonds or other obligations of, or guaranteed as to principal and interest by, the United States.
+
+(June 29, 1936, ch. 858, title XI, §1102, as added June 23, 1938, ch. 600, §46, 52 Stat. 969; amended Sept. 3, 1954, ch. 1265, §2, 68 Stat. 1268; Pub. L. 86–123, §1(2), July 31, 1959, 73 Stat. 269; Pub. L. 92–507, §2, Oct. 19, 1972, 86 Stat. 910; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166.)
+
+References in Text
+
+Section 1279 of this Appendix, referred to in text, was repealed by Pub. L. 101–225, title III, §307(7), Dec. 12, 1989, 103 Stat. 1925.
 
 This section is referred to in sections 1271, 1274, 1274a, 1275, 1279c of this Appendix; title 16 section 742c–1.
 
@@ -10876,11 +11040,13 @@ the Secretary determines, in the sole discretion of the Secretary, that the issu
 
 (1) The Secretary shall—
 
-(A) establish in accordance with this subsection a system of risk categories for obligations guaranteed under this subchapter, that categorizes the relative risk of guarantees made under this subchapter with respect to the risk factors set forth in paragraph (3); and
+(A) establish in accordance with this subsection, and update annually, a system of risk categories for obligations guaranteed under this subchapter, that categorizes the relative risk of guarantees made under this subchapter with respect to the risk factors set forth in paragraph (3);
 
-(B) determine for each of the risk categories a subsidy rate equivalent to the cost of obligations in the category, expressed as a percentage of the amount guaranteed under this subchapter for obligations in the category.
+(B) annually determine for each of the risk categories a subsidy rate equivalent to the cost of obligations in the category, expressed as a percentage of the amount guaranteed under this subchapter for obligations in the category; and
 
-(2)(A) Before making a guarantee under this section for an obligation, the Secretary shall apply the risk factors set forth in paragraph (3) to place the obligation in a risk category established under paragraph (1)(A).
+(C) ensure that each risk category is comprised of loans that are relatively homogeneous in cost and share characteristics predictive of defaults and other costs, given the facts known at the time of obligation or commitment, using a risk category system that is based on historical analysis of program data and statistical evidence concerning the likely costs of defaults or other costs that expected to be associated with the loans in the category.
+
+(2)(A) Before making a guarantee under this section for an obligation, and annually for projects subject to a guarantee, the Secretary shall apply the risk factors set forth in paragraph (3) to place the obligation in a risk category established under paragraph (1)(A).
 
 (B) The Secretary shall consider the aggregate amount available to the Secretary for making guarantees under this subchapter to be reduced by the amount determined by multiplying—
 
@@ -10914,13 +11080,340 @@ the Secretary determines, in the sole discretion of the Secretary, that the issu
 
 (J) Whether a guarantee under this subchapter is or will be in effect during the construction period of the project.
 
+(K) A risk factor for concentration risk reflecting the risk presented by an unduly large percentage of loans outstanding by any 1 borrower or group of affiliated borrowers.
+
 (4) In this subsection, the term “cost” has the meaning given that term in section 661a of title 2.
 
-(June 29, 1936, ch. 858, title XI, §1103, as added June 23, 1938, ch. 600, §46, 52 Stat. 969; amended Aug. 15, 1953, ch. 513, §1, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §3, 68 Stat. 1268; June 25, 1956, ch. 438, 70 Stat. 332; Aug. 7, 1956, ch. 1026, §1(a), (c), (d), 70 Stat. 1087; Pub. L. 91–469, §30, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 910; Pub. L. 93–70, §3, July 10, 1973, 87 Stat. 168; Pub. L. 94–127, §5, Nov. 13, 1975, 89 Stat. 681; Pub. L. 95–298, §5, June 26, 1978, 92 Stat. 340; Pub. L. 96–320, title II, §203(b)(1), Aug. 3, 1980, 94 Stat. 994; Pub. L. 96–561, title II, §220(2), Dec. 22, 1980, 94 Stat. 3292; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1606(a), (b), Aug. 13, 1981, 95 Stat. 752; Pub. L. 97–424, title IV, §425, Jan. 6, 1983, 96 Stat. 2167; Pub. L. 98–595, §1(1), Oct. 30, 1984, 98 Stat. 3130; Pub. L. 99–509, title V, §5002, Oct. 21, 1986, 100 Stat. 1912; Pub. L. 103–160, div. A, title XIII, §1356(2), (5), Nov. 30, 1993, 107 Stat. 1812, 1814; Pub. L. 104–239, §13(a), Oct. 8, 1996, 110 Stat. 3134.)
+(i) Priority for national defense tank vessels
+
+In guaranteeing and entering commitments to guarantee under this section, the Secretary shall give priority to guarantees and commitments for vessels that are otherwise eligible for a guarantee under this section and that are constructed with assistance under subtitle D of the Maritime Security Act of 2003.
+
+(j) Priority for other vessels suitable for service as a naval auxiliary
+
+In guaranteeing and entering commitments to guarantee under this section, the Secretary shall, after applying subsection (i) of this section, give priority to a guarantee or commitment for a vessel that is otherwise eligible for a guarantee under this section and that the Secretary of Defense determines—
+
+(1) is suitable for service as a naval auxiliary in time of war or national emergency; and
+
+(2) meets a shortfall in sealift capacity or capability.
+
+(June 29, 1936, ch. 858, title XI, §1103, as added June 23, 1938, ch. 600, §46, 52 Stat. 969; amended Aug. 15, 1953, ch. 513, §1, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §3, 68 Stat. 1268; June 25, 1956, ch. 438, 70 Stat. 332; Aug. 7, 1956, ch. 1026, §1(a), (c), (d), 70 Stat. 1087; Pub. L. 91–469, §30, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 910; Pub. L. 93–70, §3, July 10, 1973, 87 Stat. 168; Pub. L. 94–127, §5, Nov. 13, 1975, 89 Stat. 681; Pub. L. 95–298, §5, June 26, 1978, 92 Stat. 340; Pub. L. 96–320, title II, §203(b)(1), Aug. 3, 1980, 94 Stat. 994; Pub. L. 96–561, title II, §220(2), Dec. 22, 1980, 94 Stat. 3292; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1606(a), (b), Aug. 13, 1981, 95 Stat. 752; Pub. L. 97–424, title IV, §425, Jan. 6, 1983, 96 Stat. 2167; Pub. L. 98–595, §1(1), Oct. 30, 1984, 98 Stat. 3130; Pub. L. 99–509, title V, §5002, Oct. 21, 1986, 100 Stat. 1912; Pub. L. 103–160, div. A, title XIII, §1356(2), (5), Nov. 30, 1993, 107 Stat. 1812, 1814; Pub. L. 104–239, §13(a), Oct. 8, 1996, 110 Stat. 3134; Pub. L. 108–136, div. A, title X, §1014(a), div. C, title XXXV, §§3528(b), 3544, Nov. 24, 2003, 117 Stat. 1591, 1802, 1822.)
 
 References in Text
 
 Section 1274 of this Appendix, referred to in subsec. (c), was in the original a reference to title XI of section 1104 of this title, meaning section 1104 of title XI of the Merchant Marine Act, 1936, act June 29, 1936, ch. 858. Section 1104 of that Act was renumbered as section 1104A of that Act by Pub. L. 101–380, title IV, §4115(f)(1), Aug. 18, 1990, 104 Stat. 521.
+
+The Maritime Security Act of 2003, referred to in subsec. (i), is title XXXV of div. C of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1788. Subtitle D of the Act amended this section and enacted provisions set out as notes under section 53101 of Title 46, Shipping.
+For complete classification of this Act to the Code, see Short Title note set out under section 53101 of Title 46 and Tables.
+
+Repeals
+
+Pub. L. 96–320, title II, §203(b), Aug. 3, 1980, 94 Stat. 994, cited as a credit to this section, which amended subsec. (f) of this section, effective Oct. 1, 1981, by increasing the aggregate unpaid principal amount of obligations guaranteed under this section to $12,000,000,000 of which $2,000,000,000 was to be limited to obligations pertaining to commercial demonstration ocean thermal energy conversion facilities or plantships guaranteed pursuant to section 1279c of this Appendix, was repealed by Pub. L. 97–35, title XVI, §1606(a), Aug. 13, 1981, 95 Stat. 752.
+
+Reactivation of Closed Shipyards
+
+Pub. L. 104–324, title XI, §1139, Oct. 19, 1996, 110 Stat. 3989, provided that:
+
+“(a) In General.—The Secretary may issue a guarantee or a commitment to guarantee obligations under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1271 et seq.), upon such terms as the Secretary may prescribe, to assist in the reactivation and modernization of any shipyard in the United States that is closed on the date of the enactment of this Act [Oct. 19, 1996], if the Secretary finds that—
+
+“(1) the closed shipyard historically built military vessels and responsible entities now seek to reopen it as an internationally competitive commercial shipyard;
+
+“(2)(A) the closed shipyard has been designated by the President as a public-private partnership project; or
+
+“(B) has a reuse plan approved by the Navy in which commercial shipbuilding and repair are primary activities and has a revolving economic conversion fund approved by the Department of Defense; and
+
+“(3) the State in which the shipyard is located, and each other involved State, or a State-chartered agency, is making a significant financial investment in the overall cost of reactivation and modernization as its contribution to the reactivation and modernization project, in addition to the funds required by subsection (d)(2) of this section.
+
+“(b) Waivers.—Notwithstanding any other provision of title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1271 et seq.), the Secretary shall not apply the requirements of section 1104A(d) of that Act [46 App. U.S.C. 1274(d)] when issuing a guarantee or a commitment to guarantee an obligation under this section.
+
+“(c) Conditions.—The Secretary shall impose such conditions on the issuance of a guarantee or a commitment to guarantee under this section as are necessary to protect the interests of the United States from the risk of a default.
+The Secretary shall consider the interdependency of such shipyard modernization and reactivation projects and related vessel loan guarantee requests pending under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1271 et seq.) before issuing a guarantee or a commitment to guarantee under this section.
+
+“(d) Funding Provisions.—
+
+“(1) The Secretary may not guarantee or commit to guarantee obligations under this section that exceed $100,000,000 in the aggregate.
+
+“(2) The amount of appropriated funds required by the Federal Credit Reform Act of 1990 (2 U.S.C. 661a et seq.) [2 U.S.C. 661 et seq.] in advance of the Secretary's issuance of a guarantee or a commitment to guarantee under this section shall be provided by the State in which the shipyard is located, and other involved States, or by a State-chartered agency, and deposited by the Secretary in the financing account established under the Federal Credit Reform Act of 1990 (2 U.S.C. 661a et seq.) for loan guarantees issued by the Secretary under title XI of the Merchant Marine Act of 1936 (46 App. U.S.C. 1271 et seq.). No federally appropriated funds shall be available for this purpose.
+The funds deposited into that financing account shall be held and applied by the Secretary in accordance with the provisions of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a et seq.), except that, unless the Secretary shall have earlier paid an obligee or been required to pay an obligee pursuant to the terms of a loan guarantee, the funds deposited in that financing account shall be returned, upon the expiration of the Secretary's loan guarantee, to the State, States, or State-chartered agency which originally provided the funds to the Secretary.
+
+“(3) Notwithstanding the provisions of any other law or regulation, the cost (as that term is defined by the Federal Credit Reform Act of 1990 (2 U.S.C. 661a et seq.)) of a guarantee or commitment to guarantee issued under this section—
+
+“(A) may only be determined with reference to the merits of the specific closed shipyard reactivation project which is the subject of that guarantee or commitment to guarantee, without reference to any other project, type of project, or averaged risk; and
+
+“(B) may not be used in determining the cost of any other project, type of project, or averaged risk applicable to guarantees or commitments to guarantee issued under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1271 et seq.).
+
+“(e) Sunset.—No commitment to guarantee obligations under this section shall be issued by the Secretary after one year after the date of enactment of this section [Oct. 19, 1996].
+
+“(f) Definition.—As used in this section, the term ‘Secretary’ means the Secretary of Transportation.”
+
+Similar provisions were contained in the following prior appropriation Act:
+
+Pub. L. 104–208, div. A, title I, §101(a) [title VI, §618], Sept. 30, 1996, 110 Stat. 3009, 3009–68.
+
+Election of Coverage
+
+Section 7 of Pub. L. 92–507 provided that: “Any citizen of the United States to whom the Secretary of Commerce issued an approval in principle of an application for loan or mortgage insurance or a commitment with respect to such insurance under the provisions of title XI of the Merchant Marine Act, 1936 [this subchapter], prior to the effective date of this Act [Oct. 19, 1972] may elect, with respect to the vessels covered by such approval or commitment, to be bound either by the provisions of title XI of the Merchant Marine Act, 1936 [this subchapter], as in effect prior to the effective date of this Act [Oct. 19, 1972] or by the provisions of this Act [see Short Title of 1972 Amendment note under section 1245 of this Appendix].”
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 1274, 1274a, 1279c, 1279e of this Appendix.
+
+1 See References in Text note below.
+
+§1273a. Certain loan guarantees and commitments
+
+(a) The Secretary of Transportation may not issue a guarantee or commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a liner vessel under the authority of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.) after October 14, 1998, unless the Chairman of the Federal Maritime Commission certifies that the operator of such vessel—
+
+(1) has not been found by the Commission to have violated section 19 of the Merchant Marine Act, 1920 (46 U.S.C. App. 876), or the Foreign Shipping Practices Act of 1988 [46 App. U.S.C. 1710a], within the previous 5 years; and
+
+(2) has not been found by the Commission to have committed a violation of the Shipping Act of 1984 (46 U.S.C. App. 1701 et seq.), which involves unjust or unfair discriminatory treatment or undue or unreasonable prejudice or disadvantage with respect to a United States shipper, ocean transportation intermediary, ocean common carrier, or port within the previous 5 years.
+
+(b) The Secretary of Commerce may not issue a guarantee or a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a fishing vessel under the authority of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.) if the fishing vessel operator has been—
+
+(1) held liable or liable in rem for a civil penalty pursuant to section 1858 of title 16 and not paid the penalty;
+
+(2) found guilty of an offense pursuant to section 1859 of title 16 and not paid the assessed fine or served the assessed sentence;
+
+(3) held liable for a civil or criminal penalty pursuant to section 1375 of title 16 and not paid the assessed fine or served the assessed sentence; or
+
+(4) held liable for a civil penalty by the Coast Guard pursuant to title 33 or 46 and not paid the assessed fine.
+
+(Pub. L. 105–258, title IV, §401, Oct. 14, 1998, 112 Stat. 1916.)
+
+References in Text
+
+The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended.
+Title XI of the Act is classified generally to this subchapter (§1271 et seq.). For complete classification of this Act to the Code, see section 1245 of this Appendix and Tables.
+
+The Foreign Shipping Practices Act of 1988, referred to in subsec. (a)(1), is subtitle A (§§10001–10003) of Pub. L. 100–418, title X, Aug. 23, 1988, 102 Stat. 1570, which enacted section 1710a of this Appendix, amended section 1122b of this Appendix, and enacted provisions set out as a note under section 3302 of Title 46, Shipping.
+For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1701 of this Appendix and Tables.
+
+The Shipping Act of 1984, referred to in subsec. (a)(2), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, as amended, which is classified principally to chapter 36 (§1701 et seq.) of this Appendix.
+For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this Appendix and Tables.
+
+Codification
+
+Section was enacted as part of the Ocean Shipping Reform Act of 1998, and not as part of the Merchant Marine Act, 1936, which comprises this chapter.
+
+Effective Date
+
+Section effective May 1, 1999, see section 2 of Pub. L. 105–258, set out as an Effective Date of 1998 Amendment note under section 1701 of this Appendix.
+
+Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+§1274. Eligibility for guarantee
+
+(a) Purpose of obligations
+
+Pursuant to the authority granted under section 1273(a) of this Appendix, the Secretary, upon such terms as he shall prescribe, may guarantee or make a commitment to guarantee, payment of the principal of and interest on an obligation which aids in—
+
+(1) financing, including reimbursement of an obligor for expenditures previously made for, construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel), which is designed principally for research, or for commercial use (A) in the coastwise or intercoastal trade; (B) on the Great Lakes, or on bays, sounds, rivers, harbors, or inland lakes of the United States; (C) in foreign trade as defined in section 1244 of this Appendix for purposes of subchapter V of this chapter; or (D) as an ocean thermal energy conversion facility or plantship; (E) with respect to floating drydocks in the construction, reconstruction, reconditioning, or repair of vessels; or (F) with respect to an eligible export vessel, in world-wide trade; 1 Provided, however, That no guarantee shall be entered into pursuant to this paragraph (a)(1) later than one year after delivery, or redelivery in the case of reconstruction or reconditioning of any such vessel unless the proceeds of the obligation are used to finance the construction, reconstruction, or reconditioning of a vessel or vessels, or facilities or equipment pertaining to marine operations;
+
+(2) financing, including reimbursement of an obligor for expenditures previously made for, construction, reconstruction, reconditioning, or purchase of a vessel or vessels owned by citizens or nationals of the United States or citizens of the Northern Mariana Islands which are designed principally for research, or for commercial use in the fishing trade or industry;
+
+(3) financing the purchase, reconstruction, or reconditioning of vessels or fishery facilities for which obligations were guaranteed under this subchapter that, under the provisions of section 1275 of this Appendix:
+
+(A) are vessels or fishery facilities for which obligations were accelerated and paid;
+
+(B) were acquired by the Fund; or
+
+(C) were sold at foreclosure instituted by the Secretary;
+
+(4) financing, in whole or in part, the repayment to the United States of any amount of construction-differential subsidy paid with respect to a vessel pursuant to subchapter V of this chapter;
+
+(5) refinancing existing obligations issued for one of the purposes specified in (1), (2), (3), or (4) whether or not guaranteed under this subchapter, including, but not limited to, short-term obligations incurred for the purpose of obtaining temporary funds with the view to refinancing from time to time;
+
+(6) financing or refinancing, including, but not limited to, the reimbursement of obligors for expenditures previously made for, the construction, reconstruction, reconditioning, or purchase of fishery facilities; or
+
+(7) financing or refinancing, including, but not limited to, the reimbursement of obligors for expenditures previously made, for the purchase of individual fishing quotas in accordance with section 1853(d)(4) of title 16.
+
+Any obligation guaranteed under paragraphs (6) and (7) shall be treated, for purposes of this subchapter in the same manner and to the same extent as an obligation guaranteed under this subchapter which aids in the construction, reconstruction, reconditioning, or purchase of a vessel; except with respect to provisions of this subchapter that by their nature can only be applied to vessels.
+
+(b) Contents of obligations
+
+Obligations guaranteed under this subchapter—
+
+(1) shall have an obligor approved by the Secretary as responsible and possessing the ability, experience, financial resources, and other qualifications necessary to the adequate operation and maintenance of the vessel or vessels which serve as security for the guarantee of the Secretary;
+
+(2) subject to the provisions of subsection (c)(1) of this section and subsection (i) of this section, shall be in an aggregate principal amount which does not exceed 75 per centum of the actual cost or depreciated actual cost, as determined by the Secretary, of the vessel which is used as security for the guarantee of the Secretary: Provided, however, That in the case of a vessel, the size and speed of which are approved by the Secretary; and which is or would have been eligible for mortgage aid for construction under section 1159 of this Appendix (or would have been eligible for mortgage aid under section 1159 of this Appendix except that the vessel was built with the aid of construction-differential subsidy and said subsidy has been repaid) and in respect of which the minimum downpayment by the mortgagor required by that section would be or would have been 12½ per centum of the cost of such vessel, such obligations may be in an amount which does not exceed 87½ per centum of such actual cost or depreciated actual cost: Provided, further, That the obligations which relate to a barge which is constructed without the aid of construction-differential subsidy, or, if so subsidized, on which said subsidy has been repaid, may be in an aggregate principal amount which does not exceed 87½ per centum of the actual cost or depreciated actual cost thereof: Provided further, That in the case of a fishing vessel or fishery facility, the obligation shall be in an aggregate principal amount not to exceed 80 percent of the actual cost or depreciated actual cost of the fishing vessel or fishery facility, except that no debt may be placed under this proviso through the Federal Financing Bank: Provided further, That in the case of an ocean thermal energy conversion facility or plantship which is constructed without the aid of construction-differential subsidy, such obligations may be in an aggregate principal amount which does not exceed 87½ percent of the actual cost or depreciated actual cost of the facility or plantship: Provided further, That in the case of an eligible export vessel, such obligations may be in an aggregate principal amount which does not exceed 87½ of the actual cost or depreciated actual cost of the eligible export vessel;
+
+(3) shall have maturity dates satisfactory to the Secretary but, subject to the provisions of paragraph (2) of subsection (c) of this section, not to exceed twenty-five years from the date of the delivery of the vessel which serves as security for the guarantee of the Secretary or, if the vessel has been reconstructed or reconditioned, not to exceed the later of (i) twenty-five years from the date of delivery of the vessel and (ii) the remaining years of the useful life of the vessel as determined by the Secretary;
+
+(4) shall provide for payments by the obligor satisfactory to the Secretary;
+
+(5) shall bear interest (exclusive of charges for the guarantee and service charges, if any) at rates not to exceed such per centum per annum on the unpaid principal as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the Secretary;
+
+(6) shall provide, or a related agreement shall provide, that if the vessel used as security for the guarantee of the Secretary is a delivered vessel, the vessel shall be in class A–1, American Bureau of Shipping, or shall meet such other standards as may be acceptable to the Secretary, with all required certificates, including but not limited to, marine inspection certificates of the United States Coast Guard or, in the case of an eligible export vessel, of the appropriate national flag authorities under a treaty, convention, or other international agreement to which the United States is a party, with all outstanding requirements and recommendations necessary for retention of class accomplished, unless the Secretary permits a deferment of such repairs, and shall be tight, stanch, strong, and well and sufficiently tackled, appareled, furnished, and equipped, and in every respect seaworthy and in good running condition and repair, and in all respects fit for service; and
+
+(7) may provide, or a related agreement may provide, if the vessel used as security for the guarantee of the Secretary is a passenger vessel having the tonnage, speed, passenger accommodations and other characteristics set forth in subchapter V of this chapter, and if the Secretary approves, that the sole recourse against the obligor by the United States for any payments under the guarantee shall be limited to repossession of the vessel and the assignment of insurance claims and that the liability of the obligor for any payments of principal and interest under the guarantee shall be satisfied and discharged by the surrender of the vessel and all right, title, and interest therein to the United States: Provided, That the vessel upon surrender shall be (i) free and clear of all liens and encumbrances whatsoever except the security interest conveyed to the Secretary under this subchapter, (ii) in class, and (iii) in as good order and condition, ordinary wear and tear excepted, as when acquired by the obligor, except that any deficiencies with respect to freedom from encumbrances, condition and class may, to the extent covered by valid policies of insurance, be satisfied by the assignment to the Secretary of claims of the obligor under such policies.
+
+The Secretary may not establish, as a condition of eligibility for guarantee under this subchapter, a minimum principal amount for an obligation covering the reconstruction or reconditioning of a fishing vessel or fishery facility.
+For purposes of this subchapter, the reconstruction or reconditioning of a fishing vessel or fishery facility does not include the routine minor repair of maintenance of the vessel or facility.
+
+(c) Security
+
+(1) The security for the guarantee of an obligation by the Secretary under this subchapter may relate to more than one vessel and may consist of any combination of types of security.
+The aggregate principal amount of obligations which have more than one vessel as security for the guarantee of the Secretary under this subchapter may equal, but not exceed, the sum of the principal amount of obligations permissible with respect to each vessel.
+
+(2) If the security for the guarantee of an obligation by the Secretary under this subchapter relates to more than one vessel, such obligation may have the latest maturity date permissible under subsection (b) of this section with respect to any of such vessels: Provided, That the Secretary may require such payments of principal, prior to maturity, with respect to all related obligations as he deems necessary in order to maintain adequate security for his guarantee.
+
+(d) Restrictions
+
+(1)(A) No commitment to guarantee, or guarantee of, an obligation shall be made by the Secretary of Transportation unless the Secretary finds that the property or project with respect to which the obligation will be executed will be economically sound.
+In making that determination, the Secretary shall consider—
+
+(i) the need in the particular segment of the maritime industry for new or additional capacity, including any impact on existing equipment for which a guarantee under this subchapter is in effect;
+
+(ii) the market potential for the employment of the vessel over the life of the guarantee;
+
+(iii) projected revenues and expenses associated with employment of the vessel;
+
+(iv) any charters, contracts of affreightment, transportation agreements, or similar agreements or undertakings relevant to the employment of the vessel;
+
+(v) other relevant criteria; and
+
+(vi) for inland waterways, the need for technical improvements, including but not limited to increased fuel efficiency, or improved safety.
+
+(B) No commitment to guarantee, or guarantee of, an obligation shall be made by the Secretary of Commerce unless the Secretary finds, at or prior to the time such commitment is made or guarantee becomes effective, that the property or project with respect to which the obligation will be executed will be, in the Secretary's opinion, economically sound and in the case of fishing vessels, that the purpose of the financing or refinancing is consistent with the wise use of the fisheries resources and with the development, advancement, management, conservation, and protection of the fisheries resources, or with the need for technical improvements including but not limited to increased fuel efficiency or improved safety.
+
+(2) No commitment to guarantee, or guarantee of an obligation may be made by the Secretary under this subchapter for the purchase of a used fishing vessel or used fishery facility unless—
+
+(A) the vessel or facility will be reconstructed or reconditioned in the United States and will contribute to the development of the United States fishing industry; or
+
+(B) the vessel or facility will be used in the harvesting of fish from, or for a purpose described in section 1271(k) of this Appendix with respect to, an underutilized fishery.
+
+(3) No commitment to guarantee, or guarantee of an obligation may be made by the Secretary under this subchapter for the construction, reconstruction, or reconditioning of an eligible export vessel unless—
+
+(A) the Secretary finds that the construction, reconstruction, or reconditioning of that vessel will aid in the transition of United States shipyards to commercial activities or will preserve shipbuilding assets that would be essential in time of war or national emergency, and
+
+(B) the owner of the vessel agrees with the Secretary of Transportation that the vessel shall not be transferred to any country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
+
+(4) The Secretary shall promulgate regulations concerning circumstances under which waivers of or exceptions to otherwise applicable regulatory requirements concerning financial condition can be made.
+The regulations shall require that—
+
+(A) the economic soundness requirements set forth in paragraph (1)(A) of this subsection are met after the waiver of the financial condition requirement; and
+
+(B) the waiver shall provide for the imposition of other requirements on the obligor designed to compensate for the increased risk associated with the obligor's failure to meet regulatory requirements applicable to financial condition.
+
+(e) Guarantee fees
+
+(1) Except as otherwise provided in this subsection, the Secretary shall prescribe regulations to assess in accordance with this subsection a fee for the guarantee of an obligation under this subchapter.
+
+(2)(A) The amount of a fee under this subsection for a guarantee is equal to the sum determined by adding the amounts determined under subparagraph (B) for the years in which the guarantee is in effect.
+
+(B) The amount referred to in subparagraph (A) for a year is the present value (determined by applying the discount rate determined under subparagraph (F)) of the amount determined by multiplying—
+
+(i) the estimated average unpaid principal amount of the obligation that will be outstanding during the year (determined in accordance with subparagraph (E)), by
+
+(ii) the fee rate established under subparagraph (C) for the obligation for each year.
+
+(C) The fee rate referred to in subparagraph (B)(ii) for an obligation shall be—
+
+(i) in the case of an obligation for a delivered vessel or equipment, not less than one-half of 1 percent and not more than 1 percent, determined by the Secretary for the obligation under the formula established under subparagraph (D); or
+
+(ii) in the case of an obligation for a vessel to be constructed, reconstructed, or reconditioned, or of equipment to be delivered, not less than one-quarter of 1 percent and not more than one-half of 1 percent, determined by the Secretary for the obligation under the formula established under subparagraph (D).
+
+(D) The Secretary shall establish a formula for determining the fee rate for an obligation for purposes of subparagraph (C), that—
+
+(i) is a sliding scale based on the creditworthiness of the obligor;
+
+(ii) takes into account the security provided for a guarantee under this subchapter for the obligation; and
+
+(iii) uses—
+
+(I) in the case of the most creditworthy obligors, the lowest rate authorized under subparagraph (C)(i) or (ii), as applicable; and
+
+(II) in the case of the least creditworthy obligors, the highest rate authorized under subparagraph (C)(i) or (ii), as applicable.
+
+(E) For purposes of subparagraph (B)(i), the estimated average unpaid principal amount does not include the average amount (except interest) on deposit in a year in the escrow fund under section 1279a of this Appendix.
+
+(F) For purposes of determining present value under subparagraph (B) for an obligation, the Secretary shall apply a discount rate determined by the Secretary of the Treasury taking into consideration current market yields on outstanding obligations of the United States having periods to maturity comparable to the period to maturity for the obligation with respect to which the determination of present value is made.
+
+(3) A fee under this subsection shall be assessed and collected not later than the date on which amounts are first paid under an obligation with respect to which the fee is assessed.
+
+(4) A fee paid under this subsection is not refundable.
+However, an obligor shall receive credit for the amount paid for the remaining term of the guaranteed obligation if the obligation is refinanced and guaranteed under this subchapter after such refinancing.
+
+(5) A fee paid under subsection (e) of this section shall be included in the amount of the actual cost of the obligation guaranteed under this subchapter and is eligible to be financed under this subchapter.
+
+(f) Investigation of applications
+
+(1) The Secretary shall charge and collect from the obligor such amounts as he may deem reasonable for the investigation of applications for a guarantee, for the appraisal of properties offered as security for a guarantee, for the issuance of commitments, for services in connection with the escrow fund authorized by section 1279a of this Appendix and for the inspection of such properties during construction, reconstruction, or reconditioning: Provided, That such charges shall not aggregate more than one-half of 1 per centum of the original principal amount of the obligations to be guaranteed.
+
+(2) The Secretary may make a determination that aspects of an application under this subchapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, financial structures, or other risk factors identified by the Secretary.
+Any independent analysis conducted pursuant to this provision shall be performed by a party chosen by the Secretary.
+
+(3) Notwithstanding any other provision of this subchapter, the Secretary may make a determination that an application under this subchapter requires additional equity because of increased risk factors associated with markets, technology, financial structures, or other risk factors identified by the Secretary.
+
+(4) The Secretary may charge and collect fees to cover the costs of independent analysis under paragraph (2). Notwithstanding section 3302 of title 31, any fee collected under this paragraph shall—
+
+(A) be credit as an offsetting collection to the account that finances the administration of the loan guarantee program;
+
+(B) shall 2 be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+
+(C) shall 2 remain available until expended.
+
+(g) Disposition of moneys
+
+All moneys received by the Secretary under the provisions of sections 1271 to 1276 and 1279 3 of this Appendix shall be deposited in the Fund.
+
+(h) Additional requirements
+
+Obligations guaranteed under this subchapter and agreements relating thereto shall contain such other provisions with respect to the protection of the security interests of the United States (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary), liens and releases of liens, payments of taxes, and such other matters as the Secretary may, in his discretion, prescribe.
+
+(i) Limitation on authority to establish uniform percentage limitations
+
+The Secretary may not, with respect to—
+
+(1) the general 75 percent or less limitation in subsection (b)(2) of this section;
+
+(2) the 87½ percent or less limitation in the 1st, 2nd, 4th, or 5th proviso to subsection (b)(2) of this section or section 1279e(b) of this Appendix; or
+
+(3) the 80 percent or less limitation in the 3rd proviso to such subsection;
+
+establish by rule, regulation, or procedure any percentage within any such limitation that is, or is intended to be, applied uniformly to all guarantees or commitments to guarantee made under this section that are subject to the limitation.
+
+(j) Guarantees for eligible export vessels
+
+(1) Upon receiving an application for a loan guarantee for an eligible export vessel, the Secretary shall promptly provide to the Secretary of Defense notice of the receipt of the application.
+During the 30-day period beginning on the date on which the Secretary of Defense receives such notice, the Secretary of Defense may disapprove the loan guarantee based on the assessment of the Secretary of the potential use of the vessel in a manner that may cause harm to United States national security interests.
+The Secretary of Defense may not disapprove a loan guarantee under this section solely on the basis of the type of vessel to be constructed with the loan guarantee.
+The authority of the Secretary to disapprove a loan guarantee under this section may not be delegated to any official other than a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.
+
+(2) The Secretary of Transportation may not make a loan guarantee disapproved by the Secretary of Defense under paragraph (1).
+
+(k) Monitoring
+
+The Secretary shall monitor the financial conditions and operations of the obligor on a regular basis during the term of the guarantee.
+The Secretary shall document the results of the monitoring on an annual or quarterly basis depending upon the condition of the obligor.
+If the Secretary determines that the financial condition of the obligor warrants additional protections to the Secretary, then the Secretary shall take appropriate action under subsection (m) of this section.
+If the Secretary determines that the financial condition of the obligor jeopardizes its continued ability to perform its responsibilities in connection with the guarantee of obligations by the Secretary, the Secretary shall make an immediate determination whether default should take place and whether further measures described in subsection (m) of this section should be taken to protect the interests of the Secretary while insuring that program objectives are met.
+
+(l) Review of applications
+
+No commitment to guarantee, or guarantee of, an obligation shall be made by the Secretary unless the Secretary certifies that a full and fair consideration of all the regulatory requirements, including economic soundness and financial requirements applicable to obligors and related parties, and a thorough assessment of the technical, economic, and financial aspects of the loan application has been made.
+
+(m) Agreement with obligor
+
+The Secretary shall include provisions in loan agreements with obligors that provide additional authority to the Secretary to take action to limit potential losses in connection with defaulted loans or loans that are in jeopardy due to the deteriorating financial condition of obligors.
+Provisions that the Secretary shall include in loan agreements include requirements for additional collateral or greater equity contributions that are effective upon the occurrence of verifiable conditions relating to the obligors financial condition or the status of the vessel or shipyard project.
+
+(n) Decision period
+
+(1) In general
+
+The Secretary of Transportation shall approve or deny an application for a loan guarantee under this subchapter within 270 days after the date on which the signed application is received by the Secretary.
+
+(2) Extension
+
+Upon request by an applicant, the Secretary may extend the 270-day period in paragraph (1) to a date not later than 2 years after the date on which the signed application for the loan guarantee was received by the Secretary.
+
+(June 29, 1936, ch. 858, title XI, §1104A, formerly §1104, as added June 23, 1938, ch. 600, §46, 52 Stat. 970; amended Aug. 4, 1939, ch. 417, §14, 53 Stat. 1187; Sept. 28, 1950, ch. 1093, §4, 64 Stat. 1078; Aug. 15, 1953, ch. 513, §2, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §4, 68 Stat. 1269; Pub. L. 86–123, §§1(3), 2, July 31, 1959, 73 Stat. 269, 271; Pub. L. 86–127, §1(3), (4), July 31, 1959, 73 Stat. 273; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 86–685, §§2, 3, Sept. 2, 1960, 74 Stat. 733; Pub. L. 90–341, June 15, 1968, 82 Stat. 180; Pub. L. 91–469, §§31, 32, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 910; Pub. L. 95–257, Apr. 7, 1978, 92 Stat. 194; Pub. L. 96–320, title II, §202(b), (c), Aug. 3, 1980, 94 Stat. 992; Pub. L. 96–561, title II, §220(3), Dec. 22, 1980, 94 Stat. 3292; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1606(c), (d), Aug. 13, 1981, 95 Stat. 752; Pub. L. 98–595, §1(2)–(7), (12), Oct. 30, 1984, 98 Stat. 3130, 3131; Pub. L. 99–509, title V, §5003, Oct. 21, 1986, 100 Stat. 1912; renumbered §1104A, Pub. L. 101–380, title IV, §4115(f)(1), Aug. 18, 1990, 104 Stat. 521; Pub. L. 103–160, div. A, title XIII, §1356(3), Nov. 30, 1993, 107 Stat. 1813; Pub. L. 104–208, div. A, title I, §101(a) [title II, §211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–239, §13(c), Oct. 8, 1996, 110 Stat. 3136; Pub. L. 104–297, title III, §302(a), Oct. 11, 1996, 110 Stat. 3615; Pub. L. 107–314, div. C, title XXXV, §3503, Dec. 2, 2002, 116 Stat. 2753; Pub. L. 108–136, div. C, title XXXV, §§3522, 3523, 3525, 3526, Nov. 24, 2003, 117 Stat. 1800, 1801.)
+
+References in Text
+
+Sections 1276 and 1279 of this Appendix, referred to in subsec. (g), were repealed by Pub. L. 101–225, title III, §307(7), Dec. 12, 1989, 103 Stat. 1925.
 
 Transfer of Functions
 
@@ -10952,7 +11445,10 @@ This section is referred to in sections 1271, 1273, 1274a, 1279a, 1279c of this 
 1 So in original.
 The semicolon probably should be a colon.
 
-2 See References in Text note below.
+2 So in original.
+The word “shall” probably should not appear.
+
+3 See References in Text note below.
 
 §1274a. Authorization of Secretary to guarantee obligations arising from statutorily mandated change in standards for operation of vessels
 
@@ -11054,7 +11550,19 @@ Any suit may be brought in the name of the United States or in the name of the o
 The Secretary shall have the right, in his discretion, to accept a conveyance of title to and possession of property from the obligor or other parties liable to the Secretary, and may purchase the property for an amount not greater than the unpaid principal amount of such obligation and interest thereon.
 In the event that the Secretary shall receive through the sale of property an amount of cash in excess of the unpaid principal amount of the obligation and unpaid interest on the obligation and the expenses of collection of those amounts, the Secretary shall pay the excess to the obligor.
 
-(June 29, 1936, ch. 858, title XI, §1105, as added June 23, 1938, ch. 600, §46, 52 Stat. 971; amended Aug. 15, 1953, ch. 513, §3, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §5, 68 Stat. 1272; Aug. 7, 1956, ch. 1026, §1(e)–(g), 70 Stat. 1087; Pub. L. 85–520, July 15, 1958, 72 Stat. 358; Pub. L. 91–469, §33, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 914; Pub. L. 96–561, title II, §220(4), Dec. 22, 1980, 94 Stat. 3294; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1606(e), Aug. 13, 1981, 95 Stat. 752; Pub. L. 98–595, §1(8)–(11), Oct. 30, 1984, 98 Stat. 3131.)
+(f) Default response
+
+In the event of default on an obligation, the Secretary shall conduct operations under this subchapter in a manner which—
+
+(1) maximizes the net present value return from the sale or disposition of assets associated with the obligation, including prompt referral to the Attorney General for collection as appropriate;
+
+(2) minimizes the amount of any loss realized in the resolution of the guarantee;
+
+(3) ensures adequate competition and fair and consistent treatment of offerors; and
+
+(4) requires appraisal of assets by an independent appraiser.
+
+(June 29, 1936, ch. 858, title XI, §1105, as added June 23, 1938, ch. 600, §46, 52 Stat. 971; amended Aug. 15, 1953, ch. 513, §3, 67 Stat. 626; Sept. 3, 1954, ch. 1265, §5, 68 Stat. 1272; Aug. 7, 1956, ch. 1026, §1(e)–(g), 70 Stat. 1087; Pub. L. 85–520, July 15, 1958, 72 Stat. 358; Pub. L. 91–469, §33, Oct. 21, 1970, 84 Stat. 1035; Pub. L. 92–507, §3, Oct. 19, 1972, 86 Stat. 914; Pub. L. 96–561, title II, §220(4), Dec. 22, 1980, 94 Stat. 3294; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1606(e), Aug. 13, 1981, 95 Stat. 752; Pub. L. 98–595, §1(8)–(11), Oct. 30, 1984, 98 Stat. 3131; Pub. L. 108–136, div. C, title XXXV, §3524, Nov. 24, 2003, 117 Stat. 1801.)
 
 Codification
 
@@ -11098,7 +11606,21 @@ Any income realized on the escrow fund shall, upon receipt, be paid to the oblig
 
 The escrow agreement shall contain such other terms as the Secretary may consider necessary to protect fully the interests of the United States.
 
-(June 29, 1936, ch. 858, title XI, §1108, formerly §1111, as added Pub. L. 86–127, §1(2), July 31, 1959, 73 Stat. 272; renumbered and amended Pub. L. 92–507, §5, Oct. 19, 1972, 86 Stat. 916; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166.)
+(g) Payments required before disbursement
+
+(1) In general
+
+No disbursement shall be made under subsection (b) of this section to any person until the total amount paid by or for the account of the obligor from sources other than the proceeds of the obligation equals at least 25 percent or 12½ percent, whichever is applicable under section 1274 of this Appendix, of the aggregate actual cost of the vessel, as previously approved by the Secretary.
+If the aggregate actual cost of the vessel has increased since the Secretary's initial approval or if it increases after the first disbursement is permitted under this subsection, then no further disbursements shall be made under subsection (b) of this section until the total amount paid by or for the account of the obligor from sources other than the proceeds of the obligation equals at least 25 percent or 12½ percent, as applicable, of the increase, as determined by the Secretary, in the aggregate actual cost of the vessel.
+Nothing in this paragraph shall require the Secretary to consent to finance any increase in actual cost unless the Secretary determines that such an increase in the obligation meets all the terms and conditions of this subchapter or other applicable law.
+
+(2) Documented proof of progress requirement
+
+The Secretary shall, by regulation, establish a transparent, independent, and risk-based process for verifying and documenting the progress of projects under construction before disbursing guaranteed loan funds.
+At a minimum, the process shall require documented proof of progress in connection with the construction, reconstruction, or reconditioning of a vessel or vessels before disbursements are made from the escrow fund.
+The Secretary may require that the obligor provide a certificate from an independent party certifying that the requisite progress in construction, reconstruction, or reconditioning has taken place.
+
+(June 29, 1936, ch. 858, title XI, §1108, formerly §1111, as added Pub. L. 86–127, §1(2), July 31, 1959, 73 Stat. 272; renumbered and amended Pub. L. 92–507, §5, Oct. 19, 1972, 86 Stat. 916; Pub. L. 97–31, §12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 108–136, div. C, title XXXV, §3521(a), Nov. 24, 2003, 117 Stat. 1799.)
 
 References in Text
 
@@ -11390,11 +11912,36 @@ Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994 and also as part of the Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993, and the National Shipbuilding and Shipyard Conversion Act of 1993, and not as part of the Merchant Marine Act, 1936, which comprises this chapter.
 
+§1280b. Annual report on program
+
+The Secretary of Transportation shall report to Congress annually on the loan guarantee program under title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.). The reports shall include—
+
+(1) the size, in dollars, of the portfolio of loans guaranteed;
+
+(2) the size, in dollars, of projects in the portfolio facing financial difficulties;
+
+(3) the number and type of projects covered;
+
+(4) a profile of pending loan applications;
+
+(5) the amount of appropriations available for new guarantees;
+
+(6) a profile of each project approved since the last report; and
+
+(7) a profile of any defaults since the last report.
+
+(Pub. L. 108–136, div. C, title XXXV, §3527, Nov. 24, 2003, 117 Stat. 1802.)
+
+References in Text
+
+The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended.
+Title XI of the Act is classified generally to this subchapter (§1271 et seq.). For complete classification of this Act to the Code, see section 1245 of this Appendix and Tables.
+
+Codification
+
+Section was enacted as part of the Maritime Security Act of 2003, and also as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Merchant Marine Act, 1936, which comprises this chapter.
+
 SUBCHAPTER XII—WAR RISK INSURANCE
-
-Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 10 section 2645.
 
 §1281. Definitions
 
@@ -11681,15 +12228,17 @@ For purposes of this subchapter—
 
 (2) the term “Academy” means the United States Merchant Marine Academy located at Kings Point, New York which is maintained under section 1295b of this Appendix;
 
-(3) the term “State maritime academy” means any maritime academy or college which is assisted under section 1295c of this Appendix and which is sponsored by any State or territory of the United States or, in the case of a regional maritime academy or college, sponsored by any group of States or territories of the United States, or both; and
+(3) the term “State maritime academy” means any maritime academy or college which is assisted under section 1295c of this Appendix and which is sponsored by any State or territory of the United States or, in the case of a regional maritime academy or college, sponsored by any group of States or territories of the United States, or both;
 
 (4) the term “merchant marine officer” means any person who holds a license issued by the United States Coast Guard which authorizes service—
 
 (A) as a master, mate, or pilot on board any vessel of 1,000 gross tons or more as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title which is documented under the laws of the United States and which operates on the oceans or on the Great Lakes; or
 
-(B) as an engineer officer on board any vessel propelled by machinery of 4,000 horsepower or more which is documented under the laws of the United States.
+(B) as an engineer officer on board any vessel propelled by machinery of 4,000 horsepower or more which is documented under the laws of the United States; and
 
-(June 29, 1936, ch. 858, title XIII, §1302, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1997; amended Pub. L. 97–31, §12(143), Aug. 6, 1981, 95 Stat. 166; Pub. L. 104–324, title VII, §708, Oct. 19, 1996, 110 Stat. 3934.)
+(5) the term “cost of education provided” means the financial costs incurred by the Federal Government for providing training or financial assistance to students at the United States Merchant Marine Academy and the State maritime academies, including direct financial assistance, room, board, classroom academics, and other training activities.
+
+(June 29, 1936, ch. 858, title XIII, §1302, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1997; amended Pub. L. 97–31, §12(143), Aug. 6, 1981, 95 Stat. 166; Pub. L. 104–324, title VII, §708, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–136, div. C, title XXXV, §3515(a), Nov. 24, 2003, 117 Stat. 1792.)
 
 Transfer of Functions
 
@@ -11792,11 +12341,11 @@ The Secretary shall provide to any cadet at the Academy all required uniforms an
 
 (1) Each individual appointed as a cadet at the Academy after the date occurring 6 months after October 1, 1981, who is a citizen of the United States, shall as a condition of appointment to the Academy sign an agreement committing such individual—
 
-(A) to complete the course of instruction at the Academy, unless the individual is separated by the Academy;
+(A) to complete the course of instruction at the Academy;
 
 (B) to fulfill the requirements for a license as an officer in the merchant marine of the United States on or before the date of graduation from the Academy of such individual;
 
-(C) to maintain a license as an officer in the merchant marine of the United States for at least 6 years following the date of graduation from the Academy of such individual;
+(C) to maintain a valid license as an officer in the merchant marine of the United States for at least 6 years following the date of graduation from the Academy of such individual, accompanied by the appropriate national and international endorsements and certification as required by the United States Coast Guard for service aboard vessels on domestic and international voyages;
 
 (D) to apply for an appointment as, to accept if tendered an appointment as, and to serve as a commissioned officer in the United States Naval Reserve (including the Merchant Marine Reserve, United States Naval Reserve), the United States Coast Guard Reserve, or any other Reserve unit of an armed force of the United States, for at least 6 years following the date of graduation from the Academy of such individual;
 
@@ -11806,26 +12355,25 @@ The Secretary shall provide to any cadet at the Academy all required uniforms an
 
 (ii) as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary), if the Secretary determines that service under clause (i) is not available to such individual;
 
-(iii) as a commissioned officer on active duty in an armed force of the United States or in the National Oceanic and Atmospheric Administration; or
+(iii) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or other maritime-related employment with the Federal Government which serves the national security interests of the United States, as determined by the Secretary; or
 
 (iv) by combining the services specified in clauses (i), (ii), and (iii); and
 
 (F) to report to the Secretary on the compliance by the individual to this paragraph.
 
-(2) If the Secretary determines that any individual who has attended the Academy for not less than 2 years has failed to fulfill the part of the agreement (required by paragraph (1)) described in paragraph (1)(A), such individual may be ordered by the Secretary of the Navy to active duty in the United States Navy to serve for a period of time not to exceed 2 years.
-In cases of hardship as determined by the Secretary, the Secretary may waive this paragraph.
+(2)(A) If the Secretary determines that any individual who has attended the Academy for not less than 2 years has failed to fulfill the part of the agreement required by paragraph (1)(A), such individual may be ordered by the Secretary of Defense to active duty in one of the armed forces of the United States to serve for a period of time not to exceed 2 years.
+In cases of hardship as determined by the Secretary, the Secretary may waive this provision in whole or in part.
 
-(3)(A) If the Secretary determines that any individual has failed to fulfill any part of the agreement (required by paragraph (1)) described in subparagraphs (B), (C), (D), (E), or (F) of paragraph (1), such individual may be ordered to active duty to serve a period of time not less than 3 years and not more than the unexpired portion (as determined by the Secretary) of the service required by subparagraph (E) of such paragraph.
-The Secretary, in consultation with the Secretary of Defense, shall determine in which service the individual shall be ordered to active duty to serve such period of time.
-In cases of hardship as determined by the Secretary, the Secretary may waive this paragraph.
+(B) If the Secretary of Defense is unable or unwilling to order an individual to active duty under subparagraph (A), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary may recover from the individual the cost of education provided by the Federal Government.
 
-(B) If the Secretary of Defense is unable or unwilling to order an individual to active duty under subparagraph (A), the Secretary of Transportation—
+(3)(A) If the Secretary determines that an individual has failed to fulfill any part of the agreement required by paragraph (1), as described in paragraph (1)(B), (C), (D), (E), or (F), such individual may be ordered to active duty to serve a period of time not less than 3 years and not more than the unexpired portion, as determined by the Secretary, of the service required by paragraph (1)(E). The Secretary, in consultation with the Secretary of Defense, shall determine in which service the individual shall be ordered to active duty to serve such period of time.
+In cases of hardship, as determined by the Secretary, the Secretary may waive this provision in whole or in part.
 
-(i) may recover from the individual the cost of education provided by the Federal Government; and
+(B) If the Secretary of Defense is unable or unwilling to order an individual to active duty under subparagraph (A), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary may recover from the individual the cost of education provided and may reduce the amount to be recovered from such individual to reflect partial performance of service obligations and such other factors as the Secretary determines merit such a reduction.
 
-(ii) shall request the Attorney General to begin court proceedings to recover the costs of education if the Secretary decides to seek recovery under clause (i).
+(4) To aid in the recovery of the cost of education provided by the Federal Government pursuant to a commitment agreement under this section, the Secretary may request the Attorney General to begin court proceedings, and the Secretary may make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.
 
-(4) The Secretary may defer the service commitment of any individual pursuant to subparagraph (E) of paragraph (1) (as specified in the agreement required by such paragraph) for a period of not more than 2 years if such individual is engaged in a graduate course of study approved by the Secretary, except that any deferment of service as a commissioned officer pursuant to paragraph (1)(E) must be approved by the Secretary of the military department (including the Secretary of Commerce with respect to the National Oceanic and Atmospheric Administration) which has jurisdiction over such service.
+(5) The Secretary may defer the service commitment of any individual pursuant to subparagraph (E) of paragraph (1) (as specified in the agreement required by such paragraph) for a period of not more than 2 years if such individual is engaged in a graduate course of study approved by the Secretary, except that any deferment of service as a commissioned officer pursuant to paragraph (1)(E) must be approved by the Secretary of the military department (including the Secretary of Commerce with respect to the National Oceanic and Atmospheric Administration) which has jurisdiction over such service.
 
 (f) Places of training
 
@@ -11837,10 +12385,19 @@ The Secretary may provide for the training of cadets at the Academy—
 
 (3) in shipyards or plants and with any industrial or educational organizations.
 
-(g) Bachelor of science degrees awarded
+(g) Degrees awarded
+
+(1) Bachelor's degree
 
 The Superintendent of the Academy may confer the degree of bachelor of science upon any individual who has met the conditions prescribed by the Secretary and who, if a citizen of the United States, has passed the examination for a merchant marine officer's license.
 No individual may be denied a degree under this subsection because the individual is not permitted to take such examination solely because of physical disqualification.
+
+(2) Master's degree
+
+The Superintendent of the Academy may confer a master's degree upon any individual who has met the conditions prescribed by the Secretary.
+Any master's degree program may be funded through non-appropriated funds.
+In order to maintain the appropriate academic standards, the program shall be accredited by the appropriate accreditation body.
+The Secretary may make regulations necessary to administer such a program.
 
 (h) Board of Visitors
 
@@ -11876,7 +12433,7 @@ No individual may be denied a degree under this subsection because the individua
 
 (5) The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to the Advisory Board established pursuant to this subsection.
 
-(June 29, 1936, ch. 858, title XIII, §1303, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1998; amended Pub. L. 97–31, §12(144), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1607, Aug. 13, 1981, 95 Stat. 752; Pub. L. 99–368, §5, Aug. 1, 1986, 100 Stat. 776; Pub. L. 101–595, title VII, §§703, 707(a), 708, Nov. 16, 1990, 104 Stat. 2994, 2995; Pub. L. 105–261, div. A, title V, §568, Oct. 17, 1998, 112 Stat. 2031; Pub. L. 106–65, div. A, title X, §1066(b)(5), Oct. 5, 1999, 113 Stat. 772.)
+(June 29, 1936, ch. 858, title XIII, §1303, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1998; amended Pub. L. 97–31, §12(144), Aug. 6, 1981, 95 Stat. 166; Pub. L. 97–35, title XVI, §1607, Aug. 13, 1981, 95 Stat. 752; Pub. L. 99–368, §5, Aug. 1, 1986, 100 Stat. 776; Pub. L. 101–595, title VII, §§703, 707(a), 708, Nov. 16, 1990, 104 Stat. 2994, 2995; Pub. L. 105–261, div. A, title V, §568, Oct. 17, 1998, 112 Stat. 2031; Pub. L. 106–65, div. A, title X, §1066(b)(5), Oct. 5, 1999, 113 Stat. 772; Pub. L. 108–136, div. C, title XXXV, §3515(b), (c), Nov. 24, 2003, 117 Stat. 1792, 1794.)
 
 References in Text
 
@@ -11975,7 +12532,7 @@ The Secretary shall determine the number of individuals under this paragraph for
 
 (g) Student incentive payment agreements
 
-(1) The Secretary may enter into an agreement, which shall be effective for not more than 4 academic years, with any individual, who is a citizen of the United States and is attending a State maritime academy which entered into an agreement with the Secretary under subsection (d)(1) of this section, to make student incentive payments to such individual, which payments shall be in amounts equaling $3,000 for each academic year and which payments shall be—
+(1) The Secretary may enter into an agreement, which shall be effective for not more than 4 academic years, with any individual, who is a citizen of the United States and is attending a State maritime academy which entered into an agreement with the Secretary under subsection (d)(1) of this section, to make student incentive payments to such individual, which payments shall be in amounts equaling $4,000 for each academic year and which payments shall be—
 
 (A) allocated among the various State maritime academies in a fair and equitable manner;
 
@@ -11987,11 +12544,11 @@ The Secretary shall determine the number of individuals under this paragraph for
 
 (3) Each agreement entered into under paragraph (1) shall obligate the individual receiving student incentive payments under the agreement—
 
-(A) to complete the course of instruction at the State maritime academy which the individual is attending, unless the individual is separated by such academy;
+(A) to complete the course of instruction at the State maritime academy which the individual is attending;
 
 (B) to take the examination for a license as an officer in the merchant marine of the United States on or before the date of graduation from such State maritime academy of such individual and to fulfill the requirements for such license not later than 3 months after such graduation date;
 
-(C) to maintain a license as an officer in the merchant marine of the United States for at least 6 years following the date of graduation from such State maritime academy of such individual;
+(C) to maintain a valid license as an officer in the merchant marine of the United States for at least 6 years following the date of graduation from such State maritime academy of such individual, accompanied by the appropriate national and international endorsements and certification as required by the United States Coast Guard for service aboard vessels on domestic and international voyages;
 
 (D) to accept if tendered an appointment as, and to serve as a commissioned officer in the United States Naval Reserve (including the Merchant Marine Reserve, United States Naval Reserve), the United States Coast Guard Reserve, or any other reserve unit of an armed force of the United States, for at least 6 years following the date of graduation from such State maritime academy of such individual;
 
@@ -12001,28 +12558,41 @@ The Secretary shall determine the number of individuals under this paragraph for
 
 (ii) as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary), if the Secretary determines that service under clause (i) is not available to such individual;
 
-(iii) as a commissioned officer on active duty in an armed force of the United States or in the National Oceanic and Atmospheric Administration; or
+(iii) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or in other maritime-related employment with the Federal Government which serves the national security interests of the United States, as determined by the Secretary; or
 
 (iv) by combining the services specified in clauses (i), (ii), and (iii); and
 
 (F) to report to the Secretary on the compliance by the individual to this paragraph.
 
-(4) If the Secretary determines that any individual who has accepted the payment described in paragraph (1) has failed to fulfill the part of the agreement (required by paragraph (1)) described in paragraph (3)(A), such individual may be ordered by the Secretary of the Navy to active duty in the United States Navy to serve for a period of time not to exceed 2 years.
-In cases of hardship as determined by the Secretary, the Secretary may waive this paragraph.
+(4)(A) If the Secretary determines that an individual who has accepted the payment described in paragraph (1) for a minimum of 2 academic years has failed to fulfill the part of the agreement required by paragraph (1) and described in paragraph (3)(A), such individual may be ordered by the Secretary of Defense to active duty in the Armed Forces of the United States to serve for a period of time not to exceed 2 years.
+In cases of hardship, as determined by the Secretary, the Secretary may waive this provision in whole or in part.
 
-(5) If the Secretary determines that any individual has failed to fulfill any part of the agreement (required by paragraph (1)) described in subparagraphs (B), (C), (D), (E), or (F) of paragraph (3), such individual may be ordered to active duty to serve a period of time not less than 2 years and not more than the unexpired portion (as determined by the Secretary) of the service required by subparagraph (E) of such paragraph.
-The Secretary, in consultation with the Secretary of Defense, shall determine in which service the individual shall be ordered to active duty to serve such period of time.
-In cases of hardship as determined by the Secretary, the Secretary may waive this paragraph.
+(B) If the Secretary of Defense is unable or unwilling to order an individual to active duty under subparagraph (A), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary—
 
-(6) The Secretary may defer the service commitment of any individual pursuant to subparagraph (E) of paragraph (3) (as specified in the agreement required by such paragraph) for a period of not more than 2 years if such individual is engaged in a graduate course of study approved by the Secretary, except that any deferment of service as a commissioned officer pursuant to subparagraph (E) of such paragraph must be approved by the Secretary of the military department (including the Secretary of Commerce with respect to the National Oceanic and Atmospheric Administration) which has jurisdiction over such service.
+(i) subject to clause (ii), may recover from the individual the amount of student incentive payments, plus interest and attorneys fees; and
 
-(7) This subsection shall apply only to individuals first entering a State maritime academy after the date occurring 6 months after October 1, 1981.
+(ii) may reduce the amount to be recovered from such individual to reflect partial performance of service obligations and such other factors as the Secretary determines merit such reduction.
+
+(5)(A) If the Secretary determines that an individual has failed to fulfill any part of the agreement required by paragraph (1), as described in paragraph (3)(B), (C), (D), (E), or (F), such individual may be ordered to active duty to serve a period of time not less than 2 years and not more than the unexpired portion, as determined by the Secretary, of the service required by paragraph (3)(E). The Secretary, in consultation with the Secretary of Defense, shall determine in which service the individual shall be ordered to active duty to serve such period of time.
+In cases of hardship, as determined by the Secretary, the Secretary may waive this provision in whole or in part.
+
+(B) If the Secretary of Defense is unable or unwilling to order an individual to active duty under subparagraph (A), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary—
+
+(i) subject to clause (ii), may recover from the individual the amount of student incentive payments, plus interest and attorneys fees; and
+
+(ii) may reduce the amount to be recovered from such individual to reflect partial performance of service obligations and such other factors as the Secretary determines merit such reduction.
+
+(6) To aid in the recovery of student incentive payments plus interest and attorneys fees the Secretary may request the Attorney General to begin court proceedings, and the Secretary may make use of the Federal debt collection procedures in chapter 176 of title 28 and other applicable administrative remedies.
+
+(7) The Secretary may defer the service commitment of any individual pursuant to subparagraph (E) of paragraph (3) (as specified in the agreement required by such paragraph) for a period of not more than 2 years if such individual is engaged in a graduate course of study approved by the Secretary, except that any deferment of service as a commissioned officer pursuant to subparagraph (E) of such paragraph must be approved by the Secretary of the military department (including the Secretary of Commerce with respect to the National Oceanic and Atmospheric Administration) which has jurisdiction over such service.
+
+(8) This subsection shall apply only to individuals first entering a State maritime academy after the date occurring 6 months after October 1, 1981.
 
 (h) Appointment of cadet as midshipman in United States Naval Reserve
 
 Any citizen of the United States attending a State maritime academy may be appointed by the Secretary of the Navy as a midshipman in the United States Naval Reserve (including the Merchant Marine Reserve, United States Naval Reserve).
 
-(June 29, 1936, ch. 858, title XIII, §1304, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003; amended Pub. L. 97–31, §12(145), Aug. 6, 1981, 95 Stat. 166; Pub. L. 101–115, §§2(a)–(d), 3(a), 5, Oct. 13, 1989, 103 Stat. 691–693; Pub. L. 102–587, title VI, §6201(a)(1), (b), (c), Nov. 4, 1992, 106 Stat. 5093.)
+(June 29, 1936, ch. 858, title XIII, §1304, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2003; amended Pub. L. 97–31, §12(145), Aug. 6, 1981, 95 Stat. 166; Pub. L. 101–115, §§2(a)–(d), 3(a), 5, Oct. 13, 1989, 103 Stat. 691–693; Pub. L. 102–587, title VI, §6201(a)(1), (b), (c), Nov. 4, 1992, 106 Stat. 5093; Pub. L. 108–136, div. C, title XXXV, §3515(d), Nov. 24, 2003, 117 Stat. 1794.)
 
 Transfer of Functions
 
@@ -12105,7 +12675,11 @@ The Secretary may determine the number of individuals to be enrolled for trainin
 
 The ranks, grades, and ratings for personnel of the United States Maritime Service shall be the same as are then prescribed for the personnel of the United States Coast Guard.
 
-(June 29, 1936, ch. 858, title XIII, §1306, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2006.)
+(d) Awards and medals
+
+The Secretary may establish and maintain a medals and awards program to recognize distinguished service, superior achievement, professional performance, and other commendable achievement by personnel of the United States Maritime Service.
+
+(June 29, 1936, ch. 858, title XIII, §1306, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2006; amended Pub. L. 108–136, div. C, title XXXV, §3515(e), Nov. 24, 2003, 117 Stat. 1795.)
 
 Transfer of Functions
 
@@ -13499,7 +14073,7 @@ References in Text
 Act of July 2, 1890 (ch. 647, 26 Stat. 209), as amended, referred to in par. (2), is known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade.
 For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
-Act of October 15, 1914 (ch. 323, 38 Stat. 730), as amended, referred to in par. (2), is known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of Title 15 and sections 52 and 53 of Title 29, Labor.
+Act of October 15, 1914 (ch. 323, 38 Stat. 730), as amended, referred to in par. (2), is known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15 and sections 52 and 53 of Title 29, Labor.
 For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 The Federal Trade Commission Act, referred to in par. (2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
@@ -14980,12 +15554,6 @@ Section was formerly classified to section 955d of Title 21, Food and Drugs.
 
 Pub. L. 96–350, as amended generally by Pub. L. 99–570, contained two sections designated 3, the first of which is classified to section 1903 of this Appendix, and the second of which was classified to this section.
 Subsequently, Pub. L. 99–640 amended Pub. L. 96–350 generally designating this section as section 4.
-
-Amendments
-
-2002—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsec. (b).
-
-1986—Pub. L. 99–570 and Pub. L. 99–640 generally amended section identically, substituting provisions relating to seizure or forfeiture of property for provisions of the same general subject matter.
 
 CHAPTER 39—MERCHANT MARINE DECORATIONS AND MEDALS
 

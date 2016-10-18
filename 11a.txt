@@ -6,7 +6,7 @@ United States Code Document
 
 FEDERAL RULES OF BANKRUPTCY PROCEDURE AND OFFICIAL BANKRUPTCY FORMS
 
-(Effective August 1, 1983, as amended to January 6, 2003)
+(Effective August 1, 1983, as amended to January 19, 2004)
 
 Part
 Rule
@@ -86,7 +86,7 @@ Caption of Petition.
 Filing Fee.
 
 1007.
-Lists, Schedules and Statements; Time Limits.
+Lists, Schedules, and Statements; Time Limits.
 
 1008.
 Verification of Petitions and Accompanying Papers.
@@ -387,6 +387,9 @@ Service and Filing of Pleadings and Other Papers.
 
 7007.
 Pleadings Allowed.
+
+7007.1.
+Corporate Ownership Statement.
 
 7008.
 General Rules of Pleading.
@@ -768,7 +771,7 @@ Caption.
 Caption (Short Title).
 
 16C.
-Caption of Complaint in Adversary Proceeding Filed by a Debtor.
+Caption of Complaint in Adversary Proceeding Filed by a Debtor. [Abrogated]
 
 16D.
 Caption for Use in Adversary Proceeding other than for a Complaint Filed by a Debtor.
@@ -787,6 +790,9 @@ Notice of Motion or Objection.
 
 20B.
 Notice of Objection to Claim.
+
+21.
+Statement of Social Security Number.
 
         
 
@@ -944,11 +950,12 @@ Dec. 1, 2002.)
 Rule 1005. Caption of Petition
 
 The caption of a petition commencing a case under the Code shall contain the name of the court, the title of the case, and the docket number.
-The title of the case shall include the name, social security number and employer's tax identification number of the debtor and all other names used by the debtor within six years before filing the petition.
-If the petition is not filed by the debtor, it shall include all names used by the debtor which are known to petitioners.
+The title of the case shall include the following information about the debtor: name, employer identification number, last four digits of the social security number, any other federal tax identification number, and all other names used within six years before filing the petition.
+If the petition is not filed by the debtor, it shall include all names used by the debtor which are known to the petitioners.
 
 (As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Mar. 27, 2003, eff.
+Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -993,12 +1000,13 @@ Paragraph (2) accordingly continues the imposition of a maximum of four on the n
 Only in extraordinary cases should it be necessary to give an applicant an extension beyond the four months.
 The requirement of paragraph (3) that filing fees be paid in full before the debtor may pay an attorney for services in connection with the case codifies the rule declared in In re Latham, 271 Fed. 538 (N.D.N.Y. 1921), and In re Darr, 232 Fed. 415 (N.D. Cal. 1916).
 
-Rule 1007. Lists, Schedules and Statements; Time Limits
+Rule 1007. Lists, Schedules, and Statements; Time Limits
 
-(a) List of Creditors and Equity Security Holders
+(a) List of Creditors and Equity Security Holders, and Corporate Ownership Statement
 
 (1) Voluntary Case.
 In a voluntary case, the debtor shall file with the petition a list containing the name and address of each creditor unless the petition is accompanied by a schedule of liabilities.
+If the debtor is a corporation, other than a governmental unit, the debtor shall file with the petition a corporate ownership statement containing the information described in Rule 7007.1. The debtor shall file a supplemental statement promptly upon any change in circumstances that renders the corporate ownership statement inaccurate.
 
 (2) Involuntary Case.
 In an involuntary case, the debtor shall file within 15 days after entry of the order for relief, a list containing the name and address of each creditor unless a schedule of liabilities has been filed.
@@ -1018,8 +1026,8 @@ A copy of the statement of intention shall be served on the trustee and the cred
 
 (c) Time Limits
 
-The schedules and statements, other than the statement of intention, shall be filed with the petition in a voluntary case, or if the petition is accompanied by a list of all the debtor's creditors and their addresses, within 15 days thereafter, except as otherwise provided in subdivisions (d), (e), and (h) of this rule.
-In an involuntary case the schedules and statements, other than the statement of intention, shall be filed by the debtor within 15 days after entry of the order for relief.
+The schedules and statements, other than the statement of intention, shall be filed with the petition in a voluntary case, or if the petition is accompanied by a list of all the debtor's creditors and their addresses, within 15 days thereafter, except as otherwise provided in subdivisions (d), (e), (f), and (h) of this rule.
+In an involuntary case, the schedules and statements, other than the statement of intention, shall be filed by the debtor within 15 days of the entry of the order for relief.
 Schedules and statements filed prior to the conversion of a case to another chapter shall be deemed filed in the converted case unless the court directs otherwise.
 Any extension of time for the filing of the schedules and statements may be granted only on motion for cause shown and on notice to the United States trustee and to any committee elected under §705 or appointed under §1102 of the Code, trustee, examiner, or other party as the court may direct.
 Notice of an extension shall be given to the United States trustee and to any committee, trustee, or other party as the court may direct.
@@ -1035,7 +1043,11 @@ The list required by subdivision (a) of this rule shall be filed by the debtor i
 If a proposed plan requires a revision of assessments so that the proportion of special assessments or special taxes to be assessed against some real property will be different from the proportion in effect at the date the petition is filed, the debtor shall also file a list showing the name and address of each known holder of title, legal or equitable, to real property adversely affected.
 On motion for cause shown, the court may modify the requirements of this subdivision and subdivision (a) of this rule.
 
-(f) [Abrogated]
+(f) Statement of Social Security Number
+
+An individual debtor shall submit a verified statement that sets out the debtor's social security number, or states that the debtor does not have a social security number.
+In a voluntary case, the debtor shall submit the statement with the petition.
+In an involuntary case, the debtor shall submit the statement within 15 days after the entry of the order for relief.
 
 (g) Partnership and Partners
 
@@ -1075,7 +1087,8 @@ If the debtor knows that a person on the list of creditors or schedules is an in
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 23, 2001, eff.
-Dec. 1, 2001.)
+Dec. 1, 2001; Mar. 27, 2003, eff.
+Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1642,7 +1655,7 @@ Rule 2002. Notices to Creditors, Equity Security Holders, United States, and Uni
 
 Except as provided in subdivisions (h), (i), and (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees at least 20 days’ notice by mail of:
 
-(1) the meeting of creditors under §341 or §1104(b) of the Code;
+(1) the meeting of creditors under §341 or §1104(b) of the Code, which notice, unless the court orders otherwise, shall include the debtor's employer identification number, social security number, and any other federal taxpayer identification number;
 
 (2) a proposed use, sale, or lease of property of the estate other than in the ordinary course of business, unless the court for cause shown shortens the time or directs another method of giving notice;
 
@@ -1751,7 +1764,8 @@ Dec. 1, 1996; Apr. 11, 1997, eff.
 Dec. 1, 1997; Apr. 26, 1999, eff.
 Dec. 1, 1999; Apr. 17, 2000, eff.
 Dec. 1, 2000; Apr. 23, 2001, eff.
-Dec. 1, 2001.)
+Dec. 1, 2001; Mar. 27, 2003, eff.
+Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1860,7 +1874,7 @@ If the United States trustee designates a place for the meeting which is not reg
 
 (1) Meeting of Creditors.
 The United States trustee shall preside at the meeting of creditors.
-The business of the meeting shall include the examination of the debtor under oath and, in a chapter 7 liquidation case, may include the election of a trustee or of a creditors’ committee.
+The business of the meeting shall include the examination of the debtor under oath and, in a chapter 7 liquidation case, may include the election of a creditors’ committee and, if the case is not under subchapter V of chapter 7, the election of a trustee.
 The presiding officer shall have the authority to administer oaths.
 
 (2) Meeting of Equity Security Holders.
@@ -1904,7 +1918,8 @@ The trustee shall attend the final meeting and shall, if requested, report on th
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 22, 1993, eff.
 Aug. 1, 1993; Apr. 26, 1999, eff.
-Dec. 1, 1999.)
+Dec. 1, 1999; Mar. 27, 2003, eff.
+Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -2259,16 +2274,16 @@ Rule 2009. Trustees for Estates When Joint Administration Ordered
 
 (a) Election of Single Trustee for Estates Being Jointly Administered
 
-If the court orders a joint administration of two or more estates pursuant to Rule 1015(b), creditors may elect a single trustee for the estates being jointly administered.
+If the court orders a joint administration of two or more estates under Rule 1015(b), creditors may elect a single trustee for the estates being jointly administered, unless the case is under subchapter V of chapter 7 of the Code.
 
 (b) Right of Creditors To Elect Separate Trustee
 
-Notwithstanding entry of an order for joint administration pursuant to Rule 1015(b) the creditors of any debtor may elect a separate trustee for the estate of the debtor as provided in §702 of the Code.
+Notwithstanding entry of an order for joint administration under Rule 1015(b), the creditors of any debtor may elect a separate trustee for the estate of the debtor as provided in §702 of the Code, unless the case is under subchapter V of chapter 7.
 
 (c) Appointment of Trustees for Estates Being Jointly Administered
 
 (1) Chapter 7 Liquidation Cases.
-The United States trustee may appoint one or more interim trustees for estates being jointly administered in chapter 7 cases.
+Except in a case governed by subchapter V of chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in chapter 7 cases.
 
 (2) Chapter 11 Reorganization Cases.
 If the appointment of a trustee is ordered, the United States trustee may appoint one or more trustees for estates being jointly administered in chapter 11 cases.
@@ -2289,7 +2304,8 @@ The trustee or trustees of estates being jointly administered shall keep separat
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Mar. 27, 2003, eff.
+Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -2493,9 +2509,16 @@ Every attorney for a debtor, whether or not the attorney applies for compensatio
 The statement shall include the particulars of any such sharing or agreement to share by the attorney, but the details of any agreement for the sharing of the compensation with a member or regular associate of the attorney's law firm shall not be required.
 A supplemental statement shall be filed and transmitted to the United States trustee within 15 days after any payment or agreement not previously disclosed.
 
+(c) Disclosure of Compensation Paid or Promised to Bankruptcy Petition Preparer
+
+Every bankruptcy petition preparer for a debtor shall file a declaration under penalty of perjury and transmit the declaration to the United States trustee within 10 days after the date of the filing of the petition, or at another time as the court may direct, as required by §110(h)(1). The declaration must disclose any fee, and the source of any fee, received from or on behalf of the debtor within 12 months of the filing of the case and all unpaid fees charged to the debtor.
+The declaration must describe the services performed and documents prepared or caused to be prepared by the bankruptcy petition preparer.
+A supplemental statement shall be filed within 10 days after any payment or agreement not previously disclosed.
+
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Mar. 27, 2003, eff.
+Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -2589,33 +2612,6 @@ Subdivision (d) is derived from former Chapter X Rule 10–210 which, in turn, w
 Section 206 has no counterpart in the Code.
 
 Subdivision (e) is derived from former Chapter VIII Rule 8–210(d). It gives the court flexibility in directing the type of future notices to be given intervenors.
-
-Rule 2019. Representation of Creditors and Equity Security Holders in Chapter 9 Municipality and Chapter 11 Reorganization Cases
-
-(a) Data Required
-
-In a chapter 9 municipality or chapter 11 reorganization case, except with respect to a committee appointed pursuant to §1102 or 1114 of the Code, every entity or committee representing more than one creditor or equity security holder and, unless otherwise directed by the court, every indenture trustee, shall file a verified statement setting forth (1) the name and address of the creditor or equity security holder; (2) the nature and amount of the claim or interest and the time of acquisition thereof unless it is alleged to have been acquired more than one year prior to the filing of the petition; (3) a recital of the pertinent facts and circumstances in connection with the employment of the entity or indenture trustee, and, in the case of a committee, the name or names of the entity or entities at whose instance, directly or indirectly, the employment was arranged or the committee was organized or agreed to act; and (4) with reference to the time of the employment of the entity, the organization or formation of the committee, or the appearance in the case of any indenture trustee, the amounts of claims or interests owned by the entity, the members of the committee or the indenture trustee, the times when acquired, the amounts paid therefor, and any sales or other disposition thereof.
-The statement shall include a copy of the instrument, if any, whereby the entity, committee, or indenture trustee is empowered to act on behalf of creditors or equity security holders.
-A supplemental statement shall be filed promptly, setting forth any material changes in the facts contained in the statement filed pursuant to this subdivision.
-
-(b) Failure To Comply; Effect
-
-On motion of any party in interest or on its own initiative, the court may (1) determine whether there has been a failure to comply with the provisions of subdivision (a) of this rule or with any other applicable law regulating the activities and personnel of any entity, committee, or indenture trustee or any other impropriety in connection with any solicitation and, if it so determines, the court may refuse to permit that entity, committee, or indenture trustee to be heard further or to intervene in the case; (2) examine any representation provision of a deposit agreement, proxy, trust mortgage, trust indenture, or deed of trust, or committee or other authorization, and any claim or interest acquired by any entity or committee in contemplation or in the course of a case under the Code and grant appropriate relief; and (3) hold invalid any authority, acceptance, rejection, or objection given, procured, or received by an entity or committee who has not complied with this rule or with §1125(b) of the Code.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule is a comprehensive regulation of representation in chapter 9 municipality and in chapter 11 reorganization cases.
-It is derived from §§209–213 of the Act and former Chapter X Rule 10–211.
-
-Subdivision (b) is derived from §§212, 213 of the Act.
-As used in clause (2), “other authorization” would include a power or warrant of attorney which are specifically mentioned in §212 of the Act.
-This rule deals with representation provisions in mortgages, trust deeds, etc. to protect the beneficiaries from unfair practices and the like.
-It does not deal with the validation or invalidation of security interests generally.
-If immediate compliance is not possible, the court may permit a representative to be heard on a specific matter, but there is no implicit waiver of compliance on a permanent basis.
 
 Rule 2020. Review of Acts by United States Trustee
 
@@ -3717,6 +3713,78 @@ See 2 Moore's Federal Practice  1.04[2] (2d ed. 1967). Because of the nationwid
 Subdivision (g). Notice of discharge should be mailed promptly after the order becomes final so that creditors may be informed of entry of the order and of its injunctive provisions.
 Rule 2002 specifies the manner of the notice and persons to whom the notice is to be given.
 
+Rule 4005. Burden of Proof in Objecting to Discharge
+
+At the trial on a complaint objecting to a discharge, the plaintiff has the burden of proving the objection.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule does not address the burden of going forward with the evidence.
+Subject to the allocation by the rule of the initial burden of producing evidence and the ultimate burden of persuasion, the rule leaves to the courts the formulation of rules governing the shift of the burden of going forward with the evidence in the light of considerations such as the difficulty of proving the nonexistence of a fact and of establishing a fact as to which the evidence is likely to be more accessible to the debtor than to the objector.
+See, e.g., In re Haggerty, 165 F.2d 977, 979–80 (2d Cir. 1948); Federal Provision Co. v. Ershowsky, 94 F.2d 574, 575 (2d Cir. 1938); In re Riceputo, 41 F. Supp. 926, 927–28 (E.D.N.Y. 1941).
+
+Rule 4006. Notice of No Discharge
+
+If an order is entered denying or revoking a discharge or if a waiver of discharge is filed, the clerk, after the order becomes final or the waiver is filed, shall promptly give notice thereof to all creditors in the manner provided in Rule 2002.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987.)
+
+Notes of Advisory Committee on Rules—1983
+
+The suspension by §108(c) of the Code of the statute of limitations affecting any debt of a debtor terminates within 30 days after the debtor is denied a discharge or otherwise loses his right to a discharge.
+If, however, a debtor's failure to receive a discharge does not come to the attention of his creditors until after the statutes of limitations have run, the debtor obtains substantially the same benefits from his bankruptcy as a debtor who is discharged.
+
+This rule requires the clerk to notify creditors if a debtor fails to obtain a discharge because a waiver of discharge was filed under §727(a)(10) or as a result of an order denying or revoking the discharge under §727(a) or (d).
+
+Rule 4007. Determination of Dischargeability of a Debt
+
+(a) Persons Entitled To File Complaint
+
+A debtor or any creditor may file a complaint to obtain a determination of the dischargeability of any debt.
+
+(b) Time for Commencing Proceeding Other Than Under §523(c) of the Code
+
+A complaint other than under §523(c) may be filed at any time.
+A case may be reopened without payment of an additional filing fee for the purpose of filing a complaint to obtain a determination under this rule.
+
+(c) Time for Filing Complaint Under §523(c) in a Chapter 7 Liquidation, Chapter 11 Reorganization, or Chapter 12 Family Farmer's Debt Adjustment Case; Notice of Time Fixed
+
+A complaint to determine the dischargeability of a debt under §523(c) shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). The court shall give all creditors no less than 30 days’ notice of the time so fixed in the manner provided in Rule 2002. On motion of a party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision.
+The motion shall be filed before the time has expired.
+
+(d) Time for Filing Complaint Under §523(c) in a Chapter 13 Individual's Debt Adjustment Case; Notice of Time Fixed
+
+On motion by a debtor for a discharge under §1328(b), the court shall enter an order fixing the time to file a complaint to determine the dischargeability of any debt under §523(c) and shall give no less than 30 days’ notice of the time fixed to all creditors in the manner provided in Rule 2002. On motion of any party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision.
+The motion shall be filed before the time to has expired.
+
+(e) Applicability of Rules in Part VII
+
+A proceeding commenced by a complaint filed under this rule is governed by Part VII of these rules.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991; Apr. 26, 1999, eff.
+Dec. 1, 1999.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule prescribes the procedure to be followed when a party requests the court to determine dischargeability of a debt pursuant to §523 of the Code.
+
+Although a complaint that comes within §523(c) must ordinarily be filed before determining whether the debtor will be discharged, the court need not determine the issues presented by the complaint filed under this rule until the question of discharge has been determined under Rule 4004. A complaint filed under this rule initiates an adversary proceeding as provided in Rule 7003.
+
+Subdivision (b) does not contain a time limit for filing a complaint to determine the dischargeability of a type of debt listed as nondischargeable under §523(a)(1), (3), (5), (7), (8), or (9). Jurisdiction over this issue on these debts is held concurrently by the bankruptcy court and any appropriate nonbankruptcy forum.
+
+Subdivision (c) differs from subdivision (b) by imposing a deadline for filing complaints to determine the issue of dischargeability of debts set out in §523(a)(2), (4) or (6) of the Code.
+The bankruptcy court has exclusive jurisdiction to determine dischargeability of these debts.
+If a complaint is not timely filed, the debt is discharged.
+See §523(c).
+
+Subdivision (e). The complaint required by this subdivision should be filed in the court in which the case is pending pursuant to Rule 5005.
+
 Rule 4008. Discharge and Reaffirmation Hearing
 
 Not more than 30 days following the entry of an order granting or denying a discharge, or confirming a plan in a chapter 11 reorganization case concerning an individual debtor and on not less than 10 days notice to the debtor and the trustee, the court may hold a hearing as provided in §524(d) of the Code.
@@ -3867,48 +3935,6 @@ Perhaps the most frequent application of the subdivision will be in the allowanc
 For example, if an attorney or accountant is retained by an indenture trustee who thereafter makes a substantial contribution in a chapter 11 case, the attorney or accountant may seek compensation under §503(b)(4). If the attorney or accountant is a relative of or associated with the bankruptcy judge, the judge may not allow compensation to the attorney or accountant.
 Section 101(34) defines relative and Rule 9001 incorporates the definitions of the Code.
 See the Advisory Committee's Note to Rule 5002.
-
-Rule 5005. Filing and Transmittal of Papers
-
-(a) Filing
-
-(1) Place of Filing.
-The lists, schedules, statements, proofs of claim or interest, complaints, motions, applications, objections and other papers required to be filed by these rules, except as provided in 28 U.S.C. §1409, shall be filed with the clerk in the district where the case under the Code is pending.
-The judge of that court may permit the papers to be filed with the judge, in which event the filing date shall be noted thereon, and they shall be forthwith transmitted to the clerk.
-The clerk shall not refuse to accept for filing any petition or other paper presented for the purpose of filing solely because it is not presented in proper form as required by these rules or any local rules or practices.
-
-(2) Filing by Electronic Means.
-A court may by local rule permit documents to be filed, signed, or verified by electronic means that are consistent with technical standards, if any, that the Judicial Conference of the United States establishes.
-A document filed by electronic means in compliance with a local rule constitutes a written paper for the purpose of applying these rules, the Federal Rules of Civil Procedure made applicable by these rules, and §107 of the Code.
-
-(b) Transmittal to the United States Trustee
-
-(1) The complaints, motions, applications, objections and other papers required to be transmitted to the United States trustee by these rules shall be mailed or delivered to an office of the United States trustee, or to another place designated by the United States trustee, in the district where the case under the Code is pending.
-
-(2) The entity, other than the clerk, transmitting a paper to the United States trustee shall promptly file as proof of such transmittal a verified statement identifying the paper and stating the date on which it was transmitted to the United States trustee.
-
-(3) Nothing in these rules shall require the clerk to transmit any paper to the United States trustee if the United States trustee requests in writing that the paper not be transmitted.
-
-(c) Error in Filing or Transmittal
-
-A paper intended to be filed with the clerk but erroneously delivered to the United States trustee, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the clerk of the bankruptcy court.
-A paper intended to be transmitted to the United States trustee but erroneously delivered to the clerk, the trustee, the attorney for the trustee, a bankruptcy judge, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the United States trustee.
-In the interest of justice, the court may order that a paper erroneously delivered shall be deemed filed with the clerk or transmitted to the United States trustee as of the date of its original delivery.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991; Apr. 22, 1993, eff.
-Aug. 1, 1993; Apr. 23, 1996, eff.
-Dec. 1, 1996.)
-
-Notes of Advisory Committee on Rules—1983
-
-Subdivision (a) is an adaptation of Rule 5(e) F.R.Civ.P. Sections 301–304 of the Code and Rules 1002 and 1003 require that cases under the Code be commenced by filing a petition “with the bankruptcy court.” Other sections of the Code and other rules refer to or contemplate filing but there is no specific reference to filing with the bankruptcy court.
-For example, §501 of the Code requires filing of proofs of claim and Rule 3016(c) requires the filing of a disclosure statement.
-This subdivision applies to all situations in which filing is required.
-Except when filing in another district is authorized by 28 U.S.C. §1473, all papers, including complaints commencing adversary proceedings, must be filed in the court where the case under the Code is pending.
-
-Subdivision (b) is the same as former Bankruptcy Rule 509(c).
 
 References in Text
 
@@ -4598,6 +4624,20 @@ Rule 7007. Pleadings Allowed
 
 Rule 7 F.R.Civ.P. applies in adversary proceedings.
 
+Rule 7007.1. Corporate Ownership Statement
+
+(a) Required Disclosure
+
+Any corporation that is a party to an adversary proceeding, other than the debtor or a governmental unit, shall file two copies of a statement that identifies any corporation, other than a governmental unit, that directly or indirectly owns 10% or more of any class of the corporation's equity interests, or states that there are no entities to report under this subdivision.
+
+(b) Time for Filing
+
+A party shall file the statement required under Rule 7007.1(a) with its first pleading in an adversary proceeding.
+A party shall file a supplemental statement promptly upon any change in circumstances that this rule requires the party to identify or disclose.
+
+(Added Mar. 27, 2003, eff.
+Dec. 1, 2003.)
+
 Rule 7008. General Rules of Pleading
 
 (a) Applicability of Rule 8 F.R.Civ.P.
@@ -4623,35 +4663,6 @@ Rule 10 F.R.Civ.P. applies in adversary proceedings, except that the caption of 
 
 (As amended Apr. 30, 1991, eff.
 Aug. 1, 1991.)
-
-Rule 7012. Defenses and Objections—When and How Presented—By Pleading or Motion—Motion for Judgment on the Pleadings
-
-(a) When Presented
-
-If a complaint is duly served, the defendant shall serve an answer within 30 days after the issuance of the summons, except when a different time is prescribed by the court.
-The court shall prescribe the time for service of the answer when service of a complaint is made by publication or upon a party in a foreign country.
-A party served with a pleading stating a cross-claim shall serve an answer thereto within 20 days after service.
-The plaintiff shall serve a reply to a counterclaim in the answer within 20 days after service of the answer or, if a reply is ordered by the court, within 20 days after service of the order, unless the order otherwise directs.
-The United States or an officer or agency thereof shall serve an answer to a complaint within 35 days after the issuance of the summons, and shall serve an answer to a cross-claim, or a reply to a counterclaim, within 35 days after service upon the United States attorney of the pleading in which the claim is asserted.
-The service of a motion permitted under this rule alters these periods of time as follows, unless a different time is fixed by order of the court: (1) if the court denies the motion or postpones its disposition until the trial on the merits, the responsive pleading shall be served within 10 days after notice of the court's action; (2) if the court grants a motion for a more definite statement, the responsive pleading shall be served within 10 days after the service of a more definite statement.
-
-(b) Applicability of Rule 12(b)–(h) F.R.Civ.P.
-
-Rule 12(b)–(h) F.R.Civ.P. applies in adversary proceedings.
-A responsive pleading shall admit or deny an allegation that the proceeding is core or non-core.
-If the response is that the proceeding in non-core, it shall include a statement that the party does or does not consent to entry of final orders or judgment by the bankruptcy judge.
-In non-core proceedings final orders and judgments shall not be entered on the bankruptcy judge's order except with the express consent of the parties.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
-
-Notes of Advisory Committee on Rules—1983
-
-Subdivision (a) continues the practice of former Bankruptcy Rule 712(a) by requiring that the answer to a complaint be filed within 30 days after the issuance of the summons.
-Under Rule 7004(f), the summons must be served within 10 days of issuance.
-The other pleading periods in adversary proceedings are the same as those in civil actions before the district courts, except that the United States is allowed 35 rather than 60 days to respond.
-
-Rule 12(b)(7) and (h)(2) F.R.Civ.P. refers to Rule 19 F.R.Civ.P. Pursuant to Rule 7002 these references are to Rule 19 F.R.Civ.P. as incorporated and modified by Rule 7019.
 
 Rule 7013. Counterclaim and Cross-Claim
 
@@ -6510,7 +6521,7 @@ The form is designed for use with automated printing and mailing equipment.
 Two free lines, which do not appear on the printed blank form, have been programmed into the form.
 Courts may use this space to add local information, such as directions for obtaining copies of the debtor's schedules.
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2001; Dec. 1, 2002.)
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2001; Dec. 1, 2002; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6586,6 +6597,11 @@ Committee Notes on Rules—2002 Amendment
 
 The form has been amended to provide a checkbox for designating a clearing bank case filed under subchapter V of chapter 7 of the Code enacted by §112 of Pub. L. No. 106–554 (December 21, 2000).
 
+Committee Notes on Rules—2003 Amendment
+
+The form is amended to require the debtor to disclose only the last four digits of the debtor's social security number to afford greater privacy to the individual debtor, whose bankruptcy case records may be available on the Internet.
+Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
+
 Form 2
 
 (Added Aug. 1, 1991.)
@@ -6601,7 +6617,7 @@ Form 3
 
 Form 3
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6620,6 +6636,10 @@ Notes of Advisory Committee on Rules—1997 Amendment
 The form has been reorganized and the paragraphs numbered.
 The debtor's certification concerning payment for services in the case has been placed ahead of the statement of proposed terms for installment payment of court fees.
 Acknowledgement by the debtor of the potential consequences of failure to pay any installment when due has been added. (See 11 U.S.C. §707(a)(2).) The language of the form also has been changed to conform to Rule 1006 and to clarify that a debtor is not disqualified from paying the filing fee in installments because the debtor has paid money to a bankruptcy petition preparer.
+
+Committee Notes on Rules—2003 Amendment
+
+Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document pursuant to §110(c) of the Code.
 
 Form 4
 
@@ -6642,7 +6662,7 @@ Form 5
 
 Form 5
 
-(Added Aug. 1, 1991; amended Sept. 22, 1992; Dec. 1, 2002.)
+(Added Aug. 1, 1991; amended Sept. 22, 1992; Dec. 1, 2002; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6678,7 +6698,10 @@ Committee Notes on Rules—2002 Amendment
 
 The form is amended to give notice that no filing fee is required if a child support creditor or its representative is a petitioner, and if the petitioner also files a form detailing the child support debt, its status, and other characteristics, as specified in §304(g) of the Bankruptcy Reform Act of 1994, Pub. L. No. 103–394, 108 Stat. 4106 (Oct. 22, 1994).
 
-Form 6
+Committee Notes on Rules—2003 Amendment
+
+The form is amended to require the petitioner to disclose the debtor's employer identification number, if any, and only the last four digits of the debtor's social security number to afford greater privacy to the individual debtor, whose bankruptcy case records may be available on the Internet.
+The form also is amended to delete the request for information concerning the “Type of Business,” as this data no longer is collected for statistical purposes.
 
 Form 6
 
@@ -6714,7 +6737,11 @@ Form 6
 
 Form 6
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997.)
+Form 6
+
+Form 6
+
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6817,7 +6844,11 @@ Notes of Advisory Committee on Rules—1997 Amendment
 The form is amended to add to the column labels a reference to community liability for claims.
 The amendment is technical and corrects an editorial oversight.
 
-Form 7
+Committee Notes on Rules—2003 Amendment
+
+The instructions to Schedule D (Creditors Holding Secured Claims), Schedule E (Creditors Holding Unsecured Priority Claims), and Schedule F (Creditors Holding Unsecured Nonpriority Claims) are amended to inform the debtor that the debtor must list the last four digits of any account number with the listed creditor, and that the debtor may, in its discretion, include the entire account number in the schedules.
+Schedule I (Current Income of Individual Debtor(s)) is amended to provide greater privacy to minors and other dependents of the debtor by deleting the requirement that the debtor disclose their names.
+Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
 
 Form 7
 
@@ -6839,7 +6870,9 @@ Form 7
 
 Form 7
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Sept. 19, 2000.)
+Form 7
+
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Sept. 19, 2000; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6872,11 +6905,15 @@ One reason for the longer “reach back” period is that business debtors often
 Another is that some of the questions already addressed to business debtors request information for the six-year period before the commencement of the case.
 Application of a six-year period to this section of the form will assure disclosure of all relevant information.
 
+Committee Notes on Rules—2003 Amendment
+
+Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
+
 Form 8
 
  
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6895,7 +6932,9 @@ The form is amended to conform more closely to the language of the Bankruptcy Co
 The amendments also make clear that the form is not intended to take a position regarding whether the options stated on the form are the only choices available to the debtor.
 Compare Lowry Federal Credit Union v. West, 882 F.2d 1543 (10th Cir. 1989), with In re Taylor, 3 F.3d 1512 (11th Cir. 1993).
 
-Form 9
+Committee Notes on Rules—2003 Amendment
+
+Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
 
 Form 9
 
@@ -6941,7 +6980,9 @@ Form 9
 
 Form 9
 
-(Added Aug. 1, 1991; amended Sept. 22, 1992; Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997.)
+Form 9
+
+(Added Aug. 1, 1991; amended Sept. 22, 1992; Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6977,13 +7018,22 @@ Recipients are told that papers must be received by the bankruptcy clerk's offic
 The box for the trustee has been deleted from the chapter 11 notices (Forms 9E and 9F and the alternates). Various alternatives are set out in brackets in many of the forms, permitting each bankruptcy clerk's office to tailor the forms even more precisely to fit the needs of a particular case.
 The court may use blank spaces on the form to include additional information applicable to the particular district.
 
+Committee Notes on Rules—2003 Amendment
+
+The form is amended to add to the information provided to creditors, the trustee and the United States trustee, all the names used by the debtor during the six years prior to the filing of the petition.
+The form includes the debtor's full employer identification number, if any, as well as the last four digits of the debtor's social security number.
+Rule 2002(a)(1) also is amended to direct the clerk to include the debtor's full social security number and employer identification number on the notices served on the United States trustee, the trustee, and creditors.
+This will enable creditors to identify the debtor accurately.
+The copy of Official Form 9 included in the case file, however, will show only the last four digits of the debtor's social security number.
+This should afford greater privacy to the individual debtor, whose bankruptcy case records may be available on the Internet.
+
 Form 10
 
 Form 10
 
  
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997.)
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -7016,6 +7066,11 @@ Numbered sections 4. and 5. of the form have been reformatted to eliminate redun
 A creditor will report the total amount of the claim first, and will report only that amount unless the claim is secured by collateral or entitled to a priority under §507 of the Code.
 
 Explanatory definitions and instructions for completing the form also have been added.
+
+Committee Notes on Rules—2003 Amendment
+
+The form is amended to require a wage, salary, or other compensation creditor to disclose only the last four digits of the creditor's social security number to afford greater privacy to the creditor.
+A trustee can request the full information necessary for tax withholding and reporting at the time the trustee makes a distribution to creditors.
 
 Form 11A
 
@@ -7100,7 +7155,7 @@ The form is amended to conform to the December 1, 2001, amendments to Rule 3020.
 
 Form 16A
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -7114,6 +7169,10 @@ Notes of Advisory Committee on Rules—1995 Amendment
 
 The form is amended to provide for the debtor's address to appear in the caption in furtherance of the duty of the debtor to include this information on every notice given by the debtor.
 The Bankruptcy Reform Act of 1994 amended section 342 of the Code to add this requirement.
+
+Committee Notes on Rules—2003 Amendment
+
+The form is amended to require disclosure of only the last four digits of the debtor's social security number to afford greater privacy to the individual debtor, whose bankruptcy case records may be available over the Internet.
 
 Form 16B
 
@@ -7133,7 +7192,7 @@ The title of this form is amended to specify that it can be used when section 34
 
 Form 16C
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -7143,6 +7202,13 @@ Rule 7010 refers to this form as providing the caption of a pleading in an adver
 Notes of Advisory Committee on Rules—1995 Amendment
 
 The form is amended to conform to the amendments made to section 342 of the Code by the Bankruptcy Reform Act of 1994.
+
+Committee Notes on Rules—2003 Amendment
+
+The form is abrogated.
+An amendment to Official Form 16A directs that only the last four digits of the debtor's social security number should appear in a caption.
+Section 342(c) of the Bankruptcy Code continues to require the debtor to provide a creditor with the debtor's name, address, and taxpayer identification number on any notice the debtor is required to give to the creditor.
+An individual debtor can fulfill this requirement by including the debtor's social security account number on only the creditor's copy of any notice or summons the debtor may serve on the creditor.
 
 Form 16D
 
@@ -7201,7 +7267,7 @@ The bracketed sentence in the second paragraph should be included when the case 
 
 Form 19
 
-(Added Mar. 14, 1995.)
+(Added Mar. 14, 1995; amended Dec. 1, 2003.)
 
 Notes of Advisory Committee on Rules—1995
 
@@ -7209,6 +7275,10 @@ This form is new.
 The Bankruptcy Reform Act of 1994 requires a “bankruptcy petition preparer,” as defined in 11 U.S.C. §110, to sign any “document for filing” that the bankruptcy petition preparer prepares for compensation on behalf of a debtor, to disclose on the document certain information, and to provide the debtor with a copy of the document.
 This form or adaptations of this form have been incorporated into the official forms of the voluntary petition, the schedules, the statement of financial affairs, and other official forms that typically would be prepared for a debtor by a bankruptcy petition preparer.
 This form is to be used in connection with any other document that a bankruptcy petition preparer prepares for filing by a debtor in a bankruptcy case.
+
+Committee Notes on Rules—2003 Amendment
+
+Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
 
 Form 20A
 
@@ -7247,4 +7317,15 @@ These forms are not intended to dictate the specific procedures to be used by di
 The forms contain optional language that can be used or adapted, depending on local procedures.
 Similarly, the signature line will be adapted to identify the actual sender of the notice in each circumstance.
 All adaptations of the form should carry out the intent to give notice of applicable procedures in easily understood language.
+
+Form 21
+
+(Added Dec. 1, 2003.)
+
+Committee Notes on Rules—2003
+
+The form implements Rule 1007(f), which requires a debtor to submit a statement under penalty of perjury setting out the debtor's Social Security number.
+The form is necessary because Rule 1005 provides that the caption of the petition includes only the final four digits of the debtor's Social Security number.
+The statement provides the information necessary for the clerk to include the debtor's full Social Security number on the notice of the meeting of creditors, as required under Rule 2002(a)(1). Creditors in a case, along with the trustee and United States trustee or bankruptcy administrator, will receive the full Social Security number on their copy of the notice of the meeting of creditors.
+The copy of that notice which goes into the court file will show only the last four digits of the number.
 

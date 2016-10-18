@@ -678,6 +678,10 @@ Sections 3(a)(12) and 17A of the Securities Exchange Act of 1934, referred to in
 
 The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
+Short Title of 2003 Amendment
+
+Pub. L. 108–73, §1, Aug. 15, 2003, 117 Stat. 891, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Family Farmer Bankruptcy Relief Act of 2003’.”
+
 Short Title of 2002 Amendment
 
 Pub. L. 107–377, §1, Dec. 19, 2002, 116 Stat. 3115, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title, and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Protection of Family Farmers Act of 2002’.”
@@ -2119,6 +2123,146 @@ However, if the property would not have come into the estate in any event, the c
 
 The Bankruptcy Commission recommended a provision similar to this that would have also permitted an examination of the debtor's transactions with insiders. S. 236, 94th Cong., 1st sess, sec. 4–311(b) (1975). Its exclusion here is to permit it to be dealt with by the Rules of Bankruptcy Procedure.
 It is not intended that the provision be deleted entirely, only that the flexibility of the rules is more appropriate for such evidentiary matters.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 330, 541 of this title.
+
+§330. Compensation of officers
+
+(a)(1) After notice to the parties in interest and the United States Trustee and a hearing, and subject to sections 326, 328, and 329, the court may award to a trustee, an examiner, a professional person employed under section 327 or 1103—
+
+(A) reasonable compensation for actual, necessary services rendered by the trustee, examiner, professional person, or attorney and by any paraprofessional person employed by any such person; and
+
+(B) reimbursement for actual, necessary expenses.
+
+(2) The court may, on its own motion or on the motion of the United States Trustee, the United States Trustee for the District or Region, the trustee for the estate, or any other party in interest, award compensation that is less than the amount of compensation that is requested.
+
+(3)(A) 1 In determining the amount of reasonable compensation to be awarded, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
+
+(A) the time spent on such services;
+
+(B) the rates charged for such services;
+
+(C) whether the services were necessary to the administration of, or beneficial at the time at which the service was rendered toward the completion of, a case under this title;
+
+(D) whether the services were performed within a reasonable amount of time commensurate with the complexity, importance, and nature of the problem, issue, or task addressed; and
+
+(E) whether the compensation is reasonable based on the customary compensation charged by comparably skilled practitioners in cases other than cases under this title.
+
+(4)(A) Except as provided in subparagraph (B), the court shall not allow compensation for—
+
+(i) unnecessary duplication of services; or
+
+(ii) services that were not—
+
+(I) reasonably likely to benefit the debtor's estate; or
+
+(II) necessary to the administration of the case.
+
+(B) In a chapter 12 or chapter 13 case in which the debtor is an individual, the court may allow reasonable compensation to the debtor's attorney for representing the interests of the debtor in connection with the bankruptcy case based on a consideration of the benefit and necessity of such services to the debtor and the other factors set forth in this section.
+
+(5) The court shall reduce the amount of compensation awarded under this section by the amount of any interim compensation awarded under section 331, and, if the amount of such interim compensation exceeds the amount of compensation awarded under this section, may order the return of the excess to the estate.
+
+(6) Any compensation awarded for the preparation of a fee application shall be based on the level and skill reasonably required to prepare the application.
+
+(b)(1) There shall be paid from the filing fee in a case under chapter 7 of this title $45 to the trustee serving in such case, after such trustee's services are rendered.
+
+(2) The Judicial Conference of the United States—
+
+(A) shall prescribe additional fees of the same kind as prescribed under section 1914(b) of title 28; and
+
+(B) may prescribe notice of appearance fees and fees charged against distributions in cases under this title;
+
+to pay $15 to trustees serving in cases after such trustees’ services are rendered.
+Beginning 1 year after the date of the enactment of the Bankruptcy Reform Act of 1994, such $15 shall be paid in addition to the amount paid under paragraph (1).
+
+(c) Unless the court orders otherwise, in a case under chapter 12 or 13 of this title the compensation paid to the trustee serving in the case shall not be less than $5 per month from any distribution under the plan during the administration of the plan.
+
+(d) In a case in which the United States trustee serves as trustee, the compensation of the trustee under this section shall be paid to the clerk of the bankruptcy court and deposited by the clerk into the United States Trustee System Fund established by section 589a of title 28.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 330(a) contains the standard of compensation adopted in H.R. 8200 as passed by the House rather than the contrary standard contained in the Senate amendment.
+Attorneys’ fees in bankruptcy cases can be quite large and should be closely examined by the court.
+However bankruptcy legal services are entitled to command the same competency of counsel as other cases.
+In that light, the policy of this section is to compensate attorneys and other professionals serving in a case under title 11 at the same rate as the attorney or other professional would be compensated for performing comparable services other than in a case under title 11. Contrary language in the Senate report accompanying S. 2266 is rejected, and Massachusetts Mutual Life Insurance Company v. Brock, 405 F.2d 429, 432 (5th Cir. 1968) is overruled.
+Notions of economy of the estate in fixing fees are outdated and have no place in a bankruptcy code.
+
+Section 330(a)(2) of the Senate amendment is deleted although the Securities and Exchange Commission retains a right to file an advisory report under section 1109.
+
+Section 330(b) of the Senate amendment is deleted as unnecessary, as the limitations contained therein are covered by section 328(c) of H.R. 8200 as passed by the House and contained in the House amendment.
+
+Section 330(c) of the Senate amendment providing for a trustee to receive a fee of $20 for each estate from the filing fee paid to the clerk is retained as section 330(b) of the House amendment.
+The section will encourage private trustees to serve in cases under title 11 and in pilot districts will place less of a burden on the U.S. trustee to serve in no-asset cases.
+
+Section 330(b) of H.R. 8200 as passed by the House is retained by the House amendment as section 330(c) [section 15330].
+
+senate report no. 95–989
+
+Section 330 authorizes the court to award compensation for services and reimbursement of expenses of officers of the estate, and other professionals.
+The compensation is to be reasonable, for economy in administration is the basic objective.
+Compensation is to be for actual necessary services, based on the time spent, the nature, the extent and the value of the services rendered, and the cost of comparable services in nonbankruptcy cases.
+There are the criteria that have been applied by the courts as analytic aids in defining “reasonable” compensation.
+
+The reference to “the cost of comparable services” in a nonbankruptcy case is not intended as a change of existing law.
+In a bankruptcy case fees are not a matter for private agreement.
+There is inherent a “public interest” that “must be considered in awarding fees,” Massachusetts Mutual Life Insurance Co. v. Brock, 405 F.2d 429, 432 (C.A.5, 1968), cert. denied, 395 U.S. 906 (1969). An allowance is the result of a balance struck between moderation in the interest of the estate and its security holders and the need to be “generous enough to encourage” lawyers and others to render the necessary and exacting services that bankruptcy cases often require.
+In re Yale Express System, Inc., 366 F.Supp. 1376, 1381 (S.D.N.Y. 1973). The rates for similar kinds of services in private employment is one element, among others, in that balance.
+Compensation in private employment noted in subsection (a) is a point of reference, not a controlling determinant of what shall be allowed in bankruptcy cases.
+
+One of the major reforms in 1938, especially for reorganization cases, was centralized control over fees in the bankruptcy courts.
+See Brown v. Gerdes, 321 U.S. 178, 182–184 (1944); Leiman v. Guttman, 336 U.S. 1, 4–9 (1949). It was intended to guard against a recurrence of “the many sordid chapters” in “the history of fees in corporate reorganizations.” Dickinson Industrial Site, Inc. v. Cowan, 309 U.S. 382, 388 (1940). In the years since then the bankruptcy bar has flourished and prospered, and persons of merit and quality have not eschewed public service in bankruptcy cases merely because bankruptcy courts, in the interest of economy in administration, have not allowed them compensation that may be earned in the private economy of business or the professions.
+There is no reason to believe that, in generations to come, their successors will be less persuaded by the need to serve in the public interest because of stronger allures of private gain elsewhere.
+
+Subsection (a) provides for compensation of paraprofessionals in order to reduce the cost of administering bankruptcy cases.
+Paraprofessionals can be employed to perform duties which do not require the full range of skills of a qualified professional.
+Some courts have not hesitated to recognize paraprofessional services as compensable under existing law.
+An explicit provision to that effect is useful and constructive.
+
+The last sentence of subsection (a) provides that in the case of a public company—defined in section 1101(3)—the court shall refer, after a hearing, all applications to the Securities and Exchange Commission for a report, which shall be advisory only.
+In Chapter X cases in which the Commission has appeared, it generally filed reports on fee applications.
+Usually, courts have accorded the SEC's views substantial weight, as representing the opinion of a disinterested agency skilled and experienced in reorganization affairs.
+The last sentence intends for the advisory assistance of the Commission to be sought only in case of a public company in reorganization under chapter 11.
+
+Subsection (b) reenacts section 249 of Chapter X of the Bankruptcy Act ([former] 11 U.S.C. 649). It is a codification of equitable principles designed to prevent fiduciaries in the case from engaging in the specified transactions since they are in a position to gain inside information or to shape or influence the course of the reorganization.
+Wolf v. Weinstein, 372 U.S. 633 (1963). The statutory bar of compensation and reimbursement is based on the principle that such transactions involve conflicts of interest.
+Private gain undoubtedly prompts the purchase or sale of claims or stock interests, while the fiduciary's obligation is to render loyal and disinterested service which his position of trust has imposed upon him.
+Subsection (b) extends to a trustee, his attorney, committees and their attorneys, or any other persons “acting in the case in a representative or fiduciary capacity.” It bars compensation to any of the foregoing, who after assuming to act in such capacity has purchased or sold, directly or indirectly, claims against, or stock in the debtor.
+The bar is absolute.
+It makes no difference whether the transaction brought a gain or loss, or neither, and the court is not authorized to approve a purchase or sale, before or after the transaction.
+The exception is for an acquisition or transfer “otherwise” than by a voluntary purchase or sale, such as an acquisition by bequest.
+See Otis & Co. v. Insurance Bldg.
+Corp., 110 F.2d 333, 335 (C.A.1, 1940).
+
+Subsection (c) [enacted as (b)] is intended for no asset liquidation cases where minimal compensation for trustees is needed.
+The sum of $20 will be allowed in each case, which is double the amount provided under current law.
+
+house report no. 95–595
+
+Section 330 authorizes compensation for services and reimbursement of expenses of officers of the estate.
+It also prescribes the standards on which the amount of compensation is to be determined.
+As noted above, the compensation allowable under this section is subject to the maxima set out in sections 326, 328, and 329. The compensation is to be reasonable, for actual necessary services rendered, based on the time, the nature, the extent, and the value of the services rendered, and on the cost of comparable services other than in a case under the bankruptcy code.
+The effect of the last provision is to overrule In re Beverly Crest Convalescent Hospital, Inc., 548 F.2d 817 (9th Cir. 1976, as amended 1977), which set an arbitrary limit on fees payable based on the amount of a district judge's salary, and other, similar cases that require fees to be determined based on notions of conservation of the estate and economy of administration.
+If that case were allowed to stand, attorneys that could earn much higher incomes in other fields would leave the bankruptcy arena.
+Bankruptcy specialists, who enable the system to operate smoothly, efficiently, and expeditiously, would be driven elsewhere, and the bankruptcy field would be occupied by those who could not find other work and those who practice bankruptcy law only occasionally almost as a public service.
+Bankruptcy fees that are lower than fees in other areas of the legal profession may operate properly when the attorneys appearing in bankruptcy cases do so intermittently, because a low fee in a small segment of a practice can be absorbed by other work.
+Bankruptcy specialists, however, if required to accept fees in all of their cases that are consistently lower than fees they could receive elsewhere, will not remain in the bankruptcy field.
+
+This subsection provides for reimbursement of actual, necessary expenses.
+It further provides for compensation of paraprofessionals employed by professional persons employed by the estate of the debtor.
+The provision is included to reduce the cost of administering bankruptcy cases.
+In nonbankruptcy areas, attorneys are able to charge for a paraprofessional's time on an hourly basis, and not include it in overhead.
+If a similar practice does not pertain in bankruptcy cases then the attorney will be less inclined to use paraprofessionals even where the work involved could easily be handled by an attorney's assistant, at much lower cost to the estate.
+This provision is designed to encourage attorneys to use paraprofessional assistance where possible, and to insure that the estate, not the attorney, will bear the cost, to the benefit of both the estate and the attorneys involved.
+
+References in Text
+
+The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 103–394, which was approved Oct. 22, 1994.
 
 Section Referred to in Other Sections
 
@@ -6368,6 +6512,67 @@ Subsection (a) is the “strong arm clause” of current law, now found in Bankr
 Subsection (b) is derived from current section 70e [section 110(e) of former title 11]. It gives the trustee the rights of actual unsecured creditors under applicable law to void transfers.
 It follows Moore v. Bay, 284 U.S. 4 (1931), and overrules those cases that hold section 70e gives the trustee the rights of secured creditors.
 
+Construction of 1998 Amendment
+
+Pub. L. 105–183, §6, June 19, 1998, 112 Stat. 519, provided that: “Nothing in the amendments made by this Act [amending this section and sections 546, 548, 707, and 1325 of this title] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb [2000bb] et seq.).”
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 106, 303, 349, 502, 522, 541, 546, 548, 550, 551, 552, 749, 764, 901, 926 of this title; title 28 section 1409.
+
+§545. Statutory liens
+
+The trustee may avoid the fixing of a statutory lien on property of the debtor to the extent that such lien—
+
+(1) first becomes effective against the debtor—
+
+(A) when a case under this title concerning the debtor is commenced;
+
+(B) when an insolvency proceeding other than under this title concerning the debtor is commenced;
+
+(C) when a custodian is appointed or authorized to take or takes possession;
+
+(D) when the debtor becomes insolvent;
+
+(E) when the debtor's financial condition fails to meet a specified standard; or
+
+(F) at the time of an execution against property of the debtor levied at the instance of an entity other than the holder of such statutory lien;
+
+(2) is not perfected or enforceable at the time of the commencement of the case against a bona fide purchaser that purchases such property at the time of the commencement of the case, whether or not such a purchaser exists;
+
+(3) is for rent; or
+
+(4) is a lien of distress for rent.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §460, July 10, 1984, 98 Stat. 377.)
+
+Historical and Revision Notes
+
+legislative statements
+
+Section 545 of the House amendment modifies similar provisions contained in the House bill and Senate amendment to make clear that a statutory lien may be avoided under section 545 only to the extent the lien violates the perfection standards of section 545. Thus a Federal tax lien is invalid under section 545(2) with respect to property specified in sections 6323(b) and (c) of the Internal Revenue Code of 1954 [title 26]. As a result of this modification, section 545(b) of the Senate amendment is deleted as unnecessary.
+
+Statutory liens: The House amendment retains the provision of section 545(2) of the House bill giving the trustee in a bankruptcy case the same power which a bona fide purchaser has to take over certain kinds of personal property despite the existence of a tax lien covering that property.
+The amendment thus retains present law, and deletes section 545(b) of the Senate amendment which would have no longer allowed the trustee to step into the shoes of a bona fide purchaser for this purpose.
+
+senate report no. 95–989
+
+This section permits the trustee to avoid the fixing of certain statutory liens.
+It is derived from subsections 67b and 67c of present law [section 107(b) and (c) of former title 11]. Liens that first become effective on the bankruptcy or insolvency of the debtor are voidable by the trustee.
+Liens that are not perfected or enforceable on the date of the petition against a bona fide purchaser are voidable.
+If a transferee is able to perfect under section 546(a) and that perfection relates back to an earlier date, then in spite of the filing of the bankruptcy petition, the trustee would not be able to defeat the lien, because the lien would be perfected and enforceable against a bona fide purchaser that purchased the property on the date of the filing of the petition.
+Finally, a lien for rent or of distress for rent is voidable, whether the lien is a statutory lien or a common law lien of distress for rent.
+See proposed 11 U.S.C. 101(37); Bankruptcy Act §67(c)(1)(C). The trustee may avoid a lien under this section even if the lien has been enforced by sale before the commencement of the case.
+To that extent, Bankruptcy Act §67c(5) is not followed.
+
+Subsection (b) limits the trustee's power to avoid tax liens under Federal, state, or local law.
+For example, under §6323 of the Internal Revenue Code [Title 26]. Once public notice of a tax lien has been filed, the Government is generally entitled to priority over subsequent lienholders.
+However, certain purchasers who acquire an interest in certain specific kinds of personal property will take free of an existing filed tax lien attaching to such property.
+Among the specific kinds of personal property which a purchaser can acquire free of an existing tax lien (unless the buyer knows of the existence of the lien) are stocks and securities, motor vehicles, inventory, and certain household goods.
+Under the present Bankruptcy Act (§67(c)(1)) [section 107(c)(1) of former title 11], the trustee may be viewed as a bona fide purchaser, so that he can take over any such designated items free of tax liens even if the tax authority has perfected its lien.
+However, the reasons for enabling a bona fide purchaser to take these kinds of assets free of an unfiled tax lien, that is, to encourage free movement of these assets in general commerce, do not apply to a trustee in a title 11 case, who is not in the same position as an ordinary bona fide purchaser as to such property.
+The bill accordingly adds a new subsection (b) to sec. 545 providing, in effect, that a trustee in bankruptcy does not have the right under this section to take otherwise specially treated items of personal property free of a tax lien filed before the filing of the petition.
+
 Section Referred to in Other Sections
 
 This section is referred to in sections 106, 303, 349, 502, 522, 546, 547, 548, 550, 551, 552, 749, 764, 901, 926 of this title; title 26 sections 6327, 7437.
@@ -7473,56 +7678,6 @@ If creditors do not elect a successor, or if a trustee is needed in a reopened c
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 322, 557 of this title.
-
-§704. Duties of trustee
-
-The trustee shall—
-
-(1) collect and reduce to money the property of the estate for which such trustee serves, and close such estate as expeditiously as is compatible with the best interests of parties in interest;
-
-(2) be accountable for all property received;
-
-(3) ensure that the debtor shall perform his intention as specified in section 521(2)(B) of this title;
-
-(4) investigate the financial affairs of the debtor;
-
-(5) if a purpose would be served, examine proofs of claims and object to the allowance of any claim that is improper;
-
-(6) if advisable, oppose the discharge of the debtor;
-
-(7) unless the court orders otherwise, furnish such information concerning the estate and the estate's administration as is requested by a party in interest;
-
-(8) if the business of the debtor is authorized to be operated, file with the court, with the United States trustee, and with any governmental unit charged with responsibility for collection or determination of any tax arising out of such operation, periodic reports and summaries of the operation of such business, including a statement of receipts and disbursements, and such other information as the United States trustee or the court requires; and
-
-(9) make a final report and file a final account of the administration of the estate with the court and with the United States trustee.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §217, Oct. 27, 1986, 100 Stat. 3100.)
-
-Historical and Revision Notes
-
-legislative statements
-
-Section 704(8) of the Senate amendment is deleted in the House amendment.
-Trustees should give constructive notice of the commencement of the case in the manner specified under section 549(c) of title 11.
-
-senate report no. 95–989
-
-The essential duties of the trustee are enumerated in this section.
-Others, or elaborations on these, may be prescribed by the Rules of Bankruptcy Procedure to the extent not inconsistent with those prescribed by this section.
-The duties are derived from section 47a of the Bankruptcy Act [section 75(a) of former title 11].
-
-The trustee's principal duty is to collect and reduce to money the property of the estate for which he serves, and to close up the estate as expeditiously as is compatible with the best interests of parties in interest.
-He must be accountable for all property received, and must investigate the financial affairs of the debtor.
-If a purpose would be served (such as if there are assets that will be distributed), the trustee is required to examine proofs of claims and object to the allowance of any claim that is improper.
-If advisable, the trustee must oppose the discharge of the debtor, which is for the benefit of general unsecured creditors whom the trustee represents.
-
-The trustee is responsible to furnish such information concerning the estate and its administration as is requested by a party in interest.
-If the business of the debtor is authorized to be operated, then the trustee is required to file with governmental units charged with the responsibility for collection or determination of any tax arising out of the operation of the business periodic reports and summaries of the operation, including a statement of receipts and disbursements, and such other information as the court requires.
-He is required to give constructive notice of the commencement of the case in the manner specified under section 342(b).
-
-Section Referred to in Other Sections
-
 This section is referred to in sections 782, 1106, 1202, 1302, 1304 of this title; title 29 section 1342.
 
 §705. Creditors’ committee
@@ -8522,7 +8677,7 @@ In this subchapter—
 
 (C) with respect to a leverage transaction merchant, leverage transaction;
 
-(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization; or
 
 (E) with respect to a commodity options dealer, commodity option;
 
@@ -9181,179 +9336,6 @@ Continuing jurisdiction and closing of the case.
 Effect of exchange of securities before the date of the filing of the petition.
 
         
-
-Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 103, 109, 347, 362, 365, 502, 503 of this title; title 28 section 1930.
-
-SUBCHAPTER I—GENERAL PROVISIONS
-
-§901. Applicability of other sections of this title
-
-(a) Sections 301, 344, 347(b), 349, 350(b), 361, 362, 364(c), 364(d), 364(e), 364(f), 365, 366, 501, 502, 503, 504, 506, 507(a)(1), 509, 510, 524(a)(1), 524(a)(2), 544, 545, 546, 547, 548, 549(a), 549(c), 549(d), 550, 551, 552, 553, 557, 1102, 1103, 1109, 1111(b), 1122, 1123(a)(1), 1123(a)(2), 1123(a)(3), 1123(a)(4), 1123(a)(5), 1123(b), 1124, 1125, 1126(a), 1126(b), 1126(c), 1126(e), 1126(f), 1126(g), 1127(d), 1128, 1129(a)(2), 1129(a)(3), 1129(a)(6), 1129(a)(8), 1129(a)(10), 1129(b)(1), 1129(b)(2)(A), 1129(b)(2)(B), 1142(b), 1143, 1144, and 1145 of this title apply in a case under this chapter.
-
-(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) 1 of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
-
-(c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2621; Pub. L. 98–353, title III, §§353, 490, July 10, 1984, 98 Stat. 361, 383; Pub. L. 100–597, §3, Nov. 3, 1988, 102 Stat. 3028.)
-
-Historical and Revision Notes
-
-legislative statements
-
-Chapter 9 of the House amendment represents a compromise between chapter 9 of the House bill and 9 of the Senate amendment.
-In most respects this chapter follows current law with respect to the adjustment of debts of a municipality.
-Stylistic changes and minor substantive revisions have been made in order to conform this chapter with other new chapters of the bankruptcy code.
-There are few major differences between the House bill and the Senate amendment on this issue.
-Section 901 indicates the applicability of other sections of title 11 in cases under chapter 9. Included are sections providing for creditors’ committees under sections 1102 and 1103.
-
-house report no. 95–595
-
-Section 901 makes applicable appropriate provisions of other chapters of proposed title 11. The general rule set out in section 103(e) is that only the provisions of chapters 1 and 9 apply in a chapter 9 case.
-Section 901 is the exception, and specifies other provisions that do apply.
-They are as follows:
-
-§301. Voluntary cases.
-Application of this section makes clear, as under current chapter IX [chapter 9 of former title 11], that a municipal case can be commenced only by the municipality itself.
-There are no involuntary chapter 9 cases.
-
-§344. Self-incrimination; immunity.
-Application of this section is of no substantive effect for the administration of the case, but merely provides that the general rules in part V [§6001 et seq.] of title 18 govern immunity.
-
-§347(b). Unclaimed property.
-This provision currently appears in section 96(d) of chapter IX [section 416(d) of former title 11].
-
-§349. Effect of dismissal.
-This section governs the effect of a dismissal of a chapter 9 case.
-It provides in substance that rights that existed before the case that were disturbed by the commencement of the case are reinstated.
-This section does not concern grounds for dismissal, which are found in section 926.
-
-§361. Adequate protection.
-Section 361 provides the general standard for the protection of secured creditors whose property is used in a case under title 11. Its importance lies in its application to sections 362 and 364.
-
-§362. Automatic stay.
-The automatic stay provisions of the general portions of the title are incorporated into chapter 9. There is an automatic stay provided in current Bankruptcy Act §85(e) [section 405(e) of former title 11]. The thrust of section 362 is the same as that of section 85(e), but, of course, its application in chapter 9 is modernized and drafted to conform with the stay generally applicable under the bankruptcy code.
-An additional part of the automatic stay applicable only to municipal cases is included in section 922.
-
-§§364(c), 364(d), 364(e). Obtaining credit.
-This section governs the borrowing of money by a municipality in reorganization.
-It is narrower than a comparable provision in current law, section 82(b)(2) [section 402(b)(2) of former title 11]. The difference lies mainly in the removal under the bill of the authority of the court to supervise borrowing by the municipality in instances in which none of the special bankruptcy powers are involved.
-That is, if a municipality could borrow money outside of the bankruptcy court, then it should have the same authority in bankruptcy court, under the doctrine of Ashton v. Cameron Water District No. 1, 298 U.S. 513 (1936) [Tex.1936, 56 S.Ct. 892, 80 L.Ed. 1309, 31 Am.Bankr.Rep.N.S. 96, rehearing denied 57 S.Ct. 5, 299 U.S. 619, 81 L.Ed. 457] and National League of Cities v. Usery, 426 U.S. 833 (1976) [Dist.Col.1976, 96 S.Ct. 2465, 49 L.Ed.2d 245, on remand 429 F. Supp. 703]. Only when the municipality needs special authority, such as subordination of existing liens, or special priority for the borrowed funds, will the court become involved in the authorization.
-
-§365. Executory contracts and unexpired leases.
-The applicability of section 365 incorporates the general power of a bankruptcy court to authorize the assumption or rejection of executory contracts or unexpired leases found in other chapters of the title.
-This section is comparable to section 82(b)(1) of current law [section 402(b)(1) of former title 11].
-
-§366. Utility service.
-This section gives a municipality the same authority as any other debtor with respect to continuation of utility service during the proceeding, provided adequate assurance of future payment is provided.
-No comparable explicit provision is found in current law, although the case law seems to support the same result.
-
-§501. Filing of proofs of claims.
-This section permits filing of proofs of claims in a chapter 9 case.
-Note, however, that section 924 permits listing of creditors’ claims, as under chapter 11 and under section 85(b) of chapter IX [section 405(b) of former title 11].
-
-§502. Allowance of claims.
-This section applies the general allowance rules to chapter 9 cases.
-This is no change from current law.
-
-§503. Administrative expenses.
-Administrative expenses as defined in section 503 will be paid in a chapter 9 case, as provided under section 89(1) of current law [section 409(1) of former title 11].
-
-§504. Sharing of compensation.
-There is no comparable provision in current law.
-However, this provision applies generally throughout the proposed law, and will not affect the progress of the case, only the interrelations between attorneys and other professionals that participate in the case.
-
-§506. Determination of secured status.
-Section 506 specifies that claims secured by a lien should be separated, to the extent provided, into secured and unsecured claims.
-It applies generally.
-Current law follows this result, though there is no explicit provision.
-
-§507(1). Priorities.
-Paragraph (1) of section 507 requires that administrative expenses be paid first.
-This rule will apply in chapter 9 cases.
-It is presently found in section 89(1) [section 409(1) of former title 11]. The two other priorities presently found in section 89 have been deleted.
-The second for claims arising within 3 months before the case is commenced, is deleted from the statute, but may be within the court's equitable power to award, under the case of Fosdick v. Schall, 99 U.S. 235 (1878) [25 L.Ed. 339]. Leaving the provision to the courts permits greater flexibility, as under railroad cases, than an absolute three-month rule.
-The third priority under current law, for claims which are entitled to priority under the laws of the United States, is deleted because of the proposed amendment to section 3466 of the Revised Statutes [former 31 U.S.C. 191, see 31 U.S.C. 3713(a)] contained in section 321(a) of title III of the bill, which previously has given the United States an absolute first priority in chapter X [chapter 10 of former title 11] and section 77 [section 205 of former title 11] cases.
-Because the priority rules are regularized and brought together in the bankruptcy laws by this bill, the need for incorporation of priorities elsewhere specified is eliminated.
-
-§509. Claims of codebtors.
-This section provides for the treatment of sureties, guarantors, and codebtors.
-The general rule of postponement found in the other chapters will apply in chapter 9. This section adopts current law.
-
-§510. Subordination of claims.
-This section permits the court to subordinate, on equitable grounds, any claim, and requires enforcement of contractual subordination agreements, and subordination of securities rescission claims.
-The section recognizes the inherent equitable power of the court under current law, and the practice followed with respect to contractual provisions.
-
-§547. Preferences.
-Incorporation of section 547 will permit the debtor to recover preferences.
-This power will be used primarily when those who gave the preferences have been replaced by new municipal officers or when creditors coerced preferential payments.
-Unlike Bankruptcy Act §85(h) [section 405(h) of former title 11], the section does not permit the appointment of a trustee for the purpose of pursuing preferences.
-Moreover, this bill does not incorporate the other avoiding powers of a trustee for chapter 9, found in current section 85(h).
-
-§550. Liability of transfers.
-Incorporation of this section is made necessary by the incorporation of the preference section, and permits recovery by the debtor from a transferee of an avoided preference.
-
-§551. Automatic preservation of avoided transfer.
-Application of section 551 requires preservation of any avoided preference for the benefit of the estate.
-
-§552. Postpetition effect of security interest.
-This section will govern the applicability after the commencement of the case of security interests granted by the debtor before the commencement of the case.
-
-§553. Setoff.
-Under current law, certain setoff is stayed.
-Application of this section preserves that result, though the setoffs that are permitted under section 553 are better defined than under present law.
-Application of this section is necessary to stay the setoff and to provide the offsetting creditor with the protection to which he is entitled under present law.
-
-§1122. Classification of claims.
-This section is derived from current section 88(b) [section 408(b) of former title 11], and is substantially similar.
-
-§1123(a)(1)–(4), (b). Contents of plan.
-The general provisions governing contents of a chapter 11 plan are made applicable here, with two exceptions relating to the rights of stockholders, which are not applicable in chapter 9 cases.
-This section expands current law by specifying the contents of a plan in some detail.
-Section 91 of current law [section 411 of former title 11] speaks only in general terms.
-The substance of the two sections is substantially the same, however.
-
-§1124. Impairment of claims.
-The confirmation standards adopted in chapter 9 are the same as those of chapter 11. This changes current chapter IX [chapter 9 of former title 11], which requires compliance with the fair and equitable rule.
-The greater flexibility of proposed chapter 11 is carried over into chapter 9, for there appears to be no reason why the confirmation standards for the two chapters should be different, or why the elimination of the fair and equitable rule from corporate reorganizations should not be followed in municipal debt adjustments.
-The current chapter IX rule is based on the confirmation rules of current chapter X [chapter 10 of former title 11]. The change in the latter suggests a corresponding change in the former.
-Section 1124 is one part of the new confirmation standard.
-It defines impairment, for use in section 1129.
-
-§1125. Postpetition disclosure and solicitation.
-The change in the confirmation standard necessitates a corresponding change in the disclosure requirements for solicitation of acceptances of a plan.
-Under current chapter IX [chapter 9 of former title 11] there is no disclosure requirement.
-Incorporation of section 1125 will insure that creditors receive adequate information before they are required to vote on a plan.
-
-§1126(a), (b), (c), (e), (f), (g). Acceptance of plan.
-Section 1126 incorporates the current chapter IX [chapter 9 of former title 11] acceptance requirement: two-thirds in amount and a majority in number, Bankruptcy Act §92 [section 412 of former title 11]. Section 1125 permits exclusion of certain acceptances from the computation if the acceptances were obtained in bad faith or, unlike current law, if there is a conflict of interest motivating the acceptance.
-
-§1127(d). Modification of plan.
-This section governs the change of a creditor's vote on the plan after a modification is proposed.
-It is derived from current section 92(e) [section 412(e) of former title 11].
-
-§1128. Hearing on confirmation.
-This section requires a hearing on the confirmation of the plan, and permits parties in interest to object.
-It is the same as Bankruptcy Act §§93 and 94(a) [sections 413 and 414(a) of former title 11], though the provision, comparable to section 206 of current chapter X [section 606 of former title 11], permitting a labor organization to appear and be heard on the economic soundness of the plan, has been deleted as more appropriate for the Rules.
-
-§1129(a)(2), (3), (8), (b)(1), (2). Confirmation of plan.
-This section provides the boiler-plate language that the plan be proposed in good faith and that it comply with the provisions of the chapter, and also provides the financial standard for confirmation, which replaces the fair and equitable rule.
-See §1124, supra.
-
-§1142(b). Execution of plan.
-Derived from Bankruptcy Act §96(b) [section 416(b) of former title 11], this section permits the court to order execution and delivery of instruments in order to execute the plan.
-
-§1143. Distribution.
-This section is the same in substance as section 96(d) [section 416(d) of former title 11], which requires presentment or delivery of securities within five years, and bars creditors that do not act within that time.
-
-§1144. Revocation of order of confirmation.
-This section permits the court to revoke the order of confirmation and the discharge if the confirmation of the plan was procured by fraud.
-There is no comparable provision in current chapter IX [chapter 9 of former title 11].
-
-References in Text
-
-Section 103(e) of this title, referred to in subsec. (b), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, §1(a)(5) [title I, §112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.
 
 Section Referred to in Other Sections
 
@@ -11368,79 +11350,6 @@ It provides protection from legal liability as well as from equitable liability 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 901, 1126, 1127, 1145 of this title; title 28 section 586.
-
-§1126. Acceptance of plan
-
-(a) The holder of a claim or interest allowed under section 502 of this title may accept or reject a plan.
-If the United States is a creditor or equity security holder, the Secretary of the Treasury may accept or reject the plan on behalf of the United States.
-
-(b) For the purposes of subsections (c) and (d) of this section, a holder of a claim or interest that has accepted or rejected the plan before the commencement of the case under this title is deemed to have accepted or rejected such plan, as the case may be, if—
-
-(1) the solicitation of such acceptance or rejection was in compliance with any applicable nonbankruptcy law, rule, or regulation governing the adequacy of disclosure in connection with such solicitation; or
-
-(2) if there is not any such law, rule, or regulation, such acceptance or rejection was solicited after disclosure to such holder of adequate information, as defined in section 1125(a) of this title.
-
-(c) A class of claims has accepted a plan if such plan has been accepted by creditors, other than any entity designated under subsection (e) of this section, that hold at least two-thirds in amount and more than one-half in number of the allowed claims of such class held by creditors, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
-
-(d) A class of interests has accepted a plan if such plan has been accepted by holders of such interests, other than any entity designated under subsection (e) of this section, that hold at least two-thirds in amount of the allowed interests of such class held by holders of such interests, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
-
-(e) On request of a party in interest, and after notice and a hearing, the court may designate any entity whose acceptance or rejection of such plan was not in good faith, or was not solicited or procured in good faith or in accordance with the provisions of this title.
-
-(f) Notwithstanding any other provision of this section, a class that is not impaired under a plan, and each holder of a claim or interest of such class, are conclusively presumed to have accepted the plan, and solicitation of acceptances with respect to such class from the holders of claims or interests of such class is not required.
-
-(g) Notwithstanding any other provision of this section, a class is deemed not to have accepted a plan if such plan provides that the claims or interests of such class do not entitle the holders of such claims or interests to receive or retain any property under the plan on account of such claims or interests.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2634; Pub. L. 98–353, title III, §510, July 10, 1984, 98 Stat. 386.)
-
-Historical and Revision Notes
-
-legislative statements
-
-Section 1126 of the House amendment deletes section 1126(e) as contained in the House bill.
-Section 105 of the bill constitutes sufficient power in the court to designate exclusion of a creditor's claim on the basis of a conflict of interest.
-Section 1126(f) of the House amendment adopts a provision contained in section 1127(f) of the Senate bill indicating that a class that is not impaired under a plan is deemed to have accepted a plan and solicitation of acceptances from such class is not required.
-
-senate report no. 95–989
-
-Subsection (a) of this section permits the holder of a claim or interest allowed under section 502 to accept or reject a proposed plan of reorganization.
-The subsection also incorporates a provision now found in section 199 of chapter X [section 599 of former title 11] that authorizes the Secretary of the Treasury to accept or reject a plan on behalf of the United States when the United States is a creditor or equity security holder.
-
-Subsection (b) governs acceptances and rejections of plans obtained before commencement of a reorganization for a nonpublic company.
-Paragraph (3) expressly states that subsection (b) does not apply to a public company.
-
-Prepetition solicitation is a common practice under chapter XI [chapter 11 of former title 11] today, and chapter IX [chapter 9 of former title 11] current makes explicit provision for it.
-Section 1126(b) counts a prepetition acceptance or rejection toward the required amounts and number of acceptances only if the solicitation of the acceptance or rejection was in compliance with any applicable nonbankruptcy law, rule, or regulation governing the adequacy of disclosure in connection with such solicitation.
-If there is not any such applicable law, rule, or regulation, then the acceptance or rejection is counted only if it was solicited after disclosure of adequate information, to the holder, as defined in section 1125(a)(1). This permits the court to ensure that the requirements of section 1125 are not avoided by prepetition solicitation.
-
-Subsection (c) specifies the required amount and number of acceptances for a class of creditors.
-A class of creditors has accepted a plan if at least two-thirds in amount and more than one-half in number of the allowed claims of the class that are voted are cast in favor of the plan.
-The amount and number are computed on the basis of claims actually voted for or against the plan, not as under chapter X [chapter 10 of former title 11] on the basis of the allowed claims in the class.
-Subsection (f) excludes from all these calculations claims not voted in good faith, and claims procured or solicited not in good faith or not in accordance with the provisions of this title.
-
-Subsection (c) requires that the same disclosure statement be transmitted to each member of a class.
-It recognizes that the information needed for an informed judgment about the plan may differ among classes.
-A class whose rights under the plan center on a particular fund or asset would have no use for an extensive description of other matters that could not affect them.
-
-Subsection (d) relieves the court of the need to follow any otherwise applicable Federal or state law in determining the adequacy of the information contained in the disclosure statement submitted for its approval.
-It authorizes an agency or official, Federal or state, charged with administering cognate laws so pre-empted to advise the court on the adequacy of proposed disclosure statement.
-But they are not authorized to appeal the court's decision.
-
-Solicitations with respect to a plan do not involve just mere requests for opinions.
-Acceptance of the plan vitally affects creditors and shareholders, and most frequently the solicitation involves an offering of securities in exchange for claims or interests.
-The present Bankruptcy Act [former title 11] has exempted such offerings under each of its chapters from the registration and disclosure requirements of the Securities Act of 1933 [15 U.S.C. 77a et seq.], an exemption also continued by section 1145 of this title.
-The extension of the disclosure requirements to all chapter 11 cases is justified by the integration of the separate chapters into the single chapter 11. By the same token, no valid purpose is served by failing to provide exemption from the requirements of similar state laws in a matter under the exclusive jurisdiction of the Federal bankruptcy laws.
-
-Under subsection (d), with respect to a class of equity securities, it is sufficient for acceptance of the plan if the amount of securities voting for the plan is at least two-thirds of the total actually voted.
-
-Subsection (e) provides that no acceptances are required from any class whose claims or interests are unimpaired under the plan or in the order confirming the plan.
-
-Subsection (g) provides that any class denied participation under the plan is conclusively deemed to have rejected the plan.
-There is obviously no need to submit a plan for a vote by a class that is to receive nothing.
-But under subsection (g) the excluded class is like a class that has not accepted, and is a dissenting class for purposes of confirmation under section 1130.
-
-Section Referred to in Other Sections
-
 This section is referred to in sections 901, 946 of this title.
 
 §1127. Modification of plan
@@ -12659,79 +12568,6 @@ This subsection expands the protection provided.
 Subsection (b) follows present section 77(b) of the Bankruptcy Act [section 205(b) of former title 11] by giving priority to any unsecured claims that would be entitled to priority if a receiver in equity of the property of the debtor had been appointed by a Federal court on the date of the order for relief under the bankruptcy laws.
 As under current law, the courts will determine the precise contours of the priority recognized by this subsection in each case.
 
-Section Referred to in Other Sections
-
-This section is referred to in section 1165 of this title.
-
-§1172. Contents of plan
-
-(a) In addition to the provisions required or permitted under section 1123 of this title, a plan—
-
-(1) shall specify the extent to and the means by which the debtor's rail service is proposed to be continued, and the extent to which any of the debtor's rail service is proposed to be terminated; and
-
-(2) may include a provision for—
-
-(A) the transfer of any or all of the operating railroad lines of the debtor to another operating railroad; or
-
-(B) abandonment of any railroad line in accordance with section 1170 of this title.
-
-(b) If, except for the pendency of the case under this chapter, transfer of, or operation of or over, any of the debtor's rail lines by an entity other than the debtor or a successor to the debtor under the plan would require approval by the Board under a law of the United States, then a plan may not propose such a transfer or such operation unless the proponent of the plan initiates an appropriate application for such a transfer or such operation with the Board and, within such time as the court may fix, not exceeding 180 days, the Board, with or without a hearing, as the Board may determine, and with or without modification or condition, approves such application, or does not act on such application.
-Any action or order of the Board approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
-
-(c)(1) In approving an application under subsection (b) of this section, the Board shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11347 1 of title 49.
-
-(2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, §227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943.)
-
-Historical and Revision Notes
-
-legislative statements
-
-Section 1172 of the House amendment is derived from section 1171 of the House bill in preference to section 1170 of the Senate amendment with the exception that section 1170(4) of the Senate amendment is incorporated into section 1172(a)(1) of the House amendment.
-
-Section 1172(b) of the House amendment is derived from section 1171(c) of the Senate amendment.
-The section gives the Interstate Commerce Commission the exclusive power to approve or disapprove the transfer of, or operation of or over, any of the debtor's rail lines over which the Commission has jurisdiction, subject to review under the Administrative Procedures Act [5 U.S.C. 551 et seq. and 701 et seq.]. The section does not apply to a transfer of railroad lines to a successor of the debtor under a plan of reorganization by merger or otherwise.
-
-The House amendment deletes section 1171(a) of the Senate amendment as a matter to be determined by the Rules of Bankruptcy Procedure.
-It is anticipated that the rules will specify the period of time, such as 18 months, within which a trustee must file with the court a proposed plan of reorganization for the debtor or a report why a plan cannot be formulated.
-Incorporation by reference of section 1121 in section 1161 of title 11 means that a party in interest will also have a right to file a plan of reorganization.
-This differs from the position taken in the Senate amendment which would have permitted the Interstate Commerce Commission to file a plan of reorganization.
-
-senate report no. 95–989
-
-Section 1170 adds to the general provisions required or permitted in reorganization plans by section 1123. Subsection (1) requires that a reorganization plan under the railroad subchapter specify the means by which the value of the claims of creditors and the interests of equity holders which are materially and adversely affected by the plan are to be realized.
-Subsection (2) permits a plan to include provisions for the issuance of warrants.
-Subsection (3) requires that the plan provide for fixed charges by probable earnings for their payment.
-Subsection (4) requires that the plan specify the means by which, and the extent to which, the debtor's rail service is to be continued, and shall identify any rail service to be terminated.
-Subsection (5) permits other appropriate provisions not inconsistent with the chapter.
-With the exception of subsection (4), the requirements are comparable to those of present section 77(b) [section 205(b) of former title 11]; subsection (4) emphasizes the public interest in the preservation of rail transportation.
-
-Section 1171 imposes on the court, rather than the Interstate Commerce Commission, as in present section 77 [section 205 of former title 11], the responsibility for the plan of reorganization.
-The Commission is empowered to make final decisions subject only to review by the court under the standards of the Administrative Procedure Act [5 U.S.C. 551 et seq. and 701 et seq.] as to any part of the plan which deals with transportation matters, such as the grant of operating rights of or over, or transfer of, the debtor's rail lines to other carriers.
-
-Subsection (a) requires the trustee to file a plan of reorganization within 18 months after the petition is filed, and permits the court, for good cause shown, to extend such time limit.
-Subsection (b) permits a plan to be proposed by any interested person, and permits the trustee to revise his plan at any time before it is approved by the court.
-
-Subsections (c), (d) and (e) require the court, when a plan is submitted by the trustee or, if the court deems it worthy of consideration, a plan submitted is proposed by any other person proposes the transfer of, or operation of or over, any of the debtor's lines by other carriers, to refer to such provisions of the plan to the Interstate Commerce Commission.
-The Commission, within 240 days, and after a hearing if the Commission so determines, is to report to the court the effects of such provisions of the plan in the light of national transportation policy and sections 5(3)(f)(A), (B), and (D), (F)–(I) of the Interstate Commerce Act [49 U.S.C. 11350(b)(1), (2), (4), (6)–(9)]. The report of the Commission is conclusive in all further hearings on the plan by the court, subject only to review pursuant to 5 U.S.C. 706(2)(A)–(D).
-
-house report no. 95–595
-
-[Section 1171 (enacted as section 1172)] A plan in a railroad reorganization case may include provisions in addition to those required and permitted under an ordinary reorganization plan.
-It may provide for the transfer of any or all of the operating railroad lines of the debtor to another operating railroad.
-
-Paragraph (1) contemplates a liquidating plan for the debtor's rail lines, much as occurred in the Penn Central case by transfer of operating lines to ConRail.
-Such a liquidating plan is not per se contrary to the public interest, and the court will have to determine on a case-by-case basis, with the guidance of the Interstate Commerce Commission and of other parties in interest, whether the particular plan proposed is in the public interest, as required under proposed 11 U.S.C. 1172(3).
-
-The plan may also provide for abandonment in accordance with section 1169, governing abandonment generally.
-Neither of these provisions in a plan, transfer or abandonment of lines, requires ICC approval.
-Confirmation of the plan by the court authorizes the debtor to comply with the plan in accordance with section 1142(a) notwithstanding any bankruptcy law to the contrary.
-
-References in Text
-
-Section 11347 of title 49, referred to in subsec. (c)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. For provisions similar to those contained in section 11347, see section 11326(a) of Title 49.
-
 Nonapplication of Subsec. (c)
 
 For provision that subsec. (c) of this section does not apply to Amtrak and its employees, see section 142(d) of Pub. L. 105–134, set out in an Employee Protection Reforms note under section 24706 of Title 49, Transportation.
@@ -12891,7 +12727,7 @@ For termination of reenactment of this chapter by section 149(a) of Pub. L. 105�
 
 Codification
 
-Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Chapter, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5, Pub. L. 106–70, Pub. L. 107–8, Pub. L. 107–17, Pub. L. 107–170, Pub. L. 107–171, and Pub. L. 107–377, provided that this chapter, as in effect on Dec. 31, 2002, is reenacted for the period beginning on Jan. 1, 2003, and ending on July 1, 2003. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Chapter, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5, Pub. L. 106–70, Pub. L. 107–8, Pub. L. 107–17, Pub. L. 107–170, Pub. L. 107–171, Pub. L. 107–377, and Pub. L. 108–73, provided that this chapter, as in effect on June 30, 2003, is reenacted for the period beginning on July 1, 2003, and ending on Jan. 1, 2004. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
 
 Chapter Referred to in Other Sections
 
@@ -12919,7 +12755,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE
 
 (d) Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -12935,11 +12771,11 @@ Chapter effective 30 days after Oct. 27, 1986, but not applicable to cases comme
 
 Repeal, Reenactment, and Termination of Chapter
 
-Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115, provided that:
+Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891, provided that:
 
-“(a) Chapter 12 of title 11 of the United States Code, as in effect on December 31, 2002, is hereby reenacted for the period beginning on January 1, 2003, and ending on July 1, 2003.
+“(a) Chapter 12 of title 11 of the United States Code, as in effect on June 30, 2003, is hereby reenacted for the period beginning on July 1, 2003, and ending on January 1, 2004.
 
-“(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after July 1, 2003. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after July 1, 2003.”
+“(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after January 1, 2004. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after January 1, 2004.”
 
 Chapter repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, are to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings are to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
@@ -12972,7 +12808,7 @@ Otherwise, the United States trustee shall appoint one disinterested person to s
 
 (5) if the debtor ceases to be a debtor in possession, perform the duties specified in sections 704(8), 1106(a)(1), 1106(a)(2), 1106(a)(6), 1106(a)(7), and 1203.
 
-(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13006,7 +12842,7 @@ This section is referred to in sections 322, 326, 327, 546, 557, 1226 of this ti
 
 Subject to such limitations as the court may prescribe, a debtor in possession shall have all the rights, other than the right to compensation under section 330, and powers, and shall perform all the functions and duties, except the duties specified in paragraphs (3) and (4) of section 1106(a), of a trustee serving in a case under chapter 11, including operating the debtor's farm.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13026,7 +12862,7 @@ This section is referred to in sections 106, 363, 364, 1202 of this title.
 
 (b) On request of a party in interest, and after notice and a hearing, the court may reinstate the debtor in possession.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13054,7 +12890,7 @@ This section is referred to in sections 363, 364, 1207 of this title.
 
 (4) granting such other relief, other than entitling such entity to compensation allowable under section 503(b)(1) of this title as an administrative expense, as will adequately protect the value of property securing a claim or of such entity's ownership interest in property.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13072,7 +12908,7 @@ This section is referred to in section 106 of this title.
 
 After notice and a hearing, in addition to the authorization contained in section 363(f), the trustee in a case under this chapter may sell property under section 363(b) and (c) free and clear of any interest in such property of an entity other than the estate if the property is farmland or farm equipment, except that the proceeds of such sale shall be subject to such interest.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13096,7 +12932,7 @@ This section is referred to in section 106 of this title.
 
 (b) Except as provided in section 1204, a confirmed plan, or an order confirming a plan, the debtor shall remain in possession of all property of the estate.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13142,7 +12978,7 @@ Any waiver of the right to dismiss under this subsection is unenforceable.
 
 (e) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13162,7 +12998,59 @@ SUBCHAPTER II—THE PLAN
 
 The debtor shall file a plan not later than 90 days after the order for relief under this chapter, except that the court may extend such period if the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, §2, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, §2, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
+
+Termination of Section
+
+For termination of reenactment of this section by section 149(a) of Pub. L. 105–277, as amended, see Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+
+Codification
+
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 348, 1208 of this title.
+
+§1222. Contents of plan
+
+(a) The plan shall—
+
+(1) provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
+
+(2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim; and
+
+(3) if the plan classifies claims and interests, provide the same treatment for each claim or interest within a particular class unless the holder of a particular claim or interest agrees to less favorable treatment.
+
+(b) Subject to subsections (a) and (c) of this section, the plan may—
+
+(1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
+
+(2) modify the rights of holders of secured claims, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims;
+
+(3) provide for the curing or waiving of any default;
+
+(4) provide for payments on any unsecured claim to be made concurrently with payments on any secured claim or any other unsecured claim;
+
+(5) provide for the curing of any default within a reasonable time and maintenance of payments while the case is pending on any unsecured claim or secured claim on which the last payment is due after the date on which the final payment under the plan is due;
+
+(6) subject to section 365 of this title, provide for the assumption, rejection, or assignment of any executory contract or unexpired lease of the debtor not previously rejected under such section;
+
+(7) provide for the payment of all or part of a claim against the debtor from property of the estate or property of the debtor;
+
+(8) provide for the sale of all or any part of the property of the estate or the distribution of all or any part of the property of the estate among those having an interest in such property;
+
+(9) provide for payment of allowed secured claims consistent with section 1225(a)(5) of this title, over a period exceeding the period permitted under section 1222(c);
+
+(10) provide for the vesting of property of the estate, on confirmation of the plan or at a later time, in the debtor or in any other entity; and
+
+(11) include any other appropriate provision not inconsistent with this title.
+
+(c) Except as provided in subsections (b)(5) and (b)(9), the plan may not provide for payments over a period that is longer than three years unless the court for cause approves a longer period, but the court may not approve a period that is longer than five years.
+
+(d) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
+
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–394, title III, §305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13184,7 +13072,7 @@ This section is referred to in sections 1223, 1225, 1228, 1229 of this title.
 
 (c) Any holder of a secured claim that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the plan as modified, unless the modification provides for a change in the rights of such holder from what such rights were under the plan before modification, and such holder changes such holder's previous acceptance or rejection.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13204,7 +13092,7 @@ After expedited notice, the court shall hold a hearing on confirmation of the pl
 A party in interest, the trustee, or the United States trustee may object to the confirmation of the plan.
 Except for cause, the hearing shall be concluded not later than 45 days after the filing of the plan.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13256,7 +13144,7 @@ This section is referred to in title 28 section 586.
 
 (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13288,7 +13176,7 @@ If a plan is not confirmed, the trustee shall return any such payments to the de
 
 (c) Except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3111, 3124; Pub. L. 103–394, title V, §501(d)(36), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3111, 3124; Pub. L. 103–394, title V, §501(d)(36), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13316,7 +13204,7 @@ This section is referred to in section 347 of this title.
 
 (c) Except as provided in section 1228(a) of this title and except as otherwise provided in the plan or in the order confirming the plan, the property vesting in the debtor under subsection (b) of this section is free and clear of any claim or interest of any creditor provided for by the plan.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13360,7 +13248,7 @@ This section is referred to in section 106 of this title.
 
 (e) After the debtor is granted a discharge, the court shall terminate the services of any trustee serving in the case.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, §208, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, §208, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13390,7 +13278,7 @@ This section is referred to in sections 348, 523, 524, 727, 1227 of this title.
 
 (c) A plan modified under this section may not provide for payments over a period that expires after three years after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13410,7 +13298,7 @@ This section is referred to in sections 1208, 1228, 1230 of this title; title 28
 
 (b) If the court revokes an order of confirmation under subsection (a) of this section, the court shall dispose of the case under section 1207 of this title, unless, within the time fixed by the court, the debtor proposes and the court confirms a modification of the plan under section 1229 of this title.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 
@@ -13439,7 +13327,7 @@ In the event of an actual controversy, the court may declare such effects after 
 
 (2) 270 days after such request.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
 
 Termination of Section
 

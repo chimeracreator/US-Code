@@ -3609,7 +3609,7 @@ Definitions.
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 17708; title 41 sections 43, 356; title 49 section 70117.
+This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656, 7706; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 17708; title 41 sections 43, 356; title 49 section 70117.
 
 SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -6838,7 +6838,7 @@ Whoever—
 
 (ii) initiates the transmission of,
 
-any comment, request, suggestion, proposal, image, or other communication which is obscene, lewd, lascivious, filthy, or indecent, with intent to annoy, abuse, threaten, or harass another person;
+any comment, request, suggestion, proposal, image, or other communication which is obscene or child pornography, with intent to annoy, abuse, threaten, or harass another person;
 
 (B) by means of a telecommunications device knowingly—
 
@@ -6846,7 +6846,7 @@ any comment, request, suggestion, proposal, image, or other communication which 
 
 (ii) initiates the transmission of,
 
-any comment, request, suggestion, proposal, image, or other communication which is obscene or indecent, knowing that the recipient of the communication is under 18 years of age, regardless of whether the maker of such communication placed the call or initiated the communication;
+any comment, request, suggestion, proposal, image, or other communication which is obscene or child pornography, knowing that the recipient of the communication is under 18 years of age, regardless of whether the maker of such communication placed the call or initiated the communication;
 
 (C) makes a telephone call or utilizes a telecommunications device, whether or not conversation or communication ensues, without disclosing his identity and with intent to annoy, abuse, threaten, or harass any person at the called number or who receives the communications;
 
@@ -6917,7 +6917,7 @@ Whoever—
 
 (B) uses any interactive computer service to display in a manner available to a person under 18 years of age,
 
-any comment, request, suggestion, proposal, image, or other communication that, in context, depicts or describes, in terms patently offensive as measured by contemporary community standards, sexual or excretory activities or organs, regardless of whether the user of such service placed the call or initiated the communication; or
+any comment, request, suggestion, proposal, image, or other communication that is obscene or child pornography, regardless of whether the user of such service placed the call or initiated the communication; or
 
 (2) knowingly permits any telecommunications facility under such person's control to be used for an activity prohibited by paragraph (1) with the intent that it be used for such activity,
 
@@ -6983,7 +6983,7 @@ For purposes of this section—
 
 (5) The term “library” means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 355e et seq.).
 
-(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739.)
+(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739; Pub. L. 108–21, title VI, §603, Apr. 30, 2003, 117 Stat. 687.)
 
 References in Text
 
@@ -7011,7 +7011,7 @@ Section 8(c), (d) of Pub. L. 98–214 provided that:
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 152, 153, 228, 230 of this title.
+This section is referred to in sections 152, 153, 228, 230 of this title; title 15 section 7707.
 
 §224. Pole attachments
 
@@ -7495,7 +7495,7 @@ As used in this section—
 
 (1) Prohibitions
 
-It shall be unlawful for any person within the United States—
+It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States—
 
 (A) to make any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice—
 
@@ -7704,7 +7704,7 @@ Whenever the Commission has instituted a civil action for violation of regulatio
 
 As used in this subsection, the term “attorney general” means the chief legal officer of a State.
 
-(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294.)
+(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717.)
 
 Effective Date; Deadline for Regulations
 
@@ -7750,7 +7750,7 @@ Section 2 of Pub. L. 102–243 provided that: “The Congress finds that:
 
 Section Referred to in Other Sections
 
-This section is referred to in section 152 of this title.
+This section is referred to in section 152 of this title; title 15 section 7712.
 
 §228. Regulation of carrier offering of pay-per-call services
 
@@ -8441,7 +8441,7 @@ Gifts or grants not used at the termination of the Commission shall be returned 
 
 Section Referred to in Other Sections
 
-This section is referred to in section 230 of this title.
+This section is referred to in section 230 of this title; title 15 sections 7702, 7707.
 
 1 So in original.
 Probably should be “section,”.
@@ -12814,7 +12814,7 @@ Section 6002(d)(3) of Pub. L. 103–66 provided that: “Within 1 year after the
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 152, 153, 160, 222, 253, 271, 309, 1001, 1002 of this title.
+This section is referred to in sections 152, 153, 160, 222, 253, 271, 309, 1001, 1002 of this title; title 15 section 7712.
 
 §333. Willful or malicious interference
 
@@ -19336,6 +19336,10 @@ References in Text
 
 The Federal antitrust laws, referred to in subsec. (c), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
+Short Title of 2003 Amendment
+
+Pub. L. 108–39, §1, June 30, 2003, 117 Stat. 835, provided that: “This Act [amending section 763 of this title] may be cited as the ‘ORBIT Technical Corrections Act of 2003’.”
+
 Short Title of 2000 Amendment
 
 Pub. L. 106–180, §1, Mar. 17, 2000, 114 Stat. 48, provided that: “This Act [enacting subchapter VI of this chapter] may be cited as the ‘Open-market Reorganization for the Betterment of International Telecommunications Act’ or the ‘ORBIT Act’.”
@@ -19890,7 +19894,7 @@ Any successor entity or separated entity created out of INTELSAT or Inmarsat sha
 
 (i) shall be conducted, for the successor entities of INTELSAT, on or about December 31, 2003, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than June 30, 2004; and
 
-(ii) shall be conducted, for the successor entities of Inmarsat, not later than December 31, 2002, except that the Commission may extend this deadline to not later than June 30, 2003.
+(ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2004, except that the Commission may extend this deadline to not later than December 31, 2004.
 
 (B) The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.
 
@@ -19923,7 +19927,7 @@ Any successor entity or separated entity shall be subject to the jurisdiction of
 
 (C) have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
 
-(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480.)
+(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480; Pub. L. 108–39, §2, June 30, 2003, 117 Stat. 835.)
 
 Immigration Status of Alien Employees of INTELSAT after Privatization
 
@@ -20908,9 +20912,11 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
 
-Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 772, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA [National Telecommunications and Information Administration] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, 47 U.S.C. 902–903 [47 U.S.C. 901 et seq.], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 71, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA [National Telecommunications and Information Administration] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, 47 U.S.C. 902–903 [47 U.S.C. 901 et seq.], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 772.
 
 Pub. L. 106–553, §1(a)(2) [title II], Dec. 21, 2000, 114 Stat. 2762, 2762A–72.
 

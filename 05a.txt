@@ -20,7 +20,7 @@ Pub. L. 105–153, §1, Dec. 17, 1997, 111 Stat. 2689, provided that: “This Ac
 
 Act Referred to in Other Sections
 
-The Federal Advisory Committee Act is referred to in sections 562, 565 of this title; title 2 sections 1534, 1602; title 6 sections 133, 162, 451; title 7 sections 87j, 390c, 450i, 511d, 1725, 2020, 2204b, 2279b, 2286, 3123, 3124a, 3129a, 3152, 3196, 5872, 6518, 7958, 7993; title 8 section 1356; title 10 sections 946, 2012, 2164, 2166; title 12 sections 1441a, 1708, 1831h, 2246, 4703; title 15 sections 78k–1, 78q–1, 2080, 4802, 4806; title 16 sections 410nn–3, 410tt–4, 410aaa–6, 410aaa–27, 410aaa–58, 410hhh–8, 460vv–12, 460ww–5, 460mmm–6, 460nnn–51, 463, 470q, 541g, 668dd, 669h–2, 698u–5, 777m, 839b, 971b, 1386, 1387, 1389, 1421c, 1445a, 1533, 1612, 1852, 3602, 3632, 3862, 4214, 4265a, 4403, 5305c, 5404, 5601, 5607, 5705, 5723, 5958, 6105; title 18 section 208; title 19 sections 58c, 2155, 2605, 3312, 3512; title 20 sections 80q–10, 1098, 1098a, 1444, 2324, 6571, 7514, 9011, 9252, 9514, 9621; title 21 sections 360c, 679a, 1908; title 22 sections 290m–2, 2124, 2194b, 4356, 4833, 5422, 6434, 7002; title 24 section 225b; title 25 sections 166, 2018, 4046; title 29 sections 1147, 1302; title 31 section 5135; title 33 sections 467f, 2251, 2738; title 35 section 5; title 38 sections 545, 7314, 7320; title 42 sections 282, 285g–4, 285l–3, 290b–4, 300v–3, 903, 2210, 2486h, 3788, 4081, 5816, 7234, 7383, 7385o, 7492, 7506a, 10173b, 10248, 12651b, 13478, 14614, 14616; title 43 sections 1475a, 1600b, 1739, 1753; title 44 section 2701; title 45 sections 1116, 1212; title 46 sections 4508, 9307, 70112; title 46 App. section 1295b; title 47 section 332; title 49 sections 106, 726, 5119, 20133; title 50 App. section 2158.
+The Federal Advisory Committee Act is referred to in sections 562, 565 of this title; title 2 sections 1534, 1602; title 6 sections 133, 162, 451; title 7 sections 87j, 390c, 450i, 511d, 1725, 2020, 2204b, 2279b, 2286, 3123, 3124a, 3129a, 3152, 3196, 5872, 6518, 7958, 7993; title 8 section 1356; title 10 sections 946, 2012, 2164, 2166, 2705; title 12 sections 1441a, 1708, 1831h, 2246, 4703; title 15 sections 78k–1, 78q–1, 2080, 4802, 4806; title 16 sections 410nn–3, 410tt–4, 410aaa–6, 410aaa–27, 410aaa–58, 410hhh–8, 460vv–12, 460ww–5, 460mmm–6, 460nnn–51, 463, 470q, 541g, 668dd, 669h–2, 698u–5, 777m, 839b, 971b, 1386, 1387, 1389, 1421c, 1445a, 1533, 1612, 1852, 3602, 3632, 3862, 4214, 4265a, 4403, 5305c, 5404, 5601, 5607, 5705, 5723, 5958, 6105; title 18 section 208; title 19 sections 58c, 2155, 2605, 3312, 3512; title 20 sections 80q–10, 1098, 1098a, 1444, 2324, 6571, 7514, 9011, 9252, 9514, 9621; title 21 sections 360c, 679a, 1908; title 22 sections 290m–2, 2124, 2194b, 4356, 4833, 5422, 6434, 7002; title 24 section 225b; title 25 sections 166, 2018, 4046; title 29 sections 1147, 1302; title 31 section 5135; title 33 sections 467f, 2251, 2738; title 35 section 5; title 38 sections 545, 7314, 7320; title 42 sections 282, 285g–4, 285l–3, 290b–4, 300v–3, 903, 1395w–3, 2210, 2486h, 3788, 4081, 5816, 7234, 7383, 7385o, 7492, 7506a, 10173b, 10248, 12651b, 13478, 14614, 14616; title 43 sections 1475a, 1600b, 1739, 1753; title 44 section 2701; title 45 sections 1116, 1212; title 46 sections 4508, 9307, 70112; title 46 App. section 1295b; title 47 section 332; title 49 sections 106, 726, 5119, 20133; title 50 App. section 2158.
 
 §2. Findings and purpose
 
@@ -624,27 +624,33 @@ Executive Order No. 13138
 Ex. Ord.
 No. 13138, Sept. 30, 1999, 64 F.R. 53879, as amended by Ex. Ord.
 No. 13226, §4(c), Sept. 30, 2001, 66 F.R. 50524, which provided for the continuance of certain Federal advisory committees, was partially superseded by Ex. Ord.
-No. 13225, §4, Sept. 28, 2001, 66 F.R. 50292, set out below.
+No. 13225, §4, Sept. 28, 2001, 66 F.R. 50292, formerly set out below.
+
+Executive Order No. 13225
 
 Ex. Ord.
-No. 13225. Continuance of Certain Federal Advisory Committees
+No. 13225, Sept. 28, 2001, 66 F.R. 50291, which provided for the continuance of certain Federal advisory committees, was superseded by Ex. Ord.
+No. 13316, §4, Sept. 17, 2003, 68 F.R. 55256, set out below.
 
 Ex. Ord.
-No. 13225, Sept. 28, 2001, 66 F.R. 50291, provided:
+No. 13316. Continuance of Certain Federal Advisory Committees
+
+Ex. Ord.
+No. 13316, Sept. 17, 2003, 68 F.R. 55255, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in accordance with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. Each advisory committee listed below is continued until September 30, 2003.
+Section 1. Each advisory committee listed below is continued until September 30, 2005.
 
 (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior) [3 U.S.C. 110 note].
 
-(b) Federal Advisory Council on Occupational Safety and Health; Executive Order 12196, as amended (Department of Labor) [5 U.S.C. 7902].
+(b) National Infrastructure Advisory Council; Section 3 of Executive Order 13231, as amended (Department of Homeland Security) [6 U.S.C. 121 note].
 
-(c) President's Advisory Commission on Educational Excellence for Hispanic Americans; Executive Order 12900 (Department of Education) [20 U.S.C. 3411 note].
+(c) Federal Advisory Council on Occupational Safety and Health; Executive Order 12196, as amended (Department of Labor) [5 U.S.C. 7902 note].
 
-(d) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13021 [12876], as amended, (Department of Education) [20 U.S.C. 1060 note].
+(d) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13256 (Department of Education) [20 U.S.C. 1060 note].
 
-(e) President's Board of Advisors on Tribal Colleges and Universities; Executive Order 13021, as amended (Department of Education) [former 25 U.S.C. 1801 note].
+(e) President's Board of Advisors on Tribal Colleges and Universities; Executive Order 13270 (Department of Education) [25 U.S.C. 1801 note].
 
 (f) President's Commission on White House Fellowships; Executive Order 11183, as amended (Office of Personnel Management).
 
@@ -654,39 +660,50 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (i) President's Committee on the National Medal of Science; Executive Order 11287, as amended (National Science Foundation) [42 U.S.C. 1881 note].
 
-(j) President's Committee on Mental Retardation; Executive Order 12994 (Department of Health and Human Services) [42 U.S.C. note prec. 6000].
+(j) President's Council on Bioethics; Executive Order 13237 (Department of Health and Human Services) [42 U.S.C. 6601 note].
 
-(k) President's Council on Physical Fitness and Sports; Executive Order 12345, as amended (Department of Health and Human Services) [former 42 U.S.C. 300u–5 note].
+(k) President's Council on Physical Fitness and Sports; Executive Order 13265 (Department of Health and Human Services) [42 U.S.C. 300u note].
 
 (l) President's Export Council; Executive Order 12131, as amended (Department of Commerce) [50 App. U.S.C. 2401 note].
 
-(m) President's National Security Telecommunications Advisory Committee; Executive Order 12382, as amended (Department of Defense).
+(m) President's National Security Telecommunications Advisory Committee; Executive Order 12382, as amended (Department of Homeland Security) [47 U.S.C. 901 note].
 
 (n) Trade and Environment Policy Advisory Committee; Executive Order 12905 (Office of the United States Trade Representative) [19 U.S.C. 2155 note].
 
 Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-Sec. 3. The following Executive Orders, or sections thereof, which established committees that have terminated and whose work is completed, are revoked:
+Sec. 3. The following Executive Orders, or sections thereof, which established committees that have terminated or whose work is completed, are revoked:
 
-(a) Sections 3 and 4 of Executive Order 13134 [7 U.S.C. 7624 note] pertaining to the establishment and administration of the Advisory Committee on Biobased Products and Bioenergy, superseded by the Biomass Research and Development Technical Advisory Committee established pursuant to section 306 of the Biomass Research and Development Act of 2000 (Title III of Public Law 106–224) [set out in a note under section 7624 of Title 7, Agriculture];
+(a) Sections 5 through 7 of Executive Order 13111 [5 U.S.C. 4103 note], as amended by Executive Order 13188 and Section 3(a) of Executive Order 13218, pertaining to the establishment of the Advisory Committee on Expanding Training Opportunities;
 
-(b) Executive Order 13080, establishing the American Heritage Rivers Initiative Advisory Committee;
+(b) Executive Order 12975, as amended by Executive Orders 13018, 13046, and 13137, establishing the National Bioethics Advisory Commission;
 
-(c) Executive Order 13090, as amended by Executive Order 13136, establishing the President's Commission on the Celebration of Women in American History;
+(c) Executive Order 13227, as amended by Executive Order 13255, establishing the President's Commission on Excellence in Special Education;
 
-(d) Executive Order 13168, establishing the President's Commission on Improving Economic Opportunity in Communities Dependent on Tobacco Production While Protecting Public Health; and
+(d) Executive Order 13278, establishing the President's Commission on the United States Postal Service;
 
-(e) Executive Order 13075, establishing the Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents.
+(e) Executive Order 13210, establishing the President's Commission to Strengthen Social Security;
 
-Sec. 4. Sections 1 through 4 of Executive Order 13138 are superseded.
+(f) Sections 5 through 8 of Executive Order 13177 [50 App. U.S.C. 2099 note], pertaining to the establishment of the President's Council on the Use of Offsets in Commercial Trade;
 
-Sec. 5. This order shall be effective September 30, 2001.
+(g) Executive Order 13263, establishing the President's New Freedom Commission on Mental Health;
+
+(h) Executive Order 13214, establishing the President's Task Force to Improve Health Care Delivery for Our Nation's Veterans; and
+
+(i) Executive Order 13147, as amended by Executive Order 13167, establishing the White House Commission on Complementary and Alternative Medicine Policy.
+
+Sec. 4. Executive Order 13225 is superseded.
+
+Sec. 5. [Amended Ex. Ord.
+No. 12131, 50 App. U.S.C. 2401 note.]
+
+Sec. 6. This order shall be effective September 30, 2003.
 
 George W. Bush.      
 
 Section Referred to in Other Sections
 
-This section is referred to in section 8473 of this title; title 6 section 191; title 7 section 5843; title 10 section 2166; title 12 section 4703; title 15 sections 4603, 7310; title 16 sections 1a–14, 410nn–3, 410oo–5, 410qq–2, 410ww–21, 430g–8, 460ww–5, 460kkk, 460lll–22, 463, 698u–5, 1274, 5404; title 20 sections 5508, 6651; title 21 sections 360c, 360j; title 29 sections 765, 1142, 2911; title 33 section 2251; title 38 section 545; title 42 sections 218, 254j, 299c, 299c–1, 300d–1, 300j–5, 300v–3, 1862n–9, 2471a, 11221, 12623, 12653l, 13458, 14131; title 44 section 2701; title 49 sections 30306, 44508.
+This section is referred to in section 8473 of this title; title 6 section 191; title 7 section 5843; title 10 section 2166; title 12 section 4703; title 15 sections 4603, 7310, 7503; title 16 sections 1a–14, 410nn–3, 410oo–5, 410qq–2, 410ww–21, 430g–8, 460ww–5, 460kkk, 460lll–22, 463, 698u–5, 1274, 5404; title 20 sections 5508, 6651; title 21 sections 360c, 360j; title 29 sections 765, 1142, 2911; title 33 section 2251; title 38 section 545; title 42 sections 218, 254j, 299c, 299c–1, 300d–1, 300j–5, 300v–3, 1862n–9, 2471a, 11221, 12623, 12653l, 13458, 14131; title 44 section 2701; title 49 sections 30306, 44508, 44511.
 
 §15. Requirements relating to the National Academy of Sciences and the National Academy of Public Administration
 
@@ -746,7 +763,7 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 
 INSPECTOR GENERAL ACT OF 1978
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570
 
 §1. Short title
 
@@ -768,7 +785,7 @@ Pub. L. 100–504, title I, §112, Oct. 18, 1988, 102 Stat. 2530, provided that:
 
 Act Referred to in Other Sections
 
-The Inspector General Act of 1978 is referred to in title 2 section 1602; title 7 sections 2270a, 6911; title 10 sections 133, 141, 1034, 2409, 3020, 5020, 8020; title 20 sections 76l, 1082, 3412, 3422; title 22 sections 3929, 4861, 6203, 6207; title 29 sections 49h, 2935; title 31 sections 902, 3521, 3565, 3801, 3808, 9105; title 38 sections 312, 7366; title 39 section 410; title 41 sections 265, 422; title 42 sections 1320a–7a, 1320a–7c, 3515d, 12651e; title 44 sections 3535, 3545; title 48 sections 1422d, 1599, 1668, 1681b; title 49 section 114.
+The Inspector General Act of 1978 is referred to in title 2 section 1602; title 6 section 113; title 7 sections 2270a, 6911; title 10 sections 133, 141, 1034, 2409, 3020, 5020, 8020; title 20 sections 76l, 1082, 3412, 3422; title 22 sections 3929, 4861, 6203, 6207; title 29 sections 49h, 2935; title 31 sections 902, 3521, 3565, 3801, 3808, 9105; title 38 sections 312, 7366; title 39 section 410; title 41 sections 265, 422; title 42 sections 1320a–7a, 1320a–7c, 3515d, 12651e; title 44 sections 3535, 3545; title 48 sections 1422d, 1599, 1668, 1681b; title 49 section 114.
 
 §2. Purpose and establishment of Offices of Inspector General; departments and agencies involved
 
@@ -943,7 +960,7 @@ William J. Clinton.      
 
 Section Referred to in Other Sections
 
-This section is referred to in title 6 sections 113, 371; title 10 section 141; title 12 section 1441a; title 41 section 254d; title 42 section 902.
+This section is referred to in title 6 section 371; title 10 section 141; title 12 section 1441a; title 41 section 254d; title 42 section 902.
 
 §4. Duties and responsibilities; report of criminal violations to Attorney General
 
@@ -978,16 +995,6 @@ This section is referred to in title 6 sections 113, 371; title 10 section 141; 
 References in Text
 
 Section 8F, referred to in subsec. (b)(2), which related to requirements for Federal entities and designated Federal entities, was renumbered section 8G by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408.
-
-DOT Authority
-
-Pub. L. 106–159, title II, §228, Dec. 9, 1999, 113 Stat. 1773, provided that:
-
-“(a) In General.—The statutory authority of the Inspector General of the Department of Transportation includes authority to conduct, pursuant to Federal criminal statutes, investigations of allegations that a person or entity has engaged in fraudulent or other criminal activity relating to the programs and operations of the Department or its operating administrations.
-
-“(b) Regulated Entities.—The authority to conduct investigations referred to in subsection (a) extends to any person or entity subject to the laws and regulations of the Department or its operating administrations, whether or not they are recipients of funds from the Department or its operating administrations.”
-
-Section Referred to in Other Sections
 
 This section is referred to in title 38 section 7366; title 44 section 3903.
 
@@ -1150,91 +1157,6 @@ The head of the establishment shall transmit any such report to the appropriate 
 References in Text
 
 Section 05(b) of the Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(13), probably means section 101(f) [title VIII, §804(b)] of title I of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–314, 3009–392, which relates to reports by the Inspector General, and is set out in a note under section 3512 of Title 31, Money and Finance.
-
-Prompt Management Decisions and Implementation of Audit Recommendations
-
-Pub. L. 103–355, title VI, §6009, Oct. 13, 1994, 108 Stat. 3367, as amended by Pub. L. 104–106, div. A, title VIII, §810, Feb. 10, 1996, 110 Stat. 394, provided that:
-
-“(a) Management Decisions.—(1) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of the inspector general of the agency within a maximum of six months after the issuance of the report.
-
-“(2) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
-
-“(b) Completion of Final Action.—The head of a Federal agency shall complete final action on each management decision required with regard to a recommendation in an inspector general's report under subsection (a)(1) within 12 months after the date of the inspector general's report.
-If the head of the agency fails to complete final action with regard to a management decision within the 12-month period, the inspector general concerned shall identify the matter in each of the inspector general's semiannual reports pursuant to section 5(a)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) until final action on the management decision is completed.”
-
-Section Referred to in Other Sections
-
-This section is referred to in title 26 section 7803; title 39 section 3013; title 42 section 1320a–7d; title 44 section 3903.
-
-1 See References in Text note below.
-
-§6. Authority of Inspector General; information and assistance from Federal agencies; unreasonable refusal; office space and equipment
-
-(a) In addition to the authority otherwise provided by this Act, each Inspector General, in carrying out the provisions of this Act, is authorized—
-
-(1) to have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material available to the applicable establishment which relate to programs and operations with respect to which that Inspector General has responsibilities under this Act;
-
-(2) to make such investigations and reports relating to the administration of the programs and operations of the applicable establishment as are, in the judgment of the Inspector General, necessary or desirable;
-
-(3) to request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this Act from any Federal, State, or local governmental agency or unit thereof;
-
-(4) to require by subpena the production of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence necessary in the performance of the functions assigned by this Act, which subpena, in the case of contumacy or refusal to obey, shall be enforceable by order of any appropriate United States district court: Provided, That procedures other than subpenas shall be used by the Inspector General to obtain documents and information from Federal agencies;
-
-(5) to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of the functions assigned by this Act, which oath, affirmation, or affidavit when administered or taken by or before an employee of an Office of Inspector General designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal;
-
-(6) to have direct and prompt access to the head of the establishment involved when necessary for any purpose pertaining to the performance of functions and responsibilities under this Act;
-
-(7) to select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
-
-(8) to obtain services as authorized by section 3109 of title 5, United States Code, at daily rates not to exceed the equivalent rate prescribed for grade GS–18 of the General Schedule by section 5332 of title 5, United States Code; and
-
-(9) to the extent and in such amounts as may be provided in advance by appropriations Acts, to enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private persons, and to make such payments as may be necessary to carry out the provisions of this Act.
-
-(b)(1) Upon request of an Inspector General for information or assistance under subsection (a)(3), the head of any Federal agency involved shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the Federal agency from which the information is requested, furnish to such Inspector General, or to an authorized designee, such information or assistance.
-
-(2) Whenever information or assistance requested under subsection (a)(1) or (a)(3) is, in the judgment of an Inspector General, unreasonably refused or not provided, the Inspector General shall report the circumstances to the head of the establishment involved without delay.
-
-(c) Each head of an establishment shall provide the Office within such establishment with appropriate and adequate office space at central and field office locations of such establishment, together with such equipment, office supplies, and communications facilities and services as may be necessary for the operation of such offices, and shall provide necessary maintenance services for such offices and the equipment and facilities located therein.
-
-(d) For purposes of the provisions of title 5, United States Code, governing the Senior Executive Service, any reference in such provisions to the “appointing authority” for a member of the Senior Executive Service or for a Senior Executive Service position shall, if such member or position is or would be within the Office of an Inspector General, be deemed to be a reference to such Inspector General.
-
-(e)(1) In addition to the authority otherwise provided by this Act, each Inspector General appointed under section 3, any Assistant Inspector General for Investigations under such an Inspector General, and any special agent supervised by such an Assistant Inspector General may be authorized by the Attorney General to—
-
-(A) carry a firearm while engaged in official duties as authorized under this Act or other statute, or as expressly authorized by the Attorney General;
-
-(B) make an arrest without a warrant while engaged in official duties as authorized under this Act or other statute, or as expressly authorized by the Attorney General, for any offense against the United States committed in the presence of such Inspector General, Assistant Inspector General, or agent, or for any felony cognizable under the laws of the United States if such Inspector General, Assistant Inspector General, or agent has reasonable grounds to believe that the person to be arrested has committed or is committing such felony; and
-
-(C) seek and execute warrants for arrest, search of a premises, or seizure of evidence issued under the authority of the United States upon probable cause to believe that a violation has been committed.
-
-(2) The Attorney General may authorize exercise of the powers under this subsection only upon an initial determination that—
-
-(A) the affected Office of Inspector General is significantly hampered in the performance of responsibilities established by this Act as a result of the lack of such powers;
-
-(B) available assistance from other law enforcement agencies is insufficient to meet the need for such powers; and
-
-(C) adequate internal safeguards and management procedures exist to ensure proper exercise of such powers.
-
-(3) The Inspector General offices of the Department of Commerce, Department of Education, Department of Energy, Department of Health and Human Services, Department of Homeland Security, Department of Housing and Urban Development, Department of the Interior, Department of Justice, Department of Labor, Department of State, Department of Transportation, Department of the Treasury, Department of Veterans Affairs, Agency for International Development, Environmental Protection Agency, Federal Deposit Insurance Corporation, Federal Emergency Management Agency, General Services Administration, National Aeronautics and Space Administration, Nuclear Regulatory Commission, Office of Personnel Management, Railroad Retirement Board, Small Business Administration, Social Security Administration, and the Tennessee Valley Authority are exempt from the requirement of paragraph (2) of an initial determination of eligibility by the Attorney General.
-
-(4) The Attorney General shall promulgate, and revise as appropriate, guidelines which shall govern the exercise of the law enforcement powers established under paragraph (1).
-
-(5)(A) Powers authorized for an Office of Inspector General under paragraph (1) may be rescinded or suspended upon a determination by the Attorney General that any of the requirements under paragraph (2) is no longer satisfied or that the exercise of authorized powers by that Office of Inspector General has not complied with the guidelines promulgated by the Attorney General under paragraph (4).
-
-(B) Powers authorized to be exercised by any individual under paragraph (1) may be rescinded or suspended with respect to that individual upon a determination by the Attorney General that such individual has not complied with guidelines promulgated by the Attorney General under paragraph (4).
-
-(6) A determination by the Attorney General under paragraph (2) or (5) shall not be reviewable in or by any court.
-
-(7) To ensure the proper exercise of the law enforcement powers authorized by this subsection, the Offices of Inspector General described under paragraph (3) shall, not later than 180 days after the date of enactment of this subsection, collectively enter into a memorandum of understanding to establish an external review process for ensuring that adequate internal safeguards and management procedures continue to exist within each Office and within any Office that later receives an authorization under paragraph (2). The review process shall be established in consultation with the Attorney General, who shall be provided with a copy of the memorandum of understanding that establishes the review process.
-Under the review process, the exercise of the law enforcement powers by each Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General.
-The results of each review shall be communicated in writing to the applicable Inspector General and to the Attorney General.
-
-(8) No provision of this subsection shall limit the exercise of law enforcement powers established under any other statutory authority, including United States Marshals Service special deputation.
-
-(Pub. L. 95–452, §6, Oct. 12, 1978, 92 Stat. 1104; Pub. L. 100–504, title I, §§107, 110(a), Oct. 18, 1988, 102 Stat. 2528, 2529; Pub. L. 107–296, title VIII, §812(a), Nov. 25, 2002, 116 Stat. 2222.)
-
-References in Text
-
-The date of enactment of this subsection, referred to in subsec. (e)(7), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
 
 References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -1443,7 +1365,8 @@ Within 30 days after receipt of any such notice, the Inspector General of the De
 
 (4) The Secretary of the Treasury may not exercise any power under paragraph (1) or (2) with respect to the Treasury Inspector General for Tax Administration.
 
-(b)(1) In carrying out the duties and responsibilities specified in this Act, the Inspector General of the Department of the Treasury shall have oversight responsibility for the internal investigations performed by the Office of Internal Affairs of the Tax and Trade Bureau, the Office of Internal Affairs of the United States Customs Service, and the Office of Inspections of the United States Secret Service,.1 The head of each such office shall promptly report to the Inspector General of the Department of the Treasury the significant activities being carried out by such office.
+(b)(1) In carrying out the duties and responsibilities specified in this Act, the Inspector General of the Department of the Treasury shall have oversight responsibility for the internal investigations performed by the Office of Internal Affairs of the Tax and Trade Bureau.
+The head of such office shall promptly report to the Inspector General of the Department of the Treasury the significant activities being carried out by such office.
 
 (2) The Inspector General of the Department of the Treasury shall exercise all duties and responsibilities of an Inspector General for the Department of the Treasury other than the duties and responsibilities exercised by the Treasury Inspector General for Tax Administration.
 
@@ -1453,9 +1376,9 @@ Within 30 days after receipt of any such notice, the Inspector General of the De
 
 (B) provide for coordination, cooperation, and efficiency in the conduct of such audits and investigations.
 
-(c) Notwithstanding subsection (b), the Inspector General of the Department of the Treasury may initiate, conduct and supervise such audits and investigations in the Department of the Treasury (including the bureaus and services referred to in subsection (b)) as the Inspector General of the Department of the Treasury considers appropriate.
+(c) Notwithstanding subsection (b), the Inspector General of the Department of the Treasury may initiate, conduct and supervise such audits and investigations in the Department of the Treasury (including the bureau referred to in subsection (b)) as the Inspector General of the Department of the Treasury considers appropriate.
 
-(d) If the Inspector General of the Department of the Treasury initiates an audit or investigation under subsection (c) concerning a bureau or service referred to in subsection (b), the Inspector General of the Department of the Treasury may provide the head of the office of such bureau or service referred to in subsection (b) with written notice that the Inspector General of the Department of the Treasury has initiated such an audit or investigation.
+(d) If the Inspector General of the Department of the Treasury initiates an audit or investigation under subsection (c) concerning the bureau referred to in subsection (b), the Inspector General of the Department of the Treasury may provide the head of the office of such bureau referred to in subsection (b) with written notice that the Inspector General of the Department of the Treasury has initiated such an audit or investigation.
 If the Inspector General of the Department of the Treasury issues a notice under the preceding sentence, no other audit or investigation shall be initiated into the matter under audit or investigation by the Inspector General of the Department of the Treasury and any other audit or investigation of such matter shall cease.
 
 (e)(1) The Treasury Inspector General for Tax Administration shall have access to returns and return information, as defined in section 6103(b) of the Internal Revenue Code of 1986 [26 U.S.C. 6103(b)], only in accordance with the provisions of section 6103 of such Code [26 U.S.C. 6103] and this Act.
@@ -1510,11 +1433,11 @@ If the Treasury Inspector General for Tax Administration determines not to condu
 
 (C) This paragraph applies regardless of whether the applicable audit or investigation is requested under paragraph (1).
 
-(Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered §8D, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, §1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, §1112(a)(1), Nov. 25, 2002, 116 Stat. 2275.)
+(Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered §8D, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, §1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, §1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, §104(c)(2), Feb. 20, 2003, 117 Stat. 531.)
 
 References in Text
 
-The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1)(F), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended notes set out under section 3056 of Title 18, Crimes and Criminal Procedure.
+The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1)(F), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended, which enacted and amended notes set out under section 3056 of Title 18, Crimes and Criminal Procedure.
 For complete classification of this Act to the Code, see Tables.
 
 Prior Provisions
@@ -1529,14 +1452,6 @@ Committee on Government Reform and Oversight of House of Representatives changed
 Effective Date
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
-
-Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-1 So in original.
 
 §8E. Special provisions concerning the Department of Justice
 
@@ -1645,7 +1560,7 @@ Prior Provisions
 
 A prior section 8F of the Inspector General Act of 1978, relating to requirements for Federal entities and designated Federal entities, was renumbered section 8G by Pub. L. 103–204.
 
-Another prior section 8F of the Inspector General Act of 1978, relating to rule of construction of special provisions, was renumbered section 8I.
+Another prior section 8F of the Inspector General Act of 1978, relating to rule of construction of special provisions, was renumbered section 8J.
 
 Effective Date
 
@@ -1767,7 +1682,7 @@ For complete classification of this Act to the Code, see section 167 of Title 29
 
 Prior Provisions
 
-A prior section 8G of the Inspector General Act of 1978 was renumbered section 8I.
+A prior section 8G of the Inspector General Act of 1978 was renumbered section 8J.
 
 Change of Name
 
@@ -1776,6 +1691,154 @@ Committee on Government Reform and Oversight of House of Representatives changed
 Effective Date
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
+
+Inspector General of the Coalition Provisional Authority
+
+Pub. L. 108–106, title III, §3001, Nov. 6, 2003, 117 Stat. 1234, provided that:
+
+“(a) Purposes.—The purposes of this section are as follows:
+
+“(1) To provide for the independent and objective conduct and supervision of audits and investigations relating to the programs and operations of the Coalition Provisional Authority (CPA).
+
+“(2) To provide for the independent and objective leadership and coordination of, and recommendations on, policies designed to—
+
+“(A) promote economy efficiency, and effectiveness in the administration of such programs and operations; and
+
+“(B) prevent and detect fraud and abuse in such programs and operations.
+
+“(3) To provide for an independent and objective means of keeping the head of the Coalition Provisional Authority fully and currently informed about problems and deficiencies relating to the administration of such programs and operations and the necessity for and progress for corrective action.
+
+“(b) Office of Inspector General.—There is hereby established the Office of the Inspector General of the Coalition Provisional Authority.
+
+“(c) Appointment of Inspector General; Removal.—(1) The head of the Office of the Inspector General of the Coalition Provisional Authority is the Inspector General of the Coalition Provisional Authority, who shall be appointed by the Secretary of Defense, in consultation with the Secretary of State.
+
+“(2) The appointment of Inspector General shall be made solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+
+“(3) The nomination of an individual as Inspector General shall be made not later than 30 days after the date of the enactment of this Act [Nov. 6, 2003].
+
+“(4) The Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
+
+“(5) For purposes of section 7324 of title 5, United States Code, the Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
+
+“(6) The annual rate of basic pay of the Inspector General shall be the annual rate of basic pay provided for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+“(d) Assistant Inspectors General.—The Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
+
+“(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the Coalition Provisional Authority; and
+
+“(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.
+
+“(e) Supervision.—(1) Except as provided in paragraph (2), the Inspector General shall report directly to, and be under the general supervision of, the head of the Coalition Provisional Authority.
+
+“(2) Neither the head of the Coalition Provisional Authority, any other officer of the Coalition Provisional Authority, nor any other officer of the Department of Defense, the Department of State, or the United States Agency for International Development shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpoena during the course of any audit or investigation.
+
+“(f) Duties.—(1) It shall be the duty of the Inspector General to conduct, supervise, and coordinate audits and investigations of the treatment, handling, and expenditure of appropriated funds by the Coalition Provisional Authority in Iraq, and of the programs, operations, and contracts carried out utilizing such funds, including—
+
+“(A) the oversight and accounting of the obligation and expenditure of such funds;
+
+“(B) the monitoring and review of reconstruction activities funded by such funds;
+
+“(C) the monitoring and review of contracts funded by such funds;
+
+“(D) the monitoring and review of the transfer of such funds and associated information between and among the Coalition Provisional Authority, other departments, agencies, and entities of the Federal Government, and private and nongovernmental entities; and
+
+“(E) the maintenance of records on the use of such funds to facilitate future audits and investigations of the use of such funds.
+
+“(2) The Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Inspector General considers appropriate to discharge the duty under paragraph (1).
+
+“(3) In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 [Pub. L. 95–452, set out in this Appendix].
+
+“(4) In carrying out the duties, responsibilities, and authorities of the Inspector General under this section, the Inspector General shall coordinate with, and receive the cooperation of, the Inspector General of the Department of Defense.
+
+“(5) In carrying out the duties, and responsibilities, and authorities of the Inspector General under this section, the Inspector General shall coordinate with, and receive the cooperation of the Inspector General of the United States Agency for International Development.
+
+“(g) Powers and Authorities.—(1) In carrying out the duties specified in subsection (f), the Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 [section 6 of Pub. L. 95–452, set out in this Appendix].
+
+“(2) The Inspector General shall carry out the duties specified in subsection (f)(1) in accordance with section 4(b)(1) of the Inspector General Act of 1978 [section 4(b)(1) of Pub. L. 95–452, set out in this Appendix].
+
+“(h) Personnel, Facilities, and Other Resources.—(1) The Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Inspector General, subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
+
+“(2) The Inspector General may obtain services as authorized by section 3109 of title 5, United States Code, at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of such title.
+
+“(3) To the extent and in such amounts as may be provided in advance by appropriations Acts, the Inspector General my [may] enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private persons, and make such payments as may be necessary to carry out the duties of the Inspector General.
+
+“(4)(A) Upon request of the Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, furnish such information or assistance to the Inspector General, or an authorized designee.
+
+“(B) Whenever information or assistance requested by the Inspector General is, in the judgment of the Inspector General, unreasonably refused or not provided, the Inspector General shall report the circumstances to the head of the Coalition Provisional Authority and to the appropriate committees of Congress without delay.
+
+“(5) The head of the Coalition Provisional Authority shall provide the Inspector General with appropriate and adequate office space at the central and field office locations of the Coalition Provisional Authority, together with such equipment, office supplies, and communications facilities and services as may be necessary for the operation of such offices, and shall provide necessary maintenance services for such offices and the equipment and facilities located therein.
+
+“(i) Reports.—(1) Not later than March 30, 2004, and every calendar quarter thereafter, the Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Inspector General and the Coalition Provisional Authority during the 120-day period ending on the date of such report.
+Each report shall include, for the period covered by such report, a detailed statement of all obligations, expenditures, and revenues associated with reconstruction and rehabilitation activities in Iraq, including the following:
+
+“(A) Obligations and expenditures of appropriated funds.
+
+“(B) A project-by-project and program-by-program accounting of the costs incurred to date for the reconstruction of Iraq, together with the estimate of the Coalition Provisional Authority of the costs to complete each project and each program.
+
+“(C) Revenues attributable to or consisting of funds provided by foreign nations or international organizations, and any obligations or expenditures of such revenues.
+
+“(D) Revenues attributable to or consisting of foreign assets seized or frozen, and any obligations or expenditures of such revenues.
+
+“(E) Operating expenses of the Coalition Provisional Authority and of any other agencies or entities receiving appropriated funds.
+
+“(F) In the case of any contract described in paragraph (2)—
+
+“(i) the amount of the contract or other agreement;
+
+“(ii) a brief discussion of the scope of the contract or other agreement;
+
+“(iii) a discussion of how the Coalition Provisional Authority identified, and solicited offers from, potential contractors to perform the contract, together with a list of the potential contractors that were issued solicitations for the offers; and
+
+“(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
+
+“(2) A contract described in this paragraph is any major contract or other agreement that is entered into by the Coalition Provisional Authority with any public or private sector entity for any of the following purposes:
+
+“(A) To build or rebuild physical infrastructure of Iraq.
+
+“(B) To establish or reestablish a political or societal institution of Iraq.
+
+“(C) To provide products or services to the people of Iraq.
+
+“(3) Not later than June 30, 2004, and semiannually thereafter, the Inspector General shall submit to the appropriate committees of Congress a report meeting the requirements of section 5 of the Inspector General Act of 1978 [section 5 of Pub. L. 95–452, set out in this Appendix].
+
+“(4) The Inspector General shall publish each report under this subsection in both English and Arabic on the Internet website of the Coalition Provisional Authority.
+
+“(5) Each report under this subsection may include a classified annex if the Inspector General considers it necessary.
+
+“(6) Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
+
+“(A) specifically prohibited from disclosure by any other provision of law;
+
+“(B) specifically required by Executive order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or
+
+“(C) a part of an ongoing criminal investigation.
+
+“(j) Report Coordination.—(1) The Inspector General shall also submit each report under subsection (i) to the head of the Coalition Provisional Authority.
+
+“(2)(A) Not later than 30 days after receipt of a report under paragraph (1), the head of the Coalition Provisional Authority may submit to the appropriate committees of Congress any comments on the matters covered by the report as the head of the Coalition Provisional Authority considers appropriate.
+
+“(B) A report under this paragraph may include a classified annex if the head of the Coalition Provisional Authority considers it necessary.
+
+“(k) Transparency.—(1) Not later than 60 days after the date of the submittal to Congress of a report under subsection (i), the head of the Coalition Provisional Authority shall make copies of such report available to the public upon request, and at a reasonable cost.
+
+“(2) Not later than 60 days after the date of the submittal to Congress under subsection (j)(2) of comments on a report under subsection (i), the head of the Coalition Provisional Authority shall make copies of such comments available to the public upon request, and at a reasonable cost.
+
+“(l) Waiver.—(1) The President may waive the requirement under paragraph (1) or (3) of subsection (i) for the inclusion in a report under such paragraph of any element otherwise provided for under such paragraph if the President determines that the waiver is justified for national security reasons.
+
+“(2) The President shall publish a notice of each waiver made under this subsection in the Federal Register no later than the date on which the reports required under paragraph (1) or (3) of subsection (i) are submitted to Congress.
+The reports required under paragraph (1) or (3) of subsection (i) shall specify whether waivers under this subsection were made and with respect to which elements.
+
+“(m) Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
+
+“(1) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
+
+“(2) the Committees on Appropriations, Armed Services, and International Relations of the House of Representatives.
+
+“(n) Funding.—(1) Of the amounts appropriated for fiscal year 2004 for the Operating Expenses of the Coalition Provisional Authority in title II of this Act [117 Stat. 1226], $75,000,000 shall be available to carry out this section.
+
+“(2) The amount available under paragraph (1) shall remain available until expended.
+
+“(o) The Office of Inspector General shall terminate 6 months after the authorities and duties of the Coalition Provisional Authority cease to exist.”
 
 Tennessee Valley Authority; Findings
 
@@ -1795,9 +1858,11 @@ Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 106–377, §1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–36.
 
-Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 688, provided in part: “That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board.”
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 515, provided in part: “That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall hereafter also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board.”
 
-Similar provisions were contained in the following prior appropriations act:
+Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 688.
 
 Pub. L. 106–377, §1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–46.
 
@@ -1840,7 +1905,7 @@ Two pars. (3) have been enacted.
 
 §8H. Additional provisions with respect to Inspectors General of the Intelligence Community
 
-(a)(1)(A) An employee of the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Reconnaissance Office, or the National Security Agency, or of a contractor of any of those Agencies, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Defense (or designee).
+(a)(1)(A) An employee of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, or the National Security Agency, or of a contractor of any of those Agencies, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Defense (or designee).
 
 (B) An employee of the Federal Bureau of Investigation, or of a contractor of the Bureau, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Justice (or designee).
 
@@ -1868,7 +1933,7 @@ Such notice shall be provided not later than 3 days after any such action is tak
 
 (f) An action taken by the head of an establishment or an Inspector General under subsections (a) through (e) shall not be subject to judicial review.
 
-(g)(1) The Inspector General of the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Reconnaissance Office, and the National Security Agency shall each submit to the congressional intelligence committees each year a report that sets forth the following:
+(g)(1) The Inspector General of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, and the National Security Agency shall each submit to the congressional intelligence committees each year a report that sets forth the following:
 
 (A) The personnel and funds requested by such Inspector General for the fiscal year beginning in such year for the activities of the office of such Inspector General in such fiscal year.
 
@@ -1894,11 +1959,11 @@ Such notice shall be provided not later than 3 days after any such action is tak
 
 (2) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429.)
+(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 Prior Provisions
 
-A prior section 8H of the Inspector General Act of 1978 was renumbered section 8I.
+A prior section 8H of the Inspector General Act of 1978 was renumbered section 8J.
 
 Congressional Findings
 
@@ -1920,40 +1985,68 @@ Section Referred to in Other Sections
 
 This section is referred to in title 50 section 415b.
 
-§8I. Rule of construction of special provisions
+§8I. Special provisions concerning the Department of Homeland Security
+
+(a)(1) Notwithstanding the last two sentences of section 3(a), the Inspector General of the Department of Homeland Security shall be under the authority, direction, and control of the Secretary of Homeland Security with respect to audits or investigations, or the issuance of subpoenas, that require access to sensitive information concerning—
+
+(A) intelligence, counterintelligence, or counterterrorism matters;
+
+(B) ongoing criminal investigations or proceedings;
+
+(C) undercover operations;
+
+(D) the identity of confidential sources, including protected witnesses;
+
+(E) other matters the disclosure of which would, in the Secretary's judgment, constitute a serious threat to the protection of any person or property authorized protection by section 3056 of title 18, United States Code, section 202 of title 3 of such Code, or any provision of the Presidential Protection Assistance Act of 1976 (18 U.S.C. 3056 note); or
+
+(F) other matters the disclosure of which would constitute a serious threat to national security.
+
+(2) With respect to the information described in paragraph (1), the Secretary of Homeland Security may prohibit the Inspector General of the Department of Homeland Security from carrying out or completing any audit or investigation, or from issuing any subpoena, after such Inspector General has decided to initiate, carry out, or complete such audit or investigation or to issue such subpoena, if the Secretary determines that such prohibition is necessary to prevent the disclosure of any information described in paragraph (1), to preserve the national security, or to prevent a significant impairment to the interests of the United States.
+
+(3) If the Secretary of Homeland Security exercises any power under paragraph (1) or (2), the Secretary shall notify the Inspector General of the Department of Homeland Security in writing within seven days stating the reasons for such exercise.
+Within 30 days after receipt of any such notice, the Inspector General shall transmit to the President of the Senate, the Speaker of the House of Representatives, and appropriate committees and subcommittees of Congress the following:
+
+(A) A copy of such notice.
+
+(B) A written response to such notice that includes a statement regarding whether the Inspector General agrees or disagrees with such exercise, and the reasons for any disagreement.
+
+(b) The exercise of authority by the Secretary described in paragraph (2) should not be construed as limiting the right of Congress or any committee of Congress to access any information it seeks.
+
+(c) Subject to the conditions established in subsections (a) and (b) above, in carrying out the duties and responsibilities specified in this Act, the Inspector General of the Department of Homeland Security may initiate, conduct, and supervise such audits and investigations in the Department of Homeland Security as the Inspector General considers appropriate.
+
+(d) Any report required to be transmitted by the Secretary of Homeland Security to the appropriate committees or subcommittees of Congress under section 5(d) shall be transmitted, within the seven-day period specified under such section, to the President of the Senate, the Speaker of the House of Representatives, and appropriate committees and subcommittees of Congress.
+
+(e) Notwithstanding any other provision of law, in carrying out the duties and responsibilities specified in this Act, the Inspector General of the Department of Homeland Security shall have oversight responsibility for the internal investigations performed by the Office of Internal Affairs of the United States Customs Service, the Office of Inspections of the United States Secret Service, the Bureau of Border Security, and the Bureau of Citizenship and Immigration Services.
+The head of each such office or bureau shall promptly report to the Inspector General the significant activities being carried out by such office or bureau.
+
+(Pub. L. 95–452, §8I, as added Pub. L. 108–7, div. L, §104(b)(3), Feb. 20, 2003, 117 Stat. 529.)
+
+References in Text
+
+The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1)(E), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure.
+For complete classification of this Act to the Code, see Tables.
+
+Prior Provisions
+
+A prior section 8I of the Inspector General Act of 1978 was renumbered section 8J by Pub. L. 108–7.
+
+§8J. Rule of construction of special provisions
 
 The special provisions under section 8, 8A, 8B, 8C, 8D, 8E, 8F, or 8H of this Act relate only to the establishment named in such section and no inference shall be drawn from the presence or absence of a provision in any such section with respect to an establishment not named in such section or with respect to a designated Federal entity as defined under section 8G(a).
 
-(Pub. L. 95–452, §8I, formerly §8F, as added Pub. L. 100–504, title I, §105, Oct. 18, 1988, 102 Stat. 2525; renumbered §8G and amended Pub. L. 103–82, title II, §202(g)(1), (5)(B), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8H, Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 105–206, title I, §1103(e)(3), July 22, 1998, 112 Stat. 709; renumbered §8I and amended Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415.)
+(Pub. L. 95–452, §8J, formerly §8F, as added Pub. L. 100–504, title I, §105, Oct. 18, 1988, 102 Stat. 2525; renumbered §8G and amended Pub. L. 103–82, title II, §202(g)(1), (5)(B), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8H, Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 105–206, title I, §1103(e)(3), July 22, 1998, 112 Stat. 709; renumbered §8I and amended Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; renumbered §8J, Pub. L. 108–7, div. L, §104(b)(2), Feb. 20, 2003, 117 Stat. 529.)
 
 Codification
 
 Pub. L. 105–206, §1103(e)(3)(A), which directed that this section be renumbered as 8H, could not be executed because of a prior renumbering by Pub. L. 104–208.
 
+Prior Provisions
+
+A prior section 8J of the Inspector General Act of 1978, Pub. L. 95–452, §8J, as added Pub. L. 107–296, title VIII, §811(e), Nov. 25, 2002, 116 Stat. 2221, related to special provisions concerning the Department of Homeland Security, prior to repeal by Pub. L. 108–7, div. L, §104(b)(1), Feb. 20, 2003, 117 Stat. 529.
+
 Effective Date
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
-
-§8J. Special provisions concerning the Department of Homeland Security
-
-Notwithstanding any other provision of law, in carrying out the duties and responsibilities specified in this Act, the Inspector General of the Department of Homeland Security shall have oversight responsibility for the internal investigations performed by the Office of Internal Affairs of the United States Customs Service and the Office of Inspections of the United States Secret Service.
-The head of each such office shall promptly report to the Inspector General the significant activities being carried out by such office.
-
-(Pub. L. 95–452, §8J, as added Pub. L. 107–296, title VIII, §811(e), Nov. 25, 2002, 116 Stat. 2221.)
-
-Change of Name
-
-Customs Service, referred to in text, changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff.
-Mar. 1, 2003, H.Doc.
-No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of Title 6, Domestic Security.
-
-Effective Date
-
-Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.
-
-Transfer of Functions
-
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 §9. Transfer of functions
 
@@ -2143,7 +2236,7 @@ The provisions of this Act and the amendments made by this Act [see section 10 o
 
 ETHICS IN GOVERNMENT ACT OF 1978
 
-Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404
+Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570
 
 TITLE I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL
 
@@ -2243,7 +2336,7 @@ Title I of Pub. L. 95–521 was classified to chapter 18 (§701 et seq.) of Titl
 
 Title Referred to in Other Sections
 
-Title I of Pub. L. 95–521 is referred to in section 7353 of this title; title 2 section 1381; title 10 section 2904; title 26 section 7802; title 49 section 106.
+Title I of Pub. L. 95–521 is referred to in section 7353 of this title; title 2 section 1381; title 10 section 2904; title 26 section 7802; title 42 section 1395b–6; title 49 section 106.
 
 §101. Persons required to file
 
@@ -2748,7 +2841,7 @@ This section is referred to in section 105 of this Appendix.
 
 (a) Each agency, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate shall make available to the public, in accordance with subsection (b), each report filed under this title with such agency or office or with the Clerk or the Secretary of the Senate, except that—
 
-(1) this section does not require public availability of a report filed by any individual in the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, or the National Security Agency, or any individual engaged in intelligence activities in any agency of the United States, if the President finds or has found that, due to the nature of the office or position occupied by such individual, public disclosure of such report would, be 1 revealing the identity of the individual or other sensitive information, compromise the national interest of the United States; and such individuals may be authorized, notwithstanding section 104(a), to file such additional reports as are necessary to protect their identity from public disclosure if the President first finds or has found that such filing is necessary in the national interest; and
+(1) this section does not require public availability of a report filed by any individual in the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, or the National Security Agency, or any individual engaged in intelligence activities in any agency of the United States, if the President finds or has found that, due to the nature of the office or position occupied by such individual, public disclosure of such report would, be 1 revealing the identity of the individual or other sensitive information, compromise the national interest of the United States; and such individuals may be authorized, notwithstanding section 104(a), to file such additional reports as are necessary to protect their identity from public disclosure if the President first finds or has found that such filing is necessary in the national interest; and
 
 (2) any report filed by an independent counsel whose identity has not been disclosed by the division of the court under chapter 40 of title 28, United States Code, and any report filed by any person appointed by that independent counsel under such chapter, shall not be made available to the public under this title.
 
@@ -2803,7 +2896,7 @@ The court in which such action is brought may assess against such person a penal
 Such report shall be made available to the public for a period of six years after receipt of the report.
 After such six-year period the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 101(b) and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 101(c) and was not subsequently elected, such reports shall be destroyed one year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation.
 
-(Pub. L. 95–521, title I, §105, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, §3(6), May 4, 1990, 104 Stat. 154; Pub. L. 102–90, title III, §313(2), Aug. 14, 1991, 105 Stat. 469; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404.)
+(Pub. L. 95–521, title I, §105, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, §3(6), May 4, 1990, 104 Stat. 154; Pub. L. 102–90, title III, §313(2), Aug. 14, 1991, 105 Stat. 469; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 Codification
 
@@ -3027,6 +3120,13 @@ The General Schedule, referred to in pars. (8) and (13)(B), is set out under sec
 Codification
 
 Section was formerly classified to section 709 of Title 2, The Congress.
+
+Transfer of Functions
+
+Statutory functions, duties, or authority of Chief Administrative Officer of the House of Representatives or Secretary of the Senate as disbursing officers for the Capitol Police transferred to Chief of the Capitol Police, and references in any law or resolution before Feb. 20, 2003, to funds paid or disbursed by Chief Administrative Officer of the House of Representatives and Secretary of the Senate relating to pay and allowances of Capitol Police employees deemed to refer to Chief of the Capitol Police.
+See section 1907(a) of Title 2, The Congress.
+
+Section Referred to in Other Sections
 
 This section is referred to in sections 101, 105 of this Appendix; title 2 section 1602; title 42 section 290b.
 
@@ -4743,7 +4843,7 @@ FEDERAL SECURITY AGENCY AND DEPARTMENT OF LABOR
 Section 1. Children's Bureau
 
 (a) The Children's Bureau in the Department of Labor, exclusive of its Industrial Division, is transferred to the Federal Security Agency.
-All functions of the Children's Bureau and of the Chief of the Children's Bureau except those transferred by subsection (b) of this section, all functions of the Secretary of Labor under Title V of the Social Security Act (49 Stat. 620, ch. 531), as amended [42 U.S.C. 701 et seq.], and all other functions of the Secretary of Labor relating to the foregoing functions are transferred to the Federal Security Administrator and shall be performed by him or under his direction and control by such officers and employees of the Federal Security Agency as he shall designate, except that the functions authorized by section 2 of the act of April 9, 1912 (37 Stat. 79, ch. 73), as amended [former section 192 of Title 40], and such other functions of the Federal Security Agency as the Administrator may designate, shall be administered, under his direction and control, through the Children's Bureau.
+All functions of the Children's Bureau and of the Chief of the Children's Bureau except those transferred by subsection (b) of this section, all functions of the Secretary of Labor under Title V of the Social Security Act (49 Stat. 620, ch. 531), as amended [42 U.S.C. 701 et seq.], and all other functions of the Secretary of Labor relating to the foregoing functions are transferred to the Federal Security Administrator and shall be performed by him or under his direction and control by such officers and employees of the Federal Security Agency as he shall designate, except that the functions authorized by section 2 of the act of April 9, 1912 (37 Stat. 79, ch. 73), as amended [section 192 of Title 42], and such other functions of the Federal Security Agency as the Administrator may designate, shall be administered, under his direction and control, through the Children's Bureau.
 
 (b) The functions of the Children's Bureau and of the Chief of the Children's Bureau under the Fair Labor Standards Act of 1938 (52 Stat. 1060, ch. 676), as amended [29 U.S.C. 201 et seq.], are transferred to the Secretary of Labor and shall be performed under his direction and control by such officers and employees of the Department of Labor as he shall designate.
 

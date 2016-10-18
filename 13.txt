@@ -405,13 +405,13 @@ Pub. L. 89–473, June 29, 1966, 80 Stat. 221, which repealed this section and s
 
 §15. Leases for 1980 decennial census
 
-The 15 percent limitation contained in section 322 1 of the Act of June 30, 1932 (47 Stat. 412; 40 U.S.C. 278a) shall not apply to leases entered into by the Secretary for the purpose of carrying out the 1980 decennial census, but no lease may be entered into for such purpose at a rental in excess of 105 percent of the appraised fair annual rental of the leased premises, or a proportionate part of the appraised fair annual rental in the case of a lease for less than a year.
+The 15 percent limitation contained in section 322 1 of the Act of June 30, 1932 (47 Stat. 412) shall not apply to leases entered into by the Secretary for the purpose of carrying out the 1980 decennial census, but no lease may be entered into for such purpose at a rental in excess of 105 percent of the appraised fair annual rental of the leased premises, or a proportionate part of the appraised fair annual rental in the case of a lease for less than a year.
 
-(Added Pub. L. 96–52, §1(a), Aug. 13, 1979, 93 Stat. 358.)
+(Added Pub. L. 96–52, §1(a), Aug. 13, 1979, 93 Stat. 358; amended Pub. L. 108–178, §4(c), Dec. 15, 2003, 117 Stat. 2641.)
 
 References in Text
 
-Section 322 of the Act of June 30, 1932 (47 Stat. 412; [former] 40 U.S.C. 278a), referred to in text, was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
+Section 322 of the Act of June 30, 1932 (47 Stat. 412), referred to in text, was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
 
 1 See References in Text note below.
 
@@ -847,31 +847,6 @@ Section was derived from second paragraph of section 74 of title 13, U.S.C., 195
 For remainder of such section 74, see Distribution Table.
 
 Changes were made in phraseology.
-
-§44. Foreign cotton statistics
-
-In addition to the information regarding cotton in the United States provided for in this subchapter, the Secretary shall compile, by correspondence or the use of published reports and documents, any available information concerning the production, consumption, and stocks of cotton in foreign countries, and the number of cotton-consuming spindles in such countries.
-Each report published by the Department of Commerce or agency or bureau thereof regarding cotton shall contain an abstract of the latest available information obtained under the provisions of this section, and the Secretary shall furnish the same to the Department of Agriculture for publication in connection with the reports of that department concerning cotton in the same manner as in the case of statistics relating to the United States.
-
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1016.)
-
-Historical and Revision Notes
-
-Based on title 13, U.S.C., 1952 ed., §75 (Apr. 2, 1924, ch. 80, §5, 43 Stat. 32; June 18, 1929, ch. 28, §21, 46 Stat. 26).
-
-References to the Director of the Census were changed to references to the Secretary (of Commerce), and words “Department of Commerce or agency or bureau thereof” were substituted for “Bureau of the Census”, to conform with 1950 Reorganization Plan No. 5, §§1, 2, effective May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
-
-Changes were made in phraseology.
-
-§45. Simultaneous publication of cotton reports
-
-The reports of cotton ginned to the dates as of which the Department of Agriculture is also required to issue cotton crop reports shall be issued simultaneously with the cotton crop reports of that department, the two reports to be issued from the same place at 3 o'clock postmeridian on or before the 12th day of the month to which the respective reports relate.
-
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1017; Pub. L. 92–331, §3, June 30, 1972, 86 Stat. 400.)
-
-Historical and Revision Notes
-
-Based on title 13, U.S.C., 1952 ed., §76 (Apr. 2, 1924, ch. 80, §6, 43 Stat. 32; June 18, 1929, ch. 28, §21, 46 Stat. 26; June 28, 1949, ch. 256, §2, 63 Stat. 278).
 
 SUBCHAPTER II—OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES
 
@@ -1643,7 +1618,7 @@ Section, acts Aug. 31, 1954, ch. 1158, 68 Stat. 1020; Aug. 28, 1957, Pub. L. 85�
 
 Effective Date of Repeal
 
-Repeal effective Oct. 1, 1998, see section 3(d) of Pub. L. 105–113, set out as an Effective Date of 1997 Amendment note note under section 1991 of Title 7, Agriculture.
+Repeal effective Oct. 1, 1998, see section 3(d) of Pub. L. 105–113, set out as an Effective Date of 1997 Amendment note under section 1991 of Title 7, Agriculture.
 
 1997 Census of Agriculture
 
@@ -2208,6 +2183,8 @@ Changes were made in phraseology.
 
 CHAPTER 9—COLLECTION AND PUBLICATION OF FOREIGN COMMERCE AND TRADE STATISTICS
 
+Sec.
+
 301.
 Collection and publication.
 
@@ -2373,20 +2350,6 @@ Rules, regulations, and orders, or amendments thereto shall have the concurrence
 To assist the Secretary to carry out the provisions of this chapter, the Secretary of the Treasury shall collect information in the form and manner prescribed by the regulations issued pursuant to this chapter from persons engaged in foreign commerce or trade and from the owners or operators of carriers.
 
 (Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 107–228, div. B, title XIV, §1404(d), Sept. 30, 2002, 116 Stat. 1454.)
-
-§304. Filing export information, delayed filings, penalties for failure to file
-
-(a) The information or reports in connection with the exportation or transportation of cargo required to be filed by carriers with the Secretary of the Treasury under any rule, regulation, or order issued pursuant to this chapter may be filed after the departure of such carrier from the port or place of exportation or transportation, whether such departing carrier is destined directly to a foreign port or place or to a noncontiguous area, or proceeds by way of other ports or places of the United States, provided that a bond in an approved form in a penal sum of $10,000 is filed with the Secretary of the Treasury.
-The Secretary of Commerce may, by a rule, regulation, or order issued in conformity herewith, prescribe a maximum period after such departure during which the required information or reports may be filed.
-In the event any such information or report is not filed within such prescribed period, a penalty not to exceed $1,000 for each day's delinquency beyond the prescribed period, but not more than $10,000 per violation shall be exacted.
-Civil suit may be instituted in the name of the United States against the principal and surety for the recovery of any penalties that may accrue and be exacted in accordance with the terms of the bond.
-
-(b) Any person, other than a person described in subsection (a), required to submit export information, shall file such information in accordance with any rule, regulation, or order issued pursuant to this chapter.
-In the event any such information or reports are not filed within such prescribed period, the Secretary of Commerce (and officers of the Department of Commerce specifically designated by the Secretary) may impose a civil penalty not to exceed $1,000 for each day's delinquency beyond the prescribed period, but not more than $10,000 per violation.
-
-(c) The Secretary may remit or mitigate any penalty incurred for violations of this section and regulations issued pursuant thereto if, in his opinion, they were incurred without willful negligence or fraud, or other circumstances justify a remission or mitigation.
-
-(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 952; amended Pub. L. 107–228, div. B, title XIV, §1404(e), Sept. 30, 2002, 116 Stat. 1454.)
 
 Section Referred to in Other Sections
 
