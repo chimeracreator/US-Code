@@ -8965,7 +8965,7 @@ Comprehensive energy plan.
 Demonstration of cost effective renewable energy technologies.
 
 (e)
-Submission of comprehensive energy plan to Congress.
+Updating of plans; submission to Congress.
 
 (f)
 Authorization of appropriations.
@@ -9209,7 +9209,7 @@ Probably should be “68”.
 
 All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or used by such governments, may be audited by the Government Accountability Office, at its discretion, in accordance with chapter 35 of title 31.
 
-(Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3059.)
+(Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 517.)
 
 References in Text
 
@@ -9222,6 +9222,8 @@ Section is from the appropriation act cited as the credit to this section.
 Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3059.
 
 Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1260; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.
 
@@ -9520,7 +9522,11 @@ The Congress finds that—
 
 (3) these insular areas are endowed with a variety of renewable sources of energy which, if developed, would alleviate their dependence on imported sources of energy, relieve the fiscal burden on local governments imposed by the costs of imported fuel, and strengthen the base for political, social, and economic development;
 
-(4) appropriate technologies are presently available to develop the renewable energy resources of these insular areas but that comprehensive energy plans have not been adequately developed to meet the energy demands of these areas from renewable energy resources.
+(4) appropriate technologies are presently available to develop the renewable energy resources of these insular areas but that comprehensive energy plans have not been adequately developed to meet the energy demands of these areas from renewable energy resources;
+
+(5) electric power transmission and distribution lines in insular areas are inadequate to withstand damage caused by the hurricanes and typhoons which frequently occur in insular areas and such damage often costs millions of dollars to repair; and
+
+(6) the refinement of renewable energy technologies since the publication of the 1982 Territorial Energy Assessment prepared pursuant to subsection (c) of this section reveals the need to reassess the state of energy production, consumption, infrastructure, reliance on imported energy, opportunities for energy conservation and increased energy efficiency, and indigenous sources in regard to the insular areas.
 
 (b) Congressional declaration of policy
 
@@ -9549,9 +9555,67 @@ The plan shall be prepared with the approval of the Secretary of the Interior an
 
 The Secretary of Energy or any administrative official who may succeed him, with the approval of the Secretary of the Interior, as part of the comprehensive energy planning may demonstrate those indigenous renewable energy technologies which are determined to be most cost effective through the use of existing programs and may implement any projects or programs contained in recommendations of the plan.
 
-(e) Submission of comprehensive energy plan to Congress
+(e) Updating of plans; submission to Congress
 
-Within two years from December 24, 1980, the Secretary of Energy or any administrative official who may succeed him shall submit the comprehensive energy plan for each insular area to the Congress.
+(1) The Secretary of the Interior, in consultation with the Secretary of Energy and the head of government of each insular area, shall update the plans required under subsection (c) of this section by—
+
+(A) updating the contents required by subsection (c) of this section;
+
+(B) drafting long-term energy plans for such insular areas with the objective of reducing, to the extent feasible, their reliance on energy imports by the year 2012, increasing energy conservation and energy efficiency, and maximizing, to the extent feasible, use of indigenous energy sources; and
+
+(C) drafting long-term energy transmission line plans for such insular areas with the objective that the maximum percentage feasible of electric power transmission and distribution lines in each insular area be protected from damage caused by hurricanes and typhoons.
+
+(2) In carrying out this subsection, the Secretary of Energy shall identify and evaluate the strategies or projects with the greatest potential for reducing the dependence on imported fossil fuels as used for the generation of electricity, including strategies and projects for—
+
+(A) improved supply-side efficiency of centralized electrical generation, transmission, and distribution systems;
+
+(B) improved demand-side management through—
+
+(i) the application of established standards for energy efficiency for appliances;
+
+(ii) the conduct of energy audits for business and industrial customers; and
+
+(iii) the use of energy savings performance contracts;
+
+(C) increased use of renewable energy, including—
+
+(i) solar thermal energy for electric generation;
+
+(ii) solar thermal energy for water heating in large buildings, such as hotels, hospitals, government buildings, and residences;
+
+(iii) photovoltaic energy;
+
+(iv) wind energy;
+
+(v) hydroelectric energy;
+
+(vi) wave energy;
+
+(vii) energy from ocean thermal resources, including ocean thermal-cooling for community air conditioning;
+
+(viii) water vapor condensation for the production of potable water;
+
+(ix) fossil fuel and renewable hybrid electrical generation systems; and
+
+(x) other strategies or projects that the Secretary may identify as having significant potential; and
+
+(D) fuel substitution and minimization with indigenous biofuels, such as coconut oil.
+
+(3) In carrying out this subsection, for each insular area with a significant need for distributed generation, the Secretary of Energy shall identify and evaluate the most promising strategies and projects described in subparagraphs (C) and (D) of paragraph (2) for meeting that need.
+
+(4) In assessing the potential of any strategy or project under paragraphs (2) and (3), the Secretary of Energy shall consider—
+
+(A) the estimated cost of the power or energy to be produced, including—
+
+(i) any additional costs associated with the distribution of the generation; and
+
+(ii) the long-term availability of the generation source;
+
+(B) the capacity of the local electrical utility to manage, operate, and maintain any project that may be undertaken; and
+
+(C) other factors the Secretary of Energy considers to be appropriate.
+
+(5) Not later than 1 year after August 8, 2005, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives, the updated plans for each insular area required by this subsection.
 
 (f) Authorization of appropriations
 
@@ -9575,8 +9639,39 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 (E) any other factors which the Secretary may determine to be relevant to a particular project.
 
-(4) Notwithstanding the requirements of section 1469a(d) of this title, the Secretary shall require at least 20 percent of the costs of any project under this subsection to be provided from non-Federal sources.
-Such cost sharing may be in the form of in-kind services, donated equipment, or any combination thereof.
+(4) Power line grants for insular areas.—
+
+(A) In general.—The Secretary of the Interior is authorized to make grants to governments of insular areas of the United States to carry out eligible projects to protect electric power transmission and distribution lines in such insular areas from damage caused by hurricanes and typhoons.
+
+(B) Eligible projects.—The Secretary of the Interior may award grants under subparagraph (A) only to governments of insular areas of the United States that submit written project plans to the Secretary for projects that meet the following criteria:
+
+(i) The project is designed to protect electric power transmission and distribution lines located in 1 or more of the insular areas of the United States from damage caused by hurricanes and typhoons.
+
+(ii) The project is likely to substantially reduce the risk of future damage, hardship, loss, or suffering.
+
+(iii) The project addresses 1 or more problems that have been repetitive or that pose a significant risk to public health and safety.
+
+(iv) The project is not likely to cost more than the value of the reduction in direct damage and other negative impacts that the project is designed to prevent or mitigate.
+The cost benefit analysis required by this criterion shall be computed on a net present value basis.
+
+(v) The project design has taken into consideration long-term changes to the areas and persons it is designed to protect and has manageable future maintenance and modification requirements.
+
+(vi) The project plan includes an analysis of a range of options to address the problem it is designed to prevent or mitigate and a justification for the selection of the project in light of that analysis.
+
+(vii) The applicant has demonstrated to the Secretary that the matching funds required by subparagraph (D) are available.
+
+(C) Priority.—When making grants under this paragraph, the Secretary of the Interior shall give priority to grants for projects which are likely to—
+
+(i) have the greatest impact on reducing future disaster losses; and
+
+(ii) best conform with plans that have been approved by the Federal Government or the government of the insular area where the project is to be carried out for development or hazard mitigation for that insular area.
+
+(D) Matching requirement.—The Federal share of the cost for a project for which a grant is provided under this paragraph shall not exceed 75 percent of the total cost of that project.
+The non-Federal share of the cost may be provided in the form of cash or services.
+
+(E) Treatment of funds for certain purposes.—Grants provided under this paragraph shall not be considered as income, a resource, or a duplicative program when determining eligibility or benefit levels for Federal major disaster and emergency assistance.
+
+(F) Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $6,000,000 for each fiscal year beginning after August 8, 2005.
 
 (5) For the purposes of this subsection—
 
@@ -9584,7 +9679,11 @@ Such cost sharing may be in the form of in-kind services, donated equipment, or 
 
 (B) the term “1982 Territorial Energy Assessment” means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c) of this section.
 
-(Pub. L. 96–597, title VI, §604, Dec. 24, 1980, 94 Stat. 3480; Pub. L. 98–213, §7, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 102–486, title XXVII, §2701, Oct. 24, 1992, 106 Stat. 3118.)
+(Pub. L. 96–597, title VI, §604, Dec. 24, 1980, 94 Stat. 3480; Pub. L. 98–213, §7, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 102–486, title XXVII, §2701, Oct. 24, 1992, 106 Stat. 3118; Pub. L. 109–58, title II, §251, Aug. 8, 2005, 119 Stat. 679.)
+
+References in Text
+
+August 8, 2005, referred to in subsecs. (e)(5) and (g)(4)(F), was in the original “the date of enactment of this subsection” and “the date of enactment of this paragraph”, respectively, and was translated as meaning the date of enactment of Pub. L. 109–58 which amended subsecs. (e) and (g)(4) generally, to reflect the probable intent of Congress.
 
 §1493. Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders
 
@@ -11192,6 +11291,15 @@ The legislature may provide for trial in misdemeanor cases by a jury of six qual
 
 (July 22, 1954, ch. 558, §26, 68 Stat. 507; Pub. L. 85–851, §8, Aug. 28, 1958, 72 Stat. 1095.)
 
+§1617. United States attorney; appointment; duties
+
+The President shall, by and with the advice and consent of the Senate, appoint a United States attorney for the Virgin Islands to whose office the provisions of chapter 35 of title 28, shall apply.
+Except as otherwise provided by law it shall be the duty of the United States attorney to prosecute all offenses against the United States and to conduct all legal proceedings, civil and criminal, to which the Government of the United States is a party in the district court and in the courts established by local law.
+He shall also prosecute in the district court in the name of the government of the Virgin Islands all offenses against the laws of the Virgin Islands which are cognizable by that court unless, at his request or with his consent, the prosecution of any such case is conducted by the attorney general of the Virgin Islands.
+The United States attorney may, when requested by the Governor or the attorney general of the Virgin Islands, conduct any other legal proceedings to which the government of the Virgin Islands is a party in the district court or the courts established by local law.
+
+(July 22, 1954, ch. 558, §27, 68 Stat. 507; Pub. L. 85–851, §9, Aug. 28, 1958, 72 Stat. 1095; Pub. L. 86–289, §4, Sept. 16, 1959, 73 Stat. 569; Pub. L. 92–24, June 2, 1971, 85 Stat. 76; Pub. L. 98–454, title VII, §708, Oct. 5, 1984, 98 Stat. 1741.)
+
 SUBCHAPTER VI—SYSTEM OF ACCOUNTS
 
 §1631. Establishment and maintenance; scope
@@ -12359,59 +12467,6 @@ References in Text
 
 The criminal laws of the United States, referred to in subsec. (a), are classified generally to Title 18, Crimes and Criminal Procedure.
 
-§1705. Tidelands, submerged lands, or filled lands
-
-(a) Conveyance to Guam, Virgin Islands, and American Samoa
-
-Subject to valid existing rights, all right, title, and interest of the United States in lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coastlines of the territories of Guam, the Virgin Islands, and American Samoa, as heretofore or hereafter modified by accretion, erosion, and reliction, and in artificially made, filled in, or reclaimed lands which were formerly permanently or periodically covered by tidal waters, are hereby conveyed to the governments of Guam, the Virgin Islands, and American Samoa, as the case may be, to be administered in trust for the benefit of the people thereof.
-
-(b) Retention of certain lands and mineral rights by United States
-
-There are excepted from the transfer made by subsection (a) hereof—
-
-(i) all deposits of oil, gas, and other minerals, but the term “minerals” shall not include coral, sand, and gravel;
-
-(ii) all submerged lands adjacent to property owned by the United States above the line of mean high tide;
-
-(iii) all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after October 5, 1974, as required for completion of the Department of the Navy Land Acquisition Project relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135);
-
-(iv) all submerged lands filled in, built up, or otherwise reclaimed by the United States, before October 5, 1974, for its own use;
-
-(v) all tracts or parcels of submerged land containing on any part thereof any structures or improvements constructed by the United States;
-
-(vi) all submerged lands that have heretofore been determined by the President or the Congress to be of such scientific, scenic, or historic character as to warrant preservation and administration under the provisions of sections 1, 2, 3, and 4 of title 16;
-
-(vii) all submerged lands designated by the President within one hundred and twenty days after October 5, 1974;
-
-(viii) all submerged lands that are within the administrative responsibility of any agency or department of the United States other than the Department of the Interior;
-
-(ix) all submerged lands lawfully acquired by persons other than the United States through purchase, gift, exchange, or otherwise;
-
-(x) all submerged lands within the Virgin Islands National Park established by sections 398 to 398b of title 16, including the lands described in sections 398c and 398d of title 16; and
-
-(xi) all submerged lands within the Buck Island Reef National Monument as described in Presidential Proclamation 3448 dated December 28, 1961.
-
-Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
-
-(c) Submittal to Congressional committees of proposals for conveyance of retained lands or rights
-
-No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) of this section until the expiration of sixty calendar days (excluding days on which the House of Representatives or the Senate is not in session because of an adjournment of more than three days to a day certain) from the date on which the Secretary of the Interior submits to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanatory statement indicating the tract proposed to be conveyed and the need therefor, unless prior to the expiration of such sixty calendar days both committees inform the Secretary that they wish to take no action with respect to the proposed conveyance.
-
-(d) Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc.
-
-(1) The Secretary of the Interior shall, not later than sixty days after March 12, 1980, convey to the governments of Guam, the Virgin Islands, and American Samoa, as the case may be, all right, title, and interest of the United States in deposits of oil, gas, and other minerals in the submerged lands conveyed to the government of such territory by subsection (a) of this section.
-
-(2) The conveyance of mineral deposits under paragraph (1) of this subsection shall be subject to any existing lease, permit, or other interest granted by the United States prior to the date of such conveyance.
-All rentals, royalties, or fees which accrue after such date of conveyance in connection with any such lease, permit, or other interest shall be payable to the government of the territory to which such mineral deposits are conveyed.
-
-(Pub. L. 93–435, §1, Oct. 5, 1974, 88 Stat. 1210; Pub. L. 96–205, title VI, §607, Mar. 12, 1980, 94 Stat. 91; Pub. L. 103–437, §17(b), Nov. 2, 1994, 108 Stat. 4595.)
-
-References in Text
-
-The authorization for the construction by the Navy of the Ammunition Pier under the Military Construction Authorization Act, 1971, (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135), referred to in subsec. (b)(iii), is contained in section 201 of Pub. L. 91–511, Oct. 26, 1970, 84 Stat. 1204, as amended by section 201 of Pub. L. 92–545, Oct. 25, 1972, 86 Stat. 1138, which is not classified to the Code.
-
-Section 398b of title 16, referred to in subsec. (b)(x), was repealed by Pub. L. 85–404, May 16, 1958, 72 Stat. 112.
-
 Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
@@ -13539,27 +13594,6 @@ The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Poli
 Codification
 
 Section was formerly classified to section 1694b of this title.
-
-Effective Date
-
-For effective date of this section, see section 1825 of this title and Effective Date of Constitution note thereunder.
-
-§1824. Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions
-
-(a) The relations between the courts established by the Constitution or laws of the United States and the courts of the Northern Mariana Islands with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus, and other matters or proceedings shall be governed by the laws of the United States pertaining to the relations between the courts of the United States including the Supreme Court of the United States, and the courts of the several States in such matters and proceedings, except as otherwise provided in article IV of the covenant: Provided, That for the first fifteen years following the establishment of an appellate court of the Northern Mariana Islands the United States court of appeals for the judicial circuit which includes the Northern Mariana Islands shall have jurisdiction of appeals from all final decisions of the highest court of the Northern Mariana Islands from which a decision could be had in all cases involving the Constitution, treaties, or laws of the United States, or any authority exercised thereunder, unless those cases are reviewable in the District Court for the Northern Mariana Islands pursuant to section 1823 of this title.
-
-(b) Those portions of title 28 which apply to Guam or the District Court of Guam shall be applicable to the Northern Mariana Islands or the District Court for the Northern Mariana Islands, respectively, except as otherwise provided in article IV of the covenant.
-The district court established by this subchapter shall be a district court as that term is used in section 3006A of title 18.
-
-(Pub. L. 95–157, §4, Nov. 8, 1977, 91 Stat. 1266; Pub. L. 98–454, title IX, §904, Oct. 5, 1984, 98 Stat. 1745.)
-
-References in Text
-
-The covenant, referred to in text, is the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
-
-Codification
-
-Section was formerly classified to section 1694c of this title.
 
 Effective Date
 
@@ -19329,6 +19363,18 @@ The Compact of Free Association, as amended, between the Government of the Unite
 The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, referred to in subsecs. (g) and (i), is contained in section 201(b) of Pub. L. 108–188, set out as a note under section 1921 of this title.
 
 The enactment of this resolution, referred to in subsec. (h)(1), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
+
+Assignment of Reporting Functions
+
+Memorandum of President of the United States, July 21, 2005, 70 F.R. 43249, provided:
+
+Memorandum for the Secretary of the Interior
+
+By virtue of the authority vested in me by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 104(h) of the Compact of Free Association Amendments Act of 2003 (Public Law 108–188) [48 U.S.C. 1921c(h)].
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.      
 
 §1921d. Supplemental provisions
 

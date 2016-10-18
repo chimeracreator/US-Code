@@ -6,7 +6,7 @@ United States Code Document
 
 FEDERAL RULES OF BANKRUPTCY PROCEDURE AND OFFICIAL BANKRUPTCY FORMS
 
-(Effective August 1, 1983, as amended to January 3, 2005)
+(Effective August 1, 1983, as amended to January 2, 2006)
 
 Part
 Rule
@@ -119,7 +119,7 @@ Death or Incompetency of Debtor.
 Dismissal or Conversion of Case; Suspension.
 
 1018.
-Contested Involuntary Petitions; Contested Petitions Commencing Ancillary Cases; Proceedings To Vacate Order for Relief; Applicability of Rules in Part VII Governing Adversary Proceedings.
+Contested Involuntary Petitions; Contested Petitions Commencing Ancillary Cases; Proceedings to Vacate Order for Relief; Applicability of Rules in Part VII Governing Adversary Proceedings.
 
 1019.
 Conversion of a Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to a Chapter 7 Liquidation Case.
@@ -186,7 +186,7 @@ Compensation for Services Rendered and Reimbursement of Expenses.
 Examination of Debtor's Transactions with Debtor's Attorney.
 
 2018.
-Intervention; Right to be Heard.
+Intervention; Right to Be Heard.
 
 2019.
 Representation of Creditors and Equity Security Holders in Chapter 9 Municipality and Chapter 11 Reorganization Cases.
@@ -652,7 +652,7 @@ Subpoena.
 Evidence.
 
 9018.
-Secret Confidential, Scandalous, or Defamatory Matter.
+Secret, Confidential, Scandalous, or Defamatory Matter.
 
 9019.
 Compromise and Arbitration.
@@ -712,7 +712,7 @@ Notice by Electronic Transmission.
 
 PART X. [ABROGATED]
 
-OFFICIAL BANKRUPTCY FORMS
+OFFICIAL FORMS
 
 Form
 
@@ -722,8 +722,11 @@ Voluntary Petition.
 2.
 Declaration under Penalty of Perjury on Behalf of a Corporation or Partnership.
 
-3.
-Application and Order to Pay Filing Fee in Installments.
+3A.
+Application to Pay Filing Fee in Installments.
+
+3B.
+Application for Waiver of the Chapter 7 Filing Fee for Individuals Who Cannot Pay the Filing Fee in Full or in Installments.
 
 4.
 List of Creditors Holding 20 Largest Unsecured Claims.
@@ -759,13 +762,13 @@ Order and Notice for Hearing on Disclosure Statement.
 Order Approving Disclosure Statement and Fixing Time for Filing Acceptances or Rejections of Plan, Combined with Notice Thereof.
 
 14.
-Ballot for Accepting or Rejecting a Plan.
+Class [ ] Ballot for Accepting or Rejecting Plan of Reorganization.
 
 15.
 Order Confirming Plan.
 
 16A.
-Caption.
+Caption (Full).
 
 16B.
 Caption (Short Title).
@@ -782,17 +785,35 @@ Notice of Appeal.
 18.
 Discharge of Debtor.
 
-19.
-Certification and Signature of Non-Attorney Bankruptcy Petition Preparer (See 11 U.S.C. §110).
+19A.
+Declaration and Signature of Non-Attorney Bankruptcy Petition Preparer (11 U.S.C. §110).
+
+19B.
+Notice to Debtor by Non-Attorney Bankruptcy Petition Preparer.
 
 20A.
-Notice of Motion or Objection.
+Notice of [Motion to ] [Objection to ].
 
 20B.
 Notice of Objection to Claim.
 
 21.
 Statement of Social Security Number.
+
+22A.
+Statement of Current Monthly Income and Means Test Calculation.
+
+22B.
+Statement of Current Monthly Income.
+
+22C.
+Statement of Current Monthly Income and Calculation of Commitment Period and Disposable Income.
+
+23.
+Debtor's Certification of Completion of Instructional Course Concerning Personal Financial Management.
+
+24.
+Certification to Court of Appeals by All Parties.
 
         
 
@@ -1005,11 +1026,11 @@ Rule 1007. Lists, Schedules, and Statements; Time Limits
 (a) List of Creditors and Equity Security Holders, and Corporate Ownership Statement
 
 (1) Voluntary Case.
-In a voluntary case, the debtor shall file with the petition a list containing the name and address of each creditor unless the petition is accompanied by a schedule of liabilities.
+In a voluntary case, the debtor shall file with the petition a list containing the name and address of each entity included or to be included on Schedules D, E, F, G, and H as prescribed by the Official Forms.
 If the debtor is a corporation, other than a governmental unit, the debtor shall file with the petition a corporate ownership statement containing the information described in Rule 7007.1. The debtor shall file a supplemental statement promptly upon any change in circumstances that renders the corporate ownership statement inaccurate.
 
 (2) Involuntary Case.
-In an involuntary case, the debtor shall file within 15 days after entry of the order for relief, a list containing the name and address of each creditor unless a schedule of liabilities has been filed.
+In an involuntary case, the debtor shall file within 15 days after entry of the order for relief, a list containing the name and address of each entity included or to be included on Schedules D, E, F, G, and H as prescribed by the Official Forms.
 
 (3) Equity Security Holders.
 In a chapter 11 reorganization case, unless the court orders otherwise, the debtor shall file within 15 days after entry of the order for relief a list of the debtor's equity security holders of each class showing the number and kind of interests registered in the name of each holder, and the last known address or place of business of each holder.
@@ -1026,9 +1047,9 @@ A copy of the statement of intention shall be served on the trustee and the cred
 
 (c) Time Limits
 
-The schedules and statements, other than the statement of intention, shall be filed with the petition in a voluntary case, or if the petition is accompanied by a list of all the debtor's creditors and their addresses, within 15 days thereafter, except as otherwise provided in subdivisions (d), (e), (f), and (h) of this rule.
-In an involuntary case, the schedules and statements, other than the statement of intention, shall be filed by the debtor within 15 days of the entry of the order for relief.
-Schedules and statements filed prior to the conversion of a case to another chapter shall be deemed filed in the converted case unless the court directs otherwise.
+In a voluntary case, the schedules and statements, other than the statement of intention, shall be filed with the petition, or within 15 days thereafter, except as otherwise provided in subdivisions (d), (e), (f), and (h) of this rule.
+In an involuntary case, the list in subdivision (a)(2), and the schedules and statements, other than the statement of intention, shall be filed by the debtor within 15 days of the entry of the order for relief.
+Lists, schedules, and statements filed prior to the conversion of a case to another chapter shall be deemed filed in the converted case unless the court directs otherwise.
 Any extension of time for the filing of the schedules and statements may be granted only on motion for cause shown and on notice to the United States trustee and to any committee elected under §705 or appointed under §1102 of the Code, trustee, examiner, or other party as the court may direct.
 Notice of an extension shall be given to the United States trustee and to any committee, trustee, or other party as the court may direct.
 
@@ -1051,7 +1072,7 @@ In an involuntary case, the debtor shall submit the statement within 15 days aft
 
 (g) Partnership and Partners
 
-The general partners of a debtor partnership shall prepare and file the schedules of the assets and liabilities, schedule of current income and expenditures, schedule of executory contracts and unexpired leases, and statement of financial affairs of the partnership.
+The general partners of a debtor partnership shall prepare and file the list required under subdivision (a), schedules of the assets and liabilities, schedule of current income and expenditures, schedule of executory contracts and unexpired leases, and statement of financial affairs of the partnership.
 The court may order any general partner to file a statement of personal assets and liabilities within such time as the court may fix.
 
 (h) Interests Acquired or Arising After Petition
@@ -1088,7 +1109,8 @@ Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 23, 2001, eff.
 Dec. 1, 2001; Mar. 27, 2003, eff.
-Dec. 1, 2003.)
+Dec. 1, 2003; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1720,6 +1742,10 @@ If an equity security holder has not filed a request designating a mailing addre
 
 (3) If a list or schedule filed under Rule 1007 includes the name and address of a legal representative of an infant or incompetent person, and a person other than that representative files a request or proof of claim designating a name and mailing address that differs from the name and address of the representative included in the list or schedule, unless the court orders otherwise, notices under Rule 2002 shall be mailed to the representative included in the list or schedules and to the name and address designated in the request or proof of claim.
 
+(4) Notwithstanding Rule 2002(g)(1)–(3), an entity and a notice provider may agree that when the notice provider is directed by the court to give a notice, the notice provider shall give the notice to the entity in the manner agreed to and at the address or addresses the entity supplies to the notice provider.
+That address is conclusively presumed to be a proper address for the notice.
+The notice provider's failure to use the supplied address does not invalidate any notice that is otherwise effective under applicable law.
+
 (h) Notices to Creditors Whose Claims are Filed
 
 In a chapter 7 case, after 90 days following the first date set for the meeting of creditors under §341 of the Code, the court may direct that all notices required by subdivision (a) of this rule be mailed only to the debtor, the trustee, all indenture trustees, creditors that hold claims for which proofs of claim have been filed, and creditors, if any, that are still permitted to file claims by reason of an extension granted pursuant to Rule 3002(c)(1) or (c)(2). In a case where notice of insufficient assets to pay a dividend has been given to creditors pursuant to subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims pursuant to Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.
@@ -1767,7 +1793,8 @@ Dec. 1, 1999; Apr. 17, 2000, eff.
 Dec. 1, 2000; Apr. 23, 2001, eff.
 Dec. 1, 2001; Mar. 27, 2003, eff.
 Dec. 1, 2003; Apr. 26, 2004, eff.
-Dec. 1, 2004.)
+Dec. 1, 2004; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -2887,12 +2914,12 @@ Voting and distribution participation is dependent on ownership as disclosed by 
 
 Rule 3004. Filing of Claims by Debtor or Trustee
 
-If a creditor fails to file a proof of claim on or before the first date set for the meeting of creditors called pursuant to §341(a) of the Code, the debtor or trustee may do so in the name of the creditor, within 30 days after expiration of the time for filing claims prescribed by Rule 3002(c) or 3003(c), whichever is applicable.
-The clerk shall forthwith mail notice of the filing to the creditor, the debtor and the trustee.
-A proof of claim filed by a creditor pursuant to Rule 3002 or Rule 3003(c), shall supersede the proof filed by the debtor or trustee.
+If a creditor does not timely file a proof of claim under Rule 3002(c) or 3003(c), the debtor or trustee may file a proof of the claim within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or 3003(c), whichever is applicable.
+The clerk shall forthwith give notice of the filing to the creditor, the debtor and the trustee.
 
 (As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -2901,7 +2928,7 @@ Rule 303 permitted only the filing of tax and wage claims by the debtor.
 Section 501(c) of the Code, however, permits the filing by the debtor or trustee on behalf of any creditor.
 
 It is the policy of the Code that debtors’ estates should be administered for the benefit of creditors without regard to the dischargeability of their claims.
-After their estates have been closed, however, discharged debtors may find themselves saddled with liabilities, particularly for taxes, which remain unpaid because of the failure of creditors holding nondis- chargeable claims to file proofs of claim and receive distributions thereon.
+After their estates have been closed, however, discharged debtors may find themselves saddled with liabilities, particularly for taxes, which remain unpaid because of the failure of creditors holding nondischargeable claims to file proofs of claim and receive distributions thereon.
 The result is that the debtor is deprived of an important benefit of the Code without any fault or omission on the debtor's part and without any objective of the Code being served thereby.
 
 Section 501(c) of the Code authorizes a debtor or trustee to file a proof of claim for any holder of a claim.
@@ -2920,9 +2947,8 @@ Rule 3005. Filing of Claim, Acceptance, or Rejection by Guarantor, Surety, Indor
 
 (a) Filing of Claim
 
-If a creditor has not filed a proof of claim pursuant to Rule 3002 or 3003(c), an entity that is or may be liable with the debtor to that creditor, or who has secured that creditor, may, within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or 3003(c) whichever is applicable, execute and file a proof of claim in the name of the creditor, if known, or if unknown, in the entity's own name.
+If a creditor does not timely file a proof of claim under Rule 3002(c) or 3003(c), any entity that is or may be liable with the debtor to that creditor, or who has secured that creditor, may file a proof of the claim within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or Rule 3003(c) whichever is applicable.
 No distribution shall be made on the claim except on satisfactory proof that the original debt will be diminished by the amount of distribution.
-A proof of claim filed by a creditor pursuant to Rule 3002 or 3003(c) shall supersede the proof of claim filed pursuant to the first sentence of this subdivision.
 
 (b) Filing of Acceptance or Rejection; Substitution of Creditor
 
@@ -2930,7 +2956,8 @@ An entity which has filed a claim pursuant to the first sentence of subdivision 
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -3658,6 +3685,89 @@ Dependent is defined in §522(a)(1).
 Subdivision (d) provides that a proceeding by the debtor, permitted by §522(f) of the Code, is a contested matter rather than the more formal adversary proceeding.
 Proceedings within the scope of this subdivision are distinguished from proceedings brought by the trustee to avoid transfers.
 The latter are classified as adversary proceedings by Rule 7001.
+
+Rule 4004. Grant or Denial of Discharge
+
+(a) Time for Filing Complaint Objecting to Discharge; Notice of Time Fixed
+
+In a chapter 7 liquidation case a complaint objecting to the debtor's discharge under §727(a) of the Code shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). In a chapter 11 reorganization case, the complaint shall be filed no later than the first date set for the hearing on confirmation.
+At least 25 days’ notice of the time so fixed shall be given to the United States trustee and all creditors as provided in Rule 2002(f) and (k), and to the trustee and the trustee's attorney.
+
+(b) Extension of Time
+
+On motion of any party in interest, after hearing on notice, the court may for cause extend the time to file a complaint objecting to discharge.
+The motion shall be filed before the time has expired.
+
+(c) Grant of Discharge
+
+(1) In a chapter 7 case, on expiration of the time fixed for filing a complaint objecting to discharge and the time fixed for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge unless:
+
+(A) the debtor is not an individual,
+
+(B) a complaint objecting to the discharge has been filed,
+
+(C) the debtor has filed a waiver under §727(a)(10),
+
+(D) a motion to dismiss the case under §707 is pending,
+
+(E) a motion to extend the time for filing a complaint objecting to the discharge is pending,
+
+(F) a motion to extend the time for filing a motion to dismiss the case under Rule 1017(e) is pending, or
+
+(G) the debtor has not paid in full the filing fee prescribed by 28 U.S.C. §1930(a) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon the commencement of a case under the Code.
+
+(2) Notwithstanding Rule 4004(c)(1), on motion of the debtor, the court may defer the entry of an order granting a discharge for 30 days and, on motion within that period, the court may defer entry of the order to a date certain.
+
+(d) Applicability of Rules in Part VII
+
+A proceeding commenced by a complaint objecting to discharge is governed by Part VII of these rules.
+
+(e) Order of Discharge
+
+An order of discharge shall conform to the appropriate Official Form.
+
+(f) Registration in Other Districts
+
+An order of discharge that has become final may be registered in any other district by filing a certified copy of the order in the office of the clerk of that district.
+When so registered the order of discharge shall have the same effect as an order of the court of the district where registered.
+
+(g) Notice of Discharge
+
+The clerk shall promptly mail a copy of the final order of discharge to those specified in subdivision (a) of this rule.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991; Apr. 23, 1996, eff.
+Dec. 1, 1996; Apr. 26, 1999, eff.
+Dec. 1, 1999; Apr. 17, 2000, eff.
+Dec. 1, 2000; Apr. 29, 2002, eff.
+Dec. 1, 2002.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is adapted from former Bankruptcy Rule 404.
+
+Subdivisions (a) and (b) of this rule prescribe the procedure for determining whether a discharge will be granted pursuant to §727 of the Code.
+The time fixed by subdivision (a) may be enlarged as provided in subdivision (b).
+
+The notice referred to in subdivision (a) is required to be given by mail and addressed to creditors as provided in Rule 2002.
+
+An extension granted on a motion pursuant to subdivision (b) of the rule would ordinarily benefit only the movant, but its scope and effect would depend on the terms of the extension.
+
+Subdivision (c). If a complaint objecting to discharge is filed, the court's grant or denial of the discharge will be entered at the conclusion of the proceeding as a judgment in accordance with Rule 9021. The inclusion of the clause in subdivision (c) qualifying the duty of the court to grant a discharge when a waiver has been filed is in accord with the construction of the Code. 4 Collier, Bankruptcy  727.12 (15th ed. 1979).
+
+The last sentence of subdivision (c) takes cognizance of §524(c) of the Code which authorizes a debtor to enter into enforceable reaffirmation agreements only prior to entry of the order of discharge.
+Immediate entry of that order after expiration of the time fixed for filing complaints objecting to discharge may render it more difficult for a debtor to settle pending litigation to determine the dischargeability of a debt and execute a reaffirmation agreement as part of a settlement.
+
+Subdivision (d). An objection to discharge is required to be made by a complaint, which initiates an adversary proceeding as provided in Rule 7003. Pursuant to Rule 5005, the complaint should be filed in the court in which the case is pending.
+
+Subdivision (e). Official Form No. 27 to which subdivision (e) refers, includes notice of the effects of a discharge specified in §524(a) of the Code.
+
+Subdivision (f). Registration may facilitate the enforcement of the order of discharge in a district other than that in which it was entered.
+See 2 Moore's Federal Practice  1.04[2] (2d ed. 1967). Because of the nationwide service of process authorized by Rule 7004, however, registration of the order of discharge is not necessary under these rules to enable a discharged debtor to obtain relief against a creditor proceeding anywhere in the United States in disregard of the injunctive provisions of the order of discharge.
+
+Subdivision (g). Notice of discharge should be mailed promptly after the order becomes final so that creditors may be informed of entry of the order and of its injunctive provisions.
+Rule 2002 specifies the manner of the notice and persons to whom the notice is to be given.
 
 Rule 4005. Burden of Proof in Objecting to Discharge
 
@@ -4431,8 +4541,10 @@ Rule 7004. Process; Service of Summons, Complaint
 
 (a) Summons; Service; Proof of Service
 
-Rule 4(a), (b), (c)(1), (d)(1), (e)–(j), (l), and (m) F.R.Civ.P. applies in adversary proceedings.
-Personal service pursuant to Rule 4(e)–(j) F.R.Civ.P. may be made by any person at least 18 years of age who is not a party, and the summons may be delivered by the clerk to any such person.
+(1) Except as provided in Rule 7004(a)(2), Rule 4(a), (b), (c)(1), (d)(1), (e)–(j), (l), and (m) F.R.Civ.P. applies in adversary proceedings.
+Personal service under Rule 4(e)–(j) F.R.Civ.P. may be made by any person at least 18 years of age who is not a party, and the summons may be delivered by the clerk to any such person.
+
+(2) The clerk may sign, seal, and issue a summons electronically by putting an “s/” before the clerk's name and including the court's seal on the summons.
 
 (b) Service by First Class Mail
 
@@ -4499,7 +4611,8 @@ Service on an insured depository institution (as defined in section 3 of the Fed
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 26, 1999, eff.
-Dec. 1, 1999.)
+Dec. 1, 1999; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -5511,15 +5624,18 @@ In addition, the following words and phrases used in these rules have the meanin
 
 (8) “Mail” means first class, postage prepaid.
 
-(9) “Regular associate” means any attorney regularly employed by, associated with, or counsel to an individual or firm.
+(9) “Notice provider” means any entity approved by the Administrative Office of the United States Courts to give notice to creditors under Rule 2002(g)(4).
 
-(10) “Trustee” includes a debtor in possession in a chapter 11 case.
+(10) “Regular associate” means any attorney regularly employed by, associated with, or counsel to an individual or firm.
 
-(11) “United States trustee” includes an assistant United States trustee and any designee of the United States trustee.
+(11) “Trustee” includes a debtor in possession in a chapter 11 case.
+
+(12) “United States trustee” includes an assistant United States trustee and any designee of the United States trustee.
 
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991.)
+Aug. 1, 1991; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 References in Text
 
@@ -5638,7 +5754,7 @@ Service of process and service of any paper other than process or of notice by m
 
 (f) Additional Time After Service by Mail or Under Rule 5(b)(2)(C) or (D) F.R.Civ.P.
 
-When there is a right or requirement to do some act or undertake some proceedings within a prescribed period after service of a notice or other paper and the notice or paper other than process is served by mail or under Rule 5(b)(2)(C) or (D) F.R.Civ.P., three days shall be added to the prescribed period.
+When there is a right or requirement to act or undertake some proceedings within a prescribed period after service and that service is by mail or under Rule 5(b)(2)(C) or (D) F. R. Civ. P., three days are added after the prescribed period would otherwise expire under Rule 9006(a).
 
 (g) Grain Storage Facility Cases
 
@@ -5650,7 +5766,8 @@ Aug. 1, 1989; Apr. 30, 1991, eff.
 Aug. 1, 1991; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 26, 1999, eff.
 Dec. 1, 1999; Apr. 23, 2001, eff.
-Dec. 1, 2001.)
+Dec. 1, 2001; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -5678,7 +5795,7 @@ Subdivision (f) is new and is the same as Rule 6(e) F.R.Civ.P.
 
 References in Text
 
-The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subds. (a) and (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Rule 9007. General Authority to Regulate Notices
 
@@ -6447,10 +6564,11 @@ This rule will cease to have effect if a United States trustee is authorized in 
 Rule 9036. Notice by Electronic Transmission
 
 Whenever the clerk or some other person as directed by the court is required to send notice by mail and the entity entitled to receive the notice requests in writing that, instead of notice by mail, all or part of the information required to be contained in the notice be sent by a specified type of electronic transmission, the court may direct the clerk or other person to send the information by such electronic transmission.
-Notice by electronic transmission is complete, and the sender shall have fully complied with the requirement to send notice, when the sender obtains electronic confirmation that the transmission has been received.
+Notice by electronic means is complete on transmission.
 
 (Added Apr. 22, 1993, eff.
-Aug. 1, 1993.)
+Aug. 1, 1993; amended Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1993
 
@@ -6472,6 +6590,8 @@ OFFICIAL FORMS
 
 [Note: These official forms should be observed and used with such alterations as may be appropriate to suit the circumstances.
 See Rule 9009.]
+
+Form 1
 
 Form 1
 
@@ -6543,7 +6663,7 @@ The form is designed for use with automated printing and mailing equipment.
 Two free lines, which do not appear on the printed blank form, have been programmed into the form.
 Courts may use this space to add local information, such as directions for obtaining copies of the debtor's schedules.
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2001; Dec. 1, 2002; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2001; Dec. 1, 2002; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6575,55 +6695,6 @@ Exhibit “B” was added by §322 of Pub. L. No. 98–353, the Bankruptcy Amend
 
 The form effects a merger of the petition and the bankruptcy cover sheet to assist the clerk in providing the statistical information required by the Director of the Administrative Office of the United States Courts pursuant to the Congressional reporting mandates of 28 U.S.C. §604. The Director is authorized to change the particulars of the statistical portion of the form as needed in the performance of these statutory duties.
 
-Notes of Advisory Committee on Rules—1993 Amendment
-
-The form has been amended to require a debtor not represented by an attorney to provide a telephone number so that court personnel, the trustee, other parties in the case, and their attorneys can contact the debtor concerning matters in the case.
-
-Notes of Advisory Committee on Rules—1995 Amendment
-
-The form is amended to provide space for signing by a “bankruptcy petition preparer,” as required under section 110 of the Code, which was added by the Bankruptcy Reform Act of 1994. In addition to signing, a bankruptcy petition preparer is required by section 110 to disclose the information requested.
-All signatories of Form 1 are requested to provide the clerk's office with a telephone number.
-
-A chapter 11 debtor that qualifies as a “small business” under section 101 of the Code, as amended by the 1994 Act, may elect special, expedited treatment under amendments made to chapter 11 by the 1994 Act.
-The court may order that a creditors committee not be appointed in a small business case.
-Accordingly, the first page of the petition is amended to require a small business filing under chapter 11 to identify itself.
-The petition also is amended to offer a small business chapter 11 debtor an opportunity to exercise its right to elect to be considered a small business at the commencement of the case.
-
-Several clarifying and technical amendments also have been made to indicate that a debtor is to check only one box with respect to “Type of Debtor” and “Nature of Debt,” to clarify the intent that the individual signing on behalf of a corporation or partnership is authorized to file the petition, and to require a debtor to represent that it is eligible for relief under the chapter of title 11 specified in the petition.
-
-Notes of Advisory Committee on Rules—1997 Amendment
-
-The form has been substantially amended to simplify its format and make the form easier to complete correctly.
-The Latin phrase “In re” has been deleted as unnecessary.
-The amount of information requested in the boxes labeled “Type of Debtor” and “Nature of Debt” has been reduced, and the reporting by a corporation of whether it is a publicly held entity has been moved to Exhibit “A” of the petition.
-The box labeled “Representation by Attorney” has been deleted; the information it contained is requested in the signature boxes on the second page of the form.
-
-In the statistical information section, the labels on the ranges of estimated assets and liabilities have been rewritten to improve the accuracy of reporting.
-The asset/liability range of $10 million to $100 million has been divided into two categories to promote better statistical reporting of business cases.
-Requests for information in chapter 11 and chapter 12 cases concerning the number of the debtor's employees and equity security holders have been deleted.
-
-The second page of the form has been simplified so that a debtor need only sign the petition once.
-The request for information concerning the filing of a plan has been deleted.
-
-Exhibit “A” has been simplified.
-In addition, the category of chapter 11 debtors required to file Exhibit “A” is modified to include a corporation, partnership, or other entity, but only if the debtor has issued publicly-traded equity securities or debt instruments.
-Most small corporations will not be required to file Exhibit “A.”
-
-Committee Notes on Rules—2001 Amendment
-
-The form has been amended to require the debtor to disclose whether the debtor owns or has possession of any property that poses or is alleged to pose a threat of imminent and identifiable harm to public health or safety.
-If any such property exists, the debtor must complete and attach Exhibit “C” describing the property, its location, and the potential danger it poses.
-Exhibit “C” will alert the United States trustee and any person selected as trustee that immediate precautionary action may be necessary.
-
-Committee Notes on Rules—2002 Amendment
-
-The form has been amended to provide a checkbox for designating a clearing bank case filed under subchapter V of chapter 7 of the Code enacted by §112 of Pub. L. No. 106–554 (December 21, 2000).
-
-Committee Notes on Rules—2003 Amendment
-
-The form is amended to require the debtor to disclose only the last four digits of the debtor's social security number to afford greater privacy to the individual debtor, whose bankruptcy case records may be available on the Internet.
-Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
-
 Form 2
 
 (Added Aug. 1, 1991.)
@@ -6635,11 +6706,11 @@ This form is derived from former Official Form No. 4.
 Rule 1008 requires that all petitions, lists, schedules, statements, and amendments thereto be verified or contain an unsworn declaration conforming with 28 U.S.C. §1746. This form or adaptations of the form have been incorporated into the official forms of the petitions, schedules, and statement of financial affairs.
 See Official Forms 1, 5, 6, and 7. The form has been amended for use in connection with other papers required by these rules to be verified or contain an unsworn declaration.
 
-Form 3
+Form 3A
 
-Form 3
+Form 3A
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6647,25 +6718,26 @@ This form is derived from former Official Form No. 2.
 
 A statement that the applicant is unable to pay the filing fee except in installments has been added as required by Rule 1006(b).
 
-Notes of Advisory Committee on Rules—1995 Amendment
+Form 3B
 
-This form is a “document for filing” that may be prepared by a “bankruptcy petition preparer” as defined in 11 U.S.C. §110, which was added to the Code by the Bankruptcy Reform Act of 1994; accordingly, a signature line is provided for such preparer.
-In addition to signing, a bankruptcy petition preparer is required by section 110 to disclose the information requested.
-A signature line for a debtor's attorney also is added, as required by Rule 9011.
+Form 3B
 
-Notes of Advisory Committee on Rules—1997 Amendment
+Form 3B
 
-The form has been reorganized and the paragraphs numbered.
-The debtor's certification concerning payment for services in the case has been placed ahead of the statement of proposed terms for installment payment of court fees.
-Acknowledgement by the debtor of the potential consequences of failure to pay any installment when due has been added. (See 11 U.S.C. §707(a)(2).) The language of the form also has been changed to conform to Rule 1006 and to clarify that a debtor is not disqualified from paying the filing fee in installments because the debtor has paid money to a bankruptcy petition preparer.
+Form 3B
 
-Committee Notes on Rules—2003 Amendment
+Form 3B
 
-Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document pursuant to §110(c) of the Code.
+(Added Oct. 17, 2005.)
+
+Committee Notes on Rules—2005
+
+This form is new. 28 U.S.C. §1930(f), enacted as part of the Bankruptcy Abuse [Prevention] and Consumer Protection Act of 2005, Pub. L. No. 109–8, 119 Stat. 23 (April 20, 2005), provides that “under procedures prescribed by the Judicial Conference of the United States, the district court or the bankruptcy court may waive the filing fee in a case under chapter 7 of title 11 for an individual if the court determines that such individual has income less than 150 percent of the income official poverty line . . . applicable to a family of the size involved and is unable to pay that fee in installments.” To implement this provision, Interim Rule 1006 adds a new subdivision (c). Official Form 3B is the form referenced in that subdivision, and is to be used by individual chapter 7 debtors when applying for a waiver of the filing fee.
+A corresponding standard order also is included.
 
 Form 4
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993.)
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6675,16 +6747,11 @@ In conformity with Rule 1007(d) and in recognition of the notice function served
 
 Rule 1008 requires all lists to be verified or contain an unsworn declaration conforming with 28 U.S.C. §1746.
 
-Notes of Advisory Committee on Rules—1993 Amendment
-
-The form has been amended to delete reference to the specific subsection of 11 U.S.C. §101 in connection with the definition of the term “insider.” Section 101 of the Bankruptcy Code contains numerous definitions, and statutory amendments from time to time have resulted in the renumbering of many of its subsections.
-The more general reference will avoid the necessity to amend the form further in the event of future amendments to §101.
-
 Form 5
 
 Form 5
 
-(Added Aug. 1, 1991; amended Sept. 22, 1992; Dec. 1, 2002; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Sept. 22, 1992; Dec. 1, 2002; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6712,18 +6779,7 @@ Venue also may be based on a pending case commenced by an affiliate, general par
 28 U.S.C. §1746 permits the unsworn declaration instead of a verification.
 See Committee Note to Form 2.
 
-Notes of Advisory Committee on Rules—1992 Amendment
-
-The form has been amended to require the dating of signatures.
-
-Committee Notes on Rules—2002 Amendment
-
-The form is amended to give notice that no filing fee is required if a child support creditor or its representative is a petitioner, and if the petitioner also files a form detailing the child support debt, its status, and other characteristics, as specified in §304(g) of the Bankruptcy Reform Act of 1994, Pub. L. No. 103–394, 108 Stat. 4106 (Oct. 22, 1994).
-
-Committee Notes on Rules—2003 Amendment
-
-The form is amended to require the petitioner to disclose the debtor's employer identification number, if any, and only the last four digits of the debtor's social security number to afford greater privacy to the individual debtor, whose bankruptcy case records may be available on the Internet.
-The form also is amended to delete the request for information concerning the “Type of Business,” as this data no longer is collected for statistical purposes.
+Form 6
 
 Form 6
 
@@ -6763,7 +6819,7 @@ Form 6
 
 Form 6
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6846,32 +6902,6 @@ In chapter 12 and chapter 13 cases, the completed schedule also indicates those 
 Schedule I—Schedule of Current Income of Individual Debtor(s) and Schedule J—Schedule of Current Expenditures of Individual Debtor(s). Former Official Form No. 6A has been divided into a schedule of current income and a separate schedule of current expenditures.
 The language is substantially the same as in former Official Form No. 6A. In light of the abrogation of Official Form No. 10, the Chapter 13 Statement, style changes have been made so that these schedules can be used by individual and joint debtors in all chapters.
 
-Notes of Advisory Committee on Rules—1993 Amendment
-
-Schedule E (Creditors Holding Unsecured Priority Claims) has been changed to conform to the statutory amendment that added subsection (a)(8) to §507 of the Code.
-Pub. L. No. 101–647, (Crime Control Act of 1990), added the new subsection, which had the effect of creating an eighth priority for claims of certain governmental units based on commitments to maintain the capital of an insured depository institution.
-
-Notes of Advisory Committee on Rules—1995 Amendment
-
-Schedule E—Creditors Holding Unsecured Priority Claims is amended to add the new seventh priority afforded to debts for alimony, maintenance, or support of a spouse, former spouse, or child of the debtor by the Bankruptcy Reform Act of 1994. Statutory references are amended to conform to the paragraph numbers of section 507(a) of the Code as renumbered by the 1994 Act.
-Schedule E also is amended to add commissions owed to certain independent sales representatives and to raise the maximum dollar amounts for certain priorities in accordance with amendments made by the 1994 Act to section 507(a) of the Code.
-The 1994 Act also amended section 104 of the Code to provide for future adjustment of the maximum dollar amounts specified in section 507(a) to be made by administrative action at three-year intervals to reflect changes in the consumer price index.
-Schedule E is amended to give notice that these dollar amounts are subject to change without formal amendment to the official form.
-
-The Schedules are a “document for filing” that may be prepared by a “bankruptcy petition preparer” as defined in 11 U.S.C. §110, which was added to the Code by the 1994 Act; accordingly, a signature line for such preparer is added.
-In addition to signing, a bankruptcy petition preparer is required by section 110 to disclose the information requested.
-
-Notes of Advisory Committee on Rules—1997 Amendment
-
-The form is amended to add to the column labels a reference to community liability for claims.
-The amendment is technical and corrects an editorial oversight.
-
-Committee Notes on Rules—2003 Amendment
-
-The instructions to Schedule D (Creditors Holding Secured Claims), Schedule E (Creditors Holding Unsecured Priority Claims), and Schedule F (Creditors Holding Unsecured Nonpriority Claims) are amended to inform the debtor that the debtor must list the last four digits of any account number with the listed creditor, and that the debtor may, in its discretion, include the entire account number in the schedules.
-Schedule I (Current Income of Individual Debtor(s)) is amended to provide greater privacy to minors and other dependents of the debtor by deleting the requirement that the debtor disclose their names.
-Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
-
 Form 7
 
 Form 7
@@ -6894,7 +6924,7 @@ Form 7
 
 Form 7
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Sept. 19, 2000; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Sept. 19, 2000; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6909,33 +6939,11 @@ If the answer is “none,” or the question is not applicable, the debtor is re
 
 See Committee Note to Form 2 for a discussion of the unsworn declaration at the end of this form.
 
-Notes of Advisory Committee on Rules—1993 Amendment
-
-The form has been amended in two ways.
-In the second paragraph of the instructions, the third sentence has been deleted to clarify that only a debtor that is or has been in business as defined in the form should answer Questions 16–21. In addition, administrative proceedings have been added to the types of legal actions to be disclosed in Question 4.a.
-
-Notes of Advisory Committee on Rules—1995 Amendment
-
-This form is a “document for filing” that may be prepared by a “bankruptcy petition preparer” as defined in 11 U.S.C. §110, which was added to the Code by the Bankruptcy Reform Act of 1994; accordingly, a signature line for such preparer is added.
-In addition to signing, a bankruptcy petition preparer is required by section 110 to disclose the information requested.
-
-Notes of Advisory Committee on Rules—2000 Amendment
-
-The form has been amended to provide more information to taxing authorities, pension fund supervisors, and governmental units charged with environmental protection and regulation.
-Four new questions have been added to the form, covering community property owned by a debtor and the debtor's non-filing spouse or former spouse (Question 16), environmental information (Question 17), any consolidated tax group of a corporate debtor (Question 24), and the debtor's contributions to any employee pension fund (Question 25). In addition, every debtor will be required to state on the form whether the debtor has been in business within six years before filing the petition and, if so, must answer the remaining questions on the form (Questions 19–25). This is an enlargement of the two-year period previously specified.
-One reason for the longer “reach back” period is that business debtors often owe taxes that have been owed for more than two years.
-Another is that some of the questions already addressed to business debtors request information for the six-year period before the commencement of the case.
-Application of a six-year period to this section of the form will assure disclosure of all relevant information.
-
-Committee Notes on Rules—2003 Amendment
-
-Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
-
 Form 8
 
  
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -6943,21 +6951,6 @@ This form is derived from former Official Form No. 8A. Rule 1007(b)(2) requires 
 In a joint case, if the property and debts of both debtors are the same, the form may be adapted for joint use.
 If joint debtors have separate debts, however, each debtor must use a separate form.
 
-Notes of Advisory Committee on Rules—1995 Amendment
-
-This form is a “document for filing” that may be prepared by a “bankruptcy petition preparer” as defined in 11 U.S.C. §110, which was added to the Code by the Bankruptcy Reform Act of 1994; accordingly, a signature line for such preparer is added.
-In addition to signing, a bankruptcy petition preparer is required by section 110 to disclose the information requested.
-
-Notes of Advisory Committee on Rules—1997 Amendment
-
-The form is amended to conform more closely to the language of the Bankruptcy Code.
-The amendments also make clear that the form is not intended to take a position regarding whether the options stated on the form are the only choices available to the debtor.
-Compare Lowry Federal Credit Union v. West, 882 F.2d 1543 (10th Cir. 1989), with In re Taylor, 3 F.3d 1512 (11th Cir. 1993).
-
-Committee Notes on Rules—2003 Amendment
-
-Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
-
 Form 9
 
 Form 9
@@ -7004,7 +6997,7 @@ Form 9
 
 Form 9
 
-(Added Aug. 1, 1991; amended Sept. 22, 1992; Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Sept. 22, 1992; Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -7012,50 +7005,13 @@ The form has been redesigned to facilitate electronic generation of notice to cr
 Adoption of a box format, with significant dates highlighted, is intended to assist creditors who may be unfamiliar with bankruptcy cases to understand the data provided.
 Nine variations of the form, designated 9A through 9I, have been created to meet the specialized notice requirements for chapters 7, 11, 12, and 13, asset and no-asset cases, and the various types of debtors.
 
-Notes of Advisory Committee on Rules—1992 Amendment
-
-Forms 9B, 9D, 9F, and 9H are amended to make a technical correction in the reference to Rule 9001(5). Form 9H also contains a technical correction deleting the reference to a complaint object to discharge of the debtor.
-
-Notes of Advisory Committee on Rules—1993 Amendment
-
-The title page of the form has been amended to conform to the headings used on Forms 9A–9I. Alternate versions of Form 9E and Form 9F have been added for the convenience of districts that routinely set a deadline for filing claims in a chapter 11 case.
-When a creditor receives the alternate form in a case, the box labeled “Filing Claims” will contain information about the bar date as follows: “Deadline for filing a claim: (date).” If no deadline is set in a particular case, either the court will use Form 9E or Form 9F, as appropriate, or the alternate form will be used with the following sentence appearing in the box labeled “Filing Claims”: “When the court sets a deadline for filing claims, creditors will be notified.”
-
-Notes of Advisory Committee on Rules—1995 Amendment
-
-The form is amended to provide notice of the claims filing period provided to “a governmental unit” by section 502(b)(9) of the Code as amended by the Bankruptcy Reform Act of 1994. A court that routinely sets a deadline for filing proofs of claim at the outset of chapter 11 cases and, accordingly, uses Form 9E(Alt.) or Form 9F(Alt.) retains the option in any case in which no deadlines actually are set to substitute a message stating that creditors will be notified if the court fixes a deadline.
-
-The form also is amended to add, in the paragraph labeled “Discharge of Debts,” a reference to dischargeability actions under section 523(a)(15) of the Code, which was added by the 1994 Act.
-
-Notes of Advisory Committee on Rules—1997 Amendment
-
-Forms 9A, 9I (and the alternate versions of Forms 9E and 9F) have been amended, redesigned, and rewritten.
-Minor conforming changes have been made to respond to amendments made in the Bankruptcy Reform Act of 1994: the longer claims filing period for governmental units in section 502(b)(9) of the Code (see Forms 9C, 9D, 9E(Alt.), 9F(Alt.), 9G, 9H, and 9I); and a reference to dischargeability actions under section 523(a)(15) (see Forms 9A, 9C, 9E, and 9E(Alt.), 9G, and 9H). All of the forms have been substantially revised to make them easier to read and understand.
-The titles have been simplified.
-Recipients are told why they are receiving the notice.
-Explanations are provided on the back of the form and are set in larger type.
-Plain English is used.
-Deadlines are highlighted on the front of the form.
-Recipients are told that papers must be received by the bankruptcy clerk's office by the applicable deadline.
-The box for the trustee has been deleted from the chapter 11 notices (Forms 9E and 9F and the alternates). Various alternatives are set out in brackets in many of the forms, permitting each bankruptcy clerk's office to tailor the forms even more precisely to fit the needs of a particular case.
-The court may use blank spaces on the form to include additional information applicable to the particular district.
-
-Committee Notes on Rules—2003 Amendment
-
-The form is amended to add to the information provided to creditors, the trustee and the United States trustee, all the names used by the debtor during the six years prior to the filing of the petition.
-The form includes the debtor's full employer identification number, if any, as well as the last four digits of the debtor's social security number.
-Rule 2002(a)(1) also is amended to direct the clerk to include the debtor's full social security number and employer identification number on the notices served on the United States trustee, the trustee, and creditors.
-This will enable creditors to identify the debtor accurately.
-The copy of Official Form 9 included in the case file, however, will show only the last four digits of the debtor's social security number.
-This should afford greater privacy to the individual debtor, whose bankruptcy case records may be available on the Internet.
-
 Form 10
 
 Form 10
 
  
 
-(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Mar. 16, 1993; Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -7069,30 +7025,6 @@ If the claim includes prepetition interest or other charges such as attorney fee
 Rule 2002(g) requires the clerk to update the mailing list in the case by substituting the address provided by a creditor on a proof of claim, if that address is different from the one supplied by the debtor.
 The form contains checkboxes to assist the clerk in performing this duty.
 The form also alerts the trustee when the claim is an amendment to or replacement for an earlier claim.
-
-Notes of Advisory Committee on Rules—1993 Amendment
-
-The form has been amended to accommodate inclusion of the priority afforded in §507(a)(8) of the Code, which was added by Pub. L. No. 101–647, (Crime Control Act of 1990), and to avoid the necessity of further amendment to the form if other priorities are added to §507(a) in the future.
-In addition, sections 4 and 5 of the form have been amended to clarify that only prepetition arrearages and charges are to be included in the amount of the claim.
-
-Notes of Advisory Committee on Rules—1995 Amendment
-
-The form is amended to add the seventh priority granted by the Bankruptcy Reform Act of 1994 to debts for alimony, maintenance, or support of a spouse, former spouse, or child of the debtor.
-The form also amends the Code reference to the priority afforded to tax debts and the dollar maximums for the priorities granted to wages and customer deposits in conformity with amendments made by the 1994 Act to section 507(a) of the Code.
-The 1994 Act also amended section 104 of the Code to provide for future adjustment of the dollar amounts specified in section 507(a) to be made by administrative action at three-year intervals to reflect changes in the consumer price index.
-The form is amended to include notice that these dollar amounts are subject to change without formal amendment to the official form.
-
-Notes of Advisory Committee on Rules—1997 Amendment
-
-Numbered sections 4. and 5. of the form have been reformatted to eliminate redundant information and make it easier to complete the form correctly.
-A creditor will report the total amount of the claim first, and will report only that amount unless the claim is secured by collateral or entitled to a priority under §507 of the Code.
-
-Explanatory definitions and instructions for completing the form also have been added.
-
-Committee Notes on Rules—2003 Amendment
-
-The form is amended to require a wage, salary, or other compensation creditor to disclose only the last four digits of the creditor's social security number to afford greater privacy to the creditor.
-A trustee can request the full information necessary for tax withholding and reporting at the time the trustee makes a distribution to creditors.
 
 Form 11A
 
@@ -7147,22 +7079,6 @@ Notes of Advisory Committee on Rules—1991
 This form is derived from former Official Form No. 30. The form has been amended to facilitate the voting of a debtor's shares held in “street name.” The form may be adapted to designate the class in which each ballot is to be tabulated.
 It is intended that a separate ballot will be provided for each class in which a holder may vote.
 
-Notes of Advisory Committee on Rules—1997 Amendment
-
-The form has been substantially amended to simplify its format and make it easier to complete correctly.
-
-Directions or blanks for proponent to complete the text of the ballot are in italics and enclosed within brackets.
-A ballot should include only the applicable language from the alternatives shown on this form and should be adapted to the particular requirements of the case.
-
-If the plan provides for creditors in a class to have the right to reduce their claims so as to qualify for treatment given to creditors whose claims do not exceed a specified amount, the ballot should make provisions for the exercise of that right.
-See section 1122(b) of the Code.
-
-If debt or equity securities are held in the name of a broker/dealer or nominee, the ballot should require the furnishing of sufficient information to assure that duplicate ballots are not submitted and counted and that ballots submitted by a broker/dealer or nominee reflect the votes of the beneficial holders of such securities.
-See Rule 3017(e).
-
-In the event that more than one plan of reorganization is to be voted upon, the form of ballot will need to be adapted to permit holders of claims or equity interests (a) to accept or reject each plan being proposed, and (b) to indicate preferences among the competing plans.
-See section 1129(c) of the Code.
-
 Form 15
 
 (Added Aug. 1, 1991; amended Dec. 1, 2001.)
@@ -7171,13 +7087,9 @@ Notes of Advisory Committee on Rules—1991
 
 This form is derived from former Official Form No. 31. The form has been simplified to avoid the necessity of repeating the statutory requirements of 11 U.S.C. §1129(a). In the case of an individual chapter 11 debtor, Form 18 may be adapted for use together with this form.
 
-Committee Notes on Rules—2001 Amendment
-
-The form is amended to conform to the December 1, 2001, amendments to Rule 3020.
-
 Form 16A
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995; Dec. 1, 2003.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
@@ -7186,15 +7098,6 @@ Rule 9004(b) requires a caption to set forth the title of the case.
 Rule 1005 provides that the title of the case shall include the debtor's name, all other names used by the debtor within six years before the commencement of the case, and the debtor's social security and tax identification numbers.
 This form of caption is prescribed for use on the petition, the notice of the meeting of creditors, the order of discharge, and the documents relating to a chapter 11 plan, (Official Forms 1, 9, 12, 13, 14, 15, and 18). See Rule 2002(m). In the petition (Official Form 1), and the notice of the meeting of creditors, (Official Form 9), the information required by Rule 1005 appears in a block format.
 A notation of the chapter of the Bankruptcy Code under which the case is proceeding has been added to the form.
-
-Notes of Advisory Committee on Rules—1995 Amendment
-
-The form is amended to provide for the debtor's address to appear in the caption in furtherance of the duty of the debtor to include this information on every notice given by the debtor.
-The Bankruptcy Reform Act of 1994 amended section 342 of the Code to add this requirement.
-
-Committee Notes on Rules—2003 Amendment
-
-The form is amended to require disclosure of only the last four digits of the debtor's social security number to afford greater privacy to the individual debtor, whose bankruptcy case records may be available over the Internet.
 
 Form 16B
 
@@ -7208,10 +7111,6 @@ This information is necessary in the petition, the notice of the meeting of cred
 See Rule 2002(m) and Official Form 16A. In other notices, motions, applications, and papers filed in a case, however, a short title containing simply the names of the debtor or joint debtors may be used.
 Additional names, such as any under which the debtor has engaged in business, may be included in the short title as needed.
 
-Notes of Advisory Committee on Rules—1995 Amendment
-
-The title of this form is amended to specify that it can be used when section 342(c) of the Code, as added by the Bankruptcy Reform Act of 1994, is not applicable.
-
 Form 16C
 
 (Added Aug. 1, 1991; amended Mar. 14, 1995; Dec. 1, 2003.)
@@ -7221,17 +7120,6 @@ Notes of Advisory Committee on Rules—1991
 This form previously was numbered Official Form No. 34. A notation of the chapter of the Bankruptcy Code under which the case is proceeding has been added to the form.
 Rule 7010 refers to this form as providing the caption of a pleading in an adversary proceeding.
 
-Notes of Advisory Committee on Rules—1995 Amendment
-
-The form is amended to conform to the amendments made to section 342 of the Code by the Bankruptcy Reform Act of 1994.
-
-Committee Notes on Rules—2003 Amendment
-
-The form is abrogated.
-An amendment to Official Form 16A directs that only the last four digits of the debtor's social security number should appear in a caption.
-Section 342(c) of the Bankruptcy Code continues to require the debtor to provide a creditor with the debtor's name, address, and taxpayer identification number on any notice the debtor is required to give to the creditor.
-An individual debtor can fulfill this requirement by including the debtor's social security account number on only the creditor's copy of any notice or summons the debtor may serve on the creditor.
-
 Form 16D
 
 (Added Mar. 14, 1995; amended Dec. 1, 2004.)
@@ -7240,38 +7128,9 @@ Notes of Advisory Committee on Rules—1995
 
 This form of caption may be used in an adversary proceeding when section 342(c) of the Code, as added by the Bankruptcy Reform Act of 1994, is not applicable.
 
-Committee Notes on Rules—2004 Amendment
-
-This form is amended to reflect the 2003 abrogation of Form 16C. As a complaint initiating an adversary proceeding serves as a notice to the defendant of the filing of an action, a debtor filing an adversary proceeding must follow the notice requirements of §342(c) of the Code.
-To protect individual privacy a debtor should use the defendant's copy of the summons to be served with the complaint to provide the information required by §342(c) to any creditor named as a defendant.
-
 Form 17
 
 (Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2002; Dec. 1, 2004.)
-
-Notes of Advisory Committee on Rules—1991 Amendment
-
-This form is derived from former Official Form No. 35. The form has been amended to indicate that a final order may be entered other than in an adversary proceeding.
-
-Notes of Advisory Committee on Rules—1995 Amendment
-
-The form is amended to reflect the amendments to 28 U.S.C. §158 concerning bankruptcy appellate panels made by the Bankruptcy Reform Act of 1994. Section 158(d) requires an appellant who elects to appeal to a district court rather than a bankruptcy appellate panel to do so “at the time of filing the appeal.”
-
-The 1994 Act also amended 28 U.S.C. §158(a) to permit immediate appeal of interlocutory orders increasing or reducing a chapter 11 debtor's exclusive period to file a plan under section 1121 of the Code.
-The form is amended to provide appropriate flexibility.
-
-Notes of Advisory Committee on Rules—1997 Amendment
-
-The form has been amended to conform to Rule 8001(a), which requires the notice to contain the names of all parties to the judgment, order, or decree appealed from and the names, addresses, and telephone numbers of their respective attorneys.
-A party filing a notice of appeal pro se should provide equivalent information.
-
-Committee Notes on Rules—2002 Amendment
-
-The form is amended to give notice that no filing fee is required if a child support creditor or its representative is the appellant, and if the child support creditor or its representative files a form detailing the child support debt, its status, and other characteristics, as specified in §304(g) of the Bankruptcy Reform Act of 1994, Pub. L. No. 103–396[394], 108 Stat. 4106 (Oct. 22, 1994).
-
-Committee Notes on Rules—2004 Amendment
-
-The form is amended to reflect the 2003 abrogation of Form 16C.
 
 Form 18
 
@@ -7279,26 +7138,15 @@ Form 18
 
  
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1991
 
 This form previously was numbered Official Form No. 27. The form has been revised to accommodate cases commenced by the filing of either a voluntary or an involuntary petition.
 
-Notes of Advisory Committee on Rules—1995 Amendment
+Form 19A
 
-The form is amended to include debts described in section 523(a)(15) of the Code, which was added by the Bankruptcy Reform Act of 1994, in the list of debts discharged unless determined by the court to be nondischargeable.
-
-Notes of Advisory Committee on Rules—1997 Amendment
-
-The discharge order has been simplified by deleting paragraphs which had detailed some, but not all, of the effects of the discharge.
-These paragraphs have been replaced with a plain English explanation of the discharge.
-This explanation is to be printed on the reverse of the order, to increase understanding of the bankruptcy discharge among creditors and debtors.
-The bracketed sentence in the second paragraph should be included when the case involves community property.
-
-Form 19
-
-(Added Mar. 14, 1995; amended Dec. 1, 2003.)
+(Added Mar. 14, 1995; amended Dec. 1, 2003; Oct. 17, 2005.)
 
 Notes of Advisory Committee on Rules—1995
 
@@ -7307,9 +7155,17 @@ The Bankruptcy Reform Act of 1994 requires a “bankruptcy petition preparer,”
 This form or adaptations of this form have been incorporated into the official forms of the voluntary petition, the schedules, the statement of financial affairs, and other official forms that typically would be prepared for a debtor by a bankruptcy petition preparer.
 This form is to be used in connection with any other document that a bankruptcy petition preparer prepares for filing by a debtor in a bankruptcy case.
 
-Committee Notes on Rules—2003 Amendment
+Form 19B
 
-Pursuant to §110(c) of the Bankruptcy Code, the certification by a non-attorney bankruptcy petition preparer requires a petition preparer to provide the full social security number of the individual who actually prepares the document.
+Form 19B
+
+(Added Oct. 17, 2005.)
+
+Committee Notes on Rules—2005
+
+This form is new.
+It contains the notice a non-attorney bankruptcy petition preparer is required to give to a debtor under §110 of the Code as amended by the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, Pub. L. No. 109–8, 119 Stat. 23 (April 20, 2005). The notice states, in language mandated in the 2005 Act, that the bankruptcy petition preparer is not an attorney and must not give legal advice.
+The form includes examples of advice a bankruptcy petition preparer may not give that are take [sic] from §110(e)(2), which also was added to the Code in 2005. The notice must be signed by the debtor and by the bankruptcy petition preparer and filed with any document for filing prepared by the bankruptcy petition preparer.
 
 Form 20A
 
@@ -7359,4 +7215,230 @@ The form implements Rule 1007(f), which requires a debtor to submit a statement 
 The form is necessary because Rule 1005 provides that the caption of the petition includes only the final four digits of the debtor's Social Security number.
 The statement provides the information necessary for the clerk to include the debtor's full Social Security number on the notice of the meeting of creditors, as required under Rule 2002(a)(1). Creditors in a case, along with the trustee and United States trustee or bankruptcy administrator, will receive the full Social Security number on their copy of the notice of the meeting of creditors.
 The copy of that notice which goes into the court file will show only the last four digits of the number.
+
+Form 22A
+
+Form 22A
+
+Form 22A
+
+Form 22A
+
+Form 22A
+
+Form 22A
+
+(Added Oct. 17, 2005.)
+
+Committee Notes on Rules—2005
+
+A. Overview
+
+Among the changes introduced by the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 are interlocking provisions defining “current monthly income” and establishing a means test to determine whether relief under Chapter 7 should be presumed abusive.
+Current monthly income (“CMI”) is defined in §101(10A) of the Code, and the means test is set out in §707(b)(2). These provisions have a variety of applications.
+In Chapter 7, if the debtor's CMI exceeds a defined level the debtor is subject to the means test, and §707(b)(2)(C) specifically requires debtors to file a statement of CMI and calculations to determine the applicability of the means test presumption.
+In Chapters 11 and 13, CMI provides the starting point for determining the disposable income that must be contributed to payment of unsecured creditors.
+Moreover, Chapter 13 debtors with CMI above defined levels are required by §1325(b)(3) to complete the means test in order to determine the amount of their monthly disposable income, and pursuant to §1325(b)(4), the level of CMI determines the “applicable commitment period” over which projected disposable income must be paid to unsecured creditors.
+
+To provide for the reporting and calculation of CMI and for the completion of the means test where required, three separate official forms have been created—one for Chapter 7, one for Chapter 11, and one for Chapter 13. This note first describes the calculation of CMI that is common to all three of the forms, next describes the means test as set out in the Chapter 7 and 13 forms, and finally addresses particular issues that are unique to each of the separate forms.
+
+B. Calculation of CMI
+
+Although Chapters 7, 11, and 13 use CMI for different purposes, the basic computation is the same in each.
+As defined in §101(10A), CMI is the monthly average of certain income that the debtor (and in a joint case, the debtor's spouse) received in the six calendar months before the bankruptcy filing.
+The definition includes in this average (1) income from all sources, whether or not taxable, and (2) any amount paid by an entity other than the debtor (or the debtor's spouse in a joint case) on a regular basis for the household expenses of the debtor, the debtor's dependents, and (in a joint case) the debtor's spouse if not otherwise a dependent.
+At the same time, the definition excludes from the averaged income “benefits received under the Social Security Act” and certain payments to victims of terrorism, war crimes, and crimes against humanity.
+
+Each of the forms provides for reporting income items constituting CMI. The items are reported in a set of entry lines—Part II of the Chapter 7 form and Part I of the forms for Chapter 11 and Chapter 13—that include separate columns for reporting income of the debtor and of the debtor's spouse.
+The first of these entry lines includes a set of instructions and check boxes indicating when the “debtor's spouse” column must be completed.
+The instructions also direct the required averaging of reported income.
+
+The subsequent entry lines specify several common types of income and are followed by a “catch-all” line for other income.
+The specific entry lines address (a) gross wages; (b) business income; (c) rental income; (d) interest, dividends, and royalties; (e) pension and retirement income; (f) regular contributions to the debtor's household expenses; and (g) unemployment compensation.
+Gross wages (before taxes) are required to be entered.
+Consistent with usage in the Internal Revenue Manual and the American Community Survey of the Census Bureau, business and rental income is defined as gross receipts less ordinary and necessary expenses.
+Unemployment compensation is given special treatment.
+Because the federal government provides funding for state unemployment compensation under the Social Security Act, there may be a dispute about whether unemployment compensation is a “benefit received under the Social Security Act.” The forms take no position on the merits of this argument, but give debtors the option of reporting unemployment compensation separately from the CMI calculation.
+This separate reporting allows parties in interest to determine the materiality of an exclusion of unemployment compensation and to challenge it.
+The forms provide for totaling the income lines.
+
+C. The means test: deductions from current monthly income (CMI)
+
+The means test operates by deducting from CMI defined allowances for living expenses and payment of secured and priority debt, leaving disposable income presumptively available to pay unsecured non-priority debt.
+These deductions from CMI under are set out in the Code at §707(b)(2)(A)(ii)–(iv). The forms for Chapter 7 and Chapter 13 have identical sections (Parts V and III, respectively) for calculating these deductions.
+The calculations are divided into subparts reflecting three different kinds of allowed deductions.
+
+1. Deductions under IRS standards
+
+Subpart A deals with deductions from CMI, set out in §707(b)(2)(A)(ii), for “the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides.” The forms provide entry lines for each of the specified expense deductions under the IRS standards, and instructions on the entry lines identify the website of the U.S. Trustee Program, where the relevant IRS allowances can be found.
+As with all of the deductions in §707(b)(2)(A)(ii), deductions under the IRS standards are subject to the proviso that they not include “any payments for debts.”
+
+The IRS National Standards provide a single allowance for food, clothing, household supplies, personal care, and miscellany, depending on income and household size.
+The forms contain an entry line for the applicable allowance.
+
+The IRS Local Standards provide one set of deductions for housing and utilities and another set for transportation expenses, with different amounts for different areas of the country, depending on the size of the debtor's family and the number of the debtor's vehicles.
+Each of the amounts specified in the Local Standards are treated by the IRS as a cap on actual expenses, but because §707(b)(2)(A)(ii) provides for deductions in the “amounts specified under the . . . Local Standards,” the forms treat these amounts as allowed deductions.
+The forms again direct debtors to the website of the U.S. Trustee Program to obtain the appropriate allowances.
+
+The Local Standards for housing and utilities, as published by the IRS for its internal purposes, present single amounts covering all housing expenses; however, for bankruptcy purposes, the IRS has separated these amounts into a non-mortgage component and a mortgage/rent component.
+The non-mortgage component covers a variety of expenses involved in maintaining a residence, such as utilities, repairs and maintenance.
+The mortgage/rent component covers the cost of acquiring the residence.
+For homeowners with mortgages, the mortgage/rent component involves debt payment, since the cost of a mortgage is part of the allowance.
+Accordingly, the forms require debtors to deduct from the mortgage/rent component their average monthly mortgage payment (including required payments for taxes and insurance), up to the full amount of the IRS mortgage/rent component, and instruct debtors that this average monthly payment is the one reported on the separate line of the forms for deductions of secured debt under §707(b)(2)(a)(iii). The forms allow debtors to challenge the appropriateness of this method of computing the Local Standards allowance for housing and utilities and to claim any additional housing allowance to which they contend they are entitled, but the forms require specification of the basis for such a contention.
+
+The IRS issues Local Standards for transportation in two components for its internal purposes as well as for bankruptcy: one component covers vehicle operation/public transportation expense and the other ownership/lease expense.
+The amount of the vehicle operation/public transportation allowance depends on the number of vehicles the debtor operates, with debtors who do not operate vehicles being given a public transportation allowance.
+The instruction for this line item makes it clear that every debtor is thus entitled to some transportation expense allowance.
+No debt payment is involved in this allowance.
+The ownership/lease component, on the other hand, may involve debt payment.
+Accordingly, the forms require debtors to reduce the allowance for ownership/lease expense by the average monthly loan payment amount (principal and interest), up to the full amount of the IRS ownership/lease expense amount.
+This average payment is as reported on the separate line of the forms for deductions of secured debt under §707(b)(2)(a)(iii).
+
+The IRS does not set out specific dollar allowances for “Other Necessary Expenses.” Rather, it specifies a number of categories for such expenses, and describes the nature of the expenses that may be deducted in each of these categories.
+Section 707(b)(2)(a)(ii) allows a deduction for the debtor's actual expenses in these specified categories, subject to its requirement that payment of debt not be included.
+Several of the IRS categories deal with debt repayment and so are not included in the forms.
+Several other categories deal with expense items that are more expansively addressed by specific statutory allowances.
+Subpart A sets out the remaining categories of “Other Necessary Expenses” in individual entry lines.
+Instructions in these entry lines reflect limitations imposed by the IRS and the need to avoid inclusion of items deducted elsewhere on the forms.
+
+Subpart A concludes with a subtotal of the deductions allowed under the IRS standards.
+
+2. Additional statutory expense deductions
+
+In addition to the expense deductions allowed under the IRS standards, the means test makes provision—in subclauses (I), (II), (IV), and (V) of §707(b)(2)(A)(ii)—for six special expense deductions.
+Each of these additional expense items is set out on a separate entry line in Subpart B, introduced by an instruction that there should not be double counting of any expense already included in the IRS deductions.
+Contributions to tax-exempt charities provide another statutory expense deduction.
+Section 1325(b)(2)(A)(ii) expressly allows a deduction from CMI for such contributions (up to 15% of the debtor's gross income), and §707(b)(1) provides that in considering whether a Chapter 7 filing is an abuse, the court may not take into consideration “whether a debtor . . . continues to make [tax-exempt] charitable contributions.” Accordingly, Subpart B also includes an entry line for charitable contributions.
+The subpart concludes with a subtotal of the additional statutory expense deductions.
+
+3. Deductions for payment of debt
+
+Subpart C of the forms deals with the means test's deductions from CMI for payment of secured and priority debt, as well as a deduction for administrative fees that would be incurred if the debtor paid debts through a Chapter 13 plan.
+In accord with §707(b)(2)(A)(iii), the deduction for secured debt is divided into two entry lines—one for payments that are contractually due during the 60 months following the bankruptcy filing, the other for amounts needed to retain necessary collateral securing debts in default.
+In each situation, the instructions for the entry lines require dividing the total payment amount by 60, as the statute directs.
+Priority debt, deductible pursuant to §707(b)(2)(A)(iv), is treated on a single entry line, also requiring division by 60. The defined deduction for the expenses of administering a Chapter 13 plan is allowed by §707(b)(2)(A)(ii)(III) only for debtors eligible for Chapter 13. The forms treat this deduction in an entry line requiring the eligible debtor to state the amount of the prospective Chapter 13 plan payment and multiply that payment amount by the percentage fee established for the debtor's district by the Executive Office for United States Trustees.
+The forms refer debtors to the website of the U.S. Trustee Program to obtain this percentage fee.
+The subpart concludes with a subtotal of debt payment deductions.
+
+4. Total deductions
+
+Finally, the forms direct that the subtotals from Subparts A, B, and C be added together to arrive at the total of allowed deductions from CMI under the means test.
+
+5. Additional claimed deductions
+
+The forms do not provide for means test deductions from CMI for expenses in categories that are not specifically identified as “Other Necessary Expenses” in the Internal Revenue Manual.
+However, debtors may wish to claim expenses that do not fall within the categories listed as “Other Necessary Expenses” in the forms.
+Part VII of the Chapter 7 form and Part VI of the Chapter 13 form provide for such expenses to be identified and totaled.
+Although expenses listed in these sections are not deducted from CMI for purposes of the means test calculation, the listing provides a basis for debtors to assert that these expenses should be deducted from CMI under §707(b)(2)(A)(ii)(I), and that the results of the forms’ calculation, therefore, should be modified.
+
+D. The chapter-specific forms
+
+1. Chapter 7
+
+The Chapter 7 form has several unique aspects.
+The form includes, in the upper right corner of the first page, a check box directing the debtor to state whether or not the calculations required by the form result in a presumption of abuse.
+The debtor is not bound by this statement and may argue, in response to a motion brought under §707(b)(1), that there should be no presumption despite the calculations required by the form.
+The check box is intended to give clerks of court a conspicuous indication of the cases for which they are required to provide notice of a presumption of abuse pursuant to §342(d).
+
+Part I of the form implements the provision of §707(b)(2)(D) that excludes certain disabled veterans from all means testing, making it unnecessary to compute the CMI of such veterans.
+Debtors who declare under penalty of perjury that they are disabled veterans within the statutory definition are directed to verify their declaration in Part VII, to check the “no presumption” box at the beginning of the form, and to disregard the remaining parts of the form.
+
+Part II of the form is the computation of CMI. Section 707(b)(7) eliminates standing to assert the means test's presumption of abuse if the debtor's annualized CMI does not exceed a defined median state income.
+For this purpose, the statute directs that CMI of the debtor's spouse be combined with the debtor's CMI even if the debtor's spouse is not a joint debtor, unless the debtor declares under penalty of perjury that the spouses are legally separated or living separately other than for purposes of evading the means test.
+Accordingly, the calculation of CMI in Part II directs a computation of the CMI of the debtor's spouse not only in joint cases, but also in cases of married debtors who do not make the specified declaration, and the CMI of both spouses in these cases is combined for purposes of determining standing under §707(b)(7).
+
+Part III of the form provides for the comparison of the debtor's CMI to the applicable state median income for purposes of §707(b)(7). It then directs debtors whose income does not exceed the applicable median to verify the form, to check the “no presumption” box at the beginning of the form, and not to complete the remaining parts of the form.
+Debtors whose CMI does exceed the applicable state median are required to complete the remaining parts of the form.
+
+Part IV of the form provides for an adjustment to the CMI of a married debtor, not filing jointly, whose spouse's CMI was combined with the debtor's for purposes of determining standing to assert the means test presumption.
+The means test itself does not charge a married debtor in a non-joint case with the income of the non-filing spouse, but rather only with contributions made by that spouse to the household expenses of the debtor or the debtor's dependents, as provided in the definition of CMI in §101(10A). Accordingly, Part IV calls for the combined CMI of Part II to be reduced by the amount of the non-filing spouse's income that was not contributed to the household expenses of the debtor or the debtor's dependents.
+
+Part V of the form provides for a calculation of the means test's deductions from the debtor's CMI, as described above.
+
+Part VI provides for a determination of whether the debtor's CMI, less the allowed deductions, gives rise to a presumption of abuse under §707(b)(2)(A). Depending on the outcome of this determination, the debtor is directed to check the appropriate box at the beginning of the form and to sign the verification in Part VIII. Part VII allows the debtor to claim additional deductions, as discussed above.
+
+2. Chapter 11
+
+The Chapter 11 form is the simplest of the three, since the means-test deductions of §707(b)(2) are not employed in determining the extent of an individual Chapter 11 debtor's disposable income.
+Section 1129(a)(15) requires payments of disposable income “as defined in section 1325(b)(2),” and that paragraph allows calculation of disposable income under judicially-determined standards, rather than pursuant to the means test deductions, specified for higher income Chapter 13 debtors by §1325(b)(3). However, §1325(b)(2) does require that CMI be used as the starting point in the judicial determination of disposable income, and so the Chapter 11 form requires this calculation (in Part I of the form), as described above, together with a verification (in Part II).
+
+3. Chapter 13
+
+Like the Chapter 7 form, the form for Chapter 13 debtors contains a number of special provisions.
+The upper right corner of the first page includes check boxes requiring the debtor to state whether, under the calculations required by the statement, the applicable commitment period under §1325(b)(4) is three years or five years and whether the means test deductions are required by §1325(b)(3) to be used in determining the debtor's disposable income.
+The check box is intended to inform standing trustees and other interested parties about these items, but does not prevent the debtor from arguing that the calculations required by the form do not accurately reflect the debtor's disposable income.
+
+Part I of the form is a report of income to be used for determining CMI. Section 1325(b)(4) imposes a five-year applicable commitment period—rather than a three-year period—if the debtor's annualized CMI is not less than a defined median state income.
+For this purpose, as under §707(b)(4), the CMI of the debtor's spouse is required by the statute to be combined with the debtor's CMI, and there is no exception for spouses who are legally separated or living separately.
+Accordingly, the report of income in Part I directs a combined reporting of the income of both spouses in all cases of married debtors.
+
+Part II of the form computes the applicable commitment period by annualizing the income calculated in Part I and comparing it to the applicable state median.
+The form allows debtors to contend that the income of a non-filing spouse should not be treated as CMI and permits debtors to claim a deduction for any income of a non-filing spouse to the extent that this income was not contributed to the household expenses of the debtor or the debtor's dependents.
+The debtor is directed to check the appropriate box at the beginning of the form, stating the applicable commitment period.
+
+Part III of the form compares the debtor's CMI to the applicable state median, allowing a determination of whether the means-test deductions must be used, pursuant to §1325(b)(3), in calculating disposable income.
+For this purpose, since §1325(b)(3) does not provide for including the income of the debtor's spouse, the form directs a deduction of the income of a non-filing spouse that is not contributed to the household expenses of the debtor or the debtor's dependents.
+Again, the debtor is directed to check the appropriate box at the beginning of the form, indicating whether the means test deductions are applicable.
+If so, the debtor is directed to complete the remainder of the form.
+If not, the debtor is directed to complete the verification in Part VII but not complete the other parts of the form.
+
+Part IV provides for calculation of the means-test deductions provided in §707(b)(2), described above, as incorporated by §1325(b)(3) for debtors with CMI above the applicable state median.
+
+Part V provides for three adjustments required by special provisions affecting disposable income in Chapter 13. First, §1325(b)(2) itself excludes from the CMI used in determining disposable income certain “child support payments, foster care payments, [and] disability payments for a dependent child.” Because payments of this kind are included in the definition of CMI in §101(10A), a line entry for deduction of these payments is provided.
+Second, a line entry is provided for deduction of contributions by the debtor to certain retirement plans, listed in §541(b)(7)(B), since that provision states that such contributions “shall not constitute disposable income, as defined in section 1325(b).” Third, the same line entry also allows a deduction from disposable income for payments on loans from retirement accounts that are excepted from the automatic stay by §362(b)(19), since §1322(f) provides that for a “loan described in section 362(b)(19) . . . any amounts required to repay such loan shall not constitute ‘disposable income’ under section 1325.”
+
+The Chapter 13 form does not provide a deduction from disposable income for the Chapter 13 debtor's anticipated attorney fees.
+There is no specific statutory allowance for such a deduction, and none appears necessary.
+Section 1325(b)(1)(B) requires that disposable income contributed to a Chapter 13 plan be used to pay “unsecured creditors.” A debtor's attorney who has not taken a security interest in the debtor's property is an unsecured creditor who may be paid from disposable income.
+
+Part VI of the form allows the debtor to claim additional deductions, as described above, and Part VII is the verification.
+
+Form 22B
+
+Form 22B
+
+(Added Oct. 17, 2005.)
+
+Committee Notes on Rules—2005
+
+For Committee Notes on Rules—2005 for form 22B, see note set out under form 22A.
+
+Form 22C
+
+Form 22C
+
+Form 22C
+
+Form 22C
+
+Form 22C
+
+Form 22C
+
+(Added Oct. 17, 2005.)
+
+Committee Notes on Rules—2005
+
+For Committee Notes on Rules—2005 for form 22C, see note set out under form 22A.
+
+Form 23
+
+(Added Oct. 17, 2005.)
+
+Committee Notes on Rules—2005
+
+The form is new.
+Sections 727(a)(11) and 1328(g)(1), which were added to the Code by the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, Pub. L. No. 109–8, 119 Stat. 23 (April 20, 2005), require the debtor to complete an instructional course concerning personal financial management as a condition for receiving a discharge.
+The completed form, when filed by the debtor, will signal the clerk that this condition has been satisfied.
+
+Form 24
+
+Form 24
+
+(Added Oct. 17, 2005.)
+
+Committee Notes on Rules—2005
+
+This form is new.
+Rule 8001, as amended in 2005, requires that any certification of an appeal, bankruptcy court judgment, order, or decree directly to the United States Court of Appeals by all the appellants and appellees (if any) acting jointly be filed on this form.
 

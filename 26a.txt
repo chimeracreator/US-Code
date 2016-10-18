@@ -6,16 +6,24 @@ United States Code Document
 
 TITLE I.—SCOPE OF RULES; CONSTRUCTION; EFFECTIVE DATE; DEFINITIONS
 
-Rule 1. Scope of Rules and Construction
+Rule 1. Rulemaking Authority; Scope of Rules; Publication of Rules and Amendments; Construction
 
-(a) Scope: These Rules govern the practice and procedure in all cases and proceedings in the United States Tax Court.
+(a) Rulemaking authority: The United States Tax Court, after giving appropriate public notice and an opportunity for comment, may make and amend rules governing its practice and procedure.
+
+(b) Scope of Rules: These Rules govern the practice and procedure in all cases and proceedings before the Court.
 Where in any instance there is no applicable rule of procedure, the Court or the Judge before whom the matter is pending may prescribe the procedure, giving particular weight to the Federal Rules of Civil Procedure to the extent that they are suitably adaptable to govern the matter at hand.
 
-(b) Construction: These Rules shall be construed to secure the just, speedy, and inexpensive determination of every case.
+(c) Publication of Rules and Amendments: When new rules or amendments to these rules are proposed by the Court, notice of such proposals and the ability of the public to comment shall be provided to the bar and to the general public and shall be posted on the Court's Internet Web site.
+If the Court determines that there is an immediate need for a particular rule or amendment to an existing rule, it may proceed without public notice and opportunity for comment, but the Court shall promptly thereafter afford such notice and opportunity for comment.
+
+(d) Construction: The Court's Rules shall be construed to secure the just, speedy, and inexpensive determination of every case.
+
+(As amended eff.
+Sept. 20, 2005.)
 
 References in Text
 
-The Federal Rules of Civil Procedure, referred to in par. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in par. (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Rule 2. Effective Date
 
@@ -147,8 +155,8 @@ As to stipulations, see Rule 91(b).
 
 (c) Legible Papers Required: Papers filed with the Court may be prepared by any process, but only if all papers, including copies, filed with the Court are clear and legible.
 
-(d) Size and Style: Typewritten or printed papers shall be typed or printed only on one side, on opaque, unglazed paper, 81/2 inches wide by 11 inches long.
-All such papers shall have margins on both sides of each page that are no less than 1 inch wide, and margins on the top and bottom of each page that are no less than 3/4 inch wide.
+(d) Size and Style: Typewritten or printed papers shall be typed or printed only on one side, on opaque, unglazed paper, 8½ inches wide by 11 inches long.
+All such papers shall have margins on both sides of each page that are no less than 1 inch wide, and margins on the top and bottom of each page that are no less than ¾ inch wide.
 Text and footnotes shall appear in consistent typeface no smaller than 12 characters per inch produced by a typewriting element or 12-point type produced by a nonproportional print font (e.g., Courier), with double spacing between each line of text and single spacing between each line of indented quotations and footnotes.
 Quotations in excess of five lines shall be set off from the surrounding text and indented.
 Double-spaced lines shall be no more than three lines to the vertical inch, and single-spaced lines shall be no more than six lines to the vertical inch.
@@ -317,7 +325,6 @@ Each assignment of error shall be separately lettered.
 
 (8) A copy of the notice of deficiency or liability, as the case may be, which shall be appended to the petition, and with which there shall be included so much of any statement accompanying the notice as is material to the issues raised by the assignments of error.
 If the notice of deficiency or liability or accompanying statement incorporates by reference any prior notices, or other material furnished by the Internal Revenue Service, such parts thereof as are material to the issues raised by the assignments of error likewise shall be appended to the petition.
-
 A claim for reasonable litigation or administrative costs shall not be included in the petition in a deficiency or liability action.
 For the requirements as to claims for reasonable litigation or administrative costs, see Rule 231.
 
@@ -462,6 +469,10 @@ Rule 55. Motion To Restrain Assessment or Collection or To Order Refund of Amoun
 
 A motion to restrain assessment or collection or to order refund of any amount collected may be filed with the Court only where a timely petition has been filed with the Court.
 See Code secs. 6015(e)(1)(B)(ii), 6213(a), 6225(b), and 6246(b). For the rules applicable to captions, signing, and other matters of form and style of motions, see Rule 50(a).
+
+Effective Date of 2003 Revision
+
+The amendments, insofar as they relate to section 6015(e)(1)(B)(ii) of this title, are effective with respect to proceedings commenced with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of July 22, 1998; insofar as they relate to section 6213(a) of this title, are effective as of July 22, 1998; insofar as they relate to section 6225(b) of this title, are effective with respect to proceedings commenced for partnership tax years ending after Aug. 5, 1997; and insofar as they relate to section 6246(b) of this title, are effective with respect to proceedings commenced for partnership tax years beginning after Dec. 31, 1997.
 
 Rule 56. Motion for Review of Jeopardy Assessment or Jeopardy Levy
 
@@ -1393,6 +1404,10 @@ Code sec. 6902(a).
 
 (e) Accumulated Earnings Tax: Where the notice of deficiency is based in whole or in part on an allegation of accumulation of corporate earnings and profits beyond the reasonable needs of the business, the burden of proof with respect to such allegation is determined in accordance with Code section 534. If the petitioner has submitted to the respondent a statement which is claimed to satisfy the requirements of Code section 534(c), the Court will ordinarily, on timely motion filed after the case has been calendared for trial, rule prior to the trial on whether such statement is sufficient to shift the burden of proof to the respondent to the limited extent set forth in Code section 534(a)(2).
 
+Effective Date of 2003 Revision
+
+The amendments to par. (a) are effective for court proceedings arising in connection with examinations commencing after July 22, 1998; except that in any case in which there is no examination, the amendments apply to court proceedings arising in connection with taxable periods or events beginning or occurring after July 22, 1998.
+
 Rule 143. Evidence
 
 (a) General: Trials before the Court will be conducted in accordance with the rules of evidence applicable in trials without a jury in the United States District Court for the District of Columbia.
@@ -1552,6 +1567,10 @@ The pages of the transcript that contain such findings of fact or opinion (or a 
 (c) Citation: Opinions stated orally in accordance with paragraph (a) of this Rule shall not be cited or relied upon as precedent.
 However, such opinions (including findings of fact) may be referred to for purposes of the application of the doctrine of res judicata, collateral estoppel, or law of the case.
 
+Effective Date of 2003 Revision
+
+The amendment to par. (a) that relates to section 7436(c) of this title is effective with respect to actions for redetermination of employment status commenced on or after Aug. 5, 1997; and the amendment to par. (a) that relates to section 7443A(b)(4) of this title is effective as to lien and levy actions commenced with respect to collection actions initiated after Jan. 18, 1999.
+
 TITLE XV.—DECISION
 
 Rule 155. Computation by Parties for Entry of Decision
@@ -1604,6 +1623,13 @@ Rule 170. General
 The Rules of this Title XVII, referred to herein as the “Small Tax Case Rules”, set forth the special provisions which are to be applied to small tax cases.
 The term “small tax case” means a case in which the amount in dispute is $50,000 or less (within the meaning of the Internal Revenue Code) and the Court has concurred in the petitioner's election.
 See Code secs. 7436(c) and 7463. Except as otherwise provided in these Small Tax Case Rules, the other Rules of practice of the Court are applicable to such cases.
+
+Effective Date of 2003 Revision
+
+Title XVII sets forth the procedures to be applied in small tax cases, which can now include proceedings under section 7436(c) of this title.
+Section 7436(c) of this title was added by section 1454(a) of the Taxpayer Relief Act of 1997, Pub. L. 105–34, 111 Stat. 1055, and provides for the applicability of the small tax case procedures in certain actions for redetermination of employment status, effective on Aug. 5, 1997. Additionally, the maximum amount in dispute in a case eligible for the small tax case procedures was increased from $10,000 to $50,000 by section 3103(a) and (b)(1) of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, 112 Stat. 731 (amending sections 7436, 7443A, and 7463 of this title), effective with respect to proceedings commenced after July 22, 1998.
+
+The amendment to Rule 170 relating to the amount in dispute ($50,000 or less) is effective with respect to proceedings commenced after July 22, 1998; and the amendment relating to section 7436(c) of this title is effective with respect to proceedings commenced on or after Aug. 5, 1997.
 
 Rule 171. Election of Small Tax Case Procedure
 
@@ -1676,17 +1702,36 @@ Except as otherwise directed by the Chief Judge, the following procedure shall b
 
 (d) Decision: The Chief Judge may authorize the Special Trial Judge to make the decision of the Court in any small tax case (as defined in Rule 170); in any case where neither the amount of the deficiency placed in dispute (within the meaning of Code section 7463), nor the amount of any claimed overpayment, exceeds $50,000; in any declaratory judgment action; and in any lien or levy action, subject to such conditions and review as the Chief Judge may provide.
 
+(e) Procedure in Event of Assignment to a Judge: In the event the Chief Judge decides to assign a case (other than a small tax case) to a Judge to prepare a report in accordance with Code section 7460 and to make the decision of the Court, the proposed findings of fact and opinion previously submitted to the Chief Judge shall be filed as the Special Trial Judge's recommended findings of fact and conclusions of law.
+Thereafter, the procedures of Rule 183(b), (c), and (d) shall apply.
+
+(As amended eff.
+Sept. 20, 2005.)
+
+Effective Date of 2003 Revision
+
+The amendments relating to the amount of the deficiency placed in dispute ($50,000 or less) are effective with respect to proceedings commenced after July 22, 1998; and the amendments relating to lien or levy actions are effective as to lien or levy actions commenced with respect to collection actions initiated after Jan. 18, 1999.
+
 Rule 183. Other Cases
 
 Except in cases subject to the provisions of Rule 182 or as otherwise provided, the following procedure shall be observed in cases tried before a Special Trial Judge:
 
-(a) Trial and Briefs: A Special Trial Judge shall conduct the trial of any such case assigned for such purpose.
+(a) Trial and Briefs: A Special Trial Judge shall conduct the trial of any assigned case.
 After such trial, the parties shall submit their briefs in accordance with the provisions of Rule 151. Unless otherwise directed, no further briefs shall be filed.
 
-(b) Special Trial Judge's Report: After all the briefs have been filed by all the parties or the time for doing so has expired, the Special Trial Judge shall submit a report, including findings of fact and opinion, to the Chief Judge, and the Chief Judge will assign the case to a Judge or Division of the Court.
+(b) Special Trial Judge's Recommendations: After all the briefs have been filed by all the parties or the time for doing so has expired, the Special Trial Judge shall file recommended findings of fact and conclusions of law and a copy of the recommended findings of fact and conclusions of law shall be served in accordance with Rule 21.
 
-(c) Action on the Report: The Judge to whom or the Division to which the case is assigned may adopt the Special Trial Judge's report or may modify it or may reject it in whole or in part, or may direct the filing of additional briefs or may receive further evidence or may direct oral argument, or may recommit the report with instructions.
+(c) Objections: Within 45 days after the service of the recommended findings of fact and conclusions of law, a party may serve and file specific, written objections to the recommended findings of fact and conclusions of law.
+A party may respond to another party's objections within 30 days after being served with a copy thereof.
+The above time periods may be extended by the Special Trial Judge.
+After the time for objections and responses has passed, the Chief Judge shall assign the case to a Judge for preparation of a report in accordance with Code section 7460. Unless a party shall have proposed a particular finding of fact, or unless the party shall have objected to another party's proposed finding of fact, the Judge may refuse to consider the party's objection to the Special Trial Judge's recommended findings of fact and conclusions of law for failure to make such a finding or for inclusion of such finding proposed by the other party, as the case may be.
+
+(d) Action on the Recommendations: The Judge to whom the case is assigned may adopt the Special Trial Judge's recommended findings of fact and conclusions of law, or may modify or reject them in whole or in part, or may direct the filing of additional briefs, or may receive further evidence, or may direct oral argument, or may recommit the recommended findings of fact and conclusions of law with instructions.
+The Judge's action on the Special Trial Judge's recommended findings of fact and conclusions of law shall be reflected in the record by an appropriate order or report.
 Due regard shall be given to the circumstance that the Special Trial Judge had the opportunity to evaluate the credibility of witnesses, and the findings of fact recommended by the Special Trial Judge shall be presumed to be correct.
+
+(As amended eff.
+Sept. 20, 2005.)
 
 TITLE XIX.—APPEALS
 
@@ -1741,47 +1786,47 @@ The Federal Rules of Appellate Procedure, referred to in par. (a), are set out i
 
 TITLE XX.—PRACTICE BEFORE THE COURT
 
-Rule 200. Admission to Practice and Periodic Registration Fee
+Rule 200. Admission to Practice and Periodic Registration Fees
 
-(a) Qualifications: (1) General: An applicant for admission to practice before the Court must establish to the satisfaction of the Court that the applicant is of good moral character and repute and is possessed of the requisite qualifications to represent others in the preparation and trial of cases.
-In addition, the applicant must satisfy the further requirements of this Rule 200.
+(a) Qualifications: (1) General: An applicant for admission to practice before the Court must establish to the satisfaction of the Court that the applicant is of good moral and professional character and possesses the requisite qualifications to provide competent representation before the Court.
+In addition, the applicant must satisfy the other requirements of this Rule.
+If the applicant fails to satisfy the requirements of this Rule, then the Court may deny such applicant admission to practice before the Court.
 
-(2) Attorneys: An attorney at law may be admitted to practice upon filing with the Admissions Clerk a completed application accompanied by a fee to be established by the Court, see Appendix II, and a current certificate from the Clerk of the appropriate court, showing that the applicant has been admitted to practice before and is a member in good standing of the Bar of the Supreme Court of the United States, or of the highest or appropriate court of any State or of the District of Columbia, or any commonwealth, territory, or possession of the United States.
+(2) Attorney Applicants: An applicant who is an attorney at law must, as a condition of being admitted to practice, file with the Admissions Clerk at the address listed in Rule 200(b) a completed application accompanied by a fee to be established by the Court, see Appendix II, and a current certificate from the Clerk of the appropriate court, showing that the applicant has been admitted to practice before and is a member in good standing of the Bar of the Supreme Court of the United States, or of the highest or appropriate court of any State or of the District of Columbia, or any commonwealth, territory, or possession of the United States.
 A current court certificate is one executed within 90 calendar days preceding the date of the filing of the application.
 
-(3) Other Applicants: An applicant, not an attorney at law, must file with the Admissions Clerk a completed application accompanied by a fee to be established by the Court.
-See Appendix II. In addition, such an applicant, as a condition of being admitted to practice, must give evidence of the applicant's qualifications satisfactory to the Court by means of a written examination given by the Court, and the Court may require such person, in addition, to give similar evidence by means of an oral examination.
+(3) Nonattorney Applicants: An applicant who is not an attorney at law must, as a condition of being admitted to practice, file with the Admissions Clerk at the address listed in Rule 200(b), a completed application accompanied by a fee to be established by the Court.
+See Appendix II. In addition, such an applicant must, as a condition of being admitted to practice, satisfy the Court, by means of a written examination given by the Court, that the applicant possesses the requisite qualifications to provide competent representation before the Court.
+Written examinations for applicants who are not attorneys at law will be held no less often than every two years.
+By public announcement at least six months prior to the date of each examination, the Court will announce the date and the time of such examination.
+The Court will notify each applicant, whose application for admission is in order, of the time and the place at which the applicant is to be present for such examination, and the applicant must present that notice to the examiner as authority for taking such examination.
 
-(b) Application: An application for admission to practice before the Court must be on the form provided by the Court.
-Application forms and other necessary information will be furnished upon request addressed to the Admissions Clerk, United States Tax Court, 400 Second St., N.W., Washington, D.C. 20217.
+(b) Applications for Admission: An application for admission to practice before the Court must be on the form provided by the Court.
+Application forms and other necessary information will be furnished upon request addressed to the Admissions Clerk, United States Tax Court, 400 Second St., N.W., Washington, D.C. 20217. As to forms of payment for application fees, see Rule 11.
 
-(c) Sponsorship: An applicant for admission by examination must be sponsored by at least two persons theretofore admitted to practice before this Court, and each sponsor must send a letter of recommendation directly to the Admissions Clerk of the Court, where it will be treated as a confidential communication.
-The sponsor shall send this letter promptly after the applicant has been notified that he or she has passed the written examination required by paragraph (d). The sponsor shall state fully and frankly the extent of the sponsor's acquaintance with the applicant, the sponsor's opinion of the moral character and repute of the applicant, and the sponsor's opinion of the qualifications of the applicant to practice before this Court.
+(c) Sponsorship: An applicant for admission by examination must be sponsored by at least two persons theretofore admitted to practice before this Court, and each sponsor must send a letter of recommendation directly to the Admissions Clerk at the address listed in Rule 200(b), where it will be treated as a confidential communication.
+The sponsor shall send this letter promptly after the applicant has been notified that he or she has passed the written examination required by paragraph (a)(3). The sponsor shall state fully and frankly the extent of the sponsor's acquaintance with the applicant, the sponsor's opinion of the moral character and repute of the applicant, and the sponsor's opinion of the qualifications of the applicant to practice before this Court.
 The Court may in its discretion accept such an applicant with less than two such sponsors.
 
-(d) Written Examinations: Written examinations, for applicants other than attorneys at law, will be held no less often than every 2 years.
-By public announcement at least 6 months prior to the date of the examination, the Court will announce the date and time of such examination.
-The Court will notify each applicant, whose application is in order, of the time and place at which the applicant is to be present for examination, and the applicant must present that notice to the examiner as authority for taking such an examination.
+(d) Admission: Upon the Court's approval of an application for admission in which an applicant has subscribed to the oath or affirmation and upon an applicant's satisfaction of the other applicable requirements of this Rule, such applicant will be admitted to practice before the Court and be entitled to a certificate of admission.
 
-(e) Checks and Money Orders: Where the application fee is paid by check or money order, it shall be made payable to the order of the “Clerk, United States Tax Court”.
+(e) Change of address: Each person admitted to practice before the Court shall promptly notify the Admissions Clerk at the address listed in Rule 200(b) of any change in office address for mailing purposes.
+See also Rule 21(b)(4) regarding the filing of a separate notice of change of address for each docket number in which such person has entered an appearance.
 
-(f) Admission: Upon approval of an application for admission and satisfaction of the other applicable requirements, an applicant will be admitted to practice before the Court upon taking and subscribing the oath or affirmation prescribed by the Court.
-Such an applicant shall thereupon be entitled to a certificate of admission.
+(f) Corporations and Firms Not Eligible: Corporations and firms will not be admitted to practice or recognized before the Court.
 
-(g) Change of Address: Each person admitted to practice before the Court shall promptly notify the Admissions Clerk of any change in office address for mailing purposes.
-See also Rule 21(b)(4) regarding the filing of a separate notice for each docket number in which such person has entered an appearance.
-
-(h) Corporations and Firms Not Eligible: Corporations and firms will not be admitted to practice or recognized before the Court.
-
-(i) Periodic Registration Fee: (1) Each practitioner admitted to practice before the Court shall pay a periodic registration fee.
-The frequency and amount of such fee shall be determined by the Court, except that such amount shall not exceed $30 per calendar year.
-The Clerk shall maintain an Ineligible List containing the names of all practitioners failing to comply with the provisions of this Rule.
-No practitioner shall be permitted to commence a case in the Court or enter an appearance in a pending case while on the Ineligible List.
-The name of any practitioner appearing on the Ineligible List shall not be removed from the List until the currently due registration fee has been paid and all arrearages have been made current.
-The periodic registration fee must be paid by all persons admitted to practice before the Court, whether or not engaged in private practice.
+(g) Periodic Registration Fees: (1) Each person admitted to practice before the Court shall pay a periodic registration fee.
+The frequency and the amount of such fee shall be determined by the Court, except that such amount shall not exceed $30 per calendar year.
+The Clerk shall maintain an Ineligible List containing the names of all persons admitted to practice before the Court who have failed to comply with the provisions of this Rule 200(g)(1). No such person shall be permitted to commence a case in the Court or enter an appearance in a pending case while on the Ineligible List.
+The name of any person appearing on the Ineligible List shall not be removed from the List until the currently due registration fee has been paid and arrearages have been made current.
+Each person admitted to practice before the Court, whether or not engaged in private practice, must pay the periodic registration fee.
 As to forms of payment, see Rule 11.
 
-(2) The fees described in Rule 200(i)(1) shall be used by the Court to employ independent counsel to pursue disciplinary matters.
+(2) The fees described in Rule 200(g)(1) shall be used by the Court to compensate independent counsel appointed by the Court to assist it with respect to disciplinary matters.
+See Rule 202(f).
+
+(As amended eff.
+Sept. 20, 2005.)
 
 Rule 201. Conduct of Practice Before the Court
 
@@ -1789,38 +1834,47 @@ Rule 201. Conduct of Practice Before the Court
 
 (b) Statement of Employment: The Court may require any practitioner before it to furnish a statement, under oath, of the terms and circumstances of his or her employment in any case.
 
-Rule 202. Disqualification, Suspension, or Disbarment
+Rule 202. Disciplinary Matters
 
-(a) General: The Court may deny admission to its Bar to, or suspend, or disbar, any person who in its judgment does not possess the requisite qualifications to represent others, or who is lacking in character, integrity, or proper professional conduct.
-Upon the conviction of any practitioner admitted to practice before this Court for a criminal violation of any provision of the Internal Revenue Code or for any crime involving moral turpitude, or where any practitioner has been suspended or disbarred from the practice of his or her profession in any State or the District of Columbia, or any commonwealth, territory, or possession of the United States, the Court may, in the exercise of its discretion, forthwith suspend such practitioner from the Bar of this Court until further order of Court; but otherwise no person shall be suspended for more than 60 days or disbarred until such person has been afforded an opportunity to be heard.
+(a) General: A member of the Bar of this Court may be disciplined by this Court as a result of:
+
+(1) Conviction in any court of the United States, or of the District of Columbia, or of any state, territory, commonwealth, or possession of the United States of any felony or of any lesser crime involving false swearing, misrepresentation, fraud, criminal violation of any provision of the Internal Revenue Code, bribery, extortion, misappropriation, theft, or moral turpitude;
+
+(2) Imposition of discipline by any other court of whose bar an attorney is a member, or an attorney's disbarment or suspension by consent or resignation from the bar of such court while an investigation into allegations of misconduct is pending;
+
+(3) Conduct with respect to the Court which violates the letter and spirit of the Model Rules of Professional Conduct of the American Bar Association, the Rules of the Court, or orders or other instructions of the Court; or
+
+(4) Any other conduct unbecoming a member of the Bar of the Court.
+
+(b) Disciplinary Actions: Discipline may consist of disbarment, suspension from practice before the Court, reprimand, admonition, or any other sanction that the Court may deem appropriate.
+The Court may, in the exercise of its discretion, immediately suspend a practitioner from practice before the Court until further order of the Court.
+However, no person shall be suspended for more than 60 days or disbarred until such person has been afforded an opportunity to be heard.
 A Judge of the Court may immediately suspend any person for not more than 60 days for contempt or misconduct during the course of any trial or hearing.
 
-(b) Disciplinary Proceedings: (1) Referral to Counsel: When misconduct or allegations of misconduct which, if substantiated, would warrant discipline of a practitioner shall come to the attention of the Court, whether by complaint or otherwise, and the applicable procedure is not otherwise mandated by these Rules (see paragraph (a) of this Rule), the Court, in its discretion, may refer the matter to counsel to the Court (appointed pursuant to the provisions of paragraph (d) of this Rule) for investigation and the prosecution of a formal disciplinary proceeding or the formation of such other recommendation as may be appropriate.
+(c) Disciplinary Proceedings: Upon the occurrence or allegation of any event described in Rule 202(a)(1) through (a)(4), except for any suspension imposed for 60 days or less pursuant to Rule 202(b), the Court shall issue to the practitioner an order to show cause why the practitioner should not be disciplined or shall otherwise take appropriate action.
+The order to show cause shall direct that a written response be filed within such period as the Court may direct and shall set a prompt hearing on the matter before one or more Judges of the Court.
+If the disciplinary proceeding is predicated upon the complaint of a Judge of the Court, the hearing shall be conducted before a panel of three other Judges of the Court.
 
-(2) Investigation and Recommendation: If counsel concludes after investigation and review that a formal disciplinary proceeding should not be initiated against the practitioner because sufficient evidence is not present, or because there is pending another proceeding against the practitioner, the disposition of which in the judgment of counsel should be awaited before further action by this Court is considered, or for any other valid reason, then counsel shall file with the Court a recommendation for disposition of the matter, whether by dismissal, admonition, deferral, or otherwise, setting forth the reasons therefor.
+(d) Reinstatement: (1) A practitioner suspended for 60 days or less pursuant to Rule 202(b) shall be automatically reinstated at the end of the period of suspension.
 
-(3) Initiation of Proceedings: To initiate formal disciplinary proceedings, the Court shall enter an order (or, where counsel is appointed, such counsel shall obtain an order of the Court upon a showing of probable cause) requiring the practitioner to show cause within 30 days after service of that order upon that practitioner, why the practitioner should not be disciplined.
+(2) A practitioner suspended for more than 60 days or disbarred pursuant to Rule 202 may not resume practice before the Court until reinstated by order of the Court.
 
-(4) Hearing: Upon the practitioner's answer to the order to show cause, if any issue of fact is raised or the practitioner wishes to be heard in mitigation, then this Court shall set the matter for prompt hearing before one or more Judges of this Court.
-However, if the disciplinary proceeding is predicated upon the complaint of a Judge of this Court, then the hearing shall be conducted before a panel of three other Judges of this Court appointed by the Chief Judge.
+(A) A disbarred practitioner or a practitioner suspended for more than 60 days who wishes to be reinstated to practice before the Court must file a petition for reinstatement.
+Upon receipt of the petition for reinstatement, the Court may set the matter for prompt hearing before one or more Judges of the Court.
+If the disbarment or suspension for more than 60 days was predicated upon the complaint of a Judge of the Court, any such hearing shall be conducted before a panel of three other Judges of the Court.
 
-(5) Right to Counsel: In all proceedings conducted under the provisions of this Rule, the practitioner shall have the right to be represented by counsel.
+(B) In order to be reinstated before the Court, the practitioner must demonstrate by clear and convincing evidence in the petition for reinstatement and at any hearing that such practitioner's reinstatement will not be detrimental to the integrity and standing of the Court's Bar or to the administration of justice, or subversive of the public interest.
 
-(c) Reinstatement: (1) After Disbarment or Suspension: A practitioner suspended for 60 days or less shall be automatically reinstated at the end of the period of suspension.
-A practitioner suspended for more than 60 days or disbarred may not resume practice until reinstated by order of this Court.
+(C) No petition for reinstatement under this Rule shall be filed within 1 year following an adverse decision upon a petition for reinstatement filed by or on behalf of the same person.
 
-(2) Hearing on Application: A petition for reinstatement by a disbarred or suspended practitioner under this Rule shall be filed with the Court.
-Upon receipt of the petition, the Court may promptly refer the petition to counsel and shall assign the matter for prompt hearing before one or more Judges of this Court.
-However, if the disciplinary proceeding was predicated upon the complaint of a Judge of this Court, then the hearing shall be conducted before a panel of three other Judges of this Court appointed by the Chief Judge.
-The Judge or Judges assigned to the matter shall, as promptly as the Court's business shall permit, schedule a hearing at which the practitioner shall have the burden of demonstrating by clear and convincing evidence that the practitioner has the moral qualifications, competency and learning in the law required for admission to practice before this Court and that the practitioner's resumption of such practice will not be detrimental to the integrity and standing of the Bar or to the administration of justice, or subversive of the public interest.
+(e) Right to Counsel: In all proceedings conducted under the provisions of this Rule, the practitioner shall have the right to be represented by counsel.
 
-(3) Successive Petitions: No petition for reinstatement under this Rule shall be filed within 1 year following an adverse decision upon a petition for reinstatement filed by or on behalf of the same person.
+(f) Appointment of Court Counsel: The Court, in its discretion, may appoint counsel to the Court to assist it with respect to any disciplinary matters.
 
-(d) Presentation to the Court: When counsel is to be appointed pursuant to this Rule to investigate allegations of misconduct or prosecute disciplinary proceedings or in conjunction with a reinstatement petition filed by a practitioner, this Court shall appoint as counsel to the Court a member of the Bar of this Court who is a resident of or who practices in the same Federal judicial circuit (see 28 U.S.C. section 41), except the Federal Circuit, as the Federal judicial circuit which includes the practitioner's place of residence or practice.
-The practitioner may move to disqualify a person so appointed for cause, for example, if such person is or has been engaged as an adversary of the practitioner in any matter.
-Counsel, once appointed, may not resign unless permission to do so is given by the Court.
+(g) Jurisdiction: Nothing contained in this Rule shall be construed to deny to the Court such powers as are necessary for the Court to maintain control over proceedings conducted before it, such as proceedings for contempt under Code Section 7456 or for costs under Code Section 6673(a)(2).
 
-(e) Jurisdiction: Nothing contained in this Rule shall be construed to deny to this Court such powers as are necessary for the Court to maintain control over proceedings conducted before it, such as proceedings for contempt under Code section 7456.
+(As amended eff.
+Sept. 20, 2005.)
 
 TITLE XXI.—DECLARATORY JUDGMENTS
 
@@ -1906,6 +1960,12 @@ See Code sec. 7502.
 (4) The petitioner has exhausted all administrative remedies which were available to the petitioner within the Internal Revenue Service.
 
 (d) Form and Style of Papers: All papers filed in an action for declaratory judgment, with the exception of documents included in the administrative record, shall be prepared in the form and style set forth in Rule 23; except that whenever any party joins or intervenes in the action in those instances in which joinder or intervention is permitted, then thereafter, in addition to the number of copies required to be filed under such Rule, an additional copy shall be filed for each party who joins or intervenes in the action.
+
+Effective Date of 2003 Revision
+
+Amendments to Title XXI set forth procedures for declaratory judgment actions under sections 7477 and 7479 of this title, added by sections 506(c)(1) and 505(a), respectively, of the Taxpayer Relief Act of 1997, Pub. L. 105–34, 111 Stat. 854, 855. Section 7477 of this title provides for a declaratory judgment relating to the valuation of a gift and is effective for gifts made after Aug. 5, 1997. Section 7479 of this title provides for a declaratory judgment relating to the eligibility of an estate with respect to installment payments under section 6166 of this title and is effective with respect to estates of decedents dying after Aug. 5, 1997. The amendments to the Rules of this Title XXI that relate to gift valuation actions are effective as to proceedings commenced with respect to gifts made after Aug. 5, 1997; the amendments that relate to estate tax installment payment actions are effective as to proceedings commenced with respect to estates of decedents dying after Aug. 5, 1997; and the amendment that relates to oversheltered return actions is effective as to proceedings commenced with respect to partnership tax years ending after Aug. 5, 1997.
+
+The amendments to Rule 210 that relate to gift valuation actions are effective as to proceedings commenced with respect to gifts made after Aug. 5, 1997; the amendments that relate to estate tax installment payment actions are effective as to proceedings commenced with respect to estates of decedents dying after Aug. 5, 1997; and the amendment that relates to oversheltered return actions is effective as to proceedings commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
 Rule 211. Commencement of Action for Declaratory Judgment
 
@@ -2107,6 +2167,14 @@ For the requirements as to claims for reasonable litigation or administrative co
 
 (h) Service: For the provisions relating to service of the petition and other papers, see Rule 21.
 
+Effective Date of 2003 Revision
+
+The amendment to par. (b) relating to gift valuation actions is effective as to proceedings commenced with respect to gifts made after Aug. 5, 1997; and the amendment to par. (b) relating to estate tax installment payment actions is effective as to proceedings commenced with respect to estates of decedents dying after Aug. 5, 1997.
+
+The amendments to par. (d) are effective as to proceedings commenced with respect to gifts made after Aug. 5, 1997.
+
+The amendments to par. (f) are effective as to proceedings commenced with respect to estates of decedents dying after Aug. 5, 1997.
+
 Rule 212. Designation of Place for Submission to the Court
 
 At the time of filing a petition for a declaratory judgment, a designation of place for submission to the Court shall be filed in accordance with Rule 140. In addition to including in the designation the information specified in Rule 140, the petitioner shall also include the date on which the petitioner expects the action will be ready for submission to the Court and the petitioner's estimate of the time required therefor.
@@ -2189,6 +2257,12 @@ An order dismissing a case for nonjoinder of a necessary party may be conditiona
 (c) Joinder of Parties in Gift Valuation, Governmental Obligation, and Exempt Organization Actions: Joinder of parties is not permitted in a gift valuation action, in a governmental obligation action, or in an exempt organization action.
 See Code secs. 7477(b)(1), 7478(b)(1), 7428(b)(1). With respect to consolidation of actions, see Rule 141.
 
+Effective Date of 2003 Revision
+
+The amendments to par. (b) are effective as to proceedings commenced with respect to estates of decedents dying after Aug. 5, 1997.
+
+The amendments to par. (c) relating to gift valuation actions are effective as to proceedings commenced with respect to gifts made after Aug. 5, 1997.
+
 Rule 216. Intervention in Retirement Plan Actions
 
 (a) Who May Intervene: The Pension Benefit Guaranty Corporation and, if entitled to intervene pursuant to the provisions of section 3001(c) of the Employee Retirement Income Security Act of 1974, the Secretary of Labor, or either of them, shall be permitted to intervene in a retirement plan action in accordance with the provisions of Code section 7476.
@@ -2211,11 +2285,15 @@ If, however, the parties are unable to file such a stipulated administrative rec
 See Rule 212, as to the time and place for submission of the action to the Court.
 The Court will thereafter issue an opinion and declaratory judgment in the action.
 In an action involving the initial qualification of a retirement plan or the initial qualification or classification of an exempt organization, a private foundation, or a private operating foundation, the Court's decision will be based upon the assumption that the facts as represented in the administrative record as so stipulated or so certified are true and upon any additional facts as found by the Court if the Court deems that a trial is necessary.
-In an action involving a gift valuation, the eligibility of an estate with respect to installment payments under Code section 6166, a revocation, or the status of a governmental obligation, the Court may, upon the basis of the evidence presented, make findings of fact which differ from the adminstrative record.
+In an action involving a gift valuation, the eligibility of an estate with respect to installment payments under Code section 6166, a revocation, or the status of a governmental obligation, the Court may, upon the basis of the evidence presented, make findings of fact which differ from the administrative record.
 
 (2) Other Dispositions Without Trial: In addition, an action for declaratory judgment may be decided on a motion for a judgment on the pleadings under Rule 120 or on a motion for summary judgment under Rule 121 or such an action may be submitted at any time by notice of the parties filed with the Court in accordance with Rule 122.
 
 (3) Disposition Where Trial is Required: Whenever a trial is required in an action for declaratory judgment, such trial shall be conducted in accordance with the Rules contained in Title XIV, except as otherwise provided in this Title.
+
+Effective Date of 2003 Revision
+
+The amendments relating to gift valuation actions are effective as to proceedings commenced with respect to gifts made after Aug. 5, 1997; and the amendments relating to estate tax installment payment actions are effective as to proceedings commenced with respect to estates of decedents dying after Aug. 5, 1997.
 
 Rule 218. Procedure in Actions Heard by a Special Trial Judge of the Court
 
@@ -2438,6 +2516,10 @@ See Title XXVI for Rules relating to separate actions for administrative costs, 
 (6) “Attorney's fees” include fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Court or before the Internal Revenue Service.
 For the procedure for admission to practice before the Court, see Rule 200.
 
+Effective Date of 2003 Revision
+
+The amendment of par. (b)(6) deleting the words “paid or incurred” is effective for costs incurred and services performed after Jan. 18, 1999.
+
 Rule 231. Claims for Litigation and Administrative Costs
 
 (a) Time and Manner of Claim: (1) Agreed Cases: Where the parties have reached a settlement which disposes of all issues in the case including litigation and administrative costs, an award of reasonable litigation and administrative costs, if any, shall be included in the stipulated decision submitted by the parties for entry by the Court.
@@ -2476,6 +2558,10 @@ See paragraphs (b)(3) and (c) of this Rule regarding the filing of a stipulation
 (d) Affidavit in Support of Costs Claimed: A motion for an award of reasonable litigation or administrative costs shall be accompanied by a detailed affidavit by the moving party or counsel for the moving party which sets forth distinctly the nature and amount of each item of costs for which an award is claimed.
 
 (e) Qualified Offer: If a qualified offer was made by the moving party as described in Code section 7430(g), then a motion for award of reasonable litigation or administrative costs shall be accompanied by a copy of such offer.
+
+Effective Date of 2003 Revision
+
+The amendments to pars. (a)(2), (b)(3), and (d) and the amendment adding par. (e) are effective with respect to costs incurred and services performed after Jan. 18, 1999.
 
 Rule 232. Disposition of Claims for Litigation and Administrative Costs
 
@@ -2546,6 +2632,10 @@ See Code sec. 7430(c)(4)(B).
 (f) Disposition: The Court's disposition of a motion for reasonable litigation or administrative costs shall be included in the decision entered in the case.
 Where the Court in its opinion states that the decision will be entered under Rule 155, or where the parties have settled all of the issues other than litigation and administrative costs, the Court will issue an order granting or denying the motion and determining the amount of reasonable litigation and administrative costs, if any, to be awarded.
 The parties, or either of them, shall thereafter submit a proposed decision including an award of any such costs, or a denial thereof, for entry by the Court.
+
+Effective Date of 2003 Revision
+
+The amendments to pars. (b)(2), (d)(10), and (e) are effective with respect to costs incurred and services performed after Jan. 18, 1999.
 
 Rule 233. Miscellaneous
 
@@ -2886,6 +2976,10 @@ If the Commissioner opposes the petitioner's request for a hearing, then the res
 (e) Recognition of Counsel: Counsel recognized by the Court in the action in which the Court redetermined the deficiency or determined the overpayment the interest in respect of which the petitioner now seeks a redetermination will be recognized in a proceeding commenced under this Rule.
 Counsel not so recognized must file an entry of appearance pursuant to Rule 24(a)(3) or a substitution of counsel pursuant to Rule 24(d).
 
+Effective Date of 2003 Revision
+
+The amendments are effective as of Aug. 5, 1997.
+
 1 So in original.
 Probably should be “(C)”.
 
@@ -2951,6 +3045,12 @@ For the procedure for admission to practice before the Court, see Rule 200.
 1 A petition for an award for reasonable administrative costs is filed with the Court within the period specified in Code section 7430(f)(2).
 
 (d) Burden of Proof: For the rules regarding the burden of proof in claims for administrative costs, see Rule 232(e).
+
+Effective Date of 2003 Revision
+
+The amendment to par. (b)(2) deleting the phrase “paid or incurred” is effective with respect to costs incurred and services performed after Jan. 18, 1999.
+
+The amendment to the provisions immediately following par. (c)(1) is effective with respect to proceedings commenced after Aug. 5, 1997.
 
 1 So in original.
 No par. (2) designation included.
@@ -3081,7 +3181,7 @@ References in Text
 
 Section 530(a) of Pub. L. 95–600, referred to in par. (b)(1)(B), is set out as a note under section 3401 of this title.
 
-Effective Date
+Effective Date of 2003 Revision
 
 Title XXVIII sets forth procedures for actions under section 7436 of this title, added by sec. 1454(a) of the Taxpayer Relief Act of 1997, Pub. L. 105–34, 111 Stat. 1055. Section 7436 of this title provides for a redetermination of the Commissioner's determination of employment status and is effective on Aug. 5, 1997, the date of enactment of the Taxpayer Relief Act of 1997. Similarly, the Rules of this Title XXVIII are effective with respect to actions for redetermination of employment status commenced on or after Aug. 5, 1997.
 
@@ -3121,7 +3221,7 @@ For the requirements as to claims for reasonable litigation or administrative co
 
 (d) Filing Fee: The fee for filing a petition for redetermination of employment status shall be $60, payable at the time of filing.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 291 is effective with respect to actions for redetermination of employment status commenced on or after Aug. 5, 1997.
 
@@ -3129,7 +3229,7 @@ Rule 292. Designation of Place of Trial
 
 At the time of filing a petition for redetermination of employment status, the petitioner shall file a designation of place of trial in accordance with Rule 140.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 292 is effective with respect to actions for redetermination of employment status commenced on or after Aug. 5, 1997.
 
@@ -3139,7 +3239,7 @@ Rule 293. Other Pleadings
 
 (b) Reply: For provisions relating to the filing of a reply, see Rule 37.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 293 is effective with respect to actions for redetermination of employment status commenced on or after Aug. 5, 1997.
 
@@ -3147,7 +3247,7 @@ Rule 294. Joinder of Issue in Actions for Redetermination of Employment Status
 
 An action for redetermination of employment status under Code section 7436 shall be deemed at issue as provided by Rule 38.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 294 is effective with respect to actions for redetermination of employment status commenced on or after Aug. 5, 1997.
 
@@ -3188,7 +3288,7 @@ See Code sec. 6252(a).
 
 (d) Form and Style of Papers: All papers filed in a large partnership action shall be prepared in the form and style set forth in Rule 23, and the caption shall state the name of the partnership, as for example, “ABC Partnership, Petitioner”.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Title XXIX sets forth procedures for actions under sections 6247 and 6252 of this title, added by sec. 1222(a) of the Taxpayer Relief Act of 1997, Pub. L. 105–34, 111 Stat. 1008. Section 6247 of this title provides for judicial review of the Commissioner's notice of partnership adjustment (action for readjustment of partnership items of a large partnership under section 6247 of this title) and section 6252 of this title provides for judicial review of the Commissioner's failure to allow all or some of the adjustments requested in an administrative adjustment request (action for adjustment of partnership items of a large partnership under section 6252 of this title). Sections 6247 and 6252 of this title are effective with respect to partnership tax years ending on or after Dec. 31, 1997, and the Rules of this Title XXIX likewise are effective as to large partnership actions commenced with respect to partnership tax years ending on or after Dec. 31, 1997.
 
@@ -3256,7 +3356,7 @@ However, a single petition for readjustment of partnership items of a large part
 
 (2) Severance or Other Orders: With respect to a case based upon multiple notices of partnership adjustment or administrative adjustment requests, the Court may order a severance and a separate case may be maintained with respect to one or more of such notices or requests whenever it appears to the Court that proceeding separately is in furtherance of convenience, or to avoid prejudice, or when separate trials will be conducive to expedition or economy.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 301 is effective as to large partnership actions commenced with respect to partnership tax years ending on or after Dec. 31, 1997.
 
@@ -3264,7 +3364,7 @@ Rule 302. Designation of Place of Trial
 
 At the time of filing a petition in a large partnership action, a designation of place of trial shall be filed in accordance with Rule 140.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 302 is effective as to large partnership actions commenced with respect to partnership tax years ending on or after Dec. 31, 1997.
 
@@ -3274,7 +3374,7 @@ Rule 303. Other Pleadings
 
 (b) Reply: For provisions relating to the filing of a reply, see Rule 37.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 303 is effective as to large partnership actions commenced with respect to partnership tax years ending on or after Dec. 31, 1997.
 
@@ -3282,7 +3382,7 @@ Rule 304. Joinder of Issue in Large Partnership Actions
 
 A large partnership action shall be deemed at issue as provided by Rule 38.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 304 is effective as to large partnership actions commenced with respect to partnership tax years ending on or after Dec. 31, 1997.
 
@@ -3292,7 +3392,7 @@ If, after the filing of a petition for adjustment of partnership items of a larg
 The petitioner, within 90 days after the date on which the notice of partnership adjustment is mailed, shall file an amendment to the petition, setting forth every error which the petitioner alleges to have been committed by the Commissioner in the notice of partnership adjustment, and the facts on which the petitioner bases the assignments of error.
 A copy of the notice of partnership adjustment shall be appended to the amendment to the petition.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 305 is effective as to large partnership actions commenced with respect to partnership tax years ending on or after Dec. 31, 1997.
 
@@ -3324,7 +3424,7 @@ See Code sec. 6234(a)(3).
 
 (2) A petition for declaratory judgment is filed with the Court within the period specified in Code section 6234(c). See Code sec. 7502.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Title XXX sets forth procedures for declaratory judgment actions under section 6234 of this title, added by sec. 1231(a) of the Taxpayer Relief Act of 1997, Pub. L. 105–34, 111 Stat. 1020. Section 6234 of this title provides for a declaratory judgment relating to the treatment of items other than partnership items with respect to an oversheltered return and is effective with respect to partnership tax years ending after Aug. 5, 1997. Similarly, the Rules of this Title XXX are effective as to oversheltered return actions commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
@@ -3339,7 +3439,7 @@ See Rule 22, relating to the place and manner of filing the petition, and Rule 3
 
 (c) Filing Fee: The fee for filing a petition for declaratory judgment shall be $60, payable at the time of filing.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 311 is effective as to oversheltered return actions commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
@@ -3347,7 +3447,7 @@ Rule 312. Designation of Place of Trial
 
 At the time of filing a petition for declaratory judgment with respect to an oversheltered return, the petitioner shall file a designation of place of trial in accordance with Rule 140.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 312 is effective as to oversheltered return actions commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
@@ -3357,7 +3457,7 @@ Rule 313. Other Pleadings
 
 (b) Reply: For provisions relating to the filing of a reply, see Rule 37.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 313 is effective as to oversheltered return actions commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
@@ -3365,7 +3465,7 @@ Rule 314. Joinder of Issue in Action for Declaratory Judgment (Oversheltered Ret
 
 An action for declaratory judgment under this Title XXX shall be deemed at issue as provided by Rule 38.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 314 is effective as to oversheltered return actions commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
@@ -3373,7 +3473,7 @@ Rule 315. Disposition of Action for Declaratory Judgment (Oversheltered Return)
 
 Disposition of an oversheltered return action generally will be by trial, conducted in accordance with the Rules contained in Title XIV. In addition, an action for declaratory judgment may be decided without a trial in accordance with the Rules contained in Title XII.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 315 is effective as to oversheltered return actions commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
@@ -3381,7 +3481,7 @@ Rule 316. Action for Declaratory Judgment (Oversheltered Return) Treated as Defi
 
 If, after the filing of a petition for declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return for a taxable year but before the Court makes a declaration, the treatment of any partnership item for that taxable year is finally determined pursuant to Code section 6234(g)(4), or any such item ceases to be a partnership item pursuant to Code section 6231(b), and as a result of that final determination or cessation, a deficiency can be determined with respect to the items that are the subject of the notice of adjustment, then the notice of adjustment shall be treated as a notice of deficiency under Code section 6212 and the petition shall be treated as a petition in an action brought under Code section 6213. See Code sec. 6234(g)(3).
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 316 is effective as to oversheltered return actions commenced with respect to partnership tax years ending after Aug. 5, 1997.
 
@@ -3395,7 +3495,7 @@ Rule 320. General
 
 (c) Form and Style of Papers: All papers filed in an action for determination of relief from joint and several liability on a joint return shall be prepared in the form and style set forth in Rule 23.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Title XXXI sets forth procedures for actions under section 6015(e) of this title, added by sec. 3201(a) of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, 112 Stat. 734. Section 6015(e) of this title provides for the determination by the Tax Court of the appropriate relief available to a taxpayer under that section, and is effective with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date, except that the 2-year period for electing the benefits of that section shall not expire before the date which is 2 years after the date of the first collection activity after July 22, 1998. Similarly, the Rules of this Title XXXI generally are effective with respect to actions for determination of relief from joint and several liability on a joint return commenced with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date; except that Rule 321(c) is effective with respect to proceedings commenced on or after Dec. 21, 2000.
 
@@ -3427,7 +3527,7 @@ For the requirements as to claims for reasonable litigation or administrative co
 
 (d) Filing Fee: The fee for filing a petition for determination of relief from joint and several liability on a joint return shall be $60, payable at the time of filing.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 321 is effective with respect to actions for determination of relief from joint and several liability on a joint return commenced with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date; except that par. (c) of Rule 321 is effective with respect to proceedings commenced on or after Dec. 21, 2000.
 
@@ -3435,7 +3535,7 @@ Rule 322. Designation of Place of Trial
 
 At the time of filing a petition for determination of relief from joint and several liability on a joint return, the petitioner shall file a designation of place of trial in accordance with Rule 140.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 322 is effective with respect to actions for determination of relief from joint and several liability on a joint return commenced with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date.
 
@@ -3445,7 +3545,7 @@ Rule 323. Other Pleadings
 
 (b) Reply: For provisions relating to the filing of a reply, see Rule 37.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 323 is effective with respect to actions for determination of relief from joint and several liability on a joint return commenced with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date.
 
@@ -3457,7 +3557,7 @@ An action for determination of relief from joint and several liability on a join
 
 (2) the expiration of the period within which a notice of intervention may be filed under Rule 325(b).
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 324 is effective with respect to actions for determination of relief from joint and several liability on a joint return commenced with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date.
 
@@ -3469,7 +3569,7 @@ The notice shall advise the other individual of the right to intervene by filing
 (b) Intervention: If the other individual filing the joint return desires to intervene, then such individual shall file a notice of intervention with the Court not later than 60 days after service of the notice by the Commissioner of the filing of the petition, unless the Court directs otherwise.
 All new matters of claim or defense in a notice of intervention shall be deemed denied.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 325 is effective with respect to actions for determination of relief from joint and several liability on a joint return commenced with respect to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date.
 
@@ -3481,7 +3581,7 @@ Rule 330. General
 
 (b) Jurisdiction: The Court shall have jurisdiction of a lien or levy action under this Title when the conditions of Code section 6320(c) or 6330(d), as applicable, have been satisfied.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Title XXXII sets forth procedures for actions under sections 6320(c) and 6330(d) of this title, added by sec. 3401 of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, 112 Stat. 746. Sections 6320(c) and 6330(d) of this title provide for judicial review of determinations made under sections 6320 and 6330 of this title regarding liens or levies against property or rights to property.
 Those sections are effective with respect to collection actions initiated after Jan. 18, 1999, and the Rules of this Title XXXII likewise are effective generally as to lien and levy actions commenced with respect to collection actions initiated after Jan. 18, 1999; except that Rule 331(c) is effective as to proceedings commenced on or after Dec. 21, 2000.
@@ -3520,7 +3620,7 @@ For the requirements as to claims for reasonable litigation or administrative co
 
 (d) Filing Fee: The fee for filing a petition for a lien and levy action shall be $60, payable at the time of filing.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 331 is effective as to lien and levy actions commenced with respect to collection actions initiated after Jan. 18, 1999; except that par. (c) is effective as to proceedings commenced on or after Dec. 21, 2000.
 
@@ -3528,7 +3628,7 @@ Rule 332. Designation of Place of Trial
 
 At the time of filing a petition for a lien and levy action, a designation of place of trial shall be filed in accordance with Rule 140.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 332 is effective as to lien and levy actions commenced with respect to collection actions initiated after Jan. 18, 1999.
 
@@ -3538,7 +3638,7 @@ Rule 333. Other Pleadings
 
 (b) Reply: For provisions relating to the filing of a reply, see Rule 37.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 333 is effective as to lien and levy actions commenced with respect to collection actions initiated after Jan. 18, 1999.
 
@@ -3546,7 +3646,7 @@ Rule 334. Joinder of Issue in Lien and Levy Actions
 
 A lien and levy action under Code sections 6320(c) and 6330(d) shall be deemed at issue as provided by Rule 38.
 
-Effective Date
+Effective Date of 2003 Revision
 
 New Rule 334 is effective as to lien and levy actions commenced with respect to collection actions initiated after Jan. 18, 1999.
 

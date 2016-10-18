@@ -559,11 +559,11 @@ That this Act may be cited as the “Classified Information Procedures Act”.
 FEDERAL RULES OF EVIDENCE
 
 The text of the Federal Rules of Evidence enacted into law by Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1929, is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to civil actions and proceedings, including admiralty and maritime cases, to criminal cases and proceedings, to contempt proceedings except those in which the court may act summarily, and to proceedings and cases under the Bankruptcy Act.
+Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to civil actions and proceedings, including admiralty and maritime cases, to criminal cases and proceedings, to contempt proceedings except those in which the court may act summarily, and to proceedings and cases under Title 11, Bankruptcy.
 
 FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to January 3, 2005)
+(As amended to January 2, 2006)
 
 Historical Note
 
@@ -597,9 +597,10 @@ Dec. 1, 1998; Apr. 26, 1999, eff.
 Dec. 1, 1999; Apr. 17, 2000, eff.
 Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff.
 Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff.
-Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760.
+Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff.
+Dec. 1, 2005.
 
-TITLE I. APPLICABILITY OF RULES
+TITLE I. APPLICABILITY
 
 Rule
 
@@ -846,7 +847,7 @@ District Court Rules.
 Petty Offenses and Other Misdemeanors.
 
 59.
-(Deleted).
+Matters Before a Magistrate Judge.
 
 60.
 Title.
@@ -963,7 +964,7 @@ Notes of Advisory Committee on Rules—1944
 
 Compare Federal Rules of Civil Procedure [28 U.S.C., Appendix], Rule 1 (Scope of Rules), last sentence: “They [the Federal Rules of Civil Procedure] shall be construed to secure the just, speedy, and inexpensive determination of every action.”
 
-II. PRELIMINARY PROCEEDINGS
+TITLE II. PRELIMINARY PROCEEDINGS
 
 Rule 3. The Complaint
 
@@ -2099,7 +2100,16 @@ No statement made by a defendant in the course of any examination conducted unde
 (B) has introduced expert evidence in a capital sentencing proceeding requiring notice under Rule 12.2(b)(2).
 
 (d) Failure to Comply.
-If the defendant fails to give notice under Rule 12.2(b) or does not submit to an examination when ordered under Rule 12.2(c), the court may exclude any expert evidence from the defendant on the issue of the defendant's mental disease, mental defect, or any other mental condition bearing on the defendant's guilt or the issue of punishment in a capital case.
+
+(1) Failure to Give Notice or to Submit to Examination.
+The court may exclude any expert evidence from the defendant on the issue of the defendant's mental disease, mental defect, or any other mental condition bearing on the defendant's guilt or the issue of punishment in a capital case if the defendant fails to:
+
+(A) give notice under Rule 12.2(b); or
+
+(B) submit to an examination when ordered under Rule 12.2(c).
+
+(2) Failure to Disclose.
+The court may exclude any expert evidence for which the defendant has failed to comply with the disclosure requirement of Rule 12.2(c)(3).
 
 (e) Inadmissibility of Withdrawn Intention.
 Evidence of an intention as to which notice was given under Rule 12.2(a) or (b), later withdrawn, is not, in any civil or criminal proceeding, admissible against the person who gave notice of the intention.
@@ -2109,7 +2119,8 @@ Dec. 1, 1975; amended Pub. L. 94–64, §3(14), July 31, 1975, 89 Stat. 373; Apr
 Aug. 1, 1983; Pub. L. 98–473, title II, §404, Oct. 12, 1984, 98 Stat. 2067; Pub. L. 98–596, §11(a), (b), Oct. 30, 1984, 98 Stat. 3138; Apr. 29, 1985, eff.
 Aug. 1, 1985; Pub. L. 99–646, §24, Nov. 10, 1986, 100 Stat. 3597; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1974
 
@@ -3368,7 +3379,7 @@ If the court reserves decision, it must decide the motion on the basis of the ev
 (c) After Jury Verdict or Discharge.
 
 (1) Time for a Motion.
-A defendant may move for a judgment of acquittal, or renew such a motion, within 7 days after a guilty verdict or after the court discharges the jury, whichever is later, or within any other time the court sets during the 7-day period.
+A defendant may move for a judgment of acquittal, or renew such a motion, within 7 days after a guilty verdict or after the court discharges the jury, whichever is later.
 
 (2) Ruling on the Motion.
 If the jury has returned a guilty verdict, the court may set aside the verdict and enter an acquittal.
@@ -3398,7 +3409,8 @@ If the appellate court later reverses the judgment of acquittal, the trial court
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Pub. L. 99–646, §54(a), Nov. 10, 1986, 100 Stat. 3607; Apr. 29, 1994, eff.
 Dec. 1, 1994; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -3816,14 +3828,16 @@ The person is entitled to:
 
 (B) disclosure of the evidence against the person;
 
-(C) an opportunity to appear, present evidence, and question any adverse witness unless the court determines that the interest of justice does not require the witness to appear; and
+(C) an opportunity to appear, present evidence, and question any adverse witness unless the court determines that the interest of justice does not require the witness to appear;
 
-(D) notice of the person's right to retain counsel or to request that counsel be appointed if the person cannot obtain counsel.
+(D) notice of the person's right to retain counsel or to request that counsel be appointed if the person cannot obtain counsel; and
+
+(E) an opportunity to make a statement and present any information in mitigation.
 
 (c) Modification.
 
 (1) In General.
-Before modifying the conditions of probation or supervised release, the court must hold a hearing, at which the person has the right to counsel.
+Before modifying the conditions of probation or supervised release, the court must hold a hearing, at which the person has the right to counsel and an opportunity to make a statement and present any information in mitigation.
 
 (2) Exceptions.
 A hearing is not required if:
@@ -3847,7 +3861,8 @@ Aug. 1, 1987; Apr. 25, 1989, eff.
 Dec. 1, 1989; Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1979
 
@@ -4002,13 +4017,14 @@ Any motion for a new trial grounded on newly discovered evidence must be filed w
 If an appeal is pending, the court may not grant a motion for a new trial until the appellate court remands the case.
 
 (2) Other Grounds.
-Any motion for a new trial grounded on any reason other than newly discovered evidence must be filed within 7 days after the verdict or finding of guilty, or within such further time as the court sets during the 7-day period.
+Any motion for a new trial grounded on any reason other than newly discovered evidence must be filed within 7 days after the verdict or finding of guilty.
 
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 24, 1998, eff.
 Dec. 1, 1998; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4026,11 +4042,12 @@ Upon the defendant's motion or on its own, the court must arrest judgment if:
 (2) the court does not have jurisdiction of the charged offense.
 
 (b) Time to File.
-The defendant must move to arrest judgment within 7 days after the court accepts a verdict or finding of guilty, or after a plea of guilty or nolo contendere, or within such further time as the court sets during the 7-day period.
+The defendant must move to arrest judgment within 7 days after the court accepts a verdict or finding of guilty, or after a plea of guilty or nolo contendere.
 
 (As amended Feb. 28, 1966, eff.
 July 1, 1966; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4784,8 +4801,8 @@ When an act must or may be done within a specified period, the court on its own 
 
 (B) after the time expires if the party failed to act because of excusable neglect.
 
-(2) Exceptions.
-The court may not extend the time to take any action under Rules 29, 33, 34, and 35, except as stated in those rules.
+(2) Exception.
+The court may not extend the time to take any action under Rule 35, except as stated in that rule.
 
 (c) Additional Time After Service.
 When these rules permit or require a party to act within a specified period after a notice or a paper has been served on that party, 3 days are added to the period if service occurs in the manner provided under Federal Rule of Civil Procedure 5(b)(2)(B), (C), or (D).
@@ -4797,7 +4814,8 @@ July 1, 1971; Apr. 28, 1982, eff.
 Aug. 1, 1982; Apr. 29, 1985, eff.
 Aug. 1, 1985; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -4822,7 +4840,8 @@ The provisions of 18 U.S.C. §§3142 and 3144 govern pretrial release.
 A person released before trial continues on release during trial under the same terms and conditions.
 But the court may order different terms and conditions or terminate the release if necessary to ensure that the person will be present during trial or that the person's conduct will not obstruct the orderly and expeditious progress of the trial.
 
-(c) Pending Sentencing or Appeal The provisions of 18 U.S.C. §3143 govern release pending sentencing or appeal.
+(c) Pending Sentencing or Appeal.
+The provisions of 18 U.S.C. §3143 govern release pending sentencing or appeal.
 The burden of establishing that the defendant will not flee or pose a danger to any other person or to the community rests with the defendant.
 
 (d) Pending Hearing on a Violation of Probation or Supervised Release.
@@ -5381,11 +5400,76 @@ References in Text
 
 The Federal Rules of Appellate Procedure, referred to in subd. (g)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Rule 59. [Deleted]
+Rule 59. Matters Before a Magistrate Judge
+
+(a) Nondispositive Matters.
+A district judge may refer to a magistrate judge for determination any matter that does not dispose of a charge or defense.
+The magistrate judge must promptly conduct the required proceedings and, when appropriate, enter on the record an oral or written order stating the determination.
+A party may serve and file objections to the order within 10 days after being served with a copy of a written order or after the oral order is stated on the record, or at some other time the court sets.
+The district judge must consider timely objections and modify or set aside any part of the order that is contrary to law or clearly erroneous.
+Failure to object in accordance with this rule waives a party's right to review.
+
+(b) Dispositive Matters.
+
+(1) Referral to Magistrate Judge.
+A district judge may refer to a magistrate judge for recommendation a defendant's motion to dismiss or quash an indictment or information, a motion to suppress evidence, or any matter that may dispose of a charge or defense.
+The magistrate judge must promptly conduct the required proceedings.
+A record must be made of any evidentiary proceeding and of any other proceeding if the magistrate judge considers it necessary.
+The magistrate judge must enter on the record a recommendation for disposing of the matter, including any proposed findings of fact.
+The clerk must immediately serve copies on all parties.
+
+(2) Objections to Findings and Recommendations.
+Within 10 days after being served with a copy of the recommended disposition, or at some other time the court sets, a party may serve and file specific written objections to the proposed findings and recommendations.
+Unless the district judge directs otherwise, the objecting party must promptly arrange for transcribing the record, or whatever portions of it the parties agree to or the magistrate judge considers sufficient.
+Failure to object in accordance with this rule waives a party's right to review.
+
+(3) De Novo Review of Recommendations.
+The district judge must consider de novo any objection to the magistrate judge's recommendation.
+The district judge may accept, reject, or modify the recommendation, receive further evidence, or resubmit the matter to the magistrate judge with instructions.
+
+(Added Apr. 25, 2005, eff.
+Dec. 1, 2005.)
 
 Committee Notes on Rules—2002
 
 Rule 59, which dealt with the effective date of the Federal Rules of Criminal Procedure, is no longer necessary and has been deleted.
+
+Committee Notes on Rules—2005
+
+Rule 59 is a new rule that creates a procedure for a district judge to review nondispositive and dispositive decisions by magistrate judges.
+The rule is derived in part from Federal Rule of Civil Procedure 72.
+
+The Committee's consideration of a new rule on the subject of review of a magistrate judge's decisions resulted from United States v. Abonce-Barrera, 257 F.3d 959 (9th Cir. 2001). In that case the Ninth Circuit held that the Criminal Rules do not require appeals from nondispositive decisions by magistrate judges to district judges as a requirement for review by a court of appeals.
+The court suggested that Federal Rule of Civil Procedure 72 could serve as a suitable model for a criminal rule.
+
+Rule 59(a) sets out procedures to be used in reviewing nondispositive matters, that is, those matters that do not dispose of the case.
+The rule requires that if the district judge has referred a matter to a magistrate judge, the magistrate judge must issue an oral or written order on the record.
+To preserve the issue for further review, a party must object to that order within 10 days after being served with a copy of the order or after the oral order is stated on the record or at some other time set by the court.
+If an objection is made, the district court is required to consider the objection.
+If the court determines that the magistrate judge's order, or a portion of the order, is contrary to law or is clearly erroneous, the court must set aside the order, or the affected part of the order.
+See also 28 U.S.C. §636(b)(1)(A).
+
+Rule 59(b) provides for assignment and review of recommendations made by magistrate judges on dispositive matters, including motions to suppress or quash an indictment or information.
+The rule directs the magistrate judge to consider the matter promptly, hold any necessary evidentiary hearings, and enter his or her recommendation on the record.
+After being served with a copy of the magistrate judge's recommendation, under Rule 59(b)(2), the parties have a period of 10 days to file any objections.
+If any objections are filed, the district court must consider the matter de novo and accept, reject, or modify the recommendation, or return the matter to the magistrate judge for further consideration.
+
+Both Rule 59(a) and (b) contain a provision that explicitly states that failure to file an objection in accordance with the rule amounts to a waiver of the issue.
+This waiver provision is intended to establish the requirements for objecting in a district court in order to preserve appellate review of magistrate judges’ decisions.
+In Thomas v. Arn, 474 U.S. 140, 155 (1985), the Supreme Court approved the adoption of waiver rules on matters for which a magistrate judge had made a decision or recommendation.
+The Committee believes that the waiver provisions will enhance the ability of a district court to review a magistrate judge's decision or recommendation by requiring a party to promptly file an objection to that part of the decision or recommendation at issue.
+Further, the Supreme Court has held that a de novo review of a magistrate judge's decision or recommendation is required to satisfy Article III concerns only where there is an objection.
+Peretz v. United States, 501 U.S. 293 (1991).
+
+Despite the waiver provisions, the district judge retains the authority to review any magistrate judge's decision or recommendation whether or not objections are timely filed.
+This discretionary review is in accord with the Supreme Court's decision in Thomas v. Arn, supra, at 154. See also Matthews v. Weber, 423 U.S. 261, 270–271 (1976).
+
+Although the rule distinguishes between “dispositive” and “nondispositive” matters, it does not attempt to define or otherwise catalog motions that may fall within either category.
+Instead, that task is left to the case law.
+
+Changes Made After Publication and Comment.
+The Committee adopted almost all of the style suggestions by the Style Subcommittee, and several of the suggestions by the Federal Magistrate Judges’ Association.
+In particular the Committee adopted a variation of the language suggested by the Association concerning matters disposing of a “charge or defense.” The committee also addressed the issue in Rule 59(a) of clarifying the starting point for the 10 days in which to file objections by changing the word “made” in line 9 to read “stated.” In Rule 59(b)(1) the Committee rearranged the order of the sample motions that would be considered “dispositive.” Finally, the Committee included a paragraph at the end of the Committee Note, addressing the decision not to further specify in the rule, or the Note, what matters might be dispositive or nondispositive.
 
 Rule 60. Title
 
@@ -5403,10 +5487,4 @@ Notes of Advisory Committee on Rules—1944
 This rule is similar to Rule 85 of the Federal Rules of Civil Procedure [28 U.S.C., Appendix], which reads as follows:
 
 These rules may be known and cited as the Federal Rules of Civil Procedure.
-
-Committee Notes on Rules—2002 Amendment
-
-No changes have been made to Rule 60, as a result of the general restyling of the Criminal Rules.
-
-__________
 

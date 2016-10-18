@@ -2142,7 +2142,7 @@ The words “the provisions of” are omitted as unnecessary.
 
 Opportunity for the Government of Guam To Acquire Excess Real Property in Guam
 
-Pub. L. 106–504, §1, Nov. 13, 2000, 114 Stat. 2309, provided that:
+Pub. L. 106–504, §1, Nov. 13, 2000, 114 Stat. 2309, as amended by Pub. L. 109–163, div. A, title X, §1056(a)(6), Jan. 6, 2006, 119 Stat. 3439, provided that:
 
 “(a) Transfer of Excess Real Property.—(1) Except as provided in subsection (d), before screening excess real property located on Guam for further Federal utilization under section 202 [now 40 U.S.C. 521 et seq.] of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) [now 40 U.S.C. 101 et seq.] (hereinafter the ‘Property Act’), the Administrator shall notify the Government of Guam that the property is available for transfer pursuant to this section.
 
@@ -2162,7 +2162,7 @@ Pub. L. 106–504, §1, Nov. 13, 2000, 114 Stat. 2309, provided that:
 
 “(B) the head of any Federal agency with the authority to dispose of excess real property on Guam.
 
-“(2) The term ‘base closure law’ means the Defense Authorization Amendments and Base Closure and Realignment Act of 1988 (Public Law 100–526) [see Short Title of 1988 Amendment note set out under section 2687 of Title 10, Armed Forces], the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510) [part A of title XXIX of Pub. L. 101–510; 10 U.S.C. 2687 note], or similar base closure authority.
+“(2) The term ‘base closure law’ has the meaning given such term in section 101(a)(17) of title 10, United States Code.
 
 “(3) The term ‘excess real property’ means excess property (as that term is defined in section 3 of the Property Act [now 40 U.S.C. 102]) that is real property and was acquired by the United States prior to the enactment of this section [Nov. 13, 2000].
 
@@ -3122,13 +3122,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (a) Definitions.—In this section, the following definitions apply:
 
-(1) Base closure law.—The term “base closure law” means the following:
-
-(A) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
-
-(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-(C) Section 2687 of title 10.
+(1) Base closure law.—The term “base closure law” has the meaning given that term in section 101(a)(17) of title 10.
 
 (2) State.—The term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
 
@@ -3159,7 +3153,7 @@ The Secretary shall reform, correct, or amend the instrument if necessary to cor
 The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose.
 The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100; Pub. L. 109–163, div. A, title X, §1056(a)(5)(A), Jan. 6, 2006, 119 Stat. 3439.)
 
 Historical and Revision Notes	Revised Section
 
@@ -3388,7 +3382,7 @@ In subsection (b), the words “whether proceeds are deposited as miscellaneous 
 
 (A) Military installation.—The term “military installation” has the meaning given that term in section 2687(e)(1) of title 10.
 
-(B) Base closure law.—The term “base closure law” has the meaning given that term in section 2667(h)(2) of title 10.
+(B) Base closure law.—The term “base closure law” has the meaning given that term in section 101(a)(17) of title 10.
 
 (2) Application.—
 
@@ -3421,7 +3415,7 @@ In subsection (b), the words “whether proceeds are deposited as miscellaneous 
 (6) Report.—As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made.
 The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105; Pub. L. 108–447, div. H, title IV, §408, Dec. 8, 2004, 118 Stat. 3258.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105; Pub. L. 108–447, div. H, title IV, §408, Dec. 8, 2004, 118 Stat. 3258; Pub. L. 109–13, div. A, title VI, §6068, May 11, 2005, 119 Stat. 299; Pub. L. 109–163, div. A, title X, §1056(a)(5)(B), Jan. 6, 2006, 119 Stat. 3439.)
 
 Historical and Revision Notes	Revised Section
 
@@ -5886,7 +5880,13 @@ Acceptance of gifts of property.
 3176.
 Administrator of General Services to furnish services in continental United States to international bodies.
 
+3177.
+Use of photovoltaic energy in public buildings.1
+
         
+
+1 Editorially supplied.
+Section 3177 added by Pub. L. 109–58 without corresponding amendment of chapter analysis.
 
 SUBCHAPTER I—OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS
 
@@ -6661,6 +6661,56 @@ Historical and Revision Notes	Revised Section
 The words “Sections 1535 and 1536 of title 31” are substituted for “section 601 of the Economy Act, approved June 30, 1932, as amended” because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 The words “Administrator of General Services” are substituted for “Public Buildings Administration” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title.
 The words “Secretary of State” are substituted for “State Department” because of 22:2651.
+
+§3177. Use of photovoltaic energy in public buildings
+
+(a) Photovoltaic Energy Commercialization Program.—
+
+(1) In general.—The Administrator of General Services may establish a photovoltaic energy commercialization program for the procurement and installation of photovoltaic solar electric systems for electric production in new and existing public buildings.
+
+(2) Purposes.—The purposes of the program shall be to accomplish the following:
+
+(A) To accelerate the growth of a commercially viable photovoltaic industry to make this energy system available to the general public as an option which can reduce the national consumption of fossil fuel.
+
+(B) To reduce the fossil fuel consumption and costs of the Federal Government.
+
+(C) To attain the goal of installing solar energy systems in 20,000 Federal buildings by 2010, as contained in the Federal Government's Million Solar Roof Initiative of 1997.
+
+(D) To stimulate the general use within the Federal Government of life-cycle costing and innovative procurement methods.
+
+(E) To develop program performance data to support policy decisions on future incentive programs with respect to energy.
+
+(3) Acquisition of photovoltaic solar electric systems.—
+
+(A) In general.—The program shall provide for the acquisition of photovoltaic solar electric systems and associated storage capability for use in public buildings.
+
+(B) Acquisition levels.—The acquisition of photovoltaic electric systems shall be at a level substantial enough to allow use of low-cost production techniques with at least 150 megawatts (peak) cumulative acquired during the 5 years of the program.
+
+(4) Administration.—The Administrator shall administer the program and shall—
+
+(A) issue such rules and regulations as may be appropriate to monitor and assess the performance and operation of photovoltaic solar electric systems installed pursuant to this subsection;
+
+(B) develop innovative procurement strategies for the acquisition of such systems; and
+
+(C) transmit to Congress an annual report on the results of the program.
+
+(b) Photovoltaic Systems Evaluation Program.—
+
+(1) In general.—Not later than 60 days after the date of enactment of this section, the Administrator shall establish a photovoltaic solar energy systems evaluation program to evaluate such photovoltaic solar energy systems as are required in public buildings.
+
+(2) Program requirement.—In evaluating photovoltaic solar energy systems under the program, the Administrator shall ensure that such systems reflect the most advanced technology.
+
+(c) Authorization of Appropriations.—
+
+(1) Photovoltaic energy commercialization program.—There are authorized to be appropriated to carry out subsection (a) $50,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
+
+(2) Photovoltaic systems evaluation program.—There are authorized to be appropriated to carry out subsection (b) $10,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
+
+(Added Pub. L. 109–58, title II, §204(a), Aug. 8, 2005, 119 Stat. 653.)
+
+References in Text
+
+The date of enactment of this section, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 CHAPTER 33—ACQUISITION, CONSTRUCTION, AND ALTERATION
 
@@ -10683,6 +10733,18 @@ The text of 40:129a (words before last proviso) is omitted as obsolete.
 The text of 40:129a (last proviso) is omitted because of section 173(a)(1) of the District of Columbia Court Reform and Criminal Procedure Act of 1970 (Public Law 91–358, 84 Stat. 591). The text of 40:130a is omitted as unnecessary.
 
 In subsection (b), the words “chief judge” are substituted for “chief justice” in both places because of section 32(a) of the Act of June 25, 1948 (ch. 646, 62 Stat. 991), as amended by section 127 of the Act of May 24, 1949 (ch. 139, 63 Stat. 107).
+
+William B. Bryant Annex Designation
+
+Pub. L. 109–101, §§3, 4, Nov. 11, 2005, 119 Stat. 2171, provided that:
+
+“SEC. 3. DESIGNATION OF WILLIAM B. BRYANT ANNEX.
+
+“The annex, located on the 200 block of 3rd Street Northwest in the District of Columbia, to the E. Barrett Prettyman Federal Building and United States Courthouse located at Constitution Avenue Northwest in the District of Columbia shall be known and designated as the ‘William B. Bryant Annex’.
+
+“SEC. 4. REFERENCES.
+
+“Any reference in a law, map, regulation, document, paper, or other record of the United States to the annex referred to in section 3 shall be deemed to be a reference to the ‘William B. Bryant Annex’.”
 
 E. Barrett Prettyman United States Courthouse Designation
 

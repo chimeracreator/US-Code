@@ -467,6 +467,8 @@ Continuation of Mail Delivery Services
 
 Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the following appropriations acts:
 
+Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490.
+
 Pub. L. 108–447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3264.
 
 Pub. L. 108–199, div. F, title IV, Jan. 23, 2004, 118 Stat. 340.
@@ -886,9 +888,9 @@ as determined by the Postal Service under regulations that it shall prescribe.
 
 (g) For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-(h) This section shall cease to be effective after December 31, 2005.
+(h) This section shall cease to be effective after December 31, 2007.
 
-(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346.)
+(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, §1, Nov. 11, 2005, 119 Stat. 2170.)
 
 References in Text
 
@@ -1934,7 +1936,7 @@ Pub. L. 108–18, §3, Apr. 23, 2003, 117 Stat. 627, provided that:
 
 “(1) In general.—The amounts representing any savings accruing to the Postal Service in any fiscal year as a result of the enactment of this Act shall be computed by the Office of Personnel Management for each such fiscal year in accordance with paragraph (2).
 
-(2) Methodology.—Not later than July 31, 2003, the Office of Personnel Management shall—
+“(2) Methodology.—Not later than July 31, 2003, the Office of Personnel Management shall—
 
 “(A) formulate a plan specifically enumerating the actuarial methods and assumptions by which the Office shall make its computations under paragraph (1); and
 
@@ -5310,7 +5312,7 @@ For purposes of this chapter—
 
 (4) “freight forwarder” means any regulated freight forwarder which holds itself out to the general public as a carrier to transport or provide transportation of property as authorized by a registration issued by the Board;
 
-(5) “motor carrier” means a motor carrier, except a passenger-carrying motor vehicle of such a carrier, within the meaning of section 13102(12) of title 49, that holds a registration issued by the Board;
+(5) “motor carrier” means a motor carrier, except a passenger-carrying motor vehicle of such a carrier, within the meaning of section 13102(12) 1 of title 49, that holds a registration issued by the Board;
 
 (6) “person” includes any person other than a carrier holding a certificate or registration issued by the Board; and
 
@@ -5318,10 +5320,16 @@ For purposes of this chapter—
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(A)–(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–454, §3(b)(2), Oct. 15, 1980, 94 Stat. 2012; Pub. L. 97–261, §6(d)(4), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4(3), Oct. 22, 1986, 100 Stat. 2993; Pub. L. 104–88, title III, §307(3)–(9), (14), Dec. 29, 1995, 109 Stat. 946.)
 
+References in Text
+
+Par. (12) of section 13102 of title 49, referred to in par. (5), was redesignated par. (14) by Pub. L. 109–59, title IV, §4202(b), Aug. 10, 2005, 119 Stat. 1751.
+
 Effective Date
 
 Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors.
 See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+1 See References in Text note below.
 
 §5202. Applicability
 
@@ -5420,6 +5428,27 @@ Upon petition by the Postal Service, the Board shall determine and fix carload o
 A carrier shall perform the service at the rates so determined when requested to do so and under the conditions prescribed by the Postal Service.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 770; Pub. L. 104–88, title III, §307(14), Dec. 29, 1995, 109 Stat. 946.)
+
+§5210. Intermodal transportation
+
+The Postal Service may permit a carrier to perform mail transportation by any form of transportation it deems appropriate at rates or compensation not exceeding those allowable for similar service by the designated form of transportation.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771.)
+
+§5211. Statistical studies
+
+The Postal Service may arrange for weighing and measuring mail transported on carrier mail routes and make other computations for statistical and administrative purposes to carry out the purposes of this chapter.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771.)
+
+§5212. Special contracts
+
+The Postal Service may enter into special contracts with any carrier or person, without advertising, for bids and for periods not in excess of 4 years.
+It may contract to pay lower rates or compensation or, where in its judgment conditions warrant, higher rates or compensation than those determined or fixed by the Board.
+The fact that the Board has not prescribed rates or compensation for the carrier involved, under section 5207 of this title, shall not preclude execution of a contract under this section.
+Such contracts may be negotiated only after reasonable notice has been posted in advance in post offices on the post roads to be served, and other carriers or persons have been given an opportunity to offer to negotiate for the transportation of mail.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771; Pub. L. 104–88, title III, §307(14), Dec. 29, 1995, 109 Stat. 946.)
 
 §5213. Carrier operations; receipts; expenditures
 

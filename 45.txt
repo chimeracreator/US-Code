@@ -8262,6 +8262,12 @@ Prerequisites for assistance.
 (h)
 Conditions of assistance.
 
+(i)
+Time limit for approval or disapproval.
+
+(j)
+Repayment schedules.
+
 823.
 Administration of direct loans and loan guarantees.
 
@@ -8299,7 +8305,10 @@ Breach of conditions.
 Attachment.
 
 (k)
-Investigation charge.
+Evaluation charge.
+
+(l)
+Fees and charges.
 
 824 to 835. Repealed or Transferred.
 
@@ -8390,11 +8399,11 @@ As used in this Act, unless the context otherwise indicates, the term—
 
 (6) “Office” means the Rail Services Planning Office of the Commission;
 
-(7) “railroad” means a rail carrier subject to part A of subtitle IV of title 49, and includes the National Railroad Passenger Corporation; and
+(7) “railroad” has the meaning given that term in section 20102 of title 49; and
 
 (8) “Secretary” means the Secretary of Transportation or his designated representative.
 
-(Pub. L. 94–210, title I, §102, Feb. 5, 1976, 90 Stat. 33; Pub. L. 97–468, title VI, §615(b)(2), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 104–88, title III, §330(1), Dec. 29, 1995, 109 Stat. 953.)
+(Pub. L. 94–210, title I, §102, Feb. 5, 1976, 90 Stat. 33; Pub. L. 97–468, title VI, §615(b)(2), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 104–88, title III, §330(1), Dec. 29, 1995, 109 Stat. 953; Pub. L. 109–59, title IX, §9003(a), Aug. 10, 2005, 119 Stat. 1921.)
 
 References in Text
 
@@ -8481,7 +8490,19 @@ Pub. L. 105–178, title VII, §7203(b)(2), June 9, 1998, 112 Stat. 477, provide
 
 (a) General authority
 
-The Secretary may provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least 1 railroad.
+The Secretary shall provide direct loans and loan guarantees to—
+
+(1) State and local governments;
+
+(2) interstate compacts consented to by Congress under section 410(a) of the Amtrak Reform and Accountability Act of 1997 (49 U.S.C. 24101 note);
+
+(3) government sponsored authorities and corporations;
+
+(4) railroads;
+
+(5) joint ventures that include at least one railroad; and
+
+(6) solely for the purpose of constructing a rail connection between a plant or facility and a second rail carrier, limited option rail freight shippers that own or operate a plant or other facility that is served by no more than a single railroad.
 
 (b) Eligible purposes
 
@@ -8511,14 +8532,19 @@ In granting applications for direct loans or guaranteed loans under this section
 
 (4) enable United States companies to be more competitive in international markets;
 
-(5) are endorsed by the plans prepared under section 135 of title 23 by the State or States in which they are located; or
+(5) are endorsed by the plans prepared under section 135 of title 23 by the State or States in which they are located;
 
-(6) preserve or enhance rail or intermodal service to small communities or rural areas.
+(6) preserve or enhance rail or intermodal service to small communities or rural areas;
+
+(7) enhance service and capacity in the national rail system; or
+
+(8) would materially alleviate rail capacity problems which degrade the provision of service to shippers and would fulfill a need in the national transportation system.
 
 (d) Extent of authority
 
-The aggregate unpaid principal amounts of obligations under direct loans and loan guarantees made under this section shall not exceed $3,500,000,000 at any one time.
-Of this amount, not less than $1,000,000,000 shall be available solely for projects primarily benefiting freight railroads other than Class I carriers.
+The aggregate unpaid principal amounts of obligations under direct loans and loan guarantees made under this section shall not exceed $35,000,000,000 at any one time.
+Of this amount, not less than $7,000,000,000 shall be available solely for projects primarily benefiting freight railroads other than Class I carriers.
+The Secretary shall not establish any limit on the proportion of the unused amount authorized under this subsection that may be used for 1 loan or loan guarantee.
 
 (e) Rates of interest
 
@@ -8541,15 +8567,17 @@ In no event shall the aggregate of appropriations of budget authority and credit
 
 The Secretary shall determine the amount required for credit risk premiums under this subsection on the basis of—
 
-(A) the circumstances of the applicant, including the amount of collateral offered;
+(A) the circumstances of the applicant, including the amount of collateral offered, if any;
 
 (B) the proposed schedule of loan disbursements;
 
 (C) historical data on the repayment history of similar borrowers;
 
-(D) consultation with the Congressional Budget Office; and
+(D) consultation with the Congressional Budget Office;
 
-(E) any other factors the Secretary considers relevant.
+(E) the size and characteristics of the cohort of which the loan or loan guarantee is a member; and
+
+(F) any other factors the Secretary considers relevant.
 
 (3) Payment of premiums
 
@@ -8559,6 +8587,8 @@ Credit risk premiums under this subsection shall be paid to the Secretary before
 
 In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans.
 When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis.
+A cohort may include loans and loan guarantees.
+The Secretary shall not establish any limit on the proportion of a cohort that may be used for 1 loan or loan guarantee.
 
 (g) Prerequisites for assistance
 
@@ -8576,19 +8606,51 @@ The Secretary shall not make a direct loan or loan guarantee under this section 
 
 (h) Conditions of assistance
 
-The Secretary shall, before granting assistance under this section, require the applicant to agree to such terms and conditions as are sufficient, in the judgment of the Secretary, to ensure that, as long as any principal or interest is due and payable on such obligation, the applicant, and any railroad or railroad partner for whose benefit the assistance is intended—
+(1) The Secretary shall, before granting assistance under this section, require the applicant to agree to such terms and conditions as are sufficient, in the judgment of the Secretary, to ensure that, as long as any principal or interest is due and payable on such obligation, the applicant, and any railroad or railroad partner for whose benefit the assistance is intended—
 
-(1) will not use any funds or assets from railroad or intermodal operations for purposes not related to such operations, if such use would impair the ability of the applicant, railroad, or railroad partner to provide rail or intermodal services in an efficient and economic manner, or would adversely affect the ability of the applicant, railroad, or railroad partner to perform any obligation entered into by the applicant under this section;
+(A) will not use any funds or assets from railroad or intermodal operations for purposes not related to such operations, if such use would impair the ability of the applicant, railroad, or railroad partner to provide rail or intermodal services in an efficient and economic manner, or would adversely affect the ability of the applicant, railroad, or railroad partner to perform any obligation entered into by the applicant under this section;
 
-(2) will, consistent with its capital resources, maintain its capital program, equipment, facilities, and operations on a continuing basis; and
+(B) will, consistent with its capital resources, maintain its capital program, equipment, facilities, and operations on a continuing basis; and
 
-(3) will not make any discretionary dividend payments that unreasonably conflict with the purposes stated in subsection (b) of this section.
+(C) will not make any discretionary dividend payments that unreasonably conflict with the purposes stated in subsection (b) of this section.
 
-(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473.)
+(2) The Secretary shall not require an applicant for a direct loan or loan guarantee under this section to provide collateral.
+Any collateral provided or thereafter enhanced shall be valued as a going concern after giving effect to the present value of improvements contemplated by the completion and operation of the project.
+The Secretary shall not require that an applicant for a direct loan or loan guarantee under this section have previously sought the financial assistance requested from another source.
+
+(3) The Secretary shall require recipients of direct loans or loan guarantees under this section to comply with—
+
+(A) the standards of section 24312 of title 49, as in effect on September 1, 2002, with respect to the project in the same manner that the National Railroad Passenger Corporation is required to comply with such standards for construction work financed under an agreement made under section 24308(a) of that title; and
+
+(B) the protective arrangements established under section 836 of this title, with respect to employees affected by actions taken in connection with the project to be financed by the loan or loan guarantee.
+
+(i) Time limit for approval or disapproval
+
+Not later than 90 days after receiving a complete application for a direct loan or loan guarantee under this section, the Secretary shall approve or disapprove the application.
+
+(j) Repayment schedules
+
+(1) In general
+
+The Secretary shall establish a repayment schedule requiring payments to commence not later than the sixth anniversary date of the original loan disbursement.
+
+(2) Accrual
+
+Interest shall accrue as of the date of disbursement, and shall be amortized over the remaining term of the loan beginning at the time the payments begin.
+
+(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473; amended Pub. L. 109–59, title IX, §9003(b)–(g), Aug. 10, 2005, 119 Stat. 1921–1923.)
+
+References in Text
+
+Section 410(a) of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (a)(2), is section 410(a) of Pub. L. 105–134, which is set out as a note under section 24101 of Title 49, Transportation.
 
 Prior Provisions
 
 A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, §803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
+
+Substantive Criteria and Standards
+
+Pub. L. 109–59, title IX, §9003(j), Aug. 10, 2005, 119 Stat. 1923, provided that: “Not later than 30 days after the date of enactment of this Act [Aug. 10, 2005], the Secretary of Transportation shall publish in the Federal Register and post on the Department of Transportation Web site the substantive criteria and standards used by the Secretary to determine whether to approve or disapprove applications submitted under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822). The Secretary of Transportation shall ensure adequate procedures and guidelines are in place to permit the filing of complete applications within 30 days of such publication.”
 
 §823. Administration of direct loans and loan guarantees
 
@@ -8668,12 +8730,17 @@ The Attorney General shall commence a civil action in an appropriate Federal cou
 
 No attachment or execution may be issued against the Secretary, or any property in the control of the Secretary, prior to the entry of final judgment to such effect in any State, Federal, or other court.
 
-(k) Investigation charge
+(k) Evaluation charge
 
-The Secretary may charge and collect from each applicant a reasonable charge for appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings.
+The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings.
 Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation.
+Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.
 
-(Pub. L. 94–210, title V, §503, as added and amended Pub. L. 105–178, title VII, §7203(a)(1), (4), June 9, 1998, 112 Stat. 475, 477.)
+(l) Fees and charges
+
+Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under section 822 of this title.
+
+(Pub. L. 94–210, title V, §503, as added and amended Pub. L. 105–178, title VII, §7203(a)(1), (4), June 9, 1998, 112 Stat. 475, 477; Pub. L. 109–59, title IX, §9003(h), (i), Aug. 10, 2005, 119 Stat. 1923.)
 
 Codification
 
@@ -9255,6 +9322,144 @@ Each person who is an employee of the Milwaukee Railroad on September 30, 1979, 
 For purposes of this section, a rail carrier shall not be considered to be hiring new employees when it recalls any of its own furloughed employees.
 
 (Pub. L. 96–101, §8, Nov. 4, 1979, 93 Stat. 740; Pub. L. 97–468, title II, §236(a), Jan. 14, 1983, 96 Stat. 2547.)
+
+Abolition of Interstate Commerce Commission and Transfer of Functions
+
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
+Exemption of National Railroad Passenger Corporation in Hiring Qualified Train and Engine Employees
+
+Section inapplicable to National Railroad Passenger Corporation in hiring of qualified train and engine employees holding seniority rights to work in intercity rail passenger service in connection with the assumption by such Corporation of functions previously performed under contract by other carriers, see section 4011(c) of Pub. L. 99–272, set out as a note under section 797b of this title.
+
+§908. Employee protection agreements
+
+(a) Agreement between Milwaukee Railroad and labor organizations
+
+The Milwaukee Railroad and labor organizations representing the employees of such railroad may, not later than 20 days after November 4, 1979, enter into an agreement providing protection for employees of such railroad who are adversely affected as a result of a reduction in service by such railroad or a restructuring transaction carried out by such railroad.
+Such employee protection may include, but need not be limited to, interim employee assistance, moving expenses, employee relocation incentive compensation, and separation allowances.
+
+(b) Submission of matter to National Mediation Board
+
+If the Milwaukee Railroad and the labor organizations representing the employees of such railroad are unable to enter into an employee protection agreement under subsection (a) of this section within 20 days after November 4, 1979, the parties shall immediately submit the matter to the National Mediation Board.
+The National Mediation Board shall attempt, by mediation, to bring the parties to an agreement with respect to employee protection no later than 40 days after November 4, 1979.
+
+(c) Fair and equitable agreements
+
+(1) If the National Mediation Board is unable to bring the parties to an agreement under subsection (b) of this section within 40 days after November 4, 1979, the Milwaukee Railroad and the labor organizations representing the employees of such railroad shall immediately enter into an employee protection agreement that is fair and equitable.
+
+(2) If an employee protection agreement is entered into under this subsection, any claim of an employee for benefits and allowances under such agreement shall be filed with the Board in such time and manner as the Board by regulation shall prescribe.
+The Board shall determine the amount for which such employee is eligible under such agreement and shall certify such amount to the Milwaukee Railroad for payment.
+
+(d) Payment of benefits and allowances
+
+Benefits and allowances under an employee protection agreement entered into under this section shall be paid by the Milwaukee Railroad in accordance with section 914 of this title, and claims of employees for such benefits and allowances shall be treated as administrative expenses of the estate of the Milwaukee Railroad.
+
+(Pub. L. 96–101, §9, Nov. 4, 1979, 93 Stat. 741.)
+
+§909. Supplementary unemployment insurance
+
+(a) Eligible employees
+
+Any employee of the Milwaukee Railroad—
+
+(1) who (A) is employed by the restructured Milwaukee Railroad, and (B) is separated from that employment by reason of any reduction in service by such railroad prior to April 1, 1984; or
+
+(2) who (A) is separated from his employment with the Milwaukee Railroad in connection with a restructuring transaction carried out by such railroad, and obtains employment, prior to April 1, 1981, with another rail carrier, and (B) is separated from employment with such other carrier prior to April 1, 1984,
+
+shall be entitled to receive monthly supplementary unemployment insurance in accordance with the provisions of this section.
+
+(b) Period of payment
+
+Each employee described in subsection (a) of this section shall be entitled to receive supplementary unemployment insurance during each month in which such employee is not employed, for all or a portion of such month, by the Milwaukee Railroad or another rail carrier.
+Each such employee shall be entitled to receive such insurance for a total of not more than 36 months, except that—
+
+(1) the period of entitlement for assistance under this section shall not exceed the employee's total months of service with the Milwaukee Railroad; and
+
+(2) no compensation shall be provided under this section after April 1, 1984, unless it is necessary in order to provide an employee with at least 8 months of such insurance, but after such date, such employee only shall receive such 8-month minimum if such employee is not employed continuously after such date.
+
+(c) Amount of payment
+
+Supplementary unemployment insurance under this section shall be payable to an employee on a monthly basis in an amount equal to—
+
+(1) eighty percent of such employee's average monthly normal compensation from employment with the Milwaukee Railroad during the period beginning June 1, 1977, and ending on November 4, 1979, less
+
+(2) the sum of (A) the amount of any benefits payable to such employee for such month under the Railroad Unemployment Insurance Act [45 U.S.C. 351 et seq.] or under any State unemployment insurance program, and (B) the amount of any earnings of such employee for such month from employment or self-employment of any kind.
+
+(d) Filing of application
+
+An application for supplementary unemployment insurance shall be filed with the Board in such time and manner as the Board by regulation shall prescribe.
+
+(e) Insurance as compensation
+
+Any supplementary unemployment insurance received by any employee pursuant to this section shall be considered to be compensation solely—
+
+(1) for purposes of the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.); and
+
+(2) for purposes of determining the compensation received by such employee in any base year under the Railroad Unemployment Insurance Act [45 U.S.C. 351 et seq.].
+
+(f) Employees not covered
+
+(1) The provisions of this section shall not apply to an employee in the event of his resignation, retirement, or discharge for cause from the employment of any rail carrier.
+
+(2) An employee shall not be entitled to receive supplementary unemployment insurance under this section if he has failed to exhaust all seniority rights or other employment rights under applicable collective bargaining agreements.
+
+(3) An employee shall not be entitled to receive supplementary unemployment insurance under this section for any month or portion of a month in which such employee is unemployed due to normal seasonal unemployment patterns in the railroad industry.
+
+(g) Furloughed employees
+
+For purposes of this section, any employee of the Milwaukee Railroad who is furloughed shall be considered to be separated from his employment.
+
+(Pub. L. 96–101, §10(a)–(g), Nov. 4, 1979, 93 Stat. 741, 742.)
+
+References in Text
+
+The Railroad Unemployment Insurance Act, referred to in subsecs. (c)(2) and (e)(2), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title.
+For complete classification of this Act to the Code, see section 367 of this title and Tables.
+
+The Railroad Retirement Act of 1974, referred to in subsec. (e)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of this title.
+For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of this title, section 231t of this title, and Tables.
+
+Codification
+
+Section is comprised of subsecs. (a) to (g) of section 10 of Pub. L. 96–101. Subsec. (h) of section 10 amended section 231f(b)(7) of this title.
+
+§910. Repealed.
+Pub. L. 97–35, title XI, §1144(b), Aug. 13, 1981, 95 Stat. 669
+
+Section, Pub. L. 96–101, §11, Nov. 4, 1979, 93 Stat. 742, set forth provisions respecting employment of Milwaukee Railroad employees.
+See section 797c of this title.
+
+Effective Date of Repeal
+
+Repeal effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as an Effective Date note under section 1101 of this title.
+
+§911. New career training assistance
+
+(a) Eligible employees
+
+Any employee who elects to receive a separation allowance from the Milwaukee Railroad under an employee protection agreement entered into under section 908 of this title shall be entitled to receive from the Board expenses for training in qualified institutions for new career opportunities.
+
+(b) Commencement of training as condition
+
+To be entitled for assistance under this section, an employee must begin his course of training within two years following the date of his separation from employment with the Milwaukee Railroad.
+
+(c) Filing of application; Board determination
+
+Entitlement to expenses for assistance under this section shall be determined by the Board on the basis of an application therefor filed by an employee with the Board.
+
+(d) Assistance prohibited after April 1, 1984
+
+No assistance may be provided under this section after April 1, 1984.
+
+(e) Definitions
+
+As used in this section—
+
+(1) the term “expenses” means actual expenses paid for room, board, tuition, fees, or educational material in an amount not to exceed $3,000; and
+
+(2) the term “qualified institution” means an educational institution accredited for payment by the Veterans’ Administration under chapter 36 of title 38, or a State-accredited institution which has been in existence for not less than two years.
+
+(Pub. L. 96–101, §12, Nov. 4, 1979, 93 Stat. 743; Pub. L. 96–254, title I, §119(f), May 30, 1980, 94 Stat. 408.)
 
 Change of Name
 
@@ -10340,7 +10545,7 @@ References in Text
 
 The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552b of Title 5 and Tables.
+The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 552b of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
@@ -10976,11 +11181,13 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 Alaska Railroad
 
-Pub. L. 105–178, title VII, §7204, June 9, 1998, 112 Stat. 477, provided that:
+Pub. L. 109–59, title IX, §9006, Aug. 10, 2005, 119 Stat. 1925, provided that:
 
-“(a) Grants.—The Secretary may make grants to the Alaska Railroad for capital rehabilitation of and improvements to its passenger services.
+“(a) Grants.—The Secretary [of Transportation] shall make grants to the Alaska Railroad for capital rehabilitation and improvements benefiting its passenger operations.
 
-“(b) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,250,000 for each of fiscal years 1998 through 2003.”
+“(b) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary.”
+
+Similar provisions were contained in Pub. L. 105–178, title VII, §7204, June 9, 1998, 112 Stat. 477.
 
 1 So in original.
 Probably should be “that part,”.
@@ -11072,7 +11279,7 @@ References in Text
 
 The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, Government Organization and Employees, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552b of Title 5 and Tables.
+The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, Government Organization and Employees, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 552b of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
@@ -11862,8 +12069,4 @@ The Conrail Privatization Act, referred to in subsec. (e)(2), is subtitle A (§�
 Codification
 
 This section was enacted as part of the Omnibus Budget Reconciliation Act of 1986, and not as part of subtitle A of title IV of that Act, known as the Conrail Privatization Act, which comprises this chapter.
-
-Amendments
-
-1986—Subsecs. (a)(1), (2), (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
