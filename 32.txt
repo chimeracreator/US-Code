@@ -60,7 +60,7 @@ Enlistment, see sections 12102 and 12107 of Title 10.
 
 Inactive status of reserves assigned to inactive Army National Guard or inactive Air National Guard, see section 10141 of Title 10.
 
-Officers, discharge, see sections 3820 and 8820 of Title 10.
+Officers, discharge, see section 14907 of Title 10.
 
 Ready Reserve as including units and members of, see section 10145 of Title 10.
 
@@ -174,9 +174,13 @@ Historical and Revision Notes
 	101(4)	50:1112(a) (for definition purposes).	June 3, 1916, ch. 134, §117, 39 Stat. 212.
 	101(5)
 
-101(6)
+ 
 
-101(7)
+ 101(6)
+
+ 
+
+ 101(7)
 
 101(8)
 
@@ -266,7 +270,7 @@ Whenever Congress determines that more units and organizations are needed for th
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 597.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	102	50:921(b).	July 9, 1952, ch. 608, §201(b), 66 Stat. 482.
 
 The words “The Congress further declares * * * as expressed in the National Defense Act of 1916 as amended” and “It is the intent of Congress that” are omitted as surplusage.
@@ -292,7 +296,7 @@ The Army National Guard of each State and Territory, Puerto Rico, and the Distri
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 597; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	103	32:9.	July 9, 1918, ch. 143 (proviso of 13th par. under “National Guard”), 40 Stat. 875.
 
 The word “members” is substituted for the words “officers and enlisted men”. The word “Regular” is omitted, since the organization is now prescribed for the Army, and the Regular Army is only a personnel category.
@@ -302,8 +306,6 @@ Cross References
 Appointment of National Guard officers as Reserve officers upon Federal recognition, see sections 12211 and 12212 of Title 10, Armed Forces.
 
 Army Staff, see section 3031 et seq. of Title 10.
-
- 
 
 §104. Units: location; organization; command
 
@@ -327,7 +329,7 @@ However, the commanding officer of a unit organized wholly within a State or Ter
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 598; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), (2), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	104(a)104(b)
 
 104(c)
@@ -409,7 +411,7 @@ The Secretary of the Air Force has a similar duty with respect to the Air Nation
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 598; July 30, 1977, Pub. L. 95–79, title VIII, §804(a), 91 Stat. 333; Oct. 23, 1992, Pub. L. 102–484, div. A, title XI, §1122, 106 Stat. 2540.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	105(a)105(b)
 
 	32:15 (1st sentence).32:15 (less 1st sentence).
@@ -434,7 +436,7 @@ Sums will be appropriated annually, out of any money in the Treasury not otherwi
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 599.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	106	32:21.	June 3, 1916, ch. 134, §67 (1st par.), 39 Stat. 199.
 
 The words “issue of” are substituted for the words “the expense of providing”. The words “for issue to the National Guard” and “pertaining to said guard as are or may be” are omitted as surplusage.
@@ -474,7 +476,9 @@ Historical and Revision Notes
 1956 Act	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	107(a)107(b)
 
-107(c)
+ 
+
+ 107(c)
 
 	32:22 (less proviso).32:22 (proviso, less words between 5th and 7th semicolons).
 
@@ -511,10 +515,61 @@ If, within a time fixed by the President, a State fails to comply with a require
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 600; Oct. 5, 1994, Pub. L. 103–337, div. A, title IX, §904(c), 108 Stat. 2827.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	108	32:24.	June 3, 1916, ch. 134, §116, 39 Stat. 212.
 
 The words “does not comply” are substituted for the words “shall * * * have failed or refused to comply”. The words “a requirement of, or regulation prescribed under, this title” are substituted for the words “any requirement of this title, or any regulation promulgated thereunder and in aid thereof by the President or the Secretary of the Army”. The words “money or any other aid” are substituted for the words “pecuniary or other aid”. The words “or provided by this title or any other” are omitted as surplusage.
+
+§109. Maintenance of other troops
+
+(a) In time of peace, a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia may maintain no troops other than those of its National Guard and defense forces authorized by subsection (c).
+
+(b) Nothing in this title limits the right of a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia to use its National Guard or its defense forces authorized by subsection (c) within its borders in time of peace, or prevents it from organizing and maintaining police or constabulary.
+
+(c) In addition to its National Guard, if any, a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia may, as provided by its laws, organize and maintain defense forces.
+A defense force established under this section may be used within the jurisdiction concerned, as its chief executive (or commanding general in the case of the District of Columbia) considers necessary, but it may not be called, ordered, or drafted into the armed forces.
+
+(d) A member of a defense force established under subsection (c) is not, because of that membership, exempt from service in the armed forces, nor is he entitled to pay, allowances, subsistence, transportation, or medical care or treatment, from funds of the United States.
+
+(e) A person may not become a member of a defense force established under subsection (c) if he is a member of a reserve component of the armed forces.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Sept. 2, 1958, Pub. L. 85–861, §2(2), 72 Stat. 1542; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+
+Historical and Revision Notes
+1956 Act	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	109(a)
+
+ 
+
+ 
+
+ 109(b)
+
+	32:194(a) (1st sentence).32:194(c) (as applicable to 32:194(a) (1st sentence)).
+
+32:194(a) (less 1st sentence).
+
+32:194(c) (less applicability to 32:194(a) (1st sentence)). 
+
+	June 3, 1916, ch. 134, §61 (less (b)); restated Oct. 21, 1940, ch. 904 (less last 3 provisos); restated Aug. 18, 1941, ch. 363 (less last 3 provisos); restated Oct. 1, 1942, ch. 570 (less (b)); restated June 26, 1944, ch. 279 (less (b)); restated Sept. 27, 1950, ch. 1058 (less (b)), 64 Stat. 1072.
+
+In subsection (a), the words “those of its National Guard” are substituted for the words “as authorized in accordance with the organization prescribed under this Act”.
+
+In subsections (a) and (b), the provisions of 32:194(c) are exhausted by the enumeration of the jurisdictions named.
+
+In subsection (b), the words “Nothing in this title limits” are substituted for the words “Nothing contained in this Act shall be construed to limit”.
+
+1958 Act	Section of title 32	Source (U.S. Code)	Source (Statutes at Large)
+	109(c)	32 App.:194(b) (less 4th and last sentences). 	Aug. 11, 1955, ch. 802, 69 Stat. 686.
+	109(d)	32 App.:194(b) (4th sentence).	
+	109(e)	32 App.:194(b) (last sentence).	
+
+In subsection (c), the words “heretofore authorized by this Act [sic]”, “as such”, and “in any manner” are omitted as surplusage.
+
+In subsection (d), the words “under any Federal law” are omitted since only Federal law could require service in the armed forces.
+The word “military” is omitted as surplusage.
+
+In subsection (e), the words “defense force” are substituted for the words “organized militia” for accuracy and to conform to subsection (c). The words “reserve component of the armed forces” are substituted for the words “Reserve Forces as defined in section 901 of Title 50”, since that term is not defined in the Armed Forces Reserve Act of 1952.
 
 §110. Regulations
 
@@ -522,94 +577,100 @@ The President shall prescribe regulations, and issue orders, necessary to organi
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 600.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	110	32:17.	June 3, 1916, ch. 134, §118, 39 Stat. 213.
 
 The word “rules” is omitted as covered by the word “regulations”. The words “National Guard” are substituted for the words “the militia provided for in this title”. The words “for the thorough” are omitted as surplusage.
 
 §111. Suspension of certain provisions of this title
 
-In time of war, or of emergency declared by Congress, the President may suspend the operation of any provision of sections 307(e), 309, 310, and 323(d) and (e) of this title with respect to the Army National Guard or the Air National Guard.
+In time of war, or of emergency declared by Congress, the President may suspend the operation of any provision of sections 307(e), 309, 310, and 323(d) and (e) 1 of this title with respect to the Army National Guard or the Air National Guard.
 
 (Added Pub. L. 85–861, §2(3), Sept. 2, 1958, 72 Stat. 1543.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	111	50:1199 (as applicable to National Guard). 	Sept. 3, 1954, ch. 1257, §209 (as applicable to National Guard), 68 Stat. 1152.
 
 Reference to the exception in section 307(a) is omitted as unnecessary because a suspension of section 307(e) of this title, or of section 8365 or 8366 of Title 10, will in effect suspend that exception so far as it refers to the suspended section.
 A reference to the remainder of section 307(a) is omitted as unnecessary because the general rule that it states exists independently of that part of the source law for section 307(a) that is suspendible under this section.
 A reference to section 307(f) is omitted as unnecessary because a suspension of section 307(e) will in effect suspend section 307(f) so far as it applies to section 307(e). 50:1199 (2d sentence) is omitted as inapplicable to the National Guard.
 
+References in Text
+
+Section 323(e) of this title, referred to in text, was repealed by Pub. L. 103–337, div. A, title XVI, §1630(2), Oct. 5, 1994, 108 Stat. 2964.
+
 Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(11) of Ex. Ord.
 No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
+1 See References in Text note below.
+
 §112. Drug interdiction and counter-drug activities
 
-(a) Funding Assistance.—The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
+(a) Funding Assistance.—The Secretary of Defense may provide funds to the Governor of a State who submits to the Secretary a State drug interdiction and counter-drug activities plan satisfying the requirements of subsection (c). Such funds shall be used for—
 
-(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses of personnel of the National Guard of that State used for—
+(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses, as authorized by State law, of personnel of the National Guard of that State used, while not in Federal service, for the purpose of drug interdiction and counter-drug activities;
 
-(A) the purpose of drug interdiction and counter-drug activities; and
+(2) the operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities; and
 
-(B) the operation and maintenance of the equipment and facilities of the National Guard of that State used for that purpose; and
+(3) the procurement of services and leasing of equipment for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
 
-(2) the procurement of services and leasing of equipment for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
+(b) Use of Personnel Performing Full-Time National Guard Duty.—Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
 
-(b) Plan Requirements.—A plan referred to in subsection (a) shall—
+(c) Plan Requirements.—A State drug interdiction and counter-drug activities plan shall—
 
 (1) specify how personnel of the National Guard of that State are to be used in drug interdiction and counter-drug activities;
 
-(2) certify that those operations are to be conducted at a time when the personnel involved are not in Federal service; and
+(2) certify that those operations are to be conducted at a time when the personnel involved are not in Federal service;
 
-(3) certify that participation by National Guard personnel in those operations is service in addition to annual training required under section 502 of this title.
+(3) certify that participation by National Guard personnel in those operations is service in addition to training required under section 502 of this title;
 
-(c) Examination of Plan.—(1) Before funds are provided to the Governor of a State under this section, the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (b).
+(4) include a certification by the Attorney General of the State (or, in the case of a State with no position of Attorney General, a civilian official of the State equivalent to a State attorney general) that the use of the National Guard of the State for the activities proposed under the plan is authorized by, and is consistent with, State law; and
+
+(5) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
+
+(d) Examination of Plan.—(1) Before funds are provided to the Governor of a State under this section and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b), the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (c). The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.
 
 (2) Except as provided in paragraph (3), the Secretary shall carry out paragraph (1) in consultation with the Director of National Drug Control Policy.
 
 (3) Paragraph (2) shall not apply if—
 
-(A) the Governor of a State submits a plan under subsection (b) that is substantially the same as a plan submitted for that State for a previous fiscal year; and
+(A) the Governor of a State submits a plan under subsection (c) that is substantially the same as a plan submitted for that State for a previous fiscal year; and
 
-(B) funds were provided to the State pursuant to such plan.
+(B) pursuant to the plan submitted for a previous fiscal year, funds were provided to the State in accordance with subsection (a) or personnel of the National Guard of the State were ordered to perform full-time National Guard duty in accordance with subsection (b).
 
-(d) Statutory Construction.—Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
+(e) Exclusion From End-Strength Computation.—(1) Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.
 
-(e) Exclusion From End-Strength Computation.—(1) Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 517 and 524 1 of title 10.
+(2) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.
 
-(2) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.
+(f) End Strength Limitation.—(1) Except as provided in paragraph (2), at the end of a fiscal year there may not be more than 4000 members of the National Guard—
 
-(f) Definitions.—For purposes of this section:
+(A) on full-time National Guard duty under section 502(f) of this title to perform drug interdiction or counter-drug activities pursuant to an order to duty for a period of more than 180 days; or
 
-(1) The term “counter-drug activities” includes the use of National Guard personnel, while not in Federal service, in any law enforcement activities authorized by State and local law and requested by the Governor.
+(B) on duty under State authority to perform drug interdiction or counter-drug activities pursuant to an order to duty for a period of more than 180 days with State pay and allowances being reimbursed with funds provided under subsection (a)(1).
+
+(2) The Secretary of Defense may increase the end strength authorized under paragraph (1) by not more than 20 percent for any fiscal year if the Secretary determines that such an increase is necessary in the national security interests of the United States.
+
+(g) Statutory Construction.—Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
+
+(h) Definitions.—For purposes of this section:
+
+(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities authorized by the law of the State and requested by the Governor of the State.
 
 (2) The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
 
 (3) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926.)
-
-References in Text
-
-Section 524 of title 10, referred to in subsec. (e)(1), was renumbered section 12011 of title 10 by Pub. L. 103–337, div. A, title XVI, §1662(a)(2)(A), Oct. 5, 1994, 108 Stat. 2988.
+(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720.)
 
 Prior Provisions
 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, §1207(b).
 
-Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 Section Referred to in Other Sections
 
 This section is referred to in title 10 section 101.
-
-  
-
-1 See References in Text note below.
 
 CHAPTER 3—PERSONNEL
 
@@ -637,10 +698,10 @@ Federal recognition of officers: examination; certificate of eligibility.
 Federal recognition of officers: temporary recognition.
 
 309.
-Federal recognition of officers: Army National Guard; officers promoted to fill vacancies.
+Federal recognition of National Guard officers: officers promoted to fill vacancies.
 
 310.
-Federal recognition of officers: Army National Guard; automatic recognition.
+Federal recognition of National Guard officers: automatic recognition.
 
 312.
 Appointment oath.
@@ -698,7 +759,8 @@ Compelling attendance of accused and witnesses.
 333.
 Execution of process and sentence.
 
-[334, 335. Repealed.]
+[334, 335.
+Repealed.]
 
         
 
@@ -733,7 +795,7 @@ He becomes federally recognized upon enlisting in a federally recognized unit or
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 601.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	301	50:1113(a) (as applicable to enlisted members). 	July 9, 1952, ch. 608, §703(a) (as applicable to enlisted members), 66 Stat. 502.
 
 Cross References
@@ -762,7 +824,7 @@ This section is referred to in sections 323, 709 of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 601; Oct. 4, 1961, Pub. L. 87–378, §5(1), 75 Stat. 808.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	302	32:124.	June 3, 1916, ch. 134, §69; restated July 11, 1919, ch. 8 (20th par. under “National Guard”); restated June 4, 1920, ch. 227, subch. I, §37; restated June 6, 1924, ch. 275, §4; restated June 15, 1933, ch. 87, §7, 48 Stat. 156; July 9, 1952, ch. 608, §806(a), 66 Stat. 506.
 
 32:124 (1st proviso) is omitted as executed.
@@ -785,12 +847,12 @@ Under such regulations as the Secretary concerned may prescribe, a person enlist
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 601; Sept. 7, 1962, Pub. L. 87–649, §14e(1), 76 Stat. 502; Dec. 12, 1980, Pub. L. 96–513, title V, §515(2), 94 Stat. 2937.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	303(a)303(b)
 
 303(c)
 
-303(d)
+ 303(d)
 
 	32:132.32:133 (less proviso).
 
@@ -828,7 +890,7 @@ The oath may be taken before any officer of the National Guard of the State or T
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 602; Oct. 5, 1962, Pub. L. 87–751, §2, 76 Stat. 748; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	304	32:123.	June 3, 1916, ch. 134, §70; restated June 4, 1920, ch. 227, subch. I, §38; restated June 15, 1933, ch. 87, §8, 48 Stat. 156; June 19, 1935, ch. 277, §3, 49 Stat. 391; July 9, 1952, ch. 608, §806(b), 66 Stat. 506.
 
 The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “Each person” are substituted for the word “Men”. The words “____________ National Guard” are substituted for the words “National Guard (Air National Guard)”.
@@ -922,11 +984,19 @@ Historical and Revision Notes
 1956 Act	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	307(a)
 
-307(b)
+ 
 
-307(c)
+ 
 
-307(d)
+ 
+
+ 307(b)
+
+ 
+
+ 307(c)
+
+ 307(d)
 
 	32:113 (1st sentence).32:111 (37th through 54th words).
 
@@ -967,7 +1037,7 @@ Cross References
 
 Appointment of officers of Army National Guard and Air National Guard as Reserves for service as members of Army National Guard of United States and Air National Guard of United States, see sections 12211 and 12212 of Title 10, Armed Forces.
 
-Extension of recognition upon promotion in Air National Guard of United States without examination, see sections 8365, 8366, and 8376 of Title 10.
+Extension of recognition upon promotion in Army National Guard of United States and Air National Guard of United States without examination, see section 14316 of Title 10.
 
 Suspension of subsec. (e) of this section, see section 111 of this title.
 
@@ -975,7 +1045,7 @@ Transfer of officers from Army National Guard of United States and Air Force Nat
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 111, 308, 310 of this title; title 10 sections 8365, 8366, 8376, 14301, 14308, 14316.
+This section is referred to in sections 111, 308, 310 of this title; title 10 sections 14301, 14308, 14316.
 
 §308. Federal recognition of officers: temporary recognition
 
@@ -988,10 +1058,10 @@ If not sooner withdrawn or replaced by permanent recognition upon appointment as
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 603.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	308(a)
 
-308(b)
+ 308(b)
 
 	50:1114 (less 2d and 3d sentences).50:1114 (3d sentence).
 
@@ -1003,42 +1073,24 @@ The words “successfully”, “final determination of his eligibility for, and
 
 In subsection (b), the words “To be eligible for temporary Federal recognition under subsection (a), a person” are substituted for the words “However, a temporary extension of Federal recognition shall be granted only when the officer”. The words “the period of temporary recognition” are substituted for the words “such recognition”. The words “and obligations required of him” and “in the same grade” are omitted as surplusage.
 
-§309. Federal recognition of officers: Army National Guard; officers promoted to fill vacancies
+Section Referred to in Other Sections
 
-Each officer of the Army National Guard who is promoted to fill a vacancy in a federally recognized unit thereof, and who is eligible for promotion under section 3363(b) of title 10, shall be examined for Federal recognition in the grade to which he is promoted.
-However, a second lieutenant or first lieutenant of the Army National Guard who has served creditably for at least one year in a position prescribed to be filled by a captain, and who has not previously been federally recognized under this section, may be examined for Federal recognition in the next higher grade without regard to section 3363(b) of title 10.
-
-(Added Pub. L. 85–861, §2(7), Sept. 2, 1958, 72 Stat. 1543; amended Pub. L. 103–337, div. A, title XVI, §1630(1), Oct. 5, 1994, 108 Stat. 2963.)
-
-Amendment of Section
-
-Pub. L. 103–337, div. A, title XVI, §§1630(1), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, provided that, effective Oct. 1, 1996, this section is amended to read as follows:
+This section is referred to in title 10 section 1370.
 
 §309. Federal recognition of National Guard officers: officers promoted to fill vacancies
 
 Each officer of the National Guard who is promoted to fill a vacancy in a federally recognized unit of the National Guard, and who has been on the reserve active-status list or the active-duty list of the Army or the Air Force for at least one year and has completed the minimum years of service in grade specified in section 14303 of title 10, shall be examined for Federal recognition in the grade to which the officer is promoted.
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+(Added Pub. L. 85–861, §2(7), Sept. 2, 1958, 72 Stat. 1543; amended Pub. L. 103–337, div. A, title XVI, §1630(1), Oct. 5, 1994, 108 Stat. 2963.)
+
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	309	50:1251.	Sept. 3, 1954, ch. 1257, §319, 68 Stat. 1160.
 
 The words “authorized under section 1227(a) of this title” are omitted as surplusage.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 111, 310 of this title; title 10 sections 3363, 3385.
-
-§310. Federal recognition of officers: Army National Guard; automatic recognition
-
-(a) Notwithstanding sections 307 and 309 of this title, if a second lieutenant of the Army National Guard is promoted to the grade of first lieutenant to fill a vacancy in a federally recognized unit thereof, Federal recognition is automatically extended to him in the grade of first lieutenant, effective as of the date on which he completes three years of service computed under section 3360(a) of title 10.
-
-(b) Notwithstanding sections 307 and 309 of this title, if an officer of the Army Reserve in a reserve grade above second lieutenant is appointed in the next higher grade in the Army National Guard to fill a vacancy in a federally recognized unit thereof, Federal recognition is automatically extended to him in the grade in which he is so appointed in the Army National Guard, if he has been recommended for promotion to the grade concerned under section 3366, 3367, 3370, or 3383 of title 10 and has remained in an active status since he was so recommended.
-The extension of Federal recognition under this subsection is effective as of the date when the officer is appointed in the Army National Guard.
-
-(Added Pub. L. 85–861, §2(7), Sept. 2, 1958, 72 Stat. 1544; amended Pub. L. 103–337, div. A, title XVI, §1630(1), Oct. 5, 1994, 108 Stat. 2964.)
-
-Amendment of Section
-
-Pub. L. 103–337, div. A, title XVI, §§1630(1), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2964, 3026, provided that, effective Oct. 1, 1996, this section is amended to read as follows:
+This section is referred to in sections 111, 310 of this title.
 
 §310. Federal recognition of National Guard officers: automatic recognition
 
@@ -1047,7 +1099,9 @@ Pub. L. 103–337, div. A, title XVI, §§1630(1), 1691(b)(1), Oct. 5, 1994, 108
 (b) Notwithstanding sections 307 and 309 of this title, if an officer of the Army Reserve or the Air Force Reserve in a reserve grade above second lieutenant is appointed in the next higher grade in the National Guard to fill a vacancy in a federally recognized unit in the National Guard, Federal recognition is automatically extended to that officer in the grade in which the officer is so appointed in the National Guard if the officer has been recommended for promotion under chapter 1405 of title 10 and has remained in an active status since the officer was so recommended.
 The extension of Federal recognition under this subsection is effective as of the date when the officer is appointed in the National Guard.
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+(Added Pub. L. 85–861, §2(7), Sept. 2, 1958, 72 Stat. 1544; amended Pub. L. 103–337, div. A, title XVI, §1630(1), Oct. 5, 1994, 108 Stat. 2964.)
+
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	310(a)310(b)
 
 	50:1252 (less (2)).50:1252(2).
@@ -1060,7 +1114,7 @@ In subsection (a), the words “or the date of the promotion, whichever is later
 
 Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 3385, 14308.
+This section is referred to in title 10 section 14308.
 
 §312. Appointment oath
 
@@ -1070,7 +1124,7 @@ Each person who is appointed as an officer of the National Guard shall subscribe
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 603.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	312	32:112.	June 3, 1916, ch. 134, §73 (1st par.); restated June 15, 1933, ch. 87, §11 (1st par.), 48 Stat. 157; July 9, 1952, ch. 608, §806(c), 66 Stat. 507.
 
 The words “Each person who is appointed as an” are inserted for clarity.
@@ -1092,7 +1146,7 @@ Historical and Revision Notes
 1956 Act	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	313(a)
 
-313(b)
+ 313(b)
 
 	32:4 (less 22 words before proviso).32:4 (22 words before proviso).
 
@@ -1105,9 +1159,61 @@ The word “reenlistment” is substituted for the words “subsequent enlistmen
 1958 Act	Section of title 32	Source (U.S. Code)	Source (Statutes at Large)
 	313(b)	32 App.:4 (as applicable to age).	July 30, 1956, ch. 789, §2 (as applicable to age), 70 Stat. 729.
 
+Cross References
+
+Army National Guard of United States and Air National Guard of United States, enlistment, see section 12107 of Title 10, Armed Forces.
+
 Section Referred to in Other Sections
 
-This section is referred to in section 709 of this title.
+This section is referred to in title 10 section 311.
+
+§314. Adjutants general
+
+(a) There shall be an adjutant general in each State and Territory, Puerto Rico, and the District of Columbia.
+He shall perform the duties prescribed by the laws of that jurisdiction.
+
+(b) The President shall appoint the adjutant general of the District of Columbia and prescribe his grade and qualifications.
+
+(c) The President may detail as adjutant general of the District of Columbia any retired commissioned officer of the Regular Army or the Regular Air Force recommended for that detail by the commanding general of the District of Columbia National Guard.
+An officer detailed under this subsection is entitled to the basic pay and allowances of his grade.
+
+(d) The adjutant general of each State and Territory, Puerto Rico, and the District of Columbia, and officers of the National Guard, shall make such returns and reports as the Secretary of the Army or the Secretary of the Air Force may prescribe, and shall make those returns and reports to the Secretary concerned or to any officer designated by him.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Sept. 2, 1958, Pub. L. 85–894, 72 Stat. 1713; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), (5), 102 Stat. 2059; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1322(b), 104 Stat. 1672; Dec. 5, 1991, Pub. L. 102–190, div. A, title V, §553, 105 Stat. 1371.)
+
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	314(a)314(b)
+
+314(c)
+
+314(d)
+
+	32:11.32:12.
+
+10:998.
+
+32:13.
+
+32:14.
+
+	Jan. 21, 1903, ch. 196, §12, 32 Stat. 776.June 6, 1900, ch. 811, 31 Stat. 671.
+
+June 3, 1916, ch. 134, §66, 39 Stat. 199.
+
+In subsection (a), the word “appointed” is omitted, since the position is not filled by appointment in some cases.
+The Act of January 21, 1903, ch. 196, §12 (last 48 words of 1st sentence) are not contained in 32:11. They are also omitted from the revised section as covered by subsection (d) of this section.
+
+In subsection (b), the word “grade” is substituted for the word “rank”. The words “To be eligible for appointment as * * * a person must be” are substituted for the words “each * * * shall be”. The words “of that jurisdiction” are substituted for the words “of the Territory for which he is appointed”.
+
+In subsection (c), the word “Regular” is inserted as an implication of 10:998 (last 2 words). The words “commanding general” are substituted for the words “brigadier general commanding”, since the commanding general might hold another grade.
+
+The words “basic pay” are substituted for the words “active service pay” to conform to section 201 of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 232). The word “grade” is substituted for the word “rank”.
+
+In subsection (d), the words “at such times and in such form” are omitted as covered by the words “such returns and reports as the Secretary * * * may prescribe”.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 709 of this title; title 10 section 1370.
 
 §315. Detail of regular members of Army and Air Force to duty with National Guard
 
@@ -1120,10 +1226,10 @@ The Secretary of the Air Force may detail enlisted members of the Regular Air Fo
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 604; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	315(a)
 
-315(b)
+ 315(b)
 
 	32:68 (less 2d sentence).32:69.
 
@@ -1136,13 +1242,169 @@ The words “so detailed” are substituted for the words “detailed under sect
 
 Cross References
 
-Suspension of subsecs. (d) and (e) of this section, see section 111 of this title.
+National Guard Bureau, assignment of regular or reserve officers of Army or Air Force, see section 10507 of Title 10, Armed Forces.
+
+Reserve components, detail of members of regular and reserve components to assist, see section 12501 of Title 10.
+
+§316. Detail of members of Army National Guard for rifle instruction of civilians
+
+The President may detail officers and noncommissioned officers of the Army National Guard to duty as instructors at rifle ranges for the training of civilians in the use of military arms.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 605.)
+
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	316	32:183.	June 3, 1916, ch. 134, §113 (3d sentence), 39 Stat. 211.
+
+The word “civilians” is substituted for the word “citizenry”. The word “capable” is omitted as surplusage.
+
+Cross References
+
+Credit for service as members of Army National Guard or Air National Guard of members of Army National Guard of United States or Air National Guard of United States, see section 12602 of Title 10, Armed Forces.
+
+Inactive duty training, duty (other than full-time duty) under this section as, see section 101 of Title 38, Veterans’ Benefits.
 
 Section Referred to in Other Sections
 
-This section is referred to in section 111 of this title; title 10 sections 3820, 8368, 8820, 14907.
+This section is referred to in sections 101, 715 of this title; title 10 sections 101, 701, 1054, 1089, 1333, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965.
 
-1 See References in Text note below.
+§317. Command during joint exercises with Federal troops
+
+When any part of the National Guard that is not in Federal service participates in an encampment, maneuver, or other exercise for instruction, together with troops in Federal service, the command of the post, air base, or other place where it is held, and of the troops in Federal service on duty there, remains with the officers in Federal service who command that place and the Federal troops on duty there, without regard to the rank of the officers of the National Guard not in Federal service who are temporarily participating in the exercise.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 605.)
+
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	317	32:72.	June 3, 1916, ch. 134, §95, 39 Stat. 207.
+
+The words “not in Federal service” are inserted to show that the revised section applies only to joint exercises involving National Guard troops not in Federal service, since 32:72 was enacted before the establishment of the National Guard of the United States, in 1933. The words “troops in Federal service” are substituted for the words “troops of the United States”. The words “officers in Federal service who command” are substituted for the words “commander of the United States troops”. The words “post, air base, or other place” are substituted for the words “military post, or reservation, or elsewhere”. The words “that place and the Federal troops on duty there” are substituted for the words “there or elsewhere” The words “including outdoor target practice” and “field and coast defense instruction” are omitted as surplusage.
+
+[§§318 to 321. Repealed.
+Pub. L. 99–661, div. A, title VI, §604(f)(2)(A), Nov. 14, 1986, 100 Stat. 3878]
+
+Section 318, acts Aug. 10, 1956, ch. 1041, 70A Stat. 605; Sept. 2, 1958, Pub. L. 85–861, §33(c)(1), 72 Stat. 1567; Sept. 7, 1962, Pub. L. 87–649, §8(a), 76 Stat. 495, related to compensation for members of National Guard for disablement during training.
+
+Section 319, act Aug. 10, 1956, ch. 1041, 70A Stat. 605, related to compensation for members of National Guard for disablement during training when not covered by section 318 of this title.
+
+Section 320, act Aug. 10, 1956, ch. 1041, 70A Stat. 606, related to hospitalization ordered by Secretary of Army or Air Force for members of National Guard.
+
+Section 321, acts Aug. 10, 1956, ch. 1041, 70A Stat. 606; Sept. 2, 1958, Pub. L. 85–861, §2(10), 72 Stat. 1544; Sept. 7, 1962, Pub. L. 87–649, §8(b), 76 Stat. 495, related to death gratuities for members of National Guard.
+
+Effective Date of Repeal
+
+Repeal applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 1074a of Title 10, Armed Forces.
+
+§322. Discharge of enlisted members
+
+(a) An enlisted member of the National Guard shall be discharged when—
+
+(1) he becomes 64 years of age; or
+
+(2) his Federal recognition is withdrawn.
+
+(b) An enlisted member who is discharged from the National Guard is entitled to a discharge certificate similar in form and classification to the corresponding certificate prescribed for members of the Regular Army or the Regular Air Force, as the case may be.
+
+(c) In time of peace, an enlisted member of the National Guard may be discharged before his enlistment expires, under such regulations as may be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 606.)
+
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	322(a)
+
+ 322(b)
+
+322(c)
+
+	32:154 (last par., less 1st 26, and last 26, words).32:125 (less last 27 words).
+
+32:125 (last 27 words).
+
+	June 3, 1916, ch. 134, §72; restated June 4, 1920, ch. 227, subch. I, §40; restated June 15, 1933, ch. 87, §10, 48 Stat. 157; July 9, 1952, ch. 608, §806(d), 66 Stat. 507.
+	 		June 3, 1916, ch. 134, §110 (last par., less 1st 30, and last 25, words); restated Sept. 22, 1922, ch. 423, §6 (last par., less 1st 30, and last 137, words); restated May 12, 1928, ch. 529 (less 1st 30, and last 25, words), 45 Stat. 500.
+
+Subsection (a) is substituted for 32:154 (last par., less 1st 26, and last 26, words) to reflect an opinion of the Judge Advocate General of the Army (JAGA 1953/9033, 3 Dec. 1953).
+
+In subsection (b), the words “is entitled to a discharge certificate similar in form and classification to the corresponding certificate” are substituted for the words “shall receive a discharge in writing in such form and with such classification as is or shall be”. The words “service in” are omitted as surplusage.
+
+In subsection (c), the words “his enlistment expires” are substituted for the words “the expiration of terms of enlistment”.
+
+Cross References
+
+Army and Air Force enlisted members, limitations on discharge, see section 1169 of Title 10, Armed Forces.
+
+§323. Withdrawal of Federal recognition
+
+(a) Whenever a member of the National Guard ceases to have the qualifications prescribed under section 301 of this title or ceases to be a member of a federally recognized unit or organization of the National Guard, his Federal recognition shall be withdrawn.
+
+(b) Under regulations to be prescribed by the President, the capacity and general fitness of an officer of the National Guard for continued Federal recognition may be investigated at any time by an efficiency board composed of commissioned officers of—
+
+(1) the Regular Army or the Army National Guard of the United States, or both, who out-rank him and who are detailed by the Secretary of the Army, if he is a member of the Army National Guard; or
+
+(2) the Regular Air Force or the Air National Guard of the United States, or both, who outrank him and who are detailed by the Secretary of the Air Force, if he is a member of the Air National Guard.
+
+If the findings of the board are unfavorable to the officer and are approved by the President, his Federal recognition shall be withdrawn.
+
+(c) If a member of the Army National Guard of the United States or the Air National Guard of the United States is transferred to the Army Reserve or the Air Force Reserve, as the case may be, under section 12105, 12213(a), or 12214(a) of title 10, his Federal recognition is withdrawn.
+
+(d) The Federal recognition of a reserve commissioned officer of the Army or the Air Force who is—
+
+(1) federally recognized as an officer of the National Guard; and
+
+(2) subject to involuntary transfer to the Retired Reserve, transfer to an inactive status list, or discharge under chapter 1407, 1409, or 1411 of title 10;
+
+shall, if not sooner withdrawn, be withdrawn on the date of such involuntary transfer or discharge.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Sept. 2, 1958, Pub. L. 85–861, §§2(11), 33(c)(2), 72 Stat. 1546, 1567; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1630(2), 1676(a)(3), 108 Stat. 2964, 3019.)
+
+Historical and Revision Notes
+1956 Act	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	323(a)
+
+ 323(b)
+
+ 
+
+ 323(c)
+
+	32:154 (last 26 words of last par.).32:115 (1st sentence, and 1st 24 words of 2d sentence).
+
+50:1116 (last 15 words of 1st sentence).
+
+	June 3, 1916, ch. 134, §76 (1st sentence, and 1st 24 words of 2d sentence); restated June 15, 1933, ch. 87, §13 (1st sentence, and 1st 24 words of 2d sentence), 48 Stat. 158.
+	 		June 3, 1916, ch. 134, §110 (last 25 words of last par.); restated Sept. 22, 1922, ch. 423, §6 (last 137 words of last par.); restated May 12, 1928, ch. 529 (last 25 words), 45 Stat. 501.
+	 		July 9, 1952, ch. 608, §706 (last 15 words of 1st sentence), 66 Stat. 503.
+
+In subsection (a) the words “ceases to have the qualifications prescribed under section 300 of this title” are substituted for 32:154 (last 26 words of last par.), since it is implicit that a member who could not be paid would lose his federally recognized status (see JAGA 1953/9033, 3 Dec. 1953). The last 23 words of subsection (a) are inserted as a necessary implication of the rule stated in section 309(c) of this title.
+
+In subsection (b), the words “or warrant officer” are omitted, since section 101(9) of this title defines “officer” to include warrant officers.
+The word “detailed” is substituted for the word “appointed”, since the filling of the positions involved is not appointment to an office in the constitutional sense.
+The word “commissioned” is inserted after the words “composed of”, since the word “officer” alone, in 32:115, referred to a commissioned officer only (see opinion of the Judge Advocate General of the Army (JAGA 1953/4078, 6 May 1953)). The words “who outrank him” are substituted for the words “senior in rank to the officer under investigation”.
+
+In subsection (c), the opening clause is substituted for the words “such transfer”. The words “his Federal recognition is withdrawn” are substituted for the words “shall terminate his federally recognized National Guard or Air National Guard status”.
+
+1958 Act	Section of title 32	Source (U.S. Code)	Source (Statutes at Large)
+	323(d)
+
+ 323(e)
+
+	50:1261 (as applicable to Federal recognition).50:1352(e)(1) (56th through 63d words).
+
+50:1352(e)(2) (78th through 85th words).
+
+	Sept. 3, 1954, ch. 1257, §§324 (as applicable to Federal recognition), 522(e)(1) (56th through 63d words). (e)(2) (78th through 85th words), 68 Stat. 1161, 1181.
+
+The change [in subsec. (b)(1) and (2)] is necessary to exclude from the efficiency board commissioned officers of the Army Reserve or Air Force Reserve, in accordance with the source law, the first sentence of section 76 of the Act of June 3, 1916, chapter 134 (formerly 32 U.S.C. 115 (1st sentence)).
+
+In subsection (d), the words “notwithstanding section 115 of title 32” are omitted as surplusage.
+
+In subsection (e), the words “if appropriate” are omitted as surplusage.
+
+Cross References
+
+Suspension of subsec. (d) of this section, see section 111 of this title.
+
+Section Referred to in Other Sections
+
+This section is referred to in section 111 of this title; title 10 section 14907.
 
 §324. Discharge of officers; termination of appointment
 
@@ -1158,10 +1420,8 @@ The official who would be authorized to appoint him shall give him a discharge c
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 607; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(6), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
-	324(a)
-
-324(b)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	324(a)324(b)
 
 	32:114 (less 1st sentence).32:114 (1st sentence).
 
@@ -1175,11 +1435,11 @@ The words “as provided by the laws” are substituted for the words “in such
 
 Cross References
 
-Army National Guard of United States and Air National Guard of United States, discharge of officers, see sections 3820 and 8820 of Title 10, Armed Forces.
+Army National Guard of United States and Air National Guard of United States, discharge of officers, see section 14907 of Title 10, Armed Forces.
 
 Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 3855, 8855.
+This section is referred to in title 10 section 1370.
 
 §325. Relief from National Guard duty when ordered to active duty
 
@@ -1189,7 +1449,7 @@ This section is referred to in title 10 sections 3855, 8855.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 607; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(6), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	325(a)325(b)
 
 	50:1120.50:1122(b) (less last 17 words).
@@ -1218,7 +1478,7 @@ They have the jurisdiction and powers, except as to punishments, and shall follo
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 608.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	326	32:91.	June 3, 1916, ch. 134, §102, 39 Stat. 208.
 
 The words “not in Federal service” are substituted for the words “Except in organizations in the service of the United States”. The words “have the jurisdiction and powers” are substituted for the words “and have cognizance of the same subjects, and possess like powers”. The words “of three kinds, namely”, “provided for by the laws and regulations governing”, “proceedings of courts-martial of the National Guard”, and “modes of” are omitted as surplusage.
@@ -1259,7 +1519,7 @@ Trial procedure, see sections 836 to 854 of Title 10.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 608; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(4), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	327(a)327(b)
 
 	32:92 (1st 46 words).32:92 (less 1st 46 words).
@@ -1293,12 +1553,10 @@ Special courts-martial may also be convened by superior authority.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 608.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
-	328(a)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+	328(a)328(b)
 
-328(b)
-
-	32:93 (less last sentence).32:93 (1st 32 words of last sentence).
+ 	32:93 (less last sentence).32:93 (1st 32 words of last sentence).
 
 	June 3, 1916, ch. 134, §104, 39 Stat. 208.
 	328(c)	32:93 (last sentence, less 1st 32 words).	
@@ -1333,7 +1591,7 @@ The proceedings shall be informal.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 608.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	329(a)	32:94 (words before 1st semi-colon of 1st sentence, and 1st 8 words of last sentence).	June 3, 1916, ch. 134, §105, 39 Stat. 208.
 	329(b)	32:94 (less words before 1st semicolon of 1st sentence, and less 1st 8 words of last sentence).	
 
@@ -1361,7 +1619,7 @@ In the National Guard not in Federal service, a court-martial may, instead of im
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 609.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	330	32:95.	June 3, 1916, ch. 134, §106, 39 Stat. 209.
 
 The words “Federal service” are substituted for the words “service of the United States”. The words “including summary courts” and “authorized to be imposed” are omitted as surplusage.
@@ -1373,7 +1631,7 @@ In the National Guard not in Federal service, no sentence of dismissal or dishon
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 609; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(3), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	331	32:96.	June 3, 1916, ch. 134, §107, 39 Stat. 209.
 
 The words “Federal service” are substituted for the words “service of the United States”. The words “from the service” and “imposed by a * * * court-martial” are omitted as surplusage.
@@ -1392,7 +1650,7 @@ In the National Guard not in Federal service, the president of a court-martial o
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 609.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	332	32:97 (1st par.).	June 3, 1916, ch. 134, §108, (1st par.), 39 Stat. 209.
 
 The words “Federal service” are substituted for the words “service of the United States”. The word “may” is substituted for the words “shall have power”. The words “for the arrest of any accused person who, having been served with a warrant and a copy of the charges, disobeys a written order” are substituted for the words “to arrest accused persons and to bring them before the court for trial whenever such persons shall have disobeyed an order in writing * * * a copy of the charge or charges having been delivered to the accused with such order”.
@@ -1408,7 +1666,7 @@ In a State where no provision is made for executing those processes and sentence
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 609; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	333	32:94 (less 1st par.).	June 3, 1916, ch. 134, §108 (less 1st par.), 39 Stat. 209.
 
 The words “In the National Guard not in Federal service * * * its courts-martial” are substituted for the words “said courts”. The words “executing those processes and sentences” are substituted for the words “such action”. The words “deputy marshal” are substituted for the words “his duly appointed deputy”. The words “and it shall be the duty of any United States marshal to execute all such processes and sentences” are omitted as surplusage.
@@ -1435,8 +1693,6 @@ Repeal effective only with respect to claims arising on or after Dec. 29, 1981, 
 Pub. L. 98–525, title IV, §414(b)(2)(A), Oct. 19, 1984, 98 Stat. 2519]
 
 Section, added Pub. L. 98–94, title V, §504(b)(1), Sept. 24, 1983, 97 Stat. 632, related to status of certain members of the National Guard performing full-time duty.
-
- 
 
 CHAPTER 5—TRAINING
 
@@ -1477,7 +1733,7 @@ The discipline, including training, of the Air National Guard shall conform to t
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 609; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	501(a)501(b)
 
 	32:61 (1st 24 words).32:61 (less 1st 24 words).
@@ -1523,6 +1779,12 @@ In addition to such amounts, the Chief of the National Guard Bureau may authoriz
 “(3) The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.”
 
 National Guard Civilian Youth Opportunities Pilot Program
+
+Pub. L. 104–106, div. A, title V, §573, Feb. 10, 1996, 110 Stat. 355, provided that:
+
+“(a) Termination.—The authority under subsection (a) of section 1091 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 32 U.S.C. 501 note) to carry out a pilot program under that section is hereby continued through the end of the 18-month period beginning on the date of the enactment of this Act [Feb. 10, 1996] and such authority shall terminate as of the end of that period.
+
+“(b) Limitation on Number of Programs.—During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
 Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(o), Oct. 20, 1994, 108 Stat. 4024, provided that:
 
@@ -1663,14 +1925,16 @@ be ordered to perform training or other duty in addition to that prescribed unde
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 610; Oct. 3, 1964, Pub. L. 88–621, §1(1), 78 Stat. 999; Dec. 1, 1967, Pub. L. 90–168, §4, 81 Stat. 526; Nov. 17, 1971, Pub. L. 92–156, title III, §303(b), 85 Stat. 425; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §524(b), 107 Stat. 1657.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	502(a)
 
-502(b)
+ 502(b)
 
-502(c)
+ 502(c)
 
-502(d)
+ 
+
+ 502(d)
 
 	32:62 (1st sentence, less proviso).32:62 (proviso of 1st sentence).
 
@@ -1713,16 +1977,18 @@ This section is referred to in sections 101, 112, 715 of this title; title 5 sec
 
 §503. Participation in field exercises
 
-(a) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force, as the case may be, may provide for the participation of the National Guard in encampments, maneuvers, outdoor target practice, or other exercises for field or coast-defense instruction, independently of or in conjunction with the Army or the Air Force, or both.
+(a)(1) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force, as the case may be, may provide for the participation of the National Guard in encampments, maneuvers, outdoor target practice, or other exercises for field or coast-defense instruction, independently of or in conjunction with the Army or the Air Force, or both.
+
+(2) Paragraph (1) includes authority to provide for participation of the National Guard in conjunction with the Army or the Air Force, or both, in joint exercises for instruction to prepare the National Guard for response to civil emergencies and disasters.
 
 (b) Amounts necessary for the pay, subsistence, transportation, and other proper expenses of any part of the National Guard of a State or Territory, Puerto Rico, or the District of Columbia participating in an exercise under subsection (a) may be set aside from funds allocated to it from appropriations for field or coast-defense instruction.
 
 (c) Members of the National Guard participating in an exercise under subsection (a) may, after being mustered, be paid for the period beginning with the date of leaving home and ending with the date of return, as determined in advance.
 If otherwise correct, such a payment passes to the credit of the disbursing officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §517, 110 Stat. 309.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	503(a)503(b)
 
 503(c)
@@ -1767,7 +2033,7 @@ This section is referred to in sections 101, 715 of this title; title 5 section 
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 611; Oct. 3, 1964, Pub. L. 88–621, §1(2), 78 Stat. 999; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	504(a)504(b)
 
 	32:64 (1st sentence).32:64 (less 1st sentence).
@@ -1806,7 +2072,7 @@ Similarly, the Secretary of the Air Force may authorize a limited number of memb
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 611; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(4), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	505	32:65.	June 3, 1916, ch. 134, §99 (1st 133 words); restated Sept. 22, 1922, ch. 423, §5 (1st 129 words); restated May 28, 1926, ch. 417, §3 (1st 133 words), 44 Stat. 674.
 
 The words “branch of the Army corresponding” are substituted for the words “same arm, corps, or department”, to conform to sections 3063 and 3064 of title 10. In the second sentence, the words “organization of the Air Force corresponding” are substituted for the words “same arm, corps, or department”, since the Air Force is not organized by statute into branches, arms, corps, or departments.
@@ -1834,7 +2100,7 @@ Members so detailed shall instruct the members of the National Guard at the exer
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 611.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	506(a)506(b)
 
 	32:66.32:67.
@@ -1860,7 +2126,7 @@ The instruction shall be under the direction of a commissioned officer selected 
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 612.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	507	32:71.	Jan. 21, 1903, ch. 196, §21, 32 Stat. 779.
 
 The words “post camp, or air base” are substituted for the words “military post or camp”. The words “such amounts” are omitted as surplusage.
@@ -1926,7 +2192,9 @@ The words “National Guard” are substituted for the words “troops of the mi
 
 (Added Pub. L. 103–337, div. A, title III, §385(a), Oct. 5, 1994, 108 Stat. 2741.)
 
- 
+Section Referred to in Other Sections
+
+This section is referred to in title 10 section 2012.
 
 CHAPTER 7—SERVICE, SUPPLY, AND PROCUREMENT
 
@@ -1982,64 +2250,6 @@ Claims for overpayment of pay and allowances, and travel and transportation allo
 
         
 
-Cross References
-
-Fraud, purchase or receipt of National Guard property, see section 1024 of Title 18, Crimes and Criminal Procedure.
-
-General military law, see section 2202 et seq. of Title 10, Armed Forces.
-
-§701. Uniforms, arms, and equipment to be same as Army or Air Force
-
-So far as practicable, the same types of uniforms, arms, and equipment as are issued to the Army shall be issued to the Army National Guard, and the same types of uniforms, arms, and equipment as are issued to the Air Force shall be issued to the Air National Guard.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 612.)
-
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
-	701	32:31.	June 3, 1916, ch. 134, §82; restated June 15, 1933, ch. 87, §17, 48 Stat. 160.
-
-The words “shall be issued” are substituted for the words “shall * * * be uniformed, armed, and equipped with”. The words “as are issued” are substituted for the words “as are or shall be provided”. The word “Army” is substituted for the words “Regular Army”, since the Army is the category to which uniforms, arms, and equipment are issued, and the Regular Army is a personnel category only.
-Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
-
-Cross References
-
-Clothing for members of Army and Air Force, see sections 4562 and 9562 of Title 10, Armed Forces.
-
-§702. Issue of supplies
-
-(a) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force may buy or manufacture and, upon requisition of the governor of any State or Territory or Puerto Rico or the commanding general of the National Guard of the District of Columbia, issue to its Army National Guard and Air National Guard, respectively, the supplies necessary to uniform, arm, and equip that Army National Guard or Air National Guard for field duty.
-
-(b) Whenever the Secretary concerned is satisfied that the Army National Guard or the Air National Guard, as the case may be, of any State or Territory, Puerto Rico, or the District of Columbia is properly organized, armed, and equipped for field duty, funds allotted to that jurisdiction for its Army National Guard or Air National Guard may be used to buy any article issued by the Army or the Air Force, as the case may be.
-
-(c) Under such regulations as the President may prescribe, the issue of new types of equipment, small arms, or field guns to the National Guard of any State or Territory, Puerto Rico, or the District of Columbia shall be without charge against appropriations for the National Guard.
-
-(d) No property may be issued to the National Guard of a State or Territory, Puerto Rico, or the District of Columbia, unless that jurisdiction makes provision, satisfactory to the Secretary concerned, for its protection and care.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 612; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), (4), 102 Stat. 2059.)
-
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
-	702(a)702(b)
-
-702(c)
-
-702(d)
-
-	32:33 (less provisos).32:33 (last proviso).
-
-32:35.
-
-32:33 (1st proviso).
-
-	June 3, 1916, ch. 134, §§83, 84, 39 Stat. 203, 204.
-
-In subsection (a), the word “supplies” is substituted for the detailed description of stores, material, and equipment, since under section 101(12) of this title, “supplies” includes stores, material, and equipment.
-The words “may buy or manufacture” are substituted for the words “is authorized to procure * * * by purchase or manufacture”. The words “within the limits of available appropriations made by Congress” and “from time to time” are omitted as surplusage.
-
-In subsection (b), the words “the Secretary concerned is satisfied” are substituted for the words “it shall be shown to the satisfaction of the Secretary of the Army”. The words “buy any article issued by the Army or the Air Force” are substituted for the words “purchase, from the Department of the Army, of any article issued by any of the supply departments of the Army”.
-
-In subsection (c), the words “the issue of” are substituted for the words “whenever * * * shall have been issued * * * shall be furnished”. The words “shall be without charge” are substituted for the words “without charging the cost or value thereof or any expense connected therewith”. The words “provided for the support” are omitted as surplusage.
-
-In subsection (d), the words “No property may be issued to * * * unless that jurisdiction” are substituted for the words “Provided, That as a condition precedent to the issue of any property as provided for by this title” and “desiring such issue”.
-
 Section Referred to in Other Sections
 
 This section is referred to in title 10 section 18502.
@@ -2056,10 +2266,12 @@ A purchase under this subsection shall be for cash, at cost plus transportation.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 613; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	703(a)703(b)
 
-703(c)
+ 
+
+ 703(c)
 
 	32:39 (1st sentence).32:39 (proviso of last sentence).
 
@@ -2082,7 +2294,7 @@ Upon ordering any part of the Army National Guard of the United States or the Ai
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 613; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	704	50:1121.	July 9, 1952, ch. 608, §711, 66 Stat. 504.
 
 The words “to active duty” are substituted for the words “into the active military service of the United States”. The word “conditions” is omitted as covered by the word “terms”. The word “previously” is substituted for the word “theretofore”. The word “liability” is omitted as covered by the word “accountability”. The words “that part” are substituted for the words “such portion of the National Guard of the United States or of the Air National Guard of the United States”.
@@ -2095,7 +2307,7 @@ Purchases under this section shall be for cash, at average current costs, includ
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 613.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	705	32:156.	June 3, 1916, ch. 134, §109; restated June 4, 1920, ch. 227, subch. 1, §47; restated June 3, 1924, ch. 244, §3; restated Oct. 14, 1940, ch. 875, §3, 54 Stat. 1136; Mar. 25, 1948, ch. 157, §5(b), 62 Stat. 91; Oct. 12, 1949, ch. 681, §501(f)(2) and (3) (as applicable to §109 of the Act of June 3, 1916, ch. 134), 63 Stat. 827; July 9, 1952, ch. 608, §803 (12th par.), 66 Stat. 505.
 
 The reference to 10:1106 is omitted, since that section related only to sales of uniforms and equipment to cadets at the United States Military Academy.
@@ -2113,7 +2325,7 @@ So far as practicable, whenever units, organizations, or members of the National
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 613.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	706	50:1122(b) (last 17 words.)	July 9, 1952, ch. 608, §712(b) (last 17 words), 66 Stat. 504.
 
 The words “So far as practicable” are inserted, since sufficient arms and equipment might not be available.
@@ -2124,7 +2336,7 @@ Whenever practicable, instructors of the National Guard shall use State armories
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 614.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	707	32:74.	May 12, 1917, ch. 12 (10th proviso under “National Guard”), 40 Stat. 68.
 
 The word “instructors” is substituted for the words “inspector-instructors”, since there are no longer any “inspector-instructors”.
@@ -2144,7 +2356,7 @@ If the officer is not on active duty, the President may order him to active duty
 
 (d) The Secretaries shall prescribe a maximum grade, commensurate with the functions and responsibilities of the office, but not above colonel, for the property and fiscal officer of the United States for the National Guard of each State or Territory, Puerto Rico, and the District of Columbia.
 
-(e) The Secretary of the Army and the Secretary of the Air Force shall prescribe joint regulationsÿ7E necessaryÿ7E toÿ7E carryÿ7E outÿ7E subsections (a)–(d).
+(e) The Secretary of the Army and the Secretary of the Air Force shall prescribe joint regulations necessary to carry out subsections (a)–(d).
 
 (f) A property and fiscal officer may intrust money to an officer of the National Guard to make disbursements as his agent.
 Both the officer to whom money is intrusted, and the property and disbursing officer intrusting the money to him, are pecuniarily responsible for that money to the United States.
@@ -2152,16 +2364,18 @@ The agent officer is subject, for misconduct as an agent, to the liabilities and
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 614; June 6, 1972, Pub. L. 92–310, title II, §207, 86 Stat. 203; July 30, 1977, Pub. L. 95–79, title VIII, §804(b), 91 Stat. 333; Dec. 12, 1980, Pub. L. 96–513, title V, §515(4), 94 Stat. 2937; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059; Nov. 29, 1989, Pub. L. 101–189, div. A, title VI, §653(g), 103 Stat. 1463.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	708(a)
 
-708(b)
+ 
 
-708(c)
+ 708(b)
 
-708(d)
+ 708(c)
 
-708(e)
+ 708(d)
+
+ 708(e)
 
 	32:49 (last sentence; and 2d sentence, less last 24 words).32:49 (3d and 4th sentences).
 
@@ -2202,7 +2416,13 @@ This section is referred to in title 10 sections 101, 523, 641, 771a, 10503, 126
 
 (2) the maintenance and repair of supplies issued to the National Guard or the armed forces.
 
-(b) Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed, be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position.
+(b) Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed—
+
+(1) be a member of the National Guard;
+
+(2) hold the military grade specified by the Secretary concerned for that position; and
+
+(3) wear the uniform appropriate for the member's grade and component of the armed forces while performing duties as a technician.
 
 (c) The Secretary concerned shall designate the adjutants general referred to in section 314 of this title, to employ and administer the technicians authorized by this section.
 
@@ -2244,20 +2464,22 @@ Pub. L. 103–160, div. A, title V, §524(d), Nov. 30, 1993, 107 Stat. 1657.]
 
 (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under section 301 of this title a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Sept. 13, 1961, Pub. L. 87–224, §2, 75 Stat. 496; Aug. 13, 1968, Pub. L. 90–486, §2(1), 82 Stat. 755; Aug. 13, 1971, Pub. L. 92–119, §2, 85 Stat. 340; Dec. 12, 1980, Pub. L. 96–513, title V, §515(5)–(7), 94 Stat. 2937; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), 107 Stat. 1656, 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), 108 Stat. 2856, 2858.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Sept. 13, 1961, Pub. L. 87–224, §2, 75 Stat. 496; Aug. 13, 1968, Pub. L. 90–486, §2(1), 82 Stat. 755; Aug. 13, 1971, Pub. L. 92–119, §2, 85 Stat. 340; Dec. 12, 1980, Pub. L. 96–513, title V, §515(5)–(7), 94 Stat. 2937; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), 107 Stat. 1656, 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), 108 Stat. 2856, 2858; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1038(a), 110 Stat. 432.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	709(a)
 
-709(b)
+ 
 
-709(c)
+ 709(b)
+
+ 709(c)
 
 709(d)
 
-709(e)
+ 709(e)
 
-709(f)
+ 709(f)
 
 	32:42 (1st par.).32:42a (less 28 words before 1st proviso).
 
@@ -2506,9 +2728,7 @@ July 16, 1946, ch. 583, 60 Stat. 556.
 
 Section Referred to in Other Sections
 
-This section is referred to in section 715 of this title; title 5 sections 2105, 8332, 8337; title 10 sections 3848, 3851, 8848, 8851, 10503; title 38 sections 4303, 4314; title 42 section 418.
-
- 
+This section is referred to in section 715 of this title; title 5 sections 2105, 8332, 8337; title 10 section 10503; title 37 sections 417, 418; title 38 sections 4303, 4314; title 42 section 418.
 
 1 See References in Text note below.
 
@@ -2552,11 +2772,13 @@ Historical and Revision Notes
 
 710(c)
 
-710(d)
+ 
 
-710(e)
+ 710(d)
 
-710(f)
+ 710(e)
+
+ 710(f)
 
 	32:47 (1st sentence).32:47 (2d sentence).
 
@@ -2602,7 +2824,7 @@ No money credit may be allowed for property disposed of under this section.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 616; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	711	32:46.	June 3, 1916, ch. 134, §85, 39 Stat. 204.
 
 The words “to its National Guard” are inserted for clarity.
@@ -2620,7 +2842,7 @@ The following shall be covered into the Treasury:
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 616; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	712	32:45.	June 3, 1916, ch. 134, §88, 39 Stat. 205; Oct. 31, 1951, ch. 654, §3(5), 65 Stat. 708.
 
 The introductory clause is substituted for the words “shall be covered into the Treasury of the United States” and “as shall also”. The words “United States” are substituted for the word “Government”. The words “members of the National Guard” are substituted for the words “officers and enlisted men”.
@@ -2631,7 +2853,7 @@ Units and headquarters of the National Guard, whether or not in Federal service,
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 617.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	713	32:196.	Aug. 1, 1953, ch. 305, §643, 67 Stat. 357.
 
 The word “Hereafter” is omitted as executed.
@@ -2657,21 +2879,18 @@ The words “Federal service” are substituted for the words “active service 
 (b) Designations and changes of designation of beneficiaries under subsection (a)(1) are subject to regulations to be prescribed by the Secretary concerned.
 So far as practicable, these regulations shall be uniform with those prescribed for the armed forces under section 2771(b) of title 10.
 
-(c) Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the Department of the Army or the Department of the Air Force, as the case may be.
-Payment under clause (6) of subsection (a) shall be made—
-
-(1) upon settlement by the General Accounting Office; or
-
-(2) as otherwise authorized by the Comptroller General.
+(c) Under such regulations as the Secretary concerned may prescribe, payments under subsection (a) shall be made by the Department of the Army or the Department of the Air Force, as the case may be.
 
 (d) A payment under this section bars recovery by any other person of the amount paid.
 
-(Added Pub. L. 85–861, §2(12), Sept. 2, 1958, 72 Stat. 1546; amended Pub. L. 87–46, June 16, 1961, 75 Stat. 92.)
+(Added Pub. L. 85–861, §2(12), Sept. 2, 1958, 72 Stat. 1546; amended Pub. L. 87–46, June 16, 1961, 75 Stat. 92; Pub. L. 104–316, title II, §202(q), Oct. 19, 1996, 110 Stat. 3844.)
 
-Historical and Revision Notes 	Revised section	Source (U.S. Code)	Source (Statutes at Large)
+Historical and Revision Notes	Revised section	Source (U.S. Code)	Source (Statutes at Large)
 	714(a)
 
-714(b)
+ 
+
+ 714(b)
 
 714(c)
 
@@ -2695,10 +2914,6 @@ In subsection (a)(2), the words “Surviving spouse” are substituted for the w
 In subsection (b), the words “are subject to” are substituted for the words “shall be made under”.
 
 In subsection (c), the word “Under” is substituted for the words “Subject to”. The words “rules and” are omitted as surplusage.
-
-Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 Designation of Beneficiary Made Before January 1, 1956
 
@@ -2730,7 +2945,7 @@ For the purposes of clause (1), the dates of the beginning and end of an armed c
 
 (c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States or of any State or the District of Columbia or Puerto Rico.
 
-(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Comptroller General for payment under section 1304 of title 31.
+(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
@@ -2740,37 +2955,29 @@ For the purposes of clause (1), the dates of the beginning and end of an armed c
 
 (h) In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
 
-(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919.)
+(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, §202(r), Oct. 19, 1996, 110 Stat. 3844.)
 
 Savings Provision for Claims Arising Before January 1, 1969
 
 Settlement and payment of claims arising under this section before January 1, 1969, see section 3(a) of Pub. L. 90–486, set out as a note under section 709 of this title.
 
-Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
-
 Section Referred to in Other Sections
 
 This section is referred to in title 10 section 2736; title 31 section 1304.
-
- 
 
 §716. Claims for overpayment of pay and allowances, and travel and transportation allowances
 
 (a) A claim of the United States against a person arising out of an erroneous payment of any pay or allowances made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances, to or on behalf of a member or former member of the National Guard, the collection of which would be against equity and good conscience and not in the best interest of the United States, may be waived in whole or in part by—
 
-(1) the Comptroller General; or
+(1) the Director of the Office of Management and Budget; or
 
 (2) the Secretary concerned, as defined in section 101(5) of title 37, when—
 
-(A) the claim is in an amount aggregating not more than $1,500;
+(A) the claim is in an amount aggregating not more than $1,500; and
 
-(B) the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and
+(B) the waiver is made in accordance with standards which the Director of the Office of Management and Budget shall prescribe.
 
-(C) the waiver is made in accordance with standards which the Comptroller General shall prescribe.
-
-(b) The Comptroller General or the Secretary concerned, as the case may be, may not exercise his authority under this section to waive any claim—
+(b) The Director of the Office of Management and Budget or the Secretary concerned, as the case may be, may not exercise his authority under this section to waive any claim—
 
 (1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the member or any other person having an interest in obtaining a waiver of the claim; or
 
@@ -2785,7 +2992,11 @@ The Secretary concerned shall pay from current applicable appropriations that re
 
 (f) This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
-(Added Pub. L. 92–453, §2(1), Oct. 2, 1972, 86 Stat. 759; amended Pub. L. 96–513, title V, §515(9), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 99–224, §3(a), Dec. 28, 1985, 99 Stat. 1742; Pub. L. 102–190, div. A, title VI, §657(c), Dec. 5, 1991, 105 Stat. 1393.)
+(Added Pub. L. 92–453, §2(1), Oct. 2, 1972, 86 Stat. 759; amended Pub. L. 96–513, title V, §515(9), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 99–224, §3(a), Dec. 28, 1985, 99 Stat. 1742; Pub. L. 102–190, div. A, title VI, §657(c), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §116, Oct. 19, 1996, 110 Stat. 3835.)
+
+Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e) of Pub. L. 104–316, set out as a note under section 130c of Title 2, The Congress.
 
 Effective Date of 1985 Amendment
 
@@ -2794,6 +3005,4 @@ Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneou
 Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
-
- 
 

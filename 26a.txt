@@ -186,8 +186,6 @@ The Court may, in its discretion, deny such motion.
 The Court may inquire into the circumstances of counsel's employment in order to deter such violations.
 See Rule 201.
 
-  
-
 Rule 25. Computation of Time
 
 (a) Computation: (1) General: In computing any period of time prescribed or allowed by these Rules or by direction of the Court or by any applicable statute which does not provide otherwise, the day of the act, event, or default from which a designated period of time begins to run shall not be included, and (except as provided in subparagraph (2)) the last day of the period so computed shall be included.
@@ -273,7 +271,7 @@ Except when otherwise specifically directed by the Court, pleadings need not be 
 (b) Effect of Signature: The signature of counsel or a party constitutes a certificate by the signer that the signer has read the pleading, that, to the best of the signer's knowledge, information, and belief formed after reasonable inquiry, it is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law, and that it is not interposed for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation.
 The signature of counsel also constitutes a representation by counsel that counsel is authorized to represent the party or parties on whose behalf the pleading is filed.
 If a pleading is not signed, it shall be stricken, unless it is signed promptly after the omission is called to the attention of the pleader.
-If a pleading is signed in violation of this Rule, the Court, upon motion or upon its own initiative, may impose upon the person who signed it, a represented party, or both, an appropriate sanction, which may include an order to pay to the other party or parties the amount of the reasonable expenses incurred because of the filing of the pleading, including reasonable counsel's fees. 
+If a pleading is signed in violation of this Rule, the Court, upon motion or upon its own initiative, may impose upon the person who signed it, a represented party, or both, an appropriate sanction, which may include an order to pay to the other party or parties the amount of the reasonable expenses incurred because of the filing of the pleading, including reasonable counsel's fees.
 
 Rule 34. Petition
 
@@ -769,7 +767,7 @@ See Rule 81(h)(3).
 The use of such written questions is not favored, and the deposition should not be taken in this manner in the absence of a special reason.
 See Rule 84(a). There shall be an opportunity for cross-questions and redirect questions to the same extent and within the same time periods as provided in Rule 84(b) (starting with service of the notice of deposition rather than service of an application). With respect to taking the deposition, the procedure of Rule 84(c) shall apply.
 
-(f) Other Applicable Rules: Depositions for discovery purposes under this Rule shall be governed by the provisions of the following Rules with respect to the matters to which they apply: Rule 81(e) (persons before whom deposition taken), 81(f) (taking of deposition), 81(g) (expenses), 81(h) (execution, form and return of deposition), 81(i) (use of deposition), and Rule 85(b), (c), (d), and (e) (objections and irregularities). For Rules concerned with the timing and frequency of depositions, supplementation of answers, protective orders, effect of evasive or incomplete answers or responses, and sanctions and enforcement action, see Title X.
+(f) Other Applicable Rules: Depositions for discovery purposes under this Rule shall be governed by the provisions of the following Rules with respect to the matters to which they apply: Rule 81(e) (persons before whom deposition taken), 81(f) (taking of deposition), 81(g) (expenses), 81(h) (execution, form and return of deposition), 81(i) (use of deposition), and Rule 85(b), (c), (d), and (e) (objections and irregularities). For Rules concerned with the timing and frequency of depositions, supplementation of answers, protective orders, effect of evasive or incomplete answers or responses, and sanctions and enforcement action, see Title X.
 
 Rule 75. Depositions for Discovery Purposes—Without Consent of Parties in Certain Cases
 
@@ -857,7 +855,7 @@ The other parties and the expert witness shall pay the cost for any copies of th
 
 (3) Failure to Attend: If the party authorized to take the deposition of the expert witness fails to attend or to proceed therewith, then the Court may order that party to pay the witness such fees, charges, and expenses that the witness would otherwise be entitled to under subparagraph (2) and to pay any other party such expenses, including attorney's fees, that the Court deems reasonable under the circumstances.
 
-(h) Other Applicable Rules: The deposition of an expert witness under this Rule shall be governed by the provisions of the following Rules with respect to the matters to which they apply: Rule 74(d) (transcript) and 74(e) (depositions upon written questions); Rule 81(c) (designation of person to testify), 81(e) (person before whom deposition taken), 81(f) (taking of deposition), 81(h) (execution, form, and return of deposition), and 81(j) (videotape depositions); and Rule 85 (objections, errors, and irregularities). For Rules concerned with the timing and frequency of depositions, supplementation of answers, protective orders, effect of evasive or incomplete answers or responses, and sanctions and enforcement action, see Title X.
+(h) Other Applicable Rules: The deposition of an expert witness under this Rule shall be governed by the provisions of the following Rules with respect to the matters to which they apply: Rule 74(d) (transcript) and 74(e) (depositions upon written questions); Rule 81(c) (designation of person to testify), 81(e) (person before whom deposition taken), 81(f) (taking of deposition), 81(h) (execution, form, and return of deposition), and 81(j) (videotape depositions); and Rule 85 (objections, errors, and irregularities). For Rules concerned with the timing and frequency of depositions, supplementation of answers, protective orders, effect of evasive or incomplete answers or responses, and sanctions and enforcement action, see Title X.
 
 TITLE VIII.—DEPOSITIONS
 
@@ -1181,8 +1179,6 @@ If a discovery request has been made, then the movant shall attach as an exhibit
 
 (b) Denials: If a motion for a protective order is denied in whole or in part, then the Court may, on such terms or conditions it deems just, order any party or person to comply or to respond in accordance with the procedure involved.
 
- 
-
 Rule 104. Enforcement Action and Sanctions
 
 (a) Failure to Attend Deposition or to Answer Interrogatories or Respond to Request for Inspection or Production: If a party, or an officer, director, or managing agent of a party, or a person designated in accordance with Rule 74(b), 75(c), or 81(c) to testify on behalf of a party fails (1) to appear before the officer who is to take such person's deposition pursuant to Rule 74, 75, 76, 81, 82, 83, or 84, or (2) to serve answers or objections to interrogatories submitted under Rule 71, after proper service thereof, or (3) to serve a written response to a request for production or inspection submitted under Rule 72 or 73 after proper service of the request, then the Court on motion may make such orders in regard to the failure as are just, and among others it may take any action authorized under paragraph (b) or (c) of this Rule.
@@ -1425,8 +1421,6 @@ References in Text
 
 The Federal Rules of Civil Procedure, referred to in par. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
- 
-
 Rule 144. Exceptions Unnecessary
 
 Formal exceptions to rulings or orders of the Court are unnecessary.
@@ -1543,7 +1537,7 @@ Rule 152. Oral Findings of Fact or Opinion
 The pages of the transcript that contain such findings of fact or opinion (or a written summary thereof) shall be served by the Clerk upon all parties.
 
 (c) Citation: Opinions stated orally in accordance with paragraph (a) of this Rule shall not be cited or relied upon as precedent.
-However, such opinions (including findings of fact) may be referred to for purposes of the application of the doctrine of res judicata, collateral estoppel, or law of the case. 
+However, such opinions (including findings of fact) may be referred to for purposes of the application of the doctrine of res judicata, collateral estoppel, or law of the case.
 
 TITLE XV.—DECISION 1
 
@@ -1633,8 +1627,6 @@ Rule 173. Discontinuance of Proceedings
 
 After the commencement of a trial of a small tax case, but before the decision in the case becomes final, the Court may order that the proceedings be discontinued under Code Section 7463, and that the case be tried under the Rules of Practice other than the Small Tax Case Rules, but such order will be issued only if (1) there are reasonable grounds for believing that the amount of the deficiency, or the claimed overpayment, in dispute will exceed $10,000 and (2) the Court finds that justice requires the discontinuance of the proceedings under Code Section 7463, taking into consideration the convenience and expenses for both parties that would result from the order.
 
- 
-
 Rule 174. Representation
 
 A petitioner in a small tax case may appear without representation or may be represented by any person admitted to practice before the Court.
@@ -1712,7 +1704,7 @@ After such trial, the parties shall submit their briefs in accordance with the p
 (b) Special Trial Judge's Report: After all the briefs have been filed by all the parties or the time for doing so has expired, the Special Trial Judge shall submit a report, including findings of fact and opinion, to the Chief Judge, and the Chief Judge will assign the case to a Judge or Division of the Court.
 
 (c) Action on the Report: The Judge to whom or the Division to which the case is assigned may adopt the Special Trial Judge's report or may modify it or may reject it in whole or in part, or may direct the filing of additional briefs or may receive further evidence or may direct oral argument, or may recommit the report with instructions.
-Due regard shall be given to the circumstance that the Special Trial Judge had the opportunity to evaluate the credibility of witnesses, and the findings of fact recommended by the Special Trial Judge shall be presumed to be correct. 
+Due regard shall be given to the circumstance that the Special Trial Judge had the opportunity to evaluate the credibility of witnesses, and the findings of fact recommended by the Special Trial Judge shall be presumed to be correct.
 
 TITLE XIX.—APPEALS
 
@@ -1922,8 +1914,6 @@ See Code Section 7502.
 
 (d) Form and Style of Papers: All papers filed in an action for declaratory judgment, with the exception of documents included in the administrative record, shall be prepared in the form and style set forth in Rule 23; except that whenever any party joins or intervenes in the action in those instances in which joinder or intervention is permitted, then thereafter, in addition to the number of copies required to be filed under such Rule, an additional copy shall be filed for each party who joins or intervenes in the action.
 
- 
-
 Rule 211. Commencement of Action for Declaratory Judgment
 
 (a) Commencement of Action: An action for declaratory judgment shall be commenced by filing a petition with the Court.
@@ -2059,7 +2049,7 @@ Each such petition shall contain the allegations described in paragraph (c), (d)
 A claim for reasonable litigation or administrative costs shall not be included in the petition in an exempt organization action.
 For the requirements as to claims for reasonable litigation or administrative costs, see Rule 231.
 
-(f) Service: For the provisions relating to service of the petition and other papers, see Rule 21. 
+(f) Service: For the provisions relating to service of the petition and other papers, see Rule 21.
 
 1 So in original.
 Probably should be “relied”.
@@ -2356,7 +2346,7 @@ Rule 228. Confidentiality
 
 (a) Confidentiality: The petition and all other papers submitted to the Court in any disclosure action shall be placed and retained by the Court in a confidential file and shall not be open to inspection unless otherwise permitted by the Court.
 
-(b) Publicity of Court Proceedings: On order of the Court, portions or all of the hearings, testimony, evidence, and reports in any action under this Title may be closed to the public or to inspection by the public, to the extent deemed by the Court to be appropriate in order to preserve the anonymity, privacy, or confidentiality of any person involved in an action within Code Section 6110. See Code Section 6110(f)(6). 
+(b) Publicity of Court Proceedings: On order of the Court, portions or all of the hearings, testimony, evidence, and reports in any action under this Title may be closed to the public or to inspection by the public, to the extent deemed by the Court to be appropriate in order to preserve the anonymity, privacy, or confidentiality of any person involved in an action within Code Section 6110. See Code Section 6110(f)(6).
 
 Rule 229. Burden of Proof
 
@@ -2725,8 +2715,6 @@ See Code Sections 6226(f) and 6228(a)(5). See also Rule 245, relating to interve
 (C) the terms of settlement as to each partnership item and the allocation of such items among the partners.
 Within 7 days after receiving the statement required by this subparagraph, the tax matters partner shall serve a copy of the statement on all parties to the action.
 
- 
-
 Rule 249. Action for Adjustment of Partnership Items Treated as Action for Readjustment of Partnership Items
 
 (a) Amendment to Petition: If, after the filing of a petition for adjustment of partnership items (see Code Section 6228(a) and Rule 241(a)) but before the hearing of such petition, the Commissioner mails to the tax matters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the petition relates, then such petition shall be treated as a petition in an action for readjustment of the partnership items to which such notice relates.
@@ -2938,99 +2926,99 @@ An action for administrative costs shall be deemed at issue upon the filing of t
 
 Rule 274. Applicable Small Tax Case Rules
 
-Proceedings in an action for administrative costs shall be governed by the provisions of the following Small Tax Case Rules (see Rule 170) with respect to the matters to which they apply: Rule 174 (representation); Rule 176 (preliminary hearings); Rule 177 (trial); Rule 178 (transcript of proceedings); and Rule 179 (number of copies of papers). 
+Proceedings in an action for administrative costs shall be governed by the provisions of the following Small Tax Case Rules (see Rule 170) with respect to the matters to which they apply: Rule 174 (representation); Rule 176 (preliminary hearings); Rule 177 (trial); Rule 178 (transcript of proceedings); and Rule 179 (number of copies of papers).
 
-SAVE PAGE FOR ILLUSTRATION
+TITLE XXVII.—ACTIONS FOR REVIEW OF FAILURE TO ABATE INTEREST
 
-App. I. Forms
+Rule 280. General
 
-SAVE PAGE FOR ILLUSTRATION
+(a) Applicability: The Rules of this Title XXVII set forth the provisions which apply to actions for review of the Commissioner's failure to abate interest under Code Section 6404. Except as otherwise provided in this Title, the other Rules of Practice and Procedure of the Court, to the extent pertinent, are applicable to such actions for review.
 
-Form 1. Petition (Other than in small tax case)
+(b) Jurisdiction: The Court shall have jurisdiction of an action for review of the Commissioner's failure to abate interest under this Title when the following conditions are satisfied:
 
-SAVE PAGE FOR ILLUSTRATION
+(1) The Commissioner has mailed a notice of final determination not to abate interest under Code Section 6404.
 
-Form 1. Second page of Form 1
+(2) A petition for review of the Commissioner's failure to abate interest is filed with the Court within the period specified in Code Section 6404(g) by a taxpayer who meets the requirements of Code Section 7430(c)(4)(A)(ii).
 
-SAVE PAGE FOR ILLUSTRATION
+Effective Date
 
-Form 2. Petition (Small tax case)
+Title XXVII sets forth procedures for actions under section 6404(g) of this title, added by section 302 of the Taxpayer Bill of Rights 2, Pub. L. 104–168, 110 Stat. 1452. Section 6404(g) of this title provides for review of the Commissioner's failure to abate interest and is applicable to requests for abatement after July 30, 1996, the date of enactment of the Taxpayer Bill of Rights 2. Similarly, the Rules of Title XXVII are effective with respect to actions for review of the Commissioner's failure to abate interest pertaining to requests for abatement after July 30, 1996.
 
-SAVE PAGE FOR ILLUSTRATION
+Rule 281. Commencement of Action for Review of Failure to Abate Interest
 
-Form 3. Entry of appearance
+(a) Commencement of Action: An action for review of the Commissioner's failure to abate interest under Code Section 6404 shall be commenced by filing a petition with the Court.
+See Rule 20, relating to commencement of case; Rule 22 relating to the place and manner of filing the petition; and Rule 32, regarding the form of pleadings.
 
-SAVE PAGE FOR ILLUSTRATION
+(b) Content of Petition: A petition filed pursuant to this Rule shall be entitled “Petition for Review of Failure to Abate Interest under Code Section 6404” and shall contain the following:
 
-Form 4. Designation of place of trial
+(1) In the case of a petitioner other than a corporation, the petitioner's name and legal residence; in the case of a corporate petitioner, the petitioner's name and principal place of business or principal office or agency; and, in all cases, the petitioner's mailing address and identification number (e.g. Social Security number or employer identification number). The mailing address, legal residence, and principal place of business, or principal office or agency, shall be stated as of the date that the petition is filed.
 
-SAVE PAGE FOR ILLUSTRATION
+(2) The date of the notice of final determination not to abate interest and the City and State of the office of the Internal Revenue Service which issued the notice.
 
-Form 5. Subpoena
+(3) The year or years or other periods to which the failure to abate interest relates.
 
-SAVE PAGE FOR ILLUSTRATION
+(4) Clear and concise lettered statements of the facts on which the petitioner relies to establish that the Commissioner's final determination not to abate interest was an abuse of discretion.
 
-Form 6. Application for order to take deposition
+(5) A statement that the petitioner meets the requirements of Code Section 7430(c)(4)(A)(ii).
 
-SAVE PAGE FOR ILLUSTRATION
+(6) The signature, mailing address, and telephone number of each petitioner or each petitioner's counsel, as well as counsel's Tax Court bar number.
 
-Form 6. Second page of Form 6
+(7) As an attachment, a copy of the notice of final determination denying (in whole or in part) the requested abatement.
 
-SAVE PAGE FOR ILLUSTRATION
+(c) Filing Fee: The fee for filing a petition for review of failure to abate interest shall be $60, payable at the time of filing.
+The payment of any fee under this paragraph may be waived if the petitioner establishes to the satisfaction of the Court by an affidavit containing specific financial information that the petitioner is unable to make such payment.
 
-Form 7. Certificate on return
+Rule 282. Designation of Place of Trial
 
-SAVE PAGE FOR ILLUSTRATION
+At the time of filing a petition for review of failure to abate interest, a designation of place of trial shall be filed in accordance with Rule 140.
 
-Form 8. Notice of appeal to Court of Appeals
+Rule 283. Other Pleadings
 
-SAVE PAGE FOR ILLUSTRATION
+(a) Answer: The Commissioner shall file an answer or shall move with respect to the petition within the periods specified in and in accordance with the provisions of Rule 36.
 
-Form 9. Appeal bond, corporate surety
+(b) Reply: For provisions relating to the filing of a reply, see Rule 37.
 
-SAVE PAGE FOR ILLUSTRATION
+Rule 284. Joinder of Issue in Actions for Review of Failure to Abate Interest
 
-Form 10. Appeal bond, approved collateral
+An action for review of the Commissioner's failure to abate interest under Code Section 6404 shall be deemed at issue as provided by Rule 38.
 
-SAVE PAGE FOR ILLUSTRATION
+App. I
 
-Form 10. Page 2 of Form 10
+Form 1
 
-SAVE PAGE FOR ILLUSTRATION
+Form 2
 
-Form 11. Power of attorney and agreement by corporation
+Form 3
 
-SAVE PAGE FOR ILLUSTRATION
+Form 4
 
-Form 12. Power of attorney and agreement by individuals
+Form 5
 
-SAVE PAGE FOR ILLUSTRATION
+Form 6
 
-Form 13. Certificate of service
+Form 7
 
-Form 14. Notice of election to intervene
+Form 8
 
-SAVE PAGE FOR ILLUSTRATION
+Form 9
 
-Form 15. Notice of election to participate
+Form 10
 
-SAVE PAGE FOR ILLUSTRATION
+Form 11
 
-Form 16. Petition for administrative costs (sec. 7430(f)(2))
+Form 12
 
-SAVE PAGE FOR ILLUSTRATION
+Form 13
 
-App. II. Costs involving $10,000 or less
+Form 14
 
-SAVE PAGE FOR ILLUSTRATION
+Form 15
 
-App. II. Page 2 of App. II
+Form 16
 
-SAVE PAGE FOR ILLUSTRATION
+App. II
 
-App. III. Fees and charges
+App. III
 
-SAVE PAGE FOR ILLUSTRATION
-
-App. IV. Places of trial 
+App. IV
 

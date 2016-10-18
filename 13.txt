@@ -195,8 +195,6 @@ Section Referred to in Other Sections
 
 This section is referred to in section 307 of this title.
 
- 
-
 §4. Functions of Secretary; regulations; delegation
 
 The Secretary shall perform the functions and duties imposed upon him by this title, may issue such rules and regulations as he deems necessary to carry out such functions and duties, and may delegate the performance of such functions and duties and the authority to issue such rules and regulations to such officers and employees of the Department of Commerce as he may designate.
@@ -339,7 +337,7 @@ Changes were made in phraseology and arrangement.
 
 Section Referred to in Other Sections
 
-This section is referred to in section 9 of this title; title 5 section 552a; title 8 section 1255a.
+This section is referred to in section 9 of this title; title 5 section 552a; title 8 sections 1255a, 1367.
 
 §9. Information as confidential; exception
 
@@ -398,6 +396,10 @@ There is authorized to be appropriated, out of the Treasury of the United States
 Historical and Revision Notes
 
 Section is new, and has been inserted to supply the customary authorization of appropriations necessary in carrying out any of the provisions of this title.
+
+Bureau of the Census Working Capital Fund
+
+Pub. L. 104–208, div. A, title I, §101(a) [title II, §210], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “There is hereby established the Bureau of the Census Working Capital Fund, which shall be available without fiscal year limitation, for expenses and equipment necessary for the maintenance and operation of such services and projects as the Director of the Census Bureau determines may be performed more advantageously when centralized: Provided, That such central services shall, to the fullest extent practicable, be used to make unnecessary the maintenance of separate like services in the divisions and offices of the Bureau: Provided further, That a separate schedule of expenditures and reimbursements, and a statement of the current assets and liabilities of the Working Capital Fund as of the close of the last completed fiscal year, shall be prepared each year: Provided further, That notwithstanding 31 U.S.C. 3302, the Working Capital Fund may be credited with advances and reimbursements from applicable appropriations of the Bureau and from funds of other agencies or entities for services furnished pursuant to law: Provided further, That any inventories, equipment, and other assets pertaining to the services to be provided by such funds, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the Working Capital Fund: Provided further, That the Working Capital Fund shall provide for centralized services at rates which will return in full all expenses of operation, including depreciation of fund plant and equipment, amortization of automated data processing software and hardware systems, and an amount necessary to maintain a reasonable operating reserve as determined by the Director.”
 
 Cross References
 
@@ -605,9 +607,13 @@ Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was 
 
 Temporary Positions Relating to 1990 Decennial Census
 
-Pub. L. 103–317, title II, §204, Aug. 26, 1994, 108 Stat. 1749, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses paid before October 1, 1992, as authorized by section 8501 of title 5, United States Code, for services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population.”
+Pub. L. 104–208, div. A, title I, §101(a) [title II, §204], Sept. 30, 1996, 110 Stat. 3009, 3009–39, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses paid before October 1, 1992, as authorized by section 8501 of title 5, United States Code, for services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–134, title I, §101[(a)] [title II, §204], Apr. 26, 1996, 110 Stat. 1321, 1321–30; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 103–317, title II, §204, Aug. 26, 1994, 108 Stat. 1749.
 
 Pub. L. 103–121, title II, §204, Oct. 27, 1993, 107 Stat. 1177.
 
@@ -749,8 +755,6 @@ The rental contracts within the continental United States may be entered into on
 References in Text
 
 Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred to in text, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5704 of Title 5, Government Organization and Employees.
-
- 
 
 CHAPTER 3—COLLECTION AND PUBLICATION OF STATISTICS
 
@@ -1010,7 +1014,7 @@ The Secretary shall collect and publish quarterly statistics relating to domesti
 
 (Added Pub. L. 99–467, §1(a), Oct. 14, 1986, 100 Stat. 1192.)
 
-   
+ 
 
 SUBCHAPTER IV—QUARTERLY FINANCIAL STATISTICS
 
@@ -1181,8 +1185,6 @@ Such provisions have been omitted as they were superseded by act Mar. 3, 1925, c
 Such sections 1 and 2, as amended, are classified to section 654 of title 5, U.S.C., 1952 ed., Executive Departments and Government Officers and Employees.
 Under that section, the Official Register is published by the Civil Service Commission.
 Provisions relating to its distribution are contained in sections 139, 139a and 280a of title 44, U.S.C., 1952 ed., Public Printing and Documents.
-
- 
 
 CHAPTER 5—CENSUSES
 
@@ -1389,6 +1391,19 @@ Therefore the provisions of this revised section have not been made so applicabl
 
 Changes were made in phraseology.
 
+Census Data on Grandparents as Primary Caregivers for Their Grandchildren
+
+Pub. L. 104–193, title I, §105, Aug. 22, 1996, 110 Stat. 2163, provided that:
+
+“(a) In General.—Not later than 90 days after the date of the enactment of this Act [Aug. 22, 1996], the Secretary of Commerce, in carrying out section 141 of title 13, United States Code, shall expand the data collection efforts of the Bureau of the Census (in this section referred to as the ‘Bureau’) to enable the Bureau to collect statistically significant data, in connection with its decennial census and its mid-decade census, concerning the growing trend of grandparents who are the primary caregivers for their grandchildren.
+
+“(b) Expanded Census Question.—In carrying out subsection (a), the Secretary of Commerce shall expand the Bureau's census question that details households which include both grandparents and their grandchildren.
+The expanded question shall be formulated to distinguish between the following households:
+
+“(1) A household in which a grandparent temporarily provides a home for a grandchild for a period of weeks or months during periods of parental distress.
+
+“(2) A household in which a grandparent provides a home for a grandchild and serves as the primary caregiver for the grandchild.”
+
 Decennial Census Improvement Act of 1991
 
 Pub. L. 102–135, Oct. 24, 1991, 105 Stat. 635, provided that:
@@ -1445,11 +1460,7 @@ Pub. L. 101–645, title IV, §402, Nov. 29, 1990, 104 Stat. 4723, provided that
 
 Monitoring Economic Progress of Rural America
 
-Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided that:
-
-“(a) Bureau of the Census.—The Director of the Bureau of the Census shall expand the data collection efforts of the Bureau to enable the Bureau to collect statistically significant data concerning the changing economic condition of rural counties and communities in the United States, including data on rural employment, poverty, income, and other information concerning the rural labor force.
-
-“(b) Limitation on Authorization of Appropriations.—To carry out subsection (a), there are authorized to be appropriated $1,000,000 for each fiscal year.”
+Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural counties and communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by Pub. L. 104–127, title VII, §707, Apr. 4, 1996, 110 Stat. 1112.
 
 Americans of Spanish Origin or Descent; Study for Development of Creditable Estimates in Future Censuses
 
@@ -1493,7 +1504,7 @@ Changes were made in phraseology.
 
 Census of Agriculture
 
-Pub. L. 101–624, title XXIII, §2392, Nov. 28, 1990, 104 Stat. 4057, provided that: “The Secretary of Commerce shall include questions relating to agricultural accidents and farm safety in thes [sic] 1992 Census of Agriculture.”
+Pub. L. 101–624, title XXIII, §2392, Nov. 28, 1990, 104 Stat. 4057, directed Secretary of Commerce to include questions relating to agricultural accidents and farm safety in 1992 Census of Agriculture, prior to repeal by Pub. L. 104–127, title VII, §710, Apr. 4, 1996, 110 Stat. 1112.
 
 Statistical Reports Issued On or Before June 30, 1976
 
@@ -1709,8 +1720,6 @@ Executive Order No. 12256
 Ex. Ord.
 No. 12256, Dec. 15, 1980, 45 F.R. 83189, which required the Bureau of the Census to supply estimates of the number of legal immigrants within certain jurisdictions, was revoked by Ex. Ord.
 No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
- 
 
 CHAPTER 7—OFFENSES AND PENALTIES
 
@@ -1953,39 +1962,6 @@ Section Referred to in Other Sections
 
 This section is referred to in section 225 of this title.
 
-§223. Refusal, by owners, proprietors, etc., to assist census employees
-
-Whoever, being the owner, proprietor, manager, superintendent, or agent of any hotel, apartment house, boarding or lodging house, tenement, or other building, refuses or willfully neglects, when requested by the Secretary or by any other officer or employee of the Department of Commerce or bureau or agency thereof, acting under the instructions of the Secretary, to furnish the names of the occupants of such premises, or to give free ingress thereto and egress therefrom to any duly accredited representative of such Department or bureau or agency thereof, so as to permit the collection of statistics with respect to any census provided for in subchapters I and II of chapter 5 of this title, or any survey authorized by subchapter IV or V of such chapter insofar as such survey relates to any of the subjects for which censuses are provided by such subchapters I and II, including, when relevant to the census or survey being taken or made, the proper and correct enumeration of all persons having their usual place of abode in such premises, shall be fined not more than $500.
-
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1023; Aug. 28, 1957, Pub. L. 85–207, §17, 71 Stat. 484.)
-
-Historical and Revision Notes
-
-Based on title 13, U.S.C., 1952 ed., §§122, 209, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (June 18, 1929, ch. 28, §9, 46 Stat. 23; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338. title VI, §607, 63 Stat. 441).
-
-Section consolidates the third paragraph of section 209 of title 13, U.S.C., 1952 ed., which was a part of chapter 4 of that title relating to censuses of population, agriculture, etc. (subchapter II of chapter 5 of this revised title), with that part of section 122 of such title which made such section 209 applicable to the quinquennial censuses of manufactures, the mineral industries, and other businesses provided for by section 121(a) of such title (subchapter I of chapter 5 of this revised title) and, with certain qualifications and exceptions, applicable to the interim surveys provided for by section 121(b) of such title (subchapter IV of chapter 5 of this revised title), and with that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such section 209 applicable to the decennial censuses of housing (subchapter II of chapter 5 of this revised title). For remainder of sections 122 and 209 of this revised title, and of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
-
-Section 122 of title 13, U.S.C., 1952 ed., made section 209 of such title applicable to the interim surveys (provided for by section 121(b) thereof) not only with respect to the censuses of manufacturers, the mineral industries, and other businesses provided for by section 121(a) thereof, but also with respect to the censuses provided for by “other Acts” (chapter 5 of this title). However, section 252 of that title, which was a part of a chapter thereof relating to the quinquennial censuses of governments (subchapter III of chapter 5 of this revised title), in making certain sections of chapter 4 thereof applicable to such censuses, did not specify such section 209. Therefore, this revised section is not made so applicable, either to the censuses of governments provided for in subchapter III of chapter 5 of this title, or to surveys provided for in subchapter IV thereof in so far as such surveys relate to governments.
-
-The language of section 209 of title 13, U.S.C., 1952 ed., providing that it should “be the duty” of every owner, proprietor, etc., to furnish the described information or assistance was omitted as unnecessary and redundant.
-The provisions, as herein revised, define an offense and prescribe a penalty for committing it, and are deemed sufficient for the purpose of enforcement.
-However, some of the language used in the omitted provisions was necessarily included in the description of the offense.
-
-References to the Secretary (of Commerce) and to “any other officer or employee of the Department of Commerce or bureau or agency thereof” were substituted for references to the Director of the Census and the Census Office, to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff.
-May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
-
-The enumeration of the different types of employees, in section 209 of title 13, U.S.C., 1952 ed., “supervisor, enumerator,”, etc., was omitted as unnecessary and covered by the reference in this revised section to “officer or employee”.
-
-Reference in section 209 of title 13, U.S.C., 1952 ed., to the described offense as a “misdemeanor” was omitted as covered by section 1 of title 18, U.S.C., 1952 ed., Crimes and Criminal Procedure, classifying offenses, and words in such section “and upon conviction thereof” were omitted as surplusage.
-
-Changes were made in phraseology.
-
-The qualifications and exceptions contained in that part of section 122 of title 13, U.S.C., 1952 ed., which made section 209 of such title applicable to the surveys provided for in section 121(b) thereof (subchapter IV of chapter 5 of this revised title), are set out elsewhere in this subchapter.
-
-Section Referred to in Other Sections
-
-This section is referred to in section 225 of this title.
-
 §224. Failure to answer questions affecting companies, businesses, religious bodies, and other organizations; false answers
 
 Whoever, being the owner, official, agent, person in charge, or assistant to the person in charge, of any company, business, institution, establishment, religious body, or organization of any nature whatsoever, neglects or refuses, when requested by the Secretary or other authorized officer or employee of the Department of Commerce or bureau or agency thereof, to answer completely and correctly to the best of his knowledge all questions relating to his company, business, institution, establishment, religious body, or other organization, or to records or statistics in his official custody, contained on any census or other schedule or questionnaire prepared and submitted to him under the authority of this title, shall be fined not more than $500; and if he willfully gives a false answer to any such question, he shall be fined not more than $10,000.
@@ -2093,6 +2069,95 @@ May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of thi
 
 Changes were made in phraseology.
 
+CHAPTER 9—COLLECTION AND PUBLICATION OF FOREIGN COMMERCE AND TRADE STATISTICS
+
+Sec.
+
+301.
+Collection and publication.
+
+302.
+Rules, regulations, and orders.
+
+303.
+Secretary of Treasury, functions.1
+
+        
+
+304.
+Filing export information, delayed filings, penalties for failure to file.
+
+305.
+Violations, penalties.
+
+306.
+Delegation of functions.
+
+307.
+Relationship to general census law.
+
+        
+
+1 So in original.
+Does not conform to section catchline.
+
+§301. Collection and publication
+
+(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and further the commerce, domestic and foreign, of the United States and for other lawful purposes.
+
+(b) The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, on quarterly and cumulative bases, statistics on United States imports for consumption and United States exports by country and by product.
+Statistics on United States imports shall be submitted in accordance with the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof, in detail as follows:
+
+(1) net quantity;
+
+(2) United States customs value;
+
+(3) purchase price or its equivalent;
+
+(4) equivalent of arm's length value;
+
+(5) aggregate cost from port of exportation to United States port of entry;
+
+(6) a United States port of entry value comprised of (5) plus (4), if applicable, or, if not applicable, (5) plus (3); and
+
+(7) for transactions where (3) and (4) are equal, the total value of such transactions.
+
+The data for paragraphs (1), (2), (3), (5), and (6) shall be reported separately for nonrelated and related party transactions, and shall also be reported as a total of all transactions.
+
+(c) In submitting any information under subsection (b) with respect to exports, the Secretary shall state separately from the total value of all exports—
+
+(1)(A) the value of agricultural commodities exported under the Agricultural Trade Development and Assistance Act of 1954, as amended; and
+
+(B) the total amount of all export subsidies paid to exporters by the United States under such Act for the exportation of such commodities; and
+
+(2) the value of goods exported under the Foreign Assistance Act of 1961.
+
+(d) To assist the Secretary to carry out the provisions of subsections (b) and (c)—
+
+(1) the Secretary of Agriculture shall furnish information to the Secretary concerning the value of agricultural commodities exported under provisions of the Agricultural Trade Development and Assistance Act of 1954, as amended, and the total amounts of all export subsidies paid to exporters by the United States under such Act for the exportation of such commodities; and
+
+(2) the Secretary of State shall furnish information to the Secretary concerning the value of goods exported under the provisions of the Foreign Assistance Act of 1961, as amended.
+
+(e) There shall be reported, on monthly and cumulative bases, for each heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes, the United States port of entry value (as determined under subsection (b)(6)). There shall be reported, on monthly and cumulative bases, the balance of international trade for the United States reflecting (1) the aggregate value of all United States imports as reported in accordance with the first sentence of this subsection, and (2) the aggregate value of all United States exports.
+The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.
+
+(f) On or before January 1, 1981, and as often thereafter as may be necessary to reflect significant changes in rates, there shall be reported for each heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes, the ad valorem or ad valorem equivalent rate of duty which would have been required to be imposed on dutiable imports under that heading or subheading, if the United States customs values of such imports were based on the United States port of entry value (as reported in accordance with the first sentence of subsection (e)) in order to collect the same amount of duties on imports under that heading or subheading as are currently collected.
+
+(g) Shippers’ Export Declarations (or any successor document), wherever located, shall be exempt from public disclosure unless the Secretary determines that such exemption would be contrary to the national interest.
+
+(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, §609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, §1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, §1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418, title I, §§1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320.)
+
+References in Text
+
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b), (e), and (f), is not set out in the Code.
+See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (c)(1), (d)(1), is act July 10, 1954, ch. 649, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture.
+For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+
+The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2), (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse.
+For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+
 Effective Date
 
 Section 4 of Pub. L. 87–826 provided that: “The provisions of this Act [enacting section 301 et seq. of this title and repealing sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of former Title 46, Shipping, and section 1486 of Title 48, Territories and Insular Possessions] shall take effect one hundred and eighty days after approval [Oct. 15, 1962], except that the last sentence of section 337, “Fifth” of the Revised Statutes [section 174 of Title 15], and the requirement for oaths as found in section 4200 of the Revised Statutes [section 92 of former Title 46] shall be repealed effective on the date this Act is approved [Oct. 15, 1962].”
@@ -2186,6 +2251,4 @@ References in Text
 
 The International Investment and Trade in Services Survey Act, referred to in text, is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, as amended, which is classified generally to chapter 46 (§3101 et seq.) of Title 22, Foreign Relations and Intercourse.
 Section 3 of the Act is classified to section 3102 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 22 and Tables.
-
- 
 
