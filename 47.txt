@@ -1336,7 +1336,28 @@ Policy.
 Protection for Good Samaritan blocking and screening of offensive material.
 
 (d)
+Obligations of interactive computer service.
+
+(e)
 Effect on other laws.
+
+(f)
+Definitions.
+
+231.
+Restriction of access by minors to materials commercially distributed by means of World Wide Web that are harmful to minors.
+
+(a)
+Requirement to restrict access.
+
+(b)
+Inapplicability of carriers and other service providers.
+
+(c)
+Affirmative defense.
+
+(d)
+Privacy protection requirements.
 
 (e)
 Definitions.
@@ -3571,6 +3592,244 @@ References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which is classified principally to this chapter.
 For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
+Moratorium on Internet Taxes
+
+Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, provided that:
+
+“SEC. 1100. SHORT TITLE.
+
+“This title may be cited as the ‘Internet Tax Freedom Act’.
+
+“SEC. 1101. MORATORIUM.
+
+“(a) Moratorium.—No State or political subdivision thereof shall impose any of the following taxes during the period beginning on October 1, 1998, and ending 3 years after the date of the enactment of this Act [Oct. 21, 1998]—
+
+“(1) taxes on Internet access, unless such tax was generally imposed and actually enforced prior to October 1, 1998; and
+
+“(2) multiple or discriminatory taxes on electronic commerce.
+
+“(b) Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act [Oct. 21, 1998].
+
+“(c) Liabilities and Pending Cases.—Nothing in this title affects liability for taxes accrued and enforced before the date of enactment of this Act, nor does this title affect ongoing litigation relating to such taxes.
+
+“(d) Definition of Generally Imposed and Actually Enforced.—For purposes of this section, a tax has been generally imposed and actually enforced prior to October 1, 1998, if, before that date, the tax was authorized by statute and either—
+
+“(1) a provider of Internet access services had a reasonable opportunity to know by virtue of a rule or other public proclamation made by the appropriate administrative agency of the State or political subdivision thereof, that such agency has interpreted and applied such tax to Internet access services; or
+
+“(2) a State or political subdivision thereof generally collected such tax on charges for Internet access.
+
+“(e) Exception to Moratorium.—
+
+“(1) In general.—Subsection (a) shall also not apply in the case of any person or entity who knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors unless such person or entity has restricted access by minors to material that is harmful to minors—
+
+“(A) by requiring use of a credit card, debit account, adult access code, or adult personal identification number;
+
+“(B) by accepting a digital certificate that verifies age; or
+
+“(C) by any other reasonable measures that are feasible under available technology.
+
+“(2) Scope of exception.—For purposes of paragraph (1), a person shall not be considered to [be] making a communication for commercial purposes of material to the extent that the person is—
+
+“(A) a telecommunications carrier engaged in the provision of a telecommunications service;
+
+“(B) a person engaged in the business of providing an Internet access service;
+
+“(C) a person engaged in the business of providing an Internet information location tool; or
+
+“(D) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the communication.
+
+“(3) Definitions.—In this subsection:
+
+“(A) By means of the world wide web.—The term ‘by means of the World Wide Web’ means by placement of material in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol, file transfer protocol, or other similar protocols.
+
+“(B) Commercial purposes; engaged in the business.—
+
+“(i) Commercial purposes.—A person shall be considered to make a communication for commercial purposes only if such person is engaged in the business of making such communications.
+
+“(ii) Engaged in the business.—The term ‘engaged in the business’ means that the person who makes a communication, or offers to make a communication, by means of the World Wide Web, that includes any material that is harmful to minors, devotes time, attention, or labor to such activities, as a regular course of such person's trade or business, with the objective of earning a profit as a result of such activities (although it is not necessary that the person make a profit or that the making or offering to make such communications be the person's sole or principal business or source of income). A person may be considered to be engaged in the business of making, by means of the World Wide Web, communications for commercial purposes that include material that is harmful to minors, only if the person knowingly causes the material that is harmful to minors to be posted on the World Wide Web or knowingly solicits such material to be posted on the World Wide Web.
+
+“(C) Internet.—The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
+
+“(D) Internet access service.—The term ‘Internet access service’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers.
+Such term does not include telecommunications services.
+
+“(E) Internet information location tool.—The term ‘Internet information location tool’ means a service that refers or links users to an online location on the World Wide Web.
+Such term includes directories, indices, references, pointers, and hypertext links.
+
+“(F) Material that is harmful to minors.—The term ‘material that is harmful to minors’ means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—
+
+“(i) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
+
+“(ii) depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+
+“(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
+
+“(G) Minor.—The term ‘minor’ means any person under 17 years of age.
+
+“(H) Telecommunications carrier; telecommunications service.—The terms ‘telecommunications carrier’ and ‘telecommunications service’ have the meanings given such terms in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
+
+“(f) Additional Exception to Moratorium.—
+
+“(1) In general.—Subsection (a) shall also not apply with respect to an Internet access provider, unless, at the time of entering into an agreement with a customer for the provision of Internet access services, such provider offers such customer (either for a fee or at no charge) screening software that is designed to permit the customer to limit access to material on the Internet that is harmful to minors.
+
+“(2) Definitions.—In this subsection:
+
+“(A) Internet access provider.—The term ‘Internet access provider’ means a person engaged in the business of providing a computer and communications facility through which a customer may obtain access to the Internet, but does not include a common carrier to the extent that it provides only telecommunications services.
+
+“(B) Internet access services.—The term ‘Internet access services’ means the provision of computer and communications services through which a customer using a computer and a modem or other communications device may obtain access to the Internet, but does not include telecommunications services provided by a common carrier.
+
+“(C) Screening software.—The term ‘screening software’ means software that is designed to permit a person to limit access to material on the Internet that is harmful to minors.
+
+“(3) Applicability.—Paragraph (1) shall apply to agreements for the provision of Internet access services entered into on or after the date that is 6 months after the date of enactment of this Act [Oct. 21, 1998].
+
+“SEC. 1102. ADVISORY COMMISSION ON ELECTRONIC COMMERCE.
+
+“(a) Establishment of Commission.—There is established a commission to be known as the Advisory Commission on Electronic Commerce (in this title referred to as the ‘Commission’). The Commission shall—
+
+“(1) be composed of 19 members appointed in accordance with subsection (b), including the chairperson who shall be selected by the members of the Commission from among themselves; and
+
+“(2) conduct its business in accordance with the provisions of this title.
+
+“(b) Membership.—
+
+“(1) In general.—The Commissioners shall serve for the life of the Commission.
+The membership of the Commission shall be as follows:
+
+“(A) 3 representatives from the Federal Government, comprised of the Secretary of Commerce, the Secretary of the Treasury, and the United States Trade Representative (or their respective delegates).
+
+“(B) 8 representatives from State and local governments (one such representative shall be from a State or local government that does not impose a sales tax and one representative shall be from a State that does not impose an income tax).
+
+“(C) 8 representatives of the electronic commerce industry (including small business), telecommunications carriers, local retail businesses, and consumer groups, comprised of—
+
+“(i) 5 individuals appointed by the Majority Leader of the Senate;
+
+“(ii) 3 individuals appointed by the Minority Leader of the Senate;
+
+“(iii) 5 individuals appointed by the Speaker of the House of Representatives; and
+
+“(iv) 3 individuals appointed by the Minority Leader of the House of Representatives.
+
+“(2) Appointments.—Appointments to the Commission shall be made not later than 45 days after the date of the enactment of this Act [Oct. 21, 1998]. The chairperson shall be selected not later than 60 days after the date of the enactment of this Act.
+
+“(3) Vacancies.—Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+
+“(c) Acceptance of Gifts and Grants.—The Commission may accept, use, and dispose of gifts or grants of services or property, both real and personal, for purposes of aiding or facilitating the work of the Commission.
+Gifts or grants not used at the expiration of the Commission shall be returned to the donor or grantor.
+
+“(d) Other Resources.—The Commission shall have reasonable access to materials, resources, data, and other information from the Department of Justice, the Department of Commerce, the Department of State, the Department of the Treasury, and the Office of the United States Trade Representative.
+The Commission shall also have reasonable access to use the facilities of any such Department or Office for purposes of conducting meetings.
+
+“(e) Sunset.—The Commission shall terminate 18 months after the date of the enactment of this Act [Oct. 21, 1998].
+
+“(f) Rules of the Commission.—
+
+“(1) Quorum.—Nine members of the Commission shall constitute a quorum for conducting the business of the Commission.
+
+“(2) Meetings.—Any meetings held by the Commission shall be duly noticed at least 14 days in advance and shall be open to the public.
+
+“(3) Opportunities to testify.—The Commission shall provide opportunities for representatives of the general public, taxpayer groups, consumer groups, and State and local government officials to testify.
+
+“(4) Additional rules.—The Commission may adopt other rules as needed.
+
+“(g) Duties of the Commission.—
+
+“(1) In general.—The Commission shall conduct a thorough study of Federal, State and local, and international taxation and tariff treatment of transactions using the Internet and Internet access and other comparable intrastate, interstate or international sales activities.
+
+“(2) Issues to be studied.—The Commission may include in the study under subsection (a)—
+
+“(A) an examination of—
+
+“(i) barriers imposed in foreign markets on United States providers of property, goods, services, or information engaged in electronic commerce and on United States providers of telecommunications services; and
+
+“(ii) how the imposition of such barriers will affect United States consumers, the competitiveness of United States citizens providing property, goods, services, or information in foreign markets, and the growth and maturing of the Internet;
+
+“(B) an examination of the collection and administration of consumption taxes on electronic commerce in other countries and the United States, and the impact of such collection on the global economy, including an examination of the relationship between the collection and administration of such taxes when the transaction uses the Internet and when it does not;
+
+“(C) an examination of the impact of the Internet and Internet access (particularly voice transmission) on the revenue base for taxes imposed under section 4251 of the Internal Revenue Code of 1986 [26 U.S.C. 4251];
+
+“(D) an examination of model State legislation that—
+
+“(i) would provide uniform definitions of categories of property, goods, service, or information subject to or exempt from sales and use taxes; and
+
+“(ii) would ensure that Internet access services, online services, and communications and transactions using the Internet, Internet access service, or online services would be treated in a tax and technologically neutral manner relative to other forms of remote sales;
+
+“(E) an examination of the effects of taxation, including the absence of taxation, on all interstate sales transactions, including transactions using the Internet, on retail businesses and on State and local governments, which examination may include a review of the efforts of State and local governments to collect sales and use taxes owed on in-State purchases from out-of-State sellers; and
+
+“(F) the examination of ways to simplify Federal and State and local taxes imposed on the provision of telecommunications services.
+
+“(3) Effect on the communications act of 1934.—Nothing in this section shall include an examination of any fees or charges imposed by the Federal Communications Commission or States related to—
+
+“(A) obligations under the Communications Act of 1934 (47 U.S.C. 151 et seq.); or
+
+“(B) the implementation of the Telecommunications Act of 1996 [Pub. L. 104–104, see Short Title of 1996 Amendment note set out under section 609 of this title] (or of amendments made by that Act).
+
+“(h) National Tax Association Communications and Electronic Commerce Tax Project.—The Commission shall, to the extent possible, ensure that its work does not undermine the efforts of the National Tax Association Communications and Electronic Commerce Tax Project.
+
+“SEC. 1103. REPORT.
+
+“Not later than 18 months after the date of the enactment of this Act [Oct. 21, 1998], the Commission shall transmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title.
+Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce.
+No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
+
+“SEC. 1104. DEFINITIONS.
+
+“For the purposes of this title:
+
+“(1) Bit tax.—The term ‘bit tax’ means any tax on electronic commerce expressly imposed on or measured by the volume of digital information transmitted electronically, or the volume of digital information per unit of time transmitted electronically, but does not include taxes imposed on the provision of telecommunications services.
+
+“(2) Discriminatory tax.—The term ‘discriminatory tax’ means—
+
+“(A) any tax imposed by a State or political subdivision thereof on electronic commerce that—
+
+“(i) is not generally imposed and legally collectible by such State or such political subdivision on transactions involving similar property, goods, services, or information accomplished through other means;
+
+“(ii) is not generally imposed and legally collectible at the same rate by such State or such political subdivision on transactions involving similar property, goods, services, or information accomplished through other means, unless the rate is lower as part of a phase-out of the tax over not more than a 5-year period;
+
+“(iii) imposes an obligation to collect or pay the tax on a different person or entity than in the case of transactions involving similar property, goods, services, or information accomplished through other means;
+
+“(iv) establishes a classification of Internet access service providers or online service providers for purposes of establishing a higher tax rate to be imposed on such providers than the tax rate generally applied to providers of similar information services delivered through other means; or
+
+“(B) any tax imposed by a State or political subdivision thereof, if—
+
+“(i) except with respect to a tax (on Internet access) that was generally imposed and actually enforced prior to October 1, 1998, the sole ability to access a site on a remote seller's out-of-State computer server is considered a factor in determining a remote seller's tax collection obligation; or
+
+“(ii) a provider of Internet access service or online services is deemed to be the agent of a remote seller for determining tax collection obligations solely as a result of—
+
+     “(I) the display of a remote seller's information or content on the out-of-State computer server of a provider of Internet access service or online services; or
+
+     “(II) the processing of orders through the out-of-State computer server of a provider of Internet access service or online services.
+
+“(3) Electronic commerce.—The term ‘electronic commerce’ means any transaction conducted over the Internet or through Internet access, comprising the sale, lease, license, offer, or delivery of property, goods, services, or information, whether or not for consideration, and includes the provision of Internet access.
+
+“(4) Internet.—The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
+
+“(5) Internet access.—The term ‘Internet access’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to users.
+Such term does not include telecommunications services.
+
+“(6) Multiple tax.—
+
+“(A) In general.—The term ‘multiple tax’ means any tax that is imposed by one State or political subdivision thereof on the same or essentially the same electronic commerce that is also subject to another tax imposed by another State or political subdivision thereof (whether or not at the same rate or on the same basis), without a credit (for example, a resale exemption certificate) for taxes paid in other jurisdictions.
+
+“(B) Exception.—Such term shall not include a sales or use tax imposed by a State and 1 or more political subdivisions thereof on the same electronic commerce or a tax on persons engaged in electronic commerce which also may have been subject to a sales or use tax thereon.
+
+“(C) Sales or use tax.—For purposes of subparagraph (B), the term ‘sales or use tax’ means a tax that is imposed on or incident to the sale, purchase, storage, consumption, distribution, or other use of tangible personal property or services as may be defined by laws imposing such tax and which is measured by the amount of the sales price or other charge for such property or service.
+
+“(7) State.—The term ‘State’ means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+
+“(8) Tax.—
+
+“(A) In general.—The term ‘tax’ means—
+
+“(i) any charge imposed by any governmental entity for the purpose of generating revenues for governmental purposes, and is not a fee imposed for a specific privilege, service, or benefit conferred; or
+
+“(ii) the imposition on a seller of an obligation to collect and to remit to a governmental entity any sales or use tax imposed on a buyer by a governmental entity.
+
+“(B) Exception.—Such term does not include any franchise fee or similar fee imposed by a State or local franchising authority, pursuant to section 622 or 653 of the Communications Act of 1934 (47 U.S.C. 542, 573), or any other fee related to obligations or telecommunications carriers under the Communications Act of 1934 (47 U.S.C. 151 et seq.).
+
+“(9) Telecommunications service.—The term ‘telecommunications service’ has the meaning given such term in section 3(46) of the Communications Act of 1934 (47 U.S.C. 153(46)) and includes communications services (as defined in section 4251 of the Internal Revenue Code of 1986 [26 U.S.C. 4251]).
+
+“(10) Tax on internet access.—The term ‘tax on Internet access’ means a tax on Internet access, including the enforcement or application of any new or preexisting tax on the sale or use of Internet services unless such tax was generally imposed and actually enforced prior to October 1, 1998.”
+
 Stylistic Consistency
 
 Section 101(c) of title I of Pub. L. 104–104 provided that: “The Act [Communications Act of 1934 (47 U.S.C. 151 et seq.)] is amended so that—
@@ -4007,7 +4266,7 @@ Service or other valuable consideration as used in provisions relating to disclo
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 224, 225, 271, 273, 274, 332, 541, 556, 557, 741 of this title; title 7 section 924; title 15 section 78c; title 18 section 2510; title 22 section 1465ff.
+This section is referred to in sections 224, 225, 271, 273, 274, 332, 541, 556, 557, 741 of this title; title 7 section 924; title 15 section 78c; title 17 section 1202; title 18 sections 1029, 2510; title 22 section 1465ff.
 
 §154. Federal Communications Commission
 
@@ -6661,7 +6920,7 @@ For purposes of this section—
 
 (B) does not include an interactive computer service.
 
-(2) The term “interactive computer service” has the meaning provided in section 230(e)(2) of this title.
+(2) The term “interactive computer service” has the meaning provided in section 230(f)(2) of this title.
 
 (3) The term “access software” means software (including client or server software) or enabling tools that do not create or provide the content of the communication but that allow a user to do any one or more of the following:
 
@@ -6671,11 +6930,11 @@ For purposes of this section—
 
 (C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
 
-(4) The term “institution of higher education” has the meaning provided in section 1141 of title 20.
+(4) The term “institution of higher education” has the meaning provided in section 1001 of title 20.
 
 (5) The term “library” means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 355e et seq.).
 
-(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133.)
+(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739.)
 
 References in Text
 
@@ -7823,11 +8082,16 @@ No provider or user of an interactive computer service shall be held liable on a
 
 (B) any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).1
 
-(d) Effect on other laws
+(d) Obligations of interactive computer service
+
+A provider of interactive computer service shall, at the time of entering an agreement with a customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist the customer in limiting access to material that is harmful to minors.
+Such notice shall identify, or provide the customer with access to information identifying, current providers of such protections.
+
+(e) Effect on other laws
 
 (1) No effect on criminal law
 
-Nothing in this section shall be construed to impair the enforcement of section 223 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
+Nothing in this section shall be construed to impair the enforcement of section 223 or 231 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
 
 (2) No effect on intellectual property law
 
@@ -7842,7 +8106,7 @@ No cause of action may be brought and no liability may be imposed under any Stat
 
 Nothing in this section shall be construed to limit the application of the Electronic Communications Privacy Act of 1986 or any of the amendments made by such Act, or any similar State law.
 
-(e) Definitions
+(f) Definitions
 
 As used in this section:
 
@@ -7868,11 +8132,11 @@ The term “access software provider” means a provider of software (including 
 
 (C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
 
-(June 19, 1934, ch. 652, title II, §230, as added Pub. L. 104–104, title V, §509, Feb. 8, 1996, 110 Stat. 137.)
+(June 19, 1934, ch. 652, title II, §230, as added Pub. L. 104–104, title V, §509, Feb. 8, 1996, 110 Stat. 137; amended Pub. L. 105–277, div. C, title XIV, §1404(a), Oct. 21, 1998, 112 Stat. 2681–739.)
 
 References in Text
 
-The Electronic Communications Privacy Act of 1986, referred to in subsec. (d)(4), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848, as amended.
+The Electronic Communications Privacy Act of 1986, referred to in subsec. (e)(4), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848, as amended.
 For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 2510 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 Codification
@@ -7881,10 +8145,239 @@ Section 509 of Pub. L. 104–104, which directed amendment of title II of the Co
 
 Section Referred to in Other Sections
 
-This section is referred to in section 223 of this title; title 18 sections 1462, 1465.
+This section is referred to in sections 223, 231 of this title; title 18 sections 1462, 1465.
 
 1 So in original.
 Probably should be “subparagraph (A).”
+
+§231. Restriction of access by minors to materials commercially distributed by means of World Wide Web that are harmful to minors
+
+(a) Requirement to restrict access
+
+(1) Prohibited conduct
+
+Whoever knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors shall be fined not more than $50,000, imprisoned not more than 6 months, or both.
+
+(2) Intentional violations
+
+In addition to the penalties under paragraph (1), whoever intentionally violates such paragraph shall be subject to a fine of not more than $50,000 for each violation.
+For purposes of this paragraph, each day of violation shall constitute a separate violation.
+
+(3) Civil penalty
+
+In addition to the penalties under paragraphs (1) and (2), whoever violates paragraph (1) shall be subject to a civil penalty of not more than $50,000 for each violation.
+For purposes of this paragraph, each day of violation shall constitute a separate violation.
+
+(b) Inapplicability of carriers and other service providers
+
+For purposes of subsection (a) of this section, a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
+
+(1) a telecommunications carrier engaged in the provision of a telecommunications service;
+
+(2) a person engaged in the business of providing an Internet access service;
+
+(3) a person engaged in the business of providing an Internet information location tool; or
+
+(4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person's deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this section or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
+
+(c) Affirmative defense
+
+(1) Defense
+
+It is an affirmative defense to prosecution under this section that the defendant, in good faith, has restricted access by minors to material that is harmful to minors—
+
+(A) by requiring use of a credit card, debit account, adult access code, or adult personal identification number;
+
+(B) by accepting a digital certificate that verifies age; or
+
+(C) by any other reasonable measures that are feasible under available technology.
+
+(2) Protection for use of defenses
+
+No cause of action may be brought in any court or administrative agency against any person on account of any activity that is not in violation of any law punishable by criminal or civil penalty, and that the person has taken in good faith to implement a defense authorized under this subsection or otherwise to restrict or prevent the transmission of, or access to, a communication specified in this section.
+
+(d) Privacy protection requirements
+
+(1) Disclosure of information limited
+
+A person making a communication described in subsection (a) of this section—
+
+(A) shall not disclose any information collected for the purposes of restricting access to such communications to individuals 17 years of age or older without the prior written or electronic consent of—
+
+(i) the individual concerned, if the individual is an adult; or
+
+(ii) the individual's parent or guardian, if the individual is under 17 years of age; and
+
+(B) shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the person making such communication and the recipient of such communication.
+
+(2) Exceptions
+
+A person making a communication described in subsection (a) of this section may disclose such information if the disclosure is—
+
+(A) necessary to make the communication or conduct a legitimate business activity related to making the communication; or
+
+(B) made pursuant to a court order authorizing such disclosure.
+
+(e) Definitions
+
+For purposes of this subsection,1 the following definitions shall apply:
+
+(1) By means of the World Wide Web
+
+The term “by means of the World Wide Web” means by placement of material in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.
+
+(2) Commercial purposes; engaged in the business
+
+(A) Commercial purposes
+
+A person shall be considered to make a communication for commercial purposes only if such person is engaged in the business of making such communications.
+
+(B) Engaged in the business
+
+The term “engaged in the business” means that the person who makes a communication, or offers to make a communication, by means of the World Wide Web, that includes any material that is harmful to minors, devotes time, attention, or labor to such activities, as a regular course of such person's trade or business, with the objective of earning a profit as a result of such activities (although it is not necessary that the person make a profit or that the making or offering to make such communications be the person's sole or principal business or source of income). A person may be considered to be engaged in the business of making, by means of the World Wide Web, communications for commercial purposes that include material that is harmful to minors, only if the person knowingly causes the material that is harmful to minors to be posted on the World Wide Web or knowingly solicits such material to be posted on the World Wide Web.
+
+(3) Internet
+
+The term “Internet” means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that employ the Transmission Control Protocol/Internet Protocol or any successor protocol to transmit information.
+
+(4) Internet access service
+
+The term “Internet access service” means a service that enables users to access content, information, electronic mail, or other services offered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers.
+Such term does not include telecommunications services.
+
+(5) Internet information location tool
+
+The term “Internet information location tool” means a service that refers or links users to an online location on the World Wide Web.
+Such term includes directories, indices, references, pointers, and hypertext links.
+
+(6) Material that is harmful to minors
+
+The term “material that is harmful to minors” means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—
+
+(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
+
+(B) depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+
+(C) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
+
+(7) Minor
+
+The term “minor” means any person under 17 years of age.
+
+(June 19, 1934, ch. 652, title II, §231, as added Pub. L. 105–277, div. C, title XIV, §1403, Oct. 21, 1998, 112 Stat. 2681–736.)
+
+Effective Date
+
+Section effective 30 days after Oct. 21, 1998, see section 1406 of Pub. L. 105–277, set out as a note under section 223 of this title.
+
+Congressional Findings
+
+Pub. L. 105–277, div. C, title XIV, §1402, Oct. 21, 1998, 112 Stat. 2681–736, provided that: “The Congress finds that—
+
+“(1) while custody, care, and nurture of the child resides first with the parent, the widespread availability of the Internet presents opportunities for minors to access materials through the World Wide Web in a manner that can frustrate parental supervision or control;
+
+“(2) the protection of the physical and psychological well-being of minors by shielding them from materials that are harmful to them is a compelling governmental interest;
+
+“(3) to date, while the industry has developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
+
+“(4) a prohibition on the distribution of material harmful to minors, combined with legitimate defenses, is currently the most effective and least restrictive means by which to satisfy the compelling government interest; and
+
+“(5) notwithstanding the existence of protections that limit the distribution over the World Wide Web of material that is harmful to minors, parents, educators, and industry must continue efforts to find ways to protect children from being exposed to harmful material found on the Internet.”
+
+Study by Commission on Online Child Protection
+
+Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, provided that:
+
+“(a) Establishment.—There is hereby established a temporary Commission to be known as the Commission on Online Child Protection (in this section referred to as the ‘Commission’) for the purpose of conducting a study under this section regarding methods to help reduce access by minors to material that is harmful to minors on the Internet.
+
+“(b) Membership.—The Commission shall be composed of 19 members, as follows:
+
+“(1) Industry members.—The Commission shall include—
+
+“(A) 2 members who are engaged in the business of providing Internet filtering or blocking services or software;
+
+“(B) 2 members who are engaged in the business of providing Internet access services;
+
+“(C) 2 members who are engaged in the business of providing labeling or ratings services;
+
+“(D) 2 members who are engaged in the business of providing Internet portal or search services;
+
+“(E) 2 members who are engaged in the business of providing domain name registration services;
+
+“(F) 2 members who are academic experts in the field of technology; and
+
+“(G) 4 members who are engaged in the business of making content available over the Internet.
+
+“Of the members of the Commission by reason of each subparagraph of this paragraph, an equal number shall be appointed by the Speaker of the House of Representatives and by the Majority Leader of the Senate.
+
+“(2) Ex officio members.—The Commission shall include the following officials:
+
+“(A) The Assistant Secretary (or the Assistant Secretary's designee).
+
+“(B) The Attorney General (or the Attorney General's designee).
+
+“(C) The Chairman of the Federal Trade Commission (or the Chairman's designee).
+
+“(c) Study.—
+
+“(1) In general.—The Commission shall conduct a study to identify technological or other methods that—
+
+“(A) will help reduce access by minors to material that is harmful to minors on the Internet; and
+
+“(B) may meet the requirements for use as affirmative defenses for purposes of section 231(c) of the Communications Act of 1934 [47 U.S.C. 231(c)] (as added by this title).
+
+“Any methods so identified shall be used as the basis for making legislative recommendations to the Congress under subsection (d)(3).
+
+“(2) Specific methods.—In carrying out the study, the Commission shall identify and analyze various technological tools and methods for protecting minors from material that is harmful to minors, which shall include (without limitation)—
+
+“(A) a common resource for parents to use to help protect minors (such as a ‘one-click-away’ resource);
+
+“(B) filtering or blocking software or services;
+
+“(C) labeling or rating systems;
+
+“(D) age verification systems;
+
+“(E) the establishment of a domain name for posting of any material that is harmful to minors; and
+
+“(F) any other existing or proposed technologies or methods for reducing access by minors to such material.
+
+“(3) Analysis.—In analyzing technologies and other methods identified pursuant to paragraph (2), the Commission shall examine—
+
+“(A) the cost of such technologies and methods;
+
+“(B) the effects of such technologies and methods on law enforcement entities;
+
+“(C) the effects of such technologies and methods on privacy;
+
+“(D) the extent to which material that is harmful to minors is globally distributed and the effect of such technologies and methods on such distribution;
+
+“(E) the accessibility of such technologies and methods to parents; and
+
+“(F) such other factors and issues as the Commission considers relevant and appropriate.
+
+“(d) Report.—Not later than 1 year after the enactment of this Act [Oct. 21, 1998], the Commission shall submit a report to the Congress containing the results of the study under this section, which shall include—
+
+“(1) a description of the technologies and methods identified by the study and the results of the analysis of each such technology and method;
+
+“(2) the conclusions and recommendations of the Commission regarding each such technology or method;
+
+“(3) recommendations for legislative or administrative actions to implement the conclusions of the committee; and
+
+“(4) a description of the technologies or methods identified by the study that may meet the requirements for use as affirmative defenses for purposes of section 231(c) of the Communications Act of 1934 [47 U.S.C. 231(c)] (as added by this title).
+
+“(e) Staff and Resources.—The Assistant Secretary for Communication and Information of the Department of Commerce shall provide to the Commission such staff and resources as the Assistant Secretary determines necessary for the Commission to perform its duty efficiently and in accordance with this section.
+
+“(f) Termination.—The Commission shall terminate 30 days after the submission of the report under subsection (d).
+
+“(g) Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
+
+Section Referred to in Other Sections
+
+This section is referred to in section 230 of this title.
+
+1 So in original.
+Probably should be “section,”.
 
 Part II—Development of Competitive Markets
 
@@ -8517,7 +9010,7 @@ The Commission shall have exclusive jurisdiction with respect to any complaint u
 
 Section Referred to in Other Sections
 
-This section is referred to in section 251 of this title.
+This section is referred to in section 251 of this title; title 29 section 792.
 
 §256. Coordination for interconnectivity
 
@@ -9491,7 +9984,7 @@ SUBCHAPTER III—SPECIAL PROVISIONS RELATING TO RADIO
 
 Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 503, 571, 741, 753 of this title.
+This subchapter is referred to in sections 503, 571, 741, 753 of this title; title 18 section 1029.
 
 Part I—General Provisions
 
@@ -11782,7 +12275,9 @@ No. 13038. Advisory Committee on Public Interest Obligations of Digital Televisi
 Ex. Ord.
 No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord.
 No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord.
-No. 13065, Oct. 22, 1997, 62 F.R. 55329, provided:
+No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord.
+No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord.
+No. 13102, Sept. 25, 1998, 63 F.R. 52125, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), and in order to establish an advisory committee on the public interest obligations of digital television broadcasters, it is hereby ordered as follows:
 
@@ -11792,7 +12287,7 @@ Members shall be chosen from the private sector, including members of the commer
 The President shall designate a Chair or Co-Chairs from among the members of the Committee.
 
 Sec. 2. Functions.
-On or before June 1, 1998, the Committee shall report to the Vice President on the public interest obligations digital television broadcasters should assume.
+On or before December 31, 1998, the Committee shall report to the Vice President on the public interest obligations digital television broadcasters should assume.
 For the purpose of carrying out its functions the Committee may, in consultation with the Assistant Secretary of Commerce for Communications and Information, hold meetings at such times and places as the Committee may find advisable.
 
 Sec. 3. Administration. (a) To the extent permitted by law, the heads of executive departments, agencies, and independent instrumentalities shall provide the Committee, upon request, with such information as it may require for the purpose of carrying out its functions.
@@ -13024,7 +13519,7 @@ In no case shall the board have any authority to exercise any control over the d
 
 (E) The provision of subparagraph (A) prohibiting the distribution of funds to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board shall be the exclusive remedy for the enforcement of the provisions of this paragraph.
 
-(9) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization) unless assurances are provided to the Corporation that no officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization), as the case may be, will be compensated at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under section 5312 of title 5, and unless further assurances are provided to the Corporation that no officer or employee of such an entity will be loaned money by that entity on an interest-free basis.
+(9) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization) unless assurances are provided to the Corporation that no officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization), as the case may be, will be compensated in excess of reasonable compensation as determined pursuant to Section 3 4958 of title 26 for services that the officer or employee renders to organization,4 and unless further assurances are provided to the Corporation that no officer or employee of such an entity will be loaned money by that entity on an interest-free basis.
 
 (10)(A) There is hereby established in the Treasury a fund which shall be known as the Public Broadcasting Satellite Interconnection Fund (hereinafter in this subsection referred to as the “Satellite Interconnection Fund”), to be administered by the Secretary of the Treasury.
 
@@ -13135,7 +13630,7 @@ Such report shall include a summary of the statistical reports received by the C
 
 (3) As soon as they have been prepared, each assessment and annual report required under paragraphs (1) and (2) shall be submitted to Congress.
 
-(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643; Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983, 97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub. L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953.)
+(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643; Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983, 97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub. L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953; Pub. L. 105–277, div. A, §101(f) [title VII, §701], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389.)
 
 References in Text
 
@@ -13217,13 +13712,19 @@ Section 307(b) of Pub. L. 95–567 provided that: “Section 396(k)(10) of the C
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 398, 399b, 535 of this title; title 17 section 114; title 20 section 1062.
+This section is referred to in sections 398, 399b, 535 of this title; title 17 section 114.
 
 1 So in original.
 Probably should be followed by “and”.
 
 2 So in original.
 Probably should be “is”.
+
+3 So in original.
+Probably should not be capitalized.
+
+4 So in original.
+Probably should be “the organization,”.
 
 subpart e—general provisions
 
@@ -13299,7 +13800,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Section Referred to in Other Sections
 
-This section is referred to in section 309 of this title; title 17 sections 110, 111, 114, 118, 119; title 20 sections 1015c, 3913, 3914, 6813, 6898, 8801.
+This section is referred to in section 309 of this title; title 17 sections 110, 111, 114, 118, 119; title 20 sections 3913, 3914, 6813, 6898, 8801.
 
 §398. Federal interference or control
 
@@ -13363,75 +13864,6 @@ This section is referred to in section 396 of this title.
 No noncommercial educational broadcasting station may support or oppose any candidate for political office.
 
 (June 19, 1934, ch. 652, title III, §399, as added Pub. L. 90–129, title II, §201(8), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 93–84, §2, Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–309, §7, June 5, 1976, 90 Stat. 685; Pub. L. 97–35, title XII, §1229, Aug. 13, 1981, 95 Stat. 730; Pub. L. 100–626, §10, Nov. 7, 1988, 102 Stat. 3211.)
-
-§399a. Use of business or institutional logograms
-
-(a) “Business or institutional logogram” defined
-
-For purposes of this section, the term “business or institutional logogram” means any aural or visual letters or words, or any symbol or sign, which is used for the exclusive purpose of identifying any corporation, company, or other organization, and which is not used for the purpose of promoting the products, services, or facilities of such corporation, company, or other organization.
-
-(b) Permitted uses
-
-Each public television station and each public radio station shall be authorized to broadcast announcements which include the use of any business or institutional logogram and which include a reference to the location of the corporation, company, or other organization involved, except that such announcements may not interrupt regular programming.
-
-(c) Authority of Commission not limited
-
-The provisions of this section shall not be construed to limit the authority of the Commission to prescribe regulations relating to the manner in which logograms may be used to identify corporations, companies, or other organizations.
-
-(June 19, 1934, ch. 652, title III, §399A, as added Pub. L. 97–35, title XII, §1230, Aug. 13, 1981, 95 Stat. 730.)
-
-§399b. Offering of certain services, facilities, or products by public broadcast station
-
-(a) “Advertisement” defined
-
-For purposes of this section, the term “advertisement” means any message or other programming material which is broadcast or otherwise transmitted in exchange for any remuneration, and which is intended—
-
-(1) to promote any service, facility, or product offered by any person who is engaged in such offering for profit;
-
-(2) to express the views of any person with respect to any matter of public importance or interest; or
-
-(3) to support or oppose any candidate for political office.
-
-(b) Offering of services, facilities, or products permitted; advertisements prohibited
-
-(1) Except as provided in paragraph (2), each public broadcast station shall be authorized to engage in the offering of services, facilities, or products in exchange for remuneration.
-
-(2) No public broadcast station may make its facilities available to any person for the broadcasting of any advertisement.
-
-(c) Use of funds from offering services, etc.
-
-Any public broadcast station which engages in any offering specified in subsection (b)(1) of this section may not use any funds distributed by the Corporation under section 396(k) of this title to defray any costs associated with such offering.
-Any such offering by a public broadcast station shall not interfere with the provision of public telecommunications services by such station.
-
-(d) Development of accounting system
-
-Each public broadcast station which engages in the activity specified in subsection (b)(1) of this section shall, in consultation with the Corporation, develop an accounting system which is designed to identify any amounts received as remuneration for, or costs related to, such activities under this section, and to account for such amounts separately from any other amounts received by such station from any source.
-
-(June 19, 1934, ch. 652, title III, §399B, as added Pub. L. 97–35, title XII, §1231, Aug. 13, 1981, 95 Stat. 731.)
-
-SUBCHAPTER IV—PROCEDURAL AND ADMINISTRATIVE PROVISIONS
-
-§401. Enforcement provisions
-
-(a) Jurisdiction
-
-The district courts of the United States shall have jurisdiction, upon application of the Attorney General of the United States at the request of the Commission, alleging a failure to comply with or a violation of any of the provisions of this chapter by any person, to issue a writ or writs of mandamus commanding such person to comply with the provisions of this chapter.
-
-(b) Orders of Commission
-
-If any person fails or neglects to obey any order of the Commission other than for the payment of money, while the same is in effect, the Commission or any party injured thereby, or the United States, by its Attorney General, may apply to the appropriate district court of the United States for the enforcement of such order.
-If, after hearing, that court determines that the order was regularly made and duly served, and that the person is in disobedience of the same, the court shall enforce obedience to such order by a writ of injunction or other proper process, mandatory or otherwise, to restrain such person or the officers, agents, or representatives of such person, from further disobedience of such order, or to enjoin upon it or them obedience to the same.
-
-(c) Duty to prosecute
-
-Upon the request of the Commission it shall be the duty of any United States attorney to whom the Commission may apply to institute in the proper court and to prosecute under the direction of the Attorney General of the United States all necessary proceedings for the enforcement of the provisions of this chapter and for the punishment of all violations thereof, and the costs and expenses of such prosecutions shall be paid out of the appropriations for the expenses of the courts of the United States.
-
-(June 19, 1934, ch. 652, title IV, §401, 48 Stat. 1092; June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 93–528, §6(a), Dec. 21, 1974, 88 Stat. 1709.)
-
-References in Text
-
-This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which is classified principally to this chapter.
-For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Change of Name
 
@@ -14315,7 +14747,7 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 153, 271, 303a, 309, 551, 554, 571 of this title; title 17 section 114.
+This section is referred to in sections 153, 271, 303a, 309, 551, 554, 571 of this title; title 17 sections 114, 1202.
 
 Part II—Use of Cable Channels and Cable Ownership Restrictions
 
@@ -15596,6 +16028,146 @@ The Commission shall periodically review and, if necessary, modify the regulatio
 
 Effective Date
 
+Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
+
+§545. Modification of franchise obligations
+
+(a) Grounds for modification by franchising authority; public proceeding; time of decision
+
+(1) During the period a franchise is in effect, the cable operator may obtain from the franchising authority modifications of the requirements in such franchise—
+
+(A) in the case of any such requirement for facilities or equipment, including public, educational, or governmental access facilities or equipment, if the cable operator demonstrates that (i) it is commercially impracticable for the operator to comply with such requirement, and (ii) the proposal by the cable operator for modification of such requirement is appropriate because of commercial impracticability; or
+
+(B) in the case of any such requirement for services, if the cable operator demonstrates that the mix, quality, and level of services required by the franchise at the time it was granted will be maintained after such modification.
+
+(2) Any final decision by a franchising authority under this subsection shall be made in a public proceeding.
+Such decision shall be made within 120 days after receipt of such request by the franchising authority, unless such 120 day period is extended by mutual agreement of the cable operator and the franchising authority.
+
+(b) Judicial proceedings; grounds for modification by court
+
+(1) Any cable operator whose request for modification under subsection (a) of this section has been denied by a final decision of a franchising authority may obtain modification of such franchise requirements pursuant to the provisions of section 555 of this title.
+
+(2) In the case of any proposed modification of a requirement for facilities or equipment, the court shall grant such modification only if the cable operator demonstrates to the court that—
+
+(A) it is commercially impracticable for the operator to comply with such requirement; and
+
+(B) the terms of the modification requested are appropriate because of commercial impracticability.
+
+(3) In the case of any proposed modification of a requirement for services, the court shall grant such modification only if the cable operator demonstrates to the court that the mix, quality, and level of services required by the franchise at the time it was granted will be maintained after such modification.
+
+(c) Rearrangement, replacement, or removal of service
+
+Notwithstanding subsections (a) and (b) of this section, a cable operator may, upon 30 days’ advance notice to the franchising authority, rearrange, replace, or remove a particular cable service required by the franchise if—
+
+(1) such service is no longer available to the operator; or
+
+(2) such service is available to the operator only upon the payment of a royalty required under section 801(b)(2) of title 17, which the cable operator can document—
+
+(A) is substantially in excess of the amount of such payment required on the date of the operator's offer to provide such service, and
+
+(B) has not been specifically compensated for through a rate increase or other adjustment.
+
+(d) Rearrangement of particular services from one service tier to another or other offering of service
+
+Notwithstanding subsections (a) and (b) of this section, a cable operator may take such actions to rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under section 543 of this title.
+
+(e) Requirements for services relating to public, educational, or governmental access
+
+A cable operator may not obtain modification under this section of any requirement for services relating to public, educational, or governmental access.
+
+(f) “Commercially impracticable” defined
+
+For purposes of this section, the term “commercially impracticable” means, with respect to any requirement applicable to a cable operator, that it is commercially impracticable for the operator to comply with such requirement as a result of a change in conditions which is beyond the control of the operator and the nonoccurrence of which was a basic assumption on which the requirement was based.
+
+(June 19, 1934, ch. 652, title VI, §625, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2790.)
+
+Effective Date
+
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 544, 555 of this title.
+
+§546. Renewal
+
+(a) Commencement of proceedings; public notice and participation
+
+(1) A franchising authority may, on its own initiative during the 6-month period which begins with the 36th month before the franchise expiration, commence a proceeding which affords the public in the franchise area appropriate notice and participation for the purpose of (A) identifying the future cable-related community needs and interests, and (B) reviewing the performance of the cable operator under the franchise during the then current franchise term.
+If the cable operator submits, during such 6-month period, a written renewal notice requesting the commencement of such a proceeding, the franchising authority shall commence such a proceeding not later than 6 months after the date such notice is submitted.
+
+(2) The cable operator may not invoke the renewal procedures set forth in subsections (b) through (g) of this section unless—
+
+(A) such a proceeding is requested by the cable operator by timely submission of such notice; or
+
+(B) such a proceeding is commenced by the franchising authority on its own initiative.
+
+(b) Submission of renewal proposals; contents; time
+
+(1) Upon completion of a proceeding under subsection (a) of this section, a cable operator seeking renewal of a franchise may, on its own initiative or at the request of a franchising authority, submit a proposal for renewal.
+
+(2) Subject to section 544 of this title, any such proposal shall contain such material as the franchising authority may require, including proposals for an upgrade of the cable system.
+
+(3) The franchising authority may establish a date by which such proposal shall be submitted.
+
+(c) Notice of proposal; renewal; preliminary assessment of nonrenewal; administrative review; issues; notice and opportunity for hearing; transcript; written decision
+
+(1) Upon submittal by a cable operator of a proposal to the franchising authority for the renewal of a franchise pursuant to subsection (b) of this section, the franchising authority shall provide prompt public notice of such proposal and, during the 4-month period which begins on the date of the submission of the cable operator's proposal pursuant to subsection (b) of this section, renew the franchise or, issue a preliminary assessment that the franchise should not be renewed and, at the request of the operator or on its own initiative, commence an administrative proceeding, after providing prompt public notice of such proceeding, in accordance with paragraph (2) to consider whether—
+
+(A) the cable operator has substantially complied with the material terms of the existing franchise and with applicable law;
+
+(B) the quality of the operator's service, including signal quality, response to consumer complaints, and billing practices, but without regard to the mix or quality of cable services or other services provided over the system, has been reasonable in light of community needs;
+
+(C) the operator has the financial, legal, and technical ability to provide the services, facilities, and equipment as set forth in the operator's proposal; and
+
+(D) the operator's proposal is reasonable to meet the future cable-related community needs and interests, taking into account the cost of meeting such needs and interests.
+
+(2) In any proceeding under paragraph (1), the cable operator shall be afforded adequate notice and the cable operator and the franchise authority, or its designee, shall be afforded fair opportunity for full participation, including the right to introduce evidence (including evidence related to issues raised in the proceeding under subsection (a) of this section), to require the production of evidence, and to question witnesses.
+A transcript shall be made of any such proceeding.
+
+(3) At the completion of a proceeding under this subsection, the franchising authority shall issue a written decision granting or denying the proposal for renewal based upon the record of such proceeding, and transmit a copy of such decision to the cable operator.
+Such decision shall state the reasons therefor.
+
+(d) Basis for denial
+
+Any denial of a proposal for renewal that has been submitted in compliance with subsection (b) of this section shall be based on one or more adverse findings made with respect to the factors described in subparagraphs (A) through (D) of subsection (c)(1) of this section, pursuant to the record of the proceeding under subsection (c) of this section.
+A franchising authority may not base a denial of renewal on a failure to substantially comply with the material terms of the franchise under subsection (c)(1)(A) of this section or on events considered under subsection (c)(1)(B) of this section in any case in which a violation of the franchise or the events considered under subsection (c)(1)(B) of this section occur after the effective date of this subchapter unless the franchising authority has provided the operator with notice and the opportunity to cure, or in any case in which it is documented that the franchising authority has waived its right to object, or the cable operator gives written notice of a failure or inability to cure and the franchising authority fails to object within a reasonable time after receipt of such notice.
+
+(e) Judicial review; grounds for relief
+
+(1) Any cable operator whose proposal for renewal has been denied by a final decision of a franchising authority made pursuant to this section, or has been adversely affected by a failure of the franchising authority to act in accordance with the procedural requirements of this section, may appeal such final decision or failure pursuant to the provisions of section 555 of this title.
+
+(2) The court shall grant appropriate relief if the court finds that—
+
+(A) any action of the franchising authority, other than harmless error, is not in compliance with the procedural requirements of this section; or
+
+(B) in the event of a final decision of the franchising authority denying the renewal proposal, the operator has demonstrated that the adverse finding of the franchising authority with respect to each of the factors described in subparagraphs (A) through (D) of subsection (c)(1) of this section on which the denial is based is not supported by a preponderance of the evidence, based on the record of the proceeding conducted under subsection (c) of this section.
+
+(f) Finality of administrative decision
+
+Any decision of a franchising authority on a proposal for renewal shall not be considered final unless all administrative review by the State has occurred or the opportunity therefor has lapsed.
+
+(g) “Franchise expiration” defined
+
+For purposes of this section, the term “franchise expiration” means the date of the expiration of the term of the franchise, as provided under the franchise, as it was in effect on October 30, 1984.
+
+(h) Alternative renewal procedures
+
+Notwithstanding the provisions of subsections (a) through (g) of this section, a cable operator may submit a proposal for the renewal of a franchise pursuant to this subsection at any time, and a franchising authority may, after affording the public adequate notice and opportunity for comment, grant or deny such proposal at any time (including after proceedings pursuant to this section have commenced). The provisions of subsections (a) through (g) of this section shall not apply to a decision to grant or deny a proposal under this subsection.
+The denial of a renewal pursuant to this subsection shall not affect action on a renewal proposal that is submitted in accordance with subsections (a) through (g) of this section.
+
+(i) Effect of renewal procedures upon action to revoke franchise for cause
+
+Notwithstanding the provisions of subsections (a) through (h) of this section, any lawful action to revoke a cable operator's franchise for cause shall not be negated by the subsequent initiation of renewal proceedings by the cable operator under this section.
+
+(June 19, 1934, ch. 652, title VI, §626, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2791; amended Pub. L. 102–385, §18, Oct. 5, 1992, 106 Stat. 1493.)
+
+References in Text
+
+For “the effective date of this subchapter”, referred to in subsec. (d), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
+
+Effective Date
+
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
 
 Section Referred to in Other Sections
@@ -15748,160 +16320,6 @@ Any such provision that applies to a satellite cable programming vendor in which
 For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
 
 (June 19, 1934, ch. 652, title VI, §628, as added Pub. L. 102–385, §19, Oct. 5, 1992, 106 Stat. 1494; amended Pub. L. 104–104, title III, §301(h), Feb. 8, 1996, 110 Stat. 117.)
-
-Effective Date
-
-Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 336, 573 of this title.
-
-§549. Competitive availability of navigation devices
-
-(a) Commercial consumer availability of equipment used to access services provided by multichannel video programming distributors
-
-The Commission shall, in consultation with appropriate industry standard-setting organizations, adopt regulations to assure the commercial availability, to consumers of multichannel video programming and other services offered over multichannel video programming systems, of converter boxes, interactive communications equipment, and other equipment used by consumers to access multichannel video programming and other services offered over multichannel video programming systems, from manufacturers, retailers, and other vendors not affiliated with any multichannel video programming distributor.
-Such regulations shall not prohibit any multichannel video programming distributor from also offering converter boxes, interactive communications equipment, and other equipment used by consumers to access multichannel video programming and other services offered over multichannel video programming systems, to consumers, if the system operator's charges to consumers for such devices and equipment are separately stated and not subsidized by charges for any such service.
-
-(b) Protection of system security
-
-The Commission shall not prescribe regulations under subsection (a) of this section which would jeopardize security of multichannel video programming and other services offered over multichannel video programming systems, or impede the legal rights of a provider of such services to prevent theft of service.
-
-(c) Waiver
-
-The Commission shall waive a regulation adopted under subsection (a) of this section for a limited time upon an appropriate showing by a provider of multichannel video programming and other services offered over multichannel video programming systems, or an equipment provider, that such waiver is necessary to assist the development or introduction of a new or improved multichannel video programming or other service offered over multichannel video programming systems, technology, or products.
-Upon an appropriate showing, the Commission shall grant any such waiver request within 90 days of any application filed under this subsection, and such waiver shall be effective for all service providers and products in that category and for all providers of services and products.
-
-(d) Avoidance of redundant regulations
-
-(1) Commercial availability determinations
-
-Determinations made or regulations prescribed by the Commission with respect to commercial availability to consumers of converter boxes, interactive communications equipment, and other equipment used by consumers to access multichannel video programming and other services offered over multichannel video programming systems, before February 8, 1996, shall fulfill the requirements of this section.
-
-(2) Regulations
-
-Nothing in this section affects section 64.702(e) of the Commission's regulations (47 C.F.R. 64.702(e)) or other Commission regulations governing interconnection and competitive provision of customer premises equipment used in connection with basic common carrier communications services.
-
-(e) Sunset
-
-The regulations adopted under this section shall cease to apply when the Commission determines that—
-
-(1) the market for the multichannel video programming distributors is fully competitive;
-
-(2) the market for converter boxes, and interactive communications equipment, used in conjunction with that service is fully competitive; and
-
-(3) elimination of the regulations would promote competition and the public interest.
-
-(f) Commission's authority
-
-Nothing in this section shall be construed as expanding or limiting any authority that the Commission may have under law in effect before February 8, 1996.
-
-(June 19, 1934, ch. 652, title VI, §629, as added Pub. L. 104–104, title III, §304, Feb. 8, 1996, 110 Stat. 125.)
-
-Part IV—Miscellaneous Provisions
-
-Part Referred to in Other Sections
-
-This part is referred to in sections 571, 573 of this title.
-
-§551. Protection of subscriber privacy
-
-(a) Notice to subscriber regarding personally identifiable information; definitions
-
-(1) At the time of entering into an agreement to provide any cable service or other service to a subscriber and at least once a year thereafter, a cable operator shall provide notice in the form of a separate, written statement to such subscriber which clearly and conspicuously informs the subscriber of—
-
-(A) the nature of personally identifiable information collected or to be collected with respect to the subscriber and the nature of the use of such information;
-
-(B) the nature, frequency, and purpose of any disclosure which may be made of such information, including an identification of the types of persons to whom the disclosure may be made;
-
-(C) the period during which such information will be maintained by the cable operator;
-
-(D) the times and place at which the subscriber may have access to such information in accordance with subsection (d) of this section; and
-
-(E) the limitations provided by this section with respect to the collection and disclosure of information by a cable operator and the right of the subscriber under subsections (f) and (h) of this section to enforce such limitations.
-
-In the case of subscribers who have entered into such an agreement before the effective date of this section, such notice shall be provided within 180 days of such date and at least once a year thereafter.
-
-(2) For purposes of this section, other than subsection (h) of this section—
-
-(A) the term “personally identifiable information” does not include any record of aggregate data which does not identify particular persons;
-
-(B) the term “other service” includes any wire or radio communications service provided using any of the facilities of a cable operator that are used in the provision of cable service; and
-
-(C) the term “cable operator” includes, in addition to persons within the definition of cable operator in section 522 of this title, any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
-
-(b) Collection of personally identifiable information using cable system
-
-(1) Except as provided in paragraph (2), a cable operator shall not use the cable system to collect personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned.
-
-(2) A cable operator may use the cable system to collect such information in order to—
-
-(A) obtain information necessary to render a cable service or other service provided by the cable operator to the subscriber; or
-
-(B) detect unauthorized reception of cable communications.
-
-(c) Disclosure of personally identifiable information
-
-(1) Except as provided in paragraph (2), a cable operator shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator.
-
-(2) A cable operator may disclose such information if the disclosure is—
-
-(A) necessary to render, or conduct a legitimate business activity related to, a cable service or other service provided by the cable operator to the subscriber;
-
-(B) subject to subsection (h) of this section, made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed; or
-
-(C) a disclosure of the names and addresses of subscribers to any cable service or other service, if—
-
-(i) the cable operator has provided the subscriber the opportunity to prohibit or limit such disclosure, and
-
-(ii) the disclosure does not reveal, directly or indirectly, the—
-
-(I) extent of any viewing or other use by the subscriber of a cable service or other service provided by the cable operator, or
-
-(II) the nature of any transaction made by the subscriber over the cable system of the cable operator.
-
-(d) Subscriber access to information
-
-A cable subscriber shall be provided access to all personally identifiable information regarding that subscriber which is collected and maintained by a cable operator.
-Such information shall be made available to the subscriber at reasonable times and at a convenient place designated by such cable operator.
-A cable subscriber shall be provided reasonable opportunity to correct any error in such information.
-
-(e) Destruction of information
-
-A cable operator shall destroy personally identifiable information if the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (d) of this section or pursuant to a court order.
-
-(f) Civil action in United States district court; damages; attorney's fees and costs; nonexclusive nature of remedy
-
-(1) Any person aggrieved by any act of a cable operator in violation of this section may bring a civil action in a United States district court.
-
-(2) The court may award—
-
-(A) actual damages but not less than liquidated damages computed at the rate of $100 a day for each day of violation or $1,000, whichever is higher;
-
-(B) punitive damages; and
-
-(C) reasonable attorneys’ fees and other litigation costs reasonably incurred.
-
-(3) The remedy provided by this section shall be in addition to any other lawful remedy available to a cable subscriber.
-
-(g) Regulation by States or franchising authorities
-
-Nothing in this subchapter shall be construed to prohibit any State or any franchising authority from enacting or enforcing laws consistent with this section for the protection of subscriber privacy.
-
-(h) Disclosure of information to governmental entity pursuant to court order
-
-A governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
-
-(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
-
-(2) the subject of the information is afforded the opportunity to appear and contest such entity's claim.
-
-(June 19, 1934, ch. 652, title VI, §631, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2794; amended Pub. L. 102–385, §20, Oct. 5, 1992, 106 Stat. 1497.)
-
-References in Text
-
-For “the effective date of this section”, referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 Effective Date
 
@@ -16837,6 +17255,10 @@ References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–736, provided that: “This title [enacting section 231 of this title, amending sections 223 and 230 of this title, and enacting provisions set out as notes under sections 223 and 231 of this title] may be cited as the ‘Child Online Protection Act’.”
+
 Short Title of 1996 Amendment
 
 Pub. L. 104–104, §1(a), Feb. 8, 1996, 110 Stat. 56, provided that: “This Act [enacting sections 160, 161, 222, 230, 251 to 261, 271 to 276, 336, 363, 549, 560, 561, 571 to 573, 613, and 614 of this title and section 79z–5c of Title 15, Commerce and Trade, amending sections 151, 153 to 155, 204, 208, 214, 220, 221, 223 to 225, 228, 302a, 303, 305, 307 to 310, 312, 319, 330, 332, 360, 382, 385, 402, 522, 531 to 534, 537, 541 to 544a, 548, 552, 556, 557, 559, and 605 of this title, sections 18, 79, 79z–6, and 5714 of Title 15, and sections 1462, 1465, and 2422 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 151 to 153, 156, 157, 204, 214, 223, 228, 303, 308, 332, 534, 543, and 561 of this title and section 1462 of Title 18] may be cited as the ‘Telecommunications Act of 1996’.”
@@ -17013,6 +17435,29 @@ The State commission may allow the carrier to recover in its tariffs for regulat
 The Commission shall delegate to each State commission the authority to enforce within such State compliance with the specific regulations that the Commission issues under subsections (a) and (b) of this section, conditioned upon the adoption and enforcement of such regulations by the State commission.
 
 (June 19, 1934, ch. 652, title VII, §710, formerly title VI, §610, as added Pub. L. 97–410, §3, Jan. 3, 1983, 96 Stat. 2043; renumbered title VII, §710, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 100–394, §3, Aug. 16, 1988, 102 Stat. 976; Pub. L. 103–414, title III, §304(a)(16), Oct. 25, 1994, 108 Stat. 4297.)
+
+Congressional Findings
+
+Section 2 of Pub. L. 97–410 provided that: “The Congress finds that—
+
+“(1) all persons should have available the best telephone service which is technologically and economically feasible;
+
+“(2) currently available technology is capable of providing telephone service to some individuals who, because of hearing impairments, require telephone reception by means of hearing aids with induction coils, or other inductive receptors;
+
+“(3) the lack of technical standards ensuring compatibility between hearing aids and telephones has prevented receipt of the best telephone service which is technologically and economically feasible; and
+
+“(4) adoption of technical standards is required in order to ensure compatibility between telephones and hearing aids, thereby accommodating the needs of individuals with hearing impairments.”
+
+§611. Closed-captioning of public service announcements
+
+Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement.
+A television broadcast station licensee—
+
+(1) shall not be required to supply closed captioning for any such announcement that fails to include it; and
+
+(2) shall not be liable for broadcasting any such announcement without transmitting a closed caption unless the licensee intentionally fails to transmit the closed caption that was included with the announcement.
+
+(June 19, 1934, ch. 652, title VII, §711, as added Pub. L. 98–549, §8, Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 101–336, title IV, §402, July 26, 1990, 104 Stat. 369.)
 
 Effective Date
 
@@ -18454,9 +18899,11 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
 
-Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2474, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA [National Telecommunications and Information Administration] shall not authorize spectrum use or provide any spectrum functions pursuant to the NTIA Organization Act, 47 U.S.C. 902–903 [47 U.S.C. 901 et seq.], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
+Pub. L. 105–277, div. A, §101(b) [title II], Oct. 21, 1998, 112 Stat. 2681–50, 2681–80, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA [National Telecommunications and Information Administration] shall not authorize spectrum use or provide any spectrum functions pursuant to the NTIA Organization Act, 47 U.S.C. 902–903 [47 U.S.C. 901 et seq.], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2474.
 
 Pub. L. 104–208, div. A, title I, §101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–35.
 
@@ -18754,10 +19201,38 @@ The Commission shall, not later than one year after receipt of such report, prep
 
 (1) In general
 
+(A) Authority of Federal entities to accept compensation
+
 In order to expedite the commercial use of the electromagnetic spectrum and notwithstanding section 3302(b) of title 31, any Federal entity which operates a Federal Government station may accept from any person payment of the expenses of relocating the Federal entity's operations from one or more frequencies to another frequency or frequencies, including the costs of any modification, replacement, or reissuance of equipment, facilities, operating manuals, or regulations incurred by that entity.
-Such payments may be in advance of relocation and may be in cash or in kind.
-Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law.
-Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.
+Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees.
+The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.
+
+(B) Requirement to compensate Federal entities
+
+Any person on whose behalf a Federal entity incurs costs under subparagraph (A) shall compensate the Federal entity in advance for such costs.
+Such compensation may take the form of a cash payment or in-kind compensation.
+
+(C) Disposition of payments
+
+(i) Payment by electronic funds transfer
+
+A person making a cash payment under this paragraph shall make the cash payment by depositing the amount of the payment by electronic funds transfer in the account of the Federal entity concerned in the Treasury of the United States or in another account as authorized by law.
+
+(ii) Availability
+
+Subject to the provisions of authorization Acts and appropriations Acts, amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
+
+(D) Application to certain other relocations
+
+The provisions of this paragraph also apply to any Federal entity that operates a Federal Government station assigned to used 1 electromagnetic spectrum identified for reallocation under subsection (a) of this section if before August 5, 1997, the Commission has not identified that spectrum for service or assigned licenses or otherwise authorized service for that spectrum.
+
+(E) Implementation procedures
+
+The NTIA and the Commission shall develop procedures for the implementation of this paragraph, which procedures shall include a process for resolving any differences that arise between the Federal Government and commercial licensees regarding estimates of relocation or modification costs under this paragraph.
+
+(F) Inapplicability to certain relocations
+
+With the exception of the band of frequencies located at 1710–1755 megahertz, the provisions of this paragraph shall not apply to Federal spectrum identified for reallocation in the first reallocation report submitted to the President and Congress under subsection (a) of this section.
 
 (2) Process for relocation
 
@@ -18789,7 +19264,7 @@ Any Federal Government station which operates on electromagnetic spectrum that h
 
 For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
 
-(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265.)
+(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132.)
 
 References in Text
 
@@ -18797,9 +19272,15 @@ For definition of the 1934 Act, referred to in subsecs. (a)(3), (5), (b)(2), and
 
 Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f), is section 3002(c)(5) of Pub. L. 105–33, which is set out as a note under section 925 of this title.
 
+Reports on Costs of Relocations
+
+Pub. L. 105–261, div. A, title X, §1064(d), Oct. 17, 1998, 112 Stat. 2133, provided that: “The head of each department or agency of the Federal Government shall include in the annual budget submission of such department or agency to the Director of the Office of Management and Budget a report assessing the costs to be incurred by such department or agency as a result of any frequency relocations of such department or agency that are anticipated under section 113 of the National Telecommunications [and] Information Administration Organization Act (47 U.S.C. 923) as of the date of such report.”
+
 Section Referred to in Other Sections
 
 This section is referred to in sections 309, 924, 925 of this title.
+
+1 So in original.
 
 §924. Withdrawal or limitation of assignment to Federal Government stations
 

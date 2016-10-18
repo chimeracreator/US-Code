@@ -68,6 +68,10 @@ Effective Date
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors.
 See section 15(a) of Pub. L. 91–375, set out as a note preceding this section.
 
+Short Title of 1998 Amendment
+
+Pub. L. 105–241, §1, Sept. 28, 1998, 112 Stat. 1572, provided that: “This Act [enacting section 415 of this title and amending sections 404 and 3622 of this title, section 7902 of Title 5, Government Organization and Employees, and sections 652 and 668 of Title 29, Labor] may be cited as the ‘Postal Employees Safety Enhancement Act’.”
+
 Short Title of 1997 Amendment
 
 Pub. L. 105–41, §1, Aug. 13, 1997, 111 Stat. 1119, provided that: “This Act [enacting section 414 of this title and provisions set out as a note under section 414 of this title] may be cited as the ‘Stamp Out Breast Cancer Act’.”
@@ -101,6 +105,41 @@ As used in this title—
 (4) “Inspector General” means the Inspector General appointed under section 202(e) of this title.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(a)(2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379.)
+
+Effective Date
+
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors.
+See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+CHAPTER 2—ORGANIZATION
+
+Sec.
+
+201.
+United States Postal Service.
+
+202.
+Board of Governors.
+
+203.
+Postmaster General; Deputy Postmaster General.
+
+204.
+General Counsel; Judicial Officer; Chief Postal Inspector.
+
+205.
+Procedures of the Board of Governors.
+
+206.
+Advisory Council.
+
+207.
+Seal.
+
+208.
+Reservation of powers.
+
+        
 
 Chapter Referred to in Other Sections
 
@@ -345,6 +384,9 @@ Postal services at diplomatic posts.
 414.
 Special postage stamps.
 
+415.
+Prohibition on restriction or elimination of services.
+
         
 
 §401. General powers of the Postal Service
@@ -422,6 +464,8 @@ Continuation of Mail Delivery Services
 
 Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the following appropriations acts:
 
+Pub. L. 105–277, div. A, §101(h) [title II], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
+
 Pub. L. 105–61, title II, Oct. 10, 1997, 111 Stat. 1290.
 
 Pub. L. 104–208, div. A, title I, §101(f) [title II], Sept. 30, 1996, 110 Stat. 3009–314, 3009–326.
@@ -493,17 +537,21 @@ As used in this subsection, the term ‘Executive agency’ has the same meaning
 
 (b)(1) The Postal Service, prior to making a determination under subsection (a)(3) of this section as to the necessity for the closing or consolidation of any post office, shall provide adequate notice of its intention to close or consolidate such post office at least 60 days prior to the proposed date of such closing or consolidation to persons served by such post office to ensure that such persons will have an opportunity to present their views.
 
-(2) The Postal Service, in making a determination whether or not to close or consolidate a post office, shall consider—
+(2) The Postal Service, in making a determination whether or not to close or consolidate a post office—
 
-(A) the effect of such closing or consolidation on the community served by such post office;
+(A) shall consider—
 
-(B) the effect of such closing or consolidation on employees of the Postal Service employed at such office;
+(i) the effect of such closing or consolidation on the community served by such post office;
 
-(C) whether such closing or consolidation is consistent with the policy of the Government, as stated in section 101(b) of this title, that the Postal Service shall provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining;
+(ii) the effect of such closing or consolidation on employees of the Postal Service employed at such office;
 
-(D) the economic savings to the Postal Service resulting from such closing or consolidation; and
+(iii) whether such closing or consolidation is consistent with the policy of the Government, as stated in section 101(b) of this title, that the Postal Service shall provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining;
 
-(E) such other factors as the Postal Service determines are necessary.
+(iv) the economic savings to the Postal Service resulting from such closing or consolidation; and
+
+(v) such other factors as the Postal Service determines are necessary; and
+
+(B) may not consider compliance with any provision of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
 
 (3) Any determination of the Postal Service to close or consolidate a post office shall be in writing and shall include the findings of the Postal Service with respect to the considerations required to be made under paragraph (2) of this subsection.
 Such determination and findings shall be made available to persons served by such post office.
@@ -524,7 +572,12 @@ The Commission may affirm the determination of the Postal Service or order that 
 The Commission may suspend the effectiveness of the determination of the Postal Service until the final disposition of the appeal.
 The provisions of section 556, section 557, and chapter 7 of title 5 shall not apply to any review carried out by the Commission under this paragraph.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 94–421, §9(a), Sept. 24, 1976, 90 Stat. 1310.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 94–421, §9(a), Sept. 24, 1976, 90 Stat. 1310; Pub. L. 105–241, §3, Sept. 28, 1998, 112 Stat. 1572.)
+
+References in Text
+
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor.
+For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 Effective Date
 
@@ -565,19 +618,32 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 403, 413, 3401, 3406 of this title.
 
-§407. International postal arrangements
+§407. International Postal Arrangements 1
 
-(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries.
-The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
+(a)(1) The Secretary of State shall have primary responsibility for formulation, coordination and oversight of policy with respect to United States participation in the Universal Postal Union, including the Universal Postal Convention and other Acts of the Universal Postal Union, amendments thereto, and all postal treaties and conventions concluded within the framework of the Convention and such Acts.
 
-(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments to the Secretary of State, who shall furnish a copy of the same to the Public Printer for publication.
+(2) Subject to subsection (d), the Secretary may, with the consent of the President, negotiate and conclude treaties, conventions and amendments referred to in paragraph (1).
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724.)
+(b)(1) Subject to subsections (a), (c), and (d), the Postal Service may, with the consent of the President, negotiate and conclude postal treaties and conventions.
+
+(2) The Postal Service may, with the consent of the President, establish rates of postage or other charges on mail matter conveyed between the United States and other countries.
+
+(3) The Postal Service shall transmit a copy of each postal treaty or convention concluded with other governments under the authority of this subsection to the Secretary of State, who shall furnish a copy to the Public Printer for publication.
+
+(c) The Postal Service shall not conclude any treaty or convention under the authority of this section or any other arrangement related to the delivery of international postal services that is inconsistent with any policy developed pursuant to subsection (a).
+
+(d) In carrying out their responsibilities under this section, the Secretary and the Postal Service shall consult with such federal 2 agencies as the Secretary or the Postal Service considers appropriate, private providers of international postal services, users of international postal services, the general public, and such other persons as the Secretary or the Postal Service considers appropriate.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 105–277, div. A, §101(h) [title VI, §633(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 Effective Date
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors.
 See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+Transfer of Funds to State Department
+
+Pub. L. 105–277, §101(h) [title VI, §633(d)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: “In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code.”
 
 Delegation of Authority
 
@@ -601,6 +667,11 @@ This memorandum shall be published in the Federal Register.
 William J. Clinton.      
 
 [UPS Worldwide Forwarding v. United States Postal Service, 853 F. Supp. 800, D.C. Del., 1994, reversed 66 F.3d 621 (3rd Cir. 1995), cert. denied, 516 U.S. 1171 (1996)]
+
+1 So in original. “Postal Arrangements” probably should not be capitalized.
+
+2 So in original.
+Probably should be capitalized.
 
 §408. International money-order exchanges
 
@@ -631,7 +702,7 @@ Any action brought in a State court to which the Postal Service is a party may b
 
 Historical and Revision Notes
 1982 Act	Revised section	Source (U.S. Code)	Source (Statutes at Large)
-	409(e)	31:724a (last sentence).	July 27, 1956, ch. 748, 70 Stat. 678, §1302 (last sentence); added Aug. 12, 1970, Pub. L. 91–375, §6(l)(3), 84 Stat. 782.
+	409(e) 	31:724a (last sentence). 	July 27, 1956, ch. 748, 70 Stat. 678, §1302 (last sentence); added Aug. 12, 1970, Pub. L. 91–375, §6(l)(3), 84 Stat. 782.
 
 The words “Notwithstanding the other provisions of this section” are omitted as unnecessary.
 
@@ -873,6 +944,17 @@ Such report shall include—
 “(1) an evaluation of the effectiveness and the appropriateness of the authority provided by such section as a means of fund-raising; and
 
 “(2) a description of the monetary and other resources required of the Postal Service in carrying out such section.”
+
+§415. Prohibition on restriction or elimination of services
+
+The Postal Service may not restrict, eliminate, or adversely affect any service provided by the Postal Service as a result of the payment of any penalty imposed under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
+
+(Added Pub. L. 105–241, §4(a), Sept. 28, 1998, 112 Stat. 1573.)
+
+References in Text
+
+The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor.
+For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 CHAPTER 6—PRIVATE CARRIAGE OF LETTERS
 
@@ -1370,7 +1452,7 @@ Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenc
 
 Section Referred to in Other Sections
 
-This section is referred to in title 5 section 7511; title 10 section 1599c.
+This section is referred to in title 5 sections 2302, 7511.
 
 §1006. Right of transfer
 
@@ -1966,35 +2048,6 @@ as the Postal Service determines.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 740; Pub. L. 101–227, §3(a), Dec. 12, 1989, 103 Stat. 1944.)
 
-Section Referred to in Other Sections
-
-This section is referred to in section 2006 of this title.
-
-§2006. Relationship between the Treasury and the Postal Service
-
-(a) At least 15 days before selling any issue of obligations under section 2005 of this title, the Postal Service shall advise the Secretary of the Treasury of the amount, proposed date of sale, maturities, terms and conditions, and expected maximum rates of interest of the proposed issue in appropriate detail and shall consult with him or his designee thereon.
-The Secretary may elect to purchase such obligations under such terms, including rates of interest, as he and the Postal Service may agree, but at a rate of yield no less than the prevailing yield on outstanding marketable Treasury securities of comparable maturity, as determined by the Secretary.
-If the Secretary does not purchase such obligations, the Postal Service may proceed to issue and sell them to a party or parties other than the Secretary upon notice to the Secretary and upon consultation as to the date of issuance, maximum rates of interest, and other terms and conditions.
-
-(b) Subject to the conditions of subsection (a) of this section, the Postal Service may require the Secretary of the Treasury to purchase obligations of the Postal Service in such amounts as will not cause the holding by the Secretary of the Treasury resulting from such required purchases to exceed $2,000,000,000 at any one time.
-This subsection shall not be construed as limiting the authority of the Secretary to purchase obligations of the Postal Service in excess of such amount.
-
-(c) Notwithstanding section 2005(d)(5) of this title, obligations issued by the Postal Service shall be obligations of the Government of the United States, and payment of principal and interest thereon shall be fully guaranteed by the Government of the United States, such guaranty being expressed on the face thereof, if and to the extent that—
-
-(1) the Postal Service requests the Secretary of the Treasury to pledge the full faith and credit of the Government of the United States for the payment of principal and interest thereon; and
-
-(2) the Secretary, in his discretion, determines that it would be in the public interest to do so.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 741.)
-
-§2007. Public debt character of the obligations of the Postal Service
-
-For the purpose of any purchase of the obligations of the Postal Service, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include any purchases of the obligations of the Postal Service under this chapter.
-The Secretary of the Treasury may, at any time, sell any of the obligations of the Postal Service acquired by him under this chapter.
-All redemptions, purchases, and sales by the Secretary of the obligations of the Postal Service shall be treated as public debt transactions of the United States.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 741; Pub. L. 97–452, §2(f), Jan. 12, 1983, 96 Stat. 2479.)
-
 §2008. Audit and expenditures
 
 (a) The accounts and operations of the Postal Service shall be audited by the Comptroller General and reports thereon made to the Congress to the extent and at such times as he may determine.
@@ -2160,6 +2213,7 @@ See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 o
 Abolition of House Committee on Post Office and Civil Service
 
 Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Reduction of Authorization for Revenue Foregone
 
@@ -3269,6 +3323,104 @@ The penalty cover may be used only to transmit the official information and endo
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103–123, title VII, §708(b), Oct. 28, 1993, 107 Stat. 1272.)
 
+Payment of Postage for State Unemployment Compensation Systems and Employment Services
+
+Pub. L. 92–80, title I, Aug. 10, 1971, 85 Stat. 287, which required Department of Labor and Post Office Department to use such amounts as may be agreed upon for the payment of postage for the transmission of official mail matter in connection with the administration of unemployment compensation systems and employment services by States receiving grants, was from the Department of Labor Appropriation Act, 1972, and was not repeated in subsequent appropriation acts.
+See section 3202(a)(1)(E) of this title.
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Jan. 11, 1971, Pub. L. 91–667, title I, 84 Stat. 2002.
+
+Mar. 5, 1970, Pub. L. 91–204, title I, 84 Stat. 24.
+
+Oct. 11, 1968, Pub. L. 90–557, title I, 82 Stat. 971.
+
+Nov. 8, 1967, Pub. L. 90–132, title I, 81 Stat. 387.
+
+Nov. 7, 1966, Pub. L. 89–787, title I, 80 Stat. 1379.
+
+Aug. 31, 1965, Pub. L. 89–156, title I, 79 Stat. 590.
+
+Sept. 19, 1964, Pub. L. 88–605, title I, 78 Stat. 960.
+
+Oct. 11, 1963, Pub. L. 88–136, title I, 77 Stat. 226.
+
+Aug. 14, 1962, Pub. L. 87–582, title I, 76 Stat. 363.
+
+Sept. 22, 1961, Pub. L. 87–290, title I, 75 Stat. 591.
+
+Sept. 2, 1960, Pub. L. 86–703, title I, 74 Stat. 757.
+
+Aug. 14, 1959, Pub. L. 86–158, title I, 73 Stat. 341.
+
+Aug. 1, 1958, Pub. L. 85–580, title I, 72 Stat. 459.
+
+June 29, 1957, Pub. L. 85–67, title I, 71 Stat. 212.
+
+June 29, 1956, ch. 477, title I, 70 Stat. 424.
+
+Aug. 1, 1955, ch. 437, title I, 69 Stat. 398.
+
+July 2, 1954, ch. 457, title I, 68 Stat. 435
+
+July 31, 1953, ch. 296, title I, 67 Stat. 246.
+
+July 5, 1952, ch. 575, title I, 66 Stat. 360.
+
+Aug. 31, 1951, ch. 373, title I, 65 Stat. 210.
+
+Sept. 6, 1950, ch. 896, ch. V, title I, 64 Stat. 644.
+
+June 29, 1949, ch. 275, title II, 63 Stat. 293.
+
+June 16, 1948, ch. 472, title I, 62 Stat. 445.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 3203, 3206 of this title; title 22 section 2905.
+
+§3203. Endorsements on penalty covers
+
+(a) Except as otherwise provided in this section, penalty covers shall bear, over the words “Official Business” an endorsement showing the name of the department, bureau, or office from which, or officer from whom, it is transmitted.
+The penalty for the unlawful use of all penalty covers shall be printed thereon.
+
+(b) The Postal Service shall prescribe the endorsement to be placed on covers mailed under clauses (1)(E), (2), and (3) of section 3202(a) of this title.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 752.)
+
+§3204. Restrictions on use of penalty mail
+
+(a) Except as otherwise provided in this section or section 3220 of this title, an officer, executive department, or independent establishment of the Government of the United States may not mail, as penalty mail, any article or document unless—
+
+(1) a request therefor has been previously received by the department or establishment; or
+
+(2) its mailings is required by law.
+
+(b) Subsection (a) of this section does not prohibit the mailing, as penalty mail, by an officer, executive department, or independent agency of—
+
+(1) enclosures reasonably related to the subject matter of official correspondence;
+
+(2) informational releases relating to the census of the United States and authorized by title 13;
+
+(3) matter concerning the sale of Government securities;
+
+(4) forms, blanks, and copies of statutes, rules, regulations, instructions, administrative orders, and interpretations necessary in the administration of the department or establishment;
+
+(5) agricultural bulletins;
+
+(6) lists of public documents offered for sale by the Superintendent of Documents;
+
+(7) announcements of the publication of maps, atlases, and statistical and other reports offered for sale by the Federal Power Commission as authorized by section 825k of title 16; or
+
+(8) articles or documents to educational institutions or public libraries, or to Federal, State, or other public authorities.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 752; Pub. L. 99–87, §1(c)(1), Aug. 9, 1985, 99 Stat. 291.)
+
+Amendment of Section
+
+For termination of amendment by section 5 of Pub. L. 99–87, see Termination Date of 1985 Amendment note below.
+
 Termination Date of 1985 Amendment
 
 Amendment by Pub. L. 99–87 not effective after Dec. 31, 2002, see section 5 of Pub. L. 99–87, as amended, set out as a Termination Date note under section 3220 of this title.
@@ -3279,7 +3431,7 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 
 Section Referred to in Other Sections
 
-This section is referred to in title 12 section 1701z–2; title 15 section 637; title 16 section 460l–1; title 29 section 1708; title 42 section 12651d.
+This section is referred to in title 12 section 1701z–2; title 15 section 637; title 16 section 460l–1; title 29 sections 1708, 2900; title 42 section 12651d.
 
 §3205. Accounting for penalty covers
 
@@ -3544,6 +3696,17 @@ Such mail of a former President and of the surviving spouse of a former Presiden
 
 Section Referred to in Other Sections
 
+This section is referred to in sections 3201, 3216 of this title.
+
+§3215. Lending or permitting use of frank unlawful
+
+A person entitled to use a frank may not lend it or permit its use by any committee, organization, or association, or permit its use by any person for the benefit or use of any committee, organization, or association.
+This section does not apply to any standing, select, special, or joint committee, or subcommittee thereof, or commission, of the Senate, House of Representatives, or Congress, composed of Members of Congress, or to the Democratic caucus or the Republican conference of the House of Representatives or of the Senate.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, §10, Dec. 18, 1973, 87 Stat. 746.)
+
+Section Referred to in Other Sections
+
 This section is referred to in sections 3201, 3210 of this title; title 2 sections 501, 502.
 
 §3216. Reimbursement for franked mailings
@@ -3573,6 +3736,10 @@ Except as to Mailgrams and except as provided by sections 733 and 907 of title 4
 As soon as practicable after receipt of this statement, the House Commission on Congressional Mailing Standards, the Committee on House Oversight, and the Senate Committee on Rules and Administration shall consider promulgating such regulations for their respective Houses as may be necessary to ensure that total postage costs, as described in paragraph (1) of this subsection, will not exceed the amounts available for the fiscal year.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §7, Dec. 18, 1973, 87 Stat. 745; Pub. L. 93–255, §2(a), Mar. 27, 1974, 88 Stat. 52; Pub. L. 95–521, title VII, §714(b), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §6(a), Oct. 26, 1981, 95 Stat. 1043; Pub. L. 97–263, §1(3), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §§316(b), formerly §316(c), 317, Nov. 21, 1989, 103 Stat. 1067, renumbered §316(b), Pub. L. 101–520, title III, §311(h)(3)(B), Nov. 5, 1990, 104 Stat. 2280; Pub. L. 102–90, title III, §306, Aug. 14, 1991, 105 Stat. 466; Pub. L. 104–186, title II, §220, Aug. 20, 1996, 110 Stat. 1748.)
+
+Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Section Referred to in Other Sections
 
@@ -3950,6 +4117,9 @@ Postal services.
 3662.
 Rate and service complaints.
 
+3663.
+Annual report on international services.
+
         
 
 SUBCHAPTER V—GENERAL
@@ -4139,7 +4309,14 @@ The Postal Service may submit such suggestions for rate adjustments as it deems 
 
 (9) such other factors as the Commission deems appropriate.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760; Pub. L. 94–421, §10, Sept. 24, 1976, 90 Stat. 1311.)
+(c) Compliance with any provision of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.) shall not be considered by the Commission in determining whether to increase rates and shall not otherwise affect the service of the Postal Service.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760; Pub. L. 94–421, §10, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 105–241, §5, Sept. 28, 1998, 112 Stat. 1573.)
+
+References in Text
+
+The Occupational Safety and Health Act of 1970, referred to in subsec. (c), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor.
+For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 Section Referred to in Other Sections
 
@@ -4206,33 +4383,6 @@ The recommended decision shall include a statement specifically responsive to th
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 761; Pub. L. 94–421, §5(a), Sept. 24, 1976, 90 Stat. 1306.)
 
-Rate Change Request Made on September 18, 1975, or Under Docket Number R76–1
-
-Section 5(b) of Pub. L. 94–421 provided that: “The amendment made by subsection (a) of this section [adding subsec. (c) of this section] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission relating to proposed changes in rates of postage, and in fees for postal services, requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1.”
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 3628, 3641, 3662 of this title.
-
-§3625. Action of the Governors
-
-(a) Upon receiving a recommended decision from the Postal Rate Commission, the Governors may approve, allow under protest, reject, or modify that decision in accordance with the provisions of this section.
-
-(b) The Governors may approve the recommended decision and order the decision placed in effect.
-
-(c) The Governors may, under protest, allow a recommended decision of the Commission to take effect and (1) seek judicial review thereof under section 3628 of this title, or (2) return the recommended decision to the Commission for reconsideration and a further recommended decision, which shall be acted upon under this section and subject to review in accordance with section 3628 of this title.
-
-(d) The Governors may reject the recommended decision of the Commission and the Postal Service may resubmit its request to the Commission for reconsideration.
-Upon resubmission, the request shall be reconsidered, and a further recommended decision of the Commission shall be acted upon under this section and subject to review in accordance with section 3628 of this title.
-However, with the unanimous written concurrence of all of the Governors then holding office, the Governors may modify any such further recommended decision of the Commission under this subsection if the Governors expressly find that (1) such modification is in accord with the record and the policies of this chapter, and (2) the rates recommended by the Commission are not adequate to provide sufficient total revenues so that total estimated income and appropriations will equal as nearly as practicable estimated total costs.
-
-(e) The decision of the Governors to approve, allow under protest, reject, or modify a recommended decision of the Commission shall be in writing and shall include an estimate of anticipated revenue and a statement of explanation and justification.
-The decision, the record of the Commission's hearings, and the Commission's recommended decision shall be made generally available at the time the decision is issued and shall be printed and made available for sale by the Public Printer within 10 days following the day the decision is issued.
-
-(f) The Board shall determine the date on which the new rates, fees, the mail classification schedule, and changes in such schedule under this subchapter shall become effective.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 103–123, title VII, §708(d), Oct. 28, 1993, 107 Stat. 1273.)
-
 Section Referred to in Other Sections
 
 This section is referred to in section 3662 of this title.
@@ -4283,7 +4433,7 @@ This section is referred to in section 3662 of this title.
 
 (2) Any material described in paragraph (1) of this subsection shall qualify to be entered and mailed as second class mail in accordance with the applicable provisions of former section 4352 through former section 4357 of this title.
 
-(3) For purposes of this subsection, the term “institution of higher education” has the meaning given it by section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)), and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency.
+(3) For purposes of this subsection, the term “institution of higher education” has the meaning given it by section 101 of the Higher Education Act of 1965, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency.
 
 (c) In the administration of this section, one conservation publication published by an agency of a State which is responsible for management and conservation of the fish or wildlife resources of such State shall be considered a publication of a qualified nonprofit organization which qualifies for rates of postage under former section 4358(d) of this title.
 
@@ -4363,11 +4513,13 @@ This decision shall be deemed final unless the party against whom the deficiency
 
 (2) Paragraph (1) shall not apply with respect to a periodical publication of a qualified nonprofit organization.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620.)
 
 References in Text
 
 Former sections 4351 to 4358, 4452, and 4554 of this title, referred to in subsecs. (a)–(e)(1), (f), (g)(1), (h), and (j) to (m), mean the aforesaid sections which were classified to former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+
+Section 101 of the Higher Education Act of 1965, referred to in subsec. (b)(3), is classified to section 1001 of Title 20, Education.
 
 Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)(D)(I) and (m)(1)(B), is classified to section 513 of Title 26, Internal Revenue Code.
 
@@ -4556,6 +4708,15 @@ If the Commission, in a matter covered by subchapter II of this chapter, determi
 If a matter not covered by subchapter II of this chapter is involved, and the Commission after hearing finds the complaint to be justified, it shall render a public report thereon to the Postal Service which shall take such action as it deems appropriate.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764.)
+
+§3663. Annual report on international services
+
+(a) Not later than July 1 of each year, the Postal Rate Commission shall transmit to each House of Congress a comprehensive report of the costs, revenues, and volumes accrued by the Postal Service in connection with mail matter conveyed between the United States and other countries for the previous fiscal year.
+
+(b) Not later than March 15 of each year, the Postal Service shall provide to the Postal Rate Commission such data as the Commission may require to prepare the report required under subsection (a) of this section.
+Data shall be provided in sufficient detail to enable the Commission to analyze the costs, revenues, and volumes for each international mail product or service, under the methods determined appropriate by the Commission for the analysis of rates for domestic mail.
+
+(Added Pub. L. 105–277, div. A, §101(h) [title VI, §648(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–527.)
 
 SUBCHAPTER V—GENERAL
 
@@ -4887,51 +5048,6 @@ If the Board finds, within 90 days after the filing, that the order or determina
 (g) An order or determination of the Postal Service under this section shall be consistent with the orders of the Board under sections 5207 and 5208 of this title.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(D), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §307(10), (14), Dec. 29, 1995, 109 Stat. 946.)
-
-Section Referred to in Other Sections
-
-This section is referred to in section 5206 of this title.
-
-§5204. Changes in service; placement of equipment
-
-(a) The Postal Service may authorize, according to the need therefor, new or additional mail transportation service by carriers at the rate or compensation fixed under this chapter.
-It may reduce or discontinue service with pro rata reductions in compensation and indemnity for the loss of reasonable investment in equipment used exclusively for mail.
-
-(b) A railroad shall place cars used for full or apartment post office service in position at such times before departure as the Postal Service directs.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769.)
-
-§5205. Evidence of service
-
-A carrier shall submit evidence of its performance of mail transportation service, signed by an authorized official, in such form and at such times as the Postal Service requires.
-Mail transportation service is considered that of the carrier performing it regardless of the ownership of the property used by the carrier.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769.)
-
-§5206. Fines and deductions
-
-(a) The Postal Service may fine any carrier an amount not to exceed $500 for each day the carrier refuses to perform mail transportation services required by it at rates or compensation established under this chapter.
-
-(b) The Postal Service shall fine a carrier an amount it deems reasonable for failure or refusal by that carrier to transport mail as required by the Postal Service under section 5203 of this title.
-
-(c) The Board may make deductions from the compensation of a carrier for failure to perform mail transportation service as required under section 5203 of this title.
-If the failure to perform is due to the fault of the carrier, it may deduct a sum not exceeding twice the compensation applying to such service.
-Such deductions shall not be made prior to the expiration of 60 days following service upon the carrier by the Board of notice of intention to assess a fine or make a deduction and of the basis therefor.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769.)
-
-§5207. Surface Transportation Board to fix rates
-
-(a) The Board shall determine and fix the fair and reasonable rates or compensation for the transportation of mail by carrier and the service connected therewith, and shall prescribe the method of computing such rates or compensation.
-The Board shall publish its orders stating its determination under this section which shall remain in force until changed by it after notice and hearing.
-
-(b) For the purpose of determining and fixing rates or compensation under this section, the Board may make just and reasonable classifications of carriers and, where just and equitable, fix general rates applicable to carriers in the same classification.
-
-(c) In determining and fixing fair and reasonable rates or compensation under this section, the Board shall consider the relation between the Government and carriers as public service corporations, and the nature of public service as distinguished, if there is a distinction, from the ordinary transportation business of the carriers.
-
-(d) Initial rates or compensation for mail transportation service by any carrier or carriers shall be those agreed to by the Postal Service and the carrier or carriers, and such rates or compensation shall continue in effect until such time as the Board fixes the rates or compensation under subsection (a) of this section.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 770; Pub. L. 104–88, title III, §307(11), (14), Dec. 29, 1995, 109 Stat. 946.)
 
 Section Referred to in Other Sections
 
