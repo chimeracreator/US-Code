@@ -597,6 +597,9 @@ Special procedure for commuter service.
 160.
 Emergency board.
 
+160a.
+Rules and regulations.
+
 161.
 Effect of partial invalidity of chapter.
 
@@ -608,6 +611,9 @@ Repeal of prior legislation; exception.
 
 164.
 Repealed.
+
+165.
+Evaluation and audit of Mediation Board.
 
         
 
@@ -788,6 +794,7 @@ If any dispute shall arise among a carrier's employees as to who are the represe
 Upon receipt of such certification the carrier shall treat with the representative so certified as the representative of the craft or class for the purposes of this chapter.
 In such an investigation, the Mediation Board shall be authorized to take a secret ballot of the employees involved, or to utilize any other appropriate method of ascertaining the names of their duly designated and authorized representatives in such manner as shall insure the choice of representatives by the employees without interference, influence, or coercion exercised by the carrier.
 In the conduct of any election for the purposes herein indicated the Board shall designate who may participate in the election and establish the rules to govern the election, or may appoint a committee of three neutral persons who after hearing shall within ten days designate the employees who may participate in the election.
+In any such election for which there are 3 or more options (including the option of not being represented by any labor organization) on the ballot and no such option receives a majority of the valid votes cast, the Mediation Board shall arrange for a second election between the options receiving the largest and the second largest number of votes.
 The Board shall have access to and have power to make copies of the books and records of the carriers to obtain and utilize such information as may be deemed necessary by it to carry out the purposes and provisions of this paragraph.
 
 Tenth.
@@ -809,7 +816,12 @@ Notwithstanding any other provisions of this chapter, or of any other statute or
 
 (d) Any provisions in paragraphs Fourth and Fifth of this section in conflict herewith are to the extent of such conflict amended.
 
-(May 20, 1926, ch. 347, §2, 44 Stat. 577; June 21, 1934, ch. 691, §2, 48 Stat. 1186; June 25, 1948, ch. 646, §1, 62 Stat. 909; Jan. 10, 1951, ch. 1220, 64 Stat. 1238.)
+Twelfth.
+Showing of interest for representation elections
+
+The Mediation Board, upon receipt of an application requesting that an organization or individual be certified as the representative of any craft or class of employees, shall not direct an election or use any other method to determine who shall be the representative of such craft or class unless the Mediation Board determines that the application is supported by a showing of interest from not less than 50 percent of the employees in the craft or class.
+
+(May 20, 1926, ch. 347, §2, 44 Stat. 577; June 21, 1934, ch. 691, §2, 48 Stat. 1186; June 25, 1948, ch. 646, §1, 62 Stat. 909; Jan. 10, 1951, ch. 1220, 64 Stat. 1238; Pub. L. 112–95, title X, §§1002, 1003, Feb. 14, 2012, 126 Stat. 146, 147.)
 
 References in Text
 
@@ -818,7 +830,7 @@ Fifth, probably means May 20, 1926, the date of approval of act May 20, 1926, ch
 
 Codification
 
-Section is comprised of pars. designated First to Eleventh of section 2 of act May 20, 1926. The remainder of section 2 of act May 20, 1926, is classified to section 151a of this title.
+Section is comprised of pars. designated First to Twelfth of section 2 of act May 20, 1926. The remainder of section 2 of act May 20, 1926, is classified to section 151a of this title.
 
 Change of Name
 
@@ -1364,6 +1376,18 @@ After the creation of such board and for thirty days after such board has made i
 
 (May 20, 1926, ch. 347, §10, 44 Stat. 586; June 21, 1934, ch. 691, §7, 48 Stat. 1197.)
 
+§160a. Rules and regulations
+
+(a) In general
+
+The Mediation Board shall have the authority from time to time to make, amend, and rescind, in the manner prescribed by section 553 of title 5, and after opportunity for a public hearing, such rules and regulations as may be necessary to carry out the provisions of this chapter.
+
+(b) Application
+
+The requirements of subsection (a) shall not apply to any rule or proposed rule to which the third sentence of section 553(b) of title 5 applies.
+
+(May 20, 1926, ch. 347, §10A, as added Pub. L. 112–95, title X, §1001, Feb. 14, 2012, 126 Stat. 146.)
+
 §161. Effect of partial invalidity of chapter
 
 If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
@@ -1372,7 +1396,7 @@ If any provision of this chapter, or the application thereof to any person or ci
 
 Separability; Repeal of Inconsistent Provisions
 
-Section 8 of act June 21, 1934, provided that: “If any section, subsection, sentence, clause, or phrase of this Act [amending sections 151 to 158, 160, and 162 of this title] is for any reason held to be unconstitutional, such decision shall not affect the validity of the remaining portions of this Act.
+Act June 21, 1934, ch. 691, §8, 48 Stat. 1197, provided that: “If any section, subsection, sentence, clause, or phrase of this Act [amending sections 151 to 158, 160, and 162 of this title] is for any reason held to be unconstitutional, such decision shall not affect the validity of the remaining portions of this Act.
 All Acts or parts of Acts inconsistent with the provisions of this Act are hereby repealed.”
 
 §162. Authorization of appropriations
@@ -1395,6 +1419,52 @@ Chapters 6 and 7 of this title, referred to in text, were in the original refere
 Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111
 
 Section, act Feb. 11, 1927, ch. 104, §1, 44 Stat. 1072, related to advertisements for proposals for purchases or services rendered for Board of Mediation, including arbitration boards.
+
+§165. Evaluation and audit of Mediation Board
+
+(a) Evaluation and audit of Mediation Board
+
+(1) In general
+
+In order to promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the Mediation Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the Mediation Board.
+Such an evaluation and audit shall be conducted not less frequently than every 2 years, but may be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
+
+(2) Responsibility of Comptroller General
+
+In carrying out the evaluation and audit required under paragraph (1), the Comptroller General shall evaluate and audit the programs, operations, and activities of the Mediation Board, including, at a minimum—
+
+(A) information management and security, including privacy protection of personally identifiable information;
+
+(B) resource management;
+
+(C) workforce development;
+
+(D) procurement and contracting planning, practices, and policies;
+
+(E) the extent to which the Mediation Board follows leading practices in selected management areas; and
+
+(F) the processes the Mediation Board follows to address challenges in—
+
+(i) initial investigations of applications requesting that an organization or individual be certified as the representative of any craft or class of employees;
+
+(ii) determining and certifying representatives of employees; and
+
+(iii) ensuring that the process occurs without interference, influence, or coercion.
+
+(b) Immediate review of certification procedures
+
+Not later than 180 days after February 14, 2012, the Comptroller General shall review the processes applied by the Mediation Board to certify or decertify representation of employees by a labor organization and make recommendations to the Board and appropriate congressional committees regarding actions that may be taken by the Board or Congress to ensure that the processes are fair and reasonable for all parties.
+Such review shall be conducted separately from any evaluation and audit under subsection (a) and shall include, at a minimum—
+
+(1) an evaluation of the existing processes and changes to such processes that have occurred since the establishment of the Mediation Board and whether those changes are consistent with congressional intent; and
+
+(2) a description of the extent to which such processes are consistent with similar processes applied to other Federal or State agencies with jurisdiction over labor relations, and an evaluation of any justifications for any discrepancies between the processes of the Mediation Board and such similar Federal or State processes.
+
+(c) Appropriate congressional committee defined
+
+In this section, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+(May 20, 1926, ch. 347, §15, as added Pub. L. 112–95, title X, §1004, Feb. 14, 2012, 126 Stat. 147.)
 
 SUBCHAPTER II—CARRIERS BY AIR
 
@@ -1653,403 +1723,9 @@ Section 227, act Aug. 29, 1935, ch. 812, §13, 49 Stat. 973, related to authoriz
 
 Section 228, act Aug. 29, 1935, ch. 812, §14, 49 Stat. 973, related to short title of this subchapter.
 
-Short Title; Continuation and Effect of Railroad Retirement Act of 1935
-
-Act June 24, 1937, ch. 382, §§201–205, 50 Stat. 318, 319, as amended by acts Oct. 8, 1940, ch. 757, title VI, pt. II, 54 Stat. 1014; Apr. 8, 1942, ch. 227, §10, 56 Stat. 207; Oct. 30, 1966, Pub. L. 89–700, title I, §111, 80 Stat. 1085, provided that act Aug. 29, 1935, ch. 812, §§1 to 14, 49 Stat. 967 to 973, comprising subchapter II of this chapter, as in effect prior to amendment by act June 24, 1937, was to be known as the Railroad Retirement Act of 1935 and that such act, as amended by act June 24, 1937, was to be known as the Railroad Retirement Act of 1937, set out transitional provisions for adjudication of claims under both the Railroad Retirement Acts of 1935 and 1937, and provided that the enactment of act June 24, 1937 was to have no effect on members of the Railroad Retirement Board in office on June 24, 1937, except that persons experienced in railroad service were to be retained in the employ of the Board, even if unqualified for service under the civil service law and rules, where the Board determined that they possessed the necessary qualifications.
-
-SUBCHAPTER III—RAILROAD RETIREMENT ACT OF 1937
-
-Codification
-
-This subchapter was comprised of act Aug. 29, 1935, ch. 812, as restated by act June 24, 1937, ch. 382, 50 Stat. 307, known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended in its entirety and completely revised by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, effective Jan. 1, 1975. The act, as amended and revised by Pub. L. 93–445, was redesignated the Railroad Retirement Act of 1974 and is classified to subchapter IV of this chapter.
-
-§§228a to 228c–1. Omitted
-
-Codification
-
-Sections 228a to 228c–1 were omitted pursuant to the amendment and revision of act Aug. 29, 1935, ch. 812, by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974.
-
-Section 228a, act Aug. 29, 1935, ch. 812, §1, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 307; amended June 11, 1940, ch. 307, §1, 54 Stat. 264; Aug. 13, 1940, ch. 664, §§1, 3, 54 Stat. 785, 786; Oct. 10, 1940, ch. 842, §25, 54 Stat. 1100; Apr. 8, 1942, ch. 227, §13, 56 Stat. 209; July 31, 1946, ch. 709, §§1, 2, 201 to 204, 60 Stat. 722, 725 to 727; Oct. 30, 1951, ch. 632, §1, 65 Stat. 683; July 18, 1952, ch. 945, §6(d)(1), 66 Stat. 777; Aug. 31, 1954, ch. 1164, pt. I, §1, 68 Stat. 1038; Sept. 1, 1954, ch. 1206, title IV, §401(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title I, §120(a), 70 Stat. 836; Aug. 1, 1956, ch. 837, title IV, §408(c), 70 Stat. 877; Aug. 30, 1957, Pub. L. 85–238, §4(a), 71 Stat. 520; Aug. 28, 1958, Pub. L. 85–840, title VII, §703, 72 Stat. 1056; Sept. 13, 1960, Pub. L. 86–778, title VII, §708, 74 Stat. 997; June 30, 1961, Pub. L. 87–64, title III, §301, 75 Stat. 142; July 30, 1965, Pub. L. 89–97, title III, §326(a), 79 Stat. 400; Sept. 29, 1965, Pub. L. 89–212, §2(f), 79 Stat. 860; Oct. 30, 1966, Pub. L. 89–700, title I, §101, 80 Stat. 1079; Feb. 15, 1968, Pub. L. 90–257, title I, §101, 82 Stat. 16; Oct. 22, 1968, Pub. L. 90–624, §2, 82 Stat. 1316, defined terms for purposes of this subchapter.
-See section 231 of this title.
-
-Section 228b, act Aug. 29, 1935, ch. 812, §2, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 309; amended July 31, 1946, ch. 709, §§205, 206, 60 Stat. 727, 728; Oct. 30, 1951, ch. 632, §§2, 3, 5, 65 Stat. 683; Aug. 31, 1954, ch. 1164, pt. I, §§2, 3, 68 Stat. 1038; Sept. 1, 1954, ch. 1206, title IV, §401(b), 68 Stat. 1097; Aug. 12, 1955, ch. 869, §1, 69 Stat. 715; May 19, 1959, Pub. L. 86–28, pt. I, §1, 73 Stat. 25; Sept. 22, 1961, Pub. L. 87–285, §§1, 2, 75 Stat. 585; Sept. 29, 1965, Pub. L. 89–212, §1, 79 Stat. 858; Oct. 30, 1966, Pub. L. 89–699, title II, §201(a), 80 Stat. 1075; Oct. 30, 1966, Pub. L. 89–700, title I, §102, 80 Stat. 1079; Feb. 15, 1968; Pub. L. 90–257, title I, §§102, 103, 82 Stat. 16; Aug. 12, 1970, Pub. L. 91–377, §2, 84 Stat. 791; July 2, 1971, Pub. L. 92–46, §2, 85 Stat. 101; Oct. 4, 1972, Pub. L. 92–460, §1(b), (c), 86 Stat. 765; July 10, 1973, Pub. L. 93–69, title I, §§101, 104(b), (c), 87 Stat. 162, 164, related to eligibility of individuals for annuities under this subchapter.
-See section 231a of this title.
-
-Section 228c, act Aug. 29, 1935, ch. 812, §3, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 310; amended July 31, 1946, ch. 709, §§207–211, 60 Stat. 728, 729; June 23, 1948, ch. 608, §1, 62 Stat. 576; Oct. 30, 1951, ch. 632; §§6–10, 65 Stat. 684; June 16, 1954, ch. 300, §1, 68 Stat. 250; Aug. 31, 1954, ch. 1164, pt. I, §§4–7, 68 Stat. 1038, 1039; Aug. 7, 1956, ch. 1022, §1, 70 Stat. 1076; Sept. 6, 1958, Pub. L. 85–927, pt. I, §1, 72 Stat. 1778; May 19, 1959, Pub. L. 86–28, pt. I, §2, 73 Stat. 26; Sept. 13, 1960, Pub. L. 86–778, title II, §211(o)(1), 74 Stat. 958; Oct. 5, 1963, Pub. L. 88–133, title I, §§1, 2, 77 Stat. 219; Sept. 29, 1965, Pub. L. 89–212, §3(a), (b), 79 Stat. 860; Oct. 30, 1966, Pub. L. 89–699, title I, §1, title II, §201(b), (c), 80 Stat. 1073, 1075, 1076; Oct. 30, 1966, Pub. L. 89–700, title I, §103, title III, §301(i), (iv)(a), 80 Stat. 1080, 1088; Feb. 15, 1968, Pub. L. 90–257, title I, §104, 82 Stat. 17; Mar. 17, 1970, Pub. L. 91–215, §§1, 2, 84 Stat. 70; Aug. 12, 1970, Pub. L. 91–377, §1, 84 Stat. 791, July 2, 1971, Pub. L. 92–46, §1, 85 Stat. 101; Oct. 4, 1972, Pub. L. 92–460, §1(a), (d), 86 Stat. 765; July 6, 1973, Pub. L. 93–58, §1, 87 Stat. 141; July 10, 1973, Pub. L. 93–69, title I, §104(a), 87 Stat. 163; Oct. 16, 1974, Pub. L. 93–445, title VI, §601, 88 Stat. 1360, related to computation of annuities under this subchapter.
-See section 231b of this title.
-
-Section 228c–1, act Aug. 29, 1935, ch. 812, §4, as restated June 24, 1937, ch. 382, pt. I, §1, as added Oct. 8, 1940, ch. 757, title VI, pt. II, §625, 54 Stat. 1014; amended Apr. 8, 1942, ch. 227, §§1–8, 56 Stat. 204–206; July 31, 1946, ch. 709, §212, 60 Stat. 729; Oct. 30, 1951, ch. 632, §4, 65 Stat. 683; Aug. 1, 1956, ch. 837, title IV, §408(a), (b), 70 Stat. 876; Oct. 5, 1963, Pub. L. 88–133, title I, §§3, 4, 77 Stat. 219; Oct. 30, 1966, Pub. L. 89–700, title I, §104, 80 Stat. 1081, related to consideration of time spent in military service in computation of annuities.
-See section 228a of this title.
-
-Annuities, Pensions, and Joint and Survivor Annuity Elections
-
-Act July 31, 1946, ch. 709, §§404–407, 60 Stat. 742, provided that the rights of persons to whom pensions or annuities were awarded before July 31, 1946 were to be governed by the applicable provisions of law in effect prior to that date, that the election of a joint and survivor annuity made before July 31, 1946, by a person to whom the annuity accrued before Jan. 1, 1947, was to be given effect as though the provisions of law under which the election was made had continued to be operative, that death payments under sections 219 and 228e of this title, other than survivor annuities pursuant to an election, were to be made only with respect to deaths occurring before Jan. 1, 1947, and that any person to whom an annuity accrued before Jan. 1, 1947, and who would as of the date of the initial accrual have been entitled to an annuity in a greater amount by reason of the amendments by act July 31, 1946, had such amendments been in effect at the date of initial accrual, was to be awarded the annuity in such greater amount without additional application therefor.
-
-Reduction of Annuity Because of Prior Disability Annuity Terminated by Recovery
-
-Act July 31, 1946, ch. 709, §408, 60 Stat. 742, provided that no annuities accruing after July 1946 were to be reduced under section 228b(a)(3) of this title in order to compensate for an annuity terminated by recovery from a disability.
-
-Dual Benefit Provision; Retroactive Payment to Survivors
-
-Act June 16, 1954, ch. 300, §2, 68 Stat. 250, provided that in the case of a decedent dying before July 1, 1954, so much of any annuity or pension payment due such decedent under section 228c(b) of this title, was to be paid only to the widow or widower of the decedent, if living, or to the child or children of such decedent, in the alternative, if living.
-
-Percentage Adjustment
-
-Pub. L. 92–46, §4, July 2, 1971, 85 Stat. 101, authorized the Railroad Retirement Board to make certain adjustments in allowance percentages under this subchapter, so that the percentages when applied against certain social security benefits, would result in amounts comparable to those in effect prior to the changes made by Pub. L. 92–5, Mar. 17, 1971, 85 Stat. 5, known as the Social Security Amendments of 1971.
-
-Recertifications by Railroad Retirement Board
-
-Pub. L. 93–69, §106, July 10, 1973, 87 Stat. 165, provided that all recertifications required by reason of the amendments made by sections 104 and 105 of Pub. L. 93–69 were to be made by the Board without application therefor.
-
-Pub. L. 92–460, §3, Oct. 4, 1972, 86 Stat. 766, provided that all recertifications required by reason of the amendments made by Pub. L. 92–460 were to be made by the Board without application therefor.
-
-Pub. L. 92–46, §6, July 2, 1971, 85 Stat. 102, provided that all recertifications required by reason of the amendments made by Pub. L. 92–46 were to be made by the Board without application therefor.
-
-Pub. L. 91–377, §4(b)(2), Aug. 12, 1970, 84 Stat. 792, provided that all recertifications required by reason of the amendments made by Pub. L. 91–377 to sections 228b, 228c, 228e, and 228o of this title were to be made by the Board without application therefor.
-
-Pub. L. 90–257, §108(c), Feb. 15, 1968, 82 Stat. 23, provided that all recertifications required by reason of the amendments made by Pub. L. 90–257 to sections 228a, 228b, 228c, 228e, and 228j of this title were to be made by the Board without application therefor.
-
-Pub. L. 89–699, §202(b), Oct. 30, 1966, 80 Stat. 1077, provided that all recertifications required by reason of the amendments made by Pub. L. 89–699 were to be made by the Board without application therefor.
-
-Pub. L. 86–28, §6(b), Mar. 19, 1959, 73 Stat. 28, provided that all recertifications required by reason of the amendments made by Pub. L. 86–28 to sections 228b, 228c, 228e, 228s–1 and the enactment of section 228z–1 of this title were to be made by the Board without application therefor.
-
-Act Oct. 30, 1951, ch. 632, §25(j), 65 Stat. 691, provided that all recertifications by the Board under act Oct. 30, 1951 were to be made without applications therefor unless required by reason of section 9 of act Oct. 30, 1951, in which case, recertifications were to be made only upon application therefor in such manner and form as the Board was to prescribe.
-
-Act June 23, 1948, ch. 608, §3, 62 Stat. 577, provided in part that all recertifications required by reason of act June 23, 1948 were to be made by the Board without application therefor.
-
-Restrictions on Establishment of New Annuities and Use of Certain Labor Tactics
-
-Pub. L. 91–215, §7, Mar. 17, 1970, 84 Stat. 72, placed certain limitations on the utilization of particular procedures established under the Railway Labor Act, section 151 et seq. of this title, when alterations in the provisions of this subchapter regarding certain annuity payments were being sought and placed similar limitations on the use of strikes and lockouts as labor practices when such changes were being sought.
-
-§228d. Repealed.
-July 31, 1946, ch. 709, §212, 60 Stat. 729
-
-Section, act Aug. 29, 1935, ch. 812, §4, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 311, related to joint and survivor annuity.
-
-§§228e to 228z–1. Omitted
-
-Codification
-
-Sections 228e to 228z–1 were omitted pursuant to the amendment and revision of act Aug. 29, 1935, ch. 812, by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974.
-
-Section 228e, act Aug. 29, 1935, ch. 812, §5, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 312; amended Apr. 8, 1942, ch. 227, §12, 56 Stat. 208; 1946 Reorg.
-Plan No. 2, §4, eff.
-July 16, 1946; 11 F.R. 7873, 60 Stat. 1095; acts July 31, 1946, ch. 709, §213, 60 Stat. 729; June 23, 1948, ch. 608, §2, 62 Stat. 577; Oct. 30, 1951, ch. 632, §§11 to 23, 65 Stat. 685; July 18, 1952, ch. 945, §6(d)(2), (3), 66 Stat. 777; 1953 Reorg.
-Plan No. 1, §§5, 8, eff.
-Apr. 11, 1953 18 F.R. 2053, 67 Stat. 631; acts Aug. 31, 1954, ch. 1164, pt. I, §§8–14, 68 Stat. 1039; Sept. 1, 1954, ch. 1206, title I, §106(f), title IV, §401(b)–(d), 68 Stat. 1081, 1097; Aug. 12, 1955, ch. 869, §§2, 3, 69 Stat. 716; Aug. 1, 1956, ch. 836, title I, §120(b), (c), 70 Stat. 836; Aug. 7, 1956, ch. 1022, §2, 70 Stat. 1076; Aug. 30, 1957, Pub. L. 85–238, §4(b), (c), 71 Stat. 520; Sept. 6, 1958, Pub. L. 85–927, §2, 72 Stat. 1779; May 19, 1959, Pub. L. 86–28, pt. I, §3, 73 Stat. 27; Sept. 13, 1960, Pub. L. 86–778, title II, §211(o)(2), 74 Stat. 958; Sept. 22, 1961, Pub. L. 87–285, §3, 75 Stat. 585; Oct. 5, 1963, Pub. L. 88–133, title I, §§5, 6, 77 Stat. 220; July 30, 1965, Pub. L. 89–97, title I, §111(b)(2), title III, §326(b), 79 Stat. 341, 400; Sept. 29, 1965, Pub. L. 89–212, §3(c)–(e), 79 Stat. 860; Oct. 30, 1966, Pub. L. 89–699, title II, §201(d)–(f), 80 Stat. 1076; Oct. 30, 1966, Pub. L. 89–700, title I, §105, title III, §301(i), (iv)(b), (c), 80 Stat. 1082, 1088; Jan. 2, 1968, Pub. L. 90–248, title I, §151(d)(3), 81 Stat. 860; Feb. 15, 1968, Pub. L. 90–257, title I, §105, 82 Stat. 19; Aug. 12, 1970, Pub. L. 91–377, §3, 84 Stat. 791, July 2, 1971, Pub. L. 92–46, §3, 85 Stat. 101; Oct. 4, 1972, Pub. L. 92–460, §1(e), (f), 86 Stat. 766; July 6, 1973, Pub. L. 93–58, §2, 87 Stat. 141; July 10, 1973, Pub. L. 93–69, title I, §104(d), 87 Stat. 164, related to annuities and lump sum payments for survivors.
-See sections 231c and 231e of this title.
-
-Section 228f, act Aug. 29, 1935, ch. 812, §6, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 312, related to pensions to individuals on pension or gratuity rolls of employers.
-See section 231o of this title.
-
-Section 228g, act Aug. 29, 1935, ch. 812, §7, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 313, related to additional pensions or gratuities by employers.
-See section 231o of this title.
-
-Section 228h, act Aug. 29, 1935, ch. 812, §8, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 313; amended July 31, 1946, ch. 709, §214, 60 Stat. 735; Oct. 30, 1966, Pub. L. 89–700, title I, §106, 80 Stat. 1085, related to filing of compensation returns by employers with Board.
-See section 231h of this title.
-
-Section 228h–1, act Oct. 9, 1940, ch. 797, §4, 54 Stat. 1089, related to records of service and compensation prior to Jan. 1, 1937, was transferred to a note set out under section 228h of this title.
-
-Section 228i, act Aug. 29, 1935, ch. 812, §9, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 314; amended Oct. 10, 1940, ch. 842, §26, 54 Stat. 1100; Oct. 30, 1966, Pub. L. 89–700, title I, §107, 80 Stat. 1085, related to erroneous payments by the Board.
-See section 231i of this title.
-
-Section 228j, act Aug. 29, 1935, ch. 812, §10, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 314; amended 1940 Reorg.
-Plan No. III, §1(a), eff.
-June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; acts June 25, 1948, ch. 646, 19§§1, 32(b), 62 Stat. 875, 895, 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Oct. 15, 1949, ch. 695, §5(a), 63 Stat. 880; Aug. 12, 1955, ch. 869, §5, 69 Stat. 716; Sept. 6, 1958, Pub. L. 85–927, pt. I, §3, 72 Stat. 1781; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 30, 1966, Pub. L. 89–700, title I, §108, 80 Stat. 1085; Feb. 15, 1968, Pub. L. 90–257, title I, §106, 82 Stat. 21, related to establishment of Railroad Retirement Board.
-See section 231f of this title.
-
-Section 228k, act Aug. 29, 1935, ch. 812, §11, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 315; amended July 31, 1946, ch. 709, §215, 60 Stat. 735, related to court jurisdiction under this subchapter.
-See section 231g of this title.
-
-Section 228l, act Aug. 29, 1935, ch. 812, §12, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316 and amended Aug. 12, 1955, ch. 869, §4, 69 Stat. 716, related to assignability of annuities and pension payments under this subchapter.
-See section 231m of this title.
-
-Section 228m, act Aug. 29, 1935, ch. 812, §13, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316; amended Sept. 6, 1958, Pub. L. 85–927, pt. I, §4, 72 Stat. 1781, related to penalties under this subchapter.
-See section 231l of this title.
-
-Section 228n, act Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316, related to separability of provisions.
-See section 231s of this title.
-
-Section 228o, act Aug. 29, 1935, ch. 812, §15, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316; amended Sept. 22, 1959, Pub. L. 86–346, title I, §104(4), 73 Stat. 622; Oct. 5, 1963, Pub. L. 88–133, title I, §7(a), 77 Stat. 220; Oct. 30, 1966, Pub. L. 89–699, title I, §2, 80 Stat. 1074; Mar. 17, 1970, Pub. L. 91–215, §3, 84 Stat. 70; Aug. 12, 1970, Pub. L. 91–377, §5, 84 Stat. 792, related to establishment of Railroad Retirement Account.
-See section 231n of this title.
-
-Section 228p, act Aug. 29, 1935, ch. 812, §16, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 317, related to authorization of appropriations under this subchapter.
-
-Section 228q, act Aug. 29, 1935, ch. 812, §17, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 317; amended Oct. 30, 1951, ch. 632, §24, 65 Stat. 690, defined “employment” as used in this subchapter.
-See section 231q of this title.
-
-Section 228r, act Aug. 29, 1935, ch. 812, §18, as added June 24, 1917, ch. 382, pt. I, §1, 50 Stat. 318, related to free transportation.
-See section 231p of this title.
-
-Section 228s, act Aug. 29, 1935, ch. 812, §19(a), (b), as added June 24, 1917, ch. 382, pt. I, §1, as added Apr. 8, 1942, ch. 227, §11, 56 Stat. 207, 208; amended Oct. 30, 1966, Pub. L. 89–700, title I, §109, 80 Stat. 1085, related to incompetence.
-See section 231k of this title.
-
-Section 228s–1, act June 24, 1937, ch. 382, pt. I, §20, as added Aug. 31, 1954, ch. 1164, pt. I, §15, 68 Stat. 1040; amended May 19, 1959, Pub. L. 86–28, pt. I, §4, 73 Stat. 28; Aug. 29, 1959, Pub. L. 86–211, §8(c), 73 Stat. 436; Oct. 30, 1966, Pub. L. 89–700, title I, §110, 80 Stat. 1085, related to waiver of annuities and pensions under this subchapter.
-See section 231k of this title
-
-Section 228s–2, act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335; amended July 30, 1965, Pub. L. 89–97, title I, §111(b)(1), 79 Stat. 340; Jan. 2, 1968, Pub. L. 90–248, title I, §129(c)(13), 81 Stat. 849, related to hospital insurance benefits for the aged.
-See section 231f of this title.
-
-Section 228s–3, act Aug. 29, 1935, ch. 812, §22, as added Oct. 30, 1972, Pub. L. 92–603, title II, §201(d), 86 Stat. 1373, related to hospital insurance benefits for the disabled.
-See section 231f of this title.
-
-Section 228t, act Oct. 30, 1951, ch. 632, §25(d), 65 Stat. 690, related to certain retirement or survivor annuities awarded prior to Oct. 30, 1951.
-
-Section 228u, act Oct. 30, 1951, ch. 632, §25(e), 65 Stat. 690, related to determination of entitlement to a survivor annuity.
-
-Section 228v, act Oct. 30, 1951, ch. 632, §25(f), 65 Stat. 691, related to law governing the awards of annuities.
-
-Section 228w, act Oct. 30, 1951, ch. 632, §25(g), 65 Stat. 691, related to increased pensions after Nov. 30, 1961.
-
-Section 228x, act Oct. 30, 1951, ch. 632, §25(h), 65 Stat. 691, related to increased annuities under subchapter II of this chapter.
-
-Section 228y, act Oct. 30, 1951, ch. 632, §25(i), 65 Stat. 691, related to certain reduced annuities.
-
-Section 228z, act Aug. 7, 1956, ch. 1022, §3, 70 Stat. 1076, related to increased pensions and annuities awarded before July 1, 1956 and annuities under subchapter II of this chapter.
-
-Section 228z–1, Pub. L. 86–28, pt. I, §5, May 19, 1959, 73 Stat. 28, related to additional increases in certain pensions and annuities.
-
-Actuarial Soundness of the Railroad Retirement System
-
-Pub. L. 93–69, title I, §107, July 10, 1973, 87 Stat. 165, authorized certain designated representatives of employees and representatives of carriers to submit to the Senate Committee on Labor and Public Welfare and the House Committee on Interstate and Foreign Commerce, no later than Apr. 1, 1974, a report containing their recommendations for restructuring the railroad retirement system to assure long-term actuarial soundness.
-
-Adopted Child's Reentitlement to Annuity
-
-Pub. L. 93–58, §4(b), July 6, 1973, 87 Stat. 141, provided that any child whose entitlement to an annuity under section 228e(c) of this title was terminated by reason of his or her adoption prior to July 6, 1973, and who otherwise would have been entitled to an annuity under such section for a month after July, 1973, could become reentitled to his or her annuity by proper application.
-
-Certain Persons Becoming Employers
-
-Act July 31, 1946, ch. 709, §409, 60 Stat. 743, provided that in the application of section 228f of this title with respect to persons who were not employers before the enactment of act July 31, 1946, the dates Jan. 1, 1946, and Jan. 1, 1947, were to be substituted for Mar. 1, 1937 and July 1, 1937, respectively.
-
-Commission on Railroad Retirement
-
-Pub. L. 91–377, §7, Aug. 12, 1970, 84 Stat. 792, as amended by Pub. L. 92–46, §7, July 2, 1971, 85 Stat. 102, established a commission on railroad retirement, prescribed its composition, designated the rates of pay for its members, authorized a study of the retirement system and its financing, authorized appropriations for funding the expenses of the commission, and required that the commission submit a full report on its work no later than June 30, 1972.
-
-Congressional Declaration of 1974 Legislative Intent
-
-Pub. L. 93–69, title I, §108, July 10, 1973, 87 Stat. 165, provided that the Congress declared its intent to enact legislation in 1974, effective not later than Jan. 1, 1975, which would assure the long-term actuarial soundness of the railroad retirement system.
-
-Conversion of Special Obligations in Railroad Retirement Account on Oct. 5, 1963; Interest Rate
-
-Pub. L. 88–133, §7(b), Oct. 5, 1963, 77 Stat. 220, provided that: “The Secretary of the Treasury is authorized to retire the special obligations held by the account on the date of enactment of this Act [Oct. 5, 1963] and to issue in lieu thereof special obligations with an interest rate determined as provided for in section 15(b) of the Railroad Retirement Act of 1937, as amended by this Act [Pub. L. 88–133].”
-
-Determination of Amounts of Social Security Benefits
-
-Pub. L. 91–377, §4(c), Aug. 12, 1970, 84 Stat. 792, provided that the amount by which a social security benefit computed under Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, known as the Social Security Amendments of 1967, for purposes of Pub. L. 91–377, was to be deemed to be an amount equal to 87 per cent of such benefit computed under Pub. L. 91–172, title X, Dec. 30, 1969, 83 Stat. 737, known as the Social Security Amendments of 1969, and the amount by which an individual's social security benefit was increased by reason of the Social Security Amendments of 1969 was to be deemed to be 13 per cent of such individual's social security benefit as computed under the Social Security Amendments of 1969.
-
-Entitlement to Annuity or Pension Under Railroad Retirement Act of 1937 as Including Entitlement Under Railroad Retirement Act of 1935
-
-Pub. L. 89–97, title I, §105(a)(2), July 30, 1965, 79 Stat. 335, provided that for purposes of section 21 of the Railroad Retirement Act of 1937, section 21 of act Aug. 29, 1935, as added by section 105(a)(1) of Pub. L. 89–97, and for certain other purposes, entitlement to an annuity or pension under this subchapter was to be deemed to include entitlement under subchapter II of this chapter.
-
-Hospital Insurance Benefits for the Aged
-
-Act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335, required the Railroad Retirement Board to certify to the Secretary of Health, Education, and Welfare, in order to provide hospital insurance benefits for annuitants, pensioners, and certain other aged individuals for purposes of the Social Security program, the name of anyone aged 65 who was entitled to an annuity or pension under this subchapter, would have been so entitled had he ceased compensated service and had applied for such annuity, or bore a particular relationship to certain qualified employees, and specified such additional information as such certification was to include.
-
-Increases in Certain Pensions and Annuities
-
-Pub. L. 93–69, title I, §105, July 10, 1973, 87 Stat. 164, provided that if title II of the Social Security Act, section 401 et seq. of Title 42, The Public Health and Welfare, was amended to provide an increase in benefits at any time during the period July 1, 1973 to Dec. 31, 1974, the pension of each recipient under section 228f of this title and the annuity of each recipient under this subchapter was to be increased by an amount computed under the method set forth in section 228c(a)(6) of this title.
-
-Pub. L. 92–460, §2 Sept. 4, 1972, 86 Stat. 766, provided for 20 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities.
-
-Pub. L. 92–46, §5, July 2, 1971, 85 Stat. 101, provided for 10 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities.
-
-Pub. L. 91–377, §4(b)(1), Aug. 12, 1970, 84 Stat. 792, provided for 15 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
-
-Pub. L. 90–257, §107, Feb. 15, 1968, 82 Stat. 22, provided for certain increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, survivor annuities and widows’ and widowers’ insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
-
-Pub. L. 89–699, §201(g), Oct. 30, 1966, 80 Stat. 1077, provided for 7 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
-
-Permanency of Increases in Certain Pensions and Annuities
-
-Pub. L. 92–460, §6, Sept. 4, 1972, 86 Stat. 767, provided that it was the policy of Congress that the 20 per cent increase in pension and annuity benefits provided by section 2 of Pub. L. 92–460, as well as the 10 per cent and 15 per cent increases provided by section 5 of Pub. L. 92–46 and section 4(b)(1) of Pub. L. 91–377, respectively, could become permanent only if measures were taken to assure that the Railroad Retirement Account would remain solvent, and required representatives of employees, retirees, and carriers to submit to Congress reports containing their recommendations for such solvency measures no later than Mar. 1, 1973, and required the Railroad Retirement Board to submit its solvency recommendations to Congress no later than Apr. 1, 1973.
-
-Presumption of Higher Increases in Annuities
-
-Pub. L. 90–257, §108(b), Feb. 15, 1968, 82 Stat. 23, provided that in cases where an annuity was payable in the month before the month with respect to which increases in benefits under title II of the Social Security Act, sections 401 et seq. of Title 42, The Public Health and Welfare, provided for by Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, known as the Social Security Amendments of 1967, became effective in an amount determined under this subchapter, other than under the first proviso of section 228c(e) of this title, the provisions of Pub. L. 90–257 were to be presumed to provide a higher amount of increase in annuity than the provisions of the Social Security Amendments of 1967 would provide under the first proviso of section 228c(e) of this title.
-
-Railroad Retirement and Old-Age, Survivors, and Disability Insurance System
-
-Pub. L. 89–97, §105(c), July 30, 1965, 79 Stat. 336, provided that amendments preserving the relationship between the railroad retirement and old-age, survivors, and disability insurance systems were contained in section 326 of Pub. L. 89–97, which amended sections 228 and 228e of this title.
-
-Transfer of Funds for Payment of Supplemental Annuities
-
-Pub. L. 91–215, §6, Mar. 17, 1970, 84 Stat. 71, authorized the Railroad Retirement Board to request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the Railroad Retirement Supplemental Account such funds as were necessary to meet the payment of the supplemental annuities pursuant to section 228c(j) of this title, as well as the administrative expenses necessarily involved for the six months following Mar. 17, 1970, and required the Board to request the return of an equal amount plus interest to the Railroad Retirement Account from the Supplemental Account within one year from Mar. 17, 1970.
-
-Pub. L. 89–699, §3(b), Oct. 30, 1966, 80 Stat. 1075, authorized the Railroad Retirement Board to request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the Railroad Retirement Supplemental Account such funds as were necessary to meet the payment of the supplemental annuities pursuant to section 228c(j) of this title, as well as the administrative expenses necessarily involved for the six months following Oct. 30, 1966, and required the Board to request the return of an equal amount plus interest to the Railroad Retirement Account from the Supplemental Account within one year from Oct. 30, 1966.
-
-SUBCHAPTER IV—RAILROAD RETIREMENT ACT OF 1974
-
-Codification
-
-This subchapter is comprised of act Aug. 29, 1935, ch. 812, as amended in its entirety and completely revised by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and as further amended in its entirety and completely revised by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, eff.
-Jan. 1, 1975. The Act, as restated by Pub. L. 93–445, was redesignated the Railroad Retirement Act of 1974. See section 231t of this title.
-The Act is set out in this subchapter carrying a statutory credit showing restatement by act June 24, 1937 and a further restatement by Pub. L. 93–445 without reference to amendments made to the Act between its original enactment in 1935 and 1974. For history of the Act, credits, and note material, see subchapters II and III of this chapter.
-
-§231. Definitions
-
-For the purposes of this subchapter—
-
-(a)(1) The term “employer” shall include—
-
-(i) any carrier by railroad subject to the jurisdiction of the Surface Transportation Board under part A of subtitle IV of title 49;
-
-(ii) any company which is directly or indirectly owned or controlled by, or under common control with, one or more employers as defined in paragraph (i) of this subdivision, and which operates any equipment or facility or performs any service (except trucking service, casual service, and the casual operation of equipment or facilities) in connection with the transportation of passengers or property by railroad, or the receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, or handling of property transported by railroad;
-
-(iii) any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the property or operating all or any part of the business of any employer as defined in paragraph (i) or (ii) of this subdivision;
-
-(iv) any railroad association, traffic association, tariff bureau, demurrage bureau, weighing and inspection bureau, collection agency and any other association, bureau, agency, or organization which is controlled and maintained wholly or principally by two or more employers as defined in paragraph (i), (ii), or (iii) of this subdivision and which is engaged in the performance of services in connection with or incidental to railroad transportation; and
-
-(v) any railway labor organization, national in scope, which has been or may be organized in accordance with the provisions of the Railway Labor Act, as amended [45 U.S.C. 151 et seq.], and its State and National legislative committees, general committees, insurance departments, and local lodges and divisions, established pursuant to the constitution or bylaws of such organization.
-
-(2) Notwithstanding the provisions of subdivision (1) of this subsection, the term “employer” shall not include—
-
-(i) any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities, and
-
-(ii) any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general diesel-railroad system of transportation, but shall not exclude any part of the general diesel-railroad system of transportation now or hereafter operated by any other motive power.
-The Surface Transportation Board is hereby authorized and directed upon request of the Railroad Retirement Board, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this paragraph.
-
-(b)(1) The term “employee” means (i) any individual in the service of one or more employers for compensation, (ii) any individual who is in the employment relation to one or more employers, and (iii) an employee representative: Provided, however, That the term “employee” shall include an employee of a local lodge or division defined as an employer in subsection (a) of this section only if he was in the service of or in the employment relation to an employer as defined in paragraph (i) of subsection (a)(1) of this section on or after August 29, 1935.
-
-(2) The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
-
-(c) The term “employee representative” means any officer or official representative of a railway labor organization other than a labor organization included in the term “employer” as defined in subsection (a) of this section who before or after August 29, 1935, was in the service of an employer as defined in subsection (a) of this section and who is duly authorized and designated to represent employees in accordance with the Railway Labor Act, as amended [45 U.S.C. 151 et seq.], and any individual who is regularly assigned to or regularly employed by such officer or official representative in connection with the duties of his office.
-
-(d)(1) An individual is in the service of an employer whether his service is rendered within or without the United States if—
-
-(i)(A) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or (B) he is rendering professional or technical services and is integrated into the staff of the employer, or (C) he is rendering, on the property used in the employer's operations, personal services the rendition of which is integrated into the employer's operations; and
-
-(ii) he renders such service for compensation, or a method of computing the monthly compensation for such service is provided in section 231b(j) of this title.
-
-(2) Notwithstanding the provisions of subdivision (1) of this subsection—
-
-(i) an individual shall be deemed to be in the service of an employer, other than a local lodge or division or a general committee of a railway-labor-organization employer, not conducting the principal part of its business in the United States only when he is rendering service to it in the United States;
-
-(ii) an individual shall be deemed to be in the service of a local lodge or division of a railway-labor-organization employer not conducting the principal part of its business in the United States only if (A) all, or substantially all, the individuals constituting the membership of such local lodge or division are employees of an employer conducting the principal part of its business in the United States; or (B) the headquarters of such local lodge or division is located in the United States; and
-
-(iii) an individual shall be deemed to be in the service of a general committee of a railway-labor-organization employer not conducting the principal part of its business in the United States only if (A) he is representing a local lodge or division described in clause (A) or (B) of paragraph (ii); or (B) all, or substantially all, the individuals represented by such general committee are employees of an employer conducting the principal part of its business in the United States; or (C) he acts in the capacity of a general chairman or an assistant general chairman of a general committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under its jurisdiction, unless such mileage formula is inapplicable, in which case the Board may prescribe such other formula as it finds to be equitable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 per centum of his remuneration for such service no part of such remuneration shall be regarded as compensation.
-
-(3) Notwithstanding the provisions of subdivisions (1) and (2) of this subsection, an individual not a citizen or resident of the United States shall not be deemed to be in the service of an employer when rendering service outside the United States to an employer who is required under the laws applicable in the place where the service is rendered to employ therein, in whole or in part, citizens or residents thereof.
-For purposes of this subdivision, the laws applicable on August 29, 1935, in the place where the service is rendered shall be deemed to have been applicable there at all times prior to that date.
-
-(e)(1) An individual shall be deemed to have been in the employment relation to an employer on August 29, 1935, if—
-
-(i) he was on that date on leave of absence from his employment, expressly granted to him by the employer by whom he was employed, or by a duly authorized representative of such employer, and the grant of such leave of absence will have been established to the satisfaction of the Board before July 1947;
-
-(ii) he was in the service of an employer after August 29, 1935, and before January 1946 in each of six calendar months, whether or not consecutive;
-
-(iii) before August 29, 1935, he did not retire and was not retired or discharged from the service of the last employer by whom he was employed or its corporate or operating successor, but (A) solely by reason of his physical or mental disability he ceased before August 29, 1935, to be in the service of such employer and thereafter remained continuously disabled until he attained age sixty-five or until August 1945, or (B) solely for such last stated reason an employer by whom he was employed before August 29, 1935, or an employer who is its successor did not on or after August 29, 1935, and before August 1945 call him to return to service, or (C) if he was so called he was solely for such reason unable to render service in six calendar months as provided in paragraph (ii); or
-
-(iv) he was on August 29, 1935, absent from the service of an employer by reason of a discharge which, within one year after the effective date thereof, was protested, to an appropriate labor representative or to the employer, as wrongful, and which was followed within ten years of the effective date thereof by his reinstatement in good faith to his former service with all his senority 1 rights.
-
-(2) Notwithstanding the provisions of subdivision (1) of this subsection, an individual shall not be deemed to have been in the employment relation to an employer on August 29, 1935, if before that date he was granted a pension or gratuity on the basis of which a pension was awarded to him pursuant to section 6 of the Railroad Retirement Act of 1937 [45 U.S.C. 228f], or if during the last payroll period before August 29, 1935, in which he rendered service to an employer he was not in the service of an employer, in accordance with subsection (d) of this section, with respect to any service in such payroll period, or if he could have been in the employment relation to an employer only by reason of his having been, either before or after August 29, 1935, in the service of a local lodge or division defined as an employer in subsection (a) of this section.
-
-(f)(1) The term “years of service” shall mean the number of years an individual as an employee shall have rendered service to one or more employers for compensation or received remuneration for time lost, and shall be computed in accordance with the provisions of section 231b(i) of this title.
-Twelve calendar months, consecutive or otherwise, in each of which an employee has rendered such service or received such wages for time lost, shall constitute a year of service.
-Ultimate fractions shall be taken at their actual value.
-
-(2) Where service prior to August 29, 1935, may be included in the computation of years of service as provided in subdivision (3) of section 231b(i) of this title, it may be included as to—
-
-(i) service rendered to a person which was an employer on August 29, 1935, irrespective of whether such person was an employer at the time such service was rendered;
-
-(ii) service rendered to any express company, sleeping-car company, or carrier by railroad which was a predecessor of a company which, on August 29, 1935, was an employer as defined in paragraph (i) of subsection (a)(1) of this section, irrespective of whether such predecessor was an employer at the time such service was rendered; and
-
-(iii) service rendered to a person not an employer in the performance of operations involving the use of standard railroad equipment if such operations were performed by an employer on August 29, 1935.
-
-(g)(1) For purposes of section 231b(i)(2) of this title, an individual shall be deemed to have been in “military service” when commissioned or enrolled in the active service of the land or naval forces of the United States and until resignation or discharge therefrom; and the service of any individual in any reserve component of the land or naval forces of the United States, while serving in the land or naval forces of the United States for any period, even though less than thirty days, shall be deemed to have been active service in such force during such period.
-
-(2) For purposes of section 231b(i)(2) of this title, a “war service period” shall mean (A) any war period, or (B) with respect to any particular individual, any period during which such individual (i) having been in military service at the end of a war period, was required to continue in military service, or (ii) was required by call of the President, or by any Act of Congress or regulation, order, or proclamation pursuant thereto, to enter and continue in military service, or (C) any period after September 7, 1939, with respect to which a state of national emergency was duly declared to exist which requires a strengthening of the national defense.
-For purposes of section 231b(i)(2) of this title, the period beginning on June 15, 1948, and ending on December 15, 1950, shall be deemed to be a war service period with respect to any individual who without intervening employment not covered by this subchapter rendered service as an employee to an employer under this subchapter in the year such individual was released from active military service or in the year immediately following such year.
-
-(3) For purposes of section 231b(i)(2) of this title, a “war period” shall be deemed to have begun on whichever of the following dates is the earliest: (A) the date on which the Congress of the United States declared war; or (B) the date as of which the Congress of the United States declared that a state of war has existed; or (C) the date on which war was declared by one or more foreign states against the United States; or (D) the date on which any part of the United States or any territory under its jurisdiction was invaded or attacked by any armed force of one or more foreign states; or (E) the date on which the United States engaged in armed hostilities for the purpose of preserving the Union or of maintaining in any State of the Union a republican form of government.
-
-(4) For purposes of section 231b(i)(2) of this title, a “war period” shall be deemed to have ended on the date on which hostilities ceased.
-
-(h)(1) The term “compensation” means any form of money remuneration paid to an individual for services rendered as an employee to one or more employers or as an employee representative, including remuneration paid for time lost as an employee, but remuneration paid for time lost shall be deemed earned in the month in which such time is lost.
-A payment made by an employer to an individual through the employer's payroll shall be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which the payment is made.
-Compensation earned in any calendar month before 1947 shall be deemed paid in such month regardless of whether or when payment will have been in fact made, and compensation earned in any calendar year after 1946 but paid after the end of such calendar year shall be deemed to be compensation paid in the calendar year in which it will have been earned if it is so reported by the employer before February 1 of the next succeeding calendar year or if the employee establishes, subject to the provisions of section 231h of this title, the period during which such compensation will have been earned.
-
-(2) An employee shall be deemed to be paid “for time lost” the amount he is paid by an employer with respect to an identifiable period of absence from the active service of the employer, including absence on account of personal injury, and the amount he is paid by the employer for loss of earnings resulting from his displacement to a less remunerative position or occupation.
-If a payment is made by an employer with respect to a personal injury and includes pay for time lost, the total payment shall be deemed to be paid for time lost unless, at the time of payment, a part of such payment is specifically apportioned to factors other than time lost, in which event only such part of the payment as is not so apportioned shall be deemed to be paid for time lost.
-
-(3) Solely for purposes of determining amounts to be included in the compensation of an employee, the term “compensation” shall also include cash tips received by an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is less than $20.
-
-(4) Tips included as compensation by reason of the provisions of subdivision (3) shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) of the Internal Revenue Code of 1986 [26 U.S.C. 6053(a)] or, if no statement including such tips is so furnished, at the time received.
-Tips so deemed to be paid in any month shall be deemed paid for services rendered in such month.
-
-(5) In determining compensation, there shall be attributable as compensation paid to an employee in calendar months in which he is in military service creditable under section 231b(i)(2) of this title, in addition to any other compensation paid to him with respect to such months—
-
-(i) for each such calendar month prior to 1968, $160;
-
-(ii) for each such calendar month after 1967 and prior to 1975, $260; and
-
-(iii) for each such calendar month after 1974, the amount which is creditable as such individual's “wages” under section 209(d) of the Social Security Act [42 U.S.C. 409(d)].
-
-(6) Notwithstanding the provisions of the preceding subdivisions of this subsection, the term “compensation” shall not include—
-
-(i) tips, except as is provided under subdivision (3) of this subsection;
-
-(ii) remuneration for service which is performed by a non-resident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 1101(a)(15) of title 8, as amended, and which is performed to carry out the purpose specified in subparagraph (F) or (J), as the case may be;
-
-(iii) remuneration earned in the service of a local lodge or division of a railway-labor-organization employer with respect to any calendar month in which the amount of such remuneration is less than $25;
-
-(iv) remuneration for service as a delegate to a national or international convention of a railway-labor-organization employer if the individual rendering such service has not previously rendered service, other than as such a delegate, which may be included in his “years of service;”
-
-(v) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of sickness or accident disability or medical or hospitalization expenses in connection with sickness or accident disability; and
-
-(vi) an amount paid specifically—either as an advance, as reimbursement or allowance—for traveling or other bona fide and necessary expenses incurred or reasonably expected to be incurred in the business of the employer provided any such payment is identified by the employer either by a separate payment or by specifically indicating the separate amounts where both wages and expense reimbursement or allowance are combined in a single payment.
-
-(7) The term “compensation” includes any separation allowance or subsistence allowance paid under any benefit schedule provided under section 701 of title VII of the Regional Rail Reorganization Act of 1973 [45 U.S.C. 797] 2 and any termination allowance paid under section 702 of that Act [45 U.S.C. 797a], but does not include any other benefits payable under that title [45 U.S.C. 797 et seq.]. The total amount of any subsistence allowance paid under a benefit schedule provided pursuant to section 701 of the Regional Rail Reorganization Act of 1973 shall be considered as having been earned in the month in which the employee first timely filed a claim for such an allowance.
-
-(8) Notwithstanding any other provision of this subchapter, for the purposes of sections 231b(a)(1), 231c(a)(1), and 231c(f)(1) of this title, the term “compensation” includes any payment from any source to an employee or employee representative if such payment is subject to tax under section 3201 or 3211 of the Internal Revenue Code of 1986 [26 U.S.C. 3201, 3211].
-
-(i) The term “Board” means the Railroad Retirement Board.
-
-(j) The term “company” includes corporations, associations, and joint-stock companies.
-
-(k) The term “employee” includes an officer of an employer.
-
-(l) The term “person” means an individual, a partnership, an association, a joint-stock company, a corporation, or the United States or any other governmental body.
-
-(m) The term “United States,” when used in a geographical sense, means the States and the District of Columbia.
-
-(n) The term “Social Security Act” means the Social Security Act as amended [42 U.S.C. 301 et seq.] from time to time.
-
-(o) An individual shall be deemed to have “a current connection with the railroad industry” at the time an annuity begins to accrue to him and at death if, in any thirty consecutive calendar months before the month in which an annuity under this subchapter begins to accrue to him, or the month in which he dies if that first occurs, he will have been in service as an employee in not less than twelve calendar months and, if such thirty calendar months do not immediately precede such month, he will not have been engaged in any regular employment other than employment for an employer or employment with the Department of Transportation, the Interstate Commerce Commission, the Surface Transportation Board, the National Mediation Board, the National Transportation Safety Board, the State-owned railroad (as defined in the Alaska Railroad Transfer Act of 1982 [45 U.S.C. 1201 et seq.]), so long as it is an instrumentality of the State of Alaska, or the Railroad Retirement Board in the period before such month and after the end of such thirty months.
-For purposes of section 231a(b) of this title and section 231a(d) of this title only, an individual shall be deemed also to have “a current connection with the railroad industry” if, after having completed twenty-five years of service, such individual involuntarily and without fault ceased rendering service as an employee under this subchapter and did not thereafter decline an offer of employment in the same class or craft as the individual's most recent employee service.
-For purposes of section 231a(d) of this title only, an individual shall be deemed to have a “current connection with the railroad industry” if a pension will have been payable to that individual under the Railroad Retirement Act of 1937 [45 U.S.C. 228a et seq.] or a retirement annuity based on service of not less than 10 years (as computed in awarding the annuity) will have begun to accrue to that individual prior to 1948 under the Railroad Retirement Act of 1937. For the purposes of section 231a(d) of this title only, an individual shall be deemed also to have a “current connection with the railroad industry” if he will have completed ten years of service and (A) he would be neither fully nor currently insured under the Social Security Act [42 U.S.C. 301 et seq.] if his service as an employee after December 31, 1936, were included in the term “employment” as defined in that Act, or (B) he has no quarters of coverage under the Social Security Act.
-
-(p) The term “annuity” means a monthly sum which is payable on the first day of each calendar month for the accrual during the preceding calendar month.
-
-(q) The terms “quarter” and “calendar quarter” shall mean a period of three calendar months ending on March 31, June 30, September 30, or December 31.
-
-(r) For purposes of this subchapter, a person shall be considered to be permanently insured under the Social Security Act [42 U.S.C. 301 et seq.] on December 31, 1974, if he or she would be fully insured within the meaning of section 214(a) of that Act [42 U.S.C. 414(a)] when he or she attains age 62 solely on the basis of his or her quarters of coverage under that Act acquired prior to January 1, 1975.
-
-(Aug. 29, 1935, ch. 812, §1, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305; amended Pub. L. 94–547, §4(a), Oct. 18, 1976, 90 Stat. 2526; Pub. L. 97–35, title XI, §1116, Aug. 13, 1981, 95 Stat. 628; Pub. L. 97–468, title VI, §615(b)(6), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–76, title IV, §§402(a), 403(a), 410(a), Aug. 12, 1983, 97 Stat. 434, 435; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VII, §7304(a), Nov. 10, 1988, 102 Stat. 3778; Pub. L. 101–239, title X, §10208(d)(2)(B)(ii), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–88, title III, §323, Dec. 29, 1995, 109 Stat. 950.)
-
-References in Text
-
-The Railway Labor Act, referred to in subsecs. (a)(1)(v) and (c), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of this title.
-For complete classification of this Act to the Code, see section 151 of this title and Tables.
-
-Section 6 of the Railroad Retirement Act of 1937, referred to in subsec. (e)(2), which was classified to section 228f of this title, has been omitted from the Code.
-
-The Regional Rail Reorganization Act of 1973, referred to in subsec. (h)(7), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended.
-Section 701 of title VII of the Regional Rail Reorganization Act of 1973 [45 U.S.C. 797] was repealed by Pub. L. 99–509, title IV, §4024(c), Oct. 21, 1986, 100 Stat. 1904, effective on the sale date (Apr. 2, 1987). Title VII of the Regional Rail Reorganization Act of 1973 is classified generally to subchapter VII (§797 et seq.) of chapter 16 of this title.
-For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
-
-The Social Security Act, referred to in subsecs. (n), (o), and (r), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare.
-For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
-
-The Alaska Railroad Transfer Act of 1982, referred to in subsec. (o), is Pub. L. 97–468, title VI, §601 et seq., Jan 14, 1983, 96 Stat. 2556, as amended, which is classified principally to chapter 21 (§1201 et seq.) of this title.
-For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
-
-The Railroad Retirement Act of 1937, referred to in subsec. (o), is act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, which is classified principally to subchapter III (§228a et seq.) of this chapter.
-The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to this subchapter.
-For complete classification of these Acts to the Code, see Tables.
-
 Effective Date
 
-Section 602(a)–(d) of Pub. L. 93–445 provided that:
+Pub. L. 93–445, title VI, §602(a)–(d), Oct. 16, 1974, 88 Stat. 1360, 1361, provided that:
 
 “(a) The provisions of title I of this Act [enacting this subchapter] shall become effective on January 1, 1975, except as otherwise provided herein: Provided, however, That annuities awarded under section 2 of the Railroad Retirement Act of 1974 [section 231a of this title] on the basis of an application therefor filed with the Board on or after such date may, subject to the limitations prescribed in section 5(a) of such Act [section 231d(a) of this title], begin prior to such date, except that no annuity under paragraph (ii) of section 2(a)(1) of such Act [subsec. (a)(1) of section 231a of this title] shall begin to accrue to a man prior to July 1, 1974.
 
@@ -2065,7 +1741,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 Transitional Provisions
 
-Sections 201 to 210 of title II of Pub. L. 93–445, effective Jan. 1, 1975, as amended by Pub. L. 94–92, title II, §202(a), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–547, §1, Oct. 18, 1976, 90 Stat. 2523, provided that:
+Pub. L. 93–445, title II, Oct. 16, 1974, 88 Stat. 1351, effective Jan. 1, 1975, as amended by Pub. L. 94–92, title II, §202(a), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–547, §1, Oct. 18, 1976, 90 Stat. 2523, provided that:
 
 “Sec. 201. The claims of individuals who, prior to the effective date of title I of this Act [see Effective Date note set out above], became eligible for annuities, supplemental annuities, or death benefits under section 2, 3(j), or 5 of the Railroad Retirement Act of 1937 [section 228b, 228c(j), or 228e of this title] shall be adjudicated by the Board under that Act [subchapter III of this chapter] in the same manner and with the same effect as if title I of this Act [enacting this subchapter] had not been enacted: Provided, however, That no annuity, supplemental annuity, or death benefit shall be awarded under the Railroad Retirement Act of 1937 [subchapter III of this chapter] on the basis of an application therefor filed with the Board on or after the effective date of title I of this Act: Provided, further, That no annuity under the Railroad Retirement Act of 1935 [subchapter II of this chapter], no annuity or supplemental annuity under the Railroad Retirement Act of 1937 [subchapter III of this chapter], and no pension under section 6 of the Railroad Retirement Act of 1937 [section 228f of this title] shall be payable for any month after December 31, 1974.
 
@@ -2093,12 +1769,12 @@ Sections 201 to 210 of title II of Pub. L. 93–445, effective Jan. 1, 1975, as 
 
 “(c) An individual who was awarded an annuity under section 2(a) of the Railroad Retirement Act of 1937 [section 228b(a) of this title] shall not be entitled to an annuity amount computed under the provisions of section 3(c) of the Railroad Retirement Act of 1974 [section 231b(c) of this title]: Provided, however, That the provisions of this subsection shall not be applicable (i) to an individual who will have rendered at least twelve months of service as an employee to an employer (as defined in the Railroad Retirement Act of 1974 [this section] after December 31, 1974, or (ii) to an individual who was awarded an annuity under section 2(a)4 or 2(a)5 of the Railroad Retirement Act of 1937 [section 228b(a)4 or 228b(a)5 of this title] and who recovered from disability and returned to the service of an employer (as defined in the Railroad Retirement Act of 1974) [this section] after December 31, 1974.
 
-[Section 202(b) of Pub. L. 94–92 provided that: “The amendment made by this section [enacting section 204(c) of Pub. L. 93–445] shall be effective January 1, 1975.”]
+[Pub. L. 94–92, title II, §202(b), Aug. 9, 1975, 89 Stat. 465, provided that: “The amendment made by this section [enacting section 204(c) of Pub. L. 93–445] shall be effective January 1, 1975.”]
 
 “(d) The annuity amount provided an individual by paragraph (1) of this subsection as increased from time to time shall be deemed to be the primary insurance amount of such individual for purposes of computing the annuity of the spouse of such individual under section 4(a) of the Railroad Retirement Act of 1974. [section 231c(a) of this title].”
 
 [Effective Date of 1976 Amendment.
-Section 1(d) of Pub. L. 94–547 provided that: “The amendments made by this section [enacting section 204(d) and amending sections 204(a)(1), (2) and 206(1) of Pub. L. 93–445] shall be effective January 1, 1975: Provided, however, That the increases in annuities effective June 1, 1975, and June 1, 1976, shall be in the amount which would have been provided if this Act [enacting section 204(d) of Pub. L. 93–445, amending sections 204(a)(1), (2) and 206(1) of Pub. L. 93–445 and this section and section 231c and 231n of this title and section 3231 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and sections 231c and 231n of this title and 3231 of Title 26] had not been enacted.”]
+Pub. L. 94–547, §1(d), Oct. 18, 1976, 90 Stat. 2524, provided that: “The amendments made by this section [enacting section 204(d) and amending sections 204(a)(1), (2) and 206(1) of Pub. L. 93–445] shall be effective January 1, 1975: Provided, however, That the increases in annuities effective June 1, 1975, and June 1, 1976, shall be in the amount which would have been provided if this Act [enacting section 204(d) of Pub. L. 93–445, amending sections 204(a)(1), (2) and 206(1) of Pub. L. 93–445 and this section and section 231c and 231n of this title and section 3231 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and sections 231c and 231n of this title and 3231 of Title 26] had not been enacted.”]
 
 “Sec. 205. (a) Every individual who was entitled to a supplemental annuity under section 3(j) of the Railroad Retirement Act of 1937 [section 228c(j) of this title] for the month of December 1974, or who would have been entitled to such a supplemental annuity for such month except for the provisions of section 2(d) of such Act [section 228b(d) of this title], and who would have been entitled to such a supplemental annuity for the month of January 1975, if this Act [enacting this subchapter] had not been enacted, shall be entitled to a supplemental annuity under section 2(b)(1) of the Railroad Retirement Act of 1974 [section 231a(b)(1) of this title], beginning January 1, 1975, in an amount, the provisions of section 3(e) of such Act [section 231b(e) of this title] notwithstanding, equal to the amount of the supplemental annuity to which such individual was entitled under section 3(j) of the Railroad Retirement Act of 1937 [section 228c(j) of this title] for the month of December 1974, or to which such individual would have been entitled for such month under such section 3(j) [section 228c(j) of this title] except for the provisions of section 2(d) of such Act [section 228b(d) of this title].
 
@@ -2304,6 +1980,10 @@ The Social Security Act, referred to in subsecs. (c)(4), (d)(1)(iv), (f)(1), (2)
 Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Paragraph (3) of section 202(e) of the Social Security Act [42 U.S.C. 402(e)(3)], referred to in subsec. (d)(1)(v), was repealed, and paragraph (4) of section 202(e) of that Act was redesignated as paragraph (3) of section 202(e) and was further amended, by Pub. L. 98–21, title I, §131(a)(1)–(3)(A), Apr. 20, 1983, 97 Stat. 92.
+
+Constitutionality
+
+For information regarding constitutionality of certain provisions of section 2 of act Aug. 29, 1935, as added by section 5 of act Oct. 30, 1951, ch. 632, 65 Stat. 684, and restated by section 101 of Pub. L. 93–445, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 Change of Name
 
@@ -2936,7 +2616,7 @@ Change of Name
 
 Effective Date
 
-Section 602(e) of Pub. L. 93–445 provided that: “The provisions of section 7(e) of the Railroad Retirement Act of 1974 [subsec. (e) of this section] shall be effective on the enactment date of this Act [Oct. 16, 1974] and shall apply with respect to all gifts and bequests covered thereunder, regardless of the date on which such gifts or bequests were made.”
+Pub. L. 93–445, title VI, §602(e), Oct. 16, 1974, 88 Stat. 1361, provided that: “The provisions of section 7(e) of the Railroad Retirement Act of 1974 [subsec. (e) of this section] shall be effective on the enactment date of this Act [Oct. 16, 1974] and shall apply with respect to all gifts and bequests covered thereunder, regardless of the date on which such gifts or bequests were made.”
 
 Repeals
 
@@ -3450,7 +3130,7 @@ The outstanding balance of such loans shall include any interest required to be 
 
 Reimbursement of Railroad Retirement Act Accounts; “Unnegotiated Benefit Checks” Defined
 
-Section 417(c) of Pub. L. 98–76 provided that:
+Pub. L. 98–76, title IV, §417(c), Aug. 12, 1983, 97 Stat. 437, provided that:
 
 “(1) The Secretary of the Treasury shall transfer from the general fund of the Treasury to each Account established in the Treasury for the payment of benefits under the Railroad Retirement Act of 1974 [this subchapter] in the month following the month in which this section is enacted [Aug. 1983] and in each of the next succeeding months until May, 1985, such sums as may be necessary to reimburse such Accounts in the proportionate amount of all checks (including interest thereon) attributable to such Accounts which the Secretary and the Board jointly determine to be unnegotiated benefit checks, to the extent provided in advance in appropriation Acts.
 After any amounts authorized by this subsection have been transferred to an Account or Accounts with respect to any benefit check, the provisions of paragraphs (3) and (4) of section 15(i) of the Railroad Retirement Act of 1974 (as added by subsection (a) of this section) [subsec. (i)(3), (4) of this section] shall be applicable to such check.
@@ -3520,11 +3200,11 @@ Section 121(e) of the Social Security Amendments of 1983, referred to in subsec.
 
 Effective Date
 
-Section 501(b)(1) of Pub. L. 98–76 provided that: “The amendment made by this section [enacting this section] shall take effect on October 1, 1984.”
+Pub. L. 98–76, title V, §501(b)(1), Aug. 12, 1983, 97 Stat. 440, provided that: “The amendment made by this section [enacting this section] shall take effect on October 1, 1984.”
 
 Treatment of Tier 1 Portion of Tax Imposed With Respect to Compensation Paid Before 1985
 
-Section 501(b)(2) of Pub. L. 98–76, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–76, title V, §501(b)(2), Aug. 12, 1983, 97 Stat. 440, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) The tier 1 portion of the tax imposed by section 3201, 3211, or 3221 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] [26 U.S.C. 3201, 3211, 3221], as the case may be, with respect to compensation paid before 1985 shall be treated as described in subparagraph (A) of section 15A(b)(1) of the Railroad Retirement Act of 1974 [subsec. (b)(1)(A) of this section].
 
@@ -3665,315 +3345,6 @@ References in Text
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare.
 For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Effective Date
-
-Section effective Oct. 1, 1981, see section 1129(g) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 231 of this title.
-
-1 So in original.
-Probably should be “benefits”.
-
-§231v. Computation and certification of account benefit ratios
-
-(a) Initial computation and certification
-
-On or before November 1, 2003, the Railroad Retirement Board shall—
-
-(1) compute the account benefits ratios for each of the most recent 10 preceding fiscal years, and
-
-(2) certify the account benefits ratios for each such fiscal year to the Secretary of the Treasury.
-
-(b) Computations and certifications after 2003
-
-On or before November 1 of each year after 2003, the Railroad Retirement Board shall—
-
-(1) compute the account benefits ratio for the fiscal year ending in such year, and
-
-(2) certify the account benefits ratio for such fiscal year to the Secretary of the Treasury.
-
-(c) Definition
-
-As used in this section, the term “account benefits ratio” has the meaning given that term in section 3241(c) of the Internal Revenue Code of 1986 [26 U.S.C. 3241(c)].
-
-(Aug. 29, 1935, ch. 812, §23, as added Pub. L. 107–90, title I, §108(b), Dec. 21, 2001, 115 Stat. 890.)
-
-Prior Provisions
-
-A prior section 231v, act Aug. 29, 1935, ch. 812, §23, as added Aug. 12, 1983, Pub. L. 98–76, title IV, §418, 97 Stat. 438, provided that for purposes of Inspector General Act of 1978, the Railroad Retirement Board is an “establishment” and the Chairman of such Board the “head of the establishment”, prior to repeal by Pub. L. 100–504, title I, §§102(e)(3), 113, Oct. 18, 1988, 102 Stat. 2517, 2530, effective 180 days after Oct. 18, 1988.
-
-CHAPTER 10—TAX ON CARRIERS AND EMPLOYEES
-
-§§241 to 253. Repealed.
-June 29, 1937, ch. 405, §11, 50 Stat. 440
-
-Section 241, act Aug. 29, 1935, ch. 813, §1, 49 Stat. 974, defined terms for purposes of this subchapter.
-
-Section 242, act Aug. 29, 1935, ch. 813, §2, 49 Stat. 975, related to income tax on employees.
-
-Section 243, act Aug. 29, 1935, ch. 813, §3, 49 Stat. 975, related to deduction of tax from wages.
-
-Section 244, act Aug. 29, 1935, ch. 813, §4, 49 Stat. 975, related to excise tax on carriers.
-
-Section 245, act Aug. 29, 1935, ch. 813, §5, 49 Stat. 975, related to adjustment of tax.
-
-Section 246, act Aug. 29, 1935, ch. 813, §6, 49 Stat. 975, related to refunds and deficiencies.
-
-Section 247, act Aug. 29, 1935, ch. 813, §7, 49 Stat. 975, related to income tax on employees’ representatives.
-
-Section 248, act Aug. 29, 1935, ch. 813, §8, 49 Stat. 976, related to collection and payment of taxes.
-
-Section 249, act Aug. 29, 1935, ch. 813, §9, 49 Stat. 976, related to court jurisdiction.
-
-Section 250, act Aug. 29, 1935, ch. 813, §10, 49 Stat. 976, related to penalties under this subchapter.
-
-Section 251, act Aug. 29, 1935, ch. 813, §11, 49 Stat. 976, related to meaning of “employment”.
-
-Section 252, acts Aug. 29, 1935, ch. 813, §12, 49 Stat. 976; Feb. 27, 1937, ch. 19, 50 Stat. 23, related to termination of taxes.
-
-Section 253, act Aug. 29, 1935, ch. 813, §13, 49 Stat. 977, related to separability of provisions.
-
-§§261 to 273. Omitted
-
-Codification
-
-Sections 261 to 273 were omitted pursuant to section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1, which provided that all laws or parts of laws codified into the Internal Revenue Code of 1939, enacted by act Feb. 10, 1939, to the extent they related exclusively to internal revenue laws, were repealed.
-The Internal Revenue Code of 1939 was generally repealed by section 7851 of act Aug. 16, 1954, ch. 736, 68A Stat. 919 (section 7851 of Title 26, Internal Revenue Code), which act enacted the Internal Revenue Code of 1954 [now 1986]. See section 7807 of Title 26, relating to applicability of rules in effect upon the enactment of the Internal Revenue Code of 1986.
-
-Section 261, acts June 29, 1937, ch. 405, §1, 50 Stat. 435; Aug. 13, 1940, ch. 664, §§1, 3, 54 Stat. 785, 786, defined terms for purposes of this subchapter.
-
-Section 262, act June 29, 1937, ch. 405, §2, 50 Stat. 437, related to income tax on employees.
-
-Section 263, act June 29, 1937, ch. 405, §3, 50 Stat. 437, related to excise tax on employers.
-
-Section 264, act June 29, 1937, ch. 405, §4, 50 Stat. 438, related to refunds and deficiencies.
-
-Section 265, act June 29, 1937, ch. 405, §5, 50 Stat. 438, related to income tax on employee representatives.
-
-Section 266, act June 29, 1937, ch. 405, §6, 50 Stat. 439, related to deductibility from regular income tax.
-
-Section 267, act June 29, 1937, ch. 405, §7, 50 Stat. 439, related to collection and payment of taxes.
-
-Section 268, act June 29, 1937, ch. 405, §8, 50 Stat. 439, related to court jurisdiction.
-
-Section 269, act June 29, 1937, ch. 405, §9, 50 Stat. 439, related to Social Security Act.
-
-Section 270, act June 29, 1937, ch. 405, §10, 50 Stat. 440, related to separability of provisions.
-
-Section 271, act June 29, 1937, ch. 405, §11, 50 Stat. 440, related to repeals.
-
-Section 272, act June 29, 1937, ch. 405, §12, 50 Stat. 440, related to rules and regulations.
-
-Section 273, act June 29, 1937, ch. 405, §13, 50 Stat. 440, related to short title of this subchapter.
-
-For provisions formerly set out in this subchapter which were covered by sections of the Internal Revenue Code of 1939, see the sections of the Internal Revenue Code of 1986, Title 26, Internal Revenue Code, indicated in the following table:
-
- 	Omitted sections	I.R.C. 1939	I.R.C. 1986
-	261 (as amended Aug. 13, 1940, ch. 664, §§1, 3, 54 Stat. 785, 786)	1532	3231, 7701.
-	262	1500, 1501	3201, 3202, 6205(a)(1), 6413(a)(1).
-	263	1520, 1521	3221, 6205(a)(1), 6413(a)(1).
-	264	1502, 1522	6205(b), 6413(b).
-	265	1510, 1511	3211, 3212.
-	266	1503, 1508, 1512	3502.
-	267	1422, 1530, 1531, 1536	3501, 3503, 6011(a), 6071, 6081(a), 6091(a), 6151(a), 6313, 6601(a), (f)(1).
-	268	1534	3232.
-	269	1426(b)(9), (10), 1428	3121(b)(9), (10), 3124.
-	270	3802	7511.
-	271		
-	272	1535	7805(a), (c).
-	273		
-
-Compensation From Local Division of Railway-Labor-Organization Employer Tax—Unpaid Before July 1, 1940
-
-Act Oct. 10, 1940, ch. 842, §27(b), 54 Stat. 1101, provided that, for the purpose of determining the amount of taxes under sections 262(a) and 263(a) of this title, compensation earned in the service of a local lodge or division of a railway-labor-organization employer shall be disregarded with respect to any calendar month if the amount thereof is less than $3 and the taxes thereon under such sections are not paid before July 1, 1940.
-
-CHAPTER 11—RAILROAD UNEMPLOYMENT INSURANCE
-
-Sec.
-
-351.
-Definitions.
-
-352.
-Benefits.
-
-353.
-Qualifying condition.
-
-354.
-Disqualifying conditions.
-
-355.
-Claims for benefits.
-
-355a.
-Acceptance of claims for benefits.
-
-356.
-Returns of compensation; conclusiveness; failure to make.
-
-357.
-Free transportation.
-
-358.
-Contributions.
-
-359.
-Penalties.
-
-360.
-Railroad unemployment insurance account.
-
-361.
-Railroad unemployment insurance administration fund.
-
-362.
-Duties and powers of Board.
-
-363.
-Exclusiveness of provisions; transfers from State unemployment compensation accounts to railroad unemployment insurance account.
-
-363a.
-Refunds of State unemployment contributions by employees; amount; application period; definitions.
-
-364.
-District of Columbia account, transfer of funds to railroad unemployment insurance account.
-
-365.
-Omitted.
-
-366.
-Separability.
-
-366a.
-Effect of Internal Revenue Code.
-
-367.
-Short title.
-
-368.
-Repealed.
-
-369.
-Annual report.
-
-        
-
-§351. Definitions
-
-For the purposes of this chapter, except when used in amending the provisions of other Acts—
-
-(a) The term “employer” means any carrier (as defined in subsection (b) of this section), and any company which is directly or indirectly owned or controlled by one or more such carriers or under common control therewith, and which operates any equipment or facility or performs any service (except trucking service, casual service, and the casual operation of equipment or facilities) in connection with the transportation of passengers or property by railroad, or the receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, or handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the property or operating all or any part of the business of any such employer: Provided, however, That the term “employer” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power.
-The Surface Transportation Board is hereby authorized and directed upon request of the Railroad Retirement Board, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this proviso.
-The term “employer” shall also include railroad associations, traffic associations, tariff bureaus, demurrage bureaus, weighing and inspection bureaus, collection agencies, and other associations, bureaus, agencies, or organizations controlled and maintained wholly or principally by two or more employers as hereinbefore defined and engaged in the performance of services in connection with or incidental to railroad transportation; and railway labor organizations, national in scope, which have been or may be organized in accordance with the provisions of the Railway Labor Act [45 U.S.C. 151 et seq.], and their State and National legislative committees and their general committees and their insurance departments and their local lodges and divisions, established pursuant to the constitution and bylaws of such organizations.
-The term “employer” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
-
-(b) The term “carrier” means a railroad subject to the jurisdiction of the Surface Transportation Board under part A of subtitle IV of title 49.
-
-(c) The term “company” includes corporations, associations, and joint-stock companies.
-
-(d) The term “employee” (except when used in phrases establishing a different meaning) means any individual who is or has been (i) in the service of one or more employers for compensation, or (ii) an employee representative.
-The term “employee” shall include an employee of a local lodge or division defined as an employer in subsection (a) of this section only if he was in the service of a carrier on or after August 29, 1935. The term “employee” includes an officer of an employer.
-
-The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
-
-(e) An individual is in the service of an employer whether his service is rendered within or without the United States if (i) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or he is rendering professional or technical services and is integrated into the staff of the employer, or he is rendering, on the property used in the employer's operations, other personal services the rendition of which is integrated into the employer's operations, and (ii) he renders such service for compensation: Provided, however, That an individual shall be deemed to be in the service of an employer, other than a local lodge or division or a general committee of a railway-labor-organization employer, not conducting the principal part of its business in the United States only when he is rendering service to it in the United States; and an individual shall be deemed to be in the service of such a local lodge or division only if (1) all, or substantially all, the individuals constituting its membership are employees of an employer conducting the principal part of its business in the United States; or (2) the headquarters of such local lodge or division is located in the United States; and an individual shall be deemed to be in the service of such a general committee only if (1) he is representing a local lodge or division described in clauses (1) or (2) immediately above; or (2) all, or substantially all, the individuals represented by it are employees of an employer conducting the principal part of its business in the United States; or (3) he acts in the capacity of a general chairman or an assistant general chairman of a general committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States, only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under its jurisdiction, unless such mileage formula is inapplicable, in which case the Board may prescribe such other formula as it finds to be equitable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 per centum of his remuneration for such service no part of such remuneration shall be regarded as compensation: Provided further, That an individual not a citizen or resident of the United States shall not be deemed to be in the service of an employer when rendering service outside the United States to an employer who is required under the laws applicable in the place where the service is rendered to employ therein, in whole or in part, citizens or residents thereof.
-
-(f) The term “employee representative” means any officer or official representative of a railway labor organization other than a labor organization included in the term employer as defined in subsection (a) of this section who before or after August 29, 1935, was in the service of an employer as defined in said subsection and who is duly authorized and designated to represent employees in accordance with the Railway Labor Act [45 U.S.C. 151 et seq.], and any individual who is regularly assigned to or regularly employed by such officer or official representative in connection with the duties of his office.
-
-(g) The term “employment” means service performed as an employee.
-For the purposes of determining eligibility for and the amount of benefits and the amount of contributions due pursuant to this chapter, employment after June 30, 1940, in the service of a local lodge or division of a railway-labor-organization employer or as an employee representative shall be disregarded.
-For purposes of determining eligibility for and the amount of benefits and the amount of contributions due pursuant to this chapter, employment as a delegate to a national or international convention of a railway labor organization defined as an “employer”, in subsection (a) of this section, shall be disregarded if the individual having such employment has not previously rendered service, other than as such a delegate, which may be included in his “years of service” for purposes of the Railroad Retirement Act [45 U.S.C. 231 et seq.].
-
-(h) The term “registration period” means, with respect to any employee, the period which begins with the first day for which such employee registers at an employment office in accordance with such regulations as the Board may prescribe, and ends with whichever is the earlier of (i) the thirteenth day thereafter, or (ii) the day immediately preceding the day for which he next registers at a different employment office; and thereafter each period which begins with the first day for which he next registers at an employment office after the end of his last preceding registration period which began with a day for which he registered at an employment office and ends with whichever is the earlier of (i) the thirteenth day thereafter, or (ii) the day immediately preceding the day for which he next registers at a different employment office.
-
-The term “registration period” means also, with respect to any employee, the period which begins with the first day with respect to which a statement of sickness for a “period of continuing sickness” (as defined in section 352(a) of this title) is filed in his behalf in accordance with such regulations as the Board may prescribe, or the first such day after the end of a registration period which will have begun with a day with respect to which a statement of sickness for a “period of continuing sickness” (as defined in section 352(a) of this title) was filed in his behalf, and ends with whichever is the earlier of (i) the thirteenth day thereafter, or (ii) the day immediately preceding the day with respect to which a statement of sickness for a new “period of continuing sickness” (as defined in section 352(a) of this title) is filed in his behalf.
-
-(i)(1) In General.—The term “compensation” means any form of money remuneration, including pay for time lost but excluding tips, paid for services rendered as an employee to one or more employers, or as an employee representative, except that in computing the compensation paid to any employee, no part of any month's compensation in excess of the monthly compensation base (as defined in subdivision (2)) for any month shall be recognized.
-Solely for the purpose of determining the compensation received by an employee in a base year, the term “compensation” shall include any separation allowance or subsistence allowance paid under any benefit schedule provided under section 701 1 of title VII of the Regional Rail Reorganization Act of 1973 [45 U.S.C. 797] and any termination allowance paid under section 702 of that Act [45 U.S.C. 797a], but does not include any other benefits payable under that title [45 U.S.C. 797 et seq.]. The total amount of any subsistence allowance payable under a benefit schedule provided pursuant to section 701 1 of the Regional Rail Reorganization Act of 1973 shall be considered as being compensation in the month in which the employee first timely filed a claim for such an allowance.
-Such term does not include remuneration for service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 1101(a)(15) of title 8 and which is performed to carry out the purpose specified in subparagraph (F) or (J) as the case may be.
-A payment made by an employer to an individual through the employer's pay roll shall be presumed, in the absence of evidence to the contrary, to be compensation for service rendered by such individual as an employee of the employer in the period with respect to which the payment is made.
-An employee shall be deemed to be paid, “for time lost” the amount he is paid by an employer with respect to an identifiable period of absence from the active service of the employer, including absence on account of personal injury, and the amount he is paid by the employer for loss of earnings resulting from his displacement to a less remunerative position or occupation.
-If a payment is made by an employer with respect to a personal injury and includes pay for time lost, the total payment shall be deemed to be paid for time lost unless, at the time of payment, a part of such payment is specifically apportioned to factors other than time lost, in which event only such part of the payment as is not so apportioned shall be deemed to be paid for time lost.
-Compensation earned in any calendar month before 1947 shall be deemed paid in such month regardless of whether or when payment will have been in fact made, and compensation earned in any calendar year after 1946 but paid after the end of such calendar year shall be deemed to be compensation paid in the calendar year in which it will have been earned if it is so reported by the employer before February 1 of the next succeeding calendar year or, if the employee establishes, subject to the provisions of section 356 of this title, the period during which such compensation will have been earned.
-
-(2) Monthly Compensation Base.—
-
-(A) In general.—For purposes of subdivision (1), the term “monthly compensation base” means the amount—
-
-(i) of $400 for calendar months before January 1, 1984;
-
-(ii) of $600 for calendar months after December 31, 1983 and before January 1, 1989; and
-
-(iii) computed under subparagraph (B) for months after December 31, 1988.
-
-(B) Computation.—
-
-(i) In general.—The amount of the monthly compensation base for each calendar year beginning after December 31, 1988, is the greater of—
-
-(I) $600; or
-
-(II) the amount, as rounded under clause (iii) if applicable, computed under the formula:
-
- 	 	 	 	 	 	 	 
-	 	 	 	 	A−37,800		
-	 	B=600	(	1+	—————	)	
-	 	 	 	 	56,700		
-
-(ii) Meaning of symbols.—For the purposes of the formula in clause (i)—
-
-(I) “B” is the dollar amount of the monthly compensation base; and
-
-(II) “A” is the amount of the applicable base with respect to tier 1 taxes, for the calendar year for which the monthly compensation base is being computed, as determined under section 3231(e)(2) of title 26.
-
-(iii) Rounding rule.—If the monthly compensation base computed under this formula is not a multiple of $5, it shall be rounded to the nearest multiple of $5, with such rounding being upward in the event the amount computed is equidistant between two multiples of $5.
-
-(j) The term “remuneration” means pay for services for hire, including pay for time lost, and tips, but pay for time lost shall be deemed earned on the day on which such time is lost.
-The term “remuneration” includes also earned income other than for services for hire if the accrual thereof in whole or in part is ascertainable with respect to a particular day or particular days.
-The term “remuneration” does not include any money payments received pursuant to any nongovernmental plan for unemployment insurance, maternity insurance, or sickness insurance.
-
-(k) Subject to the provisions of section 354 of this title (1) a day of unemployment, with respect to any employee, means a calendar day on which he is able to work and is available for work and with respect to which (i) no remuneration is payable or accrues to him, and (ii) he has, in accordance with such regulations as the Board may prescribe, registered at an employment office; and (2) a “day of sickness”, with respect to any employee, means a calendar day on which because of any physical, mental, psychological, or nervous injury, illness, sickness, or disease he is not able to work, or, with respect to a female employee, a calendar day on which, because of pregnancy, miscarriage, or the birth of a child, (i) she is unable to work or (ii) working would be injurious to her health, and with respect to which (i) no remuneration is payable or accrues to him, and (ii) in accordance with such regulations as the Board may prescribe, a statement of sickness is filed within such reasonable period, not in excess of ten days, as the Board may prescribe: Provided, however, That “subsidiary remuneration”, as hereinafter defined in this subsection, shall not be considered remuneration for the purpose of this subsection except with respect to an employee whose base-year compensation, exclusive of earnings from the position or occupation in which he earned such subsidiary remuneration, is less than an amount that is equal to 2.5 times the monthly compensation base for months in such base year as computed under subsection (i) of this section: Provided further, That remuneration for a working day which includes a part of each of two consecutive calendar days shall be deemed to have been earned on the first of such two days, and any individual who takes work for such working day shall not by reason thereof be deemed not available for work on the second of such calendar days: Provided further, That any calendar day on which no remuneration is payable to or accrues to an employee solely because of the application to him of mileage or work restrictions agreed upon in schedule agreements between employers and employees or solely because he is standing by for or laying over between regularly assigned trips or tours of duty shall not be considered either a day of unemployment or a day of sickness.
-
-For the purpose of this subsection, the term “subsidiary remuneration” means, with respect to any employee, remuneration not in excess of an average of $15 a day for the period with respect to which such remuneration is payable or accrues, if the work from which the remuneration is derived (i) requires substantially less than full time as determined by generally prevailing standards, and (ii) is susceptible of performance at such times and under such circumstances as not to be inconsistent with the holding of normal full-time employment in another occupation.
-
-(l)(1) The term “benefits” (except in phrases clearly designating other payments) means the money payments payable to an employee as provided in this chapter, with respect to his unemployment or sickness.
-
-(2) The term “statement of sickness” means a statement with respect to days of sickness of an employee, executed in such manner and form by an individual duly authorized pursuant to section 362(i) of this title to execute such statements, and filed as the Board may prescribe by regulations.
-
-(m) The term “benefit year” means the twelve-month period beginning July 1 of any year and ending June 30 of the next year, except that a registration period beginning in June and ending in July shall be deemed to be in the benefit year ending in such month of June.
-
-(n) The term “base year” means the completed calendar year immediately preceding the beginning of the benefit year.
-
-(o) The term “employment office” means a free employment office operated by the Board, or designated as such by the Board pursuant to section 362(i) of this title.
-
-(p) The term “account” means the railroad unemployment insurance account established pursuant to section 360 of this title in the unemployment trust fund.
-
-(q) The term “fund” means the railroad unemployment insurance administration fund, established pursuant to section 361 of this title in the unemployment trust fund.
-
-(r) The term “Board” means the Railroad Retirement Board.
-
-(s) The term “United States”, when used in a geographical sense, means the States and the District of Columbia.
-
-(t) The term “State” means any of the States or the District of Columbia.
-
-(u) Any reference in this chapter to any other Act of Congress, including such reference in amendments to other Acts, includes a reference to such other Act as amended from time to time.
-
-(June 25, 1938, ch. 680, §1, 52 Stat. 1094; June 20, 1939, ch. 227, §§1–6, 20, 53 Stat. 845, 848; Aug. 13, 1940, ch. 664, §§1, 3, 54 Stat. 785, 786; Oct. 10, 1940, ch. 842, §§2–8, 54 Stat. 1094, 1095; Apr. 8, 1942, ch. 227, §15, 56 Stat. 210; July 31, 1946, ch. 709, §§1, 2, 301–304, 60 Stat. 722, 735, 736; Oct. 30, 1951, ch. 632, §26, 65 Stat. 691; Aug. 31, 1954, ch. 1164, pt. III, §§301–303, 68 Stat. 1041; Pub. L. 85–927, pt. II, §201, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §301, May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §201, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §201, Feb. 15, 1968, 82 Stat. 23; Pub. L. 90–624, §3, Oct. 22, 1968, 82 Stat. 1316; Pub. L. 94–92, title I, §1(a), (b), Aug. 9, 1975, 89 Stat. 461; Pub. L. 98–76, title IV, §§402(b), 403(b), 411(a)(1), title V, §503(b), Aug. 12, 1983, 97 Stat. 434, 436, 441; Pub. L. 100–647, title VII, §§7101(a), (b), 7203(a), Nov. 10, 1988, 102 Stat. 3757, 3758, 3776; Pub. L. 104–88, title III, §324(1), (2), Dec. 29, 1995, 109 Stat. 950.)
-
-References in Text
-
-This chapter, referred to in introductory provisions and subsecs. (g), (l)(1), and (u), was in the original “this Act”, meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare.
-For complete classification of this Act to the Code, see section 367 of this title and Tables.
-
-The Railway Labor Act, referred to in subsecs. (a) and (f), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of this title.
-For complete classification of this Act to the Code, see section 151 of this title and Tables.
-
-The Railroad Retirement Act, referred to in subsec. (g), probably means the Railroad Retirement Act of 1937, act Aug. 29, 1935, ch. 812, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, which was classified principally to subchapter III (§228a et seq.) of chapter 9 of this title.
-The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to subchapter IV (§231 et seq.) of chapter 9 of this title.
-For complete classification of these Acts to the Code, see Tables.
-
-The Regional Rail Reorganization Act of 1973, referred to in subsec. (i)(1), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended.
-Section 701 of title VII of the Regional Rail Reorganization Act of 1973 [45 U.S.C. 797] was repealed by Pub. L. 99–509, title IV, §4024(c), Oct. 21, 1986, 100 Stat. 1904, effective on the sale date (Apr. 2, 1987). Title VII of the Regional Rail Reorganization Act of 1973 is classified generally to subchapter VII (§797 et seq.) of chapter 16 of this title.
-For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
-
 Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 
 For purposes of this chapter, the term “compensation” shall not include the amount of any refund required under section 421 of Pub. L. 100–360 [42 U.S.C. 1395b note], see section 10202 of Pub. L. 101–239, set out as a note under section 1395b of Title 42, The Public Health and Welfare.
@@ -4080,7 +3451,7 @@ Subject to clause (iii), in the case of an employee who has less than 10 years o
 
 (iii) Application
 
-The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on August 31, 2011, except that no extended benefit period under this paragraph shall begin after February 29, 2012. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
+The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on June 30, 2013, except that no extended benefit period under this paragraph shall begin after December 31, 2013. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
 
 (iv) Appropriation
 
@@ -4130,12 +3501,20 @@ Benefits accrued to an individual but not yet paid at death shall, upon certific
 In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities.
 If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
 
-(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283.)
+(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283; Pub. L. 112–96, title II, §2124(a), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, §504(a), Jan. 2, 2013, 126 Stat. 2344.)
 
 References in Text
 
 This chapter, referred to in subsecs. (c)(2)(D)(iii) and (d), was in the original “this Act”, meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare.
 For complete classification of this Act to the Code, see section 367 of this title and Tables.
+
+Extended Unemployment Benefits and Administrative Expenses
+
+Pub. L. 112–240, title V, §504(b), (c), Jan. 2, 2013, 126 Stat. 2345, provided that:
+
+“(b) Clarification on Authority to Use Funds.—Funds appropriated under either the first or second sentence of clause (iv) of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act [45 U.S.C. 352(c)(2)(D)] shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) [amending this section] as well as to cover the cost of such benefits provided under such section 2(c)(2)(D), as in effect on the day before the date of enactment of this Act [Jan. 2, 2013].
+
+“(c) Funding for Administration.—Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Railroad Retirement Board $250,000 for administrative expenses associated with the payment of additional extended unemployment benefits provided under section 2(c)(2)(D) of the Railroad Unemployment Insurance Act by reason of the amendments made by subsection (a), to remain available until expended.”
 
 Extended Railroad Unemployment Insurance Benefits During Periods of High National Unemployment
 
@@ -4181,13 +3560,13 @@ Pub. L. 102–164, title V, §501, Nov. 15, 1991, 105 Stat. 1064, as amended by 
 
 “(e) Termination of Benefits.—In the case of an individual who is receiving extended benefits by reason of this section on February 5, 1994, such benefits shall not continue to be payable to such individual after April 30, 1994.”
 
-[Section 3(c) of Pub. L. 103–6 provided that: “The amendments made by this section [amending section 501 of Pub. L. 102–164, set out above] shall apply to weeks beginning after March 6, 1993.”]
+[Pub. L. 103–6, §3(c), Mar. 4, 1993, 107 Stat. 33, provided that: “The amendments made by this section [amending section 501 of Pub. L. 102–164, set out above] shall apply to weeks beginning after March 6, 1993.”]
 
 [Amendments made by Pub. L. 102–182 to section 501 of Pub. L. 102–164, set out above, applicable as if included in the provisions of and the amendments made by Pub. L. 102–164, see section 3(b) of Pub. L. 102–182, set out as a note under section 3304 of Title 26, Internal Revenue Code.]
 
 GAO Study of Fraud and Payment Errors
 
-Section 7107 of Pub. L. 100–647 provided that: “The Comptroller General shall study the frequency of fraud and payment errors in the railroad unemployment compensation program.
+Pub. L. 100–647, title VII, §7107, Nov. 10, 1988, 102 Stat. 3774, provided that: “The Comptroller General shall study the frequency of fraud and payment errors in the railroad unemployment compensation program.
 Not later than 1 year after the date of the enactment of this Act [Nov. 10, 1988], the Comptroller General shall report to Congress the results of such study.
 Such report shall include—
 
@@ -4201,11 +3580,11 @@ Such report shall include—
 
 Benefits for Certain Employees Who Exhausted Rights to Benefits Before April 1, 1959
 
-Section 303(b) of Pub. L. 86–28 provided that: “An employee who has less than ten years of service as defined in section 1(f) of the Railroad Retirement Act of 1937 [section 228a(f) of this title], and who has after June 30, 1957, and before April 1, 1959, exhausted (within the meaning prescribed by the Railroad Retirement Board by regulation) his rights to unemployment benefits, shall be paid unemployment benefits for days of unemployment, not exceeding sixty-five, which occur in registration periods beginning on or after June 19, 1958, and before July 1, 1959, and which would not be days with respect to which he would be held entitled otherwise to receive unemployment benefits under the Railroad Unemployment Insurance Act [this chapter], except that an employee who has filed, and established, a first claim for benefits under the Temporary Unemployment Compensation Act of 1958 [42 U.S.C. 1400 et seq.] may not thereafter establish a claim under this subsection, and an employee who has registered for, and established a claim for benefits under this subsection may not thereafter establish a claim under the Temporary Unemployment Compensation Act of 1958. Except to the extent inconsistent with this subsection, the provisions of the Railroad Unemployment Insurance Act [this chapter] shall be applicable in the administration of this subsection.”
+Pub. L. 86–28, pt. III, §303(b), May 19, 1959, 73 Stat. 31, provided that: “An employee who has less than ten years of service as defined in section 1(f) of the Railroad Retirement Act of 1937 [section 228a(f) of this title], and who has after June 30, 1957, and before April 1, 1959, exhausted (within the meaning prescribed by the Railroad Retirement Board by regulation) his rights to unemployment benefits, shall be paid unemployment benefits for days of unemployment, not exceeding sixty-five, which occur in registration periods beginning on or after June 19, 1958, and before July 1, 1959, and which would not be days with respect to which he would be held entitled otherwise to receive unemployment benefits under the Railroad Unemployment Insurance Act [this chapter], except that an employee who has filed, and established, a first claim for benefits under the Temporary Unemployment Compensation Act of 1958 [42 U.S.C. 1400 et seq.] may not thereafter establish a claim under this subsection, and an employee who has registered for, and established a claim for benefits under this subsection may not thereafter establish a claim under the Temporary Unemployment Compensation Act of 1958. Except to the extent inconsistent with this subsection, the provisions of the Railroad Unemployment Insurance Act [this chapter] shall be applicable in the administration of this subsection.”
 
 Interchange of Information Between Secretary of Labor and Railroad Retirement Board
 
-Section 303(c) of Pub. L. 86–28 provided that: “The Secretary of Labor, upon request shall furnish the Board information deemed necessary by the Board for the administration of the provisions of subsection (b) hereof [set out above], and the Board, upon request, shall furnish the Secretary of Labor information deemed necessary by the Secretary for the administration of the Temporary Unemployment Compensation Act of 1958 [section 1400 et seq. of Title 42, The Public Health and Welfare].”
+Pub. L. 86–28, pt. III, §303(c), May 19, 1959, 73 Stat. 31, provided that: “The Secretary of Labor, upon request shall furnish the Board information deemed necessary by the Board for the administration of the provisions of subsection (b) hereof [set out above], and the Board, upon request, shall furnish the Secretary of Labor information deemed necessary by the Secretary for the administration of the Temporary Unemployment Compensation Act of 1958 [section 1400 et seq. of Title 42, The Public Health and Welfare].”
 
 §353. Qualifying condition
 
@@ -4918,7 +4297,7 @@ The Railroad Retirement Tax Act, referred to in subsec. (k), is act Aug. 16, 195
 
 Adjustment or Refund of Excessive Contributions
 
-Section 5(b) of act June 23, 1948, provided that: “Contributions paid under subsection (a) of section 8 of the Railroad Unemployment Insurance Act, as amended [subsec. (a) of this section], prior to the enactment of the foregoing amendment thereof [June 23, 1948] which are in excess of those required by said subsection as so amended shall be subject to adjustment or refund in accordance with the provisions of subsections (d) and (e) of said section 8 [subsecs. (d) and (e) of this section].”
+Act June 23, 1948, ch. 608, §5(b), 62 Stat. 578, provided that: “Contributions paid under subsection (a) of section 8 of the Railroad Unemployment Insurance Act, as amended [subsec. (a) of this section], prior to the enactment of the foregoing amendment thereof [June 23, 1948] which are in excess of those required by said subsection as so amended shall be subject to adjustment or refund in accordance with the provisions of subsections (d) and (e) of said section 8 [subsecs. (d) and (e) of this section].”
 
 1 So in original.
 Probably should be “percentage”.
@@ -5483,7 +4862,7 @@ The Temporary Extended Unemployment Compensation Act of 1961, referred to in tex
 
 Short Title
 
-Section 1 of Pub. L. 87–7 provided: “That this Act [enacting this chapter] may be cited as the ‘Temporary Extended Railroad Unemployment Insurance Benefits Act of 1961’.”
+Pub. L. 87–7, §1, Mar. 24, 1961, 75 Stat. 16, provided: “That this Act [enacting this chapter] may be cited as the ‘Temporary Extended Railroad Unemployment Insurance Benefits Act of 1961’.”
 
 §402. Exchange of information between Secretary of Labor and Railroad Retirement Board
 
@@ -5505,7 +4884,7 @@ Amounts so transferred shall be repayable advances without interest.
 
 Repayment by Account of Advances From General Fund of Treasury From Contributions Collected on Compensation Paid After December 31, 1963
 
-Section 303(b) of Pub. L. 88–133 provided that: “Effective with respect to contributions collected by the Railroad Retirement Board pursuant to section 8(f) of the Railroad Unemployment Insurance Act [section 358(f) of this title] on compensation paid after December 31, 1963, that part of such contributions equal to one-fourth of 1 per centum of the compensation on which such contributions are based shall, notwithstanding the provisions of section 10(b) of such Act [section 360(b) of this title], be applied by the Board exclusively for transfers from the railroad unemployment insurance account to the general fund of the Treasury until the full amount advanced from the general fund of the Treasury to the railroad unemployment insurance account pursuant to section 4 of the Temporary Extended Railroad Unemployment Insurance Benefits Act of 1961 [this section] has been repaid.”
+Pub. L. 88–133, title III, §303(b), Oct. 5, 1963, 77 Stat. 222, provided that: “Effective with respect to contributions collected by the Railroad Retirement Board pursuant to section 8(f) of the Railroad Unemployment Insurance Act [section 358(f) of this title] on compensation paid after December 31, 1963, that part of such contributions equal to one-fourth of 1 per centum of the compensation on which such contributions are based shall, notwithstanding the provisions of section 10(b) of such Act [section 360(b) of this title], be applied by the Board exclusively for transfers from the railroad unemployment insurance account to the general fund of the Treasury until the full amount advanced from the general fund of the Treasury to the railroad unemployment insurance account pursuant to section 4 of the Temporary Extended Railroad Unemployment Insurance Benefits Act of 1961 [this section] has been repaid.”
 
 §404. Temporary increase in employers’ contribution rate
 
@@ -5610,7 +4989,7 @@ See section 24102 of Title 49, Transportation.
 
 Short Title
 
-Section 1 of Pub. L. 91–518, as amended by Pub. L. 93–496, §12, Oct. 28, 1974, 88 Stat. 1531, provided that Pub. L. 91–518 (enacting this chapter and section 250 of Title 26, Internal Revenue Code, amending section 856 of former Title 31, Money and Finance, and enacting provision set out as a note under section 250 of Title 26) could be cited as the “Rail Passenger Service Act”, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Pub. L. 91–518, §1, Oct. 30, 1970, 84 Stat. 1327, as amended by Pub. L. 93–496, §12, Oct. 28, 1974, 88 Stat. 1531, provided that Pub. L. 91–518 (enacting this chapter and section 250 of Title 26, Internal Revenue Code, amending section 856 of former Title 31, Money and Finance, and enacting provision set out as a note under section 250 of Title 26) could be cited as the “Rail Passenger Service Act”, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 SUBCHAPTER II—BASIC NATIONAL RAIL PASSENGER SYSTEM
 
@@ -5884,7 +5263,7 @@ The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was rep
 
 Short Title
 
-Section 1 of Pub. L. 91–663 provided: “That this Act [enacting this chapter] may be cited as the ‘Emergency Rail Services Act of 1970’.”
+Pub. L. 91–663, §1, Jan. 8, 1971, 84 Stat. 1975, provided: “That this Act [enacting this chapter] may be cited as the ‘Emergency Rail Services Act of 1970’.”
 
 §662. Guarantee of certificates
 
@@ -6250,11 +5629,11 @@ Pub. L. 94–5, §1, Feb. 28, 1975, 89 Stat. 7, provided: “That this Act [enac
 
 Short Title
 
-Section 1 of Pub. L. 93–236 provided in part that this Act [enacting this chapter and amending section 856 of former Title 31, Money and Finance, and section 1(16) of former Title 49, Transportation], may be cited as the “Regional Rail Reorganization Act of 1973”.
+Pub. L. 93–236, §1, Jan. 2, 1974, 87 Stat. 985, provided in part that this Act [enacting this chapter and amending section 856 of former Title 31, Money and Finance, and section 1(16) of former Title 49, Transportation], may be cited as the “Regional Rail Reorganization Act of 1973”.
 
 Separability
 
-Section 604 of Pub. L. 93–236 provided that: “If any provision of this Act [enacting this chapter and amending section 856 of former Title 31, Money and Finance, and section 1(16) of former Title 49, Transportation] or the application thereof to any person or circumstances is held invalid, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Pub. L. 93–236, title VI, §604, Jan. 2, 1974, 87 Stat. 1023, provided that: “If any provision of this Act [enacting this chapter and amending section 856 of former Title 31, Money and Finance, and section 1(16) of former Title 49, Transportation] or the application thereof to any person or circumstances is held invalid, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 
 Abolition of United States Railway Association and Transfer of Functions and Securities
 
@@ -6625,7 +6004,7 @@ All transfers or conveyances pursuant to the final system plan shall be made in 
 
 (2) All rail properties to be conveyed to a profitable railroad operating in the region by trustees of a railroad in reorganization, or by any railroad leased, operated, or controlled by a railroad in reorganization in the region, shall be conveyed in exchange for compensation from the profitable railroad.
 
-(3) Notwithstanding any other provision of this chapter, no acquisition under this chapter shall be made by any profitable railroad operating in the region without a determination with respect to each such transaction and all such transactions cumulatively (A) by the Association, upon adoption and release of the preliminary system plan, that such acquisition or acquisitions will not materially impair the profitability of any other profitable railroad operating in the region or of the Corporation, and (B) by the Commission, which shall be made within 90 days after adoption and release by the Association of the preliminary system plan, that such acquisition or acquisitions will be in full accord and comply with the provisions and standards of subchapter III 2 of chapter 113 of title 49. All determinations made by the Association in the correction to the preliminary system plan published on April 11, 1975 (40 Fed.
+(3) Notwithstanding any other provision of this chapter, no acquisition under this chapter shall be made by any profitable railroad operating in the region without a determination with respect to each such transaction and all such transactions cumulatively (A) by the Association, upon adoption and release of the preliminary system plan, that such acquisition or acquisitions will not materially impair the profitability of any other profitable railroad operating in the region or of the Corporation, and (B) by the Commission, which shall be made within 90 days after adoption and release by the Association of the preliminary system plan, that such acquisition or acquisitions will be in full accord and comply with the provisions and standards of subchapter III 1 of chapter 113 of title 49. All determinations made by the Association in the correction to the preliminary system plan published on April 11, 1975 (40 Fed.
 Reg. 16377), shall be treated for all purposes as if they had been made upon adoption and release by the Association of the preliminary system plan.
 All determinations made by the Commission with respect to such correction shall be treated for all purposes as if they had been made within 90 days after adoption and release by the Association of the preliminary system plan.
 All determinations made by the Commission with respect to acquisitions by profitable railroads referred to in any supplement to the preliminary system plan published under section 717(b)(2) of this title shall be deemed to be timely if made prior to the adoption of the final system plan under section 717(c) of this title.
@@ -6669,7 +6048,7 @@ The final system plan shall designate the value of all rail properties to be tra
 (g) Other provisions
 
 The final system plan may recommend arrangements among various railroads for joint use or operation of rail properties on a shared ownership, cooperative, pooled, or condominium-type basis, subject to such terms and conditions as may be specified in the final system plan.
-The final system plan shall also make such designations as are determined to be necessary in accordance with the provisions of section 762 or 763 3 of this title.
+The final system plan shall also make such designations as are determined to be necessary in accordance with the provisions of section 762 or 763 1 of this title.
 
 (h) Obligational authority
 
@@ -6713,10 +6092,6 @@ Applicability of National Environmental Policy Act
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
 1 See References in Text note below.
-
-2 See References in Text note below.
-
-3 See References in Text note below.
 
 §717. Adoption of final system plan
 
@@ -6963,7 +6338,7 @@ See section 1341 of this title.
 
 Cases Pending in Special Court
 
-Section 605(d) of Pub. L. 104–317 provided that: “Effective 90 days after the date of enactment of this Act [Oct. 19, 1996], any case pending in the special court established under section 209(b) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 719(b)) shall be assigned to the United States District Court for the District of Columbia as though the case had originally been filed in that court.
+Pub. L. 104–317, title VI, §605(d), Oct. 19, 1996, 110 Stat. 3859, provided that: “Effective 90 days after the date of enactment of this Act [Oct. 19, 1996], any case pending in the special court established under section 209(b) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 719(b)) shall be assigned to the United States District Court for the District of Columbia as though the case had originally been filed in that court.
 The amendments made by subsection (b) of this section [amending this section and sections 743 and 1105 of this title] shall not apply to any final order or judgment entered by the special court for which—
 
 “(1) a petition for writ of certiorari has been filed before the date on which the special court is abolished; or
@@ -8012,7 +7387,7 @@ For applicability of amendment by Pub. L. 104–317 to cases pending in special 
 
 Administrative Claim Status
 
-Section 2 of Pub. L. 95–597 provided that: “The conferring of administrative claim status on amounts paid for the insurance premiums and benefits described in the amendment made by the first section of this Act [amending this section] shall be effective solely for purposes of meeting the conditions set forth in section 211(h)(4)(A)(iii) of the Regional Rail Reorganization Act of 1973 [section 721(h)(4)(A)(iii) of this title] with respect to which obligations of the estate of a railroad in reorganization may be paid pursuant to such section 211(h) [section 721(h) of this title], and shall not be construed—
+Pub. L. 95–597, §2, Nov. 4, 1978, 92 Stat. 2548, provided that: “The conferring of administrative claim status on amounts paid for the insurance premiums and benefits described in the amendment made by the first section of this Act [amending this section] shall be effective solely for purposes of meeting the conditions set forth in section 211(h)(4)(A)(iii) of the Regional Rail Reorganization Act of 1973 [section 721(h)(4)(A)(iii) of this title] with respect to which obligations of the estate of a railroad in reorganization may be paid pursuant to such section 211(h) [section 721(h) of this title], and shall not be construed—
 
 “(1) as affecting the jurisdiction of the district court having jurisdiction over such a railroad in reorganization to determine whether such insurance premiums and benefits constitute enforceable contractual obligations of the estate of such a railroad for purposes of reimbursement under such section 211(h) [section 721(h) of this title]; or
 
@@ -8020,7 +7395,7 @@ Section 2 of Pub. L. 95–597 provided that: “The conferring of administrative
 
 Corporation as Successor in Interest
 
-Section 3 of Pub. L. 95–597 provided that: “Notwithstanding any other provision of law, any corporation which, pursuant to a plan of reorganization under section 77 of the Bankruptcy Act [section 205 of former Title 11, Bankruptcy], is the successor in interest to a railroad in reorganization shall have standing to assert, in any judicial or administrative proceeding, any claim or defense available to such railroad in reorganization with respect to whether the insurance benefits and premiums described in the amendment made by the first section of this Act [amending this section] constitute enforceable contractual obligations of the estate of such railroad in reorganization.
+Pub. L. 95–597, §3, Nov. 4, 1978, 92 Stat. 2548, provided that: “Notwithstanding any other provision of law, any corporation which, pursuant to a plan of reorganization under section 77 of the Bankruptcy Act [section 205 of former Title 11, Bankruptcy], is the successor in interest to a railroad in reorganization shall have standing to assert, in any judicial or administrative proceeding, any claim or defense available to such railroad in reorganization with respect to whether the insurance benefits and premiums described in the amendment made by the first section of this Act [amending this section] constitute enforceable contractual obligations of the estate of such railroad in reorganization.
 For purposes of this section, the term ‘railroad in reorganization’ has the meaning given such term in paragraph (14) of section 102 of the Regional Rail Reorganization Act of 1973 [section 702(14) of this title].”
 
 Applicability of National Environmental Policy Act
@@ -8143,16 +7518,16 @@ the Corporation (or, where applicable, the National Railroad Passenger Corporati
 
 (B) provides compensation, pursuant to paragraph (2) of this subsection, for operations conducted during the 180-day mandatory operation period; or
 
-(C) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of this section, for the operation of rail passenger service provided under an agreement or lease pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section where such offer is made for the continuation of the service beyond the period required by such agreement or lease, except that such services shall not be eligible for assistance under section 17(a)(2) 3 of the Federal Transit Act (49 U.S.C. 1613(a)(2)),
+(C) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of this section, for the operation of rail passenger service provided under an agreement or lease pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section where such offer is made for the continuation of the service beyond the period required by such agreement or lease, except that such services shall not be eligible for assistance under section 17(a)(2) 1 of the Federal Transit Act (49 U.S.C. 1613(a)(2)),
 
 the Corporation (or a profitable railroad) shall continue to provide such service after the end of such period, except as otherwise provided in this subsection.
 
-(5)(A) The Secretary shall reimburse the Corporation (or a profitable railroad) for any loss which is incurred by it during the 180-day mandatory operation period specified in paragraph (1) of this subsection which is not compensated for by a State (or a local or regional transportation authority). The amount of such reimbursement shall be determined pursuant to section 17(a)(1) 3 of the Federal Transit Act.
+(5)(A) The Secretary shall reimburse the Corporation (or a profitable railroad) for any loss which is incurred by it during the 180-day mandatory operation period specified in paragraph (1) of this subsection which is not compensated for by a State (or a local or regional transportation authority). The amount of such reimbursement shall be determined pursuant to section 17(a)(1) 1 of the Federal Transit Act.
 
-(B) The Secretary shall reimburse States, local public bodies, and agencies thereof for additional costs incurred by such States, bodies, and agencies for rail service continuation payments for rail passenger service pursuant to section 17(a)(2) 3 of the Federal Transit Act.
+(B) The Secretary shall reimburse States, local public bodies, and agencies thereof for additional costs incurred by such States, bodies, and agencies for rail service continuation payments for rail passenger service pursuant to section 17(a)(2) 1 of the Federal Transit Act.
 
 (C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements.
-Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term “loss” as used in subparagraph (A) of this paragraph and within the meaning of the term “additional costs” as used in subparagraph (B) of this paragraph and section 17(a)(2) 3 of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
+Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term “loss” as used in subparagraph (A) of this paragraph and within the meaning of the term “additional costs” as used in subparagraph (B) of this paragraph and section 17(a)(2) 1 of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
 
 (D) If a dispute arises with respect to the application of any such regulations, the parties to such dispute may submit such dispute to arbitration by a third party.
 If the parties are unable to agree upon the selection of an arbitrator, the Chairman of the Commission shall serve in that capacity (except as to matters required to be decided by the Commission, pursuant to section 562(a) of this title).
@@ -8232,8 +7607,6 @@ Application of National Environmental Policy Act to actions of Commission not af
 2 So in original.
 Probably should be “this”.
 
-3 See References in Text note below.
-
 §744a. End of Conrail commuter service obligation
 
 Notwithstanding any other provision of law or contract, Conrail shall be relieved of any legal obligation to operate commuter service on January 1, 1983.
@@ -8250,7 +7623,7 @@ Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as
 
 Authorization of Appropriation To Facilitate Transfer of Rail Commuter Service From Conrail to Other Operators; Standards for Distribution of Appropriated Funds
 
-Section 1139(b) of Pub. L. 97–35, as amended by Pub. L. 97–468, title V, §504(a), Jan. 14, 1983, 96 Stat. 2552, provided that:
+Pub. L. 97–35, title XI, §1139(b), Aug. 13, 1981, 95 Stat. 652, as amended by Pub. L. 97–468, title V, §504(a), Jan. 14, 1983, 96 Stat. 2552, provided that:
 
 “(1) There are authorized to be appropriated to the Secretary not to exceed $50,000,000, to facilitate the transfer of rail commuter services from Conrail to other operators.
 The Secretary shall by regulation prescribe standards for the obligation of such funds, and shall ensure that distribution of such funds is equitably made between Amtrak Commuter and the commuter authorities that operate commuter service.
@@ -8403,7 +7776,7 @@ Application of National Environmental Policy Act to actions of Commission not af
 
 Rail Abandonment and Discontinuance of Service Report
 
-Section 904 of Pub. L. 94–210 directed Secretary to submit to Congress, within ninety days of Feb. 5, 1976, a report on anticipated effect of any abandonment of lines of railroad and any discontinuances of rail service in States outside the region as defined in section 702 of this title, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Pub. L. 94–210, title IX, §904, Feb. 5, 1976, 90 Stat. 148, directed Secretary to submit to Congress, within ninety days of Feb. 5, 1976, a report on anticipated effect of any abandonment of lines of railroad and any discontinuances of rail service in States outside the region as defined in section 702 of this title, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 1 See References in Text note below.
 
@@ -8757,7 +8130,7 @@ See section 1341 of this title.
 
 Applicability of National Environmental Policy Act
 
-Section 619 of title VI of Pub. L. 94–210 provided that: “Nothing in this title [enacting sections 726 and 745 to 747 of this title and amending sections 702, 711 to 713, 716, 718 to 721, 724, 725, 741, 743, 744, 771, 772, 774, 775, 778, 779, and 791 of this title, and section 856 of former Title 31, Money and Finance] shall affect the application of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to actions of the Commission.”
+Pub. L. 94–210, title VI, §619, Feb. 5, 1976, 90 Stat. 119, provided that: “Nothing in this title [enacting sections 726 and 745 to 747 of this title and amending sections 702, 711 to 713, 716, 718 to 721, 724, 725, 741, 743, 744, 771, 772, 774, 775, 778, 779, and 791 of this title, and section 856 of former Title 31, Money and Finance] shall affect the application of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to actions of the Commission.”
 
 1 See References in Text note below.
 
@@ -8797,7 +8170,7 @@ Section, Pub. L. 93–236, title VII, §701, as added Pub. L. 97–35, title XI,
 
 Repeal of Section; Continuing Responsibilities of Consolidated Rail Corporation After Sale Date
 
-Section 4024(c)–(f) of Pub. L. 99–509, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–509, title IV, §4024(c)–(f), Oct. 21, 1986, 100 Stat. 1904, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(c) Repeal of Section 701.—Section 701 of the Regional Rail Reorganization Act of 1973 [45 U.S.C. 797] is repealed effective on the sale date [Apr. 2, 1987, see 45 U.S.C. 702(17A)]. Notwithstanding this repeal—
 
@@ -9228,7 +8601,7 @@ This Act, referred to in text, means Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31
 
 Short Title
 
-Section 1 of Pub. L. 94–210 provided in part that this Act [enacting this chapter and sections 726 and 745 to 747 of this title, and sections 1a, 5c, 26b, 26c, 1613, 1653a, 1654, and 1657a of former Title 49, Transportation, amending sections 543, 545, 546, 562 to 564, 702, 711 to 713, 715, 716, 718 to 721, 724, 725, 741, 743, 744, 762, 763, 771, 772, 774, 775, 778, 779, and 791 of this title, sections 77c, 77s, 78m, and 80a–3 of Title 15, Commerce and Trade, sections 11 and 856 of former Title 31, Money and Finance, and sections 1, 1a, 5, 5b, 6, 12, 13, 15, 15a, 17, 20, 27, 314, 1653, 1658, and 1659 of former Title 49, repealing sections 761 to 762 of this title, enacting provisions set out as notes under sections 745, 761, 791, and 793 of this title, sections 77c and 80a–3 of Title 15, and sections 1, 1a, 5b, 5c, 17, and 1654 of former Title 49, and amending notes set out under section 1651 of former Title 49] may be cited as the “Railroad Revitalization and Regulatory Reform Act of 1976”.
+Pub. L. 94–210, §1, Feb. 5, 1976, 90 Stat. 31, provided in part that this Act [enacting this chapter and sections 726 and 745 to 747 of this title, and sections 1a, 5c, 26b, 26c, 1613, 1653a, 1654, and 1657a of former Title 49, Transportation, amending sections 543, 545, 546, 562 to 564, 702, 711 to 713, 715, 716, 718 to 721, 724, 725, 741, 743, 744, 762, 763, 771, 772, 774, 775, 778, 779, and 791 of this title, sections 77c, 77s, 78m, and 80a–3 of Title 15, Commerce and Trade, sections 11 and 856 of former Title 31, Money and Finance, and sections 1, 1a, 5, 5b, 6, 12, 13, 15, 15a, 17, 20, 27, 314, 1653, 1658, and 1659 of former Title 49, repealing sections 761 to 762 of this title, enacting provisions set out as notes under sections 745, 761, 791, and 793 of this title, sections 77c and 80a–3 of Title 15, and sections 1, 1a, 5b, 5c, 17, and 1654 of former Title 49, and amending notes set out under section 1651 of former Title 49] may be cited as the “Railroad Revitalization and Regulatory Reform Act of 1976”.
 
 §802. Definitions
 
@@ -9729,7 +9102,7 @@ See section 24903 of Title 49, Transportation.
 
 Effective Date of Repeal
 
-Section 7(a)(1) of Pub. L. 103–429 provided that the repeal by that section is effective July 5, 1994.
+Pub. L. 103–429, §7(a)(1), Oct. 31, 1994, 108 Stat. 4388, provided that the repeal by section 7(a)(1) is effective July 5, 1994.
 
 CHAPTER 18—MILWAUKEE RAILROAD RESTRUCTURING
 
@@ -9838,7 +9211,7 @@ Pub. L. 97–468, title II, §201, Jan. 14, 1983, 96 Stat. 2543, provided that: 
 
 Short Title
 
-Section 1 of Pub. L. 96–101 provided: “That this Act [enacting this chapter and amending sections 231f, 662, 721, 821, and 825 of this title] may be cited as the ‘Milwaukee Railroad Restructuring Act’.”
+Pub. L. 96–101, §1, Nov. 4, 1979, 93 Stat. 736, provided: “That this Act [enacting this chapter and amending sections 231f, 662, 721, 821, and 825 of this title] may be cited as the ‘Milwaukee Railroad Restructuring Act’.”
 
 Statement of Purpose
 
@@ -10260,6 +9633,84 @@ References in Text
 
 Section 831 of this title, referred to in subsec. (a), was repealed by Pub. L. 105–178, title VII, §7203(a)(2), June 9, 1998, 112 Stat. 477, except for subsec. (c) of that section, which was renumbered and transferred to section 823(b) of this title by section 7203(a)(4) of Pub. L. 105–178.
 
+§915. Court approved abandonment and sales in pending cases
+
+(a) Abandonment of lines of railroad under Bankruptcy Act
+
+Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the court may authorize the abandonment of lines of railroad pursuant to section 1170 of title 11. Pending the expiration of the time for appeal of an abandonment order or the determination of any such appeal, the court may authorize the termination of service on a line to be abandoned, and the order authorizing such termination may not be stayed.
+In authorizing any abandonment pursuant to this section, the court shall require the carrier to provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 1 of title 49.
+
+(b) Sale or transfer of lines of railroad under Bankruptcy Act
+
+(1) Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the court may authorize the sale or transfer of a line of railroad to be used in continued rail operations, subject to the approval of the Commission under paragraph (2) of this subsection, if the application with respect to such sale or transfer is filed with the Commission on or after November 1, 1979. In authorizing any such sale or transfer, the court shall provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 1 of title 49.
+
+(2) The court described in paragraph (1) may not authorize a sale or transfer pursuant to such paragraph unless an appropriate application with respect to such sale or transfer is initiated with the Commission and, within such time as the court may fix, not exceeding 180 days, the Commission, with or without a hearing, as the Commission may determine, and with or without modification or condition, approves such application, or does not act on such application.
+Any action or order of the Commission approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
+
+(3)(A) If a person has made or makes an offer to acquire from a carrier subject to liquidation a rail line or lines over which no service is provided by that carrier, and that offer has been or is rejected by the trustee in bankruptcy of such carrier, such person may submit an application to the Commission seeking approval of such person's acquisition of such line or lines.
+A copy of any such application shall be filed simultaneously with the court.
+
+(B) The Commission shall, within 15 days after the filing of an application under subparagraph (A) of this paragraph, determine whether the applicant—
+
+(i) is a financially responsible person; and
+
+(ii) has made a bona fide offer to acquire the line or lines under reasonable terms.
+
+(C)(i) If the Commission's determination under subparagraph (B) of this paragraph is affirmative with respect to the matters referred to in clauses (i) and (ii) of such subparagraph, the applicant and the trustee in bankruptcy (hereafter in this paragraph referred to collectively as the “parties”) shall enter into negotiations with respect to terms for the acquisition of the line or lines applied for.
+If the parties at any time agree on such terms, a request for approval of the acquisition shall be filed with the Commission and the court.
+If the parties are unable to agree to such terms within 30 days after the date of the Commission's determination under subparagraph (B) of this paragraph, either party may, within 60 days after the expiration of such 30-day period, request the Commission to prescribe terms for such acquisition, including compensation for the line or lines to be acquired.
+The Commission shall prescribe such terms within 60 days after any such request is made.
+The terms prescribed by the Commission shall be binding upon both parties, subject to court review as provided in subparagraph (D) of this paragraph, except that the applicant may withdraw its offer within 10 days after the Commission prescribes such terms.
+
+(ii) If more than one applicant has requested under this subparagraph that the Commission prescribe the terms of acquisition for the same or overlapping lines or portions of such lines, the Commission shall prescribe terms for such acquisition which it determines best serve the public interest.
+
+(D)(i) Within 15 days after the Commission prescribes terms under subparagraph (C) of this paragraph, the Commission shall transmit such terms to the court, unless the offer is withdrawn under such subparagraph.
+Notwithstanding any other provision of law, the court shall, within 60 days after such transmittal, approve the acquisition under terms prescribed by the Commission if the compensation for the line or lines is not less than that required as a constitutional minimum.
+
+(ii) Except as provided in this subparagraph, no action shall be taken by the court which would prejudice the acquisition which is the subject of an application under this paragraph.
+
+(E) The Commission shall require that any person acquiring a line or lines under this paragraph use, to the maximum extent practicable, employees or former employees of the carrier subject to liquidation in the operation of service on such line or lines.
+
+(F) No person acquiring a line under this paragraph may transfer or discontinue service on such line prior to the expiration of 4 years after such acquisition.
+
+(G) The Commission shall, within 45 days after January 14, 1983, prescribe such regulations and procedures as are necessary to carry out the provisions of this paragraph.
+
+(H) As used in this paragraph, the term—
+
+(i) “carrier subject to liquidation” means a carrier which, on January 14, 1983, was the subject of a proceeding pending under section 77 of the Bankruptcy Act or under subchapter IV of chapter 11 of title 11 and which has been ordered by the court to liquidate its properties;
+
+(ii) “the court” means the court having bankruptcy jurisdiction over the carrier subject to liquidation; and
+
+(iii) “financially responsible person” means a person capable of compensating the carrier subject to liquidation for the acquisition of the line or lines proposed to be acquired and able to cover expenses associated with providing service over such line or lines for a period of not less than 4 years.
+
+(4) Pending review of an application by the Commission pursuant to paragraph (2) of this subsection, the court described in paragraph (1) may, on a preliminary basis, authorize the sale or transfer proposed in such application.
+The court may permit the purchasing carrier to operate interim service over the lines to be purchased, and in operating such service it shall use employees of the carrier subject to the bankruptcy proceeding to the extent such purchasing carrier deems necessary for the operation of such service.
+
+(c) Judicial review
+
+Any action or order of the Commission approving, modifying, conditioning, or disapproving an application for the sale or transfer of rail property that is filed with the Commission before November 1, 1979, in connection with a case pending under section 77 of the Bankruptcy Act on November 4, 1979—
+
+(1) is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5; and
+
+(2) may not be stayed by the Commission.
+
+(d) Authority of bankruptcy court
+
+The authority of the bankruptcy court to authorize abandonments, sales, and transfers of lines of the Milwaukee Railroad shall be governed by the provisions of section 904 of this title, rather than the provisions of this section.
+
+(e) Effect on priorities and timing of employee protection payments
+
+Nothing in this section shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this chapter.
+
+(Pub. L. 96–101, §17, Nov. 4, 1979, 93 Stat. 744; Pub. L. 97–468, title II, §213, Jan. 14, 1983, 96 Stat. 2544.)
+
+References in Text
+
+Section 77 of the Bankruptcy Act, referred to in subsecs. (a), (b)(1), (3)(H)(i), and (c), was classified to section 205 of former Title 11, Bankruptcy.
+The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+
+Section 11347 of title 49, referred to in subsecs. (a) and (b)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11347 are contained in section 11326(a) of Title 49.
+
 Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
@@ -10424,7 +9875,7 @@ Congress hereby finds that—
 
 Short Title
 
-Section 101 of title I of Pub. L. 96–254 provided that: “This title [enacting this chapter, amending sections 231f, 726, 825, 902, 911, 913, and 916 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Rock Island Railroad Transition and Employee Assistance Act’.”
+Pub. L. 96–254, title I, §101, May 30, 1980, 94 Stat. 399, provided that: “This title [enacting this chapter, amending sections 231f, 726, 825, 902, 911, 913, and 916 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Rock Island Railroad Transition and Employee Assistance Act’.”
 
 Savings Provision
 
@@ -10751,7 +10202,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 Termination of Applicability of Amendment to Interstate Commerce Service Order 1498 on May 15, 1982
 
-Section 5(b) of Pub. L. 97–130 provided that: “The applicability of the amendment made by subsection (a) [amending subsec. (a) of this section] to Interstate Commerce Commission Service Order 1498 shall expire at the end of May 15, 1982.”
+Pub. L. 97–130, §5(b), Dec. 29, 1981, 95 Stat. 1691, provided that: “The applicability of the amendment made by subsection (a) [amending subsec. (a) of this section] to Interstate Commerce Commission Service Order 1498 shall expire at the end of May 15, 1982.”
 
 §1018. Judicial review
 
@@ -10867,11 +10318,11 @@ For complete classification of this Act to the Code, see Short Title note set ou
 
 Effective Date
 
-Section 1169 of subtitle E (§§1131–1169) of title XI of Pub. L. 97–35 provided that: “Except as otherwise provided, the provisions of and the amendments made by this subtitle [see Short Title note set out below] shall take effect on the date of the enactment of this subtitle [Aug. 13, 1981].”
+Pub. L. 97–35, title XI, §1169, Aug. 13, 1981, 95 Stat. 687, provided that: “Except as otherwise provided, the provisions of and the amendments made by this subtitle [subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, see Short Title note set out below] shall take effect on the date of the enactment of this subtitle [Aug. 13, 1981].”
 
 Short Title
 
-Section 1131 of subtitle E (§§1131–1169) of title XI of Pub. L. 97–35 provided that: “This subtitle [enacting this chapter, and sections 159a, 581 to 590, 727 to 729, 744a, 748, 761 to 769c, and 797 to 797m of this title, amending sections 601, 702, 711 to 713, 724, 741, 743, 745, 821, 825, and 829 of this title, repealing sections 771 to 780, 910, and 1006 of this title, and enacting provisions set out as notes under sections 744a, 771, and 1101 of this title] may be cited as the ‘Northeast Rail Service Act of 1981’.”
+Pub. L. 97–35, title XI, §1131, Aug. 13, 1981, 95 Stat. 643, provided that: “This subtitle [subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, enacting this chapter, and sections 159a, 581 to 590, 727 to 729, 744a, 748, 761 to 769c, and 797 to 797m of this title, amending sections 601, 702, 711 to 713, 724, 741, 743, 745, 821, 825, and 829 of this title, repealing sections 771 to 780, 910, and 1006 of this title, and enacting provisions set out as notes under sections 744a, 771, and 1101 of this title] may be cited as the ‘Northeast Rail Service Act of 1981’.”
 
 §1102. Statement of purpose
 
@@ -11264,7 +10715,7 @@ This chapter, referred to in pars. (4) to (6), was in the original “this title
 
 Short Title
 
-Section 601 of title VI of Pub. L. 97–468 provided that: “This title [enacting this chapter, amending sections 231, 712, and 802 of this title, sections 305, 3401, 5102, 5342, and 7327 of Title 5, Government Organization and Employees, section 410hh–1 of Title 16, Conservation, section 251 of Title 42, The Public Health and Welfare, section 10749 of Title 49, Transportation, and section 1655 of the Appendix to Title 49, repealing section 353a of Title 16, section 208a of Title 30, Mineral Lands and Mining, sections 975, 975a, and 975c to 975g of Title 43, Public Lands, and section 301a of Title 48, Territories and Insular Possessions, and amending provisions set out as a note under section 1611 of Title 43] may be cited as the ‘Alaska Railroad Transfer Act of 1982’.”
+Pub. L. 97–468, title VI, §601, Jan. 14, 1983, 96 Stat. 2556, provided that: “This title [enacting this chapter, amending sections 231, 712, and 802 of this title, sections 305, 3401, 5102, 5342, and 7327 of Title 5, Government Organization and Employees, section 410hh–1 of Title 16, Conservation, section 251 of Title 42, The Public Health and Welfare, section 10749 of Title 49, Transportation, and section 1655 of the Appendix to Title 49, repealing section 353a of Title 16, section 208a of Title 30, Mineral Lands and Mining, sections 975, 975a, and 975c to 975g of Title 43, Public Lands, and section 301a of Title 48, Territories and Insular Possessions, and amending provisions set out as a note under section 1611 of Title 43] may be cited as the ‘Alaska Railroad Transfer Act of 1982’.”
 
 §1202. Definitions
 
@@ -11670,7 +11121,7 @@ For complete classification of this Act to the Code, see Short Title of 1994 Ame
 
 Administrative Provision
 
-Section 136(b) of Pub. L. 100–238 provided that: “Within 180 days after the date of enactment of this section [Jan. 8, 1988], the Director of the Office of Personnel Management shall notify any person described under the provisions of section 607(e)(2)(A) of such Act [45 U.S.C. 1206(e)(2)(A)], for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of section 607(e)(1) of the Alaska Railroad Transfer Act of 1982 [45 U.S.C. 1206(e)(1)] (as amended by subsection (a) of this section).”
+Pub. L. 100–238, title I, §136(b), Jan. 8, 1988, 101 Stat. 1767, provided that: “Within 180 days after the date of enactment of this section [Jan. 8, 1988], the Director of the Office of Personnel Management shall notify any person described under the provisions of section 607(e)(2)(A) of such Act [45 U.S.C. 1206(e)(2)(A)], for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of section 607(e)(1) of the Alaska Railroad Transfer Act of 1982 [45 U.S.C. 1206(e)(1)] (as amended by subsection (a) of this section).”
 
 §1207. State operation
 
@@ -11784,388 +11235,6 @@ Act of March 12, 1914 (43 U.S.C. 975 et seq.), referred to in subsec. (b), is ac
 
 Section 615 of this title, referred to in subsec. (b), means section 615 of title VI of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2577. Title VI of Pub. L. 97–468 is known as the Alaska Railroad Transfer Act of 1982 and is classified principally to this chapter.
 Under section 615, the repeal is effective on the date of transfer to the State of Alaska (pursuant to section 1203 of this title) or other disposition (pursuant to section 1210 of this title), whichever first occurs.
-
-1 See References in Text note below.
-
-§1209. Repealed.
-Pub. L. 108–7, div. I, title III, §345(5), Feb. 20, 2003, 117 Stat. 418
-
-Section, Pub. L. 97–468, title VI, §610, Jan. 14, 1983, 96 Stat. 2575, related to reversion from the State of railroad property to the United States.
-
-§1210. Other disposition
-
-If the Secretary has not certified that the State has satisfied the conditions under section 1203 of this title within one year after the date of delivery of the report referred to in section 1204(a) of this title, the Secretary may dispose of the rail properties of the Alaska Railroad.
-Any disposal under this section shall give preference to a buyer or transferee who will continue to operate rail service, except that—
-
-(1) such preference shall not diminish or modify the rights of the Cook Inlet Region, Incorporated (as that term is used in section 12 of the Act of January 2, 1976 (Public Law 94–204; 89 Stat. 1150)), pursuant to such section, as amended by section 606(d) of this title; 1 and
-
-(2) this section shall not be construed to diminish or modify the powers of consent of the Secretary or the State under section 12(b)(8) of such Act, as amended by section 606(d)(5) of this title.1
-
-Any disposal under this section shall be subject to valid existing rights.
-
-(Pub. L. 97–468, title VI, §611, Jan. 14, 1983, 96 Stat. 2576.)
-
-References in Text
-
-Section 12 of the Act of January 2, 1976, referred to in pars. (1) and (2), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, as amended, which is set out as a note under section 1611 of Title 43, Public Lands.
-
-Section 606(d) of this title, referred to in pars. (1) and (2), means section 606(d) of title VI of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2566.
-
-1 See References in Text note below.
-
-§1211. Denali National Park and Preserve lands
-
-On the date of transfer to the State (pursuant to section 1203 of this title) or other disposition (pursuant to section 1210 of this title), that portion of rail properties of the Alaska Railroad within the Denali National Park and Preserve shall, subject to the exclusive-use easement granted pursuant to section 1203(b)(1)(D) of this title, be transferred to the Secretary of the Interior for administration as part of the Denali National Park and Preserve, except that a transferee under section 1210 of this title shall receive the same interest as the State under section 1203(b)(1)(D) of this title.
-
-(Pub. L. 97–468, title VI, §612, Jan. 14, 1983, 96 Stat. 2576.)
-
-§1212. Applicability of other laws
-
-(a) Actions subject to other laws
-
-The provisions of chapter 5 of title 5 (popularly known as the Administrative Procedure Act, and including provisions popularly known as the Government in the Sunshine Act), the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.), the National Historic Preservation Act (16 U.S.C. 470 et seq.), section 303 of title 49, and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall not apply to actions taken pursuant to this chapter, except to the extent that such laws may be applicable to granting of rights-of-way under section 1208 of this title.
-
-(b) Federal surplus property disposal; withdrawal or reservation of land for use of Alaska Railroad
-
-The enactment of this chapter, actions taken during the transition period as provided in section 1204 of this title, and transfer of the rail properties of the Alaska Railroad under authority of this chapter shall be deemed not to be the disposal of Federal surplus property under sections 541 to 555 of title 40 or the Act of October 3, 1944, popularly referred to as the “Surplus Property Act of 1944” (50 U.S.C. App. 1622). Such events shall not constitute or cause the revocation of any prior withdrawal or reservation of land for the use of the Alaska Railroad under the Act of March 12, 1914 (43 U.S.C. 975 et seq.), the Alaska Statehood Act (note preceding 48 U.S.C. 21), the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), the Act of January 2, 1976 (Public Law 94–204; 89 Stat. 1145), the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat. 2371), and the general land and land management laws of the United States.
-
-(c) Ceiling on Government contributions for Federal employees health benefits insurance premiums
-
-Beginning on January 14, 1983, the ceiling on Government contributions for Federal employees health benefits insurance premiums under section 8906(b)(2) of title 5 shall not apply to the Alaska Railroad.
-
-(d) Acreage entitlement of State or Native Corporation
-
-Nothing in this chapter is intended to enlarge or diminish the acreage entitlement of the State or any Native Corporation pursuant to existing law.
-
-(e) Judgments involving interests, etc., of Native Corporations
-
-With respect to interests of Native Corporations under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) and the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.), except as provided in this chapter, nothing contained in this chapter shall be construed to deny, enlarge, grant, impair, or otherwise affect any judgment heretofore entered in a court of competent jurisdiction, or valid existing right or claim of valid existing right.
-
-(Pub. L. 97–468, title VI, §613, Jan. 14, 1983, 96 Stat. 2577.)
-
-References in Text
-
-The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
-
-The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, Government Organization and Employees, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 552b of Title 5 and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
-The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation.
-For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
-
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare.
-For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-Act of October 3, 1944, popularly referred to as the “Surplus Property Act of 1944”, referred to in subsec. (b), is act Oct. 3, 1944, ch. 479, 58 Stat. 765, known as the Surplus Property Act of 1944, which was classified principally to sections 1611 to 1646 of Title 50, Appendix, War and National Defense, and was repealed effective July 1, 1949, with the exception of sections 1622, 1631, 1637, and 1641 of Title 50, Appendix, by act June 30, 1949, ch. 288, title VI, §602(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583. Sections 1622 and 1641 were partially repealed by the 1949 act, and section 1622 is still set out in part in Title 50, Appendix.
-Section 1622(g) was repealed and reenacted as sections 47151 to 47153 of Title 49, Transportation, by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1278–1280, 1379. Section 1631 was repealed by act June 7, 1939, ch. 190, §6(e), as added by act July 23, 1946, ch. 590, 60 Stat. 599, and is covered by sections 98 et seq. of Title 50. Section 1637 was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff.
-Sept. 1, 1948, and is covered by section 3287 of Title 18, Crimes and Criminal Procedure.
-Provisions of section 1641 not repealed by the 1949 act were repealed by Pub. L. 87–256, §111(a)(1), Sept. 21, 1961, 75 Stat. 538, and are covered by chapter 33 (§2451 et seq.) of Title 22, Foreign Relations and Intercourse.
-
-Act of March 12, 1914, referred to in subsec. (b), is act Mar. 12, 1914, ch. 37, 38 Stat. 305, as amended, popularly known as the Alaska Railroad Act, which enacted section 353a of Title 16, Conservation, and sections 975 to 975g of Title 43, Public Lands, and which was repealed by section 615(a)(1) of Pub. L. 97–468 effective on the date of transfer of Alaska Railroad to the State [Jan. 5, 1985], pursuant to section 1203 of this title.
-
-The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
-For complete classification of this Act to the Code, see Tables.
-
-The Alaska Native Claims Settlement Act, referred to in subsecs. (b) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands.
-For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
-
-Act of January 2, 1976 (Public Law 94–204; 89 Stat. 1145), referred to in subsec. (b), amended the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.). For complete classification of this Act to the Code, see Tables.
-
-The Alaska National Interest Lands Conservation Act, referred to in subsecs. (b) and (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended.
-For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
-
-Codification
-
-In subsec. (a), “section 303 of title 49” substituted for “section 4(f) of the Department of Transportation Act (49 U.S.C. 1653(f))” on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
-
-In subsec. (b), “sections 541 to 555 of title 40” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
-
-§1213. Conflict with other laws
-
-The provisions of this chapter shall govern if there is any conflict between this chapter and any other law.
-
-(Pub. L. 97–468, title VI, §614, Jan. 14, 1983, 96 Stat. 2577.)
-
-§1214. Separability
-
-If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
-
-(Pub. L. 97–468, title VI, §616, Jan. 14, 1983, 96 Stat. 2578.)
-
-CHAPTER 22—CONRAIL PRIVATIZATION
-
-SUBCHAPTER I—GENERAL PROVISIONS
-
-Sec.
-
-1301.
-Findings.
-
-1302.
-Purposes.
-
-1303.
-Definitions.
-
-        
-
-SUBCHAPTER II—CONRAIL
-
-Part A—Sale of Conrail
-
-1311.
-Preparation for public offering.
-
-1312.
-Public offering.
-
-1313.
-Fees.
-
-        
-
-Part B—Other Matters Relating to Sale
-
-1321.
-Rail service obligations.
-
-1322.
-Ownership limitations.
-
-1323.
-Board of Directors.
-
-1324.
-Certain enforcement relief.
-
-        
-
-Part C—Miscellaneous Provisions
-
-1341.
-Abolition of United States Railway Association.
-
-1342.
-Exemption from liability.
-
-1343.
-Charter amendment.
-
-1344.
-Status of Conrail after sale.
-
-1345.
-Effect on contracts.
-
-1346.
-Resolution of certain issues.
-
-1347.
-Tax treatment of Conrail public sale.
-
-        
-
-SUBCHAPTER I—GENERAL PROVISIONS
-
-§1301. Findings
-
-The Congress finds that—
-
-(1) the bankruptcy of the Penn Central and other railroads in the Northeast and Midwest resulted in a transportation emergency which required the intervention of the Federal Government;
-
-(2) the United States Government created the Consolidated Rail Corporation, which provides essential rail service to the Northeast and Midwest;
-
-(3) the future of rail service in the Northeast and Midwest is essential and must be protected through rail service obligations, consistent with the transfer of the Corporation to the private sector;
-
-(4) the Northeast Rail Service Act of 1981 has achieved its purpose in allowing the Corporation to become financially self-sustaining;
-
-(5) the Federal Government has invested over $7,000,000,000 in providing rail service to the Northeast and Midwest;
-
-(6) the Government, as a result of its ownership and investment of taxpayer dollars in the Corporation, controls substantial assets, including cash of approximately $1,000,000,000;
-
-(7) the Corporation's viability and sound performance allow it to be sold to the American public for a substantial sum through a public offering;
-
-(8) a public offering of the Corporation's stock will preserve competitive rail service in the region, provide a reasonable return to the Government, and protect employment;
-
-(9) the Corporation's employees contributed significantly to the turnaround in the Corporation's financial performance and they should share in the Corporation's success through a settlement of their claims for reimbursement for wages below industry standard, and a share in the common equity of the Corporation;
-
-(10) the requirements of section 761(e) 1 of this title are met by this chapter; and
-
-(11) the Secretary of Transportation has discharged the responsibilities of the Department of Transportation under the Northeast Rail Service Act of 1981 with respect to the sale of the Corporation as a single entity.
-
-(Pub. L. 99–509, title IV, §4002, Oct. 21, 1986, 100 Stat. 1893.)
-
-References in Text
-
-The Northeast Rail Service Act of 1981, referred to in pars. (4) and (11), is subtitle E of title XI of Pub. L. 97–35, §§1131–1169, Aug. 13, 1981, 95 Stat. 643, as amended.
-For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
-
-Section 761 of this title, referred to in par. (10), was repealed by Pub. L. 99–509, title IV, §4033(a)(1), Oct. 21, 1986, 100 Stat. 1908.
-
-This chapter, referred to in par. (10), was in the original “this subtitle” meaning subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, known as the Conrail Privatization Act, which is classified principally to this chapter.
-For complete classification of subtitle A to the Code, see Short Title note set out below and Tables.
-
-Short Title
-
-Section 4001(a) of subtitle A (§§4001–4052) of title IV of Pub. L. 99–509 provided that: “This subtitle [enacting this chapter, amending sections 702, 726, 727, 741, 797, 821, 825, 829, 831, 1105, 1115, and 1116 of this title and sections 10362 and 10713 of Title 49, Transportation, repealing sections 761 to 769c, 797l, 825a, 1107, 1110, and 1114 of this title, and enacting provisions set out as a note under section 797 of this title] may be cited as the ‘Conrail Privatization Act’.”
-
-1 See References in Text note below.
-
-§1302. Purposes
-
-The purposes of this chapter are to transfer the interest of the United States in the common stock of the Corporation to the private sector in a manner that provides for the long-term viability of the Corporation, provides for the continuation by the Corporation of its rail service in the Northeast and Midwest, provides for the protection of the public interest in a sound rail transportation system, and, to the extent not inconsistent with such purposes, secures the maximum proceeds to the United States.
-
-(Pub. L. 99–509, title IV, §4003, Oct. 21, 1986, 100 Stat. 1893.)
-
-§1303. Definitions
-
-For the purposes of this chapter—
-
-(1) the term “capital expenditures” means amounts expended by the Corporation and its subsidiaries for replacement or rehabilitation of, or enhancements to, the railroad plant, property, trackage, and equipment of the Corporation and its subsidiaries, as determined in accordance with generally accepted accounting principles, and in interpreting generally accepted accounting principles, no amount spent on normal repair, maintenance, and upkeep of such railroad plant, property, trackage, and equipment in the ordinary course of business shall constitute capital expenditures;
-
-(2) the term “Commission” means the Interstate Commerce Commission;
-
-(3) the term “consolidated funded debt” means the aggregate, after eliminating intercompany items, of all funded debt of the Corporation and its consolidated subsidiaries, consolidated in accordance with generally accepted accounting principles;
-
-(4) the term “consolidated tangible net worth” means the market value of the common equity of the Corporation as of the sale date, plus or minus the change from the sale date to the date of measurement in the excess, after making appropriate deductions for any minority interest in the net worth of subsidiaries, of—
-
-(A) the assets of the Corporation and its subsidiaries (excluding intercompany items) which, in accordance with generally accepted accounting principles, are tangible assets, after deducting adequate reserves in each case where, in accordance with generally accepted accounting principles, a reserve is proper, over
-
-(B) all liabilities of the Corporation and its subsidiaries (excluding intercompany items),
-
-taking into account inventory and securities on the basis of the cost or current market value, whichever is lower, and not taking into account patents, trademarks, trade names, copyrights, licenses, goodwill, treasury stock, or any write-up in the book value of any assets;
-
-(5) the term “Corporation” means the Consolidated Rail Corporation;
-
-(6) the term “cumulative net income” means, for any period, the net income of the Corporation and its consolidated subsidiaries as determined in accordance with generally accepted accounting principles, before provision for expenses (net of income tax effect) related to—
-
-(A) amounts paid by the Corporation under section 4024(e), and comparable payments made to present and former employees of the Corporation not covered by such section; and
-
-(B) the aggregate value of any shares and cash distributed by the Corporation under section 4024(f);
-
-(7) the term “debt” means (A) indebtedness, whether or not represented by bonds, debentures, notes, or other securities, for the repayment of money borrowed, (B) deferred indebtedness for the payment of the purchase price of property or assets purchased, (C) guarantees, endorsements, assumptions, and other contingent obligations in respect of, or to purchase or to otherwise acquire, indebtedness of others, and (D) indebtedness secured by any mortgage, pledge, or lien existing on property owned, subject to such mortgage, pledge, or lien, whether or not indebtedness secured thereby shall have been assumed;
-
-(8) the term “funded debt” means all debt created, assumed, or guaranteed, directly or indirectly, by the Corporation and its subsidiaries which matures by its terms, or is renewable at the option of the Corporation or any such subsidiary to a date, more than 1 year after the date of the original creation, assumption, or guarantee of such debt by the Corporation or such subsidiary;
-
-(9) the term “liabilities” means all items of indebtedness or liability which, in accordance with generally accepted accounting principles, would be included in determining total liabilities as shown on the liabilities side of a balance sheet as at the date as of which liabilities are to be determined;
-
-(10) the term “person” means an individual, corporation, partnership, association, trust, or other entity or organization, including a government or political subdivision thereof or a governmental body;
-
-(11) the term “preferred stock” means any class or series of preferred stock, and any class or series of common stock having liquidation and dividend rights and preferences superior to the common stock of the Corporation offered for sale under section 1312 of this title;
-
-(12) the term “public offering” means an underwritten offering to the public of such common stock of the Corporation as the Secretary of Transportation determines to sell under section 1312 of this title;
-
-(13) the term “sale date” means the date on which the initial public offering is closed;
-
-(14) the term “subsidiary” means any corporation more than 50 percent of whose outstanding voting securities are directly or indirectly owned by the Corporation; and
-
-(15) the term “United States share” means a share of common stock of the Corporation held by the United States Government on October 21, 1986, or as a result of any split required pursuant to section 1312(d) of this title.
-
-(Pub. L. 99–509, title IV, §4004, Oct. 21, 1986, 100 Stat. 1894.)
-
-References in Text
-
-Section 4024(e) and section 4024(f), referred to in par. (6), are section 4024(e) and (f) of Pub. L. 99–509, and are set out as a note under section 797 of this title.
-
-Abolition of Interstate Commerce Commission and Transfer of Functions
-
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-SUBCHAPTER II—CONRAIL
-
-Part A—Sale of Conrail
-
-§1311. Preparation for public offering
-
-(a) Public offering managers
-
-(1) Not later than 30 days after October 21, 1986, the Secretary of Transportation, in consultation with the Secretary of the Treasury and the Chairman of the Board of Directors of the Corporation, shall retain the services of investment banking firms to serve jointly and be compensated equally as co-lead managers of the public offering (hereafter in this part referred to as the “co-lead managers”) and to establish a syndicate to underwrite the public offering.
-The total number of co-lead managers shall be no fewer than 4 nor greater than 6. The Secretary shall designate one co-lead manager to coordinate and administer the public offering.
-
-(2) In selecting the investment banking firms to serve as co-lead managers of the public offering under paragraph (1), consideration shall be given to the firm's institutional and retail distribution capabilities, financial strength, knowledge of the railroad industry, experience in large scale public offerings, research capability, and reputation.
-In addition, recognition shall also be given to contributions made by particular investment banking firms before October 21, 1986, in demonstrating and promoting the long-term financial viability of the Corporation.
-
-(b) Payment to United States
-
-(1) Not later than 30 days after October 21, 1986, the Corporation shall transfer to the Secretary of the Treasury $200,000,000.
-
-(2) On or before February 1, 1987, or 30 days before the sale date, whichever occurs first, the Secretary of Transportation shall determine whether to require the Corporation to transfer to the Secretary of the Treasury, in addition to amounts transferred under paragraph (1), not to exceed $100,000,000, taking into account the viability of the Corporation.
-The Corporation shall transfer such funds as are required to be transferred under this paragraph.
-
-(c) Registration statement
-
-The Corporation shall prepare and cause to be filed with the Securities and Exchange Commission a registration statement with respect to the securities to be offered and sold in accordance with the securities laws and the rules and regulations thereunder in connection with the initial and any subsequent public offering.
-
-(d) Omitted
-
-(Pub. L. 99–509, title IV, §4011, Oct. 21, 1986, 100 Stat. 1895.)
-
-References in Text
-
-This part, referred to in subsec. (a), was in the original “this subpart” meaning subpart A (§§4011–4013) of part 2 of subtitle A of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1895, which enacted this part and amended section 726 of this title.
-For complete classification of subpart A to the Code, see Tables.
-
-Codification
-
-Subsec. (d) of this section amended section 726 of this title.
-
-§1312. Public offering
-
-(a) Structure of public offering
-
-(1) After the registration statement referred to in section 1311(c) of this title is declared effective by the Securities and Exchange Commission, the Secretary of Transportation, in consultation with the Secretary of the Treasury, the Chairman of the Board of Directors of the Corporation, and the co-lead managers, shall offer the United States shares for sale in a public offering, except as provided in paragraphs (2) and (3).
-
-(2) The Secretary of Transportation, after such consultation, may elect to offer less than all of the United States shares for sale at the time of the initial sale.
-
-(3) Under no circumstances shall the Secretary of Transportation offer any of the United States shares for sale unless, before the sale date, the Secretary determines, after such consultation, that the estimated sum of the gross proceeds from the sale of all the United States shares will be an adequate amount.
-A determination by the Secretary under this paragraph shall not be reviewable.
-
-(4) In making a determination under paragraph (3), the Secretary shall have the goal of obtaining at least $2,000,000,000 in aggregate gross proceeds for the United States from the public offering and any payments made under section 1311(b) of this title.
-
-(b) Subsequent sales
-
-If the Secretary of Transportation elects to offer for sale less than all the United States shares, the Secretary shall sell the remaining United States shares in subsequent public offerings.
-
-(c) Consent of Corporation not required
-
-Any public offering under this section may be made without the consent of the Corporation.
-
-(d) Authority to require stock splits
-
-(1) The Secretary of Transportation, in consultation with the co-lead managers and the Chairman of the Board of Directors of the Corporation, may, in connection with the initial public offering described in subsection (a) of this section, before the filing of the registration statement referred to in section 1311(c) of this title, require the Corporation to declare a stock split or reverse stock split.
-
-(2) The Corporation shall take such action as may be necessary to comply with the Secretary's requirements under this subsection.
-
-(e) Cancellation of other securities held by United States
-
-(1) In consideration for amounts transferred to the United States under section 1311(b) of this title, the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a) of this section, deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation.
-The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
-
-(2) For purposes of regulation by the Commission and State public utility regulation, the actions authorized by this subsection, the public offering, and the value of the consideration received therefor shall not change the value of the Corporation's assets net of depreciation and shall not be used to alter the calculation of the Corporation's stock or asset values, rate base, expenses, costs, returns, profits, or revenues, or otherwise affect or be the basis for a change in the regulation of any railroad service, rate, or practice provided or established by the Corporation, or any change in the financial reporting practice of the Corporation.
-
-(f) Minority investment banking firms
-
-The Secretary of Transportation shall ensure that minority owned or controlled investment banking firms shall have an opportunity to participate to a significant degree in any public offering under this subchapter.
-
-(g) Investment banking firm requirements
-
-(1) The level of any investment banking firm's participation in the public offering shall be consistent with that firm's financial capabilities.
-
-(2) No investment banking firm which was not in existence on September 1, 1986, shall participate in the public offering.
-
-(h) Government Accountability Office authority to conduct audits
-
-The Government Accountability Office may make such audits as may be deemed appropriate by the Comptroller General of the United States of all accounts, books, records, memoranda, correspondence, and other documents and transactions of the Corporation and the co-lead managers associated with the public offering.
-The co-lead managers shall agree, in writing, to allow the Government Accountability Office to make such audits.
-The Government Accountability Office shall report the results of all such audits to the Congress.
-
-(Pub. L. 99–509, title IV, §4012, Oct. 21, 1986, 100 Stat. 1896; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
-
-References in Text
-
-This subchapter, referred to in subsec. (f), was in the original “this part” meaning part 2 (§§4011–4038) of subtitle A of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1895, which enacted this subchapter, amended sections 702, 726, 727, 741, 797, 821, 825, 829, 831, 1105, 1115, and 1116 of this title and section 10362 of Title 49, Transportation, repealed sections 761 to 769c, 797l, 825a, 1107, 1110, and 1114 of this title, and enacted provisions set out as a note under section 797 of this title.
-For complete classification of part 2 to the Code, see Tables.
 
 Abolition of Interstate Commerce Commission and Transfer of Functions
 
