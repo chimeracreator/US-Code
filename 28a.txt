@@ -22,7 +22,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 
 FEDERAL RULES OF APPELLATE PROCEDURE
 
-(As amended to January 2, 2001)
+(As amended to January 22, 2002)
 
 Historical Note
 
@@ -2929,7 +2929,7 @@ Dec. 1, 1989.)
 
 FEDERAL RULES OF CIVIL PROCEDURE
 
-(As amended to January 2, 2001)
+(As amended to January 22, 2002)
 
 Historical Note
 
@@ -2960,7 +2960,8 @@ Dec. 1, 1996; Apr. 11, 1997, eff.
 Dec. 1, 1997; Apr. 24, 1998, eff.
 Dec. 1, 1998; Apr. 26, 1999, eff.
 Dec. 1, 1999; Apr. 17, 2000, eff.
-Dec. 1, 2000.
+Dec. 1, 2000; Apr. 23, 2001, eff.
+Dec. 1, 2001.
 
 Rules of the Supreme Court of the United States
 
@@ -3044,7 +3045,7 @@ Serving and Filing Pleadings and Other Papers.
 Service: When Required.
 
 (b)
-Same: How Made.
+Making Service.
 
 (c)
 Same: Numerous Defendants.
@@ -3071,7 +3072,7 @@ Rescinded.]
 For Motions—Affidavits.
 
 (e)
-Additional Time After Service by Mail.
+Additional Time After Service Under Rule 5(b)(2)(B), (C), or (D).
 
         
 
@@ -4130,6 +4131,10 @@ Form and Scope of Injunction or Restraining Order.
 
 Employer and Employee; Interpleader; Constitutional Cases.
 
+(f)
+
+Copyright Impoundment.
+
 65.1
 Security: Proceedings Against Sureties.
 
@@ -4344,7 +4349,7 @@ XI. GENERAL PROVISIONS
 Applicability in General.
 
 (a)
-To What Proceedings Applicable.
+Proceedings to Which the Rules Apply.
 
 (b)
 Scire Facias and Mandamus.
@@ -5484,11 +5489,30 @@ No service need be made on parties in default for failure to appear except that 
 
 In an action begun by seizure of property, in which no person need be or is named as defendant, any service required to be made prior to the filing of an answer, claim, or appearance shall be made upon the person having custody or possession of the property at the time of its seizure.
 
-(b) Same: How Made.
-Whenever under these rules service is required or permitted to be made upon a party represented by an attorney the service shall be made upon the attorney unless service upon the party is ordered by the court.
-Service upon the attorney or upon a party shall be made by delivering a copy to the attorney or party or by mailing it to the attorney or party at the attorney's or party's last known address or, if no address is known, by leaving it with the clerk of the court.
-Delivery of a copy within this rule means: handing it to the attorney or to the party; or leaving it at the attorney's or party's office with a clerk or other person in charge thereof; or, if there is no one in charge, leaving it in a conspicuous place therein; or, if the office is closed or the person to be served has no office, leaving it at the person's dwelling house or usual place of abode with some person of suitable age and discretion then residing therein.
-Service by mail is complete upon mailing.
+(b) Making Service.
+
+(1) Service under Rules 5(a) and 77(d) on a party represented by an attorney is made on the attorney unless the court orders service on the party.
+
+(2) Service under Rule 5(a) is made by:
+
+(A) Delivering a copy to the person served by:
+
+(i) handing it to the person;
+
+(ii) leaving it at the person's office with a clerk or other person in charge, or if no one is in charge leaving it in a conspicuous place in the office; or
+
+(iii) if the person has no office or the office is closed, leaving it at the person's dwelling house or usual place of abode with someone of suitable age and discretion residing there.
+
+(B) Mailing a copy to the last known address of the person served.
+Service by mail is complete on mailing.
+
+(C) If the person served has no known address, leaving a copy with the clerk of the court.
+
+(D) Delivering a copy by any other means, including electronic means, consented to in writing by the person served.
+Service by electronic means is complete on transmission; service by other consented means is complete when the person making service delivers the copy to the agency designated to make delivery.
+If authorized by local rule, a party may make service under this subparagraph (D) through the court's transmission facilities.
+
+(3) Service by electronic means under Rule 5(b)(2)(D) is not effective if the party making service learns that the attempted service did not reach the person to be served.
 
 (c) Same: Numerous Defendants.
 In any action in which there are unusually large numbers of defendants, the court, upon motion or of its own initiative, may order that service of the pleadings of the defendants and replies thereto need not be made as between the defendants and that any cross-claim, counterclaim, or matter constituting an avoidance or affirmative defense contained therein shall be deemed to be denied or avoided by all other parties and that the filing of any such pleading and service thereof upon the plaintiff constitutes due notice of it to the parties.
@@ -5511,13 +5535,27 @@ Aug. 1, 1987; Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 23, 1996, eff.
 Dec. 1, 1996; Apr. 17, 2000, eff.
-Dec. 1, 2000.)
+Dec. 1, 2000; Apr. 23, 2001, eff.
+Dec. 1, 2001.)
 
 Notes of Advisory Committee on Rules—1937
 
 Note to Subdivisions (a) and (b). Compare 2 Minn.Stat. (Mason, 1927) §§9240, 9241, 9242; N.Y.C.P.A. (1937) §§163, 164, and N.Y.R.C.P. (1937) Rules 20, 21; 2 Wash.Rev.Stat.Ann. (Remington, 1932) §§244–249.
 
 Note to Subdivision (d). Compare the present practice under [former] Equity Rule 12 (Issue of Subpoena—Time for Answer).
+
+Rule 6(e)
+
+The Advisory Committee recommended that no change be made in Civil Rule 6(e) to reflect the provisions of Civil Rule 5(b)(2)(D) that, with the consent of the person to be served, would allow service by electronic or other means.
+Absent change, service by these means would not affect the time for acting in response to the paper served.
+Comment was requested, however, on the alternative that would allow an additional 3 days to respond.
+The alternative Rule 6(e) amendments are cast in a form that permits ready incorporation in the Bankruptcy Rules.
+Several of the comments suggest that the added three days should be provided.
+Electronic transmission is not always instantaneous, and may fail for any of a number of reasons.
+It may take three days to arrange for transmission in readable form.
+Providing added time to respond will not discourage people from asking for consent to electronic transmission, and may encourage people to give consent.
+The more who consent, the quicker will come the improvements that will make electronic service ever more attractive.
+Consistency with the Bankruptcy Rules will be a good thing, and the Bankruptcy Rules Advisory Committee believes the additional three days should be allowed.
 
 Rule 6. Time
 
@@ -5538,8 +5576,7 @@ A written motion, other than one which may be heard ex parte, and notice of the 
 Such an order may for cause shown be made on ex parte application.
 When a motion is supported by affidavit, the affidavit shall be served with the motion; and, except as otherwise provided in Rule 59(c), opposing affidavits may be served not later than 1 day before the hearing, unless the court permits them to be served at some other time.
 
-(e) Additional Time After Service by Mail.
-Whenever a party has the right or is required to do some act or take some proceedings within a prescribed period after the service of a notice or other paper upon the party and the notice or paper is served upon the party by mail, 3 days shall be added to the prescribed period.
+(e) Additional Time After Service Under Rule 5(b)(2)(B), (C), or (D). Whenever a party has the right or is required to do some act or take some proceedings within a prescribed period after the service of a notice or other paper upon the party and the notice or paper is served upon the party under Rule 5(b)(2)(B), (C), or (D), 3 days shall be added to the prescribed period.
 
 (As amended Dec. 27, 1946, eff.
 Mar. 19, 1948; Jan. 21, 1963, eff.
@@ -5550,7 +5587,8 @@ July 1, 1971; Apr. 28, 1983, eff.
 Aug. 1, 1983; Apr. 29, 1985, eff.
 Aug. 1, 1985; Mar. 2, 1987, eff.
 Aug. 1, 1987; Apr. 26, 1999, eff.
-Dec. 1, 1999.)
+Dec. 1, 1999; Apr. 23, 2001, eff.
+Dec. 1, 2001.)
 
 Notes of Advisory Committee on Rules—1937
 
@@ -7110,50 +7148,6 @@ Note to Subdivisions (d), (e), and (f). The restrictions here placed upon the us
 Compare English Rules Under the Judicature Act (The Annual Practice, 1937) O. 37, r. 18 (with additional provision permitting use of deposition by consent of the parties). See also [former] Equity Rule 64 (Former Depositions, Etc., May be Used Before Master); and 2 Minn.
 Stat. (Mason, 1927) §9835 (Use in a subsequent action of a deposition filed in a previously dismissed action between the same parties and involving the same subject matter).
 
-Rule 27. Depositions Before Action or Pending Appeal
-
-(a) Before Action.
-
-(1) Petition.
-A person who desires to perpetuate testimony regarding any matter that may be cognizable in any court of the United States may file a verified petition in the United States district court in the district of the residence of any expected adverse party.
-The petition shall be entitled in the name of the petitioner and shall show: 1, that the petitioner expects to be a party to an action cognizable in a court of the United States but is presently unable to bring it or cause it to be brought, 2, the subject matter of the expected action and the petitioner's interest therein, 3, the facts which the petitioner desires to establish by the proposed testimony and the reasons for desiring to perpetuate it, 4, the names or a description of the persons the petitioner expects will be adverse parties and their addresses so far as known, and 5, the names and addresses of the persons to be examined and the substance of the testimony which the petitioner expects to elicit from each, and shall ask for an order authorizing the petitioner to take the depositions of the persons to be examined named in the petition, for the purpose of perpetuating their testimony.
-
-(2) Notice and Service.
-The petitioner shall thereafter serve a notice upon each person named in the petition as an expected adverse party, together with a copy of the petition, stating that the petitioner will apply to the court, at a time and place named therein, for the order described in the petition.
-At least 20 days before the date of hearing the notice shall be served either within or without the district or state in the manner provided in Rule 4(d) for service of summons; but if such service cannot with due diligence be made upon any expected adverse party named in the petition, the court may make such order as is just for service by publication or otherwise, and shall appoint, for persons not served in the manner provided in Rule 4(d), an attorney who shall represent them, and, in case they are not otherwise represented, shall cross-examine the deponent.
-If any expected adverse party is a minor or incompetent the provisions of Rule 17(c) apply.
-
-(3) Order and Examination.
-If the court is satisfied that the perpetuation of the testimony may prevent a failure or delay of justice, it shall make an order designating or describing the persons whose depositions may be taken and specifying the subject matter of the examination and whether the depositions shall be taken upon oral examination or written interrogatories.
-The depositions may then be taken in accordance with these rules; and the court may make orders of the character provided for by Rules 34 and 35. For the purpose of applying these rules to depositions for perpetuating testimony, each reference therein to the court in which the action is pending shall be deemed to refer to the court in which the petition for such deposition was filed.
-
-(4) Use of Deposition.
-If a deposition to perpetuate testimony is taken under these rules or if, although not so taken, it would be admissible in evidence in the courts of the state in which it is taken, it may be used in any action involving the same subject matter subsequently brought in a United States district court, in accordance with the provisions of Rule 32(a).
-
-(b) Pending Appeal.
-If an appeal has been taken from a judgment of a district court or before the taking of an appeal if the time therefor has not expired, the district court in which the judgment was rendered may allow the taking of the depositions of witnesses to perpetuate their testimony for use in the event of further proceedings in the district court.
-In such case the party who desires to perpetuate the testimony may make a motion in the district court for leave to take the depositions, upon the same notice and service thereof as if the action was pending in the district court.
-The motion shall show (1) the names and addresses of persons to be examined and the substance of the testimony which the party expects to elicit from each; (2) the reasons for perpetuating their testimony.
-If the court finds that the perpetuation of the testimony is proper to avoid a failure or delay of justice, it may make an order allowing the depositions to be taken and may make orders of the character provided for by Rules 34 and 35, and thereupon the depositions may be taken and used in the same manner and under the same conditions as are prescribed in these rules for depositions taken in actions pending in the district court.
-
-(c) Perpetuation by Action.
-This rule does not limit the power of a court to entertain an action to perpetuate testimony.
-
-(As amended Dec. 27, 1946, eff.
-Mar. 19, 1948; Dec. 29, 1948, eff.
-Oct. 20, 1949; Mar. 1, 1971, eff.
-July 1, 1971; Mar. 2, 1987, eff.
-Aug. 1, 1987.)
-
-Notes of Advisory Committee on Rules—1937
-
-Note to Subdivision (a). This rule offers a simple method of perpetuating testimony in cases where it is usually allowed under equity practice or under modern statutes.
-See Arizona v. California, 292 U.S. 341 (1934); Todd Engineering Dry Dock and Repair Co. v. United States, 32 F.(2d) 734 (C.C.A.5th, 1929); Hall v. Stout, 4 Del. ch. 269 (1871). For comparable state statutes see Ark.Civ.Code (Crawford, 1934) §§666–670; Calif.Code Civ.Proc. (Deering, 1937) 2083–2089; Ill.Rev.Stat. (1937) ch. 51, §§39–46; Iowa Code (1935) §§11400–11407; 2 Mass.Gen.Laws (Ter.Ed., 1932) ch. 233, §46–63; N.Y.C.P.A. (1937) §295; Ohio Gen.Code Ann. ((Throckmorton, 1936) §12216–12222; Va.Code Ann. (Michie, 1936) §6235; Wisc.Stat. (1935) §§326.27–326.29. The appointment of an attorney to represent absent parties or parties not personally notified, or a guardian ad litem to represent minors and incompetents, is provided for in several of the above statutes.
-
-Note to Subdivision (b). This follows the practice approved in Richter v. Union Trust Co., 115 U.S. 55 (1885), by extending the right to perpetuate testimony to cases pending an appeal.
-
-Note to Subdivision (c). This preserves the right to employ a separate action to perpetuate testimony under U.S.C., Title 28, [former] §644 (Depositions under dedimus potestatem and in perpetuam) as an alternate method.
-
 Rule 28. Persons Before Whom Depositions May Be Taken
 
 (a) Within the United States.
@@ -7182,6 +7176,14 @@ Dec. 1, 1993.)
 Notes of Advisory Committee on Rules—1937
 
 In effect this rule is substantially the same as U.S.C., Title 28, [former] §639 (Depositions de bene esse; when and where taken; notice). U.S.C., Title 28, [former] §642 (Depositions, acknowledgements, and affidavits taken by notaries public) does not conflict with subdivision (a).
+
+Rule 29. Stipulations Regarding Discovery Procedure
+
+Unless otherwise directed by the court, the parties may by written stipulation (1) provide that depositions may be taken before any person, at any time or place, upon any notice, and in any manner and when so taken may be used like other depositions, and (2) modify other procedures governing or limitations placed upon discovery, except that stipulations extending the time provided in Rules 33, 34, and 36 for responses to discovery may, if they would interfere with any time set for completion of discovery, for hearing of a motion, or for trial, be made only with the approval of the court.
+
+(As amended Mar. 30, 1970, eff.
+July 1, 1970; Apr. 22, 1993, eff.
+Dec. 1, 1993.)
 
 Rule 30. Depositions Upon Oral Examination
 
@@ -7404,6 +7406,45 @@ References in Text
 
 The Federal Rules of Evidence, referred to in subd. (a)(1), (4), are set out in this Appendix.
 
+Rule 33. Interrogatories to Parties
+
+(a) Availability.
+Without leave of court or written stipulation, any party may serve upon any other party written interrogatories, not exceeding 25 in number including all discrete subparts, to be answered by the party served or, if the party served is a public or private corporation or a partnership or association or governmental agency, by any officer or agent, who shall furnish such information as is available to the party.
+Leave to serve additional interrogatories shall be granted to the extent consistent with the principles of Rule 26(b)(2). Without leave of court or written stipulation, interrogatories may not be served before the time specified in Rule 26(d).
+
+(b) Answers and Objections.
+
+(1) Each interrogatory shall be answered separately and fully in writing under oath, unless it is objected to, in which event the objecting party shall state the reasons for objection and shall answer to the extent the interrogatory is not objectionable.
+
+(2) The answers are to be signed by the person making them, and the objections signed by the attorney making them.
+
+(3) The party upon whom the interrogatories have been served shall serve a copy of the answers, and objections if any, within 30 days after the service of the interrogatories.
+A shorter or longer time may be directed by the court or, in the absence of such an order, agreed to in writing by the parties subject to Rule 29.
+
+(4) All grounds for an objection to an interrogatory shall be stated with specificity.
+Any ground not stated in a timely objection is waived unless the party's failure to object is excused by the court for good cause shown.
+
+(5) The party submitting the interrogatories may move for an order under Rule 37(a) with respect to any objection to or other failure to answer an interrogatory.
+
+(c) Scope; Use at Trial.
+Interrogatories may relate to any matters which can be inquired into under Rule 26(b)(1), and the answers may be used to the extent permitted by the rules of evidence.
+
+An interrogatory otherwise proper is not necessarily objectionable merely because an answer to the interrogatory involves an opinion or contention that relates to fact or the application of law to fact, but the court may order that such an interrogatory need not be answered until after designated discovery has been completed or until a pre-trial conference or other later time.
+
+(d) Option to Produce Business Records.
+Where the answer to an interrogatory may be derived or ascertained from the business records of the party upon whom the interrogatory has been served or from an examination, audit or inspection of such business records, including a compilation, abstract or summary thereof, and the burden of deriving or ascertaining the answer is substantially the same for the party serving the interrogatory as for the party served, it is a sufficient answer to such interrogatory to specify the records from which the answer may be derived or ascertained and to afford to the party serving the interrogatory reasonable opportunity to examine, audit or inspect such records and to make copies, compilations, abstracts or summaries.
+A specification shall be in sufficient detail to permit the interrogating party to locate and to identify, as readily as can the party served, the records from which the answer may be ascertained.
+
+(As amended Dec. 27, 1946, eff.
+Mar. 19, 1948; Mar. 30, 1970, eff.
+July 1, 1970; Apr. 29, 1980, eff.
+Aug. 1, 1980; Apr. 22, 1993, eff.
+Dec. 1, 1993.)
+
+Notes of Advisory Committee on Rules—1937
+
+This rule restates the substance of [former] Equity Rule 58 (Discovery—Interrogatories—Inspection and Production of Documents—Admission of Execution or Genuineness), with modifications to conform to these rules.
+
 Rule 34. Production of Documents and Things and Entry Upon Land for Inspection and Other Purposes
 
 (a) Scope.
@@ -7441,40 +7482,6 @@ Practically all states have statutes authorizing the court to order parties in p
 See Ragland, Discovery Before Trial (1932), Appendix, p. 267, setting out the statutes.
 
 Compare [former] Equity Rule 58 (Discovery—Interrogatories—Inspection and Production of Documents—Admission of Execution or Genuineness) (fifth paragraph).
-
-Rule 35. Physical and Mental Examinations of Persons
-
-(a) Order for Examination.
-When the mental or physical condition (including the blood group) of a party or of a person in the custody or under the legal control of a party, is in controversy, the court in which the action is pending may order the party to submit to a physical or mental examination by a suitably licensed or certified examiner or to produce for examination the person in the party's custody or legal control.
-The order may be made only on motion for good cause shown and upon notice to the person to be examined and to all parties and shall specify the time, place, manner, conditions, and scope of the examination and the person or persons by whom it is to be made.
-
-(b) Report of Examiner.
-
-(1) If requested by the party against whom an order is made under Rule 35(a) or the person examined, the party causing the examination to be made shall deliver to the requesting party a copy of the detailed written report of the examiner setting out the examiner's findings, including results of all tests made, diagnoses and conclusions, together with like reports of all earlier examinations of the same condition.
-After delivery the party causing the examination shall be entitled upon request to receive from the party against whom the order is made a like report of any examination, previously or thereafter made, of the same condition, unless, in the case of a report of examination of a person not a party, the party shows that the party is unable to obtain it.
-The court on motion may make an order against a party requiring delivery of a report on such terms as are just, and if an examiner fails or refuses to make a report the court may exclude the examiner's testimony if offered at trial.
-
-(2) By requesting and obtaining a report of the examination so ordered or by taking the deposition of the examiner, the party examined waives any privilege the party may have in that action or any other involving the same controversy, regarding the testimony of every other person who has examined or may thereafter examine the party in respect of the same mental or physical condition.
-
-(3) This subdivision applies to examinations made by agreement of the parties, unless the agreement expressly provides otherwise.
-This subdivision does not preclude discovery of a report of an examiner or the taking of a deposition of the examiner in accordance with the provisions of any other rule.
-
-(As amended Mar. 30, 1970, eff.
-July 1, 1970; Mar. 2, 1987, eff.
-Aug. 1, 1987; Pub. L. 100–690, title VII, §7047(b), Nov. 18, 1988, 102 Stat. 4401; Apr. 30, 1991, eff.
-Dec. 1, 1991.)
-
-Notes of Advisory Committee on Rules—1937
-
-Physical examination of parties before trial is authorized by statute or rule in a number of states.
-See Ariz.Rev.Code Ann. (Struckmeyer, 1928) §4468; Mich.Court Rules Ann. (Searl, 1933) Rule 41, §2; 2 N.J.Comp.Stat. (1910), N.Y.C.P.A. (1937) §306; 1 S.D.Comp.Laws (1929) §2716A; 3 Wash.Rev.Stat.Ann. (Remington, 1932) §1230–1.
-
-Mental examination of parties is authorized in Iowa.
-Iowa Code (1935) ch. 491–F1. See McCash, The Evolution of the Doctrine of Discovery and Its Present Status in Iowa, 20 Ia.L.Rev. 68 (1934).
-
-The constitutionality of legislation providing for physical examination of parties was sustained in Lyon v. Manhattan Railway Co., 142 N.Y. 298, 37 N.E. 113 (1894), and McGovern v. Hope, 63 N.J.L. 76, 42 Atl. 830 (1899). In Union Pacific Ry. Co. v. Botsford, 141 U.S. 250 (1891), it was held that the court could not order the physical examination of a party in the absence of statutory authority.
-But in Camden and Suburban Ry. Co. v. Stetson, 177 U.S. 172 (1900) where there was statutory authority for such examination, derived from a state statute made operative by the conformity act, the practice was sustained.
-Such authority is now found in the present rule made operative by the Act of June 19, 1934, ch. 651, U.S.C., Title 28, §§723b [see 2072] (Rules in actions at law; Supreme Court authorized to make) and 723c [see 2072] (Union of equity and action at law rules; power of Supreme Court).
 
 Rule 36. Requests for Admission
 
@@ -9061,11 +9068,15 @@ Every order granting an injunction and every restraining order shall set forth t
 (e) Employer and Employee; Interpleader; Constitutional Cases.
 These rules do not modify any statute of the United States relating to temporary restraining orders and preliminary injunctions in actions affecting employer and employee; or the provisions of Title 28, U.S.C., §2361, relating to preliminary injunctions in actions of interpleader or in the nature of interpleader; or Title 28, U.S.C., §2284, relating to actions required by Act of Congress to be heard and determined by a district court of three judges.
 
+(f) Copyright Impoundment.
+This rule applies to copyright impoundment proceedings.
+
 (As amended Dec. 27, 1946, eff.
 Mar. 19, 1948; Dec. 29, 1948, eff.
 Oct. 20, 1949; Feb. 28, 1966, eff.
 July 1, 1966; Mar. 2, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 23, 2001, eff.
+Dec. 1, 2001.)
 
 Notes of Advisory Committee on Rules—1937
 
@@ -9116,6 +9127,20 @@ U.S.C., Title 15:
  §26 (Injunctive relief for private parties; exceptions)
 
  §77t(b) (Injunctions and prosecution of offenses)
+
+Rule 65.1. Security: Proceedings Against Sureties
+
+Whenever these rules, including the Supplemental Rules for Certain Admiralty and Maritime Claims, require or permit the giving of security by a party, and security is given in the form of a bond or stipulation or other undertaking with one or more sureties, each surety submits to the jurisdiction of the court and irrevocably appoints the clerk of the court as the surety's agent upon whom any papers affecting the surety's liability on the bond or undertaking may be served.
+The surety's liability may be enforced on motion without the necessity of an independent action.
+The motion and such notice of the motion as the court prescribes may be served on the clerk of the court, who shall forthwith mail copies to the sureties if their addresses are known.
+
+(As added Feb. 28, 1966, eff.
+July 1, 1966; amended Mar. 2, 1987, eff.
+Aug. 1, 1987.)
+
+Notes of Advisory Committee on Rules—1966
+
+See Note to Rule 65.
 
 Rule 66. Receivers Appointed by Federal Courts
 
@@ -10012,9 +10037,6 @@ Special appellate rules to govern appeals from a magistrate to a district judge 
 [Rule 74. Method of Appeal From Magistrate Judge to District Judge Under Title 28, U.S.C. §636(c)(4) and Rule 73(d)] (Abrogated Apr. 11, 1997, eff.
 Dec. 1, 1997)
 
-[Rule 75. Proceedings on Appeal From Magistrate Judge to District Judge Under Rule 73(d)] (Abrogated Apr. 11, 1997, eff.
-Dec. 1, 1997)
-
 [Rule 76. Judgment of the District Judge on the Appeal Under Rule 73(d) and Costs] (Abrogated Apr. 11, 1997, eff.
 Dec. 1, 1997)
 
@@ -10034,8 +10056,8 @@ The clerk's office with the clerk or a deputy in attendance shall be open during
 All motions and applications in the clerk's office for issuing mesne process, for issuing final process to enforce and execute judgments, for entering defaults or judgments by default, and for other proceedings which do not require allowance or order of the court are grantable of course by the clerk; but the clerk's action may be suspended or altered or rescinded by the court upon cause shown.
 
 (d) Notice of Orders or Judgments.
-Immediately upon the entry of an order or judgment the clerk shall serve a notice of the entry by mail in the manner provided for in Rule 5 upon each party who is not in default for failure to appear, and shall make a note in the docket of the mailing.
-Any party may in addition serve a notice of such entry in the manner provided in Rule 5 for the service of papers.
+Immediately upon the entry of an order or judgment the clerk shall serve a notice of the entry in the manner provided for in Rule 5(b) upon each party who is not in default for failure to appear, and shall make a note in the docket of the service.
+Any party may in addition serve a notice of such entry in the manner provided in Rule 5(b) for the service of papers.
 Lack of notice of the entry by the clerk does not affect the time to appeal or relieve or authorize the court to relieve a party for failure to appeal within the time allowed, except as permitted in Rule 4(a) of the Federal Rules of Appellate Procedure.
 
 (As amended Dec. 27, 1946, eff.
@@ -10044,7 +10066,8 @@ July 1, 1963; Dec. 4, 1967, eff.
 July 1, 1968; Mar. 1, 1971, eff.
 July 1, 1971; Mar. 2, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
-Dec. 1, 1991.)
+Dec. 1, 1991; Apr. 23, 2001, eff.
+Dec. 1, 2001.)
 
 Notes of Advisory Committee on Rules—1937
 
@@ -10142,176 +10165,6 @@ See amendment note of Advisory Committee below.]
 
 Note to Subdivision (c). Compare Iowa Code (1935) §11353.
 
-XI. GENERAL PROVISIONS
-
-Rule 81. Applicability in General
-
-(a) To What Proceedings Applicable.
-
-(1) These rules do not apply to prize proceedings in admiralty governed by Title 10, U.S.C., §§7651–7681. They do not apply to proceedings in bankruptcy or proceedings in copyright under Title 17, U.S.C., except in so far as they may be made applicable thereto by rules promulgated by the Supreme Court of the United States.
-They do not apply to mental health proceedings in the United States District Court for the District of Columbia.
-
-(2) These rules are applicable to proceedings for admission to citizenship, habeas corpus, and quo warranto, to the extent that the practice in such proceedings is not set forth in statutes of the United States and has heretofore conformed to the practice in civil actions.
-The writ of habeas corpus, or order to show cause, shall be directed to the person having custody of the person detained.
-It shall be returned within 3 days unless for good cause shown additional time is allowed which in cases brought under 28 U.S.C. §2254 shall not exceed 40 days, and in all other cases shall not exceed 20 days.
-
-(3) In proceedings under Title 9, U.S.C., relating to arbitration, or under the Act of May 20, 1926, ch. 347, §9 (44 Stat. 585), U.S.C., Title 45, §159, relating to boards of arbitration of railway labor disputes, these rules apply only to the extent that matters of procedure are not provided for in those statutes.
-These rules apply to proceedings to compel the giving of testimony or production of documents in accordance with a subpoena issued by an officer or agency of the United States under any statute of the United States except as otherwise provided by statute or by rules of the district court or by order of the court in the proceedings.
-
-(4) These rules do not alter the method prescribed by the Act of February 18, 1922, ch. 57, §2 (42 Stat. 388), U.S.C., Title 7, §292; or by the Act of June 10, 1930, ch. 436, §7 (46 Stat. 534), as amended, U.S.C., Title 7, §499g(c), for instituting proceedings in the United States district courts to review orders of the Secretary of Agriculture; or prescribed by the Act of June 25, 1934, ch. 742, §2 (48 Stat. 1214), U.S.C., Title 15, §522, for instituting proceedings to review orders of the Secretary of the Interior; or prescribed by the Act of February 22, 1935, ch. 18, §5 (49 Stat. 31), U.S.C., Title 15, §715d(c), as extended, for instituting proceedings to review orders of petroleum control boards; but the conduct of such proceedings in the district courts shall be made to conform to these rules so far as applicable.
-
-(5) These rules do not alter the practice in the United States district courts prescribed in the Act of July 5, 1935, ch. 372, §§9 and 10 (49 Stat. 453), as amended, U.S.C., Title 29, §§159 and 160, for beginning and conducting proceedings to enforce orders of the National Labor Relations Board; and in respects not covered by those statutes, the practice in the district courts shall conform to these rules so far as applicable.
-
-(6) These rules apply to proceedings for enforcement or review of compensation orders under the Longshoremen's and Harbor Workers’ Compensation Act, Act of March 4, 1927, c. 509, §§18, 21 (44 Stat. 1434, 1436), as amended, U.S.C., Title 33, §§918, 921, except to the extent that matters of procedure are provided for in that Act.
-The provisions for service by publication and for answer in proceedings to cancel certificates of citizenship under the Act of June 27, 1952, c. 477, Title III, c. 2, §340 (66 Stat. 260), U.S.C., Title 8, §1451, remain in effect.
-
-[(7)] (Abrogated Apr. 30, 1951, eff.
-Aug. 1, 1951)
-
-(b) Scire Facias and Mandamus.
-The writs of scire facias and mandamus are abolished.
-Relief heretofore available by mandamus or scire facias may be obtained by appropriate action or by appropriate motion under the practice prescribed in these rules.
-
-(c) Removed Actions.
-These rules apply to civil actions removed to the United States district courts from the state courts and govern procedure after removal.
-Repleading is not necessary unless the court so orders.
-In a removed action in which the defendant has not answered, the defendant shall answer or present the other defenses or objections available under these rules within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based, or within 20 days after the service of summons upon such initial pleading, then filed, or within 5 days after the filing of the petition for removal, whichever period is longest.
-If at the time of removal all necessary pleadings have been served, a party entitled to trial by jury under Rule 38 shall be accorded it, if the party's demand therefor is served within 10 days after the petition for removal is filed if the party is the petitioner, or if not the petitioner within 10 days after service on the party of the notice of filing the petition.
-A party who, prior to removal, has made an express demand for trial by jury in accordance with state law, need not make a demand after removal.
-If state law applicable in the court from which the case is removed does not require the parties to make express demands in order to claim trial by jury, they need not make demands after removal unless the court directs that they do so within a specified time if they desire to claim trial by jury.
-The court may make this direction on its own motion and shall do so as a matter of course at the request of any party.
-The failure of a party to make demand as directed constitutes a waiver by that party of trial by jury.
-
-[(d) District of Columbia; Courts and Judges.] (Abrogated Dec. 29, 1948, eff.
-Oct. 20, 1949)
-
-(e) Law Applicable.
-Whenever in these rules the law of the state in which the district court is held is made applicable, the law applied in the District of Columbia governs proceedings in the United States District Court for the District of Columbia.
-When the word “state” is used, it includes, if appropriate, the District of Columbia.
-When the term “statute of the United States” is used, it includes, so far as concerns proceedings in the United States District Court for the District of Columbia, any Act of Congress locally applicable to and in force in the District of Columbia.
-When the law of a state is referred to, the word “law” includes the statutes of that state and the state judicial decisions construing them.
-
-(f) References to Officer of the United States.
-Under any rule in which reference is made to an officer or agency of the United States, the term “officer” includes a district director of internal revenue, a former district director or collector of internal revenue, or the personal representative of a deceased district director or collector of internal revenue.
-
-(As amended Dec. 28, 1939, eff.
-Apr. 3, 1941; Dec. 27, 1946, eff.
-Mar. 19, 1948; Dec. 29, 1948, eff.
-Oct. 20, 1949; Apr. 30, 1951, eff.
-Aug. 1, 1951; Jan. 21, 1963, eff.
-July 1, 1963; Feb. 28, 1966, eff.
-July 1, 1966; Dec. 4, 1967, eff.
-July 1, 1968; Mar. 1, 1971, eff.
-July 1, 1971; Mar. 2, 1987, eff.
-Aug. 1, 1987.)
-
-Notes of Advisory Committee on Rules—1937
-
-Note to Subdivision (a). Paragraph (1): Compare the enabling act, act of June 19, 1934, U.S.C., Title 28, §§723b [see 2072] (Rules in actions at law; Supreme Court authorized to make) and 723c [see 2072] (Union of equity and action at law rules; power of Supreme Court). For the application of these rules in bankruptcy and copyright proceedings, see Orders xxxvi and xxxvii in Bankruptcy and Rule 1 of Rules of Practice and Procedure under §25 of the copyright act, act of March 4, 1909, U.S.C., Title 17, §25 [see 412, 501 to 504] (Infringement and rules of procedure).
-
-For examples of statutes which are preserved by paragraph (2) see: U.S.C., Title 8, ch. 9 [former] (Naturalization); Title 28, ch. 14 [now 153] (Habeas corpus); Title 28, §§377a–377c (Quo warranto); and such forfeiture statutes as U.S.C., Title 7, §116 (Misbranded seeds, confiscation), and Title 21, §14 [see 334(b)] (Pure Food and Drug Act—condemnation of adulterated or misbranded food; procedure). See also 443 Cans of Frozen Eggs Product v. U.S., 226 U.S. 172, 33 S.Ct. 50 (1912).
-
-For examples of statutes which under paragraph (7) will continue to govern procedure in condemnation cases, see U.S.C., Title 40, §258 (Condemnation of realty for sites for public building, etc., procedure); U.S.C., Title 16, §831x (Condemnation by Tennessee Valley Authority); U.S.C., Title 40, §120 (Acquisition of lands for public use in District of Columbia); Title 40, ch. 7 (Acquisition of lands in District of Columbia for use of United States; condemnation).
-
-Note to Subdivision (b). Some statutes which will be affected by this subdivision are:
-
-U.S.C., Title 7:
-
- §222 (Federal Trade Commission powers adopted for enforcement of Stockyards Act) (By reference to Title 15, §49)
-
-U.S.C., Title 15:
-
- §49 (Enforcement of Federal Trade Commission orders and antitrust laws)
-
- §77t(c) (Enforcement of Securities and Exchange Commission orders and Securities Act of 1933)
-
- §78u(f) (Same; Securities Exchange Act of 1934)
-
- §79r(g) (Same; Public Utility Holding Company Act of 1935)
-
-U.S.C., Title 16:
-
- §820 (Proceedings in equity for revocation or to prevent violations of license of Federal Power Commission licensee)
-
- §825m(b) (Mandamus to compel compliance with Federal Water Power Act, etc.)
-
-U.S.C., Title 19:
-
- §1333(c) (Mandamus to compel compliance with orders of Tariff Commission, etc.)
-
-U.S.C., Title 28:
-
- §377 [now 1651] (Power to issue writs)
-
- §572 [now 1923] (Fees, attorneys, solicitors and proctors)
-
- §778 [former] (Death of parties; substitution of executor or administrator). Compare Rule 25(a) (Substitution of parties; death), and the note thereto.
-
-U.S.C., Title 33:
-
- §495 (Removal of bridges over navigable waters)
-
-U.S.C., Title 45:
-
- §88 (Mandamus against Union Pacific Railroad Company)
-
- §153(p) (Mandamus to enforce orders of Adjustment Board under Railway Labor Act)
-
- §185 (Same; National Air Transport Adjustment Board) (By reference to §153)
-
-U.S.C., Title 47:
-
- §11 (Powers of Federal Communications Commission)
-
- §401(a) (Enforcement of Federal Communications Act and orders of Commission)
-
- §406 (Same; compelling furnishing of facilities; mandamus)
-
-U.S.C., Title 49:
-
- §19a(l) [see 11703(a), 14703, 15903(a)] (Mandamus to compel compliance with Interstate Commerce Act)
-
- §20(9) [see 11703(a), 14703, 15903(a)] (Jurisdiction to compel compliance with interstate commerce laws by mandamus)
-
-For comparable provisions in state practice see Ill.
-Rev. Stat. (1937), ch. 110, §179; Calif.
-Code Civ.
-Proc. (Deering, 1937) §802.
-
-Note to Subdivision (c). Such statutes as the following dealing with the removal of actions are substantially continued and made subject to these rules:
-
-U.S.C., Title 28:
-
- §71 [now 1441, 1445, 1447] (Removal of suits from state courts)
-
- §72 [now 1446, 1447] (Same; procedure)
-
- §73 [former] (Same; suits under grants of land from different states)
-
- §74 [now 1443, 1446, 1447] (Same; causes against persons denied civil rights)
-
- §75 [now 1446] (Same; petitioner in actual custody of state court)
-
- §76 [now 1442, 1446, 1447] (Same; suits and prosecutions against revenue officers)
-
- §77 [now 1442] (Same; suits by aliens)
-
- §78 [now 1449] (Same; copies of records refused by clerk of state court)
-
- §79 [now 1450] (Same; previous attachment bonds or orders)
-
- §80 [now 1359, 1447, 1919] (Same; dismissal or remand)
-
- §81 [now 1447] (Same; proceedings in suits removed)
-
- §82 [former] (Same; record; filing and return)
-
- §83 [now 1447, 1448] (Service of process after removal)
-
-U.S.C., Title 28, §72 [now 1446, 1447], supra, however, is modified by shortening the time for pleading in removed actions.
-
-Note to Subdivision (e). The last sentence of this subdivision modifies U.S.C., Title 28, §725 [now 1652] (Laws of States as rules of decision) in so far as that statute has been construed to govern matters of procedure and to exclude state judicial decisions relative thereto.
-
 Effective Date of Abrogation
 
 Abrogation of par. (7) of subdivision (a) of this rule as effective August 1, 1951, see Effective Date note under Rule 71A.
@@ -10327,17 +10180,25 @@ The phrase, “and who has not already waived his right to such trial,” which 
 Rule 82. Jurisdiction and Venue Unaffected
 
 These rules shall not be construed to extend or limit the jurisdiction of the United States district courts or the venue of actions therein.
-An admiralty or maritime claim within the meaning of Rule 9(h) shall not be treated as a civil action for the purposes of Title 28, U.S.C., §§1391–93.
+An admiralty or maritime claim within the meaning of Rule 9(h) shall not be treated as a civil action for the purposes of Title 28, U.S.C., §§1391–1392.
 
 (As amended Dec. 29, 1948, eff.
 Oct. 20, 1949; Feb. 28, 1966, eff.
-July 1, 1966.)
+July 1, 1966; Apr. 23, 2001, eff.
+Dec. 1, 2001.)
 
 Notes of Advisory Committee on Rules—1937
 
 These rules grant extensive power of joining claims and counterclaims in one action, but, as this rule states, such grant does not extend federal jurisdiction.
 The rule is declaratory of existing practice under the [former] Federal Equity Rules with regard to such provisions as [former] Equity Rule 26 on Joinder of Causes of Action and [former] Equity Rule 30 on Counterclaims.
 Compare Shulman and Jaegerman, Some Jurisdictional Limitations on Federal Procedure, 45 Yale L.J. 393 (1936).
+
+Style Comment
+
+The recommendation that the change be made without publication carries with it a recommendation that style changes not be made.
+Styling would carry considerable risks.
+The first sentence of Rule 82, for example, states that the Civil Rules do not “extend or limit the jurisdiction of the United States district courts.” That sentence is a flat lie if “jurisdiction” includes personal or quasi-in rem jurisdiction.
+The styling project on this rule requires publication and comment.
 
 Rule 83. Rules by District Courts; Judge's Directives
 
@@ -10784,6 +10645,43 @@ Wherefore plaintiff demands:
 (As amended Jan. 21, 1963, eff.
 July 1, 1963.)
 
+Form 14. Complaint for Negligence Under Federal Employer's Liability Act
+
+1. Allegation of jurisdiction.
+
+2. During all the times herein mentioned defendant owned and operated in interstate commerce a railroad which passed through a tunnel located at ______ and known as Tunnel No. ______.
+
+3. On or about June 1, 1936, defendant was repairing and enlarging the tunnel in order to protect interstate trains and passengers and freight from injury and in order to make the tunnel more conveniently usable for interstate commerce.
+
+4. In the course of thus repairing and enlarging the tunnel on said day defendant employed plaintiff as one of its workmen, and negligently put plaintiff to work in a portion of the tunnel which defendant had left unprotected and unsupported.
+
+5. By reason of defendant's negligence in thus putting plaintiff to work in that portion of the tunnel, plaintiff was, while so working pursuant to defendant's orders, struck and crushed by a rock, which fell from the unsupported portion of the tunnel, and was (here describe plaintiff's injuries).
+
+6. Prior to these injuries, plaintiff was a strong, able-bodied man, capable of earning and actually earning ______ dollars per day.
+By these injuries he has been made incapable of any gainful activity, has suffered great physical and mental pain, and has incurred expense in the amount of ______ dollars for medicine, medical attendance, and hospitalization.
+
+Wherefore plaintiff demands judgment against defendant in the sum of ______ dollars and costs.
+
+Form 15. Complaint for Damages Under Merchant Marine Act
+
+1. Allegation of jurisdiction. [If the pleader wishes to invoke the distinctively maritime procedures referred to in Rule 9(h), add the following or its substantial equivalent: This is an admiralty or maritime claim within the meaning of Rule 9(h).]
+
+2. During all the times herein mentioned defendant was the owner of the steamship ______ and used it in the transportation of freight for hire by water in interstate and foreign commerce.
+
+3. During the first part of (month and year) at ______ plaintiff entered the employ of defendant as an able seaman on said steamship under seamen's articles of customary form for a voyage from ______ ports to the Orient and return at a wage of ______ dollars per month and found, which is equal to a wage of ______ dollars per month as a shore worker.
+
+4. On June 1, 1936, said steamship was about ______ days out of the port of ______ and was being navigated by the master and crew on the return voyage to ______ ports. (Here describe weather conditions and the condition of the ship and state as in an ordinary complaint for personal injuries the negligent conduct of defendant.)
+
+5. By reason of defendant's negligence in thus (brief statement of defendant's negligent conduct) and the unseaworthiness of said steamship, plaintiff was (here describe plaintiff's injuries).
+
+6. Prior to these injuries, plaintiff was a strong, able-bodied man, capable of earning and actually earning ______ dollars per day.
+By these injuries he has been made incapable of any gainful activity; has suffered great physical and mental pain, and has incurred expense in the amount of ______ dollars for medicine, medical attendance, and hospitalization.
+
+Wherefore plaintiff demands judgment against defendant in the sum of ______ dollars and costs.
+
+(As amended Feb. 28, 1966, eff.
+July 1, 1966.)
+
 Form 16. Complaint for Infringement of Patent
 
 1. Allegation of jurisdiction.
@@ -10871,6 +10769,57 @@ July 1, 1963.)
 
 [Form 18–A. Abrogated Apr. 22, 1993, eff.
 Dec. 1, 1993]
+
+Form 19. Motion To Dismiss, Presenting Defenses of Failure To State a Claim, of Lack of Service of Process, of Improper Venue, and of Lack of Jurisdiction Under Rule 12(b)
+
+The defendant moves the court as follows:
+
+1. To dismiss the action because the complaint fails to state a claim against defendant upon which relief can be granted.
+
+2. To dismiss the action or in lieu thereof to quash the return of service of summons on the grounds (a) that the defendant is a corporation organized under the laws of Delaware and was not and is not subject to service of process within the Southern District of New York, and (b) that the defendant has not been properly served with process in this action, all of which more clearly appears in the affidavits of M. N. and X. Y. hereto annexed as Exhibit A and Exhibit B respectively.
+
+3. To dismiss the action on the ground that it is in the wrong district because (a) the jurisdiction of this court is invoked solely on the ground that the action arises under the Constitution and laws of the United States and (b) the defendant is a corporation incorporated under the laws of the State of Delaware and is not licensed to do or doing business in the Southern District of New York, all of which more clearly appears in the affidavits of K. L. and V. W. hereto annexed as Exhibits C and D, respectively.
+
+4. To dismiss the action on the ground that the court lacks jurisdiction because the amount actually in controversy is less than ten thousand dollars exclusive of interest and costs.
+
+Signed: ____________________________
+
+    Attorney for Defendant.
+
+Address: __________________________
+
+    Notice of Motion
+
+To: ____________________________
+
+Attorney for Plaintiff.
+
+________________________________
+
+Please take notice, that the undersigned will bring the above motion on for hearing before this Court at Room ____, United States Court House, Foley Square, City of New York, on the ______ day of________, 193__, at 10 o'clock in the forenoon of that day or as soon thereafter as counsel can be heard.
+
+Signed: ____________________________
+
+    Attorney for Defendant.
+
+Address: __________________________
+
+(As amended Dec. 29, 1948, eff.
+Oct. 20, 1949; Apr. 17, 1961, eff.
+July 19, 1961.)
+
+Explanatory Notes
+
+1. The above motion and notice of motion may be combined and denominated Notice of Motion.
+See Rule 7(b).
+
+2. As to paragraph 3, see U.S.C., Title 28, §1391 (Venue generally), subsections (b) and (c).
+
+3. As to paragraph 4, see U.S.C., Title 28, §1331 (Federal question; amount in controversy; costs), as amended by P.L. 85–554, 72 Stat. 415, July 25, 1958, requiring that the amount in controversy, exclusive of interest and costs, be in excess of $10,000.
+
+(As amended Dec. 29, 1948, eff.
+Oct. 20, 1949; Apr. 17, 1961, eff.
+July 19, 1961.)
 
 Form 20. Answer Presenting Defenses Under Rule 12(b)
 
@@ -12137,7 +12086,7 @@ The revision also makes clear what has been doubted: that the court may transfer
 
 FEDERAL RULES OF EVIDENCE
 
-(As amended to January 2, 2001)
+(As amended to January 22, 2002)
 
 Effective Date and Application of Rules
 
@@ -12337,9 +12286,11 @@ Sex Offense Cases; Relevance of Alleged Victim's Past Sexual Behavior or Alleged
 (a)
 
 Evidence generally inadmissible.
+
 (b)
 
 Exceptions.
+
 (c)
 
 Procedure to determine admissibility.
@@ -13035,6 +12986,44 @@ This rule is not, however, intended to immunize the accused from cross-examinati
 If he could not be cross-examined about any issues gratuitously raised by him beyond the scope of the preliminary matters, injustice result.
 Accordingly, in order to prevent any such unjust result, the committee intends the rule to be construed to provide that the accused may subject himself to cross-examination as to issues raised by his own testimony upon a preliminary matter before a jury.
 
+Rule 105. Limited Admissibility
+
+When evidence which is admissible as to one party or for one purpose but not admissible as to another party or for another purpose is admitted, the court, upon request, shall restrict the evidence to its proper scope and instruct the jury accordingly.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1930.)
+
+Notes of Advisory Committee on Proposed Rules
+
+A close relationship exists between this rule and Rule 403 which requires exclusion when “probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury.” The present rule recognizes the practice of admitting evidence for a limited purpose and instructing the jury accordingly.
+The availability and effectiveness of this practice must be taken into consideration in reaching a decision whether to exclude for unfair prejudice under Rule 403. In Bruton v. United States, 389 U.S. 818, 88 S.Ct. 126, 19 L.Ed.2d 70 (1968), the Court ruled that a limiting instruction did not effectively protect the accused against the prejudicial effect of admitting in evidence the confession of a codefendant which implicated him.
+The decision does not, however, bar the use of limited admissibility with an instruction where the risk of prejudice is less serious.
+
+Similar provisions are found in Uniform Rule 6; California Evidence Code §355; Kansas Code of Civil Procedure §60–406; New Jersey Evidence Rule 6. The wording of the present rule differs, however, in repelling any implication that limiting or curative instructions are sufficient in all situations.
+
+Notes of Committee on the Judiciary, House Report No. 93–650
+
+Rule 106 as submitted by the Supreme Court (now Rule 105 in the bill) dealt with the subject of evidence which is admissible as to one party or for one purpose but is not admissible against another party or for another purpose.
+The Committee adopted this Rule without change on the understanding that it does not affect the authority of a court to order a severance in a multi-defendant case.
+
+Rule 106. Remainder of or Related Writings or Recorded Statements
+
+When a writing or recorded statement or part thereof is introduced by a party, an adverse party may require the introduction at that time of any other part or any other writing or recorded statement which ought in fairness to be considered contemporaneously with it.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1930; Mar. 2, 1987, eff.
+Oct. 1, 1987.)
+
+Notes of Advisory Committee on Proposed Rules
+
+The rule is an expression of the rule of completeness.
+McCormick §56. It is manifested as to depositions in Rule 32(a)(4) of the Federal Rules of Civil Procedure, of which the proposed rule is substantially a restatement.
+
+The rule is based on two considerations.
+The first is the misleading impression created by taking matters out of context.
+The second is the inadequacy of repair work when delayed to a point later in the trial.
+See McCormick §56; California Evidence Code §356. The rule does not in any way circumscribe the right of the adversary to develop the matter on cross-examination or as part of his own case.
+
+For practical reasons, the rule is limited to writings and recorded statements and does not apply to conversations.
+
 ARTICLE II. JUDICIAL NOTICE
 
 Rule 201. Judicial Notice of Adjudicative Facts
@@ -13630,6 +13619,183 @@ The requirement that the other purpose be controverted calls for automatic exclu
 Otherwise the factors of undue prejudice, confusion of issues, misleading the jury, and waste of time remain for consideration under Rule 403.
 
 For comparable rules, see Uniform Rule 51; California Evidence Code §1151; Kansas Code of Civil Procedure §60–451; New Jersey Evidence Rule 51.
+
+Rule 408. Compromise and Offers to Compromise
+
+Evidence of (1) furnishing or offering or promising to furnish, or (2) accepting or offering or promising to accept, a valuable consideration in compromising or attempting to compromise a claim which was disputed as to either validity or amount, is not admissible to prove liability for or invalidity of the claim or its amount.
+Evidence of conduct or statements made in compromise negotiations is likewise not admissible.
+This rule does not require the exclusion of any evidence otherwise discoverable merely because it is presented in the course of compromise negotiations.
+This rule also does not require exclusion when the evidence is offered for another purpose, such as proving bias or prejudice of a witness, negativing a contention of undue delay, or proving an effort to obstruct a criminal investigation or prosecution.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1933.)
+
+Notes of Advisory Committee on Proposed Rules
+
+As a matter of general agreement, evidence of an offer-to compromise a claim is not receivable in evidence as an admission of, as the case may be, the validity or invalidity of the claim.
+As with evidence of subsequent remedial measures, dealt with in Rule 407, exclusion may be based on two grounds. (1) The evidence is irrelevant, since the offer may be motivated by a desire for peace rather than from any concession of weakness of position.
+The validity of this position will vary as the amount of the offer varies in relation to the size of the claim and may also be influenced by other circumstances. (2) a more consistently impressive ground is promotion of the public policy favoring the compromise and settlement of disputes.
+McCormick §§76, 251. While the rule is ordinarily phrased in terms of offers of compromise, it is apparent that a similar attitude must be taken with respect to completed compromises when offered against a party thereto.
+This latter situation will not, of course, ordinarily occur except when a party to the present litigation has compromised with a third person.
+
+The same policy underlies the provision of Rule 68 of the Federal Rules of Civil Procedure that evidence of an unaccepted offer of judgment is not admissible except in a proceeding to determine costs.
+
+The practical value of the common law rule has been greatly diminished by its inapplicability to admissions of fact, even though made in the course of compromise negotiations, unless hypothetical, stated to be “without prejudice,” or so connected with the offer as to be inseparable from it.
+McCormick §251, pp. 540–541. An inevitable effect is to inhibit freedom of communication with respect to compromise, even among lawyers.
+Another effect is the generation of controversy over whether a given statement falls within or without the protected area.
+These considerations account for the expansion of the rule herewith to include evidence of conduct or statements made in compromise negotiations, as well as the offer or completed compromise itself.
+For similar provisions see California Evidence Code §§1152, 1154.
+
+The policy considerations which underlie the rule do not come into play when the effort is to induce a creditor to settle an admittedly due amount for a lessor sum.
+McCormick §251, p. 540. Hence the rule requires that the claim be disputed as to either validity or amount.
+
+The final sentence of the rule serves to point out some limitations upon its applicability.
+Since the rule excludes only when the purpose is proving the validity or invalidity of the claim or its amount, an offer for another purpose is not within the rule.
+The illustrative situations mentioned in the rule are supported by the authorities.
+As to proving bias or prejudice of a witness, see Annot., 161 A.L.R. 395, contra, Fenberg v. Rosenthal, 348 Ill.
+App. 510, 109 N.E.2d 402 (1952), and negativing a contention of lack of due diligence in presenting a claim, 4 Wigmore §1061. An effort to “buy off” the prosecution or a prosecuting witness in a criminal case is not within the policy of the rule of exclusion.
+McCormick §251, p. 542.
+
+For other rules of similar import, see Uniform Rules 52 and 53; California Evidence Code §1152, 1154; Kansas Code of Civil Procedure §§60–452, 60–453; New Jersey Evidence Rules 52 and 53.
+
+Notes of Committee on the Judiciary, House Report No. 93–650
+
+Under existing federal law evidence of conduct and statements made in compromise negotiations is admissible in subsequent litigation between the parties.
+The second sentence of Rule 408 as submitted by the Supreme Court proposed to reverse that doctrine in the interest of further promoting non-judicial settlement of disputes.
+Some agencies of government expressed the view that the Court formulation was likely to impede rather than assist efforts to achieve settlement of disputes.
+For one thing, it is not always easy to tell when compromise negotiations begin, and informal dealings end.
+Also, parties dealing with government agencies would be reluctant to furnish factual information at preliminary meetings; they would wait until “compromise negotiations” began and thus hopefully effect an immunity for themselves with respect to the evidence supplied.
+In light of these considerations, the Committee recast the Rule so that admissions of liability or opinions given during compromise negotiations continue inadmissible, but evidence of unqualified factual assertions is admissible.
+The latter aspect of the Rule is drafted, however, so as to preserve other possible objections to the introduction of such evidence.
+The Committee intends no modification of current law whereby a party may protect himself from future use of his statements by couching them in hypothetical conditional form.
+
+Notes of Committee on the Judiciary, Senate Report No. 93–1277
+
+This rule as reported makes evidence of settlement or attempted settlement of a disputed claim inadmissible when offered as an admission of liability or the amount of liability.
+The purpose of this rule is to encourage settlements which would be discouraged if such evidence were admissible.
+
+Under present law, in most jurisdictions, statements of fact made during settlement negotiations, however, are excepted from this ban and are admissible.
+The only escape from admissibility of statements of fact made in a settlement negotiation is if the declarant or his representative expressly states that the statement is hypothetical in nature or is made without prejudice.
+Rule 408 as submitted by the Court reversed the traditional rule.
+It would have brought statements of fact within the ban and made them, as well as an offer of settlement, inadmissible.
+
+The House amended the rule and would continue to make evidence of facts disclosed during compromise negotiations admissible.
+It thus reverted to the traditional rule.
+The House committee report states that the committee intends to preserve current law under which a party may protect himself by couching his statements in hypothetical form [See House Report No. 93–650 above]. The real impact of this amendment, however, is to deprive the rule of much of its salutary effect.
+The exception for factual admissions was believed by the Advisory Committee to hamper free communication between parties and thus to constitute an unjustifiable restraint upon efforts to negotiate settlements—the encouragement of which is the purpose of the rule.
+Further, by protecting hypothetically phrased statements, it constituted a preference for the sophisticated, and a trap for the unwary.
+
+Three States which had adopted rules of evidence patterned after the proposed rules prescribed by the Supreme Court opted for versions of rule 408 identical with the Supreme Court draft with respect to the inadmissibility of conduct or statements made in compromise negotiations. [Nev.
+Rev. Stats. §48.105; N. Mex.
+Stats.
+Anno. (1973 Supp.) §20–4–408; West's Wis.
+Stats.
+Anno. (1973 Supp.) §904.08].
+
+For these reasons, the committee has deleted the House amendment and restored the rule to the version submitted by the Supreme Court with one additional amendment.
+This amendment adds a sentence to insure that evidence, such as documents, is not rendered inadmissible merely because it is presented in the course of compromise negotiations if the evidence is otherwise discoverable.
+A party should not be able to immunize from admissibility documents otherwise discoverable merely by offering them in a compromise negotiation.
+
+Notes of Conference Committee, House Report No. 93–1597
+
+The House bill provides that evidence of admissions of liability or opinions given during compromise negotiations is not admissible, but that evidence of facts disclosed during compromise negotiations is not inadmissible by virtue of having been first disclosed in the compromise negotiations.
+The Senate amendment provides that evidence of conduct or statements made in compromise negotiations is not admissible.
+The Senate amendment also provides that the rule does not require the exclusion of any evidence otherwise discoverable merely because it is presented in the course of compromise negotiations.
+
+The House bill was drafted to meet the objection of executive agencies that under the rule as proposed by the Supreme Court, a party could present a fact during compromise negotiations and thereby prevent an opposing party from offering evidence of that fact at trial even though such evidence was obtained from independent sources.
+The Senate amendment expressly precludes this result.
+
+The Conference adopts the Senate amendment.
+
+Rule 409. Payment of Medical and Similar Expenses
+
+Evidence of furnishing or offering or promising to pay medical, hospital, or similar expenses occasioned by an injury is not admissible to prove liability for the injury.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1933.)
+
+Notes of Advisory Committee on Proposed Rules
+
+The considerations underlying this rule parallel those underlying Rules 407 and 408, which deal respectively with subsequent remedial measures and offers of compromise.
+As stated in Annot., 20 A.L.R.2d 291, 293:
+
+“[G]enerally, evidence of payment of medical, hospital, or similar expenses of an injured party by the opposing party, is not admissible, the reason often given being that such payment or offer is usually made from humane impulses and not from an admission of liability, and that to hold otherwise would tend to discourage assistance to the injured person.”
+
+Contrary to Rule 408, dealing with offers of compromise, the present rule does not extend to conduct or statements not a part of the act of furnishing or offering or promising to pay.
+This difference in treatment arises from fundamental differences in nature.
+Communication is essential if compromises are to be effected, and consequently broad protection of statements is needed.
+This is not so in cases of payments or offers or promises to pay medical expenses, where factual statements may be expected to be incidental in nature.
+
+For rules on the same subject, but phrased in terms of “humanitarian motives,” see Uniform Rule 52; California Evidence Code §1152; Kansas Code of Civil Procedure §60–452; New Jersey Evidence Rule 52.
+
+Rule 410. Inadmissibility of Pleas, Plea Discussions, and Related Statements
+
+Except as otherwise provided in this rule, evidence of the following is not, in any civil or criminal proceeding, admissible against the defendant who made the plea or was a participant in the plea discussions:
+
+(1) a plea of guilty which was later withdrawn;
+
+(2) a plea of nolo contendere;
+
+(3) any statement made in the course of any proceedings under Rule 11 of the Federal Rules of Criminal Procedure or comparable state procedure regarding either of the foregoing pleas; or
+
+(4) any statement made in the course of plea discussions with an attorney for the prosecuting authority which do not result in a plea of guilty or which result in a plea of guilty later withdrawn.
+
+However, such a statement is admissible (i) in any proceeding wherein another statement made in the course of the same plea or plea discussions has been introduced and the statement ought in fairness be considered contemporaneously with it, or (ii) in a criminal proceeding for perjury or false statement if the statement was made by the defendant under oath, on the record and in the presence of counsel.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1933; Pub. L. 94–149, §1(9), Dec. 12, 1975, 89 Stat. 805; Apr. 30, 1979, eff.
+Dec. 1, 1980.)
+
+Notes of Advisory Committee on Proposed Rules
+
+Withdrawn pleas of guilty were held inadmissible in federal prosecutions in Kercheval v. United States, 274 U.S. 220, 47 S.Ct. 582, 71 L.Ed. 1009 (1927). The Court pointed out that to admit the withdrawn plea would effectively set at naught the allowance of withdrawal and place the accused in a dilemma utterly inconsistent with the decision to award him a trial.
+The New York Court of Appeals, in People v. Spitaleri, 9 N.Y.2d 168, 212 N.Y.S.2d 53, 173 N.E.2d 35 (1961), reexamined and overturned its earlier decisions which had allowed admission.
+In addition to the reasons set forth in Kercheval, which was quoted at length, the court pointed out that the effect of admitting the plea was to compel defendant to take the stand by way of explanation and to open the way for the prosecution to call the lawyer who had represented him at the time of entering the plea.
+State court decisions for and against admissibility are collected in Annot., 86 A.L.R.2d 326.
+
+Pleas of nolo contendere are recognized by Rule 11 of the Rules of Criminal Procedure, although the law of numerous States is to the contrary.
+The present rule gives effect to the principal traditional characteristic of the nolo plea, i.e., avoiding the admission of guilt which is inherent in pleas of guilty.
+This position is consistent with the construction of Section 5 of the Clayton Act, 15 U.S.C. §16(a), recognizing the inconclusive and compromise nature of judgments based on nolo pleas.
+General Electric Co. v. City of San Antonio, 334 F.2d 480 (5th Cir. 1964); Commonwealth Edison Co. v. Allis-Chalmers Mfg.
+Co., 323 F.2d 412 (7th Cir. 1963), cert. denied 376 U.S. 939, 84 S.Ct. 794, 11 L.Ed.2d 659; Armco Steel Corp. v. North Dakota, 376 F.2d 206 (8th Cir. 1967); City of Burbank v. General Electric Co., 329 F.2d 825 (9th Cir. 1964). See also state court decisions in Annot., 18 A.L.R.2d 1287, 1314.
+
+Exclusion of offers to plead guilty or nolo has as its purpose the promotion of disposition of criminal cases by compromise.
+As pointed out in McCormick §251, p. 543
+
+“Effective criminal law administration in many localities would hardly be possible if a large proportion of the charges were not disposed of by such compromises.”
+
+See also People v. Hamilton, 60 Cal.2d 105, 32 Cal.Rptr. 4, 383 P.2d 412 (1963), discussing legislation designed to achieve this result.
+As with compromise offers generally, Rule 408, free communication is needed, and security against having an offer of compromise or related statement admitted in evidence effectively encourages it.
+
+Limiting the exclusionary rule to use against the accused is consistent with the purpose of the rule, since the possibility of use for or against other persons will not impair the effectiveness of withdrawing pleas or the freedom of discussion which the rule is designed to foster.
+See A.B.A. Standards Relating to Pleas of Guilty §2.2 (1968). See also the narrower provisions of New Jersey Evidence Rule 52(2) and the unlimited exclusion provided in California Evidence Code §1153.
+
+Notes of Committee on the Judiciary, House Report No. 93–650
+
+The Committee added the phrase “Except as otherwise provided by Act of Congress” to Rule 410 as submitted by the Court in order to preserve particular congressional policy judgments as to the effect of a plea of guilty or of nolo contendere.
+See 15 U.S.C. 16(a). The Committee intends that its amendment refers to both present statutes and statutes subsequently enacted.
+
+Notes of the Committee on the Judiciary, Senate Report No. 93–1277
+
+As adopted by the House, rule 410 would make inadmissible pleas of guilty or nolo contendere subsequently withdrawn as well as offers to make such pleas.
+Such a rule is clearly justified as a means of encouraging pleading.
+However, the House rule would then go on to render inadmissible for any purpose statements made in connection with these pleas or offers as well.
+
+The committee finds this aspect of the House rule unjustified.
+Of course, in certain circumstances such statements should be excluded.
+If, for example, a plea is vitiated because of coercion, statements made in connection with the plea may also have been coerced and should be inadmissible on that basis.
+In other cases, however, voluntary statements of an accused made in court on the record, in connection with a plea, and determined by a court to be reliable should be admissible even though the plea is subsequently withdrawn.
+This is particularly true in those cases where, if the House rule were in effect, a defendant would be able to contradict his previous statements and thereby lie with impunity [See Harris v. New York, 401 U.S. 222 (1971)]. To prevent such an injustice, the rule has been modified to permit the use of such statements for the limited purposes of impeachment and in subsequent perjury or false statement prosecutions.
+
+Notes of Conference Committee, House Report No. 93–1597
+
+The House bill provides that evidence of a guilty or nolo contendere plea, of an offer of either plea, or of statements made in connection with such pleas or offers of such pleas, is inadmissible in any civil or criminal action, case or proceeding against the person making such plea or offer.
+The Senate amendment makes the rule inapplicable to a voluntary and reliable statement made in court on the record where the statement is offered in a subsequent prosecution of the declarant for perjury or false statement.
+
+The issues raised by Rule 410 are also raised by proposed Rule 11(e)(6) of the Federal Rules of Criminal Procedure presently pending before Congress.
+This proposed rule, which deals with the admissibility of pleas of guilty or nolo contendere, offers to make such pleas, and statements made in connection with such pleas, was promulgated by the Supreme Court on April 22, 1974, and in the absence of congressional action will become effective on August 1, 1975. The conferees intend to make no change in the presently-existing case law until that date, leaving the courts free to develop rules in this area on a case-by-case basis.
+
+The Conferees further determined that the issues presented by the use of guilty and nolo contendere pleas, offers of such pleas, and statements made in connection with such pleas or offers, can be explored in greater detail during Congressional consideration of Rule 11(e)(6) of the Federal Rules of Criminal Procedure.
+The Conferees believe, therefore, that it is best to defer its effective date until August 1, 1975. The Conferees intend that Rule 410 would be superseded by any subsequent Federal Rule of Criminal Procedure or Act of Congress with which it is inconsistent, if the Federal Rule of Criminal Procedure or Act of Congress takes effect or becomes law after the date of the enactment of the act establishing the rules of evidence.
+
+The conference adopts the Senate amendment with an amendment that expresses the above intentions.
 
 Rule 411. Liability Insurance
 
@@ -14637,32 +14803,6 @@ See Ladd, Expert Testimony, 5 Vand.L.Rev. 414, 415–417 (1952). If, despite the
 
 The language of the rule is substantially that of Uniform.
 Rule 56(1). Similar provisions are California Evidence Code §800; Kansas Code of Civil Procedure §60–456(a); New Jersey Evidence Rule 56(1).
-
-Rule 702. Testimony by Experts
-
-If scientific, technical, or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, experience, training, or education, may testify thereto in the form of an opinion or otherwise, if (1) the testimony is based upon sufficient facts or data, (2) the testimony is the product of reliable principles and methods, and (3) the witness has applied the principles and methods reliably to the facts of the case.
-
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1937; Apr. 17, 2000, eff.
-Dec. 1, 2000.)
-
-Notes of Advisory Committee on Proposed Rules
-
-An intelligent evaluation of facts is often difficult or impossible without the application of some scientific, technical, or other specialized knowledge.
-The most common source of this knowledge is the expert witness, although there are other techniques for supplying it.
-
-Most of the literature assumes that experts testify only in the form of opinions.
-The assumption is logically unfounded.
-The rule accordingly recognizes that an expert on the stand may give a dissertation or exposition of scientific or other principles relevant to the case, leaving the trier of fact to apply them to the facts.
-Since much of the criticism of expert testimony has centered upon the hypothetical question, it seems wise to recognize that opinions are not indispensable and to encourage the use of expert testimony in non-opinion form when counsel believes the trier can itself draw the requisite inference.
-The use of opinions is not abolished by the rule, however.
-It will continue to be permissible for the experts to take the further step of suggesting the inference which should be drawn from applying the specialized knowledge to the facts.
-See Rules 703 to 705.
-
-Whether the situation is a proper one for the use of expert testimony is to be determined on the basis of assisting the trier. “There is no more certain test for determining when experts may be used than the common sense inquiry whether the untrained layman would be qualified to determine intelligently and to the best possible degree the particular issue without enlightenment from those having a specialized understanding of the subject involved in the dispute.” Ladd, Expert Testimony, 5 Vand.L.Rev. 414, 418 (1952). When opinions are excluded, it is because they are unhelpful and therefore superfluous and a waste of time. 7 Wigmore §1918.
-
-The rule is broadly phrased.
-The fields of knowledge which may be drawn upon are not limited merely to the “scientific” and “technical” but extend to all “specialized” knowledge.
-Similarly, the expert is viewed, not in a narrow sense, but as a person qualified by “knowledge, skill, experience, training or education.” Thus within the scope of the rule are not only experts in the strictest sense of the word, e.g., physicians, physicists, and architects, but also the large group sometimes called “skilled” witnesses, such as bankers or landowners testifying to land values.
 
 Rule 703. Bases of Opinion Testimony by Experts
 
@@ -16648,21 +16788,6 @@ At the request of the Court of Claims, the Committee amended the Rule to include
 
 Subdivision (b) was amended merely to substitute positive law citations for those which were not.
 
-References in Text
-
-The Tariff Act of 1930, referred to in subd. (e), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified principally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties.
-Part V of title IV of the Tariff Act of 1930 enacted part V (§1581 et seq.) of subtitle III of chapter 4 of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
-
-The Anti-Smuggling Act (19 U.S.C. 1701–1711), referred to in subd. (e), is act Aug. 5, 1935, ch. 438, 49 Stat. 517, as amended, which is classified principally to chapter 5 (§1701 et seq.) of Title 19. For complete classification of this Act to the Code, see section 1711 of Title 19 and Tables.
-
-The Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301–392), referred to in subd. (e), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs.
-For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
-
-Section 4578 of the Revised Statutes (46 U.S.C. 679), referred to in subd. (e), was repealed and reenacted as section 11104(b)–(d) of Title 46, Shipping, by Pub. L. 98–89, §§1, 2(a), 4(b), Aug. 26, 1983, 97 Stat. 500.
-
-“An Act authorizing suits against the United States in admiralty for damage caused by and salvage service rendered to public vessels belonging to the United States, and for other purposes,” approved Mar. 3, 1925 (46 U.S.C. 781–790), referred to in subd. (e), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, as amended, known as the “Public Vessels Act”, which is classified generally to chapter 22 (§781 et seq.) of Title 46, Appendix, Shipping.
-For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 46, Appendix, and Tables.
-
 Change of Name
 
 References to United States Claims Court deemed to refer to United States Court of Federal Claims, see section 902(b) of Pub. L. 102–572, set out as a note under section 171 of this title.
@@ -18008,7 +18133,7 @@ Rule 48. Effective Date of Rules
 
 RULES OF THE UNITED STATES COURT OF FEDERAL CLAIMS
 
-(Revised March 14, 1992, effective March 15, 1992, as amended to January 6, 2001)
+(Revised March 14, 1992, effective March 15, 1992, as amended to January 22, 2002)
 
 General Order No. 1
 
@@ -22858,7 +22983,7 @@ Motions for enlargement of time may be granted for good cause shown.
 A motion shall set forth the reason or reasons upon which the motion is based.
 Such motion must contain a representation that the moving party has discussed the motion with opposing counsel and a statement whether an opposition will be filed or, if opposing counsel cannot be consulted, an explanation of the efforts made to do so.
 
-(c) Additional Time After Service My Mail.
+(c) Additional Time After Service By Mail.
 Whenever a party has the right or is required to do some act within a prescribed period after the service of a paper, and the service is made by mail, 3 calendar days shall be added to the prescribed period, unless the special master or the court orders otherwise.
 
 20. Motions.
@@ -23002,7 +23127,7 @@ App. L
 
 RULES OF THE UNITED STATES COURT OF INTERNATIONAL TRADE
 
-(Effective November 1, 1980, as amended to January 2, 2001)
+(Effective November 1, 1980, as amended to January 22, 2002)
 
 TITLE I—SCOPE OF RULES—ONE FORM OF ACTION
 
@@ -26059,7 +26184,7 @@ In lieu of any of the foregoing orders or in addition thereto, the court shall r
 
 (1) A party that without substantial justification fails to disclose information required by Rule 26(a) or 26(e)(1) shall not, unless such failure is harmless, be permitted to use as evidence at a trial, at a hearing, or on a motion any witness or information not so disclosed.
 In addition to or in lieu of this sanction, the court, on motion and after affording an opportunity to be heard, may impose other appropriate sanctions.
-In addition to requiring payment of reasonable expenses, including attorney's fees, caused by the failure, these sanctions may include any of the actions authorized under paragraphs (1), (2), and (3) of subdivision (b)(2) of this rule and may include informing the jury of the failure to make the disclosure. 
+In addition to requiring payment of reasonable expenses, including attorney's fees, caused by the failure, these sanctions may include any of the actions authorized under paragraphs (1), (2), and (3) of subdivision (b)(2) of this rule and may include informing the jury of the failure to make the disclosure.
 
 (2) If a party fails to admit the genuineness of any document or the truth of any matter as requested under Rule 36, and if the party requesting the admissions thereafter proves the genuineness of the document or the truth of the matter, the requesting party may apply to the court for an order requiring the other party to pay the reasonable expenses incurred in making that proof, including reasonable attorney's fees.
 The court shall make the order unless it finds that (A) the request was held objectionable pursuant to Rule 36(a), or (B) the admission sought was of no substantial importance, or (C) the party failing to admit had reasonable ground to believe that the party might prevail on the matter, or (D) there was other good reason for the failure to admit.

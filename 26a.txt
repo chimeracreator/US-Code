@@ -3530,6 +3530,8 @@ See Code Sections 6015(e)(B)(ii),1 6213(a), 6225(b), 6246(b). For the rules appl
 1 So in original.
 Probably should be “6015(e)(1)(B)(ii),”.
 
+TITLE XIV.—TRIALS
+
 Rule 142. Burden of Proof
 
 (a) General: (1) The burden of proof shall be upon the petitioner, except as otherwise provided by statute or determined by the Court; and except that, in respect of any new matter, increases in deficiency, and affirmative defenses, pleaded in the answer, it shall be upon the respondent.
@@ -3549,6 +3551,8 @@ Code Section 6902(a).
 (e) Accumulated Earnings Tax: Where the notice of deficiency is based in whole or in part on an allegation of accumulation of corporate earnings and profits beyond the reasonable needs of the business, the burden of proof with respect to such allegation is determined in accordance with Code Section 534. If the petitioner has submitted to the respondent a statement which is claimed to satisfy the requirements of Code Section 534(c), the Court will ordinarily, on timely motion filed after the case has been calendared for trial, rule prior to the trial on whether such statement is sufficient to shift the burden of proof to the respondent to the limited extent set forth in Code Section 534(a)(2).
 
 (f) Other: For the burden of proof in cases submitted without trial, see Rule 122(b); in declaratory judgment actions, see Rule 217(c); in disclosure actions, see Rule 229; in claims for litigation and administrative costs, see Rule 232(e); and in administrative costs actions, see Rule 270(d).
+
+TITLE XVII.—SMALL TAX CASES
 
 Rule 171. Small Tax Case Defined
 
@@ -3572,6 +3576,8 @@ Rule 173. Discontinuance of Proceedings
 
 After the commencement of a trial of a small tax case, but before the decision in the case becomes final, the Court may order that the proceedings be discontinued under Code Section 7463, and that the case be tried under the Rules of Practice other than the Small Tax Case Rules, but such order will be issued only if (1) there are reasonable grounds for believing that the amount of the deficiency, or the claimed overpayment, in dispute will exceed $50,000 and (2) the Court finds that justice requires the discontinuance of the proceedings under Code Section 7463, taking into consideration the convenience and expenses for both parties that would result from the order.
 
+TITLE XVIII.—SPECIAL TRIAL JUDGES
+
 Rule 182. Cases Involving $50,000 or Less
 
 Except as otherwise directed by the Chief Judge, the following procedure shall be observed in small tax cases (as defined in Rule 171) and in all other cases where neither the amount of the deficiency placed in dispute (within the meaning of Code Section 7463), nor the amount of any claimed overpayment, exceeds $50,000:
@@ -3593,6 +3599,8 @@ After such trial, the parties shall submit their briefs in accordance with the p
 
 (c) Action on the Report: The Judge to whom or the Division to which the case is assigned may adopt the Special Trial Judge's report or may modify it or may reject it in whole or in part, or may direct the filing of additional briefs or may receive further evidence or may direct oral argument, or may recommit the report with instructions.
 Due regard shall be given to the circumstance that the Special Trial Judge had the opportunity to evaluate the credibility of witnesses, and the findings of fact recommended by the Special Trial Judge shall be presumed to be correct.
+
+TITLE XXI.—DECLARATORY JUDGMENTS
 
 Rule 210. General
 
@@ -4076,6 +4084,8 @@ See Code Section 7430(c)(4)(B).
 Where the Court in its opinion states that the decision will be entered under Rule 155, or where the parties have settled all of the issues other than litigation and administrative costs, the Court will issue an order granting or denying the motion and determining the amount of reasonable litigation and administrative costs, if any, to be awarded.
 The parties, or either of them, shall thereafter submit a proposed decision including an award of any such costs, or a denial thereof, for entry by the Court.
 
+TITLE XXV.—SUPPLEMENTAL PROCEEDINGS
+
 Rule 261. Proceeding to Redetermine Interest
 
 (a) Commencement of Proceeding: (1) How Proceeding Is Commenced: A proceeding to redetermine interest on a deficiency assessed under Code Section 6215 or to redetermine interest on an overpayment determined under Code Section 6512(b) shall be commenced by filing a motion with the Court.
@@ -4132,6 +4142,8 @@ If the Commissioner opposes the petitioner's request for a hearing, then the res
 
 (e) Recognition of Counsel: Counsel recognized by the Court in the action in which the Court redetermined the deficiency or determined the overpayment the interest in respect of which the petitioner now seeks a redetermination will be recognized in a proceeding commenced under this Rule.
 Counsel not so recognized must file an entry of appearance pursuant to Rule 24(a)(3) or a substitution of counsel pursuant to Rule 24(d).
+
+TITLE XXVI.—ACTIONS FOR ADMINISTRATIVE COSTS
 
 Rule 270. General
 
