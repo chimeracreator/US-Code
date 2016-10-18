@@ -6,7 +6,7 @@ United States Code Document
 
 FEDERAL RULES OF BANKRUPTCY PROCEDURE AND OFFICIAL BANKRUPTCY FORMS
 
-(Effective August 1, 1983, as amended to January 19, 2004)
+(Effective August 1, 1983, as amended to January 3, 2005)
 
 Part
 Rule
@@ -774,7 +774,7 @@ Caption (Short Title).
 Caption of Complaint in Adversary Proceeding Filed by a Debtor. [Abrogated]
 
 16D.
-Caption for Use in Adversary Proceeding other than for a Complaint Filed by a Debtor.
+Caption for Use in Adversary Proceeding.
 
 17.
 Notice of Appeal.
@@ -1225,7 +1225,7 @@ Rule 1011. Responsive Pleading or Motion in Involuntary and Ancillary Cases
 (a) Who May Contest Petition
 
 The debtor named in an involuntary petition or a party in interest to a petition commencing a case ancillary to a foreign proceeding may contest the petition.
-In the case of a petition against a partnership under Rule 1004(b), a nonpetitioning general partner, or a person who is alleged to be a general partner but denies the allegation, may contest the petition.
+In the case of a petition against a partnership under Rule 1004, a nonpetitioning general partner, or a person who is alleged to be a general partner but denies the allegation, may contest the petition.
 
 (b) Defenses and Objections; When Presented
 
@@ -1244,7 +1244,8 @@ A claim against a petitioning creditor may not be asserted in the answer except 
 No other pleadings shall be permitted, except that the court may order a reply to an answer and prescribe the time for filing and service.
 
 (As amended Mar. 30, 1987, eff.
-Aug. 1, 1987.)
+Aug. 1, 1987; Apr. 26, 2004, eff.
+Dec. 1, 2004.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -1731,7 +1732,7 @@ A committee appointed under §1114 shall receive copies of all notices required 
 
 (j) Notices to the United States
 
-Copies of notices required to be mailed to all creditors under this rule shall be mailed (1) in a chapter 11 reorganization case, to the Securities and Exchange Commission at any place the Commission designates, if the Commission has filed either a notice of appearance in the case or a written request to receive notices; (2) in a commodity broker case, to the Commodity Futures Trading Commission at Washington, D.C.; (3) in a chapter 11 case to the District Director of Internal Revenue for the district in which the case is pending; (4) if the papers in the case disclose a debt to the United States other than for taxes, to the United States attorney for the district in which the case is pending and to the department, agency, or instrumentality of the United States through which the debtor became indebted; or if the filed papers disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.
+Copies of notices required to be mailed to all creditors under this rule shall be mailed (1) in a chapter 11 reorganization case, to the Securities and Exchange Commission at any place the Commission designates, if the Commission has filed either a notice of appearance in the case or a written request to receive notices; (2) in a commodity broker case, to the Commodity Futures Trading Commission at Washington, D.C.; (3) in a chapter 11 case, to the Internal Revenue Service at its address set out in the register maintained under Rule 5003(e) for the district in which the case is pending; (4) if the papers in the case disclose a debt to the United States other than for taxes, to the United States attorney for the district in which the case is pending and to the department, agency, or instrumentality of the United States through which the debtor became indebted; or (5) if the filed papers disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.
 
 (k) Notices to United States Trustee
 
@@ -1765,7 +1766,8 @@ Dec. 1, 1997; Apr. 26, 1999, eff.
 Dec. 1, 1999; Apr. 17, 2000, eff.
 Dec. 1, 2000; Apr. 23, 2001, eff.
 Dec. 1, 2001; Mar. 27, 2003, eff.
-Dec. 1, 2003.)
+Dec. 1, 2003; Apr. 26, 2004, eff.
+Dec. 1, 2004.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -2612,6 +2614,33 @@ Subdivision (d) is derived from former Chapter X Rule 10–210 which, in turn, w
 Section 206 has no counterpart in the Code.
 
 Subdivision (e) is derived from former Chapter VIII Rule 8–210(d). It gives the court flexibility in directing the type of future notices to be given intervenors.
+
+Rule 2019. Representation of Creditors and Equity Security Holders in Chapter 9 Municipality and Chapter 11 Reorganization Cases
+
+(a) Data Required
+
+In a chapter 9 municipality or chapter 11 reorganization case, except with respect to a committee appointed pursuant to §1102 or 1114 of the Code, every entity or committee representing more than one creditor or equity security holder and, unless otherwise directed by the court, every indenture trustee, shall file a verified statement setting forth (1) the name and address of the creditor or equity security holder; (2) the nature and amount of the claim or interest and the time of acquisition thereof unless it is alleged to have been acquired more than one year prior to the filing of the petition; (3) a recital of the pertinent facts and circumstances in connection with the employment of the entity or indenture trustee, and, in the case of a committee, the name or names of the entity or entities at whose instance, directly or indirectly, the employment was arranged or the committee was organized or agreed to act; and (4) with reference to the time of the employment of the entity, the organization or formation of the committee, or the appearance in the case of any indenture trustee, the amounts of claims or interests owned by the entity, the members of the committee or the indenture trustee, the times when acquired, the amounts paid therefor, and any sales or other disposition thereof.
+The statement shall include a copy of the instrument, if any, whereby the entity, committee, or indenture trustee is empowered to act on behalf of creditors or equity security holders.
+A supplemental statement shall be filed promptly, setting forth any material changes in the facts contained in the statement filed pursuant to this subdivision.
+
+(b) Failure To Comply; Effect
+
+On motion of any party in interest or on its own initiative, the court may (1) determine whether there has been a failure to comply with the provisions of subdivision (a) of this rule or with any other applicable law regulating the activities and personnel of any entity, committee, or indenture trustee or any other impropriety in connection with any solicitation and, if it so determines, the court may refuse to permit that entity, committee, or indenture trustee to be heard further or to intervene in the case; (2) examine any representation provision of a deposit agreement, proxy, trust mortgage, trust indenture, or deed of trust, or committee or other authorization, and any claim or interest acquired by any entity or committee in contemplation or in the course of a case under the Code and grant appropriate relief; and (3) hold invalid any authority, acceptance, rejection, or objection given, procured, or received by an entity or committee who has not complied with this rule or with §1125(b) of the Code.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991.)
+
+Notes of Advisory Committee on Rules—1983
+
+This rule is a comprehensive regulation of representation in chapter 9 municipality and in chapter 11 reorganization cases.
+It is derived from §§209–213 of the Act and former Chapter X Rule 10–211.
+
+Subdivision (b) is derived from §§212, 213 of the Act.
+As used in clause (2), “other authorization” would include a power or warrant of attorney which are specifically mentioned in §212 of the Act.
+This rule deals with representation provisions in mortgages, trust deeds, etc. to protect the beneficiaries from unfair practices and the like.
+It does not deal with the validation or invalidation of security interests generally.
+If immediate compliance is not possible, the court may permit a representative to be heard on a specific matter, but there is no implicit waiver of compliance on a permanent basis.
 
 Rule 2020. Review of Acts by United States Trustee
 
@@ -3630,89 +3659,6 @@ Subdivision (d) provides that a proceeding by the debtor, permitted by §522(f) 
 Proceedings within the scope of this subdivision are distinguished from proceedings brought by the trustee to avoid transfers.
 The latter are classified as adversary proceedings by Rule 7001.
 
-Rule 4004. Grant or Denial of Discharge
-
-(a) Time for Filing Complaint Objecting to Discharge; Notice of Time Fixed
-
-In a chapter 7 liquidation case a complaint objecting to the debtor's discharge under §727(a) of the Code shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). In a chapter 11 reorganization case, the complaint shall be filed no later than the first date set for the hearing on confirmation.
-At least 25 days’ notice of the time so fixed shall be given to the United States trustee and all creditors as provided in Rule 2002(f) and (k), and to the trustee and the trustee's attorney.
-
-(b) Extension of Time
-
-On motion of any party in interest, after hearing on notice, the court may for cause extend the time to file a complaint objecting to discharge.
-The motion shall be filed before the time has expired.
-
-(c) Grant of Discharge
-
-(1) In a chapter 7 case, on expiration of the time fixed for filing a complaint objecting to discharge and the time fixed for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge unless:
-
-(A) the debtor is not an individual,
-
-(B) a complaint objecting to the discharge has been filed,
-
-(C) the debtor has filed a waiver under §727(a)(10),
-
-(D) a motion to dismiss the case under §707 is pending,
-
-(E) a motion to extend the time for filing a complaint objecting to the discharge is pending,
-
-(F) a motion to extend the time for filing a motion to dismiss the case under Rule 1017(e) is pending, or
-
-(G) the debtor has not paid in full the filing fee prescribed by 28 U.S.C. §1930(a) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon the commencement of a case under the Code.
-
-(2) Notwithstanding Rule 4004(c)(1), on motion of the debtor, the court may defer the entry of an order granting a discharge for 30 days and, on motion within that period, the court may defer entry of the order to a date certain.
-
-(d) Applicability of Rules in Part VII
-
-A proceeding commenced by a complaint objecting to discharge is governed by Part VII of these rules.
-
-(e) Order of Discharge
-
-An order of discharge shall conform to the appropriate Official Form.
-
-(f) Registration in Other Districts
-
-An order of discharge that has become final may be registered in any other district by filing a certified copy of the order in the office of the clerk of that district.
-When so registered the order of discharge shall have the same effect as an order of the court of the district where registered.
-
-(g) Notice of Discharge
-
-The clerk shall promptly mail a copy of the final order of discharge to those specified in subdivision (a) of this rule.
-
-(As amended Mar. 30, 1987, eff.
-Aug. 1, 1987; Apr. 30, 1991, eff.
-Aug. 1, 1991; Apr. 23, 1996, eff.
-Dec. 1, 1996; Apr. 26, 1999, eff.
-Dec. 1, 1999; Apr. 17, 2000, eff.
-Dec. 1, 2000; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
-
-Notes of Advisory Committee on Rules—1983
-
-This rule is adapted from former Bankruptcy Rule 404.
-
-Subdivisions (a) and (b) of this rule prescribe the procedure for determining whether a discharge will be granted pursuant to §727 of the Code.
-The time fixed by subdivision (a) may be enlarged as provided in subdivision (b).
-
-The notice referred to in subdivision (a) is required to be given by mail and addressed to creditors as provided in Rule 2002.
-
-An extension granted on a motion pursuant to subdivision (b) of the rule would ordinarily benefit only the movant, but its scope and effect would depend on the terms of the extension.
-
-Subdivision (c). If a complaint objecting to discharge is filed, the court's grant or denial of the discharge will be entered at the conclusion of the proceeding as a judgment in accordance with Rule 9021. The inclusion of the clause in subdivision (c) qualifying the duty of the court to grant a discharge when a waiver has been filed is in accord with the construction of the Code. 4 Collier, Bankruptcy  727.12 (15th ed. 1979).
-
-The last sentence of subdivision (c) takes cognizance of §524(c) of the Code which authorizes a debtor to enter into enforceable reaffirmation agreements only prior to entry of the order of discharge.
-Immediate entry of that order after expiration of the time fixed for filing complaints objecting to discharge may render it more difficult for a debtor to settle pending litigation to determine the dischargeability of a debt and execute a reaffirmation agreement as part of a settlement.
-
-Subdivision (d). An objection to discharge is required to be made by a complaint, which initiates an adversary proceeding as provided in Rule 7003. Pursuant to Rule 5005, the complaint should be filed in the court in which the case is pending.
-
-Subdivision (e). Official Form No. 27 to which subdivision (e) refers, includes notice of the effects of a discharge specified in §524(a) of the Code.
-
-Subdivision (f). Registration may facilitate the enforcement of the order of discharge in a district other than that in which it was entered.
-See 2 Moore's Federal Practice  1.04[2] (2d ed. 1967). Because of the nationwide service of process authorized by Rule 7004, however, registration of the order of discharge is not necessary under these rules to enable a discharged debtor to obtain relief against a creditor proceeding anywhere in the United States in disregard of the injunctive provisions of the order of discharge.
-
-Subdivision (g). Notice of discharge should be mailed promptly after the order becomes final so that creditors may be informed of entry of the order and of its injunctive provisions.
-Rule 2002 specifies the manner of the notice and persons to whom the notice is to be given.
-
 Rule 4005. Burden of Proof in Objecting to Discharge
 
 At the trial on a complaint objecting to a discharge, the plaintiff has the burden of proving the objection.
@@ -3935,6 +3881,48 @@ Perhaps the most frequent application of the subdivision will be in the allowanc
 For example, if an attorney or accountant is retained by an indenture trustee who thereafter makes a substantial contribution in a chapter 11 case, the attorney or accountant may seek compensation under §503(b)(4). If the attorney or accountant is a relative of or associated with the bankruptcy judge, the judge may not allow compensation to the attorney or accountant.
 Section 101(34) defines relative and Rule 9001 incorporates the definitions of the Code.
 See the Advisory Committee's Note to Rule 5002.
+
+Rule 5005. Filing and Transmittal of Papers
+
+(a) Filing
+
+(1) Place of Filing.
+The lists, schedules, statements, proofs of claim or interest, complaints, motions, applications, objections and other papers required to be filed by these rules, except as provided in 28 U.S.C. §1409, shall be filed with the clerk in the district where the case under the Code is pending.
+The judge of that court may permit the papers to be filed with the judge, in which event the filing date shall be noted thereon, and they shall be forthwith transmitted to the clerk.
+The clerk shall not refuse to accept for filing any petition or other paper presented for the purpose of filing solely because it is not presented in proper form as required by these rules or any local rules or practices.
+
+(2) Filing by Electronic Means.
+A court may by local rule permit documents to be filed, signed, or verified by electronic means that are consistent with technical standards, if any, that the Judicial Conference of the United States establishes.
+A document filed by electronic means in compliance with a local rule constitutes a written paper for the purpose of applying these rules, the Federal Rules of Civil Procedure made applicable by these rules, and §107 of the Code.
+
+(b) Transmittal to the United States Trustee
+
+(1) The complaints, motions, applications, objections and other papers required to be transmitted to the United States trustee by these rules shall be mailed or delivered to an office of the United States trustee, or to another place designated by the United States trustee, in the district where the case under the Code is pending.
+
+(2) The entity, other than the clerk, transmitting a paper to the United States trustee shall promptly file as proof of such transmittal a verified statement identifying the paper and stating the date on which it was transmitted to the United States trustee.
+
+(3) Nothing in these rules shall require the clerk to transmit any paper to the United States trustee if the United States trustee requests in writing that the paper not be transmitted.
+
+(c) Error in Filing or Transmittal
+
+A paper intended to be filed with the clerk but erroneously delivered to the United States trustee, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the clerk of the bankruptcy court.
+A paper intended to be transmitted to the United States trustee but erroneously delivered to the clerk, the trustee, the attorney for the trustee, a bankruptcy judge, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the United States trustee.
+In the interest of justice, the court may order that a paper erroneously delivered shall be deemed filed with the clerk or transmitted to the United States trustee as of the date of its original delivery.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987; Apr. 30, 1991, eff.
+Aug. 1, 1991; Apr. 22, 1993, eff.
+Aug. 1, 1993; Apr. 23, 1996, eff.
+Dec. 1, 1996.)
+
+Notes of Advisory Committee on Rules—1983
+
+Subdivision (a) is an adaptation of Rule 5(e) F.R.Civ.P. Sections 301–304 of the Code and Rules 1002 and 1003 require that cases under the Code be commenced by filing a petition “with the bankruptcy court.” Other sections of the Code and other rules refer to or contemplate filing but there is no specific reference to filing with the bankruptcy court.
+For example, §501 of the Code requires filing of proofs of claim and Rule 3016(c) requires the filing of a disclosure statement.
+This subdivision applies to all situations in which filing is required.
+Except when filing in another district is authorized by 28 U.S.C. §1473, all papers, including complaints commencing adversary proceedings, must be filed in the court where the case under the Code is pending.
+
+Subdivision (b) is the same as former Bankruptcy Rule 509(c).
 
 References in Text
 
@@ -4663,6 +4651,35 @@ Rule 10 F.R.Civ.P. applies in adversary proceedings, except that the caption of 
 
 (As amended Apr. 30, 1991, eff.
 Aug. 1, 1991.)
+
+Rule 7012. Defenses and Objections—When and How Presented—By Pleading or Motion—Motion for Judgment on the Pleadings
+
+(a) When Presented
+
+If a complaint is duly served, the defendant shall serve an answer within 30 days after the issuance of the summons, except when a different time is prescribed by the court.
+The court shall prescribe the time for service of the answer when service of a complaint is made by publication or upon a party in a foreign country.
+A party served with a pleading stating a cross-claim shall serve an answer thereto within 20 days after service.
+The plaintiff shall serve a reply to a counterclaim in the answer within 20 days after service of the answer or, if a reply is ordered by the court, within 20 days after service of the order, unless the order otherwise directs.
+The United States or an officer or agency thereof shall serve an answer to a complaint within 35 days after the issuance of the summons, and shall serve an answer to a cross-claim, or a reply to a counterclaim, within 35 days after service upon the United States attorney of the pleading in which the claim is asserted.
+The service of a motion permitted under this rule alters these periods of time as follows, unless a different time is fixed by order of the court: (1) if the court denies the motion or postpones its disposition until the trial on the merits, the responsive pleading shall be served within 10 days after notice of the court's action; (2) if the court grants a motion for a more definite statement, the responsive pleading shall be served within 10 days after the service of a more definite statement.
+
+(b) Applicability of Rule 12(b)–(h) F.R.Civ.P.
+
+Rule 12(b)–(h) F.R.Civ.P. applies in adversary proceedings.
+A responsive pleading shall admit or deny an allegation that the proceeding is core or non-core.
+If the response is that the proceeding in non-core, it shall include a statement that the party does or does not consent to entry of final orders or judgment by the bankruptcy judge.
+In non-core proceedings final orders and judgments shall not be entered on the bankruptcy judge's order except with the express consent of the parties.
+
+(As amended Mar. 30, 1987, eff.
+Aug. 1, 1987.)
+
+Notes of Advisory Committee on Rules—1983
+
+Subdivision (a) continues the practice of former Bankruptcy Rule 712(a) by requiring that the answer to a complaint be filed within 30 days after the issuance of the summons.
+Under Rule 7004(f), the summons must be served within 10 days of issuance.
+The other pleading periods in adversary proceedings are the same as those in civil actions before the district courts, except that the United States is allowed 35 rather than 60 days to respond.
+
+Rule 12(b)(7) and (h)(2) F.R.Civ.P. refers to Rule 19 F.R.Civ.P. Pursuant to Rule 7002 these references are to Rule 19 F.R.Civ.P. as incorporated and modified by Rule 7019.
 
 Rule 7013. Counterclaim and Cross-Claim
 
@@ -5846,7 +5863,7 @@ The motion shall be served in the manner provided for service of a summons and c
 
 (c) Application of Part VII Rules
 
-Unless the court directs otherwise, the following rules shall apply: 7009, 7017, 7021, 7025, 7026, 7028-7037, 7041, 7042, 7052, 7054-7056, 7064, 7069, and 7071. An entity that desires to perpetuate testimony may proceed in the same manner as provided in Rule 7027 for the taking of a deposition before an adversary proceeding.
+Except as otherwise provided in this rule, and unless the court directs otherwise, the following rules shall apply: 7009, 7017, 7021, 7025, 7026, 7028-7037, 7041, 7042, 7052, 7054-7056, 7064, 7069, and 7071. The following subdivisions of Fed. R. Civ. P. 26, as incorporated by Rule 7026, shall not apply in a contested matter unless the court directs otherwise: 26(a)(1) (mandatory disclosure), 26(a)(2) (disclosures regarding expert testimony) and 26(a)(3) (additional pre-trial disclosure), and 26(f) (mandatory meeting before scheduling conference/discovery plan). An entity that desires to perpetuate testimony may proceed in the same manner as provided in Rule 7027 for the taking of a deposition before an adversary proceeding.
 The court may at any stage in a particular matter direct that one or more of the other rules in Part VII shall apply.
 The court shall give the parties notice of any order issued under this paragraph to afford them a reasonable opportunity to comply with the procedures prescribed by the order.
 
@@ -5861,7 +5878,8 @@ The court shall provide procedures that enable parties to ascertain at a reasona
 (As amended Mar. 30, 1987, eff.
 Aug. 1, 1987; Apr. 26, 1999, eff.
 Dec. 1, 1999; Apr. 29, 2002, eff.
-Dec. 1, 2002.)
+Dec. 1, 2002; Apr. 26, 2004, eff.
+Dec. 1, 2004.)
 
 Notes of Advisory Committee on Rules—1983
 
@@ -5874,6 +5892,10 @@ If a party in interest opposes the amount of compensation sought by a profession
 
 When the rules of Part VII are applicable to a contested matter, reference in the Part VII rules to adversary proceedings is to be read as a reference to a contested matter.
 See Rule 9002(1).
+
+References in Text
+
+The Federal Rules of Civil Procedure, referred to in subds. (b) and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Rule 9015. Jury Trials
 
@@ -7212,15 +7234,20 @@ An individual debtor can fulfill this requirement by including the debtor's soci
 
 Form 16D
 
-(Added Mar. 14, 1995.)
+(Added Mar. 14, 1995; amended Dec. 1, 2004.)
 
 Notes of Advisory Committee on Rules—1995
 
 This form of caption may be used in an adversary proceeding when section 342(c) of the Code, as added by the Bankruptcy Reform Act of 1994, is not applicable.
 
+Committee Notes on Rules—2004 Amendment
+
+This form is amended to reflect the 2003 abrogation of Form 16C. As a complaint initiating an adversary proceeding serves as a notice to the defendant of the filing of an action, a debtor filing an adversary proceeding must follow the notice requirements of §342(c) of the Code.
+To protect individual privacy a debtor should use the defendant's copy of the summons to be served with the complaint to provide the information required by §342(c) to any creditor named as a defendant.
+
 Form 17
 
-(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2002.)
+(Added Aug. 1, 1991; amended Mar. 14, 1995; Oct. 1, 1997; Dec. 1, 2002; Dec. 1, 2004.)
 
 Notes of Advisory Committee on Rules—1991 Amendment
 
@@ -7241,6 +7268,10 @@ A party filing a notice of appeal pro se should provide equivalent information.
 Committee Notes on Rules—2002 Amendment
 
 The form is amended to give notice that no filing fee is required if a child support creditor or its representative is the appellant, and if the child support creditor or its representative files a form detailing the child support debt, its status, and other characteristics, as specified in §304(g) of the Bankruptcy Reform Act of 1994, Pub. L. No. 103–396[394], 108 Stat. 4106 (Oct. 22, 1994).
+
+Committee Notes on Rules—2004 Amendment
+
+The form is amended to reflect the 2003 abrogation of Form 16C.
 
 Form 18
 
