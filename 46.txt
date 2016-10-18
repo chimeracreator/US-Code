@@ -5896,7 +5896,7 @@ It also prohibits the Secretary from disclosing the information, proceeding agai
 
 Plan To Increase Marine Casualty Reporting
 
-Pub. L. 104–324, title III, §314(a), Oct. 19, 1996, 110 Stat. 3922, provided that: “Not later than one year after enactment of this Act [Oct. 19, 1996], the Secretary of Transportation shall, in consultation with appropriate State agencies, submit to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to increase reporting of vessel accidents to appropriate State law enforcement officials.”
+Pub. L. 104–324, title III, §314(a), Oct. 19, 1996, 110 Stat. 3922, provided that: “Not later than one year after enactment of this Act [Oct. 19, 1996], the Secretary of Transportation shall, in consultation with appropriate State agencies, submit to the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to increase reporting of vessel accidents to appropriate State law enforcement officials.”
 
 §6103. Penalty
 
@@ -18540,6 +18540,10 @@ Passenger and Cargo Preferences
 Miscellaneous
 55501
 
+556.
+Short Sea Transportation
+55601
+
         
 
 Part E—Control of Merchant Marine Capabilities
@@ -22313,7 +22317,7 @@ In this chapter:
 
 (ii) documented under the laws of the United States; and
 
-(iii) agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title, to be operated in the United States foreign, Great Lakes, or noncontiguous domestic trade or in the fisheries of the United States; and
+(iii) agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title, to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade trade 1 or in the fisheries of the United States; and
 
 (B) a commercial fishing vessel—
 
@@ -22333,7 +22337,21 @@ In this chapter:
 
 (B) the Secretary of Transportation with respect to other vessels.
 
-(7) United states foreign trade.—The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
+(7) 2 Short sea transportation trade.—The term “short sea transportation trade” means the carriage by vessel of cargo—
+
+(A) that is—
+
+(i) contained in intermodal cargo containers and loaded by crane on the vessel; or
+
+(ii) loaded on the vessel by means of wheeled technology; and
+
+(B) that is—
+
+(i) loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or
+
+(ii) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
+
+(7) 2 United states foreign trade.—The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
 
 (8) Vessel.—The term “vessel” includes—
 
@@ -22341,7 +22359,7 @@ In this chapter:
 
 (B) an ocean-going towing vessel, an ocean-going barge, or a comparable towing vessel or barge operated on the Great Lakes.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1591.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1591; Pub. L. 110–140, title XI, §1122(a), Dec. 19, 2007, 121 Stat. 1762.)
 
 Historical and Revision Notes	Revised Section
 
@@ -22365,6 +22383,11 @@ References in Text
 
 Section 506 of the Merchant Marine Act, 1936, referred to in par. (7), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
 
+1 So in original.
+
+2 So in original.
+Two pars. (7) have been enacted.
+
 §53502. Regulations
 
 (a) In General.—Except as provided in subsection (b), the Secretary shall prescribe regulations to carry out this chapter.
@@ -22386,9 +22409,9 @@ In subsection (b), the words “not inconsistent with the foregoing provisions o
 
 (a) In General.—A citizen of the United States owning or leasing an eligible vessel may make an agreement with the Secretary under this chapter to establish a capital construction fund for the vessel.
 
-(b) Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, or noncontiguous domestic trade or in the fisheries of the United States.
+(b) Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593; Pub. L. 110–140, title XI, §1122(b), Dec. 19, 2007, 121 Stat. 1762.)
 
 Historical and Revision Notes	Revised Section
 
@@ -26046,6 +26069,127 @@ Historical and Revision Notes	Revised Section
 	Source (U.S. Code)	Source (Statutes at Large)
 	55501	46 App.:1122b.	June 29, 1936, ch. 858, title II, §212(B), as added Pub. L. 87–839, §1, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 89–66, July 7, 1965, 79 Stat. 211; Pub. L. 90–434, July 27, 1968, 82 Stat. 449; Pub. L. 100–418, title X, §10003(a), Aug. 23, 1988, 102 Stat. 1572.
 
+CHAPTER 556—SHORT SEA TRANSPORTATION
+
+Sec.
+
+55601.
+Short sea transportation program.
+
+55602.
+Cargo and shippers.
+
+55603.
+Interagency coordination.
+
+55604.
+Research on short sea transportation.
+
+55605.
+Short sea transportation defined.
+
+        
+
+§55601. Short sea transportation program
+
+(a) Establishment.—The Secretary of Transportation shall establish a short sea transportation program and designate short sea transportation projects to be conducted under the program to mitigate landside congestion.
+
+(b) Program Elements.—The program shall encourage the use of short sea transportation through the development and expansion of—
+
+(1) documented vessels;
+
+(2) shipper utilization;
+
+(3) port and landside infrastructure; and
+
+(4) marine transportation strategies by State and local governments.
+
+(c) Short Sea Transportation Routes.—The Secretary shall designate short sea transportation routes as extensions of the surface transportation system to focus public and private efforts to use the waterways to relieve landside congestion along coastal corridors.
+The Secretary may collect and disseminate data for the designation and delineation of short sea transportation routes.
+
+(d) Project Designation.—The Secretary may designate a project to be a short sea transportation project if the Secretary determines that the project may—
+
+(1) offer a waterborne alternative to available landside transportation services using documented vessels; and
+
+(2) provide transportation services for passengers or freight (or both) that may reduce congestion on landside infrastructure using documented vessels.
+
+(e) Elements of Program.—For a short sea transportation project designated under this section, the Secretary may—
+
+(1) promote the development of short sea transportation services;
+
+(2) coordinate, with ports, State departments of transportation, localities, other public agencies, and the private sector and on the development of landside facilities and infrastructure to support short sea transportation services; and
+
+(3) develop performance measures for the short sea transportation program.
+
+(f) Multistate, State and Regional Transportation Planning.—The Secretary, in consultation with Federal entities and State and local governments, shall develop strategies to encourage the use of short sea transportation for transportation of passengers and cargo.
+The Secretary shall—
+
+(1) assess the extent to which States and local governments include short sea transportation and other marine transportation solutions in their transportation planning;
+
+(2) encourage State departments of transportation to develop strategies, where appropriate, to incorporate short sea transportation, ferries, and other marine transportation solutions for regional and interstate transport of freight and passengers in their transportation planning; and
+
+(3) encourage groups of States and multi-State transportation entities to determine how short sea transportation can address congestion, bottlenecks, and other interstate transportation challenges.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760.)
+
+Effective Date
+
+Chapter effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+
+Regulations
+
+Pub. L. 110–140, title XI, §1121(c), Dec. 19, 2007, 121 Stat. 1762, provided that:
+
+“(1) Interim regulations.—Not later than 90 days after the date of enactment of this Act [Dec. 19, 2007], the Secretary of Transportation shall issue temporary regulations to implement the program under this section.
+Subchapter II of chapter 5 of title 5, United States Code, does not apply to a temporary regulation issued under this paragraph or to an amendment to such a temporary regulation.
+
+“(2) Final regulations.—Not later than October 1, 2008, the Secretary of Transportation shall issue final regulations to implement the program under this section.”
+
+§55602. Cargo and shippers
+
+(a) Memorandums of Agreement.—The Secretary of Transportation shall enter into memorandums of understanding with the heads of other Federal entities to transport federally owned or generated cargo using a short sea transportation project designated under section 55601 when practical or available.
+
+(b) Short-Term Incentives.—The Secretary shall consult shippers and other participants in transportation logistics and develop proposals for short-term incentives to encourage the use of short sea transportation.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761.)
+
+§55603. Interagency coordination
+
+The Secretary of Transportation shall establish a board to identify and seek solutions to impediments hindering effective use of short sea transportation.
+The board shall include representatives of the Environmental Protection Agency and other Federal, State, and local governmental entities and private sector entities.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761.)
+
+§55604. Research on short sea transportation
+
+The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, may conduct research on short sea transportation, regarding—
+
+(1) the environmental and transportation benefits to be derived from short sea transportation alternatives for other forms of transportation;
+
+(2) technology, vessel design, and other improvements that would reduce emissions, increase fuel economy, and lower costs of short sea transportation and increase the efficiency of intermodal transfers; and
+
+(3) solutions to impediments to short sea transportation projects designated under section 55601.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761.)
+
+§55605. Short sea transportation defined
+
+In this chapter, the term “short sea transportation” means the carriage by vessel of cargo—
+
+(1) that is—
+
+(A) contained in intermodal cargo containers and loaded by crane on the vessel; or
+
+(B) loaded on the vessel by means of wheeled technology; and
+
+(2) that is—
+
+(A) loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or
+
+(B) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761.)
+
 Part E—Control of Merchant Marine Capabilities
 
 CHAPTER 561—RESTRICTIONS ON TRANSFERS
@@ -29064,7 +29208,7 @@ Pub. L. 107–295, title I, §102(c), Nov. 25, 2002, 116 Stat. 2084, provided th
 
 (2) A person shall not admit an individual into such a secure area unless the entry of the individual into the area is in compliance with paragraph (1).
 
-(b) Issuance of Cards.—(1) The Secretary shall issue a biometric transportation security card to an individual specified in paragraph (2), unless the Secretary decides that the individual poses a security risk under subsection (c) warranting denial of the card.
+(b) Issuance of Cards.—(1) The Secretary shall issue a biometric transportation security card to an individual specified in paragraph (2), unless the Secretary determines under subsection (c) that the individual poses a security risk warranting denial of the card.
 
 (2) This subsection applies to—
 
@@ -29082,21 +29226,99 @@ Pub. L. 107–295, title I, §102(c), Nov. 25, 2002, 116 Stat. 2084, provided th
 
 (G) other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
 
-(c) Determination of Terrorism Security Risk.—(1) An individual may not be denied a transportation security card under subsection (b) unless the Secretary determines that individual—
+(c) Determination of Terrorism Security Risk.—
 
-(A) has been convicted within the preceding 7-year period of a felony or found not guilty by reason of insanity of a felony—
+(1) Disqualifications.—
 
-(i) that the Secretary believes could cause the individual to be a terrorism security risk to the United States; or
+(A) Permanent disqualifying criminal offenses.—Except as provided under paragraph (2), an individual is permanently disqualified from being issued a biometric transportation security card under subsection (b) if the individual has been convicted, or found not guilty by reason of insanity, in a civilian or military jurisdiction of any of the following felonies:
 
-(ii) for causing a severe transportation security incident;
+(i) Espionage or conspiracy to commit espionage.
 
-(B) has been released from incarceration within the preceding 5-year period for committing a felony described in subparagraph (A);
+(ii) Sedition or conspiracy to commit sedition.
 
-(C) may be denied admission to the United States or removed from the United States under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.); or
+(iii) Treason or conspiracy to commit treason.
 
-(D) otherwise poses a terrorism security risk to the United States.
+(iv) A Federal crime of terrorism (as defined in section 2332b(g) of title 18), a crime under a comparable State law, or conspiracy to commit such crime.
 
-(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) 1 paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
+(v) A crime involving a transportation security incident.
+
+(vi) Improper transportation of a hazardous material in violation of section 5104(b) of title 49, or a comparable State law.
+
+(vii) Unlawful possession, use, sale, distribution, manufacture, purchase, receipt, transfer, shipment, transportation, delivery, import, export, or storage of, or dealing in, an explosive or explosive device.
+In this clause, an explosive or explosive device includes—
+
+(I) an explosive (as defined in sections 232(5) and 844(j) of title 18);
+
+(II) explosive materials (as defined in subsections (c) through (f) of section 841 of title 18); and
+
+(III) a destructive device (as defined in 921(a)(4) of title 18 or section 5845(f) of the Internal Revenue Code of 1986).
+
+(viii) Murder.
+
+(ix) Making any threat, or maliciously conveying false information knowing the same to be false, concerning the deliverance, placement, or detonation of an explosive or other lethal device in or against a place of public use, a State or other government facility, a public transportation system, or an infrastructure facility.
+
+(x) A violation of chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act, or a comparable State law, if one of the predicate acts found by a jury or admitted by the defendant consists of one of the crimes listed in this subparagraph.
+
+(xi) Attempt to commit any of the crimes listed in clauses (i) through (iv).
+
+(xii) Conspiracy or attempt to commit any of the crimes described in clauses (v) through (x).
+
+(B) Interim disqualifying criminal offenses.—Except as provided under paragraph (2), an individual is disqualified from being issued a biometric transportation security card under subsection (b) if the individual has been convicted, or found not guilty by reason of insanity, during the 7-year period ending on the date on which the individual applies for such card, or was released from incarceration during the 5-year period ending on the date on which the individual applies for such card, of any of the following felonies:
+
+(i) Unlawful possession, use, sale, manufacture, purchase, distribution, receipt, transfer, shipment, transportation, delivery, import, export, or storage of, or dealing in, a firearm or other weapon.
+In this clause, a firearm or other weapon includes—
+
+(I) firearms (as defined in section 921(a)(3) of title 18 or section 5845(a) of the Internal Revenue Code of 1986); and
+
+(II) items contained on the U.S. Munitions Import List under section 447.21 of title 27, Code of Federal Regulations.
+
+(ii) Extortion.
+
+(iii) Dishonesty, fraud, or misrepresentation, including identity fraud and money laundering if the money laundering is related to a crime described in this subparagraph or subparagraph (A). In this clause, welfare fraud and passing bad checks do not constitute dishonesty, fraud, or misrepresentation.
+
+(iv) Bribery.
+
+(v) Smuggling.
+
+(vi) Immigration violations.
+
+(vii) Distribution of, possession with intent to distribute, or importation of a controlled substance.
+
+(viii) Arson.
+
+(ix) Kidnaping or hostage taking.
+
+(x) Rape or aggravated sexual abuse.
+
+(xi) Assault with intent to kill.
+
+(xii) Robbery.
+
+(xiii) Conspiracy or attempt to commit any of the crimes listed in this subparagraph.
+
+(xiv) Fraudulent entry into a seaport in violation of section 1036 of title 18, or a comparable State law.
+
+(xv) A violation of the chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act 1 or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
+
+(C) Under want, warrant, or indictment.—An applicant who is wanted, or under indictment, in any civilian or military jurisdiction for a felony listed in paragraph (1)(A), is disqualified from being issued a biometric transportation security card under subsection (b) until the want or warrant is released or the indictment is dismissed.
+
+(D) Other potential disqualifications.—Except as provided under subparagraphs (A) through (C), an individual may not be denied a transportation security card under subsection (b) unless the Secretary determines that individual—
+
+(i) has been convicted within the preceding 7-year period of a felony or found not guilty by reason of insanity of a felony—
+
+(I) that the Secretary believes could cause the individual to be a terrorism security risk to the United States; or
+
+(II) for causing a severe transportation security incident;
+
+(ii) has been released from incarceration within the preceding 5-year period for committing a felony described in clause (i);
+
+(iii) may be denied admission to the United States or removed from the United States under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.); or
+
+(iv) otherwise poses a terrorism security risk to the United States.
+
+(E) Modification of listed offenses.—The Secretary may, by rulemaking, add to or modify the list of disqualifying crimes described in paragraph (1)(B).
+
+(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) 2 paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
 
 (A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
 
@@ -29205,11 +29427,13 @@ An individual's employer may only be informed of whether or not the individual h
 
 (2) the Secretary determines that the vessel is at risk of a severe transportation security incident.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397.)
 
 References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (c)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality.
+Section 5845 of the Internal Revenue Code of 1986, referred to in subsec. (c)(1)(A)(vii)(III), (B)(i)(I), is classified to section 5845 of Title 26, Internal Revenue Code.
+
+The Immigration and Nationality Act, referred to in subsec. (c)(1)(D)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality.
 For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -29237,6 +29461,9 @@ Pub. L. 109–347, title I, §106, Oct. 13, 2006, 120 Stat. 1891, provided that:
 “(4) a crime listed in chapter 113B of title 18, United States Code, a comparable State law, or conspiracy to commit such crime.”
 
 1 So in original.
+Probably should be followed by a comma.
+
+2 So in original.
 Probably should be followed by “of”.
 
 §70106. Maritime safety and security teams
@@ -29880,24 +30107,6 @@ Another prior section 70118 was renumbered section 70121 of this title.
 Codification
 
 Another section 70119 was renumbered section 70118 of this title.
-
-§70120. In rem liability for civil penalties and certain costs
-
-(a) Civil Penalties.—Any vessel operated in violation of this chapter or any regulations prescribed under this chapter shall be liable in rem for any civil penalty assessed pursuant to section 70119 for such violation, and may be proceeded against for such liability in the United States district court for any district in which the vessel may be found.
-
-(b) Reimbursable Costs of Service Providers.—A vessel shall be liable in rem for the reimbursable costs incurred by any service provider related to implementation and enforcement of this chapter and arising from a violation by the operator of the vessel of this chapter or any regulations prescribed under this chapter, and may be proceeded against for such liability in the United States district court for any district in which such vessel may be found.
-
-(c) Definitions.—In this subsection—
-
-(1) the term “reimbursable costs” means costs incurred by any service provider acting in conformity with a lawful order of the Federal government or in conformity with the instructions of the vessel operator; and
-
-(2) the term “service provider” means any port authority, facility or terminal operator, shipping agent, Federal, State, or local government agency, or other person to whom the management of the vessel at the port of supply is entrusted, for—
-
-(A) services rendered to or in relation to vessel crew on board the vessel, or in transit to or from the vessel, including accommodation, detention, transportation, and medical expenses; and
-
-(B) required handling of cargo or other items on board the vessel.
-
-(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120 and amended Pub. L. 109–241, title IX, §901(l)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705.)
 
 §70121. Withholding of clearance
 

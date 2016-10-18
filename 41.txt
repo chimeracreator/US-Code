@@ -628,11 +628,48 @@ See sections 10a to 10d of this title.
 
 §10a. American materials required for public use
 
+(a) In general
+
 Notwithstanding any other provision of law, and unless the head of the department or independent establishment concerned shall determine it to be inconsistent with the public interest, or the cost to be unreasonable, only such unmanufactured articles, materials, and supplies as have been mined or produced in the United States, and only such manufactured articles, materials, and supplies as have been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States, shall be acquired for public use.
 This section shall not apply with respect to articles, materials, or supplies for use outside the United States, or if articles, materials, or supplies of the class or kind to be used or the articles, materials, or supplies from which they are manufactured are not mined, produced, or manufactured, as the case may be, in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.
 This section shall not apply to manufactured articles, materials, or supplies procured under any contract the award value of which is less than or equal to the micro-purchase threshold under section 428 of this title.
 
-(Mar. 3, 1933, ch. 212, title III, §2, 47 Stat. 1520; Pub. L. 100–418, title VII, §7005(b), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–355, title IV, §4301(b), Oct. 13, 1994, 108 Stat. 3347.)
+(b) Reports
+
+(1) In general
+
+Not later than 180 days after the end of each of fiscal years 2007 through 2011, the head of each Federal agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the amount of the acquisitions made by the agency in that fiscal year of articles, materials, or supplies purchased from entities that manufacture the articles, materials, or supplies outside of the United States.
+
+(2) Contents of report
+
+The report required by paragraph (1) shall separately include, for the fiscal year covered by such report—
+
+(A) the dollar value of any articles, materials, or supplies that were manufactured outside the United States;
+
+(B) an itemized list of all waivers granted with respect to such articles, materials, or supplies under this Act, and a citation to the treaty, international agreement, or other law under which each waiver was granted;
+
+(C) if any articles, materials, or supplies were acquired from entities that manufacture articles, materials, or supplies outside the United States, the specific exception under this section that was used to purchase such articles, materials, or supplies; and
+
+(D) a summary of—
+
+(i) the total procurement funds expended on articles, materials, and supplies manufactured inside the United States; and
+
+(ii) the total procurement funds expended on articles, materials, and supplies manufactured outside the United States.
+
+(3) Public availability
+
+The head of each Federal agency submitting a report under paragraph (1) shall make the report publicly available to the maximum extent practicable.
+
+(4) Exception for intelligence community
+
+This subsection shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as specified in, or designated under, section 401a(4) of title 50.
+
+(Mar. 3, 1933, ch. 212, title III, §2, 47 Stat. 1520; Pub. L. 100–418, title VII, §7005(b), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–355, title IV, §4301(b), Oct. 13, 1994, 108 Stat. 3347; Pub. L. 110–28, title VIII, §8306, May 25, 2007, 121 Stat. 211.)
+
+References in Text
+
+This Act, referred to in subsec. (b)(2)(B), probably should be “this title”, meaning title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of this title.
+For complete classification of title III to the Code, see Short Title note below and Tables.
 
 Effective and Termination Dates of 1988 Amendment
 
@@ -726,6 +763,8 @@ Pub. L. 103–160, §849(c), (d), which comprises this section, was formerly set
 Similar Provisions
 
 Provisions similar to those in this section and section 10b–3 of this title were contained in the following acts:
+
+Pub. L. 110–116, div. A, title VIII, §8029, Nov. 13, 2007, 121 Stat. 1321.
 
 Pub. L. 109–289, div. A, title VIII, §8027, Sept. 29, 2006, 120 Stat. 1279.
 
@@ -1358,6 +1397,12 @@ Whenever the Secretary of Labor shall permit an increase in the maximum hours of
 
 (June 30, 1936, ch. 881, §6, 49 Stat. 2038; June 28, 1940, ch. 440, title I, §13, 54 Stat. 681.)
 
+§41. “Person” defined in Walsh-Healey provisions
+
+Whenever used in sections 35 to 45 of this title, the word “person” includes one or more individuals, partnerships, associations, corporations, legal representatives, trustees, trustees in cases under title 11, or receivers.
+
+(June 30, 1936, ch. 881, §7, 49 Stat. 2039; Pub. L. 95–598, title III, §326, Nov. 6, 1978, 92 Stat. 2679.)
+
 §42. Effect of Walsh-Healey provisions on other laws
 
 The provisions of sections 35 to 45 of this title shall not be construed to modify or amend Title III of the act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved May 3, 1933 (commonly known as the Buy American Act) [41 U.S.C. 10a et seq.], nor shall the provisions of sections 35 to 45 of this title be construed to modify or amend sections 3141–3144, 3146, and 3147 of title 40, nor the labor provisions of Title II of the National Industrial Recovery Act, approved June 16, 1933, as extended, or of section 7 of the Emergency Relief Appropriation Act, approved April 8, 1935; nor shall the provisions of sections 35 to 45 of this title be construed to modify or amend chapter 307 and section 4162 1 of title 18.
@@ -1435,108 +1480,6 @@ A prior section 11 of act June 30, 1936, was renumbered section 12, and is class
 
 Another prior section 11 of act June 30, 1936, was renumbered section 13, and is classified to section 45 of this title.
 
-Effective Date
-
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
-
-§44. Separability of Walsh-Healey provisions
-
-If any provision of sections 35 to 45 of this title, or the application thereof to any persons or circumstances, is held invalid, the remainder of said sections, and the application of such provisions to other persons or circumstances, shall not be affected thereby.
-
-(June 30, 1936, ch. 881, §12, formerly §10, 49 Stat. 2039; renumbered §11, June 30, 1952, ch. 530, title III, §301, 66 Stat. 308; renumbered §12, Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675.)
-
-Prior Provisions
-
-A prior section 12 of act June 30, 1936, was renumbered section 13, and is classified to section 45 of this title.
-
-Another prior section 12 of act June 30, 1936, was renumbered section 14, and is set out as a Short Title note under section 35 of this title.
-
-§45. Effective date of Walsh-Healey provisions; exception as to representations with respect to minimum wages
-
-Sections 35 to 45 of this title shall apply to all contracts entered into pursuant to invitations for bids issued on or after ninety days from June 30, 1936: Provided, however, That the provisions requiring the inclusion of representations with respect to minimum wages shall apply only to purchases or contracts relating to such industries as have been the subject matter of a determination by the Secretary of Labor.
-
-(June 30, 1936, ch. 881, §13, formerly §11, 49 Stat. 2039; renumbered §12, June 30, 1952, ch. 530, title III, §301, 66 Stat. 308; renumbered §13, Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675.)
-
-§46. Committee for Purchase From People Who Are Blind or Severely Disabled
-
-(a) Establishment
-
-There is established a committee to be known as the Committee for Purchase From People Who Are Blind or Severely Disabled (hereafter in sections 46 to 48c of this title referred to as the “Committee”). The Committee shall be composed of fifteen members appointed as follows:
-
-(1) The President shall appoint as a member one officer or employee from each of the following: The Department of Agriculture, the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the Department of Education, the Department of Commerce, the Department of Veterans Affairs, the Department of Justice, the Department of Labor, and the General Services Administration.
-The head of each such department and agency shall nominate one officer or employee in his department or agency for appointment under this paragraph.
-
-(2)(A) The President shall appoint one member from persons who are not officers or employees of the Government and who are conversant with the problems incident to the employment of the blind.
-
-(B) The President shall appoint one member from persons who are not officers or employees of the Government and who are conversant with the problems incident to the employment of other severely handicapped individuals.
-
-(C) The President shall appoint one member from persons who are not officers or employees of the Government and who represent blind individuals employed in qualified nonprofit agencies for the blind.
-
-(D) The President shall appoint one member from persons who are not officers or employees of the Government and who represent severely handicapped individuals (other than blind individuals) employed in qualified nonprofit agencies for other severely handicapped individuals.
-
-(b) Vacancy
-
-A vacancy in the membership of the Committee shall be filled in the manner in which the original appointment was made.
-
-(c) Chairman
-
-The members of the Committee shall elect one of their number to be Chairman.
-
-(d) Terms
-
-(1) Except as provided in paragraphs (2), (3), and (4), members appointed under paragraph (2) of subsection (a) of this section shall be appointed for terms of five years.
-Any member appointed to the Committee under such paragraph may be reappointed to the Committee if he meets the qualifications prescribed by that paragraph.
-
-(2) Of the members first appointed under paragraph (2) of subsection (a) of this section—
-
-(A) one shall be appointed for a term of three years,
-
-(B) one shall be appointed for a term of four years, and
-
-(C) one shall be appointed for a term of five years,
-
-as designated by the President at the time of appointment.
-
-(3) Any member appointed under paragraph (2) of subsection (a) of this section to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term.
-A member appointed under such paragraph may serve after the expiration of his term until his successor has taken office.
-
-(4) The member first appointed under paragraph (2)(B) of subsection (a) of this section shall be appointed for a term of three years.
-
-(e) Pay and travel expenses
-
-(1) Except as provided in paragraph (2), members of the Committee shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of services for the Committee.
-
-(2) Members of the Committee who are officers or employees of the Government shall receive no additional pay on account of their service on the Committee.
-
-(3) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1 of title 5.
-
-(f) Staff
-
-(1) Subject to such rules as may be adopted by the Committee, the Chairman may appoint and fix the pay of such personnel as the Committee determines are necessary to assist it in carrying out its duties and powers under sections 46 to 48c of this title.
-
-(2) Upon request of the Committee, the head of any entity of the Government is authorized to detail, on a reimbursable basis, any of the personnel of such entity to the Committee to assist it in carrying out its duties and powers under section 46 to 48c of this title.
-
-(3) The staff of the Committee appointed under paragraph (1) shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title 5 relating to classification and General Schedule pay rates.
-
-(g) Obtaining official data
-
-The Committee may secure directly from any entity of the Government information necessary to enable it to carry out sections 46 to 48c of this title.
-Upon request of the Chairman of the Committee, the head of such Government entity shall furnish such information to the Committee.
-
-(h) Administrative support services
-
-The Administrator of General Services shall provide to the Committee on a reimbursable basis such administrative support services as the Committee may request.
-
-(i) Annual report
-
-The Committee shall, not later than December 31 of each year, transmit to the President and to the Congress a report which shall include the names of the Committee members serving in the preceding fiscal year, the dates of Committee meetings in that year, a description of its activities under sections 46 to 48c of this title in that year, and any recommendations for changes in sections 46 to 48c of this title which it determines are necessary.
-
-(June 25, 1938, ch. 697, §1, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358, §1(1), (2), July 25, 1974, 88 Stat. 392, 393; Pub. L. 94–273, §8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–54, §13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, §911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, §301, Aug. 11, 1993, 107 Stat. 736.)
-
-References in Text
-
-Section 5703 of title 5, referred to in subsec. (e)(3), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
-
 Short Title
 
 Section 7 of act June 25, 1938, as added by Pub. L. 103–355, title X, §10005(f)(6), Oct. 13, 1994, 108 Stat. 3409, provided that: “This Act [enacting this section and sections 47 to 48c of this title] may be cited as the ‘Javits-Wagner-O'Day Act’.”
@@ -1580,7 +1523,7 @@ Pub. L. 109–163, div. A, title VIII, §848(b), (c), Jan. 6, 2006, 119 Stat. 33
 “(b) Statement of Policy.—The Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall jointly issue a statement of policy related to the implementation of the Randolph-Sheppard Act (20 U.S.C. 107 et seq.) and the Javits-Wagner-O'Day Act (41 U.S.C. 48 [46 et seq.]) within the Department of Defense and the Department of Education.
 The joint statement of policy shall specifically address the application of those Acts to both operation and management of all or any part of a military mess hall, military troop dining facility, or any similar dining facility operated for the purpose of providing meals to members of the Armed Forces, and shall take into account and address, to the extent practicable, the positions acceptable to persons representing programs implemented under each Act.
 
-“(c) Report.—Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate.”
+“(c) Report.—Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce [now Committee on Education and Labor] of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate.”
 
 1 See References in Text note below.
 
@@ -3978,7 +3921,7 @@ Pub. L. 108–136, div. A, title XIV, §1442, Nov. 24, 2003, 117 Stat. 1674, pro
 
 “(2) Availability to congress.—In any case in which the head of an executive agency withholds information under paragraph (1), the head of such executive agency shall make available an unredacted version of the document containing that information to the chairman and ranking member of each of the following committees of Congress:
 
-“(A) The Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.
+“(A) The Committee on Governmental Affairs of the Senate and the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives.
 
 “(B) The Committees on Appropriations of the Senate and House of Representatives.
 
@@ -4724,7 +4667,7 @@ The report shall include the following information:
 
 “(A) The Committees on Armed Services and on Homeland Security and Governmental Affairs of the Senate.
 
-“(B) The Committees on Armed Services and on Government Reform of the House of Representatives.”
+“(B) The Committees on Armed Services and on Government Reform [now Oversight and Government Reform] of the House of Representatives.”
 
 §253j. Task and delivery order contracts: orders
 
@@ -5485,7 +5428,7 @@ Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Effective Date
 
@@ -5573,274 +5516,6 @@ Any such report shall be available to any Member of Congress upon request.
 References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (g)(8), is set out in section 5315 of Title 5, Government Organization and Employees.
-
-Effective Date
-
-Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
-
-Exemption of Functions
-
-Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord.
-No. 11223, eff.
-May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
-
-Relationship to Prompt Payment Requirements
-
-Section 2051(f) of Pub. L. 103–355 provided that: “The amendments made by this section [amending this section] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act [Oct. 13, 1994]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
-
-Definitions
-
-The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-§256. Allowable costs
-
-(a) Indirect cost that violates FAR cost principle
-
-An executive agency shall require that a covered contract provide that if the contractor submits to the executive agency a proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued and if that proposal includes the submission of a cost which is unallowable because the cost violates a cost principle in the Federal Acquisition Regulation (referred to in section 421(c)(1) of this title) or an executive agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
-
-(b) Penalty for violation of cost principle
-
-(1) If the executive agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) of this section that defines the allowability of specific selected costs, the executive agency shall assess a penalty against the contractor in an amount equal to—
-
-(A) the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted; plus
-
-(B) interest (to be computed based on provisions in the Federal Acquisition Regulation) to compensate the United States for the use of any funds which a contractor has been paid in excess of the amount to which the contractor was entitled.
-
-(2) If the executive agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the executive agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
-
-(c) Waiver of penalty
-
-The Federal Acquisition Regulation shall provide for a penalty under subsection (b) of this section to be waived in the case of a contractor's proposal for settlement of indirect costs when—
-
-(1) the contractor withdraws the proposal before the formal initiation of an audit of the proposal by the Federal Government and resubmits a revised proposal;
-
-(2) the amount of unallowable costs subject to the penalty is insignificant; or
-
-(3) the contractor demonstrates, to the contracting officer's satisfaction, that—
-
-(A) it has established appropriate policies and personnel training and an internal control and review system that provide assurances that unallowable costs subject to penalties are precluded from being included in the contractor's proposal for settlement of indirect costs; and
-
-(B) the unallowable costs subject to the penalty were inadvertently incorporated into the proposal.
-
-(d) Applicability of contract disputes procedure to disallowance of cost and assessment of penalty
-
-An action of an executive agency under subsection (a) or (b) of this section—
-
-(1) shall be considered a final decision for the purposes of section 605 of this title; and
-
-(2) is appealable in the manner provided in section 606 of this title.
-
-(e) Specific costs not allowable
-
-(1) The following costs are not allowable under a covered contract:
-
-(A) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
-
-(B) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
-
-(C) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the United States where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
-
-(D) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance such payments in accordance with applicable provisions of the Federal Acquisition Regulation.
-
-(E) Costs of membership in any social, dining, or country club or organization.
-
-(F) Costs of alcoholic beverages.
-
-(G) Contributions or donations, regardless of the recipient.
-
-(H) Costs of advertising designed to promote the contractor or its products.
-
-(I) Costs of promotional items and memorabilia, including models, gifts, and souvenirs.
-
-(J) Costs for travel by commercial aircraft which exceed the amount of the standard commercial fare.
-
-(K) Costs incurred in making any payment (commonly known as a “golden parachute payment”) which is—
-
-(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
-
-(ii) is paid to the employee contingent upon, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
-
-(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
-
-(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
-
-(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
-
-(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k) of this section.
-
-(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 435 of this title.
-
-(2)(A) Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, an executive agency, in awarding a covered contract, may waive the application of the provisions of paragraphs (1)(M) and (1)(N) to that contract if the executive agency determines that—
-
-(i) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activity that provides significant support services for employees of the executive agency posted outside the United States;
-
-(ii) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals; and
-
-(iii) the payment of severance pay is necessary in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract or is necessary to comply with a collective bargaining agreement.
-
-(B) An executive agency shall include in the solicitation for a covered contract a statement indicating—
-
-(i) that a waiver has been granted under subparagraph (A) for the contract; or
-
-(ii) whether the executive agency will consider granting such a waiver, and, if the executive agency will consider granting a waiver, the criteria to be used in granting the waiver.
-
-(C) An executive agency shall make the final determination regarding whether to grant a waiver under subparagraph (A) with respect to a covered contract before award of the contract.
-
-(3) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications.
-Any submission by a contractor of costs which are incurred by the contractor and which are claimed to be allowable under Department of Energy management and operating contracts shall be considered a “proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued”, as used in this section.
-
-(f) Required regulations
-
-(1) The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs.
-Such provisions shall define in detail and in specific terms those costs which are unallowable, in whole or in part, under covered contracts.
-The regulations shall, at a minimum, clarify the cost principles applicable to contractor costs of the following:
-
-(A) Air shows.
-
-(B) Membership in civic, community, and professional organizations.
-
-(C) Recruitment.
-
-(D) Employee morale and welfare.
-
-(E) Actions to influence (directly or indirectly) executive branch action on regulatory and contract matters (other than costs incurred in regard to contract proposals pursuant to solicited or unsolicited bids).
-
-(F) Community relations.
-
-(G) Dining facilities.
-
-(H) Professional and consulting services, including legal services.
-
-(I) Compensation.
-
-(J) Selling and marketing.
-
-(K) Travel.
-
-(L) Public relations.
-
-(M) Hotel and meal expenses.
-
-(N) Expense of corporate aircraft.
-
-(O) Company-furnished automobiles.
-
-(P) Advertising.
-
-(Q) Conventions.
-
-(2) The Federal Acquisition Regulation shall require that a contracting officer not resolve any questioned costs until the contracting officer has obtained—
-
-(A) adequate documentation with respect to such costs; and
-
-(B) the opinion of the contract auditor on the allowability of such costs.
-
-(3) The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, a contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
-
-(4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of the individual questioned costs that are paid will be reflected in the settlement.
-
-(g) Applicability of regulations to subcontractors
-
-The regulations referred to in subsections (e) and (f)(1) of this section shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of such regulations to all subcontractors of the covered contract.
-
-(h) Contractor certification required
-
-(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable.
-Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
-
-(2) An executive agency may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the agency—
-
-(A) determines in such case that it would be in the interest of the United States to waive such certification; and
-
-(B) states in writing the reasons for that determination and makes such determination available to the public.
-
-(i) Penalties for submission of cost known as not allowable
-
-The submission to an executive agency of a proposal for settlement of costs for any period after such costs have been accrued that includes a cost that is expressly specified by statute or regulation as being unallowable, with the knowledge that such cost is unallowable, shall be subject to the provisions of section 287 of title 18 and section 3729 of title 31.
-
-(j) Contractor to have burden of proof
-
-In a proceeding before a board of contract appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the United States is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
-
-(k) Proceeding costs not allowable
-
-(1) Except as otherwise provided in this subsection, costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State are not allowable as reimbursable costs under a covered contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation, and (B) results in a disposition described in paragraph (2).
-
-(2) A disposition referred to in paragraph (1)(B) is any of the following:
-
-(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
-
-(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
-
-(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty by reason of the violation or failure referred to in paragraph (1).
-
-(D) A final decision—
-
-(i) to debar or suspend the contractor,
-
-(ii) to rescind or void the contract, or
-
-(iii) to terminate the contract for default,
-
-by reason of the violation or failure referred to in paragraph (1).
-
-(E) A disposition of the proceeding by consent or compromise if such action could have resulted in a disposition described in subparagraph (A), (B), (C), or (D).
-
-(3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
-
-(4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the executive agency that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the executive agency.
-
-(5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
-
-(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
-
-(ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
-
-(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of such other proceeding are not allowable under paragraph (1).
-
-(6) In this subsection:
-
-(A) The term “proceeding” includes an investigation.
-
-(B) The term “costs”, with respect to a proceeding—
-
-(i) means all costs incurred by a contractor, whether before or after the commencement of any such proceeding; and
-
-(ii) includes—
-
-(I) administrative and clerical expenses;
-
-(II) the cost of legal services, including legal services performed by an employee of the contractor;
-
-(III) the cost of the services of accountants and consultants retained by the contractor; and
-
-(IV) the pay of directors, officers, and employees of the contractor for time devoted by such directors, officers, and employees to such proceeding.
-
-(C) The term “penalty” does not include restitution, reimbursement, or compensatory damages.
-
-(l) “Covered contract” defined
-
-(1) In this section, the term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that such term does not include a fixed-price contract without cost incentives or any firm, fixed price contract for the purchase of commercial items.
-
-(2) Effective on October 1 of each year that is divisible by five, the amount set forth in paragraph (1) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars.
-An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
-
-(m) Other definitions
-
-In this section:
-
-(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
-
-(2) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
-
-(3) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
-
-(June 30, 1949, ch. 288, title III, §306, as added Pub. L. 100–700, §8(a)(1), Nov. 19, 1988, 102 Stat. 4634; amended Pub. L. 103–355, title II, §2151, Oct. 13, 1994, 108 Stat. 3309; Pub. L. 105–85, div. A, title VIII, §808(b), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(b), Oct. 17, 1998, 112 Stat. 2083.)
-
-Prior Provisions
-
-A prior section 256, act June 30, 1949, ch. 288, title III, §306, 63 Stat. 396, related to waiver of liquidated damages, prior to repeal by act Sept. 5, 1950, ch. 849, §10(b), 64 Stat. 591, eff.
-July 1, 1949. See section 256a of this title.
 
 Effective Date
 
@@ -6347,6 +6022,37 @@ Effective Date
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
+§266. Merit-based award of grants for research and development
+
+(a) Policy
+
+It is the policy of Congress that an executive agency should not be required by legislation to award a new grant for research, development, test, or evaluation to a non-Federal Government entity.
+It is further the policy of Congress that any program, project, or technology identified in legislation be awarded through merit-based selection procedures.
+
+(b) Rule of construction
+
+A provision of law may not be construed as requiring a new grant to be awarded to a specified non-Federal Government entity unless that provision of law—
+
+(1) specifically refers to this subsection;
+
+(2) specifically identifies the particular non-Federal Government entity involved; and
+
+(3) specifically states that the award to that entity is required by such provision of law in contravention of the policy set forth in subsection (a) of this section.
+
+(c) New grant defined
+
+For purposes of this section, a grant is a new grant unless the work provided for in the grant is a continuation of the work performed by the specified entity under a preceding grant.
+
+(d) Inapplicability to certain grants
+
+This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to Congress or any agency of the Federal Government.
+
+(June 30, 1949, ch. 288, title III, §316, as added Pub. L. 103–355, title VII, §7203(b)(2), Oct. 13, 1994, 108 Stat. 3381; amended Pub. L. 104–106, div. D, title XLIII, §4321(e)(9), Feb. 10, 1996, 110 Stat. 675.)
+
+Effective Date
+
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+
 §266a. Share-in-savings contracts
 
 (a) Authority to enter into share-in-savings contracts
@@ -6711,6 +6417,167 @@ In any event, the Secretary shall make such determinations with respect to at le
 
 (Pub. L. 89–286, §10, as added Pub. L. 92–473, §5, Oct. 9, 1972, 86 Stat. 790; amended Pub. L. 94–273, §29, Apr. 21, 1976, 90 Stat. 380.)
 
+1 So in original.
+Probably should be section “351(a)”.
+
+CHAPTER 7—OFFICE OF FEDERAL PROCUREMENT POLICY
+
+Sec.
+
+401, 402.
+Repealed.
+
+403.
+Definitions.
+
+404.
+Establishment of Office of Federal Procurement Policy; appointment of Administrator.
+
+405.
+Authority and functions of the Administrator.
+
+405a.
+Uniform Federal procurement regulations and procedures.
+
+405b.
+Conflict of interest standards for individuals providing consulting services.
+
+406.
+Administrative powers.
+
+407.
+Repealed.
+
+408.
+Applicability of existing laws.
+
+409.
+Repealed.
+
+410.
+Authorization of appropriations.
+
+411.
+Delegation of authority by Administrator.
+
+412.
+Comptroller General's access to information from Administrator; rule making procedure.
+
+413.
+Tests of innovative procurement methods and procedures.
+
+414.
+Chief Acquisition Officers and senior procurement executives.
+
+414a.
+Personnel evaluation.
+
+414b.
+Chief Acquisition Officers Council.
+
+415.
+Repealed.
+
+416.
+Procurement notice.
+
+417.
+Record requirements.
+
+417a.
+Procurement data.
+
+418.
+Advocates for competition.
+
+418a.
+Rights in technical data.
+
+418b.
+Publication of proposed regulations.
+
+419.
+Contracting functions performed by Federal personnel.
+
+420.
+Repealed.
+
+421.
+Federal Acquisition Regulatory Council.
+
+422.
+Cost Accounting Standards Board.
+
+423.
+Restrictions on disclosing and obtaining contractor bid or proposal information or source selection information.
+
+424.
+Repealed.
+
+425.
+Contract clauses and certifications.
+
+426.
+Use of electronic commerce in Federal procurement.
+
+426a.
+Repealed.
+
+427.
+Simplified acquisition procedures.
+
+428.
+Procedures applicable to purchases below micro-purchase threshold.
+
+428a.
+Special emergency procurement authority.
+
+429.
+List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation.
+
+430.
+List of laws inapplicable to procurements of commercial items in Federal Acquisition Regulation.
+
+431.
+Commercially available off-the-shelf item acquisitions: lists of inapplicable laws in Federal Acquisition Regulation.
+
+431a.
+Inflation adjustment of acquisition-related dollar thresholds.
+
+432.
+Value engineering.
+
+433.
+Acquisition workforce.
+
+434.
+Modular contracting for information technology.
+
+435.
+Levels of compensation of certain contractor personnel not allowable as costs under certain contracts.
+
+436.
+Protection of constitutional rights of contractors.
+
+437.
+Incentives for efficient performance of services contracts.
+
+438.
+Civilian Board of Contract Appeals.
+
+        
+
+§§401, 402. Repealed.
+Pub. L. 104–106, div. D, title XLIII, §4305(a)(2), Feb. 10, 1996, 110 Stat. 665
+
+Section 401, Pub. L. 93–400, §2, Aug. 30, 1974, 88 Stat. 796; Pub. L. 96–83, §2, Oct. 10, 1979, 93 Stat. 648; Pub. L. 98–191, §3, Dec. 1, 1983, 97 Stat. 1325; Pub. L. 100–679, §2(a), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title I, §1091(a), Oct. 13, 1994, 108 Stat. 3272, stated policy of United States Government relating to procurement of property and services.
+
+Section 402, Pub. L. 93–400, §3, Aug. 30, 1974, 88 Stat. 796; Pub. L. 100–679, §2(b), Nov. 17, 1988, 102 Stat. 4055, stated findings of Congress and purpose of this chapter.
+
+Effective Date of Repeal
+
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 251 of this title.
+
 Short Title of 2003 Amendment
 
 Pub. L. 108–136, div. A, title XIV, §1401, Nov. 24, 2003, 117 Stat. 1663, provided that: “This title [enacting sections 414b, 428a, and 437 of this title, amending sections 403, 414, 433, and 436 of this title, section 2855 of Title 10, Armed Forces, and section 1115 of Title 31, Money and Finance, enacting provisions set out as notes under sections 253, 253a, 405, 428a, and 433 of this title and section 1103 of Title 40, Public Buildings, Property, and Works, amending provisions set out as notes under section 264 of this title, section 2304 of Title 10, and section 501 of Title 31, and repealing provisions set out as a note under section 2302 of Title 10] may be cited as the ‘Services Acquisition Reform Act of 2003’.”
@@ -6866,7 +6733,7 @@ Executive Order No. 12969
 
 Ex. Ord.
 No. 12969, Aug. 8, 1995, 60 F.R. 40989, which provided for Federal agencies to contract with companies that report in a public manner on toxic chemicals released to the environment, was revoked by Ex. Ord.
-No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, formerly set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 Streamlining Procurement Through Electronic Commerce
 
@@ -7219,6 +7086,11 @@ References in Text
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended.
 Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
+Pilot Program To Inventory Cost and Size of Service Contracts
+
+Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: “No later than 180 days after enactment of this Act [Dec. 26, 2007], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition.
+The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services.”
+
 Federal Support for Enhancement of State and Local Anti-Terrorism Response Capabilities
 
 Pub. L. 108–136, div. A, title VIII, §803, Nov. 24, 2003, 117 Stat. 1541, provided that:
@@ -7238,7 +7110,7 @@ Pub. L. 108–136, div. A, title XIV, §1423, Nov. 24, 2003, 117 Stat. 1669, as 
 “(b) Membership.—The panel shall be composed of at least nine individuals who are recognized experts in acquisition law and Government acquisition policy.
 In making appointments to the panel, the Administrator shall—
 
-“(1) consult with the Secretary of Defense, the Administrator of General Services, the Committees on Armed Services and Government Reform of the House of Representatives, and the Committees on Armed Services and Governmental Affairs of the Senate; and
+“(1) consult with the Secretary of Defense, the Administrator of General Services, the Committees on Armed Services and Government Reform [now Oversight and Government Reform] of the House of Representatives, and the Committees on Armed Services and Governmental Affairs of the Senate; and
 
 “(2) ensure that the members of the panel reflect the diverse experiences in both the public and private sectors, including academia.
 
@@ -7254,7 +7126,7 @@ In making appointments to the panel, the Administrator shall—
 
 “(C) to amend or eliminate any provisions in such laws, regulations, or policies that are unnecessary for the effective, efficient, and fair award and administration of contracts for the acquisition by the Federal Government of goods and services.
 
-“(d) Report.—Not later than 18 months after the establishment of the panel, the panel shall submit to the Administrator and to the Committees on Armed Services and Government Reform of the House of Representatives and the Committees on Armed Services and Governmental Affairs of the Senate a report containing a detailed statement of the findings, conclusions, and recommendations of the panel.”
+“(d) Report.—Not later than 18 months after the establishment of the panel, the panel shall submit to the Administrator and to the Committees on Armed Services and Government Reform [now Oversight and Government Reform] of the House of Representatives and the Committees on Armed Services and Governmental Affairs of the Senate a report containing a detailed statement of the findings, conclusions, and recommendations of the panel.”
 
 Center of Excellence in Service Contracting
 
@@ -7486,7 +7358,7 @@ Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Test Program for Executive Agencies
 
@@ -7558,7 +7430,7 @@ Each agency so designated shall select the procuring activities participating in
 
 “(g) Test Plan.—At least 270 days before a test may be conducted under this section, the Administrator shall—
 
-“(1) provide a detailed test plan, including lists of any regulations that are to be waived, and any written determination under subsection (h)(1)(B) to the Committee on Government Operations [now Committee on Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate;
+“(1) provide a detailed test plan, including lists of any regulations that are to be waived, and any written determination under subsection (h)(1)(B) to the Committee on Government Operations [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate;
 
 “(2) provide a copy of the plan to the appropriate authorization and appropriations committees of the House of Representatives and the Senate; and
 
@@ -8253,6 +8125,195 @@ Codification
 
 “Section 121(d)(1) and (2) of title 40” substituted in subsec. (b)(2) for “section 205(d) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
+Status of Director of Defense Procurement
+
+Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(b)(2)), the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
+
+1 See References in Text note below.
+
+§422. Cost Accounting Standards Board
+
+(a) Establishment; membership; terms
+
+(1) There is established within the Office of Federal Procurement Policy an independent board to be known as the “Cost Accounting Standards Board” (hereinafter referred to as the “Board”). The Board shall consist of 5 members, including the Administrator, who shall serve as Chairman, and 4 members, all of whom shall have experience in Government contract cost accounting, and who shall be appointed as follows:
+
+(A) two representatives of the Federal Government—
+
+(i) one of whom shall be a representative of the Department of Defense and be appointed by the Secretary of Defense; and
+
+(ii) one of whom shall be an officer or employee of the General Services Administration appointed by the Administrator of General Services; and
+
+(B) two individuals from the private sector, each of whom shall be appointed by the Administrator and—
+
+(i) one of whom shall be a representative of industry; and
+
+(ii) one of whom shall be particularly knowledgeable about cost accounting problems and systems.
+
+(2)(A) The term of office of each of the members of the Board, other than the Administrator for Federal Procurement Policy, shall be 4 years, except that—
+
+(i) of the initial members, two shall be appointed for terms of two years, one shall be appointed for a term of three years, and one shall be appointed for a term of four years;
+
+(ii) any member appointed to fill a vacancy in the Board shall serve for the remainder of the term for which his predecessor was appointed; and
+
+(iii) no individual who is appointed under paragraph (1)(A) of this subsection shall continue to serve after ceasing to be an officer or employee of the agency from which he or she was appointed.
+
+(B) A vacancy on the Board shall be filled in the same manner in which the original appointment was made.
+
+(C) The initial members of the Board shall be appointed within 120 days after November 17, 1988.
+
+(b) Senior staff
+
+The Administrator, after consultation with the Board, may appoint an executive secretary and two additional staff members without regard to the provisions of title 5 governing appointments in the competitive service, and may pay such employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
+
+(c) Other staff
+
+The Administrator may appoint, fix the compensation, and remove additional employees of the Board under the applicable provisions of title 5.
+
+(d) Detailed and temporary personnel
+
+(1) The Board may use, without reimbursement, any personnel of a Federal agency (with the consent of the head of the agency concerned) to serve on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
+
+(2) The Administrator, after consultation with the Board, may procure temporary and intermittent services under section 3109(b) of title 5 of personnel for the purpose of serving on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
+
+(e) Compensation
+
+Except as otherwise provided in subsection (a) of this section, the members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (d)(1) of this section, shall receive no additional compensation for services, but shall continue to be compensated by the employing Department or agency of such officer or employee.
+Each member of the Board appointed from private life shall receive compensation at a rate not to exceed the daily equivalent of the rate prescribed for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board.
+Individuals hired under subsection (d)(2) of this section may receive compensation at rates fixed by the Administrator, but not to exceed the daily equivalent of the rate prescribed for level V of the Federal Executive Salary Schedule under section 5316 of title 5 for each day (including travel time) in which such appointees are properly engaged in the actual performance of duties under this section.
+While serving away from homes or the regular place of business, Board members and other appointees serving on an intermittent basis under this section shall be allowed travel expenses in accordance with section 5703 of title 5.
+
+(f) Cost accounting standards authority
+
+(1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretations thereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
+
+(2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10, as such amount is adjusted in accordance with applicable requirements of law.
+
+(B) Subparagraph (A) does not apply to the following contracts or subcontracts:
+
+(i) Contracts or subcontracts for the acquisition of commercial items.
+
+(ii) Contracts or subcontracts where the price negotiated is based on prices set by law or regulation.
+
+(iii) Firm, fixed-price contracts or subcontracts awarded on the basis of adequate price competition without submission of certified cost or pricing data.
+
+(iv) A contract or subcontract with a value of less than $7,500,000 if, at the time the contract or subcontract is entered into, the segment of the contractor or subcontractor that will perform the work has not been awarded at least one contract or subcontract with a value of more than $7,500,000 that is covered by the cost accounting standards.
+
+(C) In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+
+(3) The Administrator, after consultation with the Board, shall prescribe rules and procedures governing actions of the Board under this section.
+Such rules and procedures shall require that any cost accounting standard promulgated, amended, or rescinded (and interpretations thereof) shall be adopted by majority vote of the Board members.
+
+(4) The Board is authorized—
+
+(A) to exempt classes or categories of contractors and subcontractors from the requirements of this section; and
+
+(B) to establish procedures for the waiver of the requirements of this section with respect to individual contracts and subcontracts.
+
+(5)(A) The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
+
+(i) is primarily engaged in the sale of commercial items; and
+
+(ii) would not otherwise be subject to the cost accounting standards under this section, as in effect on or after the effective date of this paragraph.
+
+(B) The head of an executive agency may also waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency.
+A determination to waive the applicability of the cost accounting standards under this subparagraph shall be set forth in writing and shall include a statement of the circumstances justifying the waiver.
+
+(C) The head of an executive agency may not delegate the authority under subparagraph (A) or (B) to any official in the executive agency below the senior policymaking level in the executive agency.
+
+(D) The Federal Acquisition Regulation shall include the following:
+
+(i) Criteria for selecting an official to be delegated authority to grant waivers under subparagraph (A) or (B).
+
+(ii) The specific circumstances under which such a waiver may be granted.
+
+(E) The head of each executive agency shall report the waivers granted under subparagraphs (A) and (B) for that agency to the Board on an annual basis.
+
+(g) Requirements for standards
+
+(1) Prior to the promulgation under this section of cost accounting standards and interpretations thereof, the Board shall—
+
+(A) take into account, after consultation and discussions with the Comptroller General and professional accounting organizations, contractors, and other interested parties—
+
+(i) the probable costs of implementation, including inflationary effects, if any, compared to the probable benefits;
+
+(ii) the advantages, disadvantages, and improvements anticipated in the pricing and administration of, and settlement of disputes concerning, contracts; and
+
+(iii) the scope of, and alternatives available to, the action proposed to be taken;
+
+(B) prepare and publish a report in the Federal Register on the issues reviewed under paragraph (1)(A);
+
+(C)(i) publish an advanced notice of proposed rulemaking in the Federal Register in order to solicit comments on the report prepared pursuant to subparagraph (B);
+
+(ii) provide all parties affected a period of not less than 60 days after such publication to submit their views and comments; and
+
+(iii) during this 60-day period, consult with the Comptroller General and consider any recommendation the Comptroller General may make; and
+
+(D) publish a notice of such proposed rulemaking in the Federal Register and provide all parties affected a period of not less than 60 days after such publication to submit their views and comments.
+
+(2) Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines a longer period is necessary.
+Implementation dates for contractors and subcontractors shall be determined by the Board, but in no event shall such dates be later than the beginning of the second fiscal year of the contractor or subcontractor after the standard becomes effective.
+Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall be accompanied by prefatory comments and by illustrations, if necessary.
+
+(3) The functions exercised under this section are excluded from the operation of sections 551, 553 through 559, and 701 through 706 of title 5.
+
+(h) Implementing regulations
+
+(1) The Board shall promulgate rules and regulations for the implementation of cost accounting standards promulgated or interpreted under subsection (f) of this section.
+Such regulations shall be incorporated into the Federal Acquisition Regulation and shall require contractors and subcontractors as a condition of contracting with the United States to—
+
+(A) disclose in writing their cost accounting practices, including methods of distinguishing direct costs from indirect costs and the basis used for allocating indirect costs; and
+
+(B) agree to a contract price adjustment, with interest, for any increased costs paid to such contractor or subcontractor by the United States by reason of a change in the contractor's or subcontractor's cost accounting practices or by reason of a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
+
+(2) If the United States and a contractor or subcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under the Contract Disputes Act [41 U.S.C. 601 et seq.].
+
+(3) Any contract price adjustment undertaken pursuant to paragraph (1)(B) shall be made, where applicable, on relevant contracts between the United States and the contractor that are subject to the cost accounting standards so as to protect the United States from payment, in the aggregate, of increased costs (as defined by the Board). In no case shall the Government recover costs greater than the increased cost (as defined by the Board) to the Government, in the aggregate, on the relevant contracts subject to the price adjustment, unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the price negotiation and which it failed to disclose to the Government.
+
+(4) The interest rate applicable to any contract price adjustment shall be the annual rate of interest established under section 6621 of title 26 for such period.
+Such interest shall accrue from the time payments of the increased costs were made to the contractor or subcontractor to the time the United States receives full compensation for the price adjustment.
+
+(i) Omitted
+
+(j) Effect on other standards and regulations
+
+(1) All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations promulgated by the Cost Accounting Standards Board under section 2168 1 of title 50, Appendix, shall remain in effect unless and until amended, superseded, or rescinded by the Board pursuant to this section.
+
+(2) Existing cost accounting standards referred to in paragraph (1) shall be subject to the provisions of this chapter in the same manner as if promulgated by the Board under this chapter.
+
+(3) The Administrator, under the authority set forth in section 405 of this title, shall ensure that no regulation or proposed regulation of an executive agency is inconsistent with a cost accounting standard promulgated or amended under this section by rescinding or denying the promulgation of any such inconsistent regulation or proposed regulation and taking such other action authorized under section 405 of this title as may be appropriate.
+
+(4) Costs which are the subject of cost accounting standards promulgated under this section shall not be subject to regulations that are established by another executive agency that differ from such standards with respect to the measurement, assignment, and allocation of such costs.
+
+(k) Examinations
+
+For the purpose of determining whether a contractor or subcontractor has complied with cost accounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shall have the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
+
+(l) Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+
+(Pub. L. 93–400, §26, as added Pub. L. 100–679, §5(a), Nov. 17, 1988, 102 Stat. 4058; amended Pub. L. 103–355, title II, §2453, title VIII, §8301(d), Oct. 13, 1994, 108 Stat. 3326, 3397; Pub. L. 104–106, div. D, title XLII, §4205, title XLIII, §4321(h)(4), Feb. 10, 1996, 110 Stat. 656, 675; Pub. L. 106–65, div. A, title VIII, §802(a), (b), Oct. 5, 1999, 113 Stat. 701; Pub. L. 109–163, div. A, title VIII, §822, Jan. 6, 2006, 119 Stat. 3386.)
+
+References in Text
+
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+Level IV of the Executive Schedule, referred to in subsec. (e), is set out in section 5315 of Title 5.
+
+For the effective date of this paragraph, referred to in subsec. (f)(5)(A)(ii), as 180 days after Oct. 5, 1999, see section 802(i) of Pub. L. 106–65, set out as an Effective Date of 1999 Amendment; Regulations; Implementation; Construction note below.
+
+The Contract Disputes Act, referred to in subsec. (h)(2), probably means the Contract Disputes Act of 1978, Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of this title.
+For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+
+Section 2168 of title 50, Appendix, referred to in subsec. (j)(1), was repealed by Pub. L. 100–679, §5(b), Nov. 17, 1988, 102 Stat. 4063.
+
+The Inspector General Act of 1978, referred to in subsec. (k), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Codification
+
+Subsec. (i) of this section, which required the Board to submit an annual report to Congress on the activities and operations of the Board under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+See, also, page 42 of House Document No. 103–7.
+
 Effective Date of 1999 Amendment; Regulations; Implementation; Construction
 
 Pub. L. 106–65, div. A, title VIII, §802(c)–(e), (g)–(i), Oct. 5, 1999, 113 Stat. 701, 702, provided that:
@@ -8802,7 +8863,7 @@ may exercise the same authority (subject to the same restrictions and conditions
 
 “(B) Relationship to authority of department of homeland security.—The authority under this subsection shall not apply to the Secretary of Homeland Security while section 831 of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2224) [6 U.S.C. 391] is in effect.
 
-“(b) Annual Report.—The annual report of the head of an executive agency that is required under subsection (h) of section 2371 of title 10, United States Code, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.
+“(b) Annual Report.—The annual report of the head of an executive agency that is required under subsection (h) of section 2371 of title 10, United States Code, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives.
 
 “(c) Regulations.—The Director of the Office of Management and Budget shall prescribe regulations to carry out this section.
 No transaction may be conducted under the authority of this section before the date on which such regulations take effect.
@@ -9372,6 +9433,10 @@ The authority under this section shall expire 10 years after November 24, 2003.
 
 (Pub. L. 93–400, §41, as added Pub. L. 108–136, div. A, title XIV, §1431(a), Nov. 24, 2003, 117 Stat. 1671.)
 
+Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 §438. Civilian Board of Contract Appeals
 
 (a) Board established
@@ -9792,7 +9857,7 @@ The Administrator is authorized to review at least every three years, beginning 
 
 References in Text
 
-The Small Business Act, referred to in subsec. (a), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade.
+The Small Business Act, referred to in subsec. (a), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade.
 For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 §609. Judicial review of board decisions

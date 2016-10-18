@@ -271,10 +271,6 @@ The master of any vessel which, while engaged in laying or repairing submarine c
 
 (Feb. 29, 1888, ch. 17, §4, 25 Stat. 41.)
 
-International Regulations for Preventing Collisions at Sea, 1972
-
-For the International Regulations for Preventing Collisions at Sea, 1972, see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of Title 33, Navigation and Navigable Waters.
-
 §25. Fishing vessels; duty to keep nets from cables
 
 The master of any fishing vessel who shall not keep his implements or nets at a distance of at least one nautical mile from a vessel engaged in laying or repairing a cable; or the master of any fishing vessel who shall not keep his implements or nets at a distance of at least a quarter of a nautical mile from a buoy or buoys intended to mark the position of a cable when being laid or when out of order or broken, shall be guilty of a misdemeanor, and on conviction thereof, shall be liable to imprisonment for a term not exceeding ten days, or to a fine not exceeding $250, or to both such fine and imprisonment, at the discretion of the court.
@@ -1402,7 +1398,7 @@ For complete classification of this Act to the Code, see section 609 of this tit
 
 Moratorium on Internet Taxes
 
-Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618, provided that:
+Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026, provided that:
 
 “SEC. 1100. SHORT TITLE.
 
@@ -1410,7 +1406,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 
 “SEC. 1101. MORATORIUM.
 
-“(a) Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2007:
+“(a) Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2014:
 
 “(1) Taxes on Internet access.
 
@@ -1589,7 +1585,7 @@ No finding or recommendation shall be included in the report unless agreed to by
 
 “(2) Termination.—
 
-“(A) In general.—Except as provided in subparagraph (B), this subsection shall not apply after November 1, 2007.
+“(A) In general.—Except as provided in subparagraph (B), this subsection shall not apply after November 1, 2014.
 
 “(B) State telecommunications service tax.—
 
@@ -1601,6 +1597,8 @@ No finding or recommendation shall be included in the report unless agreed to by
 
      “(II) applied to Internet access through administrative code or regulation issued on or after December 1, 2002.
 
+“(3) Exception.—Paragraphs (1) and (2) shall not apply to any State that has, more than 24 months prior to the date of enactment of this paragraph [Oct. 31, 2007], enacted legislation to repeal the State's taxes on Internet access or issued a rule or other proclamation made by the appropriate agency of the State that such State agency has decided to no longer apply such tax to Internet access.
+
 “(b) Pre-November 2003 Taxes.—
 
 “(1) In general.—Section 1101(a) does not apply to a tax on Internet access that was generally imposed and actually enforced as of November 1, 2003, if, as of that date, the tax was authorized by statute and—
@@ -1611,11 +1609,27 @@ No finding or recommendation shall be included in the report unless agreed to by
 
 “(2) Termination.—This subsection shall not apply after November 1, 2005.
 
+“(c) Application of Definition.—
+
+“(1) In general.—Effective as of November 1, 2003—
+
+“(A) for purposes of subsection (a), the term ‘Internet access’ shall have the meaning given such term by section 1104(5) of this Act, as enacted on October 21, 1998; and
+
+“(B) for purposes of subsection (b), the term ‘Internet access’ shall have the meaning given such term by section 1104(5) of this Act as enacted on October 21, 1998, and amended by section 2(c) of the Internet Tax Nondiscrimination Act (Public Law 108–435).
+
+“(2) Exceptions.—Paragraph (1) shall not apply until June 30, 2008, to a tax on Internet access that is—
+
+“(A) generally imposed and actually enforced on telecommunications service purchased, used, or sold by a provider of Internet access, but only if the appropriate administrative agency of a State or political subdivision thereof issued a public ruling prior to July 1, 2007, that applied such tax to such service in a manner that is inconsistent with paragraph (1); or
+
+“(B) the subject of litigation instituted in a judicial court of competent jurisdiction prior to July 1, 2007, in which a State or political subdivision is seeking to enforce, in a manner that is inconsistent with paragraph (1), such tax on telecommunications service purchased, used, or sold by a provider of Internet access.
+
+“(3) No inference.—No inference of legislative construction shall be drawn from this subsection or the amendments to section 1105(5) made by the Internet Tax Freedom Act Amendments Act of 2007 [Pub. L. 110–108] for any period prior to June 30, 2008, with respect to any tax subject to the exceptions described in subparagraphs (A) and (B) of paragraph (2).
+
 “SEC. 1105. DEFINITIONS.
 
 “For the purposes of this title:
 
-“(1) Bit tax.—The term ‘bit tax’ means any tax on electronic commerce expressly imposed on or measured by the volume of digital information transmitted electronically, or the volume of digital information per unit of time transmitted electronically, but does not include taxes imposed on the provision of telecommunications services.
+“(1) Bit tax.—The term ‘bit tax’ means any tax on electronic commerce expressly imposed on or measured by the volume of digital information transmitted electronically, or the volume of digital information per unit of time transmitted electronically, but does not include taxes imposed on the provision of telecommunications.
 
 “(2) Discriminatory tax.—The term ‘discriminatory tax’ means—
 
@@ -1643,8 +1657,21 @@ No finding or recommendation shall be included in the report unless agreed to by
 
 “(4) Internet.—The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
 
-“(5) Internet access.—The term ‘Internet access’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to users.
-The term ‘Internet access’ does not include telecommunications services, except to the extent such services are purchased, used, or sold by a provider of Internet access to provide Internet access.
+“(5) Internet access.—The term ‘Internet access’—
+
+“(A) means a service that enables users to connect to the Internet to access content, information, or other services offered over the Internet;
+
+“(B) includes the purchase, use or sale of telecommunications by a provider of a service described in subparagraph (A) to the extent such telecommunications are purchased, used or sold—
+
+“(i) to provide such service; or
+
+“(ii) to otherwise enable users to access content, information or other services offered over the Internet;
+
+“(C) includes services that are incidental to the provision of the service described in subparagraph (A) when furnished to users as part of such service, such as a home page, electronic mail and instant messaging (including voice- and video-capable electronic mail and instant messaging), video clips, and personal electronic storage capacity;
+
+“(D) does not include voice, audio or video programming, or other products and services (except services described in subparagraph (A), (B), (C), or (E)) that utilize Internet protocol or any successor protocol and for which there is a charge, regardless of whether such charge is separately stated or aggregated with the charge for services described in subparagraph (A), (B), (C), or (E); and
+
+“(E) includes a homepage, electronic mail and instant messaging (including voice- and video-capable electronic mail and instant messaging), video clips, and personal electronic storage capacity, that are provided independently or not packaged with Internet access.
 
 “(6) Multiple tax.—
 
@@ -1666,7 +1693,7 @@ The term ‘Internet access’ does not include telecommunications services, exc
 
 “(B) Exception.—Such term does not include any franchise fee or similar fee imposed by a State or local franchising authority, pursuant to section 622 or 653 of the Communications Act of 1934 (47 U.S.C. 542, 573), or any other fee related to obligations or telecommunications carriers under the Communications Act of 1934 (47 U.S.C. 151 et seq.).
 
-“(9) Telecommunications service.—The term ‘telecommunications service’ has the meaning given such term in section 3(46) of the Communications Act of 1934 (47 U.S.C. 153(46)) and includes communications services (as defined in section 4251 of the Internal Revenue Code of 1986 [26 U.S.C. 4251]).
+“(9) Telecommunications.—The term ‘telecommunications’ means ‘telecommunications’ as such term is defined in section 3(43) of the Communications Act of 1934 (47 U.S.C. 153(43)) and ‘telecommunications service’ as such term is defined in section 3(46) of such Act (47 U.S.C. 153(46)), and includes communications services (as defined in section 4251 of the Internal Revenue Code of 1986 (26 U.S.C. 4251)).
 
 “(10) Tax on internet access.—
 
@@ -1674,15 +1701,31 @@ The term ‘Internet access’ does not include telecommunications services, exc
 
 “(B) General exception.—The term ‘tax on Internet access’ does not include a tax levied upon or measured by net income, capital stock, net worth, or property value.
 
+“(C) Specific exception.—
+
+“(i) Specified taxes.—Effective November 1, 2007, the term ‘tax on Internet access’ also does not include a State tax expressly levied on commercial activity, modified gross receipts, taxable margin, or gross income of the business, by a State law specifically using one of the foregoing terms, that—
+
+     “(I) was enacted after June 20, 2005, and before November 1, 2007 (or, in the case of a State business and occupation tax, was enacted after January 1, 1932, and before January 1, 1936);
+
+     “(II) replaced, in whole or in part, a modified value-added tax or a tax levied upon or measured by net income, capital stock, or net worth (or, is a State business and occupation tax that was enacted after January 1, 1932 and before January 1, 1936);
+
+     “(III) is imposed on a broad range of business activity; and
+
+     “(IV) is not discriminatory in its application to providers of communication services, Internet access, or telecommunications.
+
+“(ii) Modifications.—Nothing in this subparagraph shall be construed as a limitation on a State's ability to make modifications to a tax covered by clause (i) of this subparagraph after November 1, 2007, as long as the modifications do not substantially narrow the range of business activities on which the tax is imposed or otherwise disqualify the tax under clause (i).
+
+“(iii) No inference.—No inference of legislative construction shall be drawn from this subparagraph regarding the application of subparagraph (A) or (B) to any tax described in clause (i) for periods prior to November 1, 2007.
+
 “SEC. 1106. ACCOUNTING RULE.
 
-“(a) In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications services or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet access provider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
+“(a) In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet access provider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
 
 “(b) Definitions.—In this section:
 
 “(1) Charges for internet access.—The term ‘charges for Internet access’ means all charges for Internet access as defined in section 1105(5).
 
-“(2) Charges for telecommunications services.—The term ‘charges for telecommunications services’ means all charges for telecommunications services, except to the extent such services are purchased, used, or sold by a provider of Internet access to provide Internet access.
+“(2) Charges for telecommunications.—The term ‘charges for telecommunications’ means all charges for telecommunications, except to the extent such telecommunications are purchased, used, or sold by a provider of Internet access to provide Internet access or to otherwise enable users to access content, information or other services offered over the Internet.
 
 “SEC. 1107. EFFECT ON OTHER LAWS.
 
@@ -1696,15 +1739,15 @@ The term ‘Internet access’ does not include telecommunications services, exc
 
 “(c) Non-Tax Regulatory Proceedings.—Nothing in this Act [probably means “this title”] shall be construed to affect any Federal or State regulatory proceeding that is not related to taxation.
 
-“SEC. 1108. EXCEPTION FOR VOICE SERVICES OVER THE INTERNET.
-
-“Nothing in this Act [probably means “this title”] shall be construed to affect the imposition of tax on a charge for voice or similar service utilizing Internet Protocol or any successor protocol.
-This section shall not apply to any services that are incidental to Internet access, such as voice-capable e-mail or instant messaging.
+“[SEC. 1108. Repealed.
+Pub. L. 110–108, §5(b), Oct. 31, 2007, 121 Stat. 1026]
 
 “SEC. 1109. EXCEPTION FOR TEXAS MUNICIPAL ACCESS LINE FEE.
 
 “Nothing in this Act [probably means “this title”] shall prohibit Texas or a political subdivision thereof from imposing or collecting the Texas municipal access line fee pursuant to Texas Local Govt.
 Code Ann. ch. 283 (Vernon 2005) and the definition of access line as determined by the Public Utility Commission of Texas in its ‘Order Adopting Amendments to Section 26.465 As Approved At The February 13, 2003 Public Hearing’, issued March 5, 2003, in Project No. 26412.”
+
+[Pub. L. 110–108, §7, Oct. 31, 2007, 121 Stat. 1027, provided that: “This Act [enacting provisions set out as a note under section 609 of this title and amending title XI of div. C of Pub. L. 105–277, set out above], and the amendments made by this Act, shall take effect on November 1, 2007, and shall apply with respect to taxes in effect as of such date or thereafter enacted, except as provided in section 1104 of the Internet Tax Freedom Act [title XI of div. C of Pub. L. 105–277] (47 U.S.C. 151 note).”]
 
 [Pub. L. 108–435, §8, Dec. 3, 2004, 118 Stat. 2619, provided that: “The amendments made by this Act [amending title XI of div. C of Pub. L. 105–277, set out above] take effect on November 1, 2003.”]
 
@@ -5582,6 +5625,331 @@ The Commission shall submit an annual report to Congress regarding the enforceme
 
 (June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362.)
 
+Effective Date; Deadline for Regulations
+
+Section 3(c) of Pub. L. 102–243, as amended by Pub. L. 102–556, title I, §102, Oct. 28, 1992, 106 Stat. 4186, provided that:
+
+“(1) Regulations.—The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section [enacting this section and amending section 152 of this title] not later than 9 months after the date of enactment of this Act [Dec. 20, 1991].
+
+“(2) Effective date.—The requirements of section 227 of the Communications Act of 1934 [this section] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act [Dec. 20, 1991].”
+
+Regulations
+
+Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: “Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 [47 U.S.C. 227(b)(2)(G)(ii)] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act [July 9, 2005], the Federal Communications Commission shall issue regulations to implement the amendments made by this section.”
+
+Congressional Statement of Findings
+
+Section 2 of Pub. L. 102–243 provided that: “The Congress finds that:
+
+“(1) The use of the telephone to market goods and services to the home and other businesses is now pervasive due to the increased use of cost-effective telemarketing techniques.
+
+“(2) Over 30,000 businesses actively telemarket goods and services to business and residential customers.
+
+“(3) More than 300,000 solicitors call more than 18,000,000 Americans every day.
+
+“(4) Total United States sales generated through telemarketing amounted to $435,000,000,000 in 1990, a more than four-fold increase since 1984.
+
+“(5) Unrestricted telemarketing, however, can be an intrusive invasion of privacy and, when an emergency or medical assistance telephone line is seized, a risk to public safety.
+
+“(6) Many consumers are outraged over the proliferation of intrusive, nuisance calls to their homes from telemarketers.
+
+“(7) Over half the States now have statutes restricting various uses of the telephone for marketing, but telemarketers can evade their prohibitions through interstate operations; therefore, Federal law is needed to control residential telemarketing practices.
+
+“(8) The Constitution does not prohibit restrictions on commercial telemarketing solicitations.
+
+“(9) Individuals’ privacy rights, public safety interests, and commercial freedoms of speech and trade must be balanced in a way that protects the privacy of individuals and permits legitimate telemarketing practices.
+
+“(10) Evidence compiled by the Congress indicates that residential telephone subscribers consider automated or prerecorded telephone calls, regardless of the content or the initiator of the message, to be a nuisance and an invasion of privacy.
+
+“(11) Technologies that might allow consumers to avoid receiving such calls are not universally available, are costly, are unlikely to be enforced, or place an inordinate burden on the consumer.
+
+“(12) Banning such automated or prerecorded telephone calls to the home, except when the receiving party consents to receiving the call or when such calls are necessary in an emergency situation affecting the health and safety of the consumer, is the only effective means of protecting telephone consumers from this nuisance and privacy invasion.
+
+“(13) While the evidence presented to the Congress indicates that automated or prerecorded calls are a nuisance and an invasion of privacy, regardless of the type of call, the Federal Communications Commission should have the flexibility to design different rules for those types of automated or prerecorded calls that it finds are not considered a nuisance or invasion of privacy, or for noncommercial calls, consistent with the free speech protections embodied in the First Amendment of the Constitution.
+
+“(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce.
+
+“(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech.”
+
+1 So in original.
+Second closing parenthesis probably should not appear.
+
+§228. Regulation of carrier offering of pay-per-call services
+
+(a) Purpose
+
+It is the purpose of this section—
+
+(1) to put into effect a system of national regulation and review that will oversee interstate pay-per-call services; and
+
+(2) to recognize the Commission's authority to prescribe regulations and enforcement procedures and conduct oversight to afford reasonable protection to consumers of pay-per-call services and to assure that violations of Federal law do not occur.
+
+(b) General authority for regulations
+
+The Commission by regulation shall, within 270 days after October 28, 1992, establish a system for oversight and regulation of pay-per-call services in order to provide for the protection of consumers in accordance with this chapter and other applicable Federal statutes and regulations.
+The Commission's final rules shall—
+
+(1) include measures that provide a consumer of pay-per-call services with adequate and clear descriptions of the rights of the caller;
+
+(2) define the obligations of common carriers with respect to the provision of pay-per-call services;
+
+(3) include requirements on such carriers to protect against abusive practices by providers of pay-per-call services;
+
+(4) identify procedures by which common carriers and providers of pay-per-call services may take affirmative steps to protect against nonpayment of legitimate charges; and
+
+(5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) of this section be offered only through the use of certain telephone number prefixes and area codes.
+
+(c) Common carrier obligations
+
+Within 270 days after October 28, 1992, the Commission shall, by regulation, establish the following requirements for common carriers:
+
+(1) Contractual obligations to comply
+
+Any common carrier assigning to a provider of pay-per-call services a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section shall require by contract or tariff that such provider comply with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act [15 U.S.C. 5711 et seq.; 5721 et seq.] and the regulations prescribed by the Federal Trade Commission pursuant to those titles.
+
+(2) Information availability
+
+A common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of a pay-per-call service shall make readily available on request to Federal and State agencies and other interested persons—
+
+(A) a list of the telephone numbers for each of the pay-per-call services it carries;
+
+(B) a short description of each such service;
+
+(C) a statement of the total cost or the cost per minute and any other fees for each such service;
+
+(D) a statement of the pay-per-call service's name, business address, and business telephone; and
+
+(E) such other information as the Commission considers necessary for the enforcement of this section and other applicable Federal statutes and regulations.
+
+(3) Compliance procedures
+
+A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act [15 U.S.C. 5711 et seq.; 5721 et seq.] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
+
+(4) Subscriber disconnection prohibited
+
+A common carrier shall not disconnect or interrupt a subscriber's local exchange telephone service or long distance telephone service because of nonpayment of charges for any pay-per-call service.
+
+(5) Blocking and presubscription
+
+A common carrier that provides local exchange service shall—
+
+(A) offer telephone subscribers (where technically feasible) the option of blocking access from their telephone number to all, or to certain specific, prefixes or area codes used by pay-per-call services, which option—
+
+(i) shall be offered at no charge (I) to all subscribers for a period of 60 days after the issuance of the regulations under subsection (b) of this section, and (II) to any subscriber who subscribes to a new telephone number until 60 days after the time the new telephone number is effective; and
+
+(ii) shall otherwise be offered at a reasonable fee; and
+
+(B) offer telephone subscribers (where the Commission determines it is technically and economically feasible), in combination with the blocking option described under subparagraph (A), the option of presubscribing to or blocking only specific pay-per-call services for a reasonable one-time charge.
+
+The regulations prescribed under subparagraph (A)(i) of this paragraph may permit the costs of such blocking to be recovered by contract or tariff, but such costs may not be recovered from local or long-distance ratepayers.
+Nothing in this subsection precludes a common carrier from filing its rates and regulations regarding blocking and presubscription in its interstate tariffs.
+
+(6) Verification of charitable status
+
+A common carrier that assigns by contract or tariff a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain from such provider proof of the tax exempt status of any person or organization for which contributions are solicited.
+
+(7) Billing for 800 calls
+
+A common carrier shall prohibit by tariff or contract the use of any 800 telephone number, or other telephone number advertised or widely understood to be toll free, in a manner that would result in—
+
+(A) the calling party being assessed, by virtue of completing the call, a charge for the call;
+
+(B) the calling party being connected to a pay-per-call service;
+
+(C) the calling party being charged for information conveyed during the call unless—
+
+(i) the calling party has a written agreement (including an agreement transmitted through electronic medium) that meets the requirements of paragraph (8); or
+
+(ii) the calling party is charged for the information in accordance with paragraph (9);
+
+(D) the calling party being called back collect for the provision of audio information services or simultaneous voice conversation services; or
+
+(E) the calling party being assessed, by virtue of being asked to connect or otherwise transfer to a pay-per-call service, a charge for the call.
+
+(8) Subscription agreements for billing for information provided via toll-free calls
+
+(A) In general
+
+For purposes of paragraph (7)(C)(i), a written subscription does not meet the requirements of this paragraph unless the agreement specifies the material terms and conditions under which the information is offered and includes—
+
+(i) the rate at which charges are assessed for the information;
+
+(ii) the information provider's name;
+
+(iii) the information provider's business address;
+
+(iv) the information provider's regular business telephone number;
+
+(v) the information provider's agreement to notify the subscriber at least one billing cycle in advance of all future changes in the rates charged for the information; and
+
+(vi) the subscriber's choice of payment method, which may be by direct remit, debit, prepaid account, phone bill, or credit or calling card.
+
+(B) Billing arrangements
+
+If a subscriber elects, pursuant to subparagraph (A)(vi), to pay by means of a phone bill—
+
+(i) the agreement shall clearly explain that the subscriber will be assessed for calls made to the information service from the subscriber's phone line;
+
+(ii) the phone bill shall include, in prominent type, the following disclaimer:
+
+“Common carriers may not disconnect local or long distance telephone service for failure to pay disputed charges for information services.”; and
+
+(iii) the phone bill shall clearly list the 800 number dialed.
+
+(C) Use of PINs to prevent unauthorized use
+
+A written agreement does not meet the requirements of this paragraph unless it—
+
+(i) includes a unique personal identification number or other subscriber-specific identifier and requires a subscriber to use this number or identifier to obtain access to the information provided and includes instructions on its use; and
+
+(ii) assures that any charges for services accessed by use of the subscriber's personal identification number or subscriber-specific identifier be assessed to subscriber's source of payment elected pursuant to subparagraph (A)(vi).
+
+(D) Exceptions
+
+Notwithstanding paragraph (7)(C), a written agreement that meets the requirements of this paragraph is not required—
+
+(i) for calls utilizing telecommunications devices for the deaf;
+
+(ii) for directory services provided by a common carrier or its affiliate or by a local exchange carrier or its affiliate; or
+
+(iii) for any purchase of goods or of services that are not information services.
+
+(E) Termination of service
+
+On receipt by a common carrier of a complaint by any person that an information provider is in violation of the provisions of this section, a carrier shall—
+
+(i) promptly investigate the complaint; and
+
+(ii) if the carrier reasonably determines that the complaint is valid, it may terminate the provision of service to an information provider unless the provider supplies evidence of a written agreement that meets the requirements of this section.
+
+(F) Treatment of remedies
+
+The remedies provided in this paragraph are in addition to any other remedies that are available under subchapter V of this chapter.
+
+(9) Charges by credit, prepaid, debit, charge, or calling card in absence of agreement
+
+For purposes of paragraph (7)(C)(ii), a calling party is not charged in accordance with this paragraph unless the calling party is charged by means of a credit, prepaid, debit, charge, or calling card and the information service provider includes in response to each call an introductory disclosure message that—
+
+(A) clearly states that there is a charge for the call;
+
+(B) clearly states the service's total cost per minute and any other fees for the service or for any service to which the caller may be transferred;
+
+(C) explains that the charges must be billed on either a credit, prepaid, debit, charge, or calling card;
+
+(D) asks the caller for the card number;
+
+(E) clearly states that charges for the call begin at the end of the introductory message; and
+
+(F) clearly states that the caller can hang up at or before the end of the introductory message without incurring any charge whatsoever.
+
+(10) Bypass of introductory disclosure message
+
+The requirements of paragraph (9) shall not apply to calls from repeat callers using a bypass mechanism to avoid listening to the introductory message: Provided, That information providers shall disable such a bypass mechanism after the institution of any price increase and for a period of time determined to be sufficient by the Federal Trade Commission to give callers adequate and sufficient notice of a price increase.
+
+(11) “Calling card” defined
+
+As used in this subsection, the term “calling card” means an identifying number or code unique to the individual, that is issued to the individual by a common carrier and enables the individual to be charged by means of a phone bill for charges incurred independent of where the call originates.
+
+(d) Billing and collection practices
+
+The regulations required by this section shall require that any common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of a pay-per-call service and that offers billing and collection services to such provider—
+
+(1) ensure that a subscriber is not billed—
+
+(A) for pay-per-call services that such carrier knows or reasonably should know was provided in violation of the regulations issued pursuant to title II of the Telephone Disclosure and Dispute Resolution Act [15 U.S.C. 5711 et seq.]; or
+
+(B) under such other circumstances as the Commission determines necessary in order to protect subscribers from abusive practices;
+
+(2) establish a local or a toll-free telephone number to answer questions and provide information on subscribers’ rights and obligations with regard to their use of pay-per-call services and to provide to callers the name and mailing address of any provider of pay-per-call services offered by the common carrier;
+
+(3) within 60 days after the issuance of final regulations pursuant to subsection (b) of this section, provide, either directly or through contract with any local exchange carrier that provides billing or collection services to the common carrier, to all of such common carrier's telephone subscribers, to all new subscribers, and to all subscribers requesting service at a new location, a disclosure statement that sets forth all rights and obligations of the subscriber and the carrier with respect to the use and payment for pay-per-call services, including the right of a subscriber not to be billed and the applicable blocking option; and
+
+(4) in any billing to telephone subscribers that includes charges for any pay-per-call service—
+
+(A) display any charges for pay-per-call services in a part of the subscriber's bill that is identified as not being related to local and long distance telephone charges;
+
+(B) for each charge so displayed, specify, at a minimum, the type of service, the amount of the charge, and the date, time, and duration of the call; and
+
+(C) identify the toll-free number established pursuant to paragraph (2).
+
+(e) Liability
+
+(1) Common carriers not liable for transmission or billing
+
+No common carrier shall be liable for a criminal or civil sanction or penalty solely because the carrier provided transmission or billing and collection for a pay-per-call service unless the carrier knew or reasonably should have known that such service was provided in violation of a provision of, or regulation prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act [15 U.S.C. 5711 et seq.; 5721 et seq.] or any other Federal law.
+This paragraph shall not prevent the Commission from imposing a sanction or penalty on a common carrier for a violation by that carrier of a regulation prescribed under this section.
+
+(2) Civil liability
+
+No cause of action may be brought in any court or administrative agency against any common carrier or any of its affiliates on account of any act of the carrier or affiliate to terminate any pay-per-call service in order to comply with the regulations prescribed under this section, title II or III of the Telephone Disclosure and Dispute Resolution Act [15 U.S.C. 5711 et seq.; 5721 et seq.], or any other Federal law unless the complainant demonstrates that the carrier or affiliate did not act in good faith.
+
+(f) Special provisions
+
+(1) Consumer refund requirements
+
+The regulations required by subsection (d) of this section shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act [15 U.S.C. 5711 et seq.; 5721 et seq.], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
+
+(2) Recovery of costs
+
+The regulations prescribed by the Commission under this section shall permit a common carrier to recover its cost of complying with such regulations from providers of pay-per-call services, but shall not permit such costs to be recovered from local or long distance ratepayers.
+
+(3) Recommendations on data pay-per-call
+
+The Commission, within one year after October 28, 1992, shall submit to the Congress the Commission's recommendations with respect to the extension of regulations under this section to persons that provide, for a per-call charge, data services that are not pay-per-call services.
+
+(g) Effect on other law
+
+(1) No preemption of election law
+
+Nothing in this section shall relieve any provider of pay-per-call services, common carrier, local exchange carrier, or any other person from the obligation to comply with Federal, State, and local election statutes and regulations.
+
+(2) Consumer protection laws
+
+Nothing in this section shall relieve any provider of pay-per-call services, common carrier, local exchange carrier, or any other person from the obligation to comply with any Federal, State, or local statute or regulation relating to consumer protection or unfair trade.
+
+(3) Gambling laws
+
+Nothing in this section shall preclude any State from enforcing its statutes and regulations with regard to lotteries, wagering, betting, and other gambling activities.
+
+(4) State authority
+
+Nothing in this section shall preclude any State from enacting and enforcing additional and complementary oversight and regulatory systems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
+
+(5) Enforcement of existing regulations
+
+Nothing in this section shall be construed to prohibit the Commission from enforcing regulations prescribed prior to October 28, 1992, in fulfilling the requirements of this section to the extent that such regulations are consistent with the provisions of this section.
+
+(h) Effect on dial-a-porn prohibitions
+
+Nothing in this section shall affect the provisions of section 223 of this title.
+
+(i) “Pay-per-call services” defined
+
+For purposes of this section—
+
+(1) The term “pay-per-call services” means any service—
+
+(A) in which any person provides or purports to provide—
+
+(i) audio information or audio entertainment produced or packaged by such person;
+
+(ii) access to simultaneous voice conversation services; or
+
+(iii) any service, including the provision of a product, the charges for which are assessed on the basis of the completion of the call;
+
+(B) for which the caller pays a per-call or per-time-interval charge that is greater than, or in addition to, the charge for transmission of the call; and
+
+(C) which is accessed through use of a 900 telephone number or other prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section.
+
+(2) Such term does not include directory services provided by a common carrier or its affiliate or by a local exchange carrier or its affiliate, or any service for which users are assessed charges only after entering into a presubscription or comparable arrangement with the provider of such service.
+
+(June 19, 1934, ch. 652, title II, §228, as added Pub. L. 102–556, title I, §101, Oct. 28, 1992, 106 Stat. 4182; amended Pub. L. 103–414, title III, §303(a)(13), (14), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title VII, §701(a)(1), (b)(2), Feb. 8, 1996, 110 Stat. 145, 148.)
+
+References in Text
+
+The Telephone Disclosure and Dispute Resolution Act, referred to in subsecs. (c)(1), (3), (d)(1)(A), (e), and (f)(1), is Pub. L. 102–556, Oct. 28, 1992, 106 Stat. 4181. Titles II and III of the Act are classified generally to subchapters I (§5711 et seq.) and II (§5721 et seq.), respectively, of chapter 83 of Title 15, Commerce and Trade.
+For complete classification of this Act to the Code, see section 5701(a) of Title 15 and Tables.
+
 Regulations
 
 Section 701(a)(2) of Pub. L. 104–104 provided that: “The Federal Communications Commission shall revise its regulations to comply with the amendment made by paragraph (1) [amending this section] not later than 180 days after the date of enactment of this Act [Feb. 8, 1996].”
@@ -9351,7 +9719,7 @@ For complete classification of this Act to the Code, see Short Title note set ou
 
 Digital Television Transition and Public Safety
 
-Pub. L. 109–171, title III, Feb. 8, 2006, 120 Stat. 21, provided that:
+Pub. L. 109–171, title III, Feb. 8, 2006, 120 Stat. 21, as amended by Pub. L. 110–53, title XXII, §2201(a), title XXIII, §2302, Aug. 3, 2007, 121 Stat. 537, 543, provided that:
 
 “SEC. 3001. SHORT TITLE; DEFINITION.
 
@@ -9427,22 +9795,65 @@ The Assistant Secretary shall ensure that each requesting household receives, vi
 
 “(a) Creation of Program.—The Assistant Secretary, in consultation with the Secretary of the Department of Homeland Security—
 
-“(1) may take such administrative action as is necessary to establish and implement a grant program to assist public safety agencies in the acquisition of, deployment of, or training for the use of interoperable communications systems that utilize, or enable interoperability with communications systems that can utilize, reallocated public safety spectrum for radio communication; and
+“(1) may take such administrative action as is necessary to establish and implement—
 
-“(2) shall make payments of not to exceed $1,000,000,000, in the aggregate, through fiscal year 2010 to carry out that program from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)).
+“(A) a grant program to assist public safety agencies in the planning and coordination associated with, the acquisition of, deployment of, or training for the use of interoperable communications equipment, software and systems that—
 
-“(b) Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section.
+“(i) utilize reallocated public safety spectrum for radio communication;
+
+“(ii) enable interoperability with communications systems that can utilize reallocated public safety spectrum for radio communication; or
+
+“(iii) otherwise improve or advance the interoperability of public safety communications systems that utilize other public safety spectrum bands; and
+
+“(B) are used to establish and implement [sic] a strategic technology reserve to pre-position or secure interoperable communications in advance for immediate deployment in an emergency or major disaster;
+
+“(2) shall make payments of not to exceed $1,000,000,000, in the aggregate, through fiscal year 2010 from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to carry out the grant program established under paragraph (1), of which at least $75,000,000, in the aggregate, shall be used for purposes described in paragraph (1)(B); and
+
+“(3) shall permit any funds allocated for use under paragraph (1)(B) to be used for purposes identified under paragraph (1)(A), if the public safety agency demonstrates that it has already implemented such a strategic technology reserve or demonstrates higher priority public safety communications needs.
+
+“(b) Eligibility.—To be eligible for assistance under the grant program established under subparagraph (a)(1)(A), an applicant shall submit an application, at such time, in such form, and containing such information as the Assistant Secretary may require, including a detailed explanation of how assistance received under the program would be used to improve communications interoperability and ensure interoperability with other public safety agencies in an emergency or a major disaster.
+
+“(c) Criteria for Strategic Technology Reserves.—
+
+“(1) In general.—In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretary shall consider the continuing technological evolution of communications technologies and devices, with its implicit risk of obsolescence, and shall ensure, to the maximum extent feasible, that a substantial part of the reserve involves prenegotiated contracts and other arrangements for rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems), rather than the warehousing or storage of equipment and supplies currently available at the time the reserve is established.
+
+“(2) Requirements and characteristics.—Funds provided to meet uses described in paragraph (1) shall be used in support of reserves that—
+
+“(A) are capable of re-establishing communications when existing critical infrastructure is damaged or destroyed in an emergency or a major disaster;
+
+“(B) include appropriate current, widely-used equipment, such as Land Mobile Radio Systems, cellular telephones and satellite-enabled equipment (and related communications service), Cells-On-Wheels, Cells-On-Light-Trucks, or other self-contained mobile cell sites that can be towed, backup batteries, generators, fuel, and computers;
+
+“(C) include equipment on hand for the Governor of each State, key emergency response officials, and appropriate State or local personnel;
+
+“(D) include contracts (including prenegotiated contracts) for rapid delivery of the most current technology available from commercial sources; and
+
+“(E) include arrangements for training to ensure that personnel are familiar with the operation of the equipment and devices to be delivered pursuant to such contracts.
+
+“(3) Additional characteristics.—Portions of the reserve may be virtual and may include items donated on an in-kind contribution basis.
+
+“(4) Allocation of funds.—In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretary shall take into account barriers to immediate deployment, including time and distance, that may slow the rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems) in the event of an emergency in any State.
+
+“(d) Voluntary Consensus Standards.—In carrying out this section, the Assistant Secretary, in cooperation with the Secretary of Homeland Security, shall identify and, if necessary, encourage the development and implementation of, voluntary consensus standards for interoperable communications systems to the greatest extent practicable, but shall not require any such standard.
+
+“(e) Inspector General Report and Audits.—
+
+“(1) Report.—Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 [Aug. 3, 2007], the Inspector General of the Department of Commerce shall conduct an annual assessment of the management of the grant program implemented under subsection (a)(1) and transmit a report containing the findings of that assessment and any recommendations related thereto to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
+
+“(2) Audits.—Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Inspector General of the Department of Commerce shall conduct financial audits of entities receiving grants from the program implemented under subsection (a)(1), and shall ensure that, over the course of 4 years, such audits cover recipients in a representative sample of not fewer than 25 States or territories.
+The results of any such audits shall be made publicly available via web site, subject to redaction as the Inspector General determines necessary to protect classified and other sensitive information.
+
+“(f) Rule of Construction.—Nothing in this section shall be construed or interpreted to preclude the use of funds under this section by any public safety agency for interim- or long-term Internet Protocol-based interoperable solutions.
+
+“(h)[(g)] Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section.
 The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
 
-“(c) Condition of Grants.—In order to obtain a grant under the grant program, a public safety agency shall agree to provide, from non-Federal sources, not less than 20 percent of the costs of acquiring and deploying the interoperable communications systems funded under the grant program.
+“(i)[(h)] Condition of Grants.—In order to obtain a grant under the grant program, a public safety agency shall agree to provide, from non-Federal sources, not less than 20 percent of the costs of acquiring and deploying the interoperable communications systems funded under the grant program.
 
-“(d) Definitions.—For purposes of this section:
+“(j)[(i)] Definitions.—For purposes of this section:
 
 “(1) Public safety agency.—The term ‘public safety agency’ means any State, local, or tribal government entity, or nongovernmental organization authorized by such entity, whose sole or principal purpose is to protect the safety of life, health, or property.
 
 “(2) Interoperable communications systems.—The term ‘interoperable communications systems’ means communications systems which enable public safety agencies to share information amongst local, State, Federal, and tribal public safety agencies in the same area via voice or data signals.
-
-“(3) Reallocated public safety spectrum.—The term ‘reallocated public safety spectrum’ means the bands of spectrum located at 764–776 megahertz and 794–806 megahertz, inclusive.
 
 “SEC. 3007. NYC 9/11 DIGITAL TRANSITION.
 
@@ -9488,7 +9899,10 @@ The Assistant Secretary shall use $50,000,000 of such amounts to implement a tsu
 
 “SEC. 3011. ENHANCE 911.
 
-“The Assistant Secretary shall make payments of not to exceed $43,500,000, in the aggregate, from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement the ENHANCE 911 Act of 2004 [title I of Pub. L. 108–494, see Short Title of 2004 Amendment note set out under section 901 of this title].
+“(a) In General.—The Assistant Secretary shall make payments of not to exceed $43,500,000, in the aggregate, from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement the ENHANCE 911 Act of 2004 [title I of Pub. L. 108–494, see Short Title of 2004 Amendment note set out under section 901 of this title].
+
+“(b) Credit.—The Assistant Secretary may borrow from the Treasury, upon enactment of the 911 Modernization Act [Aug. 3, 2007], such sums as necessary, but not to exceed $43,500,000, to implement this section.
+The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
 
 “SEC. 3012. ESSENTIAL AIR SERVICE PROGRAM.
 
@@ -9876,6 +10290,29 @@ The information required under this subsection shall be placed in a political fi
 Repeals
 
 Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15, 1974, 88 Stat. 1278, has been construed as not repealing the amendments to this section made by sections 103(a)(1), (2)(B), and 104(c) of such title I.
+
+Suspension of Equal Time Provisions for 1960 Campaign
+
+Pub. L. 86–677, Aug. 24, 1960, 74 Stat. 554, suspended that part of subsec. (a) of this section, which requires any licensee of a broadcast station who permits any person who is a legally qualified candidate for any public office to use a broadcasting station to afford equal opportunities to all other such candidates for that office in the use of such broadcasting station, for the period of the 1960 presidential and vice presidential campaigns with respect to nominees for the offices of President and Vice President of the United States.
+The Federal Communications Commission was directed to make a report to the Congress, not later than March 1, 1961, with respect to the effect of the provisions of Pub. L. 86–677 and any recommendations the Commission might have for amendments to this chapter as a result of experience under the provisions of Pub. L. 86–677.
+
+§316. Modification by Commission of station licenses or construction permits; burden of proof
+
+(a)(1) Any station license or construction permit may be modified by the Commission either for a limited time or for the duration of the term thereof, if in the judgment of the Commission such action will promote the public interest, convenience, and necessity, or the provisions of this chapter or of any treaty ratified by the United States will be more fully complied with.
+No such order of modification shall become final until the holder of the license or permit shall have been notified in writing of the proposed action and the grounds and reasons therefor, and shall be given reasonable opportunity, of at least thirty days, to protest such proposed order of modification; except that, where safety of life or property is involved, the Commission may by order provide, for a shorter period of notice.
+
+(2) Any other licensee or permittee who believes its license or permit would be modified by the proposed action may also protest the proposed action before its effective date.
+
+(3) A protest filed pursuant to this subsection shall be subject to the requirements of section 309 of this title for petitions to deny.
+
+(b) In any case where a hearing is conducted pursuant to the provisions of this section, both the burden of proceeding with the introduction of evidence and the burden of proof shall be upon the Commission; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2) of this section, such burdens shall be as determined by the Commission.
+
+(June 19, 1934, ch. 652, title III, §316, as added July 16, 1952, ch. 879, §12, 66 Stat. 717; amended Pub. L. 98–214, §4(a), Dec. 8, 1983, 97 Stat. 1467.)
+
+Prior Provisions
+
+A prior section 316 of act June 19, 1934, related to lotteries and similar devices, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff.
+Sept. 1, 1948. See section 1304 of Title 18, Crimes and Criminal Procedure.
 
 §317. Announcement of payment for broadcast
 
@@ -12009,62 +12446,6 @@ Part II—Radio Equipment and Radio Operators On Board Ship
 
 Effective Date
 
-Section 16 of act May 20, 1937, provided that: “This Act [enacting this part, amending sections 151, 153, 154, 303, 321, 322, 329, 402, 504, and 602 of this title, and repealing sections 484 to 487 of former Title 46, Shipping] shall take effect upon approval [May 20, 1937] provided that the Commission may defer the application of all or any part of sections 351 to 355 [sections 351 to 355 of this title], inclusive, for a period not to exceed six months after approval, in regard to any ship or classes of ships of the United States which are not subject to the provisions of the safety convention, if it is found impracticable to obtain the necessary equipment or make the required installations.”
-
-Joint Studies of Need for Safety Devices on Certain Cargo Ships; Report
-
-Act Aug. 3, 1956, ch. 913, 70 Stat. 967, authorized the Federal Communications Commission, the United States Coast Guard, and the Federal Maritime Administration, acting jointly, to make a full and complete study and investigation with respect to the need for installing automatic radiotelegraph call selectors on cargo ships of the United States carrying less than two radio operators, and other such safety devices, and the feasibility thereof, and required a report to the Congress not later than Mar. 1, 1957.
-
-§352. Exemptions
-
-(a) Vessels excepted
-
-The provisions of this part shall not apply to—
-
-(1) A ship of war;
-
-(2) A ship of the United States belonging to and operated by the Government, except a ship of the Maritime Administration of the Department of Transportation, the Inland and Coastwise Waterways Service, or the Panama Canal Company;
-
-(3) A foreign ship belonging to a country which is a party to any Safety Convention in force between the United States and that country which ship carries a valid certificate exempting said ship from the radio provisions of that Convention, or which ship conforms to the radio requirements of such Convention or Regulations and has on board a valid certificate to that effect, or which ship is not subject to the radio provisions of any such Convention;
-
-(4) Yachts of less than six hundred gross tons not subject to the radio provisions of the Safety Convention;
-
-(5) Vessels in tow;
-
-(6) A ship navigating solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a ship leaving or attempting to leave any harbor or port of the United States for a voyage solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States;
-
-(7) A ship navigating solely on the Great Lakes of North America and the River Saint Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island, and on the north side of Anticosti Island, the sixty-third meridian, or to a ship leaving or attempting to leave any harbor or port of the United States for a voyage solely on such waters and within such area;
-
-(8) A ship which is navigated during the course of a voyage both on the Great Lakes of North America and in the open sea, during the period while such ship is being navigated within the Great Lakes of North America and their connecting and tributary waters as far east as the lower exit of the Saint Lambert lock at Montreal in the Province of Quebec, Canada.
-
-(b) Radio station unreasonable or unnecessary
-
-Except for nuclear ships, the Commission may, if it considers that the route or the conditions of the voyage or other circumstances are such as to render a radio station unreasonable or unnecessary for the purposes of this part, exempt from the provisions of this part any ship or class of ships which falls within any of the following descriptions:
-
-(1) Passenger ships which in the course of their voyage do not go more than twenty nautical miles from the nearest land or, alternatively, do not go more than two hundred nautical miles between two consecutive ports;
-
-(2) Cargo ships which in the course of their voyage do not go more than one hundred and fifty nautical miles from the nearest land;
-
-(3) Passenger vessels of less than one hundred gross tons not subject to the radio provisions of the Safety Convention;
-
-(4) Sailing ships.
-
-(c) Unforeseeable equipment failures
-
-If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) of this section shall not apply: Provided, That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) of this section to permit the ship to proceed to a port where the equipment deficiency may be remedied.
-
-(d) Radio direction finding apparatus unreasonable or unnecessary
-
-Except for nuclear ships, and except for ships of five thousand gross tons and upward which are subject to the Safety Convention, the Commission may exempt from the requirements, for radio direction finding apparatus, of this part and of the Safety Convention, any ship which falls within the descriptions set forth in paragraphs (1), (2), (3), and (4) of subsection (b) of this section, if it considers that the route or conditions of the voyage or other circumstances are such as to render such apparatus unreasonable or unnecessary.
-
-(June 19, 1934, ch. 652, title III, §352, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 192; amended Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038; Aug. 13, 1954, ch. 729, §1(b), (c), 68 Stat. 705; Pub. L. 89–121, §3, Aug. 13, 1965, 79 Stat. 512; Pub. L. 97–31, §12(151), Aug. 6, 1981, 95 Stat. 167.)
-
-References in Text
-
-Panama Canal Company, referred to in subsec. (a)(2), deemed to refer to Panama Canal Commission, see section 3602(b)(5) of Title 22, Foreign Relations and Intercourse.
-
-Effective Date
-
 Section effective May 20, 1937, unless deferred by the Commission, see section 16 of act May 20, 1937, set out as a note under section 351 of this title.
 
 Transfer of Functions
@@ -12212,6 +12593,36 @@ Insofar as is necessary to carry out the purposes and requirements of this part,
 References in Text
 
 This part, referred to in text, commences with section 351 of this title.
+
+Effective Date
+
+Section effective May 20, 1937, see section 16 of act May 20, 1937, set out as a note under section 351 of this title.
+
+§357. Safety information
+
+(a) Transmission of information concerning safety at sea
+
+The master of every ship of the United States, equipped with radio transmitting apparatus, which meets with dangerous ice, a dangerous derelict, a tropical storm, or any other direct danger to navigation, or encounters subfreezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received, shall cause to be transmitted all pertinent information relating thereto to ships in the vicinity and to the appropriate authorities on land, in accordance with rules and regulations issued by the Commission.
+When they consider it necessary, such authorities of the United States shall promptly bring the information received by them to the knowledge of those concerned, including interested foreign authorities.
+
+(b) Charges for transmission of safety information
+
+No charge shall be made by any ship or station in the mobile service of the United States for the transmission, receipt, or relay of the information designated in subsection (a) of this section originating on a ship of the United States or of a foreign country.
+
+(c) Reimbursement by Commission
+
+The transmission by any ship of the United States, made in compliance with subsection (a) of this section, to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
+
+(d) Charges for transmission of distress messages
+
+No charge shall be made by any ship or station in the mobile service of the United States for the transmission of distress messages and replies thereto in connection with situations involving the safety of life and property at sea.
+
+(e) Free services
+
+Notwithstanding any other provision of law, any station or carrier may render free service in connection with situations involving the safety of life and property, including hydrographic reports, weather reports, reports regarding aids to navigation and medical assistance to injured or sick persons on ships and aircraft at sea.
+All free service permitted by this subsection shall be subject to such rules and regulations as the Commission may prescribe, which rules may limit such free service to the extent which the Commission finds desirable in the public interest.
+
+(June 19, 1934, ch. 652, title III, §359, formerly §357, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 195; renumbered §359, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 89–121, §9, Aug. 13, 1965, 79 Stat. 516.)
 
 Effective Date
 
@@ -16135,29 +16546,6 @@ Section 22(a) of Pub. L. 102–385 provided that: “The Congress finds and decl
 
 “(3) rigorous enforcement of equal employment opportunity rules and regulations is required in order to effectively deter racial and gender discrimination.”
 
-§555. Judicial proceedings
-
-(a) Actions to review determinations by franchising authorities
-
-Any cable operator adversely affected by any final determination made by a franchising authority under section 541(a)(1), 545 or 546 of this title may commence an action within 120 days after receiving notice of such determination, which may be brought in—
-
-(1) the district court of the United States for any judicial district in which the cable system is located; or
-
-(2) in any State court of general jurisdiction having jurisdiction over the parties.
-
-(b) Available relief
-
-The court may award any appropriate relief consistent with the provisions of the relevant section described in subsection (a) of this section and with the provisions of subsection (a) of this section.
-
-(c) Review of constitutionality of sections 534 and 535
-
-(1) Notwithstanding any other provision of law, any civil action challenging the constitutionality of section 534 or 535 of this title or any provision thereof shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28.
-
-(2) Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under paragraph (1) holding section 534 or 535 of this title or any provision thereof unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court.
-Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.
-
-(June 19, 1934, ch. 652, title VI, §635, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2800; amended Pub. L. 102–385, §§7(a)(2), 23, 24(b), Oct. 5, 1992, 106 Stat. 1483, 1500, 1501.)
-
 Effective Date
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
@@ -16779,6 +17167,10 @@ This chapter may be cited as the “Communications Act of 1934.”
 References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+Short Title of 2007 Amendment
+
+Pub. L. 110–108, §1, Oct. 31, 2007, 121 Stat. 1024, provided that: “This Act [enacting and amending provisions set out as notes under section 151 of this title] may be cited as the ‘Internet Tax Freedom Act Amendments Act of 2007’.”
 
 Short Title of 2006 Amendment
 
@@ -18139,6 +18531,8 @@ Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 Delegation of Responsibility
 
 Memorandum of President of the United States, Aug. 21, 2000, 65 F.R. 52289, provided:
@@ -18456,6 +18850,10 @@ For complete classification of this Act to the Code, see Short Title note set ou
 
 Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under section 305 of this title.
 
+Short Title of 2007 Amendment
+
+Pub. L. 110–53, title XXIII, §2301, Aug. 3, 2007, 121 Stat. 543, as amended by Pub. L. 110–161, div. B, title V, §539, Dec. 26, 2007, 121 Stat. 1934, provided that: “This title [amending section 942 of this title and provisions set out as a note under section 309 of this title] may be cited as the ‘911 Modernization Act’.”
+
 Short Title of 2004 Amendment
 
 Pub. L. 108–494, title I, §101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title [enacting section 942 of this title and provisions set out as notes under section 942 of this title] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
@@ -18550,7 +18948,10 @@ Term of the President's National Security Telecommunications Advisory Committee 
 No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2007, by Ex. Ord.
-No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2009, by Ex. Ord.
+No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 §902. Establishment; assigned functions
 
@@ -18669,6 +19070,69 @@ Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set 
 No. 12046, set out as a note under section 305 of this title.
 Section 10 of Ex. Ord.
 No. 11556 related to advisory committees established by the Director of the former Office of Telecommunications Policy.
+
+Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
+
+Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, provided that: “This section may be cited as the ‘ED 1.0 Act’.
+
+“(a) In this section:
+
+“(1) The term ‘Administrator’ means the Administrator of the National Telecommunications and Information Administration.
+
+“(2) The term ‘eligible educational institution’ means an institution that is—
+
+“(A) a historically Black college or university;
+
+“(B) a Hispanic-serving institution as that term is defined in section 502(a)(5) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)(5));
+
+“(C) a tribally controlled college or university as that term is defined in section 2(a)(4) of the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801(a)(4));
+
+“(D) an Alaska Native-serving institution as that term is defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)); or
+
+“(E) a Native Hawaiian-serving institution as that term is defined in section 317(b)(4) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(4)).
+
+“(3) The term ‘historically Black college or university’ means a part B institution as that term is defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
+
+“(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions.
+The Administrator shall award not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2).
+
+“(B)(i) The Administrator shall award a total of 9 grants under this subsection.
+
+“(ii) The Administrator shall make grant payments under this subsection in the amount of $500,000.
+
+“(2)(A) In awarding grants under this subsection the Administrator shall give priority to an eligible educational institution that, according to the most recent data available (including data available from the Bureau of the Census), serves a county, or other appropriate political subdivision where no counties exist—
+
+“(i) in which 50 percent of the residents of the county, or other appropriate political subdivision where no counties exist, are members of a racial or ethnic minority;
+
+“(ii) in which less than 18 percent of the residents of the county, or other appropriate political subdivision where no counties exist, have obtained a baccalaureate degree or a higher education;
+
+“(iii) that has an unemployment rate of 7 percent or greater;
+
+“(iv) in which 20 percent or more of the residents of the county, or other appropriate political subdivision where no counties exist, live in poverty;
+
+“(v) that has a negative population growth rate; or
+
+“(vi) that has a family income of not more than $32,000.
+
+“(B) In awarding grants under this subsection the Administrator shall give the highest priority to an eligible educational institution that meets the greatest number of requirements described in clauses (i) through (vi) of subparagraph (A).
+
+“(3) An eligible educational institution receiving a grant under this subsection may use the grant funds—
+
+“(A) to acquire equipment, instrumentation, networking capability, hardware, software, digital network technology, wireless technology, or wireless infrastructure;
+
+“(B) to develop and provide educational services, including faculty development; or
+
+“(C) to develop strategic plans for information technology investments.
+
+“(4) The Administrator shall not require an eligible educational institution to provide matching funds for a grant awarded under this subsection.
+
+“(5)(A) The Administrator shall consult with the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, on a quarterly basis regarding the pilot program assisted under this subsection.
+
+“(B) Not later than 1 year after the date of enactment of this section [Dec. 26, 2007], the Administrator shall submit to the committees described in subparagraph (A) a report evaluating the progress of the pilot program assisted under this subsection.
+
+“(c) There are authorized to be appropriated to carry out this section $4,500,000 for each of fiscal years 2008 and 2009.
+
+“(d) The Administrator shall carry out this section only with amounts appropriated in advance specifically to carry out this section.”
 
 Study of Technology Protection Measures
 
@@ -18934,31 +19398,7 @@ Pub. L. 106–65, div. A, title X, §1062(c)(1), Oct. 5, 1999, 113 Stat. 768, pr
 
 Assessment of Electromagnetic Spectrum Reallocation
 
-Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, provided that:
-
-“(a) Review and Assessment of Electromagnetic Spectrum Reallocation.—
-
-“(1) Review and assessment required.—The Secretary of Commerce, acting through the Assistant Secretary and in coordination with the Chairman of the Federal Communications Commission, shall convene an interagency review and assessment of—
-
-“(A) the progress made in implementation of national spectrum planning;
-
-“(B) the reallocation of Federal Government spectrum to non-Federal use, in accordance with the amendments made by title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) [enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title] and title III of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 258) [enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title]; and
-
-“(C) the implications for such reallocations to the affected Federal executive agencies.
-
-“(2) Coordination.—The assessment shall be conducted in coordination with affected Federal executive agencies through the Interdepartmental Radio Advisory Committee.
-
-“(3) Cooperation and assistance.—Affected Federal executive agencies shall cooperate with the Assistant Secretary in the conduct of the review and assessment and furnish the Assistant Secretary with such information, support, and assistance, not inconsistent with law, as the Assistant Secretary may consider necessary in the performance of the review and assessment.
-
-“(4) Attention to particular subjects required.—In the conduct of the review and assessment, particular attention shall be given to—
-
-“(A) the effect on critical military and intelligence capabilities, civil space programs, and other Federal Government systems used to protect public safety of the reallocated spectrum described in paragraph (1)(B) of this subsection;
-
-“(B) the anticipated impact on critical military and intelligence capabilities, future military and intelligence operational requirements, national defense modernization programs, and civil space programs, and other Federal Government systems used to protect public safety, of future potential reallocations to non-Federal use of bands of the electromagnetic spectrum that are currently allocated for use by the Federal Government; and
-
-“(C) future spectrum requirements of agencies in the Federal Government.
-
-“(b) Submission of Report.—The Secretary of Commerce, in coordination with the heads of the affected Federal executive agencies, and the Chairman of the Federal Communications Commission shall submit to the President, the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services, the Committee on Commerce [now Committee on Energy and Commerce], and the Committee on Science of the House of Representatives, not later than October 1, 2000, a report providing the results of the assessment required by subsection (a).”
+Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
 
 §922. National spectrum allocation planning
 
@@ -19205,6 +19645,71 @@ References in Text
 For definition of the 1934 Act, referred to in subsecs. (a)(3), (5), (b)(2), and (f), see section 921(3) of this title.
 
 Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f), is section 3002(c)(5) of Pub. L. 105–33, which is set out as a note under section 925 of this title.
+
+Spectrum Management Authority Retained
+
+Pub. L. 108–494, title II, §208(a), Dec. 23, 2004, 118 Stat. 3996, provided that: “Except as provided with respect to the bands of frequencies identified in section 113(g)(2)(A) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)(A)) as amended by this title, nothing in this title [see Short Title of 2004 Amendment note set out under section 901 of this title] or the amendments made by this title shall be construed as limiting the Federal Communications Commission's authority to allocate bands of frequencies that are reallocated from Federal use to non-Federal use for unlicensed, public safety, shared, or non-commercial use.”
+
+Reports on Costs of Relocations
+
+Pub. L. 105–261, div. A, title X, §1064(d), Oct. 17, 1998, 112 Stat. 2133, provided that: “The head of each department or agency of the Federal Government shall include in the annual budget submission of such department or agency to the Director of the Office of Management and Budget a report assessing the costs to be incurred by such department or agency as a result of any frequency relocations of such department or agency that are anticipated under section 113 of the National Telecommunications [and] Information Administration Organization Act (47 U.S.C. 923) as of the date of such report.”
+
+1 So in original.
+Probably should be followed by “the”.
+
+§924. Withdrawal or limitation of assignment to Federal Government stations
+
+(a) In general
+
+The President shall—
+
+(1) within 6 months after receipt of a report by the Secretary under subsection (a), (d)(1), or (f) of section 923 of this title, withdraw the assignment to a Federal Government station of any frequency which the report recommends for immediate reallocation;
+
+(2) within any such 6-month period, limit the assignment to a Federal Government station of any frequency which the report recommends be made immediately available for mixed use under section 923(b)(2) of this title;
+
+(3) by the delayed effective date recommended by the Secretary under section 923(e) of this title (except as provided in subsection (b)(4) of this section), withdraw or limit the assignment to a Federal Government station of any frequency which the report recommends be reallocated or made available for mixed use on such delayed effective date;
+
+(4) assign or reassign other frequencies to Federal Government stations as necessary to adjust to such withdrawal or limitation of assignments; and
+
+(5) transmit a notice and description to the Commission and each House of Congress of the actions taken under this subsection.
+
+(b) Exceptions
+
+(1) Authority to substitute
+
+If the President determines that a circumstance described in paragraph (2) exists, the President—
+
+(A) may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a) of this section; and
+
+(B) shall submit a statement of the reasons for taking the action described in subparagraph (A) to the Commission, Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(2) Grounds for substitution
+
+For purposes of paragraph (1), the following circumstances are described in this paragraph:
+
+(A) the reassignment would seriously jeopardize the national defense interests of the United States;
+
+(B) the frequency proposed for reassignment is uniquely suited to meeting important governmental needs;
+
+(C) the reassignment would seriously jeopardize public health or safety;
+
+(D) the reassignment will result in costs to the Federal Government that are excessive in relation to the benefits that may be obtained from commercial or other non-Federal uses of the reassigned frequency; or
+
+(E) the reassignment will disrupt the existing use of a Federal Government band of frequencies by amateur radio licensees.
+
+(3) Criteria for substituted frequencies
+
+For purposes of paragraph (1), a frequency may not be substituted for a frequency identified and recommended by the report of the Secretary under section 923(a) of this title unless the substituted frequency also meets each of the criteria specified by section 923(a) of this title.
+
+(4) Delays in implementation
+
+If the President determines that any action cannot be completed by the delayed effective date recommended by the Secretary pursuant to section 923(e) of this title, or that such an action by such date would result in a frequency being unused as a consequence of the Commission's plan under section 925 of this title, the President may—
+
+(A) withdraw or limit the assignment to Federal Government stations on a later date that is consistent with such plan, except that the President shall notify each committee specified in paragraph (1)(B) and the Commission of the reason that withdrawal or limitation at a later date is required; or
+
+(B) substitute alternative frequencies pursuant to the provisions of this subsection.
+
+(Pub. L. 102–538, title I, §114, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 384; amended Pub. L. 105–33, title III, §3002(d)(2), Aug. 5, 1997, 111 Stat. 264.)
 
 §925. Distribution of frequencies by Commission
 
@@ -19681,6 +20186,8 @@ In providing grants under paragraph (1), the Assistant Secretary and the Adminis
 
 The Assistant Secretary and the Administrator shall jointly issue regulations within 180 days after December 23, 2004, after a public comment period of not less than 60 days, prescribing the criteria for selection for grants under this section, and shall update such regulations as necessary.
 The criteria shall include performance requirements and a timeline for completion of any project to be financed by a grant under this section.
+Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance.
+Such grants shall be subject to all other requirements of this section.
 
 (c) Diversion of E–911 charges
 
@@ -19754,7 +20261,7 @@ The term “phase II E–911 services” means only phase II enhanced 911 servic
 
 The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
 
-(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987.)
+(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543.)
 
 Codification
 

@@ -493,9 +493,8 @@ See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 o
 
 Continuation of Mail Delivery Services
 
-Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the following appropriations acts:
-
-Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490.
+Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code.
+Similar provisions were also contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3264.
 
@@ -1070,13 +1069,17 @@ as determined by the Postal Service under regulations that it shall prescribe.
 
 (g) For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-(h) This section shall cease to be effective after December 31, 2007.
+(h) This section shall cease to be effective after December 31, 2011.
 
-(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, §1, Nov. 11, 2005, 119 Stat. 2170.)
+(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, §1, Nov. 11, 2005, 119 Stat. 2170; Pub. L. 110–150, §1, Dec. 21, 2007, 121 Stat. 1820.)
 
 References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
+
+Reporting Requirements
+
+Pub. L. 110–150, §2, Dec. 21, 2007, 121 Stat. 1820, provided that: “The National Institutes of Health and the Department of Defense shall each submit to Congress and the Government Accountability Office an annual report concerning the use of any amounts that it received under section 414(c) of title 39, United States Code, including a description of any significant advances or accomplishments, during the year covered by the report, that were funded, in whole or in part, with such amounts.”
 
 Report by Comptroller General of United States
 
@@ -1525,23 +1528,17 @@ Disposition of seized mail.
 
 (6) the date of the letter, of its transmission or receipt by the carrier is endorsed on the envelope in ink.
 
-(b) The Postal Service may suspend the operation of any part of this section upon any mail route where the public interest requires the suspension.
+(b) A letter may also be carried out of the mails when—
+
+(1) the amount paid for the private carriage of the letter is at least the amount equal to 6 times the rate then currently charged for the 1st ounce of a single-piece first class letter;
+
+(2) the letter weighs at least 121/2 ounces; or
+
+(3) such carriage is within the scope of services described by regulations of the United States Postal Service (including, in particular, sections 310.1 and 320.2–320.8 of title 39 of the Code of Federal Regulations, as in effect on July 1, 2005) that purport to permit private carriage by suspension of the operation of this section (as then in effect).
+
+(c) Any regulations necessary to carry out this section shall be promulgated by the Postal Regulatory Commission.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 109–435, title V, §503(a), Dec. 20, 2006, 120 Stat. 3234.)
-
-Amendment of Section
-
-Pub. L. 109–435, title V, §503, Dec. 20, 2006, 120 Stat. 3234, provided that, effective on the date the regulations promulgated under section 3633 of this title, as amended, take effect, this section is amended by striking subsection (b) and inserting the following:
-
-“(b) A letter may also be carried out of the mails when—
-
-“(1) the amount paid for the private carriage of the letter is at least the amount equal to 6 times the rate then currently charged for the 1st ounce of a single-piece first class letter;
-
-“(2) the letter weighs at least 121/2 ounces; or
-
-“(3) such carriage is within the scope of services described by regulations of the United States Postal Service (including, in particular, sections 310.1 and 320.2–320.8 of title 39 of the Code of Federal Regulations, as in effect on July 1, 2005) that purport to permit private carriage by suspension of the operation of this section (as then in effect).
-
-“(c) Any regulations necessary to carry out this section shall be promulgated by the Postal Regulatory Commission.”
 
 Effective Date
 
@@ -3235,6 +3232,99 @@ with sufficient precision and in such terms that would allow for an accurate, in
 (4) include the summary findings of those program evaluations completed during the fiscal year covered by the report.
 
 (Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 294; amended Pub. L. 109–435, title X, §1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
+
+§2805. Inherently Governmental functions
+
+The functions and activities of this chapter shall be considered to be inherently Governmental functions.
+The drafting of strategic plans, performance plans, and program performance reports under this section shall be performed only by employees of the Postal Service.
+
+(Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 294.)
+
+PART IV—MAIL MATTER
+
+Chap.
+Sec.
+
+30.
+Nonmailable Matter
+3001
+
+32.
+Penalty and Franked Mail
+3201
+
+34.
+Armed Forces and Free Postage
+3401
+
+36.
+Postal Rates, Classes, and Services
+3601
+
+        
+
+CHAPTER 30—NONMAILABLE MATTER
+
+Sec.
+
+3001.
+Nonmailable matter.
+
+3002.
+Nonmailable motor vehicle master keys.
+
+3002a.
+Nonmailability of locksmithing devices.
+
+3003.
+Mail bearing a fictitious name or address.
+
+3004.
+Delivery of mail to persons not residents of the place of address.
+
+3005.
+False representations; lotteries.
+
+[3006.
+Repealed.]
+
+3007.
+Detention of mail for temporary periods.
+
+3008.
+Prohibition of pandering advertisements.
+
+3009.
+Mailing of unordered merchandise.
+
+3010.
+Mailing of sexually oriented advertisements.
+
+3011.
+Judicial enforcement.
+
+3012.
+Civil penalties.
+
+3013.
+Semiannual reports on investigative activities of the Postal Service.
+
+3014.
+Nonmailable plants.
+
+3015.
+Nonmailable plant pests and injurious animals.
+
+3016.
+Administrative subpoenas.
+
+3017.
+Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings.
+
+3018.
+Hazardous material.
+
+        
 
 §3001. Nonmailable matter
 
@@ -6336,6 +6426,64 @@ The payments may not exceed the annual rate of pay of the contractor or subcontr
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 103–272, §4(g)(1), July 5, 1994, 108 Stat. 1364.)
 
+[CHAPTER 52—REPEALED]
+
+[§§5201 to 5215. Repealed.
+Pub. L. 109–435, title X, §1002(a)(1), Dec. 20, 2006, 120 Stat. 3254]
+
+Section 5201, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(A)–(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–454, §3(b)(2), Oct. 15, 1980, 94 Stat. 2012; Pub. L. 97–261, §6(d)(4), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4(3), Oct. 22, 1986, 100 Stat. 2993; Pub. L. 104–88, title III, §307(3)–(9), (14), Dec. 29, 1995, 109 Stat. 946, related to definitions.
+
+Section 5202, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768, related to applicability of chapter.
+
+Section 5203, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(D), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §307(10), (14), Dec. 29, 1995, 109 Stat. 946, related to authorization of service by carrier.
+
+Section 5204, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769, related to changes in service and placement of equipment.
+
+Section 5205, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769, related to evidence of service.
+
+Section 5206, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769, related to fines and deductions.
+
+Section 5207, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 770; Pub. L. 104–88, title III, §307(11), (14), Dec. 29, 1995, 109 Stat. 946, directed the Surface Transportation Board to fix rates.
+
+Section 5208, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 770; Pub. L. 104–88, title III, §307(12), (14), Dec. 29, 1995, 109 Stat. 946, related to procedures.
+
+Section 5209, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 770; Pub. L. 104–88, title III, §307(14), Dec. 29, 1995, 109 Stat. 946, related to special rates.
+
+Section 5210, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771, related to intermodal transportation.
+
+Section 5211, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771, related to statistical studies.
+
+Section 5212, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771; Pub. L. 104–88, title III, §307(14), Dec. 29, 1995, 109 Stat. 946, related to special contracts.
+
+Section 5213, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771, related to carrier operations, receipts, and expenditures.
+
+Section 5214, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771, related to agreements with passenger common carriers by motor vehicle.
+
+Section 5215, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 771; Pub. L. 95–473, §2(a)(4)(E), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §307(12)–(14), Dec. 29, 1995, 109 Stat. 946, related to star route certification.
+
+CHAPTER 54—TRANSPORTATION OF MAIL BY AIR
+
+Sec.
+
+5401.
+Authorization.
+
+5402.
+Contracts for transportation of mail by air.
+
+5403.
+Fines.
+
+        
+
+§5401. Authorization
+
+(a) The Postal Service is authorized to provide for the safe and expeditious transportation of mail by aircraft.
+
+(b) Except as otherwise provided in section 5402 of this title, the Postal Service may make such rules, regulations, and orders consistent with part A of subtitle VII of title 49, or any order, rule, or regulation made by the Secretary of Transportation thereunder, as may be necessary for such transportation.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(3), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 103–272, §5(k)(3), July 5, 1994, 108 Stat. 1375.)
+
 Effective Date
 
 Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors.
@@ -6825,7 +6973,7 @@ Pub. L. 107–206, title III, §3002(d), Aug. 2, 2002, 116 Stat. 923, provided t
 
 Reports to Congress
 
-Pub. L. 107–206, title III, §3002(f), Aug. 2, 2002, 116 Stat. 924, provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate on the progress of implementing title III of Pub. L. 107–206.
+Pub. L. 107–206, title III, §3002(f), Aug. 2, 2002, 116 Stat. 924, provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform (now Committee on Oversight and Government Reform) of the House of Representatives and the Committee on Governmental Affairs of the Senate on the progress of implementing title III of Pub. L. 107–206.
 
 1 So in original.
 The period probably should be a semicolon.

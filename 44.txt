@@ -4572,7 +4572,7 @@ The Archivist shall prepare and publish a subject guidebook and index to the col
 
 “(2) The National Archives, in consultation with the Information Security Oversight Office, shall ensure the security of the postponed assassination records in the Collection.
 
-“(e) Oversight.—The Committee on Government Operations [now Committee on Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
+“(e) Oversight.—The Committee on Government Operations [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
 
 “SEC. 5. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.
 
@@ -4729,7 +4729,7 @@ Such description shall be provided to the Archivist and published in the Federal
 
 “(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
 
-“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations [now Committee on Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report specifying the facts found and the grounds for the removal.
+“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report specifying the facts found and the grounds for the removal.
 
 “(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
 
@@ -4775,7 +4775,7 @@ Such description shall be provided to the Archivist and published in the Federal
 
 “(k) Witness Immunity.—The Review Board shall be considered to be an agency of the United States for purposes of section 6001 of title 18, United States Code.
 
-“(l) Oversight.—(1) The Committee on Government Operations [now Committee on Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+“(l) Oversight.—(1) The Committee on Government Operations [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 “(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
@@ -4889,7 +4889,7 @@ Such notice shall contain a written unclassified justification for public disclo
 
 “(e) Notice to Public.—Every 30 calendar days, beginning on the date that is 60 calendar days after the date on which the Review Board first approves the postponement of disclosure of an assassination record, the Review Board shall publish in the Federal Register a notice that summarizes the postponements approved by the Review Board or initiated by the President, the House of Representatives, or the Senate, including a description of the subject, originating agency, length or other physical description, and each ground for postponement that is relied upon.
 
-“(f) Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations [now Committee on Government Reform] of the House of Representatives, the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+“(f) Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations [now Committee on Oversight and Government Reform] of the House of Representatives, the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 “(2) The first report shall be issued on the date that is 1 year after the date of enactment of this Act [Oct. 26, 1992], and subsequent reports every 12 months thereafter until termination of the Review Board.
 
@@ -5411,6 +5411,8 @@ Based on 44 U.S. Code, 1964 ed., §402 (Aug. 2, 1946, ch. 753, title I, §140, 6
 
 Change of Name
 
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 CHAPTER 22—PRESIDENTIAL RECORDS
@@ -5545,7 +5547,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Classified National Security Information
 
@@ -5734,6 +5736,62 @@ Notwithstanding any restrictions on access imposed pursuant to section 2204—
 (3) the Presidential records of a former President shall be available to such former President or his designated representative.
 
 (Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2527; amended Pub. L. 98–497, title I, §107(b)(7), Oct. 19, 1984, 98 Stat. 2287.)
+
+§2206. Regulations
+
+The Archivist shall promulgate in accordance with section 553 of title 5, United States Code, regulations necessary to carry out the provisions of this chapter.
+Such regulations shall include—
+
+(1) provisions for advance public notice and description of any Presidential records scheduled for disposal pursuant to section 2203(f)(3);
+
+(2) provisions for providing notice to the former President when materials to which access would otherwise be restricted pursuant to section 2204(a) are to be made available in accordance with section 2205(2);
+
+(3) provisions for notice by the Archivist to the former President when the disclosure of particular documents may adversely affect any rights and privileges which the former President may have; and
+
+(4) provisions for establishing procedures for consultation between the Archivist and appropriate Federal agencies regarding materials which may be subject to section 552(b)(7) of title 5, United States Code.
+
+(Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2527.)
+
+§2207. Vice-Presidential records
+
+Vice-Presidential records shall be subject to the provisions of this chapter in the same manner as Presidential records.
+The duties and responsibilities of the Vice President, with respect to Vice-Presidential records, shall be the same as the duties and responsibilities of the President under this chapter with respect to Presidential records.
+The authority of the Archivist with respect to Vice-Presidential records shall be the same as the authority of the Archivist under this chapter with respect to Presidential records, except that the Archivist may, when the Archivist determines that it is in the public interest, enter into an agreement for the deposit of Vice-Presidential records in a non-Federal archival depository.
+Nothing in this chapter shall be construed to authorize the establishment of separate archival depositories for such Vice-Presidential records.
+
+(Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2527.)
+
+CHAPTER 23—NATIONAL ARCHIVES TRUST FUND BOARD
+
+Sec.
+
+2301.
+Establishment of Board; membership.
+
+2302.
+Authority of the Board; seal; services; bylaws; rules; regulations; employees.
+
+2303.
+Powers and obligations of Board; liability of members.1
+
+        
+
+2304.
+Compensation of members; availability of trust funds for expenses of Board.1
+
+2305.
+Acceptance of gifts.
+
+2306.
+Investment of funds.
+
+2307.
+Trust fund account; disbursements; sales of publications and releases.
+
+2308.
+Tax exemption for gifts.
+
+        
 
 1 Section catchline amended by Pub. L. 98–497 without corresponding amendment of analysis.
 
@@ -6318,7 +6376,7 @@ The rates charged will return in full the expenses of operation, including reser
 
 “(2) Funds in excess of the 4 percent at the close of each fiscal year shall be returned to the Treasury of the United States as miscellaneous receipts.
 
-“(e) Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform of the House of Representatives on the operation of the Records Center Revolving Fund.”
+“(e) Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform [now Oversight and Government Reform] of the House of Representatives on the operation of the Records Center Revolving Fund.”
 
 Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Printing Office
 
@@ -6352,6 +6410,19 @@ Such records management standards and procedures shall seek to implement the fol
 Prior Provisions
 
 A prior section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, related to activities of the Administrator of General Services with respect to records management, surveys, and reports, prior to repeal by Pub. L. 94–575, §2(a)(1). See section 2904 of this title.
+
+§2903. Custody and control of property
+
+(a) The Archivist shall have immediate custody and control of the National Archives Building and its contents, and may design, construct, purchase, lease, maintain, operate, protect, and improve buildings used by him for the storage of records of Federal agencies in the District of Columbia and elsewhere.
+
+(b) When the Archivist considers it to be in the public interest, the Archivist may charge and collect reasonable fees from the public for the occasional, non-official use of rooms and spaces, and services related to such use, in the buildings subject to this section.
+Fees collected under this subsection shall be paid into an account in the National Archives Trust Fund and shall be held, administered, and expended for the benefit and in the interest of the national archival and records activities administered by the National Archives and Records Administration, including educational and public program purposes.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296; Pub. L. 98–497, title I, §107(b)(15)(A), Oct. 19, 1984, 98 Stat. 2288; Pub. L. 108–383, §4(b), Oct. 30, 2004, 118 Stat. 2218.)
+
+Historical and Revision Notes
+
+Based on 44 U.S. Code, 1964 ed., §392 (June 30, 1949, ch. 288, title V, §502, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
 §2904. General responsibilities for records management
 
@@ -6463,47 +6534,6 @@ The Archivist shall promulgate regulations in accordance with section 2104(a) of
 Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §395(f) (June 30, 1949, ch. 288, title V, §505(f), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
-
-§2910. Preservation of Freedmen's Bureau records
-
-The Archivist shall preserve the records of the Bureau of Refugees, Freedmen, and Abandoned Lands, commonly referred to as the “Freedmen's Bureau”, by using—
-
-(1) microfilm technology for preservation of the documents comprising these records so that they can be maintained for future generations; and
-
-(2) the results of the pilot project with the University of Florida to create future partnerships with Howard University and other institutions for the purposes of indexing these records and making them more easily accessible to the public, including historians, genealogists, and students, and for any other purposes determined by the Archivist.
-
-(Added Pub. L. 106–444, §2(a), Nov. 6, 2000, 114 Stat. 1929.)
-
-Prior Provisions
-
-A prior section 2910, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1297, provided for final authority of Administrator in records practices, prior to repeal by Pub. L. 94–575, §2(a)(4), Oct. 21, 1976, 90 Stat. 2726.
-
-CHAPTER 31—RECORDS MANAGEMENT BY FEDERAL AGENCIES
-
-Sec.
-
-3101.
-Records management by agency heads; general duties.
-
-3102.
-Establishment of program of management.
-
-3103.
-Transfer of records to records centers.
-
-3104.
-Certifications and determinations on transferred records.
-
-3105.
-Safeguards.
-
-3106.
-Unlawful removal, destruction of records.
-
-3107.
-Authority of Comptroller General.
-
-        
 
 §3101. Records management by agency heads; general duties
 
@@ -6743,35 +6773,6 @@ However, this subsection does not require the Archivist to request such advice a
 Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
-Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of reporting provisions in subsec. (f) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th item on page 180 of House Document No. 103–7.
-
-[§§3304 to 3307. Repealed.
-Pub. L. 91–287, §2(c), June 23, 1970, 84 Stat. 321]
-
-Section 3304, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1300, related to submission of lists and schedules of records lacking preservation value by the Administrator of General Services to Congress.
-See section 3303a of this title.
-
-Section 3305, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1300, related to examination of lists and schedules by joint congressional committees and report to Congress.
-See section 3303a of this title.
-
-Section 3306, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1300, related to disposal of records by head of Government agency upon notification by Administrator of action by joint congressional committee.
-See section 3303a of this title.
-
-Section 3307, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1301, related to disposal of records upon failure of joint congressional committees to act.
-See section 3303a of this title.
-
-§3308. Disposal of similar records where prior disposal was authorized
-
-When it appears to the Archivist that an agency has in its custody, or is accumulating, records of the same form or character as those of the same agency previously authorized to be disposed of, he may empower the head of the agency to dispose of the records, after they have been in existence a specified period of time, in accordance with regulations promulgated under section 3302 of this title and without listing or scheduling them.
-
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1301; Pub. L. 91–287, §2(a), June 23, 1970, 84 Stat. 321; Pub. L. 98–497, title I, §107(b)(23), Oct. 19, 1984, 98 Stat. 2290.)
-
-Historical and Revision Notes
-
-Based on 44 U.S. Code, 1964 ed., §373 (July 7, 1943, ch. 192, §8, 57 Stat. 382; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381).
 
 §3309. Preservation of claims of Government until settled in Government Accountability Office; disposal authorized upon written approval of Comptroller General
 
@@ -7407,7 +7408,7 @@ To the extent such conversions are made, all such electronic versions of the doc
 
 “(B) Exception.—To the extent that the Supreme Court, a court of appeals, district, or bankruptcy court of a district maintains a website under subsection (a), the Supreme Court or that court of appeals or district shall comply with subsection (b)(1).
 
-“(2) Report.—Not later than 1 year after the effective date of this title [see Effective Date note set out under section 3601 of this title], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform and the Judiciary of the House of Representatives that—
+“(2) Report.—Not later than 1 year after the effective date of this title [see Effective Date note set out under section 3601 of this title], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform [now Oversight and Government Reform] and the Judiciary of the House of Representatives that—
 
 “(A) contains all notifications submitted to the Administrative Office of the United States Courts under this subsection; and
 
@@ -7791,7 +7792,7 @@ The Director of the Office of Personnel Management shall prescribe regulations f
 
 “(1) In general.—[Enacted chapter 37 of Title 5, Government Organization and Employees.]
 
-“(2) Report.—Not later than 4 years after the date of the enactment of this Act [Dec. 17, 2002], the Government Accountability Office shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
+“(2) Report.—Not later than 4 years after the date of the enactment of this Act [Dec. 17, 2002], the Government Accountability Office shall prepare and submit to the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
 
 “(A) an evaluation of the effectiveness of the program established by such chapter; and
 
@@ -7819,7 +7820,7 @@ The Director of the Office of Personnel Management shall prescribe regulations f
 
 “(C) both.
 
-“(2) Reporting requirement.—Not later than 1 year after the date of the enactment of this Act [Dec. 17, 2002], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report identifying all existing exchange programs.
+“(2) Reporting requirement.—Not later than 1 year after the date of the enactment of this Act [Dec. 17, 2002], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report identifying all existing exchange programs.
 
 “(3) Specific information.—The report shall, for each such program, include—
 
@@ -7833,7 +7834,7 @@ The Director of the Office of Personnel Management shall prescribe regulations f
 
 “(f) Report on the Establishment of a Governmentwide Information Technology Training Program.—
 
-“(1) In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a written report on the following:
+“(1) In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a written report on the following:
 
 “(A) The adequacy of any existing information technology training programs available to Federal employees on a Governmentwide basis.
 
@@ -7859,7 +7860,7 @@ The Director of the Office of Personnel Management shall prescribe regulations f
 
 “(b) Other Contracts.—[Enacted section 266a of Title 41.]
 
-“(c) Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate, the Committee on Government Reform of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
+“(c) Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate, the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
 
 “(d) Regulations.—Not later than 270 days after the date of the enactment of this Act [Dec. 17, 2002], the Federal Acquisition Regulation shall be revised to implement the provisions enacted by this section.
 Such revisions shall—
@@ -7916,7 +7917,7 @@ Such revisions shall—
 
 “(b) Procedures.—Not later than 30 days after the date of the enactment of this Act [Dec. 17, 2002], the Administrator of General Services shall establish procedures to implement section 501(c) of title 40, United States Code (as added by subsection (a)).
 
-“(c) Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
+“(c) Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
 
 “SEC. 212. INTEGRATED REPORTING STUDY AND PILOT PROJECTS.
 
@@ -7936,7 +7937,7 @@ Such revisions shall—
 
 “(c) Report.—
 
-“(1) In general.—Not later than 3 years after the date of enactment of this Act [Dec. 17, 2002], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Government Reform of the House of Representatives on progress toward integrating Federal information systems across agencies.
+“(1) In general.—Not later than 3 years after the date of enactment of this Act [Dec. 17, 2002], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives on progress toward integrating Federal information systems across agencies.
 
 “(2) Contents.—The report under this section shall—
 
@@ -8002,9 +8003,9 @@ To the extent practicable, the Director shall consult with relevant agencies and
 
 “(B) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
-“(C) the Committee on Government Reform of the House of Representatives; and
+“(C) the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives; and
 
-“(D) the Committee on Education and the Workforce of the House of Representatives.
+“(D) the Committee on Education and the Workforce [now Committee on Education and Labor] of the House of Representatives.
 
 “(c) Contents.—The report under subsection (b) may consider—
 
@@ -8092,7 +8093,7 @@ To the extent practicable, the Director shall consult with relevant agencies and
 
 “(A) the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate; and
 
-“(B) the Committee on Government Reform of the House of Representatives.
+“(B) the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives.
 
 “(4) Interagency cooperation.—Other Federal departments and agencies with responsibility for disaster relief and emergency assistance shall fully cooperate with the Administrator in carrying out this section.
 
@@ -8107,7 +8108,7 @@ The Administrator shall cooperate with other relevant agencies, and, if appropri
 
 “(1) Study.—Not later than 90 days after the date of enactment of this Act [Dec. 17, 2002], the Administrator of General Services shall request that the National Academy of Sciences, acting through the National Research Council, enter into a contract to conduct a study on disparities in Internet access for online Government services.
 
-“(2) Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Government Reform of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
+“(2) Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
 
 “(b) Contents.—The report under subsection (a) shall include a study of—
 
@@ -8244,7 +8245,7 @@ Rules governing disclosures of information that are authorized by this title sha
 
 “(1) The head of each agency shall provide to the Director of the Office of Management and Budget such reports and other information as the Director requests.
 
-“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
+“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives, and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
 
 “(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions taken by the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
 
@@ -8686,6 +8687,181 @@ Prior Provisions
 A prior section 3504, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2815; amended Pub. L. 98–497, title I, §107(b)(26), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 99–500, §101(m) [title VIII, §§814, 821(b)(2)], Oct. 18, 1986, 100 Stat. 1783–308, 1783–336, 1783–342, and Pub. L. 99–591, §101(m) [title VIII, §§814, 821(b)(2)], Oct. 30, 1986, 100 Stat. 3341–308, 3341–336, 3341–342, related to authority and functions of Director prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a central collection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
+
+Government Paperwork Elimination
+
+Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, provided that:
+
+“SEC. 1701. SHORT TITLE.
+
+“This title may be cited as the ‘Government Paperwork Elimination Act’.
+
+“SEC. 1702. AUTHORITY OF OMB TO PROVIDE FOR ACQUISITION AND USE OF ALTERNATIVE INFORMATION TECHNOLOGIES BY EXECUTIVE AGENCIES.
+
+“[Amended this section.]
+
+“SEC. 1703. PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES BY EXECUTIVE AGENCIES.
+
+“(a) In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) [see Short Title of 1996 Amendment note set out under 41 U.S.C. 251] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act [Oct. 21, 1998], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+
+“(b) Requirements for Procedures.—(1) The procedures developed under subsection (a)—
+
+“(A) shall be compatible with standards and technology for electronic signatures that are generally used in commerce and industry and by State governments;
+
+“(B) may not inappropriately favor one industry or technology;
+
+“(C) shall ensure that electronic signatures are as reliable as is appropriate for the purpose in question and keep intact the information submitted;
+
+“(D) shall provide for the electronic acknowledgment of electronic forms that are successfully submitted; and
+
+“(E) shall, to the extent feasible and appropriate, require an Executive agency that anticipates receipt by electronic means of 50,000 or more submittals of a particular form to take all steps necessary to ensure that multiple methods of electronic signatures are available for the submittal of such form.
+
+“(2) The Director shall ensure the compatibility of the procedures under paragraph (1)(A) in consultation with appropriate private bodies and State government entities that set standards for the use and acceptance of electronic signatures.
+
+“SEC. 1704. DEADLINE FOR IMPLEMENTATION BY EXECUTIVE AGENCIES OF PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES.
+
+“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) [see Short Title of 1996 Amendment note set out under 41 U.S.C. 251] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act [Oct. 21, 1998], Executive agencies provide—
+
+“(1) for the option of the electronic maintenance, submission, or disclosure of information, when practicable as a substitute for paper; and
+
+“(2) for the use and acceptance of electronic signatures, when practicable.
+
+“SEC. 1705. ELECTRONIC STORAGE AND FILING OF EMPLOYMENT FORMS.
+
+“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) [see Short Title of 1996 Amendment note set out under 41 U.S.C. 251] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, not later than 18 months after the date of enactment of this Act [Oct. 21, 1998], develop procedures to permit private employers to store and file electronically with Executive agencies forms containing information pertaining to the employees of such employers.
+
+“SEC. 1706. STUDY ON USE OF ELECTRONIC SIGNATURES.
+
+“(a) Ongoing Study Required.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) [see Short Title of 1996 Amendment note set out under 41 U.S.C. 251] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—
+
+“(1) paperwork reduction and electronic commerce;
+
+“(2) individual privacy; and
+
+“(3) the security and authenticity of transactions.
+
+“(b) Reports.—The Director shall submit to Congress on a periodic basis a report describing the results of the study carried out under subsection (a).
+
+“SEC. 1707. ENFORCEABILITY AND LEGAL EFFECT OF ELECTRONIC RECORDS.
+
+“Electronic records submitted or maintained in accordance with procedures developed under this title, or electronic signatures or other forms of electronic authentication used in accordance with such procedures, shall not be denied legal effect, validity, or enforceability because such records are in electronic form.
+
+“SEC. 1708. DISCLOSURE OF INFORMATION.
+
+“Except as provided by law, information collected in the provision of electronic signature services for communications with an executive agency, as provided by this title, shall only be used or disclosed by persons who obtain, collect, or maintain such information as a business or government practice, for the purpose of facilitating such communications, or with the prior affirmative consent of the person about whom the information pertains.
+
+“SEC. 1709. APPLICATION WITH INTERNAL REVENUE LAWS.
+
+“No provision of this title shall apply to the Department of the Treasury or the Internal Revenue Service to the extent that such provision—
+
+“(1) involves the administration of the internal revenue laws; or
+
+“(2) conflicts with any provision of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206, see Tables for classification] or the Internal Revenue Code of 1986 [26 U.S.C. 1 et seq.].
+
+“SEC. 1710. DEFINITIONS.
+
+“For purposes of this title:
+
+“(1) Electronic signature.—The term ‘electronic signature’ means a method of signing an electronic message that—
+
+“(A) identifies and authenticates a particular person as the source of the electronic message; and
+
+“(B) indicates such person's approval of the information contained in the electronic message.
+
+“(2) Executive agency.—The term ‘Executive agency’ has the meaning given that term in section 105 of title 5, United States Code.”
+
+1 So in original.
+Probably should be followed by “and”.
+
+2 See References in Text note below.
+
+§3505. Assignment of tasks and deadlines
+
+(a) In carrying out the functions under this subchapter, the Director shall—
+
+(1) in consultation with agency heads, set an annual Governmentwide goal for the reduction of information collection burdens by at least 10 percent during each of fiscal years 1996 and 1997 and 5 percent during each of fiscal years 1998, 1999, 2000, and 2001, and set annual agency goals to—
+
+(A) reduce information collection burdens imposed on the public that—
+
+(i) represent the maximum practicable opportunity in each agency; and
+
+(ii) are consistent with improving agency management of the process for the review of collections of information established under section 3506(c); and
+
+(B) improve information resources management in ways that increase the productivity, efficiency and effectiveness of Federal programs, including service delivery to the public;
+
+(2) with selected agencies and non-Federal entities on a voluntary basis, conduct pilot projects to test alternative policies, practices, regulations, and procedures to fulfill the purposes of this subchapter, particularly with regard to minimizing the Federal information collection burden; and
+
+(3) in consultation with the Administrator of General Services, the Director of the National Institute of Standards and Technology, the Archivist of the United States, and the Director of the Office of Personnel Management, develop and maintain a Governmentwide strategic plan for information resources management, that shall include—
+
+(A) a description of the objectives and the means by which the Federal Government shall apply information resources to improve agency and program performance;
+
+(B) plans for—
+
+(i) reducing information burdens on the public, including reducing such burdens through the elimination of duplication and meeting shared data needs with shared resources;
+
+(ii) enhancing public access to and dissemination of, information, using electronic and other formats; and
+
+(iii) meeting the information technology needs of the Federal Government in accordance with the purposes of this subchapter; and
+
+(C) a description of progress in applying information resources management to improve agency performance and the accomplishment of missions.
+
+(b) For purposes of any pilot project conducted under subsection (a)(2), the Director may, after consultation with the agency head, waive the application of any administrative directive issued by an agency with which the project is conducted, including any directive requiring a collection of information, after giving timely notice to the public and the Congress regarding the need for such waiver.
+
+(c) 1 Inventory of Major Information Systems.—(1) The head of each agency shall develop and maintain an inventory of major information systems (including major national security systems) operated by or under the control of such agency.
+
+(2) The identification of information systems in an inventory under this subsection shall include an identification of the interfaces between each such system and all other systems or networks, including those not operated by or under the control of the agency.
+
+(3) Such inventory shall be—
+
+(A) updated at least annually;
+
+(B) made available to the Comptroller General; and
+
+(C) used to support information resources management, including—
+
+(i) preparation and maintenance of the inventory of information resources under section 3506(b)(4);
+
+(ii) information technology planning, budgeting, acquisition, and management under section 3506(h), subtitle III of title 40, and related laws and guidance;
+
+(iii) monitoring, testing, and evaluation of information security controls under subchapter II;
+
+(iv) preparation of the index of major information systems required under section 552(g) of title 5, United States Code; and
+
+(v) preparation of information system inventories required for records management under chapters 21, 29, 31, and 33.
+
+(4) The Director shall issue guidance for and oversee the implementation of the requirements of this subsection.
+
+(c) 1 Inventory of Information Systems.—(1) The head of each agency shall develop and maintain an inventory of the information systems (including national security systems) operated by or under the control of such agency;
+
+(2) The identification of information systems in an inventory under this subsection shall include an identification of the interfaces between each such system and all other systems or networks, including those not operated by or under the control of the agency;
+
+(3) Such inventory shall be—
+
+(A) updated at least annually;
+
+(B) made available to the Comptroller General; and
+
+(C) used to support information resources management, including—
+
+(i) preparation and maintenance of the inventory of information resources under section 3506(b)(4);
+
+(ii) information technology planning, budgeting, acquisition, and management under section 3506(h), subtitle III of title 40, and related laws and guidance;
+
+(iii) monitoring, testing, and evaluation of information security controls under subchapter II;
+
+(iv) preparation of the index of major information systems required under section 552(g) of title 5, United States Code; and
+
+(v) preparation of information system inventories required for records management under chapters 21, 29, 31, and 33.
+
+(4) The Director shall issue guidance for and oversee the implementation of the requirements of this subsection.
+
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 170; amended Pub. L. 106–398, §1 [[div. A], title X, §1064(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–296, title X, §1005(c)(2), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(2), Dec. 17, 2002, 116 Stat. 2961.)
+
+Prior Provisions
+
+A prior section 3505, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2818; amended Pub. L. 99–500, §101(m) [title VIII, §815], Oct. 18, 1986, 100 Stat. 1783–308, 1783–337, and Pub. L. 99–591, §101(m) [title VIII, §815], Oct. 30, 1986, 100 Stat. 3341–308, 3341–337, related to assignment of tasks and deadlines prior to the general amendment of this chapter by Pub. L. 104–13.
+
+Another prior section 3505, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prohibited independent collection by an agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
 
 1 So in original.
 Two subsecs. (c) have been enacted.
@@ -9506,6 +9682,8 @@ Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 §3521. Authorization of appropriations
 
 There are authorized to be appropriated to the Office of Information and Regulatory Affairs to carry out the provisions of this subchapter, and for no other purpose, $8,000,000 for each of the fiscal years 1996, 1997, 1998, 1999, 2000, and 2001.
@@ -9816,6 +9994,8 @@ Prior Provisions
 A prior section 3534, added Pub. L. 106–398, §1 [[div. A], title X, §1061], Oct. 30, 2000, 114 Stat. 1654, 1654A–268, related to Federal agency responsibilities prior to the general amendment of this subchapter by Pub. L. 107–296.
 
 Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
@@ -10213,6 +10393,8 @@ For complete classification of this Act to the Code, see Tables.
 
 Change of Name
 
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 1 So in original.
@@ -10413,6 +10595,30 @@ Pub. L. 107–347, title IV, §402(a), Dec. 17, 2002, 116 Stat. 2961, provided t
 “(1) In general.—Except as provided under paragraph (2), titles I [enacting this chapter, section 507 of Title 31, Money and Finance, and section 305 of Title 40, Public Buildings, Property, and Works, and amending section 503 of Title 31] and II [enacting chapter 37 of Title 5, Government Organization and Employees, section 2332 of Title 10, Armed Forces, and section 266a of Title 41, Public Contracts, amending sections 3111, 4108, and 7353 of Title 5, sections 207, 209, and 1905 of Title 18, Crimes and Criminal Procedure, sections 502, 11501 to 11505 of Title 40, and section 423 of Title 41, repealing section 11521 of Title 40, directing the renumbering of section 11522 of Title 40 as section 11521, enacting provisions set out as notes under section 3501 of this title, and amending provisions set out as notes under section 8432 of Title 5 and section 1913 of Title 28, Judiciary and Judicial Procedure] and the amendments made by such titles shall take effect 120 days after the date of enactment of this Act [Dec. 17, 2002].
 
 “(2) Immediate enactment.—Sections 207, 214, and 215 [set out in a note under section 3501 of this title] shall take effect on the date of enactment of this Act [Dec. 17, 2002].”
+
+E-Government Initiatives Funding
+
+Pub. L. 110–161, div. D, title VII, §737, Dec. 26, 2007, 121 Stat. 2028, provided that:
+
+“(a) For fiscal year 2008, no funds shall be available for transfers or reimbursements to the E-Government initiatives sponsored by the Office of Management and Budget prior to 15 days following submission of a report to the Committees on Appropriations by the Director of the Office of Management and Budget and receipt of approval to transfer funds by the House and Senate Committees on Appropriations.
+
+“(b) Hereafter, any funding request for a new or ongoing E-Government initiative by any agency or agencies managing the development of an initiative shall include in justification materials submitted to the House and Senate Committees on Appropriations the information in subsection (d).
+
+“(c) Hereafter, any funding request by any agency or agencies participating in the development of an E-Government initiative and contributing funding for the initiative shall include in justification materials submitted to the House and Senate Committees on Appropriations—
+
+“(1) the amount of funding contributed to each initiative by program office, bureau, or activity, as appropriate; and
+
+“(2) the relevance of that use to that department or agency and each bureau or office within, which is contributing funds.
+
+“(d) The report in (a) and justification materials in (b) shall include at a minimum—
+
+“(1) a description of each initiative including but not limited to its objectives, benefits, development status, risks, cost effectiveness (including estimated net costs or savings to the government), and the estimated date of full operational capability;
+
+“(2) the total development cost of each initiative by fiscal year including costs to date, the estimated costs to complete its development to full operational capability, and estimated annual operations and maintenance costs; and
+
+“(3) the sources and distribution of funding by fiscal year and by agency and bureau for each initiative including agency contributions to date and estimated future contributions by agency.
+
+“(e) No funds shall be available for obligation or expenditure for new E-Government initiatives without the explicit approval of the House and Senate Committees on Appropriations.”
 
 Findings and Purposes
 
@@ -10761,6 +10967,8 @@ Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 §3605. Program to encourage innovative solutions to enhance electronic Government services and processes
 
 (a) Establishment of Program.—The Administrator shall establish and promote a Governmentwide program to encourage contractor innovation and excellence in facilitating the development and enhancement of electronic Government services and processes.
@@ -10804,6 +11012,8 @@ For complete classification of this Act to the Code, see Tables.
 Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 CHAPTER 37—ADVERTISEMENTS BY GOVERNMENT AGENCIES
 

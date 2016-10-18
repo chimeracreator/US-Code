@@ -820,7 +820,8 @@ Ex. Ord.
 No. 13327. Federal Real Property Asset Management
 
 Ex. Ord.
-No. 13327, Feb. 4, 2004, 69 F.R. 5897, provided:
+No. 13327, Feb. 4, 2004, 69 F.R. 5897, as amended by Ex. Ord.
+No. 13423, §11(c), Jan. 24, 2007, 72 F.R. 3923, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and in order to promote the efficient and economical use of Federal real property resources in accordance with their value as national assets and in the best interests of the Nation, it is hereby ordered as follows:
 
@@ -850,7 +851,7 @@ In developing this plan, the Senior Real Property Officer shall:
 
 (v) identify and pursue goals, with appropriate deadlines, consistent with and supportive of the agency's asset management plan and measure progress against such goals;
 
-(vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 [16 U.S.C. 470h–2 note], and for environmental management under Executive Order 13148 of April 21, 2000 [42 U.S.C. 4321 note]; and
+(vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 [16 U.S.C. 470h–2 note], and for environmental management under other executive orders; and
 
 (vii) identify any other information and pursue any other actions necessary to the appropriate development and implementation of the agency asset management plan.
 
@@ -4238,7 +4239,7 @@ The following-described classes of motor vehicles shall be exempt from inclusion
 
 (4) Unless inclusion is mutually agreed upon by the Administrator and the head of the agency concerned:
 
-(i) Motor vehicles for the use of the heads of the executive agencies, ambassadors, ministers, charge d'affaires, and other principal diplomatic and consular officials.
+(i) Motor vehicles for the use of the heads of the executive agencies, ambassadors, ministers, charge [sic] d'affaires, and other principal diplomatic and consular officials.
 
 (ii) Motor vehicles regularly and principally used for the transportation of diplomats and representatives of foreign countries or by officers of the Department of State for the conduct of official business with representatives of foreign countries.
 
@@ -5542,7 +5543,7 @@ Delegation of Authority
 
 Pub. L. 107–296, title XVII, §1706(b)(2), Nov. 25, 2002, 116 Stat. 2318, provided that: “The Secretary may delegate authority for the protection of specific buildings to another Federal agency where, in the Secretary's discretion, the Secretary determines it necessary for the protection of that building.”
 
-[For definition of “Secretary” as used in section 1706(b)(2) of Pub. L. 107–296, set out above, see section 101(13) of Title 6, Domestic Security.]
+[For definition of “Secretary” as used in section 1706(b)(2) of Pub. L. 107–296, set out above, see section 101(14) of Title 6, Domestic Security.]
 
 SUBTITLE II—PUBLIC BUILDINGS AND WORKS
 
@@ -6631,12 +6632,15 @@ State administration of criminal and health and safety laws.
 Compliance with nationally recognized codes.
 
 3313.
-Delegation.
+Use of energy efficient lighting fixtures and bulbs.
 
 3314.
-Report to Congress.
+Delegation.
 
 3315.
+Report to Congress.
+
+3316.
 Certain authority not affected.
 
         
@@ -7001,9 +7005,11 @@ William J. Clinton.      
 
 (4) with respect to any project for the construction, alteration, or acquisition of any building, a statement by the Administrator that suitable space owned by the Government is not available and that suitable rental space is not available at a price commensurate with that to be afforded through the proposed action;
 
-(5) a statement by the Administrator of the economic and other justifications for not acquiring a building identified to the Administrator under section 3303(c) of this title as suitable for the public building needs of the Government; and
+(5) a statement by the Administrator of the economic and other justifications for not acquiring a building identified to the Administrator under section 3303(c) of this title as suitable for the public building needs of the Government;
 
-(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased.
+(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased; and
+
+(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project.
 
 (c) Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress.
 The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
@@ -7013,7 +7019,9 @@ The increase authorized by this subsection may not exceed 10 percent of the esti
 (e) Emergency Leases by the Administrator.—This section does not prevent the Administrator from entering into emergency leases during any period declared by the President to require emergency leasing authority.
 An emergency lease may not be for more than 180 days without approval of a prospectus for the lease in accordance with subsection (a).
 
-(f) Limitation on Leasing Certain Space.—
+(f) Minimum Performance Requirements for Leased Space.—With respect to space to be leased, the Administrator shall include, to the maximum extent practicable, minimum performance requirements requiring energy efficiency and the use of renewable energy.
+
+(g) Limitation on Leasing Certain Space.—
 
 (1) In general.—The Administrator may not lease space to accommodate any of the following if the average rental cost of leasing the space will exceed $1,500,000:
 
@@ -7029,10 +7037,10 @@ An emergency lease may not be for more than 180 days without approval of a prosp
 
 (B) submits the reasons to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(g) Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce.
+(h) Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce.
 Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, §323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590.)
 
 Historical and Revision Notes	Revised Section
 
@@ -7117,13 +7125,15 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 (2) may acquire a leasehold interest in the building only by the use of competitive procedures required by section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253);
 
-(3) shall inspect every building during construction to establish that the specifications established for the building are complied with;
+(3) shall include in the solicitation for any lease requiring a prospectus under section 3307 an evaluation factor considering the extent to which the offeror will promote energy efficiency and the use of renewable energy;
 
-(4) on completion of the building, shall evaluate the building to determine the extent of failure to comply with the specifications referred to in clause (1); and
+(4) shall inspect every building during construction to establish that the specifications established for the building are complied with;
 
-(5) shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
+(5) on completion of the building, shall evaluate the building to determine the extent of failure to comply with the specifications referred to in clause (1); and
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164.)
+(6) shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, §323(d), Dec. 19, 2007, 121 Stat. 1591.)
 
 Historical and Revision Notes	Revised Section
 
@@ -7199,7 +7209,61 @@ Historical and Revision Notes	Revised Section
 	3312(f) 	40:619(e).	
 	3312(g) 	40:619(f).	
 
-§3313. Delegation
+§3313. Use of energy efficient lighting fixtures and bulbs
+
+(a) Construction, Alteration, and Acquisition of Public Buildings.—Each public building constructed, altered, or acquired by the Administrator of General Services shall be equipped, to the maximum extent feasible as determined by the Administrator, with lighting fixtures and bulbs that are energy efficient.
+
+(b) Maintenance of Public Buildings.—Each lighting fixture or bulb that is replaced by the Administrator in the normal course of maintenance of public buildings shall be replaced, to the maximum extent feasible, with a lighting fixture or bulb that is energy efficient.
+
+(c) Considerations.—In making a determination under this section concerning the feasibility of installing a lighting fixture or bulb that is energy efficient, the Administrator shall consider—
+
+(1) the life-cycle cost effectiveness of the fixture or bulb;
+
+(2) the compatibility of the fixture or bulb with existing equipment;
+
+(3) whether use of the fixture or bulb could result in interference with productivity;
+
+(4) the aesthetics relating to use of the fixture or bulb; and
+
+(5) such other factors as the Administrator determines appropriate.
+
+(d) Energy Star.—A lighting fixture or bulb shall be treated as being energy efficient for purposes of this section if—
+
+(1) the fixture or bulb is certified under the Energy Star program established by section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a);
+
+(2) in the case of all light-emitting diode (LED) luminaires, lamps, and systems whose efficacy (lumens per watt) and Color Rendering Index (CRI) meet the Department of Energy requirements for minimum luminaire efficacy and CRI for the Energy Star certification, as verified by an independent third-party testing laboratory that the Administrator and the Secretary of Energy determine conducts its tests according to the procedures and recommendations of the Illuminating Engineering Society of North America, even if the luminaires, lamps, and systems have not received such certification; or
+
+(3) the Administrator and the Secretary of Energy have otherwise determined that the fixture or bulb is energy efficient.
+
+(e) Additional Energy Efficient Lighting Designations.—The Administrator of the Environmental Protection Agency and the Secretary of Energy shall give priority to establishing Energy Star performance criteria or Federal Energy Management Program designations for additional lighting product categories that are appropriate for use in public buildings.
+
+(f) Guidelines.—The Administrator shall develop guidelines for the use of energy efficient lighting technologies that contain mercury in child care centers in public buildings.
+
+(g) Applicability of Buy American Act.—Acquisitions carried out pursuant to this section shall be subject to the requirements of the Buy American Act (41 U.S.C. 10c 1 et seq.).
+
+(h) Effective Date.—The requirements of subsections (a) and (b) shall take effect 1 year after the date of enactment of this subsection.
+
+(Added Pub. L. 110–140, title III, §323(c)(1)(B), Dec. 19, 2007, 121 Stat. 1590.)
+
+References in Text
+
+The Buy American Act, referred to in subsec. (g), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts.
+For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+
+The date of enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 110–140, which was approved Dec. 19, 2007.
+
+Prior Provisions
+
+A prior section 3313 was renumbered section 3314 of this title.
+
+Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+
+1 So in original.
+See References in Text note below.
+
+§3314. Delegation
 
 (a) When Allowed.—The carrying out of the duties and powers of the Administrator of General Services under this chapter, in accordance with standards the Administrator prescribes—
 
@@ -7209,7 +7273,7 @@ Historical and Revision Notes	Revised Section
 
 (b) No Exemption From Other Provisions of Chapter.—Delegation under subsection (a) does not exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166; Pub. L. 109–304, §17(g)(3), Oct. 6, 2006, 120 Stat. 1709.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, §3313; Pub. L. 109–304, §17(g)(3), Oct. 6, 2006, 120 Stat. 1709; renumbered §3314, Pub. L. 110–140, title III, §323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590.)
 
 Historical and Revision Notes	Revised Section
 
@@ -7219,7 +7283,11 @@ Historical and Revision Notes	Revised Section
 
 In subsection (a), before clause (1), the words “duties and powers” are substituted for “responsibilities and authorities” for consistency in the revised title and with other titles of the United States Code.
 
-§3314. Report to Congress
+Prior Provisions
+
+A prior section 3314 was renumbered section 3315 of this title.
+
+§3315. Report to Congress
 
 (a) Request by Either House of Congress or Any Committee.—Within a reasonable time after a request of either House of Congress or any committee of Congress, the Administrator of General Services shall submit a report showing the location, space, cost, and status of each public building the construction, alteration, or acquisition of which—
 
@@ -7230,7 +7298,7 @@ In subsection (a), before clause (1), the words “duties and powers” are subs
 (b) Request of Committee on Public Works and Environment or Committee on Transportation and Infrastructure.—The Administrator and the United States Postal Service shall make building project surveys requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives, and within a reasonable time shall make a report on the survey to Congress.
 The report shall contain all other information required to be included in a prospectus of the proposed public building project under section 3307(b) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, §3314; renumbered §3315, Pub. L. 110–140, title III, §323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590.)
 
 Historical and Revision Notes	Revised Section
 
@@ -7240,11 +7308,15 @@ Historical and Revision Notes	Revised Section
 
 In subsection (b), the words “United States Postal Service” are substituted for “Postmaster General” in section 11(b) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773). The words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 11(b) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
 
-§3315. Certain authority not affected
+Prior Provisions
+
+A prior section 3315 was renumbered section 3316 of this title.
+
+§3316. Certain authority not affected
 
 This chapter does not limit or repeal the authority conferred by law on the United States Postal Service.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1167.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1167, §3315; renumbered §3316, Pub. L. 110–140, title III, §323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590.)
 
 Historical and Revision Notes	Revised Section
 
@@ -7479,38 +7551,6 @@ The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is
 The Walsh-Healey Act, referred to in subsec. (b)(3)(A)(ii), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts.
 For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables.
 See also section 262 of Title 29, Labor.
-
-§3702. Work hours
-
-(a) Standard Workweek.—The wages of every laborer and mechanic employed by any contractor or subcontractor in the performance of work on a contract described in section 3701 of this title shall be computed on the basis of a standard workweek of 40 hours.
-Work in excess of the standard workweek is permitted subject to this section.
-For each workweek in which the laborer or mechanic is so employed, wages include compensation, at a rate not less than one and one-half times the basic rate of pay, for all hours worked in excess of 40 hours in the workweek.
-
-(b) Contract Requirements.—A contract described in section 3701 of this title, and any obligation of the Federal Government, a territory of the United States, or the District of Columbia in connection with that contract, must provide that—
-
-(1) a contractor or subcontractor contracting for any part of the contract work which may require or involve the employment of laborers or mechanics shall not require or permit any laborer or mechanic, in any workweek in which the laborer or mechanic is employed on that work, to work more than 40 hours in that workweek, except as provided in this chapter; and
-
-(2) when a violation of clause (1) occurs, the contractor and any subcontractor responsible for the violation are liable—
-
-(A) to the affected employee for the employee's unpaid wages; and
-
-(B) to the Government, the District of Columbia, or a territory for liquidated damages as provided in the contract.
-
-(c) Liquidated Damages.—Liquidated damages under subsection (b)(2)(B) shall be computed for each individual employed as a laborer or mechanic in violation of this chapter and shall be equal to $10 for each calendar day on which the individual was required or permitted to work in excess of the standard workweek without payment of the overtime wages required by this chapter.
-
-(d) Amounts Withheld To Satisfy Liabilities.—Subject to section 3703 of this title, the governmental agency for which the contract work is done or which is providing financial assistance for the work may withhold, or have withheld, from money payable because of work performed by a contractor or subcontractor, amounts administratively determined to be necessary to satisfy the liabilities of the contractor or subcontractor for unpaid wages and liquidated damages as provided in this section.
-
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, §6(15), Sept. 27, 2006, 120 Stat. 1213.)
-
-Historical and Revision Notes	Revised Section
-
-	Source (U.S. Code)	Source (Statutes at Large)
-	3702(a) 	40:328(a). 	Pub. L. 87–581, title I, §102, Aug. 13, 1962, 76 Stat. 357; Pub. L. 99–145, title XII, §1241(a), Nov. 8, 1985, 99 Stat. 734.
-	3702(b) 	40:328(b) (words before (1)), (1), (2) (1st sentence).	
-	3702(c) 	40:328(b)(2) (2d sentence).	
-	3702(d) 	40:328(b)(2) (last sentence).	
-
-In subsection (a). the words “Notwithstanding any other provision of law” are omitted as unnecessary.
 
 §3703. Report of violations and withholding of amounts for unpaid wages and liquidated damages
 
@@ -7763,12 +7803,24 @@ Penalties.
 
 In this chapter, the term “Capitol Buildings” means the United States Capitol, the Senate and House Office Buildings and garages, the Capitol Power Plant, all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden), all subways and enclosed passages connecting two or more of those structures, and the real property underlying and enclosed by any of those structures.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 108–7, div. H, title I, §1016(a), Feb. 20, 2003, 117 Stat. 364.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 108–7, div. H, title I, §1016(a), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(i), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(A), Jan. 7, 2008, 121 Stat. 2551.)
+
+Amendment of Section
+
+Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(i), (4), Dec. 26, 2007, 121 Stat. 2233, 2234, and Pub. L. 110–178, §4(b)(1)(A), (d), Jan. 7, 2008, 121 Stat. 2551, 2552, provided that, effective Oct. 1, 2009, this section is amended by inserting “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”.
 
 Historical and Revision Notes	Revised Section
 
 	Source (U.S. Code)	Source (Statutes at Large)
 	5101 	40:193m(1). 	July 31, 1946, ch. 707, §16(a)(1), 60 Stat. 721; Pub. L. 90–108, §1(d), Oct. 20, 1967, 81 Stat. 277.
+
+Designation of Great Hall of the Capitol Visitor Center as Emancipation Hall
+
+Pub. L. 110–139, §1, Dec. 18, 2007, 121 Stat. 1491, provided that:
+
+“(a) In General.—The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in any law, rule, or regulation shall be deemed to be a reference to Emancipation Hall.
+
+“(b) Effective Date.—This section shall apply on and after the date of the enactment of this Act [Dec. 18, 2007].”
 
 §5102. Legal description and jurisdiction of United States Capitol Grounds
 
@@ -7799,7 +7851,13 @@ Except as provided in paragraph (2), the Architect is responsible for the mainte
 
 (3) Authority not limited.—Nothing in this subsection shall limit the authority of the Architect of the Capitol under section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c).1
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364.)
+(d) Library of Congress Buildings and Grounds.—
+
+(1) In general.—Except as provided under paragraph (2), the United States Capitol Grounds shall include the Library of Congress grounds described under section 11 of the Act entitled “An Act relating to the policing of the buildings 2 of the Library of Congress”, approved August 4, 1950 (2 U.S.C. 167j).
+
+(2) Authority of librarian of congress.—Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with section 1 of the Act of June 29, 1922 (2 U.S.C. 141; 42 Stat. 715).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551.)
 
 Definition of United States Capitol Grounds
 
@@ -8173,6 +8231,9 @@ Charles E. Goodell, Member.
 
 1 See References in Text note below.
 
+2 So in original.
+Probably should be followed by “and grounds”.
+
 §5103. Restrictions on public use of United States Capitol Grounds
 
 Public travel in, and occupancy of, the United States Capitol Grounds is restricted to the roads, walks, and places prepared for that purpose.
@@ -8264,7 +8325,17 @@ The words “by flagging, paving, or otherwise” are omitted as unnecessary.
 
 (2) display in the Grounds a flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(iii), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(1)(C), Jan. 7, 2008, 121 Stat. 2552.)
+
+Amendment of Subsection (e)(2)(C)
+
+Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(iii), (4), Dec. 26, 2007, 121 Stat. 2234, and Pub. L. 110–178, §4(b)(1)(C), (d), Jan. 7, 2008, 121 Stat. 2552, provided that, effective Oct. 1, 2009, subsection (e)(2) of this section is amended by striking subparagraph (C) and inserting the following:
+
+“(C) with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of—
+
+“(i) either House of Congress or a Member, committee, officer, or employee of Congress, or either House of Congress; or
+
+“(ii) the Library of Congress;”.
 
 Historical and Revision Notes	Revised Section
 
@@ -11326,6 +11397,8 @@ Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 Compensation of Appointed Commission Members
 
 Pub. L. 108–108, title II, Nov. 10, 2003, 117 Stat. 1301, provided in part: “That for fiscal year 2004 and thereafter, all appointed members of the Commission will be compensated at a rate not to exceed the daily equivalent of the annual rate of pay for positions at level IV of the Executive Schedule for each day such member is engaged in the actual performance of duties.”
@@ -11945,6 +12018,10 @@ In subsection (a)(1), the words “in the District of Columbia and its environs�
 
 In subsection (d), the words “House Administration” are substituted for “House Oversight” because the name of the Committee was changed in the 106th Congress.
 See Rule X(1)(i) of the Rules of the House of Representatives.
+
+Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 §8904. National Capital Memorial Advisory Commission
 
@@ -14700,9 +14777,9 @@ Historical and Revision Notes	Revised Section
 
 §14704. Termination
 
-This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2006.
+This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2007.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 109–289, div. B, title II, §20326, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 22.)
 
 Historical and Revision Notes	Revised Section
 
@@ -14969,6 +15046,211 @@ Historical and Revision Notes	Revised Section
 	17304(c) 	40:723 (2d sentence words before 1st proviso).	
 
 In subsection (c), the words “Notwithstanding any provision of law to the contrary” are omitted as unnecessary.
+
+§17305. Replacing lost, destroyed, or damaged stamps, securities, obligations, or money
+
+Stamps, securities, or other obligations of the Federal Government, or money lost, destroyed, or damaged while in the custody or possession of, or charged to, the United States Postal Service while it is acting as agent for, or on behalf of, the Secretary of the Treasury for the sale of the stamps, securities, or obligations and for the collection of the money, shall be replaced out of the fund described in section 17303 of this title under regulations the Secretary may prescribe, regardless of how the loss, destruction, or damage occurs.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1282.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17305 	40:724. 	July 8, 1937, ch. 444, §3a, as added Aug. 10, 1939, ch. 665, §2, 53 Stat. 1358; Pub. L. 91–375, §6(m)(5), Aug. 12, 1970, 84 Stat. 783.
+
+The words “occurring heretofore or hereafter, but not prior to February 4, 1935” are omitted as obsolete.
+The words “United States Postal Service” are substituted for “Post Office Department or Postal Service” in section 3a of the Government Losses in Shipment Act (ch. 444), as added by section 2 of the Act of August 10, 1939 (ch. 665, 53 Stat. 1358), because of sections 4(a) and 6(o) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773, 783). The words “Secretary of the Treasury” are substituted for “Treasury Department” because of 31:301(b).
+
+§17306. Agreements of indemnity
+
+(a) Definition.—In this section, the term “Federal Government” includes wholly owned Government corporations, and officers and employees of the Government or its executive departments, independent establishments, and agencies while acting in their official capacity.
+
+(b) Authority To Make Agreement.—The Secretary of the Treasury may make and deliver, on behalf of the Federal Government, a binding agreement of indemnity the Secretary considers necessary and proper to enable the Government to obtain the replacement of any instrument or document—
+
+(1) received by the Government or an agent of the Government in the agent's official capacity; and
+
+(2) which, after having been received, is lost, destroyed, or so mutilated as to impair its value.
+
+(c) When Federal Government Not Obligated.—The Government is not obligated under an agreement of indemnity if the obligee named in the agreement makes a payment or delivery not required by law on the original of the instrument or document covered by the agreement.
+
+(d) Use of Fund for the Payment of Government Losses in Shipment.—The fund described in section 17303 of this title is available to pay any obligation arising out of an agreement the Secretary makes under this section.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1282.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17306(a) 	40:729(a) (last sentence). 	July 8, 1937, ch. 444, §7(a) (last sentence), 50 Stat. 480; Aug. 10, 1939, ch. 665, §3, 53 Stat. 1359.
+	17306(b) 	40:725 (1st sentence words before proviso). 	July 8, 1937, ch. 444, §3b, as added Aug. 10, 1939, ch. 665, §2, 53 Stat. 1359.
+	17306(c) 	40:725 (1st sentence proviso).	
+	17306(d) 	40:725 (last sentence).	
+
+§17307. Purchase of insurance
+
+An executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee may expend money, or incur an obligation, for insurance, or for the payment of premiums on insurance, against loss, destruction, or damage in the shipment of valuables only as specifically authorized by the Secretary of the Treasury.
+The Secretary may give the authorization if the Secretary finds that the risk of loss, destruction, or damage in the shipment cannot be guarded against adequately by the facilities of the Federal Government or that adequate replacement cannot be provided under this chapter.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1282.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17307 	40:726. 	July 8, 1937, ch. 444, §4, 50 Stat. 480.
+
+The words “On and after the effective date of the regulations prescribed under section 721 of this title” are omitted as obsolete.
+The words “the circumstances are such that” are omitted as unnecessary.
+
+§17308. Presumption of lawful conduct
+
+For purposes of the propriety of an act or omission related to a shipment to which the regulations prescribed under section 17302 of this title apply, every officer and employee of the Federal Government and every individual acting on behalf of a wholly owned Government corporation who makes a shipment of valuables in good faith under, and substantially in accordance with, the regulations is deemed to be acting in the faithful execution of the officer's, employee's, or individual's duties of office and in full performance of any conditions of the officer's, employee's, or individual's bond and oath of office.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1283.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17308 	40:727. 	July 8, 1937, ch. 444, §5, 50 Stat. 480.
+
+§17309. Rules and regulations
+
+(a) General Authority.—With the approval of the President, the Secretary of the Treasury may prescribe regulations necessary to carry out the duties and powers vested in the Secretary under this chapter.
+
+(b) Providing Information.—To carry out subsection (a), the Secretary may require a person making a shipment of valuables or a claim for replacement to make a declaration or to provide other information the Secretary considers necessary.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1283.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17309(a) 	40:728 (words before 3d comma). 	July 8, 1937, ch. 444, §6, 50 Stat. 480.
+	17309(b) 	40:728 (words after 3d comma).	
+
+Delegation of Functions
+
+For delegation to Secretary of the Treasury of authority vested in President by section 728 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 2(a) of Ex. Ord.
+No. 10289, eff.
+Sept. 17, 1951, 16 F.R. 9409, set out as a note under section 301 of Title 3, The President.
+
+CHAPTER 175—FEDERAL MOTOR VEHICLE EXPENDITURE CONTROL
+
+Sec.
+
+17501.
+Definitions.
+
+17502.
+Monitoring system.
+
+17503.
+Data collection.
+
+17504.
+Agency statements with respect to motor vehicle use.
+
+17505.
+Presidential report.
+
+17506.
+Reduction of storage and disposal costs.
+
+17507.
+Savings.
+
+17508.
+Compliance.
+
+17509.
+Applicability.
+
+17510.
+Cooperation.
+
+        
+
+§17501. Definitions
+
+In this chapter, the following definitions apply:
+
+(1) Executive agency.—The term “executive agency”—
+
+(A) means an executive agency (as that term is defined in section 105 of title 5) that operates at least 300 motor vehicles; but
+
+(B) does not include the Tennessee Valley Authority.
+
+(2) Motor vehicle.—The term “motor vehicle” means—
+
+(A) a vehicle self-propelled or drawn by mechanical power; but not
+
+(B) a vehicle designed or used for military field training, combat, or tactical purposes, or any other special purpose vehicle exempted from the requirements of this chapter by the Administrator of General Services.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1283.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17501 	40:913. 	Pub. L. 99–272, title XV, §15313, Apr. 7, 1986, 100 Stat. 338.
+
+In this section, the text of 40:913(2)–(4) is omitted as unnecessary because the complete names of the Director of the Office of Management and Budget, the Administrator of General Services, and the Comptroller General of the United States are used the first time the terms appear in a section.
+
+Before clause (1), the words “this chapter” were in the original “this title”, meaning title XV (§§15101 to 15313) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272, 100 Stat. 330). In clause (2)(B), the words “this chapter” are substituted for “this part” as the probable intent of Congress because title XV of the Act does not contain part designations and the intention was probably to refer to title XV, which is restated as this chapter.
+
+§17502. Monitoring system
+
+The head of each executive agency shall designate one office, officer, or employee of the agency—
+
+(1) to establish and operate a central monitoring system for the motor vehicle operations of the agency, related activities, and related reporting requirements; and
+
+(2) provide oversight of those operations, activities, and requirements.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1283.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17502 	40:901. 	Pub. L. 99–272, title XV, §15301, Apr. 7, 1986, 100 Stat. 335.
+
+In this chapter, the words “executive agency” are substituted for “executive agency, including the Department of Defense” to eliminate unnecessary words.
+
+§17503. Data collection
+
+(a) Cost Identification and Analysis.—The head of each executive agency shall develop a system to identify, collect, and analyze data with respect to all costs (including obligations and outlays) the agency incurs in the operation, maintenance, acquisition, and disposition of motor vehicles, including vehicles owned or leased by the Federal Government and privately owned vehicles used for official purposes.
+
+(b) Requirements for Data Systems.—
+
+(1) Scope of requirements.—In cooperation with the Comptroller General of the United States and the Director of the Office of Management and Budget, the Administrator of General Services shall prescribe requirements governing the establishment and operation by executive agencies of the systems required by subsection (a), including requirements with respect to data on the costs and uses of motor vehicles and with respect to the uniform collection and submission of the data.
+
+(2) Conformity with principles and standards.—Requirements prescribed under this section shall conform to accounting principles and standards issued by the Comptroller General.
+Each executive agency shall comply with those requirements.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1284.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17503 	40:902. 	Pub. L. 99–272, title XV, §15302, Apr. 7, 1986, 100 Stat. 335.
+
+In subsection (a), the words “including vehicles owned or leased by the Federal Government and privately owned vehicles” are substituted for “Government-owned vehicles, leased vehicles, and privately owned vehicles” for clarity.
+
+§17504. Agency statements with respect to motor vehicle use
+
+(a) Contents of Statement.—The head of each executive agency shall include with the appropriation request the agency submits under section 1108 of title 31 for each fiscal year, a statement—
+
+(1) specifying—
+
+(A) the total motor vehicle acquisition, maintenance, leasing, operation, and disposal costs (including obligations and outlays) the agency incurred in the most recently completed fiscal year; and
+
+(B) an estimate of those costs for the fiscal year in which the request is submitted and for the succeeding fiscal year; and
+
+(2) justifying why the existing and any new motor vehicle acquisition, maintenance, leasing, operation, and disposal requirements of the agency cannot be met through the Interagency Fleet Management System the Administrator of General Services operates, a qualified private fleet management firm, or any other method which is less costly to the Federal Government.
+
+(b) Compliance With Requirements.—The head of each executive agency shall comply with the requirements prescribed under section 17503(b) of this title in preparing each statement required under subsection (a).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1284; Pub. L. 109–284, §6(32), Sept. 27, 2006, 120 Stat. 1214.)
+
+Historical and Revision Notes	Revised Section
+
+	Source (U.S. Code)	Source (Statutes at Large)
+	17504 	40:903. 	Pub. L. 99–272, title XV, §15303, Apr. 7, 1986, 100 Stat. 336.
 
 §17505. Presidential report
 
