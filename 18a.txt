@@ -579,7 +579,7 @@ Rule 1101(b) of the Rules of Evidence provides that the rules apply generally to
 
 FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to January 6, 1997)
+(As amended to January 26, 1998)
 
 Historical Note
 
@@ -607,7 +607,8 @@ Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 1994, eff.
 Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff.
 Dec. 1, 1995; Apr. 23, 1996, eff.
-Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236.
+Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff.
+Dec. 1, 1997.
 
 I. SCOPE, PURPOSE, AND CONSTRUCTION
 
@@ -1893,7 +1894,7 @@ Consent and Arraignment.
 
 (A)
 
-Trial Before a United States Magistrate Judge.
+Plea Before a United States Magistrate Judge.
 
 (B)
 
@@ -3195,11 +3196,12 @@ Upon request of the defendant the government shall permit the defendant to inspe
 Upon request of a defendant the government shall permit the defendant to inspect and copy or photograph any results or reports of physical or mental examinations, and of scientific tests or experiments, or copies thereof, which are within the possession, custody, or control of the government, the existence of which is known, or by the exercise of due diligence may become known, to the attorney for the government, and which are material to the preparation of the defense or are intended for use by the government as evidence in chief at the trial.
 
 (E) Expert Witnesses.
-At the defendant's request, the government shall disclose to the defendant a written summary of testimony the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence during its case in chief at trial.
-This summary must describe the witnesses’ opinions, the bases and the reasons therefor, and the witnesses’ qualifications.
+At the defendant's request, the government shall disclose to the defendant a written summary of testimony that the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence during its case-in-chief at trial.
+If the government requests discovery under subdivision (b)(1)(C)(ii) of this rule and the defendant complies, the government shall, at the defendant's request, disclose to the defendant a written summary of testimony the government intends to use under Rules 702, 703, or 705 as evidence at trial on the issue of the defendant's mental condition.
+The summary provided under this subdivision shall describe the witnesses’ opinions, the bases and the reasons for those opinions, and the witnesses’ qualifications.
 
 (2) Information Not Subject to Disclosure.
-Except as provided in paragraphs (A), (B), (D), and (E) of subdivision (a)(1), this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by the attorney for the government or other government agents in connection with the investigation or prosecution of the case.
+Except as provided in paragraphs (A), (B), (D), and (E) of subdivision (a)(1), this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by the attorney for the government or any other government agent investigating or prosecuting the case.
 Nor does the rule authorize the discovery or inspection of statements made by government witnesses or prospective government witnesses except as provided in 18 U.S.C. §3500.
 
 (3) Grand Jury Transcripts.
@@ -3218,8 +3220,8 @@ If the defendant requests disclosure under subdivision (a)(1)(C) or (D) of this 
 If the defendant requests disclosure under subdivision (a)(1)(C) or (D) of this rule, upon compliance with such request by the government, the defendant, on request of the government, shall permit the government to inspect and copy or photograph any results or reports of physical or mental examinations and of scientific tests or experiments made in connection with the particular case, or copies thereof, within the possession or control of the defendant, which the defendant intends to introduce as evidence in chief at the trial or which were prepared by a witness whom the defendant intends to call at the trial when the results or reports relate to that witness’ testimony.
 
 (C) Expert Witnesses.
-If the defendant requests disclosure under subdivision (a)(1)(E) of this rule and the government complies, the defendant, at the government's request, must disclose to the government a written summary of testimony the defendant intends to use under Rules 702, 703 and 705 of the Federal Rules of Evidence as evidence at trial.
-This summary must describe the opinions of the witnesses, the bases and reasons therefor, and the witnesses’ qualifications.
+Under the following circumstances, the defendant shall, at the government's request, disclose to the government a written summary of testimony that the defendant intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence as evidence at trial: (i) if the defendant requests disclosure under subdivision (a)(1)(E) of this rule and the government complies, or (ii) if the defendant has given notice under Rule 12.2(b) of an intent to present expert testimony on the defendant's mental condition.
+This summary shall describe the witnesses’ opinions, the bases and reasons for those opinions, and the witnesses’ qualifications.
 
 (2) Information Not Subject to Disclosure.
 Except as to scientific or medical reports, this subdivision does not authorize the discovery or inspection of reports, memoranda, or other internal defense documents made by the defendant, or the defendant's attorneys or agents in connection with the investigation or defense of the case, or of statements made by the defendant, or by government or defense witnesses, or by prospective government or defense witnesses, to the defendant, the defendant's agents or attorneys.
@@ -3250,7 +3252,8 @@ Aug. 1, 1983; Mar. 9, 1987, eff.
 Aug. 1, 1987; Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 22, 1993, eff.
 Dec. 1, 1993; Apr. 29, 1994, eff.
-Dec. 1, 1994.)
+Dec. 1, 1994; Apr. 11, 1997, eff.
+Dec. 1, 1997.)
 
 Notes of Advisory Committee on Rules—1944
 
@@ -5852,6 +5855,29 @@ Cf. Federal Rules of Civil Procedure, Rules 40 and 78 [28 U.S.C., Appendix]. The
 
 Federal Rules of Civil Procedure
 
+Court calendars for jury and non-jury actions, see rule 79, Title 28, Appendix, Judiciary and Judicial Procedure.
+
+Trial calendar, see rule 40.
+
+Rule 51. Exceptions Unnecessary
+
+Exceptions to rulings or orders of the court are unnecessary and for all purposes for which an exception has heretofore been necessary it is sufficient that a party, at the time the ruling or order of the court is made or sought, makes known to the court the action which that party desires the court to take or that party's objection to the action of the court and the grounds therefor; but if a party has no opportunity to object to a ruling or order, the absence of an objection does not thereafter prejudice that party.
+
+(As amended Mar. 9, 1987, eff.
+Aug. 1, 1987.)
+
+Notes of Advisory Committee on Rules—1944
+
+1. This rule is practically identical with Rule 46 of the Federal Rules of Civil Procedure [28 U.S.C., Appendix]. It relates to a matter of trial practice which should be the same in civil and criminal cases in the interest of avoiding confusion.
+The corresponding civil rule has been construed in Ulm v. Moore-McCormack Lines, Inc., 115 F.2d 492 (C.C.A. 2d), and Bucy v. Nevada Construction Company, 125 F.2d 213, 218 (C.C.A. 9th). See, also, Orfield, 22 Texas L.R. 194, 221. As to the method of taking objections to instructions to the jury, see Rule 30.
+
+2. Many States have abolished the use of exceptions in criminal and civil cases.
+See, e.g., Cal.Pen.
+Code (Deering, 1941), sec. 1259; Mich.Stat.Ann. (Henderson, 1938), secs. 28.1046, 28.1053; Ohio Gen Code Ann. (Page, 1938), secs. 11560, 13442–7; Oreg.Comp.
+Laws Ann. (1940), secs. 5–704, 26–1001.
+
+Federal Rules of Civil Procedure
+
 Exceptions unnecessary, see rule 46, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 Objections to instructions to jury, see rule 51.
@@ -6437,7 +6463,7 @@ Rule 58. Procedure for Misdemeanors and Other Petty Offenses
 (a) Scope.
 
 (1) In General.
-This rule governs the procedure and practice for the conduct of proceedings involving misdemeanors and other petty offenses, and for appeals to judges of the district courts in such cases tried by United States magistrate judges.
+This rule governs the procedure and practice for the conduct of proceedings involving misdemeanors and other petty offenses, and for appeals to district judges in such cases tried by United States magistrate judges.
 
 (2) Applicability of Other Federal Rules of Criminal Procedure.
 In proceedings concerning petty offenses for which no sentence of imprisonment will be imposed the court may follow such provisions of these rules as it deems appropriate, to the extent not inconsistent with this rule.
@@ -6458,24 +6484,29 @@ At the defendant's initial appearance on a misdemeanor or other petty offense ch
 
 (B) the right to retain counsel;
 
-(C) unless the charge is a petty offense for which appointment of counsel is not required, the right to request the assignment of counsel if the defendant is unable to obtain counsel;
+(C) the right to request the appointment of counsel if the defendant is unable to obtain counsel, unless the charge is a petty offense for which an appointment of counsel is not required;
 
 (D) the right to remain silent and that any statement made by the defendant may be used against the defendant;
 
-(E) the right to trial, judgment, and sentencing before a judge of the district court, unless the defendant consents to trial, judgment, and sentencing before a magistrate judge;
+(E) the right to trial, judgment, and sentencing before a district judge, unless:
 
-(F) unless the charge is a petty offense, the right to trial by jury before either a United States magistrate judge or a judge of the district court; and
+(i) the charge is a Class B misdemeanor motor-vehicle offense, a Class C misdemeanor, or an infraction; or
 
-(G) if the defendant is held in custody and charged with a misdemeanor other than a petty offense, the right to a preliminary examination in accordance with 18 U.S.C. §3060, and the general circumstances under which the defendant may secure pretrial release.
+(ii) the defendant consents to trial, judgment, and sentencing before a magistrate judge;
+
+(F) the right to trial by jury before either a United States magistrate judge or a district judge, unless the charge is a petty offense; and
+
+(G) the right to a preliminary examination in accordance with 18 U.S.C. §3060, and the general circumstances under which the defendant may secure pretrial release, if the defendant is held in custody and charged with a misdemeanor other than a petty offense.
 
 (3) Consent and Arraignment.
 
-(A) Trial Before a United States Magistrate Judge.
-If the defendant signs a written consent to be tried before the magistrate judge which specifically waives trial before a judge of the district court, the magistrate judge shall take the defendant's plea.
+(A) Plea Before a United States Magistrate Judge.
+A magistrate judge shall take the defendant's plea in a Class B misdemeanor charging a motor-vehicle offense, a Class C misdemeanor, or an infraction.
+In every other misdemeanor case, a magistrate judge may take the plea only if the defendant consents either in writing or orally on the record to be tried before the magistrate judge and specifically waives trial before a district judge.
 The defendant may plead not guilty, guilty, or with the consent of the magistrate judge, nolo contendere.
 
 (B) Failure to Consent.
-If the defendant does not consent to trial before the magistrate judge, the defendant shall be ordered to appear before a judge of the district court for further proceedings on notice.
+In a misdemeanor case—other than a Class B misdemeanor charging a motor-vehicle offense, a Class C misdemeanor, or an infraction—magistrate judge shall order the defendant to appear before a district judge for further proceedings on notice, unless the defendant consents to trial before the magistrate judge.
 
 (c) Additional Procedures Applicable Only to Petty Offenses for Which No Sentence of Imprisonment Will Be Imposed.
 With respect to petty offenses for which no sentence of imprisonment will be imposed, the following additional procedures are applicable:
@@ -6520,16 +6551,16 @@ The provisions of Rule 33 shall apply.
 (g) Appeal.
 
 (1) Decision, Order, Judgment or Sentence by a District Judge.
-An appeal from a decision, order, judgment or conviction or sentence by a judge of the district court shall be taken in accordance with the Federal Rules of Appellate Procedure.
+An appeal from a decision, order, judgment or conviction or sentence by a district judge shall be taken in accordance with the Federal Rules of Appellate Procedure.
 
 (2) Decision, Order, Judgment or Sentence by a United States Magistrate Judge.
 
 (A) Interlocutory Appeal.
-A decision or order by a magistrate judge which, if made by a judge of the district court, could be appealed by the government or defendant under any provision of law, shall be subject to an appeal to a judge of the district court provided such appeal is taken within 10 days of the entry of the decision or order.
+A decision or order by a magistrate judge which, if made by a district judge, could be appealed by the government or defendant under any provision of law, shall be subject to an appeal to a district judge provided such appeal is taken within 10 days of the entry of the decision or order.
 An appeal shall be taken by filing with the clerk of court a statement specifying the decision or order from which an appeal is taken and by serving a copy of the statement upon the adverse party, personally or by mail, and by filing a copy with the magistrate judge.
 
 (B) Appeal From Conviction or Sentence.
-An appeal from a judgment of conviction or sentence by a magistrate judge to a judge of the district court shall be taken within 10 days after entry of the judgment.
+An appeal from a judgment of conviction or sentence by a magistrate judge to a district judge shall be taken within 10 days after entry of the judgment.
 An appeal shall be taken by filing with the clerk of court a statement specifying the judgment from which an appeal is taken, and by serving a copy of the statement upon the United States Attorney, personally or by mail, and by filing a copy with the magistrate judge.
 
 (C) Record.
@@ -6537,8 +6568,8 @@ The record shall consist of the original papers and exhibits in the case togethe
 For purposes of the appeal, a copy of the record of such proceedings shall be made available at the expense of the United States to a person who establishes by affidavit the inability to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
 (D) Scope of Appeal.
-The defendant shall not be entitled to a trial de novo by a judge of the district court.
-The scope of the appeal shall be the same as an appeal from a judgment of a district court to a court of appeals.
+The defendant shall not be entitled to a trial de novo by a district judge.
+The scope of 1 appeal shall be the same as an appeal from a judgment of a district court to a court of appeals.
 
 (3) Stay of Execution; Release Pending Appeal.
 The provisions of Rule 38 relating to stay of execution shall be applicable to a judgment of conviction or sentence.
@@ -6547,7 +6578,8 @@ The defendant may be released pending appeal in accordance with the provisions o
 (Added May 1, 1990, eff.
 Dec. 1, 1990; amended Apr. 30, 1991, eff.
 Dec. 1, 1991; Apr. 22, 1993, eff.
-Dec. 1, 1993.)
+Dec. 1, 1993; Apr. 11, 1997, eff.
+Dec. 1, 1997.)
 
 Notes of Advisory Committee on Rules—1990
 
@@ -6560,8 +6592,7 @@ The phrase “and Petty Offenses” has been added to the title and elsewhere th
 
 Subdivision (a) is an amended version of current Magistrates Rule 1. Deletion of the phrase “before United States Magistrates under 18 U.S.C. §3401” in Rule 1(a) will enable district judges to use the abbreviated procedures of this rule.
 Consistent with that change, the term “magistrate” is amended to read “the court,” wherever appropriate throughout the rule, to indicate that both judges and magistrates may use the rule.
-The last sentence in (a)(1) has been amended to reflect that the rule also governs an appeal from a magistrate's decision to a judge of the district court.
-An appeal from a district judge's decision would be governed by the Federal Rules of Appellate Procedure.
+The last sentence in (a)(1) has been amended to reflect that the rule also governs an appeal from a magistrate's decision to . An appeal from a district judge's decision would be governed by the Federal Rules of Appellate Procedure.
 Subdivision (a)(2) rephrases prior language in Magistrate Rule 1(b). Subdivision (a)(3) adds a statutory reference to 18 U.S.C. §19, which defines a petty offense as a “Class B misdemeanor, a Class C misdemeanor, or an infraction” with the $5,000 and $10,000 fine limitations noted supra.
 The phrase “regardless of the penalty authorized by law” has been deleted.
 
@@ -6604,6 +6635,9 @@ The new rule does not include Magistrates Rules 8 and 9. Rule 8 has been deleted
 References in Text
 
 The Federal Rules of Appellate Procedure, referred to in subd. (g)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+1 So in original.
+Probably should be followed by “the”.
 
 Rule 59. Effective Date
 

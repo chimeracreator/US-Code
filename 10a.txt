@@ -8,7 +8,7 @@ UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES
 
 RULES OF PRACTICE AND PROCEDURE
 
-(Effective July 1, 1983, as amended to January 6, 1997)
+(Effective July 1, 1983, as amended to January 26, 1998)
 
 GENERAL
 
@@ -345,7 +345,7 @@ The Clerk's office shall be located in the courthouse at 450 E Street, Northwest
 Before entering upon the execution of his office, the Clerk shall take the oath or affirmation prescribed in Section 951 of Title 28, United States Code.
 
 (c) Custodian of records.
-The Clerk shall serve as custodian of the records of the Court, and shall not permit any documents relative to a case to be taken from the courthouse except by order of a judge of the Court.
+The Clerk shall serve as custodian of the records of the Court and shall not permit any documents relative to a case to be taken from the courthouse except by order of a judge of the Court.
 However, after final action on a case in which documents containing classified information have been filed with the Court under Rule 24(d), the Clerk shall, as Court Security Officer, consult with the originating armed service to determine the appropriate disposition of such documents.
 See Rule 12.
 
@@ -426,7 +426,7 @@ See Rule 38(b).
 
 (b) It shall be a requisite to the admission of attorneys to the Bar of this Court that they be a member of the Bar of a Federal court or of the highest court of a State, Territory, Commonwealth, or Possession, and that their private and professional character shall appear to be good.
 
-(c) Each applicant shall file with the Clerk an application for admission on the form prescribed by the Court, together with an application fee of $25 and a certificate from the presiding judge, clerk or other appropriate officer of a court specified in (b) above, or from any other appropriate official from the Bar of such court, that the applicant is a member of the Bar in good standing and that such applicant's private and professional character appear to be good.
+(c) Each applicant shall file with the Clerk an application for admission on the form prescribed by the Court, together with an application fee of $25 and a certificate from the presiding judge, clerk, or other appropriate officer of a court specified in (b) above, or from any other appropriate official from the Bar of such court, that the applicant is a member of the Bar in good standing and that such applicant's private and professional character appear to be good.
 The certificate of good standing must be an original and must be dated within one year of the date of the application.
 
 (d) If the documents submitted demonstrate that the applicant possesses the necessary qualifications, the Clerk shall so notify the applicant and he or she may be admitted without appearing in Court by subscribing a written oath or affirmation.
@@ -736,7 +736,7 @@ U.S. Court of Appeals for the        
 
 Armed Forces                 
 
-450 E Street, N.W.                
+450 E Street N.W.                  
 
 Washington, D.C. 20442–0001           
 
@@ -1046,8 +1046,7 @@ appellee, etc.)
 (Full typed name, rank,
 
 Crim.
-App. Dkt.
-No. __
+App. No. __
 
 service & service no. of
 
@@ -1068,9 +1067,13 @@ Index of Brief
 
 Table of Cases, Statutes, and Other Authorities
 
+Issue(s) Presented
+
+[Set forth, in a concise statement, each issue granted review by the Court, raised in the certificate for review or mandatory review case, or presented in the petition for extraordinary relief, writ appeal petition, or petition for new trial.]
+
 Statement of the Case
 
-[Set forth a concise chronology including the results of the accused's trial, action by the convening authority, the officer exercising general court-martial jurisdiction (if any), and the Court of Criminal Appeals as well as any other pertinent information regarding the proceedings.]
+[Set forth a concise chronology including the results of the accused's trial, action by the convening authority, the officer exercising general court-martial jurisdiction (if any), and the Court of Criminal Appeals as well as other pertinent information regarding the proceedings, including, where applicable, the date the petition for review was granted.]
 
 Statement of Facts
 
@@ -1078,18 +1081,20 @@ Statement of Facts
 Answers may adopt appellant's or petitioner's statement of facts if there is no dispute, may state additional facts, or, if there is a dispute, may restate the facts as they appear from appellee's or respondent's viewpoint.
 The repetition of uncontroverted matters is not desired.]
 
-Issue(s) Presented
+Summary of Argument
 
-[Set forth each issue granted review by the Court, raised in the certificate for review or in the mandatory review case, or presented in the petition for extraordinary relief, writ appeal petition, or petition for new trial.
-Issues presented will be set forth in upper case letters, and each will be followed by separate arguments pertaining to that issue.]
+[Each brief and answer shall contain a summary of argument, suitably paragraphed to correspond to each issue presented.
+The summary should be a succinct, but accurate and clear condensation of the arguments made in the body of the brief.]
 
 Argument
 
-[Discuss briefly the point of law presented, citing and quoting such authorities as are deemed pertinent.]
+[Discuss briefly the point of law presented, citing and quoting such authorities as are deemed pertinent.
+The argument must also include for each issue presented a statement of the applicable standard of review.
+The standard of review may appear in the discussion of each issue or under a separate heading.]
 
 Conclusion
 
-[State briefly the relief sought as to each issue presented, for example, reversal of the Court of Criminal Appeals decision and dismissal of the charges, grant of a new trial, the extraordinary relief sought, etc.
+[State the relief sought as to each issue presented, for example, reversal of the Court of Criminal Appeals decision and dismissal of the charges, grant of a new trial, the extraordinary relief sought, etc.
 No particular form of language is required, so long as the brief concludes with a clear prayer for specific Court action.]
 
 Appendix
@@ -1155,7 +1160,8 @@ In addition, there shall be filed in accordance with Rule 37 an original and sev
 
 (As amended Oct. 1, 1987; Oct. 30, 1991, eff.
 Nov. 4, 1991; Mar. 3, 1992, eff.
-Apr. 1, 1992; Oct. 12, 1994; Feb. 27, 1996.)
+Apr. 1, 1992; Oct. 12, 1994; Feb. 27, 1996; Jan. 12, 1998, eff.
+Feb. 2, 1998.)
 
 Rule 25. When Briefs are Required
 
@@ -1228,7 +1234,7 @@ Nov. 15, 1995.)
 Rule 28. Form of Petition for Extraordinary Relief, Writ Appeal Petition, Answer, and Reply
 
 (a) Petition/writ appeal petition.
-A Petition for extraordinary relief or a writ appeal petition for review of a Court of Criminal Appeals decision on application for extraordinary relief will be accompanied by any available record and will be substantially in the following form:
+A petition for extraordinary relief or a writ appeal petition for review of a Court of Criminal Appeals decision on application for extraordinary relief will be accompanied by any available record and will be substantially in the following form:
 
 in the united states court of appeals for the armed forces
 
@@ -1436,7 +1442,7 @@ Nov. 15, 1995.)
 
 Rule 32. Form of Petition for Reconsideration
 
-A petition for reconsideration, will be filed in substantially the following form:
+A petition for reconsideration will be filed in substantially the following form:
 
 in the united states court of appeals for the armed forces
 
@@ -1692,7 +1698,7 @@ COURTS OF CRIMINAL APPEALS
 
 RULES OF PRACTICE AND PROCEDURE
 
-(Effective May 1, 1996, as amended to January 6, 1997)
+(Effective May 1, 1996, as amended to January 26, 1998)
 
 Rule
 

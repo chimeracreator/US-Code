@@ -3174,12 +3174,42 @@ This section is referred to in title 42 section 7511b.
 
 (d) The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.
 
-(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966.)
+(e)(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under section 14502 of this title, or as an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+
+(2)(A) The Secretary may waive the application of paragraph (1) to a tank vessel if—
+
+(i) the owner of the tank vessel applies to the Secretary for the waiver before January 1, 1998;
+
+(ii) the Secretary determines that—
+
+(I) the owner of the tank vessel has entered into a binding agreement to alter the tank vessel in a shipyard in the United States to reduce the gross tonnage of the tank vessel by converting a portion of the cargo tanks of the tank vessel into protectively located segregated ballast tanks; and
+
+(II) that conversion will result in a significant reduction in the risk of a discharge of oil;
+
+(iii) at least 60 days before the date of the issuance of the waiver, the Secretary—
+
+(I) publishes notice that the Secretary has received the application and made the determinations required by clause (ii), including a description of the agreement entered into pursuant to clause (ii)(I); and
+
+(II) provides an opportunity for submission of comments regarding the application; and
+
+(iv) the alterations referred to in clause (ii)(I) are completed before the later of—
+
+(I) the date by which the first special survey of the tank vessel is required to be completed after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998; or
+
+(II) July 1, 1999.
+
+(B) A waiver under subparagraph (A) shall not be effective after the expiration of the 3-year period beginning on the first date on which the tank vessel would have been prohibited by subsection (c) from operating if the alterations referred to in subparagraph (A)(ii)(I) were not made.
+
+(3) This subsection does not apply to a tank vessel that, before July 1, 1997, had undergone, or was the subject of a contract for, alterations that reduce the gross tonnage of the tank vessel, as shown by reliable evidence acceptable to the Secretary.
+
+(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966; Pub. L. 105–85, div. C, title XXXVI, §3606, Nov. 18, 1997, 111 Stat. 2077.)
 
 References in Text
 
 The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters.
 For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(2)(A)(iv)(I), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
 Effective Date
 
@@ -3210,7 +3240,7 @@ No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
 Section Referred to in Other Sections
 
-This section is referred to in section 3715 of this title.
+This section is referred to in section 3715 of this title; title 50 App. section 1744.
 
 §3704. Coastwise trade vessels
 
@@ -5772,6 +5802,86 @@ References in Text
 
 Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act of 1982, referred to in subsec. (g), are sections 205(a)(3)(A), (B) and 206(b)(7) of Pub. L. 97–364, which are set out as a note under section 401 of Title 23, Highways.
 
+Plan for Licensing Operators of Fishing Industry Vessels
+
+Pub. L. 100–424, §3, Sept. 9, 1988, 102 Stat. 1590, provided that: “The Secretary of the department in which the Coast Guard is operating shall, within two years after the date of enactment of this Act [Sept. 9, 1988], and in close consultation with the Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of title 46, United States Code (as amended by this Act), prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels.
+The plan shall take into consideration the nature and variety of the different United States fisheries and of the vessels engaged in those fisheries, the need to license all operators or only those working in certain types of fisheries or vessels, and other relevant factors.”
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 8101, 8302, 8304, 8502, 8503, 8703, 9302, 9303 of this title; section 1295c of Appendix to this title; title 49 section 30305.
+
+§7102. Citizenship
+
+Licenses and certificates of registry for individuals on documented vessels may be issued only to citizens of the United States.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 540.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	7102	46:24246:1132(a)
+
+Section 7102 requires that any individual issued a license or certificate of registry allowing the individual to be engaged on a documented vessel must be a U.S. citizen.
+
+§7103. Licenses for radio officers
+
+(a) A license as radio officer may be issued only to an applicant who has a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.
+
+(b) Except as provided in section 7318 of this title, this part does not affect the status of radiotelegraph operators serving on board vessels operating only on the Great Lakes.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 540.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	7103	46:229a46:229b
+
+46:229g
+
+Section 7103 requires an applicant for a license as a radio officer to have, as a prerequisite, a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission (FCC). It also excepts radiotelegraph operators that are engaged on Great Lakes vessels from the requirement of having to obtain a radio officer's license.
+
+§7104. Certificates for medical doctors and nurses
+
+A certificate of registry as a medical doctor or professional nurse may be issued only to an applicant who has a license as a medical doctor or registered nurse, respectively, issued by a State.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 540.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	7104	46:243
+
+Section 7104 requires an applicant for a certificate of registry as a medical doctor or professional nurse to have, as a prerequisite, a license as a medical doctor or registered nurse issued by a State.
+
+§7105. Oaths
+
+An applicant for a license or certificate of registry shall take, before the issuance of the license or certificate, an oath before a designated official, without concealment or reservation, that the applicant will perform faithfully and honestly, according to the best skill and judgment of the applicant, all the duties required by law.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 540.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	7105	46:229e46:231
+
+46:244
+
+Section 7105 requires all individuals who wish to be issued a license or certificate of registry to take an oath before a government official that they will perform all the duties required by law according to their best skill and judgment.
+
+§7106. Duration of licenses
+
+A license issued under this part is valid for 5 years and may be renewed for additional 5-year periods.
+However, the validity of a license issued to a radio officer is conditioned on the continuous possession by the holder of a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 540; Pub. L. 101–380, title IV, §4102(a), Aug. 18, 1990, 104 Stat. 509.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	7106	46:214(c)46:225
+
+46:226
+
+46:228
+
+46:229
+
+46:229c
+
+Section 7106 sets a 5 year time limit on the validity of a license.
+It also requires a licensed radio officer to be in continuous possession of an FCC license.
+
 Termination of Existing Licenses, Certificates, and Documents; Applicability of 1990 Amendment
 
 Section 4102(d) of Pub. L. 101–380 provided that: “A license, certificate of registry, or merchant mariner's document issued before the date of the enactment of this section [Aug. 18, 1990] terminates on the day it would have expired if—
@@ -6139,6 +6249,44 @@ Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	7308	46:672(b)(2)
 
 Section 7308 establishes the minimum service requirements for an individual to qualify for an endorsement as able seamen—limited.
+
+Acceptance of Certain Services Toward Endorsement as Able Seaman
+
+Service used to qualify for endorsement as able seaman—fishing industry to be accepted as qualifying service toward an endorsement under this section, see section 602(e)(3) of Pub. L. 101–595, set out as a note under section 7306 of this title.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 7312, 7315 of this title.
+
+§7309. Able seamen—special
+
+The required service for the endorsement of able seaman—special, qualified for special service on a vessel on any waters, is at least 12 months’ service on deck on board vessels operating on the oceans or the navigable waters of the United States (including the Great Lakes).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 543.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	7309	46:672(b)(3)
+
+Section 7309 establishes the minimum service requirements for an individual to qualify as able seamen—special.
+
+Acceptance of Certain Services Toward Endorsement as Able Seaman
+
+Service used to qualify for endorsement as able seaman—fishing industry to be accepted as qualifying service toward an endorsement under this section, see section 602(e)(3) of Pub. L. 101–595, set out as a note under section 7306 of this title.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 7312, 7315 of this title.
+
+§7310. Able seamen—offshore supply vessels
+
+For service on a vessel of less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title engaged in support of exploration, exploitation, or production of offshore mineral or energy resources, an individual may be rated as able seaman—offshore supply vessels if the individual has at least 6 months’ service on deck on board vessels operating on the oceans or the navigable waters of the United States (including the Great Lakes).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 543; Pub. L. 104–324, title VII, §722, Oct. 19, 1996, 110 Stat. 3938.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	7310	46:672(b)(3)
+
+Section 7310 establishes the minimum service requirements for an individual to serve as able seamen—offshore supply vessels on vessels of less than 500 gross tons engaged in the exploration, exploitation, or production of offshore mineral or energy resources.
 
 Section Referred to in Other Sections
 
@@ -6523,32 +6671,6 @@ Subsection (b) allows an individual whose license, certificate, or document has 
 References in Text
 
 Sections 205(a)(3)(A) or (B) and 206(b)(4) of the National Driver Register Act of 1982, referred to in subsecs. (c)(1) and (d)(1)(B)(iii), are sections 205(a)(3)(A), (B) and 206(b)(4) of Pub. L. 97–364, which are set out as a note under section 401 of Title 23, Highways.
-
-§7703. Bases for suspension or revocation
-
-A license, certificate of registry, or merchant mariner's document issued by the Secretary may be suspended or revoked if the holder—
-
-(1) when acting under the authority of that license, certificate, or document—
-
-(A) has violated or fails to comply with this subtitle, a regulation prescribed under this subtitle, or any other law or regulation intended to promote marine safety or to protect navigable waters; or
-
-(B) has committed an act of incompetence, misconduct, or negligence;
-
-(2) is convicted of an offense that would prevent the issuance or renewal of a license, certificate of registry, or merchant mariner's document; or
-
-(3) within the 3-year period preceding the initiation of the suspension or revocation proceeding is convicted of an offense described in section 205(a)(3)(A) or (B) of the National Driver Register Act of 1982 (23 U.S.C. 401 note).
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(9)(E), May 15, 1985, 99 Stat. 68; Pub. L. 101–380, title IV, §4103(b), Aug. 18, 1990, 104 Stat. 511.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	7703	46:22646:239
-
-46:240
-
-46:246(c)
-
-This section provides the bases for suspension and revocation of a license, certificate or document.
-The individual must have been operating under the authority of the required license, certificate, or document and has violated a law or regulation intended to promote marine safety or to protect the navigable waters or has committed an act of incompetence, misconduct, or negligence.
 
 Section Referred to in Other Sections
 
@@ -7220,59 +7342,6 @@ Subsection (d) prohibits a State from requiring a State licensed pilot on certai
 
 Subsection (e) voids any regulation or provision violating this section.
 
-§8502. Federal pilots required
-
-(a) Except as provided in subsections (g) and (i) of this section, a coastwise seagoing vessel shall be under the direction and control of a pilot licensed under section 7101 of this title if the vessel is—
-
-(1) not sailing on register;
-
-(2) underway;
-
-(3) not on the high seas; and
-
-(4)(A) propelled by machinery and subject to inspection under part B of this subtitle; or
-
-(B) subject to inspection under chapter 37 of this title.
-
-(b) The fees charged for pilotage by pilots required under this section may not be more than the customary or legally established rates in the States in which the pilotage is performed.
-
-(c) A State or political subdivision of a State may not impose on a pilot licensed under this subtitle an obligation to procure a State or other license, or adopt any other regulation that will impede the pilot in the performance of the pilot's duties under the laws of the United States.
-
-(d) A State or political subdivision of a State may not levy pilot charges on a vessel lawfully piloted by a pilot required under this section.
-
-(e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000. The vessel also is liable in rem for the penalty.
-
-(f) An individual serving as a pilot without having a license required by this section or a regulation prescribed under this section is liable to the Government for a civil penalty of $10,000.
-
-(g)(1) The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, if any, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under section 7101 of this title.
-
-(2) In any area of Prince William Sound, Alaska, where a vessel subject to this section is required to be under the direction and control of a pilot licensed under section 7101 of this title, the pilot may not be a member of the crew of that vessel and shall be a pilot licensed by the State of Alaska who is operating under a Federal license, when the vessel is navigating waters between 60°49′ North latitude and the Port of Valdez, Alaska.
-
-(h) The Secretary shall designate waters on which tankers over 1,600 gross tons subject to this section shall have on the bridge a master or mate licensed to direct and control the vessel under section 7101(c)(1) of this title who is separate and distinct from the pilot required under subsection (a) of this section.
-
-(i)(1) Except as provided in paragraph (2), a dredge to which this section would otherwise apply is exempt from the requirements of this section.
-
-(2) If the Secretary determines, after notice and comment, that the exemption under paragraph (1) creates a hazard to navigational safety in a specified area, the Secretary may require that a dredge exempted by paragraph (1) which is operating in that area shall comply with this section.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 553; Pub. L. 98–557, §29(f)(1), (2), Oct. 30, 1984, 98 Stat. 2874; Pub. L. 99–307, §1(13), May 19, 1986, 100 Stat. 446; Pub. L. 101–380, title IV, §§4116(a), (b), 4302(g), Aug. 18, 1990, 104 Stat. 522, 539; Pub. L. 101–595, title III, §307, Nov. 16, 1990, 104 Stat. 2985.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	8502	46:21546:364
-
-46:391a
-
-46:497
-
-Section 8502 sets forth the provisions and requirements for pilots licensed under section 7101. It is an exception provided by law envisioned under section 8501(a).
-
-Subsection (a) applies the requirement for a Federal pilot to coastwise seagoing vessels if propelled by machinery and inspected under part B or if inspected under chapter 37, including a tank barge.
-The section has been carefully worded to clearly set out those vessels that are required at times to have a Federal pilot.
-
-Subsection (b) prohibits Federal pilot fees from being higher than those required for State pilots.
-Subsections (c) and (d) prohibit States from imposing impediments to the proper performance of, or levying charges related to, Federal pilotage.
-
-Subsections (e) and (f) prescribe civil penalties for violation of this section.
-
 §8503. Federal pilots authorized
 
 (a) The Secretary may require a pilot licensed under section 7101 of this title on a self-propelled vessel when a pilot is not required by State law and the vessel is—
@@ -7503,21 +7572,6 @@ Chapter 89 provides for the manning of freight vessels, small passenger vessels,
 It permits a licensed operator to be in charge of a vessel in lieu of a licensed master or pilot.
 It also sets forth exemption and civil penalties.
 
-Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 4302, 8301 of this title.
-
-§8901. Freight vessels
-
-A freight vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be operated by an individual licensed by the Secretary to operate that type of vessel in the particular geographic area, under prescribed regulations.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 104–324, title VII, §733, Oct. 19, 1996, 110 Stat. 3941.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	8901	46:390b
-
-Section 8901 requires that a freight vessel of less than 100 gross tons be operated by a licensed individual for that type vessel and for a particular geographic area.
-
 §8902. Small passenger vessels
 
 A small passenger vessel shall be operated by an individual licensed by the Secretary to operate that type of vessel in the particular geographic area, under prescribed regulations.
@@ -7539,6 +7593,23 @@ Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	8903	46:1461(e), (f)
 
 Section 8903 requires that an uninspected passenger vessel be operated by a licensed individual for that type of vessel.
+
+Section Referred to in Other Sections
+
+This section is referred to in sections 4302, 8905 of this title.
+
+§8904. Towing vessels
+
+(a) A towing vessel that is at least 26 feet in length measured from end to end over the deck (excluding sheer), shall be operated by an individual licensed by the Secretary to operate that type of vessel in the particular geographic area, under prescribed regulations.
+
+(b) A vessel that tows a disabled vessel for consideration shall be operated by an individual licensed by the Secretary to operate that type of vessel in the particular geographic area, under prescribed regulations.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 99–640, §12(a), Nov. 10, 1986, 100 Stat. 3550.)
+
+Historical and Revision Notes	Revised section	Source section (U.S. Code)
+	8904	46:405(b)(2)
+
+Section 8904 requires that a 26-foot or larger towing vessel be operated by a licensed individual for that type of vessel and for a particular geographic area.
 
 Section Referred to in Other Sections
 
@@ -8506,142 +8577,6 @@ This means that the use of employment agencies for hiring seamen is prohibited.
 It also requires compliance with section 10302 regarding the signing of articles of agreement before a vessel can be cleared from a United States port.
 This section applies to foreign vessels in United States waters but not to fishing vessels, whaling vessels or yachts.
 
-Section Referred to in Other Sections
-
-This section is referred to in section 10316 of this title.
-
-§10315. Allotments
-
-(a) Under prescribed regulations, a seaman may stipulate as follows in the agreement required by section 10302 of this title for an allotment of any part of the wages the seaman may earn:
-
-(1) to the seaman's grandparents, parents, spouse, sister, brother, or children;
-
-(2) to an agency designated by the Secretary of the Treasury to handle applications for United States savings bonds, to purchase bonds for the seaman; and
-
-(3) for deposits to be made in an account for savings or investment opened by the seaman and maintained in the seaman's name at a savings bank or a savings institution in which the accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation.
-
-(b) An allotment is valid only if made in writing and signed by and approved by a shipping commissioner.
-The shipping commissioner shall examine allotments and the parties to them to enforce compliance with the law.
-Stipulations for allotments made at the beginning of a voyage shall be included in the agreement and shall state the amounts and times of payment and the person to whom payments are to be made.
-
-(c) Only an allotment complying with this section is lawful.
-A person falsely claiming qualification as an allottee under this section is liable to the United States Government for a civil penalty of not more than $500.
-
-(d) The owner, charterer, managing operator, agent, or master of a vessel seeking clearance from a port of the United States shall present the agreement at the office of clearance.
-Clearance may be granted to a vessel only if this section has been complied with.
-
-(e) This section applies to a foreign vessel when in waters of the United States.
-An owner, charterer, managing operator, agent, or master of a foreign vessel violating this section is liable to the Government for the same penalty as an owner, charterer, managing operator, agent, or master of a vessel of the United States for the same violation.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 567.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	10315	46:599
-
-Section 10315 lists the persons to whom a seaman may allot wages, specifies the conditions which make an allotment valid, and provides a civil penalty of $500 for falsely claiming qualification as an allottee.
-It also requires that this section be complied with before a vessel can be cleared from a United States port.
-This section applies to foreign vessels.
-
-Transfer of Functions
-
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 10316, 11109 of this title.
-
-§10316. Trusts
-
-Sections 10314 and 10315 of this title do not prevent an employer from making deductions from the wages of a seaman, with the written consent of the seaman, if—
-
-(1) the deductions are paid into a trust fund established only for the benefit of seamen employed by that employer, and the families and dependents of those seamen (or of those seamen, families, and dependents jointly with other seamen employed by other employers, and the families and dependents of the other seamen); and
-
-(2) the payments are held in trust to provide, from principal or interest, or both, any of the following benefits for those seamen and their families and dependents:
-
-(A) medical or hospital care, or both.
-
-(B) pensions on retirement or death of the seaman.
-
-(C) life insurance.
-
-(D) unemployment benefits.
-
-(E) compensation for illness or injuries resulting from occupational activity.
-
-(F) sickness, accident, and disability compensation.
-
-(G) purchasing insurance to provide any of the benefits specified in this section.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 568.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	10316	46:599(g)
-
-Section 10316 qualifies the two previous sections by allowing an employer to make deductions from seamen's wages for the purpose of placing the wages into a trust fund or holding them in trust to provide for the seamen's benefit.
-
-§10317. Loss of lien and right to wages
-
-A master or seaman by any agreement other than one provided for in this chapter may not forfeit the master's or seaman's lien on the vessel or be deprived of a remedy to which the master or seaman otherwise would be entitled for the recovery of wages.
-A stipulation in an agreement inconsistent with this chapter, or a stipulation by which a seaman consents to abandon a right to wages if the vessel is lost, or to abandon a right the seaman may have or obtain in the nature of salvage, is void.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 568.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	10317	46:600
-
-Section 10317 prohibits a master or seaman from entering into an agreement which forfeits his or her lien on the vessel or other remedy for recovery of wages, and renders such agreements void.
-
-§10318. Wages on discharge in foreign ports
-
-(a) When a master or seaman applies to a consular officer for the discharge of the seaman, the consular officer shall require the master to pay the seaman's wages if it appears that the seaman has carried out the agreement required by section 10302 of this title or otherwise is entitled to be discharged.
-Then the consular officer shall discharge the seaman.
-A consular officer shall require the payment of extra wages only as provided in this section or in chapter 109 of this title.
-
-(b) When discharging a seaman, a consular officer who fails to require the payment of the wages due a seaman at the time, and of the extra wages due under subsection (a) of this section, is accountable to the United States Government for the total amount.
-
-(c) A seaman discharged under this section with the consent of the seaman is entitled to wages up to the time of discharge, but not for any additional period.
-
-(d) If the seaman is discharged involuntarily, and it appears that the discharge was not because of neglect of duty, incompetency, or injury incurred on the vessel, the master shall provide the seaman with employment on a vessel agreed to by the seaman or shall provide the seaman with one month's extra wages.
-
-(e) Expenses for the maintenance and return of an ill or injured seaman to the United States shall be paid by the Secretary of State.
-If a seaman is incapacitated by illness or injury and prompt discharge is necessary, but a personal appearance of the master before a consular officer is impracticable, the master may provide transportation to the seaman to the nearest consular officer for discharge.
-
-(f) A deduction from wages of the seaman is permitted only if the deduction appears in the account of the seaman required to be delivered under section 10310 of this title, except for matters arising after delivery of the account, in which case a supplementary account is required.
-During a voyage, the master shall record in the official logbook the matters about which deductions are to be made with the amounts of the deductions.
-The entries shall be made as the matters occur.
-The master shall produce the official logbook at the time of payment of wages, and also before a competent authority on the hearing of any complaint or question about the payment of wages.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 568.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	10318	46:68246:683
-
-Section 10318 establishes consular officers’ responsibilities in discharging seamen and the seamen's right to wages when discharged and when incapacitated by illness or injury.
-It also requires a master to record in the official logbook all matters for which deductions are to be made from seamen's wages.
-
-§10319. Costs of a criminal conviction
-
-In a proceeding about a seaman's wages, if it is shown that the seaman was convicted during the voyage of an offense by a competent tribunal and sentenced by the tribunal, the court hearing the case may direct that a part of the wages due the seaman, but not more than $15, be applied to reimburse the master for costs properly incurred in procuring the conviction and sentence.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 569.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	10319	46:707
-
-Section 10319 provides that if a seaman was convicted during a voyage by a tribunal, that the court may direct that up to $15 of the seaman's wages be used to reimburse the master for the costs incurred.
-
-§10320. Records of seamen
-
-The Secretary shall prescribe regulations requiring vessel owners to maintain records of seamen on matters of engagement, discharge, and service.
-A vessel owner shall make these records available to the seaman and the Coast Guard on request.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 569; Pub. L. 103–206, title IV, §411, Dec. 20, 1993, 107 Stat. 2437.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	10320 	..............................................
-
-Section 10320 authorizes the Secretary to provide for the maintenance of records of the engagement, discharge, or service of seamen.
-
 §10321. General penalty
 
 (a) A person violating any provision of this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $5,000.
@@ -9036,30 +8971,6 @@ Historical and Revision Notes	Revised section	Source section (U.S. Code)
 	10702	46:621
 
 Section 10702 requires a master to take charge of the property of a deceased seaman, make note in the official logbook that the property was taken and obtain a certificate of compliance from a shipping commissioner which must be exhibited for port clearance of foreign bound vessels.
-
-Section Referred to in Other Sections
-
-This section is referred to in section 11301 of this title.
-
-§10703. Procedures of masters
-
-(a) If the vessel is proceeding to the United States when a seaman dies, the master shall deliver the seaman's money, property, and wages when the agreement required by this part is ended, as provided in section 10706 of this title.
-
-(b) If the vessel touches at a foreign port after the death of the seaman, the master shall report to the first available consular officer.
-The consular officer may require the master to deliver to the officer the money, property, and wages of the seaman.
-The consular officer shall give the master a receipt for the matters delivered and certify on the agreement the particulars of the delivery.
-When the agreement ends, the master shall deliver the receipt to a district court of the United States.
-
-(c) If the consular officer does not require the master to deliver the seaman's money, property, and wages, the officer shall so certify on the agreement, and the master shall dispose of the money, property, and wages as provided under section 10706 of this title.
-
-(d) A deduction from the account of a deceased seaman is valid only if certified by a proper entry in the official logbook.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 573; Pub. L. 103–206, title IV, §418, Dec. 20, 1993, 107 Stat. 2438.)
-
-Historical and Revision Notes	Revised section	Source section (U.S. Code)
-	10703	46:622
-
-Section 10703 provides for the disposal by the master of the property and wages of deceased seamen who have died outside the United States.
 
 §10704. Duties of consular officers
 

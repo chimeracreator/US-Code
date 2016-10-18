@@ -66,9 +66,7 @@ Negotiated licenses for public performances by means of coin-operated phonorecor
 Renumbered.]
 
 117.
-Scope of exclusive rights: Use in conjunction with computers and similar information systems.1
-
-        
+Limitations on exclusive rights: Computer programs.
 
 118.
 Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting.
@@ -87,9 +85,6 @@ Limitations on exclusive rights: reproduction for blind or other people with dis
 Chapter Referred to in Other Sections
 
 This chapter is referred to in section 912 of this title.
-
-1 So in original.
-Does not conform to section catchline.
 
 §101. Definitions
 
@@ -165,6 +160,8 @@ A “device”, “machine”, or “process” is one now known or later develo
 A “digital transmission” is a transmission in whole or in part in a digital or other non-analog format.
 
 To “display” a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially.
+
+The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
 
 A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration.
 A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
@@ -245,7 +242,7 @@ For the purpose of the foregoing sentence, a “supplementary work” is a work 
 
 A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678.)
 
 Historical and Revision Notes
 
@@ -1342,7 +1339,7 @@ The Director-General shall send certified copies to the signatory States to the 
 
 Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on Treaties in Force, as of January 1, 1997, published by the Department of State:
+The following is based on Treaties in Force, as of January 1, 1998, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries.
 This appendix is an attempt to present a complete and annotated list of those countries.
@@ -1463,10 +1460,11 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Pg 	Oct. 29, 1971 	Aug. 21, 1982 	25 UST 309.
 	  	Berne (Paris) 	July 24, 1971 	Aug. 21, 1982 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
-	Bahamas, The 	UCC 	Sept. 6, 1952 	Dec. 27, 1976 	6 UST 2731.
-	  	Berne (Brussels) 	June 26, 1948 	July 10, 1973 	331 UNTS 217.
+	Bahamas, The 	Berne (Brussels) 	June 26, 1948 	July 10, 1973 	331 UNTS 217.
+	  	UCC 	Sept. 6, 1952 	Oct. 13, 1976 	6 UST 2731.
 	  	UCC rev. 	July 24, 1971 	Dec. 27, 1976 	25 UST 1341.
 	Bahrain 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	  	Berne (Paris) 	July 24, 1971 	Mar. 2, 1997 	T. Doc. 99–27.
 	Bangladesh 	UCC 	Sept. 6, 1952 	Aug. 5, 1975 	6 UST 2731.
 	  	UCC rev. 	July 24, 1971 	Aug. 5, 1975 	25 UST 1341.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
@@ -1476,6 +1474,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Berne (Paris) 	July 24, 1971 	July 30, 1983 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Belarus 	UCC 	Sept. 6, 1952 	May 27, 1973 	6 UST 2731.
+	  	Berne (Paris) 	July 24, 1971 	Dec. 12, 1997 	T. Doc. 99–27.
 	Belgium 	P 	July 1, 1891 	July 1, 1891 	27 Stat. 981.
 	  	P 	Apr. 9, 1910 	July 1, 1909 	36 Stat. 2685.
 	  	Pm 	June 14, 1911 	July 1, 1909 	37 Stat. 1688.
@@ -1512,7 +1511,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	Burkina Faso 	Berne (Paris) 	July 24, 1971 	Jan. 24, 1976 	T. Doc. 99–27.
 	  	Pg 	Oct. 29, 1971 	Jan. 30, 1988 	25 UST 309.
 	  	WTO 	Apr. 15, 1994 	June 3, 1995 	33 ILM 15.
-	Burma 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	Burma 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15. 
 	Burundi 	WTO 	Apr. 15, 1994 	July 23, 1995 	33 ILM 15.
 	Cambodia 6 	UCC 	Sept. 6, 1952 	Sept. 16, 1955 	6 UST 2731.
 	Cameroon 	UCC 	Sept. 6, 1952 	May 1, 1973 	6 UST 2731.
@@ -1520,7 +1519,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Berne (Paris) 	July 24, 1971 	Oct. 10, 1974 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	Dec. 13, 1995 	33 ILM 15.
 	Canada 1 	Pm 	Dec. 27, 1923 	Jan. 1, 1924 	43 Stat. 1932.
-	  	Berne (Rome) 	June 2, 1928 	Aug. 1, 1931 	123 LNTS 232.
+	  	Berne (Rome) 	June 2, 1928 	Apr. 10, 1928 	123 LNTS 232.
 	  	UCC 	Sept. 6, 1952 	Aug. 10, 1962 	6 UST 2731.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Central African Republic 	Berne (Paris) 	July 24, 1971 	Sept. 3, 1977 	T. Doc. 99–27.
@@ -1549,6 +1548,22 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Pg 	Oct. 29, 1971 	May 16, 1994 	25 UST 309.
 	  	WTO 	Apr. 15, 1994 	Apr. 30, 1995 	33 ILM 15.
 	Congo 	Berne (Paris) 	July 24, 1971 	Dec. 5, 1975 	T. Doc. 99–27.
+	Congo, Democratic Republic of (formerly Zaire) 	Berne (Paris) Pg 
+
+WTO 
+
+	July 24, 1971 Oct. 29, 1971 
+
+Apr. 15, 1994 
+
+	Jan. 31, 1975 Nov. 29, 1977 
+
+Jan. 1, 1997 
+
+	T. Doc. 99–27. 25 UST 309. 
+
+33 ILM 15.
+
 	Costa Rica 	P 	Oct. 19, 1899 	Oct. 19, 1899 	31 Stat. 1955.
 	  	P 	Apr. 9, 1910 	July 1, 1909 	36 Stat. 2685.
 	  	MCC 	Jan. 27, 1902 	June 30, 1908 	35 Stat. 1934.
@@ -1569,6 +1584,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Pm 	Nov. 27, 1911 	May 29, 1911 	37 Stat. 1721.
 	  	UCC 	Sept. 6, 1952 	June 18, 1957 	6 UST 2731.
 	  	WTO 	Apr. 15, 1994 	Apr. 20, 1995 	33 ILM 15.
+	  	Berne (Paris) 	July 24, 1971 	Feb. 20, 1997 	T. Doc. 99–27.
 	Cyprus 	Berne (Paris) 	July 24, 1971 	July 27, 1983 	T. Doc. 99–27.
 	  	UCC 	Sept. 6, 1952 	Dec. 19, 1990 	6 UST 2731.
 	  	UCC rev. 	July 24, 1971 	Dec. 19, 1990 	25 UST 1341.
@@ -1592,11 +1608,12 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Djibouti 	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Dominica 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
-	Dominican Republic 	MCC 	Jan. 27, 1902 	June 30, 1908 	35 Stat. 1934.
+	Dominican Rep. 	MCC 	Jan. 27, 1902 	June 30, 1908 	35 Stat. 1934.
 	  	BAC 	Aug. 11, 1910 	Oct. 31, 1912 	38 Stat. 1785.
 	  	UCC 	Sept. 6, 1952 	May 8, 1983 	6 UST 2731.
 	  	UCC rev. 	July 24, 1971 	May 8, 1983 	25 UST 1341.
 	  	WTO 	Apr. 15, 1994 	Mar. 9, 1995 	33 ILM 15.
+	  	Berne (Paris) 	July 24, 1971 	Dec. 24, 1997 	T. Doc. 99–27.
 	Ecuador 	BAC 	Aug. 11, 1910 	Aug. 31, 1914 	38 Stat. 1785.
 	  	UCC 	Sept. 6, 1952 	June 5, 1957 	6 UST 2731.
 	  	Pg 	Oct. 29, 1971 	Sept. 14, 1974 	25 UST 309.
@@ -1612,6 +1629,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	UCC rev. 	July 24, 1971 	Mar. 29, 1979 	25 UST 1341.
 	  	Berne (Paris) 	July 24, 1971 	Feb. 19, 1994 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	May 7, 1995 	33 ILM 15.
+	Equatorial Guinea 	Berne (Paris) 	July 24, 1971 	June 26, 1997 	T. Doc. 99–27.
 	Estonia 	Berne (Paris) 	July 24, 1971 	Oct. 26, 1994 	T. Doc. 99–27.
 	European Community 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Fiji 	UCC 	Sept. 6, 1952 	Mar. 13, 1972 	6 UST 2731.
@@ -1625,7 +1643,8 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Berne (Paris) 	July 24, 1971 	Nov. 1, 1986 	T. Doc. 99–27.
 	  	UCC rev. 	July 24, 1971 	Nov. 1, 1986 	25 UST 1341.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
-	Former Yugoslav Republic of Macedonia 	Berne (Paris) 	July 24, 1971 	Sept. 8, 1991 	T. Doc. 99–27.
+	Former Yugoslav Republic of Macedonia 	Berne (Paris) 	July 24, 1971 	Sept. 8, 1991 	 T. Doc. 99–27.
+	  	Pcss 	May 21, 1974 	Nov. 17, 1991 	T. Doc. 98–31.
 	France 6 	P 	July 1, 1891 	July 1, 1891 	27 Stat. 981.
 	  	P 	Apr. 9, 1910 	July 1, 1909 	36 Stat. 2685.
 	  	Pm 	May 24, 1918 	May 24, 1918 	40 Stat. 1784.
@@ -1667,6 +1686,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	UCC 	Sept. 6, 1952 	Oct. 28, 1964 	6 UST 2731.
 	  	Pg 	Oct. 29, 1971 	Feb. 1, 1977 	25 UST 309.
 	  	WTO 	Apr. 15, 1994 	July 21, 1995 	33 ILM 15.
+	  	Berne (Paris) 	July 24, 1971 	July 28, 1997 	T. Doc. 99–27.
 	Guinea 	Berne (Paris) 	July 24, 1971 	Nov. 20, 1980 	T. Doc. 99–27.
 	  	UCC 	Sept. 6, 1952 	Nov. 13, 1981 	6 UST 2731.
 	  	UCC rev. 	July 24, 1971 	Nov. 13, 1981 	25 UST 1341.
@@ -1705,6 +1725,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Indonesia 	P 	July 31, 1989 	Aug. 1, 1989 	103 Stat. 3069.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
+	  	Berne (Paris) 	July 24, 1971 	Sept. 5, 1997 	T. Doc. 99–27.
 	Ireland 1 	Pm \11\ 	Sept. 28, 1929 	Oct. 1, 1929 	46 Stat. 3005.
 	  	UCC 	Sept. 6, 1952 	Jan. 20, 1959 	6 UST 2731.
 	  	Berne (Brussels) 	June 26, 1948 	July 5, 1959 	331 UNTS 217.
@@ -1754,6 +1775,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	Kuwait 	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Laos 6 	UCC 	Sept. 6, 1952 	Sept. 16, 1955 	6 UST 2731.
 	Latvia 	Berne (Paris) 	July 24, 1971 	Aug. 11, 1995 	T. Doc. 99–27.
+	  	Pg 	Oct. 29, 1971 	Aug. 23, 1997 	25 UST 309.
 	Lebanon 	Berne (Rome) 	June 2, 1928 	Sept. 30, 1947 	123 LNTS 232.
 	  	UCC 	Sept. 6, 1952 	Oct. 17, 1959 	6 UST 2731.
 	Lesotho 	Berne (Paris) 	July 24, 1971 	Sept. 28, 1989 	T. Doc. 99–27.
@@ -1785,7 +1807,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	Malta 	Berne (Rome) 	June 2, 1928 	Sept. 21, 1964 	123 LNTS 232.
 	  	UCC 	Sept. 6, 1952 	Nov. 19, 1968 	6 UST 2731.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
-	Mauritania 	Berne (Paris) 	July 24, 1971 	Sept. 21, 1976 	T. Doc. 99–27.
+	Mauritania 	Berne (Paris) 	July 24, 1971 	Feb. 6, 1973 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	May 31, 1995 	33 ILM 15.
 	Mauritius 	UCC 	Sept. 6, 1952 	Mar. 12, 1968 	6 UST 2731.
 	  	Berne (Paris) 	July 24, 1971 	May 10, 1989 	T. Doc. 99–27.
@@ -1811,7 +1833,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Berne (Paris) 	July 24, 1971 	May 17, 1987 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Mozambique 	WTO 	Apr. 15, 1994 	Aug. 26, 1995 	33 ILM 15.
-	Namibia 	Berne (Paris) 	July 24, 1971 	Dec. 24, 1993 	T. Doc. 99–27.
+	Namibia 	Berne (Paris) 	July 24, 1971 	Mar. 21, 1990 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Netherlands and Possessions 	P 	Nov. 20, 1899 	Nov. 20, 1899 	31 Stat. 1961.
 	  	P 	Apr. 9, 1910 	July 1, 1909 	36 Stat. 2685.
@@ -1879,9 +1901,9 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	Berne (Brussels) 	June 26, 1948 	Aug. 1, 1951 	331 UNTS 217.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
 	Poland 	Pm 	Feb. 14, 1927 	Feb. 16, 1927 	44 Stat. 2634.
-	  	Berne (Paris) 	July 24, 1971 	Oct. 22, 1994 	T. Doc. 99–27.
 	  	UCC 	Sept. 6, 1952 	Mar. 9, 1977 	6 UST 2731.
 	  	UCC rev. 	July 24, 1971 	Mar. 9, 1977 	25 UST 1341.
+	  	Berne (Paris) 	July 24, 1971 	Oct. 22, 1994 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	July 1, 1995 	33 ILM 15.
 	Portugal 	P 	July 20, 1893 	July 20, 1893 	28 Stat. 1222.
 	  	P 	Apr. 9, 1910 	July 1, 1909 	36 Stat. 2685.
@@ -1982,6 +2004,7 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	UCC rev. 	July 24, 1971 	Aug. 19, 1988 	25 UST 1341.
 	  	Pg 	Oct. 29, 1971 	Oct. 1, 1988 	25 UST 309.
 	  	WTO 	Apr. 15, 1994 	Mar. 1, 1995 	33 ILM 15.
+	  	Pcss 	May 21, 1974 	Nov. 1, 1996 	T. Doc. 98–31.
 	Tunisia 	P \26\ 	Oct. 4, 1912 	Oct. 4, 1912 	37 Stat. 1765.
 	  	UCC 	Sept. 6, 1952 	June 19, 1969 	6 UST 2731.
 	  	UCC rev. 	July 24, 1971 	June 10, 1975 	25 UST 1341.
@@ -2034,8 +2057,6 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 	  	UCC rev. 	July 24, 1971 	July 10, 1974 	25 UST 1341.
 	  	Berne (Paris) 	July 24, 1971 	Sept. 2, 1975 	T. Doc. 99–27.
 	  	Pcss \31\ 	May 21, 1974 	Aug. 25, 1979 	T. Doc. 98–31.
-	Zaire 	Berne (Paris) 	July 24, 1971 	Jan. 31, 1975 	T. Doc. 99–27.
-	  	Pg 	Oct. 29, 1971 	Nov. 29, 1977 	25 UST 309.
 	Zambia 	UCC 	Sept. 6, 1952 	June 1, 1965 	6 UST 2731.
 	  	Berne (Paris) 	July 24, 1971 	Jan. 2, 1992 	T. Doc. 99–27.
 	  	WTO 	Apr. 15, 1994 	Jan. 1, 1995 	33 ILM 15.
@@ -2129,14 +2150,14 @@ Previously, the German Democratic Republic had become party to the Paris Act of 
 
 34 See also Czech Republic, Slovak Republic, and Slovakia.
 
-35 See note under Czechoslovakia in bilateral section.
+35 See note under CZECHOSLOVAKIA in bilateral section.
 
-36 See note under Germany, Federal Republic of in bilateral section.
+36 See note under GERMANY, FEDERAL REPUBLIC OF in bilateral section.
 
 37 Also known as Slovak Republic.
 For 1992 and prior years, see Czechoslovakia.
 
-38 See note under Yugoslavia in bilateral section.
+38 See note under YUGOSLAVIA in bilateral section.
 
 Proc.
 No. 3792. Copyright Extension: Germany
@@ -2217,11 +2238,11 @@ In the event that notice is provided under both subparagraphs (A) and (B), the 1
 
 (3) Existing derivative works.—(A) In the case of a derivative work that is based upon a restored work and is created—
 
-(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
+(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the restored work is an eligible country on such date, or
 
-(ii) before the date of adherence or proclamation, if the source country of the derivative work is not an eligible country on such date of enactment,
+(ii) before the date on which the source country of the restored work becomes an eligible country, if that country is not an eligible country on such date of enactment,
 
-a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.
+a reliance party may continue to exploit that derivative work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.
 
 (B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the reliance party's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
 
@@ -2240,7 +2261,7 @@ Notices of corrections for such minor errors or omissions shall be accepted afte
 
 (B)(i) The Register of Copyrights shall publish in the Federal Register, commencing not later than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
 
-(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708. Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.
+(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
 
 (C) The Register of Copyrights is authorized to fix reasonable fees based on the costs of receipt, processing, recording, and publication of notices of intent to enforce a restored copyright and corrections thereto.
 
@@ -2277,13 +2298,21 @@ The President may revise, suspend, or revoke any such proclamation or impose any
 
 (B) subject to a Presidential proclamation under subsection (g).
 
-(2) The “date of restoration” of a restored copyright is the later of—
+(2) The “date of restoration” of a restored copyright is—
 
-(A) the date on which the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date; or
+(A) January 1, 1996, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date, or
 
 (B) the date of adherence or proclamation, in the case of any other source country of the restored work.
 
-(3) The term “eligible country” means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under subsection (g).
+(3) The term “eligible country” means a nation, other than the United States, that—
+
+(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
+
+(B) on such date of enactment is, or after such date of enactment becomes, a member of the Berne Convention; or
+
+(C) after such date of enactment becomes subject to a proclamation under subsection (g).
+
+For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.
 
 (4) The term “reliance party” means any person who—
 
@@ -2335,13 +2364,13 @@ The President may revise, suspend, or revoke any such proclamation or impose any
 
 (9) The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529.)
+(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, §2, Nov. 13, 1997, 111 Stat. 1530.)
 
 References in Text
 
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (d)(3)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (d)(3)(A) and (h)(3), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
-Sections 2 and 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsecs. (e)(1)(D)(i) and (h)(2)(A), (9), are classified to sections 3501 and 3511(d)(15), respectively, of Title 19, Customs Duties.
+Sections 2 and 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsecs. (e)(1)(D)(i) and (h)(9), are classified to sections 3501 and 3511(d)(15), respectively, of Title 19, Customs Duties.
 
 Effective Date
 
@@ -2986,7 +3015,7 @@ This section is referred to in sections 106, 106A, 108, 118, 501, 504, 511 of th
 
 (h) The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b) and (c), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, §301, June 26, 1992, 106 Stat. 272.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, §301, June 26, 1992, 106 Stat. 272; Pub. L. 105–80, §12(a)(4), Nov. 13, 1997, 111 Stat. 1534.)
 
 Historical and Revision Notes
 
@@ -3120,7 +3149,7 @@ The transfer of possession of a lawfully made copy of a computer program by a no
 
 (2)(A) Nothing in this subsection shall apply to the lending of a computer program for nonprofit purposes by a nonprofit library, if each copy of a computer program which is lent by such library has affixed to the packaging containing the program a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
-(B) Not later than three years after the date of the enactment of the Computer Software Rental Amendments Act of 1990, and at such times thereafter as the Register of Copyright considers appropriate, the Register of Copyrights, after consultation with representatives of copyright owners and librarians, shall submit to the Congress a report stating whether this paragraph has achieved its intended purpose of maintaining the integrity of the copyright system while providing nonprofit libraries the capability to fulfill their function.
+(B) Not later than three years after the date of the enactment of the Computer Software Rental Amendments Act of 1990, and at such times thereafter as the Register of Copyrights considers appropriate, the Register of Copyrights, after consultation with representatives of copyright owners and librarians, shall submit to the Congress a report stating whether this paragraph has achieved its intended purpose of maintaining the integrity of the copyright system while providing nonprofit libraries the capability to fulfill their function.
 Such report shall advise the Congress as to any information or recommendations that the Register of Copyrights considers necessary to carry out the purposes of this subsection.
 
 (3) Nothing in this subsection shall affect any provision of the antitrust laws.
@@ -3134,7 +3163,7 @@ For purposes of the preceding sentence, “antitrust laws” has the meaning giv
 
 (e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, §12(a)(5), Nov. 13, 1997, 111 Stat. 1534.)
 
 Historical and Revision Notes
 
@@ -3244,14 +3273,14 @@ Notwithstanding the provisions of section 106, the following are not infringemen
 
 (7) performance of a nondramatic musical work by a vending establishment open to the public at large without any direct or indirect admission charge, where the sole purpose of the performance is to promote the retail sale of copies or phonorecords of the work, and the performance is not transmitted beyond the place where the establishment is located and is within the immediate area where the sale is occurring;
 
-(8) performance of a nondramatic literary work, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, or deaf or other handicapped persons who are unable to hear the aural signals accompanying a transmission of visual signals, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of: (i) a governmental body; or (ii) a noncommercial educational broadcast station (as defined in section 397 of title 47); or (iii) a radio subcarrier authorization (as defined in 47 CFR 73.293–73.295 and 73.593–73.595); or (iv) a cable system (as defined in section 111(f)).
+(8) performance of a nondramatic literary work, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, or deaf or other handicapped persons who are unable to hear the aural signals accompanying a transmission of visual signals, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of: (i) a governmental body; or (ii) a noncommercial educational broadcast station (as defined in section 397 of title 47); or (iii) a radio subcarrier authorization (as defined in 47 CFR 73.293–73.295 and 73.593–73.595); or (iv) a cable system (as defined in section 111(f));
 
-(9) performance on a single occasion of a dramatic literary work published at least ten years before the date of the performance, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of a radio subcarrier authorization referred to in clause (8)(iii), Provided, That the provisions of this clause shall not be applicable to more than one performance of the same work by the same performers or under the auspices of the same organization.
+(9) performance on a single occasion of a dramatic literary work published at least ten years before the date of the performance, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of a radio subcarrier authorization referred to in clause (8)(iii), Provided, That the provisions of this clause shall not be applicable to more than one performance of the same work by the same performers or under the auspices of the same organization; and
 
-(10) notwithstanding paragraph 4 above, the following is not an infringement of copyright: performance of a nondramatic literary or musical work in the course of a social function which is organized and promoted by a nonprofit veterans’ organization or a nonprofit fraternal organization to which the general public is not invited, but not including the invitees of the organizations, if the proceeds from the performance, after deducting the reasonable costs of producing the performance, are used exclusively for charitable purposes and not for financial gain.
+(10) notwithstanding paragraph (4), the following is not an infringement of copyright: performance of a nondramatic literary or musical work in the course of a social function which is organized and promoted by a nonprofit veterans’ organization or a nonprofit fraternal organization to which the general public is not invited, but not including the invitees of the organizations, if the proceeds from the performance, after deducting the reasonable costs of producing the performance, are used exclusively for charitable purposes and not for financial gain.
 For purposes of this section the social functions of any college or university fraternity or sorority shall not be included unless the social function is held solely to raise funds for a specific charitable purpose.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2549; Pub. L. 97–366, §3, Oct. 25, 1982, 96 Stat. 1759.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2549; Pub. L. 97–366, §3, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 105–80, §12(a)(6), Nov. 13, 1997, 111 Stat. 1534.)
 
 Historical and Revision Notes
 
@@ -3853,7 +3882,7 @@ Distribution of copyright royalty fees, see section 801 of this title.
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 106, 110, 114, 119, 501, 510, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 534.
+This section is referred to in sections 106, 110, 114, 119, 501, 510, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 534, 573.
 
 §112. Limitations on exclusive rights: Ephemeral recordings
 
@@ -4076,7 +4105,7 @@ The exclusive rights of the owner of copyright in a sound recording under clause
 
 (ii) a transmission within a business establishment, confined to its premises or the immediately surrounding vicinity;
 
-(iii) a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12) of the Communications Act of 1934 (47 U.S.C. 522(12)), of a transmission by a transmitter licensed to publicly perform the sound recording as a part of that transmission, if the retransmission is simultaneous with the licensed transmission and authorized by the transmitter; or
+(iii) a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12)1 of the Communications Act of 1934 (47 U.S.C. 522(12)), of a transmission by a transmitter licensed to publicly perform the sound recording as a part of that transmission, if the retransmission is simultaneous with the licensed transmission and authorized by the transmitter; or
 
 (iv) a transmission to a business establishment for use in the ordinary course of its business: Provided, That the business recipient does not retransmit the transmission outside of its premises or the immediately surrounding vicinity, and that the transmission does not exceed the sound recording performance complement.
 Nothing in this clause shall limit the scope of the exemption in clause (ii).
@@ -4143,11 +4172,11 @@ Nothing in this clause shall limit the scope of the exemption in clause (ii).
 
 (f) Licenses for Nonexempt Subscription Transmissions.—
 
-(1) No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2000. Such terms and rates shall distinguish among the different types of digital audio transmission services then in operation.
+(1) No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2000, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel's determination). Such terms and rates shall distinguish among the different types of digital audio transmission services then in operation.
 Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings.
 The parties to each negotiation proceeding shall bear their own costs.
 
-(2) In the absence of license agreements negotiated under paragraph (1), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (1), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings.
+(2) In the absence of license agreements negotiated under paragraph (1), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (1), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings.
 In addition to the objectives set forth in section 801(b)(1), in establishing such rates and terms, the copyright arbitration royalty panel may consider the rates and terms for comparable types of digital audio transmission services and comparable circumstances under voluntary license agreements negotiated as provided in paragraph (1). The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings.
 
 (3) License agreements voluntarily negotiated at any time between one or more copyright owners of sound recordings and one or more entities performing sound recordings shall be given effect in lieu of any determination by a copyright arbitration royalty panel or decision by the Librarian of Congress.
@@ -4240,7 +4269,7 @@ Provided, That the transmission of selections in excess of the numerical limits 
 
 (9) A “transmission” includes both an initial transmission and a retransmission.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336; Pub. L. 105–80, §3, Nov. 13, 1997, 111 Stat. 1531.)
 
 Historical and Revision Notes
 
@@ -4270,6 +4299,8 @@ Section 114(c) states explicitly that nothing in the provisions of section 114 s
 
 References in Text
 
+Section 602(12) of the Communications Act of 1934, referred to in subsec. (d)(1)(C)(iii), was subsequently amended, and section 602(12) no longer defines “multichannel video programming distributor”. However, such term is defined elsewhere in that section.
+
 The date of enactment of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsecs. (d)(4)(B)(iii), (C) and (f)(1), is the date of enactment of Pub. L. 104–39, which was approved Nov. 1, 1995.
 
 The antitrust laws, referred to in subsec. (e)(1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
@@ -4285,6 +4316,8 @@ Exclusive rights in copyrighted work, see section 106 of this title.
 Section Referred to in Other Sections
 
 This section is referred to in sections 106, 111, 112, 115, 119, 501, 511, 801, 802, 803 of this title; title 18 section 2319.
+
+1 See References in Text note below.
 
 §115. Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords
 
@@ -4330,17 +4363,17 @@ Such terms and rates shall distinguish between (i) digital phonorecord deliverie
 Any copyright owners of nondramatic musical works and any persons entitled to obtain a compulsory license under subsection (a)(1) may submit to the Librarian of Congress licenses covering such activities.
 The parties to each negotiation proceeding shall bear their own costs.
 
-(D) In the absence of license agreements negotiated under subparagraphs (B) and (C), upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to subparagraph (E), shall be binding on all copyright owners of nondramatic musical works and persons entitled to obtain a compulsory license under subsection (a)(1) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as may be determined pursuant to subparagraphs (B) and (C). Such terms and rates shall distinguish between (i) digital phonorecord deliveries where the reproduction or distribution of a phonorecord is incidental to the transmission which constitutes the digital phonorecord delivery, and (ii) digital phonorecord deliveries in general.
+(D) In the absence of license agreements negotiated under subparagraphs (B) and (C), upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine a schedule of rates and terms which, subject to subparagraph (E), shall be binding on all copyright owners of nondramatic musical works and persons entitled to obtain a compulsory license under subsection (a)(1) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as may be determined pursuant to subparagraphs (B) and (C). Such terms and rates shall distinguish between (i) digital phonorecord deliveries where the reproduction or distribution of a phonorecord is incidental to the transmission which constitutes the digital phonorecord delivery, and (ii) digital phonorecord deliveries in general.
 In addition to the objectives set forth in section 801(b)(1), in establishing such rates and terms, the copyright arbitration royalty panel may consider rates and terms under voluntary license agreements negotiated as provided in subparagraphs (B) and (C). The royalty rates payable for a compulsory license for a digital phonorecord delivery under this section shall be established de novo and no precedential effect shall be given to the amount of the royalty payable by a compulsory licensee for digital phonorecord deliveries on or before December 31, 1997. The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their works under this section, and under which records of such use shall be kept and made available by persons making digital phonorecord deliveries.
 
 (E)(i) License agreements voluntarily negotiated at any time between one or more copyright owners of nondramatic musical works and one or more persons entitled to obtain a compulsory license under subsection (a)(1) shall be given effect in lieu of any determination by the Librarian of Congress.
-Subject to clause (ii), the royalty rates determined pursuant to subparagraph (C), (D) or (F) shall be given effect in lieu of any contrary royalty rates specified in a contract pursuant to which a recording artist who is the author of a nondramatic musical work grants a license under that person's exclusive rights in the musical work under sections 1 106(1) and (3) or commits another person to grant a license in that musical work under sections 1 106(1) and (3), to a person desiring to fix in a tangible medium of expression a sound recording embodying the musical work.
+Subject to clause (ii), the royalty rates determined pursuant to subparagraph (C), (D) or (F) shall be given effect in lieu of any contrary royalty rates specified in a contract pursuant to which a recording artist who is the author of a nondramatic musical work grants a license under that person's exclusive rights in the musical work under paragraphs (1) and (3) of section 106 or commits another person to grant a license in that musical work under paragraphs (1) and (3) of section 106, to a person desiring to fix in a tangible medium of expression a sound recording embodying the musical work.
 
 (ii) The second sentence of clause (i) shall not apply to—
 
 (I) a contract entered into on or before June 22, 1995, and not modified thereafter for the purpose of reducing the royalty rates determined pursuant to subparagraph (C), (D) or (F) or of increasing the number of musical works within the scope of the contract covered by the reduced rates, except if a contract entered into on or before June 22, 1995, is modified thereafter for the purpose of increasing the number of musical works within the scope of the contract, any contrary royalty rates specified in the contract shall be given effect in lieu of royalty rates determined pursuant to subparagraph (C), (D) or (F) for the number of musical works within the scope of the contract as of June 22, 1995; and
 
-(II) a contract entered into after the date that the sound recording is fixed in a tangible medium of expression substantially in a form intended for commercial release, if at the time the contract is entered into, the recording artist retains the right to grant licenses as to the musical work under sections 106(1) and 106(3).2
+(II) a contract entered into after the date that the sound recording is fixed in a tangible medium of expression substantially in a form intended for commercial release, if at the time the contract is entered into, the recording artist retains the right to grant licenses as to the musical work under paragraphs (1) and (3) of section 106.
 
 (F) The procedures specified in subparagraphs (C) and (D) shall be repeated and concluded, in accordance with regulations that the Librarian of Congress shall prescribe, in each fifth calendar year after 1997, except to the extent that different years for the repeating and concluding of such proceedings may be determined in accordance with subparagraphs (B) and (C).
 
@@ -4376,7 +4409,7 @@ Such termination renders either the making or the distribution, or both, of all 
 (d) Definition.—As used in this section, the following term has the following meaning: A “digital phonorecord delivery” is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein.
 A digital phonorecord delivery does not result from a real-time, non-interactive subscription transmission of a sound recording where no reproduction of the sound recording or the musical work embodied therein is made from the inception of the transmission through to its receipt by the transmission recipient in order to make the sound recording audible.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2561; Pub. L. 98–450, §3, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 104–39, §4, Nov. 1, 1995, 109 Stat. 344.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2561; Pub. L. 98–450, §3, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 104–39, §4, Nov. 1, 1995, 109 Stat. 344; Pub. L. 105–80, §§4, 10, 12(a)(7), Nov. 13, 1997, 111 Stat. 1531, 1534.)
 
 Historical and Revision Notes
 
@@ -4486,12 +4519,6 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 106, 501, 511, 708, 801, 802, 803 of this title; title 18 section 2319.
 
-1 So in original.
-Probably should be “section”.
-
-2 So in original.
-Probably should be “section 106(1) and (3).”
-
 §116. Negotiated licenses for public performances by means of coin-operated phonorecord players
 
 (a) Applicability of Section.—This section applies to any nondramatic musical work embodied in a phonorecord.
@@ -4500,13 +4527,31 @@ Probably should be “section 106(1) and (3).”
 
 (1) Authority for negotiations.—Any owners of copyright in works to which this section applies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments.
 
-(2) Arbitration.—Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration.
-Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section.
-The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates.
+(2) Arbitration.—Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).
 
 (c) License Agreements Superior to Copyright Arbitration Royalty Panel Determinations.—License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by a copyright arbitration royalty panel.
 
-(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309.)
+(d) Definitions.—As used in this section, the following terms mean the following:
+
+(1) A “coin-operated phonorecord player” is a machine or device that—
+
+(A) is employed solely for the performance of nondramatic musical works by means of phonorecords upon being activated by the insertion of coins, currency, tokens, or other monetary units or their equivalent;
+
+(B) is located in an establishment making no direct or indirect charge for admission;
+
+(C) is accompanied by a list which is comprised of the titles of all the musical works available for performance on it, and is affixed to the phonorecord player or posted in the establishment in a prominent position where it can be readily examined by the public; and
+
+(D) affords a choice of works available for performance and permits the choice to be made by the patrons of the establishment in which it is located.
+
+(2) An “operator” is any person who, alone or jointly with others—
+
+(A) owns a coin-operated phonorecord player;
+
+(B) has the power to make a coin-operated phonorecord player available for placement in an establishment for purposes of public performance; or
+
+(C) has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player.
+
+(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, §5, Nov. 13, 1997, 111 Stat. 1531.)
 
 Prior Provisions
 
@@ -4736,7 +4781,7 @@ The Register shall maintain for public inspection a file of all such documents.
 
 (ii) if the pattern or practice has been carried out on a local or regional basis, the court shall order a permanent injunction barring the secondary transmission, for private home viewing in that locality or region, by the satellite carrier of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $250,000 for each 6-month period during which the pattern or practice was carried out.
 
-(C) Previous subscribers excluded.—Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before the date of the enactment of this section.
+(C) Previous subscribers excluded.—Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before November 16, 1988.
 
 (D) Burden of proof.—In any action brought under this paragraph, the satellite carrier shall have the burden of proving that its secondary transmission of a primary transmission by a network station is for private home viewing to an unserved household.
 
@@ -4788,7 +4833,7 @@ The carrier shall also, within 60 days after receipt of the measurement and a st
 
 (B) a royalty fee for that 6-month period, computed by—
 
-(i) multiplying the total number of subscribers receiving each secondary transmission of a superstation during each calendar month by 17.5 cents per subscriber in the case of superstations not subject to syndicated exclusivity under the regulations of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations subject to such syndicated exclusivity;
+(i) multiplying the total number of subscribers receiving each secondary transmission of a superstation during each calendar month by 17.5 cents per subscriber in the case of superstations that as retransmitted by the satellite carrier include any program which, if delivered by any cable system in the United States, would be subject to the syndicated exclusivity rules of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations that are syndex-proof as defined in section 258.2 of title 37, Code of Federal Regulations;
 
 (ii) multiplying the number of subscribers receiving each secondary transmission of a network station during each calendar month by 6 cents; and
 
@@ -4812,8 +4857,7 @@ If the Librarian of Congress finds the existence of a controversy, the Librarian
 
 (c) Adjustment of Royalty Fees.—
 
-(1) Applicability and determination of royalty fees.—The rate of the royalty fee payable under subsection (b)(1)(B) shall be effective until 1 unless a royalty fee is established under paragraph (2), (3), or (4) of this subsection.
-After that date, the fee shall be determined either in accordance with the voluntary negotiation procedure specified in paragraph (2) or in accordance with the compulsory arbitration procedure specified in paragraphs (3) and (4).
+(1) Applicability and determination of royalty fees.—The rate of the royalty fee payable under subsection (b)(1)(B) shall be effective unless a royalty fee is established under paragraph (2) or (3) of this subsection.
 
 (2) Fee set by voluntary negotiation.—
 
@@ -4833,16 +4877,14 @@ Copies of such agreements shall be filed with the Copyright Office within 30 day
 
 (A) Notice of initiation of proceedings.—On or before January 1, 1997, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of arbitration proceedings for the purpose of determining a reasonable royalty fee to be paid under subsection (b)(1)(B) by satellite carriers who are not parties to a voluntary agreement filed with the Copyright Office in accordance with paragraph (2). Such arbitration proceeding shall be conducted under chapter 8.
 
-(B) 2 Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average cost to a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission of superstations or network stations for private home viewing.
-The fee shall also be calculated to achieve the following objectives:
+(B) Establishment of royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall establish fees for the retransmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions.
+In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
 
-(i) To maximize the availability of creative works to the public.
+(i) the competitive environment in which such programming is distributed, the cost of similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
 
-(ii) To afford the copyright owner a fair return for his or her creative work and the copyright user a fair income under existing economic conditions.
+(ii) the economic impact of such fees on copyright owners and satellite carriers; and
 
-(iii) To reflect the relative roles of the copyright owner and the copyright user in the product made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, risk, and contribution to the opening of new markets for creative expression and media for their communication.
-
-(iv) To minimize any disruptive impact on the structure of the industries involved and on generally prevailing industry practices.
+(iii) the impact on the continued availability of secondary transmissions to the public.
 
 (C) Period during which decision of arbitration panel or order of librarian effective.—The obligation to pay the royalty fee established under a determination which—
 
@@ -4852,14 +4894,7 @@ The fee shall also be calculated to achieve the following objectives:
 
 shall become effective as provided in section 802(g) or July 1, 1997, whichever is later.
 
-(D) 2 Establishment of royalty fees.—In determining royalty fees under this paragraph, the Copyright Arbitration Panel shall establish fees for the retransmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions.
-In determining the fair market value, the Panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
-
-(i) the competitive environment in which such programming is distributed, the cost for similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
-
-(ii) the economic impact of such fees on copyright owners and satellite carriers; and
-
-(iii) the impact on the continued availability of secondary transmissions to the public.
+(D) Persons subject to royalty fee.—The royalty fee referred to in subparagraph (C) shall be binding on all satellite carriers, distributors, and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under paragraph (2).
 
 (d) Definitions.—As used in this section—
 
@@ -4895,15 +4930,13 @@ In determining the fair market value, the Panel shall base its decision on econo
 
 (e) Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for private home viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.
 
-(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348.)
+(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535.)
 
 Termination of Section
 
 For termination of section by section 4(a) of Pub. L. 103–369, see Termination of Section note below.
 
 References in Text
-
-The date of the enactment of this section, referred to in subsec. (a)(5)(C), is the date of enactment of Pub. L. 100–667, which was approved Nov. 16, 1988.
 
 For effective date of the Satellite Home Viewer Act of 1994, referred to in subsec. (a)(8)(C)(i), see section 6 of Pub. L. 103–369, set out as an Effective and Termination Dates of 1994 Amendment note below.
 
@@ -4935,11 +4968,6 @@ Section 4(a) of Pub. L. 103–369 provided that: “Section 119 of title 17, Uni
 Section Referred to in Other Sections
 
 This section is referred to in sections 106, 111, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 548.
-
-1 So in original.
-The word “until” probably should not appear.
-
-2 See 1994 Amendment note for subsec. (c)(3)(D) below.
 
 §120. Scope of exclusive rights in architectural works
 
@@ -5636,9 +5664,11 @@ This section is referred to in sections 303, 305, 406, 708 of this title.
 
 §303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978
 
-Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.
+(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573.)
+(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, §11, Nov. 13, 1997, 111 Stat. 1534.)
 
 Historical and Revision Notes
 
@@ -5716,7 +5746,7 @@ The evidentiary weight to be accorded the certificates of a registration of a re
 
 (b) Copyrights in Their Renewal Term or Registered for Renewal Before January 1, 1978.—The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.
 
-(c) Termination of Transfers and Licenses Covering Extended Renewal Term.—In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by the 1 subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:
+(c) Termination of Transfers and Licenses Covering Extended Renewal Term.—In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:
 
 (1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it.
 In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest.
@@ -5762,7 +5792,7 @@ As an exception, however, an agreement for such a further grant may be made betw
 
 (F) Unless and until termination is effected under this subsection, the grant, if it does not provide otherwise, continues in effect for the remainder of the extended renewal term.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, §102(a), (d), June 26, 1992, 106 Stat. 264, 266.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, §102(a), (d), June 26, 1992, 106 Stat. 264, 266; Pub. L. 105–80, §12(a)(9), Nov. 13, 1997, 111 Stat. 1535.)
 
 Historical and Revision Notes
 
@@ -5874,9 +5904,6 @@ Fee for registration of claim to renewal of subsisting copyright in first term, 
 Section Referred to in Other Sections
 
 This section is referred to in sections 305, 408, 409, 708 of this title.
-
-1 So in original.
-The word “the” probably should not appear.
 
 §305. Duration of copyright: Terminal date
 
@@ -6126,11 +6153,11 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 (3) the notice has been omitted in violation of an express requirement in writing that, as a condition of the copyright owner's authorization of the public distribution of copies or phonorecords, they bear the prescribed notice.
 
 (b) Effect of Omission on Innocent Infringers.—Any person who innocently infringes a copyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice.
-In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition or 1 permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court.
+In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition for permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court.
 
 (c) Removal of Notice.—Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat. 2858.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat. 2858; Pub. L. 105–80, §12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
 
 Historical and Revision Notes
 
@@ -6189,9 +6216,6 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 Section Referred to in Other Sections
 
 This section is referred to in sections 101, 406 of this title.
-
-1 So in original.
-Probably should be “for”.
 
 §406. Notice of copyright: Error in name or date on certain copies and phonorecords
 
@@ -6266,7 +6290,7 @@ Such regulations shall provide either for complete exemption from the deposit re
 
 (1) to a fine of not more than $250 for each work; and
 
-(2) to pay into a specially designated fund in the Library of Congress the total retail price of the copies or phonorecords demanded, or, if no retail price has been fixed, the reasonable cost of the Library of Congress of acquiring them; and
+(2) to pay into a specially designated fund in the Library of Congress the total retail price of the copies or phonorecords demanded, or, if no retail price has been fixed, the reasonable cost to the Library of Congress of acquiring them; and
 
 (3) to pay a fine of $2,500, in addition to any fine or liability imposed under clauses (1) and (2), if such person willfully or repeatedly fails or refuses to comply with such a demand.
 
@@ -6283,7 +6307,7 @@ Willful failure or refusal to comply with the conditions prescribed by such regu
 
 (4) No activity undertaken in compliance with regulations prescribed under clauses (1) or (2) of this subsection shall result in liability if intended solely to assist in the acquisition of copies or phonorecords under this subsection.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2579; Pub. L. 100–568, §8, Oct. 31, 1988, 102 Stat. 2859.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2579; Pub. L. 100–568, §8, Oct. 31, 1988, 102 Stat. 2859; Pub. L. 105–80, §12(a)(11), Nov. 13, 1997, 111 Stat. 1535.)
 
 Historical and Revision Notes
 
@@ -6572,11 +6596,11 @@ The Register may, at his or her option, become a party to the action with respec
 
 (b) In the case of a work consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, the copyright owner may, either before or after such fixation takes place, institute an action for infringement under section 501, fully subject to the remedies provided by sections 502 through 506 and sections 509 and 510, if, in accordance with requirements that the Register of Copyrights shall prescribe by regulation, the copyright owner—
 
-(1) serves notice upon the infringer, not less than ten or more than thirty days before such fixation, identifying the work and the specific time and source of its first transmission, and declaring an intention to secure copyright in the work; and
+(1) serves notice upon the infringer, not less than 48 hours before such fixation, identifying the work and the specific time and source of its first transmission, and declaring an intention to secure copyright in the work; and
 
 (2) makes registration for the work, if required by subsection (a), within three months after its first transmission.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 100–568, §9(b)(1), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 101–650, title VI, §606(c)(1), Dec. 1, 1990, 104 Stat. 5131.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 100–568, §9(b)(1), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 101–650, title VI, §606(c)(1), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–80, §6, Nov. 13, 1997, 111 Stat. 1532.)
 
 Historical and Revision Notes
 
@@ -6647,9 +6671,7 @@ Remedies for infringement: Injunctions.
 Remedies for infringement: Impounding and disposition of infringing articles.
 
 504.
-Remedies for infringement: Damage 1 and profits.
-
-        
+Remedies for infringement: Damages and profits.
 
 505.
 Remedies for infringement: Costs and attorney's fees.
@@ -6677,9 +6699,6 @@ Liability of States, instrumentalities of States, and State officials for infrin
 Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 104A, 115, 912 of this title.
-
-1 So in original.
-Does not conform to section catchline.
 
 §501. Infringement of copyright
 
@@ -6868,9 +6887,9 @@ In establishing the infringer's profits, the copyright owner is required to pres
 (1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $500 or more than $20,000 as the court considers just.
 For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work.
 
-(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court it 1 its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
+(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, §10(b), Oct. 31, 1988, 102 Stat. 2860.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, §10(b), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 105–80, §12(a)(13), Nov. 13, 1997, 111 Stat. 1535.)
 
 Historical and Revision Notes
 
@@ -6938,9 +6957,6 @@ Section Referred to in Other Sections
 
 This section is referred to in sections 109, 111, 115, 119, 401, 402, 405, 411, 412, 510, 511, 1101 of this title; title 28 section 1498.
 
-1 So in original.
-Probably should be “in”.
-
 §505. Remedies for infringement: Costs and attorney's fees
 
 In any civil action under this title, the court in its discretion may allow the recovery of full costs by or against any party other than the United States or an officer thereof.
@@ -6976,7 +6992,14 @@ This section is referred to in sections 109, 111, 115, 119, 411, 412, 510, 511, 
 
 §506. Criminal offenses
 
-(a) Criminal Infringement.—Any person who infringes a copyright willfully and for purposes of commercial advantage or private financial gain shall be punished as provided in section 2319 of title 18.
+(a) Criminal Infringement.—Any person who infringes a copyright willfully either—
+
+(1) for purposes of commercial advantage or private financial gain, or
+
+(2) by the reproduction or distribution, including by electronic means, during any 180-day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000,
+
+shall be punished as provided under section 2319 of title 18, United States Code.
+For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement.
 
 (b) Forfeiture and Destruction.—When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords.
 
@@ -6988,7 +7011,7 @@ This section is referred to in sections 109, 111, 115, 119, 411, 412, 510, 511, 
 
 (f) Rights of Attribution and Integrity.—Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678.)
 
 Historical and Revision Notes
 
@@ -7023,11 +7046,11 @@ This section is referred to in sections 101, 109, 111, 115, 119, 411, 501, 509 o
 
 §507. Limitations on actions
 
-(a) Criminal Proceedings.—No criminal proceeding shall be maintained under the provisions of this title unless it is commenced within three years after the cause of action arose.
+(a) Criminal Proceedings.—No criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose.
 
 (b) Civil Actions.—No civil action shall be maintained under the provisions of this title unless it is commenced within three years after the claim accrued.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 105–147, §2(c), Dec. 16, 1997, 111 Stat. 2678.)
 
 Historical and Revision Notes
 
@@ -7062,264 +7085,9 @@ The clerks of the Federal courts are to notify the Copyright Office of the filin
 
 (a) All copies or phonorecords manufactured, reproduced, distributed, sold, or otherwise used, intended for use, or possessed with intent to use in violation of section 506(a), and all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced, and all electronic, mechanical, or other devices for manufacturing, reproducing, or assembling such copies or phonorecords may be seized and forfeited to the United States.
 
-(b) The applicable procedures relating to (i) the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violations of the customs laws contained in title 19, (ii) the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof, (iii) the remission or mitigation of such forfeiture, (iv) the compromise of claims, and (v) the award of compensation to informers in respect of such forfeitures, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions of this section; except that such duties as are imposed upon any officer or employee of the Treasury Department or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise; 1 and baggage under the provisions of the customs laws contained in title 19 shall be performed with respect to seizure and forfeiture of all articles described in subsection (a) by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General.
+(b) The applicable procedures relating to (i) the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violations of the customs laws contained in title 19, (ii) the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof, (iii) the remission or mitigation of such forfeiture, (iv) the compromise of claims, and (v) the award of compensation to informers in respect of such forfeitures, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions of this section; except that such duties as are imposed upon any officer or employee of the Treasury Department or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the provisions of the customs laws contained in title 19 shall be performed with respect to seizure and forfeiture of all articles described in subsection (a) by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2587.)
-
-Cross References
-
-Acts of infringement subject to this section—
-
-Making and distributing phonorecords, see section 115 of this title.
-
-Secondary transmission of primary transmission, see section 111 of this title.
-
-Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works, see section 2318 of Title 18, Crimes and Criminal Procedure.
-
-Works consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, as subject to this section, although not yet registered, see section 411 of this title.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 109, 111, 115, 119, 411 of this title; title 18 section 2318; title 19 section 1595a.
-
-1 So in original.
-The semicolon probably should be a comma.
-
-§510. Remedies for alteration of programing by cable systems
-
-(a) In any action filed pursuant to section 111(c)(3), the following remedies shall be available:
-
-(1) Where an action is brought by a party identified in subsections (b) or (c) of section 501, the remedies provided by sections 502 through 505, and the remedy provided by subsection (b) of this section; and
-
-(2) When an action is brought by a party identified in subsection (d) of section 501, the remedies provided by sections 502 and 505, together with any actual damages suffered by such party as a result of the infringement, and the remedy provided by subsection (b) of this section.
-
-(b) In any action filed pursuant to section 111(c)(3), the court may decree that, for a period not to exceed thirty days, the cable system shall be deprived of the benefit of a compulsory license for one or more distant signals carried by such cable system.
-
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2587.)
-
-Historical and Revision Notes
-
-house report no. 94–1476
-
-Section 509(b) specifies a new discretionary remedy for alteration of programming by cable systems in violation of section 111(c)(3): the court in such cases may decree that, “for a period not to exceed thirty days, the cable system shall be deprived of the benefit of a compulsory license for one or more distant signals carried by such cable system.” The term “distant signals” in this provision is intended to have a meaning consistent with the definition of “distant signal equivalent” in section 111.
-
-Under section 509(a), four types of plaintiffs are entitled to bring an action in cases of alteration of programming by cable systems in violation of section 111(c)(3). For regular copyright owners and local broadcaster-licensees, the full battery of remedies for infringement would be available.
-The two new classes of potential plaintiffs under section 501(d)—the distant-signal transmitter and other local stations—would be limited to the following remedies: (i) discretionary injunctions; (ii) discretionary costs and attorney's fees; (iii) any actual damages the plaintiff can prove were attributable to the act of altering program content; and (iv) the new discretionary remedy of suspension of compulsory licensing.
-
-Cross References
-
-Secondary transmission of primary transmission as subject to this section, see section 111 of this title.
-
-Works consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, as subject to this section, although not yet registered, see section 411 of this title.
-
-Section Referred to in Other Sections
-
-This section is referred to in sections 111, 119, 411, 511 of this title.
-
-§511. Liability of States, instrumentalities of States, and State officials for infringement of copyright
-
-(a) In General.—Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the Eleventh Amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for a violation of any of the exclusive rights of a copyright owner provided by sections 106 through 119, for importing copies of phonorecords in violation of section 602, or for any other violation under this title.
-
-(b) Remedies.—In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity.
-Such remedies include impounding and disposition of infringing articles under section 503, actual damages and profits and statutory damages under section 504, costs and attorney's fees under section 505, and the remedies provided in section 510.
-
-(Added Pub. L. 101–553, §2(a)(2), Nov. 15, 1990, 104 Stat. 2749.)
-
-Effective Date
-
-Section effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as an Effective Date of 1990 Amendment note under section 501 of this title.
-
-CHAPTER 6—MANUFACTURING REQUIREMENTS AND IMPORTATION
-
-Sec.
-
-601.
-Manufacture, importation, and public distribution of certain copies.
-
-602.
-Infringing importation of copies or phonorecords.
-
-603.
-Importation prohibitions: Enforcement and disposition of excluded articles.
-
-        
-
-Chapter Referred to in Other Sections
-
-This chapter is referred to in section 912 of this title.
-
-§601. Manufacture, importation, and public distribution of certain copies
-
-(a) Prior to July 1, 1986, and except as provided by subsection (b), the importation into or public distribution in the United States of copies of a work consisting preponderantly of nondramtic 1 literary material that is in the English language and is protected under this title is prohibited unless the portions consisting of such material have been manufactured in the United States or Canada.
-
-(b) The provisions of subsection (a) do not apply—
-
-(1) where, on the date when importation is sought or public distribution in the United States is made, the author of any substantial part of such material is neither a national nor a domiciliary of the United States or, if such author is a national of the United States, he or she has been domiciled outside the United States for a continuous period of at least one year immediately preceding that date; in the case of a work made for hire, the exemption provided by this clause does not apply unless a subsustantial 2 part of the work was prepared for an employer or other person who is not a national or domiciliary of the United States or a domestic corporation or enterprise;
-
-(2) where the United States Customs Service is presented with an import statement issued under the seal of the Copyright Office, in which case a total of no more than two thousand copies of any one such work shall be allowed entry; the import statement shall be issued upon request to the copyright owner or to a person designated by such owner at the time of registration for the work under section 408 or at any time thereafter;
-
-(3) where importation is sought under the authority or for the use, other than in schools, of the Government of the United States or of any State or political subdivision of a State;
-
-(4) where importation, for use and not for sale, is sought—
-
-(A) by any person with respect to no more than one copy of any work at any one time;
-
-(B) by any person arriving from outside the United States, with respect to copies forming part of such person's personal baggage; or
-
-(C) by an organization operated for scholarly, educational, or religious purposes and not for private gain, with respect to copies intended to form a part of its library;
-
-(5) where the copies are reproduced in raised characters for the use of the blind; or
-
-(6) where, in addition to copies imported under clauses (3) and (4) of this subsection, no more than two thousand copies of any one such work, which have not been manufactured in the United States or Canada, are publicly distributed in the United States; or
-
-(7) where, on the date when importation is sought or public distribution in the United States is made—
-
-(A) the author of any substantial part of such material is an individual and receives compensation for the transfer or license of the right to distribute the work in the United States; and
-
-(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee who was not a national or domiciliary of the United States or a domestic corporation or enterprise; and
-
-(C) there has been no publication of an authorized edition of the work of which the copies were manufactured in the United States; and
-
-(D) the copies were reproduced under a transfer or license granted by such author or by the transferee or licensee of the right of first publication as mentioned in subclause (B), and the transferee or the licensee of the right of reproduction was not a national or domiciliary of the United States or a domestic corporation or enterprise.
-
-(c) The requirement of this section that copies be manufactured in the United States or Canada is satisfied if—
-
-(1) in the case where the copies are printed directly from type that has been set, or directly from plates made from such type, the setting of the type and the making of the plates have been performed in the United States or Canada; or
-
-(2) in the case where the making of plates by a lithographic or photoengraving process is a final or intermediate step preceding the printing of the copies, the making of the plates has been performed in the United States or Canada; and
-
-(3) in any case, the printing or other final process of producing multiple copies and any binding of the copies have been performed in the United States or Canada.
-
-(d) Importation or public distribution of copies in violation of this section does not invalidate protection for a work under this title.
-However, in any civil action or criminal proceeding for infringement of the exclusive rights to reproduce and distribute copies of the work, the infringer has a complete defense with respect to all of the nondramatic literary material comprised in the work and any other parts of the work in which the exclusive rights to reproduce and distribute copies are owned by the same person who owns such exclusive rights in the nondramatic literary material, if the infringer proves—
-
-(1) that copies of the work have been imported into or publicly distributed in the United States in violation of this section by or with the authority of the owner of such exclusive rights; and
-
-(2) that the infringing copies were manufactured in the United States or Canada in accordance with the provisions of subsection (c); and
-
-(3) that the infringement was commenced before the effective date of registration for an authorized edition of the work, the copies of which have been manufactured in the United States or Canada in accordance with the provisions of subsection (c).
-
-(e) In any action for infringement of the exclusive rights to reproduce and distribute copies of a work containing material required by this section to be manufactured in the United States or Canada, the copyright owner shall set forth in the complaint the names of the persons or organizations who performed the processes specified by subsection (c) with respect to that material, and the places where those processes were performed.
-
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178.)
-
-Historical and Revision Notes
-
-house report no. 94–1476
-
-The Requirement in General.
-A chronic problem in efforts to revise the copyright statute for the past 85 years has been the need to reconcile the interests of the American printing industry with those of authors and other copyright owners.
-The scope and impact of the “manufacturing clause,” which came into the copyright law as a compromise in 1891, have been gradually narrowed by successive amendments.
-
-Under the present statute, with many exceptions and qualifications, a book or periodical in the English language must be manufactured in the United States in order to receive full copyright protection.
-Failure to comply with any of the complicated requirements can result in complete loss of protection.
-Today the main effects of the manufacturing requirements are on works by American authors.
-
-The first and most important question here is whether the manufacturing requirement should be retained in the statute in any form.
-Beginning in 1965, serious efforts at compromising the issue were made by various interests aimed at substantially narrowing the scope of the requirement, and these efforts produced the version of section 601 adopted by the Senate when it passed S. 22.
-
-The principal arguments for elimination of the manufacturing requirement can be summarized as follows:
-
-1. The manufacturing clause originated as a response to a historical situation that no longer exists.
-Its requirements have gradually been relaxed over the years, and the results of the 1954 amendment, which partially eliminated it, have borne out predictions of positive economic benefits for all concerned, including printers, printing trades union members, and the public.
-
-2. The provision places unjustified burdens on the author, who is treated as a hostage.
-It hurts the author most where it benefits the manufacturer least: in cases where the author must publish abroad or not at all.
-It unfairly discriminates between American authors and other authors, and between authors of books and authors of other works.
-
-3. The manufacturing clause violates the basic principle that an author's rights should not be dependent on the circumstances of manufacture.
-Complete repeal would substantially reduce friction with foreign authors and publishers, increase opportunities for American authors to have their works published, encourage international publishing ventures, and eliminate the tangle of procedural requirements now burdening authors, publishers, the Copyright Office, and the United States Customs Service.
-
-4. Studies prove that the economic fears of the printing industry and unions are unfounded.
-The vast bulk of American titles are completely manufactured in the United States, and U.S. exports of printed matter are much greater than imports.
-The American book manufacturing industry is healthy and growing, to the extent that it cannot keep pace with its orders.
-There are increasing advantages to domestic manufacture because of improved technology, and because of the delays, inconveniences, and other disadvantages of foreign manufacture.
-Even with repeal, foreign manufacturing would be confined to small editions and scholarly works, some of which could not be published otherwise.
-
-The following were the principal arguments in favor of retaining some kind of manufacturing restriction.
-
-1. The historical reasons for the manufacturing clause were valid originally and still are.
-It is unrealistic to speak of this as a “free trade” issue or of tariffs as offering any solution, since book tariffs have been removed entirely under the Florence Agreement.
-The manufacturing requirement remains a reasonable and justifiable condition to the granting of a monopoly.
-There is no problem of international comity, since only works by American authors are affected by section 601. Foreign countries have many kinds of import barriers, currency controls, and similar restrictive devices comparable to a manufacturing requirement.
-
-2. The differentials between U.S. and foreign wage rates in book production are extremely broad and are not diminishing: Congress should not create a condition whereby work can be done under the most degraded working conditions in the world, be given free entry, and thus exclude American manufacturers from the market.
-The manufacturing clause has been responsible for a strong and enduring industry.
-Repeal could destroy small businesses, bring chaos to the industry, and catch manufacturers, whose labor costs and break-even points are extremely high, in a cost-price squeeze at a time when expenditures for new equipment have reduced profits to a minimum.
-
-3. The high ratio of exports to imports could change very quickly without a manufacturing requirement.
-Repeal would add to the balance-of-payments deficit since foreign publishers never manufacture here.
-The U.S. publishing industry has large investments abroad, and attacks on the manufacturing clause by foreign publishers, show a keen anticipation for new business.
-The book publishers arguments that repeal would have no real economic impact are contradicted by their arguments that the manufacturing requirement is stifling scholarship and crippling publishing; their own figures show a 250 percent rise in English-language book imports in 10 years.
-
-After carefully weighing these arguments, the Committee concludes that there is no justification on principle for a manufacturing requirement in the copyright statute, and although there may have been some economic justification for it at one time, that justification no longer exists.
-While it is true that section 601 represents a substantial liberalization and that it would remove many of the inequities of the present manufacturing requirement, the real issue is whether retention of a provision of this sort in a copyright law can continue to be justified.
-The Committee believes it cannot.
-
-The Committee recognizes that immediate repeal of the manufacturing requirement might have damaging effects in some segments of the U.S. printing industry.
-It has therefore amended section 601 to retain the liberalized requirement through the end of 1980, but to repeal it definitively as of January 1, 1981. It also adopted an amendment further ameliorating the effect of this temporary legislation on individual American authors.
-
-In view of this decision, the detailed discussion of section 601 that follows will cease to be of significance after 1980.
-
-Works Subject to the Manufacturing Requirement.
-The scope of the manufacturing requirement, as set out in subsections (a) and (b) of section 601, is considerably more limited than that of present law.
-The requirements apply to “a work consisting preponderantly of nondramatic literary material that is in the English language and is protected under this title,” and would thus not extend to: dramatic, musical, pictorial, or graphic works; foreign-language, bilingual, or multilingual works; public domain material; or works consisting preponderantly of material that is not subject to the manufacturing requirement.
-
-The term “literary material” does not connote any criterion of literary merit or qualitative value; it includes catalogs, directories and “similar materials.”
-
-A work containing “nondramatic literary material that is in the English language and is protected under this title,” and also containing dramatic, musical, pictorial, graphic, foreign-language, public domain, or other material that is not subject to the manufacturing requirement, or any combination of these, is not considered to consist “preponderantly” of the copyright-protected nondramatic English-language literary material unless such material exceeds the exempted material in importance.
-Thus, where the literary material in a work consists merely of a foreword or preface, and captions, headings, or brief descriptions or explanations of pictorial, graphic or other nonliterary material, the manufacturing requirement does not apply to the work in whole or in part.
-In such case, the non-literary material clearly exceeds the literary material in importance, and the entire work is free of the manufacturing requirement.
-
-On the other hand, if the copyright-protected non-dramatic English-language literary material in the work exceeds the other material in importance, then the manufacturing requirement applies.
-For example, a work containing pictorial, graphic, or other non-literary material is subject to the manufacturing requirement if the non-literary material merely illustrates a textual narrative or exposition, regardless of the relative amount of space occupied by each kind of material.
-In such a case, the narrative or exposition comprising the literary material plainly exceeds in importance the non-literary material in the work.
-However, even though such a work is subject to the manufacturing requirement, only the portions consisting of copyrighted non-dramatic literary material in English are required to be manufactured in the United States or Canada.
-The illustrations may be manufactured elsewhere without affecting their copyright status.
-
-Under section 601(b)(1) works by American nationals domiciled abroad for at least a year would be exempted.
-The manufacturing requirement would generally apply only to works by American authors domiciled here, and then only if none of the co-authors of the work are foreign.
-
-In order to make clear the application of the foreign-author exemption to “works made for hire”—of which the employer or other person for whom the work was prepared is considered the “author” for copyright purposes—section 601(b)(1) provides that the exemption does not apply unless a substantial part of the work was prepared for an employer or other person who is not a national or domiciliary of the United States, or a domestic corporation or enterprise.
-The reference to “a domestic corporation or enterprise” is intended to include a subsidiary formed by the domestic corporation or enterprise primarily for the purpose of obtaining the exemption.
-
-The provision adopts a proposal put forward by various segments of both the United States and the Canadian printing industries, recommending an exemption for copies manufactured in Canada.
-Since wage standards in Canada are substantially comparable to those in the United States, the arguments for equal treatment under the manufacturing clause are persuasive.
-
-Limitations on Importation and Distribution of Copies Manufactured Abroad.
-The basic purpose of the temporary manufacturing requirements of section 601, like that of the present manufacturing clause, is to induce the manufacture of an edition in the United States if more than a certain limited number of copies are to be distributed in this country.
-Subsection (a) therefore provides in general that “the importation into or public distribution in the United States” of copies not complying with the manufacturing clause is prohibited.
-Subsection (b) then sets out the exceptions to this prohibition, and clause (2) of that subsection fixes the importation limit at 2,000 copies.
-
-Additional exceptions to the copies affected by the manufacturing requirements are set out in clauses (3) through (7) of subsection (b). Clause (3) permits importation of copies for governmental use, other than in schools, by the United States or by “any State or political subdivision of a State.” Clause (4) allows importation for personal use of “no more than one copy of any work at any one time,” and also exempts copies in the baggage of persons arriving from abroad and copies intended for the library collection of nonprofit scholarly, educational, or religious organizations.
-Braille copies are completely exempted under clause (5), and clause (6) permits the public distribution in the United States of copies allowed entry by the other clauses of that subsection.
-Clause (7) is a new exception, covering cases in which an individual American author has, through choice or necessity, arranged for publication of his work by a foreign rather than a domestic publisher.
-
-What Constitutes “Manufacture in the United States” or Canada.
-A difficult problem in the manufacturing clause controversy involves the restrictions to be imposed on foreign typesetting or composition.
-Under what they regard as a loophole in the present law, a number of publishers have for years been having their manuscripts set in type abroad, importing “reproduction proofs,” and then printing their books from offset plates “by lithographic process * * * wholly performed in the United States.” The language of the statute on this point is ambiguous and, although the publishers’ practice has received some support from the Copyright Office, there is a question as to whether or not it violates the manufacturing requirements.
-
-In general the book publishers have opposed any definition of domestic manufacture that would close the “repro proof” loophole or that would interfere with their use of new techniques of book production, including use of imported computer tapes for composition here.
-This problem was the focal point of a compromise agreement between representatives of the book publishers and authors on the one side and of typographical firms and printing trades unions on the other, and the bill embodies this compromise as a reasonable solution to the problem.
-
-Under subsection (c) the manufacturing requirement is confined to the following processes: (1) Typesetting and platemaking, “where the copies are printed directly from type that has been set, or directly from plates made from such type”; (2) the making of plates, “where the making of plates by a lithographic or photoengraving process is a final or intermediate step preceding the printing of the copies”; and (3) in all cases, the “printing or other final process of producing multiple copies and any binding of the copies.” Under the subsection there would be nothing to prevent the importation of reproduction proofs, however they were prepared, as long as the plates from which the copies are printed are made here and are not themselves imported.
-Similarly, the importation of computer tapes from which plates can be prepared here would be permitted.
-However, regardless of the process involved, the actual duplication of multiple copies, together with any binding, are required to be done in the United States or Canada.
-
-Effect of Noncompliance with Manufacturing Requirement.
-Subsection (d) of section 601 makes clear that compliance with the manufacturing requirements no longer constitutes a condition of copyright with respect to reproduction and the distribution of copies.
-The bill does away with the special “ad interim” time limits and registration requirements of the present law and, even if copies are imported or distributed in violation of the section, there would be no effect on the copyright owner's right to make and distribute phonorecords of the work, to make derivative works including dramatizations and motion pictures, and to perform or display the work publicly.
-Even the rights to reproduce and distribute copies are not lost in cases of violation, although they are limited as against certain infringers.
-
-Subsection (d) provides a complete defense in any civil action or criminal proceeding for infringement of the exclusive rights of reproduction or distribution of copies where, under certain circumstances, the defendant proves violation of the manufacturing requirements.
-The defense is limited to infringement of the “nondramatic literary material comprised in the work and any other parts of the work in which the exclusive rights to reproduce and distribute copies are owned by the same person who owns such exclusive rights in the nondramatic literary material.” This means, for example, that the owner of copyright in photographs or illustrations published in a book copyrighted by someone else who would not be deprived of rights against an infringer who proves that there had been a violation of section 601.
-
-Section 601(d) places the full burden for proving violation on the infringer.
-The infringer's defense must be based on proof that: (1) copies in violation of section 601 have been imported or publicly distributed in the United States “by or with the authority” of the copyright owner; and (2) that the infringing copies complied with the manufacturing requirements; and (3) that the infringement began before an authorized edition complying with the requirements had been registered.
-The third of these clauses of subsection (d) means, in effect, that a copyright owner can reinstate full exclusive rights by manufacturing an edition in the United States and making registration for it.
-
-Subsection (e) requires the plaintiff in any infringement action involving publishing rights in material subject to the manufacturing clause to identify the manufacturers of the copies in his complaint.
-Correspondingly, section 409 would require the manufacturers to be identified in applications for registration covering published works subject to the requirements of section 601.
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2587; Pub. L. 105–80, §12(a)(14), Nov. 13, 1997, 111 Stat. 1535.)
 
 Cross References
 
@@ -7330,12 +7098,6 @@ Fee for issuance of import statement, see section 708 of this title.
 Section Referred to in Other Sections
 
 This section is referred to in sections 409, 602 of this title.
-
-1 So in original.
-Probably should be “nondramatic”.
-
-2 So in original.
-Probably should be “substantial”.
 
 §602. Infringing importation of copies or phonorecords
 
@@ -7442,7 +7204,7 @@ Copyright Office fees.
 Delay in delivery caused by disruption of postal or other services.
 
 710.
-Reproductions 1 for use of the blind and physically handicapped: Voluntary licensing forms and procedures.
+Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.
 
         
 
@@ -7492,9 +7254,6 @@ Section 710 directs the Register of Copyrights to establish by regulation forms 
 Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 908, 912 of this title.
-
-1 So in original.
-Does not conform to section catchline.
 
 §701. The Copyright Office: General responsibilities and organization
 
@@ -7642,14 +7401,33 @@ The Register also has the authority to publish compilations of information, bibl
 
 The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation.
 
-(b) In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.
+(b) In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:
+
+(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services.
+The study shall also consider the timing of any increase in fees and the authority to use such fees consistent with the budget.
+
+(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), increase fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs.
+
+(3) Any fee established under paragraph (2) shall be rounded off to the nearest dollar, or for a fee less than $12, rounded off to the nearest 50 cents.
+
+(4) Fees established under this subsection shall be fair and equitable and give due consideration to the objectives of the copyright system.
+
+(5) If the Register determines under paragraph (2) that fees should be increased, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress.
+The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule.
 
 (c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts.
 
-(d) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office.
+(d)(1) Except as provided in paragraph (2), all fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
+Such fees that are collected shall remain available until expended.
 The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266.)
+(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest in interest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands.
+Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands.
+Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+
+(3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532.)
 
 Section Referred to in Other Sections
 
@@ -7671,16 +7449,14 @@ Section Referred to in Other Sections
 
 This section is referred to in section 121 of this title.
 
- 10
+ 
 
 CHAPTER 8—COPYRIGHT ARBITRATION ROYALTY PANELS
 
 Sec.
 
 801.
-Copyright arbitration royalty panels: establishment and purpose.1
-
-        
+Copyright arbitration royalty panels: Establishment and purpose.
 
 802.
 Membership and proceedings of copyright arbitration royalty panels.
@@ -7843,18 +7619,15 @@ Chapter effective Oct. 19, 1976, see section 102 of Pub. L. 94–533, set out as
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 111, 114, 115, 118, 119, 912 of this title.
-
-1 So in original.
-Does not conform to section catchline.
+This chapter is referred to in sections 111, 114, 115, 116, 118, 119, 912 of this title.
 
 §801. Copyright arbitration royalty panels: Establishment and purpose
 
 (a) Establishment.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, is authorized to appoint and convene copyright arbitration royalty panels.
 
-(b) Purposes.—Subject to the provisions of this chapter, the purposes of the copyright arbitration royalty panels shall be—
+(b) Purposes.—Subject to the provisions of this chapter, the purposes of the copyright arbitration royalty panels shall be as follows:
 
-(1) to make determinations concerning the adjustment of reasonable copyright royalty rates as provided in sections 114, 115, and 116, and to make determinations as to reasonable terms and rates of royalty payments as provided in section 118. The rates applicable under sections 114, 115, and 116 shall be calculated to achieve the following objectives:
+(1) To make determinations concerning the adjustment of reasonable copyright royalty rates as provided in sections 114, 115, 116, and 119, and to make determinations as to reasonable terms and rates of royalty payments as provided in section 118. The rates applicable under sections 114, 115, and 116 shall be calculated to achieve the following objectives:
 
 (A) To maximize the availability of creative works to the public;
 
@@ -7864,7 +7637,7 @@ Does not conform to section catchline.
 
 (D) To minimize any disruptive impact on the structure of the industries involved and on generally prevailing industry practices.
 
-(2) to make determinations concerning the adjustment of the copyright royalty rates in section 111 solely in accordance with the following provisions:
+(2) To make determinations concerning the adjustment of the copyright royalty rates in section 111 solely in accordance with the following provisions:
 
 (A) The rates established by section 111(d)(1)(B) may be adjusted to reflect (i) national monetary inflation or deflation or (ii) changes in the average rates charged cable subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar level of the royalty fee per subscriber which existed as of the date of enactment of this Act: Provided, That if the average rates charged cable system subscribers for the basic service of providing secondary transmissions are changed so that the average rates exceed national monetary inflation, no change in the rates established by section 111(d)(1)(B) shall be permitted: And provided further, That no increase in the royalty fee shall be permitted based on any reduction in the average number of distant signal equivalents per subscriber.
 The copyright arbitration royalty panels may consider all factors relating to the maintenance of such level of payments including, as an extenuating factor, whether the cable industry has been restrained by subscriber rate regulating authorities from increasing the rates for the basic service of providing secondary transmissions.
@@ -7874,15 +7647,21 @@ In determining the reasonableness of rates proposed following an amendment of Fe
 
 (C) In the event of any change in the rules and regulations of the Federal Communications Commission with respect to syndicated and sports program exclusivity after April 15, 1976, the rates established by section 111(d)(1)(B) may be adjusted to assure that such rates are reasonable in light of the changes to such rules and regulations, but any such adjustment shall apply only to the affected television broadcast signals carried on those systems affected by the change.
 
-(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section; and the royalty rate specified therein shall not be subject to adjustment; and
+(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section; and the royalty rate specified therein shall not be subject to adjustment.
 
-(3) to distribute royalty fees deposited with the Register of Copyrights under sections 111, 116, 119(b), and 1003, and to determine, in cases where controversy exists, the distribution of such fees.
+(3) To distribute royalty fees deposited with the Register of Copyrights under sections 111, 116, 119(b), and 1003, and to determine, in cases where controversy exists, the distribution of such fees.
 
-(c) Rulings.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, may, before a copyright arbitration royalty panel is convened, make any necessary procedural or evidentiary rulings that would apply to the proceedings conducted by such panel.
+(c) Rulings.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, may, before a copyright arbitration royalty panel is convened, make any necessary procedural or evidentiary rulings that would apply to the proceedings conducted by such panel, including—
 
-(d) Administrative Support of Copyright Arbitration Royalty Panels.—The Library of Congress, upon the recommendation of the Register of Copyrights, shall provide the copyright arbitration royalty panels with the necessary administrative services related to proceedings under this chapter.
+(1) authorizing the distribution of those royalty fees collected under sections 111, 119, and 1005 that the Librarian has found are not subject to controversy; and
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348.)
+(2) accepting or rejecting royalty claims filed under sections 111, 119, and 1007 on the basis of timeliness or the failure to establish the basis for a claim.
+
+(d) Support and Reimbursement of Arbitration Panels.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, shall provide the copyright arbitration royalty panels with the necessary administrative services related to proceedings under this chapter, and shall reimburse the arbitrators presiding in distribution proceedings at such intervals and in such manner as the Librarian shall provide by regulation.
+Each such arbitrator is an independent contractor acting on behalf of the United States, and shall be hired pursuant to a signed agreement between the Library of Congress and the arbitrator.
+Payments to the arbitrators shall be considered reasonable costs incurred by the Library of Congress and the Copyright Office for purposes of section 802(h)(1).
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535.)
 
 References in Text
 
@@ -7945,13 +7724,14 @@ The court may further vacate the decision of the arbitration panel and remand th
 
 (h) Administrative Matters.—
 
-(1) Deduction of costs from royalty fees.—The Librarian of Congress and the Register of Copyrights may, to the extent not otherwise provided under this title, deduct from royalty fees deposited or collected under this title the reasonable costs incurred by the Library of Congress and the Copyright Office under this chapter.
+(1) Deduction of costs of library of congress and copyright office from royalty fees.—The Librarian of Congress and the Register of Copyrights may, to the extent not otherwise provided under this title, deduct from royalty fees deposited or collected under this title the reasonable costs incurred by the Library of Congress and the Copyright Office under this chapter.
 Such deduction may be made before the fees are distributed to any copyright claimants.
-If no royalty pool exists from which their costs can be deducted, the Librarian of Congress and the Copyright Office may assess their reasonable costs directly to the parties to the most recent relevant arbitration proceeding.
+In addition, all funds made available by an appropriations Act as offsetting collections and available for deductions under this subsection shall remain available until expended.
+In ratemaking proceedings, the reasonable costs of the Librarian of Congress and the Copyright Office shall be borne by the parties to the proceedings as directed by the arbitration panels under subsection (c).
 
 (2) Positions required for administration of compulsory licensing.—Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 114, 115, 116, 118, or 119 or chapter 10.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, §5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, §5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §8(b), Nov. 13, 1997, 111 Stat. 1533.)
 
 References in Text
 
@@ -7961,7 +7741,7 @@ Section 307 of the Legislative Branch Appropriations Act, 1994, referred to in s
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 114, 119, 803 of this title.
+This section is referred to in sections 114, 119, 801, 803 of this title.
 
 §803. Institution and conclusion of proceedings
 
@@ -7982,14 +7762,14 @@ Such rate or rates shall be the same as the last such rate or rates and shall re
 (5) With respect to proceedings under section 801(b)(1) concerning the determination of reasonable terms and rates of royalty payments as provided in section 114, the Librarian of Congress shall proceed when and as provided by that section.
 
 (b) With respect to proceedings under subparagraph (B) or (C) of section 801(b)(2), following an event described in either of those subsections, any owner or user of a copyrighted work whose royalty rates are specified by section 111, or by a rate established by the Copyright Royalty Tribunal or the Librarian of Congress, may, within twelve months, file a petition with the Librarian declaring that the petitioner requests an adjustment of the rate.
-In this event the Librarian shall proceed as in subsection subsection 1 (a) of this section.
+In this event the Librarian shall proceed as in subsection (a) of this section.
 Any change in royalty rates made by the Copyright Royalty Tribunal or the Librarian of Congress pursuant to this subsection may be reconsidered in 1980, 1985, and each fifth calendar year thereafter, in accordance with the provisions in section 801(b)(2)(B) or (C), as the case may be.
 
 (c) With respect to proceedings under section 801(b)(1), concerning the determination of reasonable terms and rates of royalty payments as provided in section 118, the Librarian of Congress shall proceed when and as provided by that section.
 
 (d) With respect to proceedings under section 801(b)(3) or (4), concerning the distribution of royalty fees in certain circumstances under section 111, 116, 119, or 1007, the Librarian of Congress shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2597, §804; Pub. L. 100–568, §11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered §803 and amended Pub. L. 103–198, §2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, §5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2597, §804; Pub. L. 100–568, §11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered §803 and amended Pub. L. 103–198, §2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, §5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §12(a)(20), Nov. 13, 1997, 111 Stat. 1535.)
 
 References in Text
 
@@ -8002,8 +7782,6 @@ A prior section 803, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2
 Section Referred to in Other Sections
 
 This section is referred to in sections 114, 115, 802 of this title.
-
-1 So in original.
 
 [§804. Renumbered §803]
 
@@ -8033,7 +7811,7 @@ Definitions.
 Subject matter of protection.
 
 903.
-Ownership and transfer.1
+Ownership, transfer, licensure, and recordation.1
 
         
 
@@ -8287,21 +8065,16 @@ The affixation of such notice is not a condition of protection under this chapte
 
 (b) The notice referred to in subsection (a) shall consist of—
 
-(1) the words “mask force”,1 the sumbol 2 *M*, or the symbol (M) (the letter M in a circle); and
+(1) the words “mask work”, the symbol *M*, or the symbol (M) (the letter M in a circle); and
 
 (2) the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known.
 
-(Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352.)
-
-1 So in original.
-Probably should be “mask work”.
-
-2 So in original.
-Probably should be “symbol”.
+(Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 105–80, §12(a)(22), Nov. 13, 1997, 111 Stat. 1535.)
 
 §910. Enforcement of exclusive rights
 
-(a) Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. as 1 used in this subsection, the term “any person” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity.
+(a) Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights.
+As used in this subsection, the term “any person” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity.
 Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 (b)(1) The owner of a mask work protected under this chapter, or the exclusive licensee of all rights under this chapter with respect to the mask work, shall, after a certificate of registration of a claim of protection in that mask work has been issued under section 908, be entitled to institute a civil action for any infringement with respect to the mask work which is committed after the commencement of protection of the mask work under section 904(a).
@@ -8321,7 +8094,7 @@ These regulations may require, as a condition for the exclusion of articles from
 (2) Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws.
 Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 
-(Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, §2(b)(1), Nov. 15, 1990, 104 Stat. 2750.)
+(Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, §2(b)(1), Nov. 15, 1990, 104 Stat. 2750; Pub. L. 105–80, §12(a)(23), Nov. 13, 1997, 111 Stat. 1535.)
 
 References in Text
 
@@ -8334,9 +8107,6 @@ The customs laws, referred to in subsec. (c)(2), are classified generally to Tit
 Section Referred to in Other Sections
 
 This section is referred to in sections 908, 911, 913 of this title.
-
-1 So in original.
-Probably should be capitalized.
 
 §911. Civil actions
 
@@ -8462,11 +8232,11 @@ Section 2 of Pub. L. 102–64 provided that:
 
 “(2) to clarify the Secretary's authority to issue such interim protection orders.”
 
-Section 1 of Pub. L. 100–159 provided that:
+Section 1 of Pub. L. 100–159, as amended by Pub. L. 105–80, §12(b)(1), Nov. 13, 1997, 111 Stat. 1536, provided that:
 
 “(a) Findings.—The Congress finds that—
 
-“(1) section 914 of title 17, United States Code, which authorizes the Secretary of Commerce to issue orders extending interim protection under chapter 9 of title 17, United States Code, to mask works fixed in semiconductor chip products and orginating [sic] in foreign countries that are making good faith efforts and reasonable progress toward providing protection, by treaty or legislation, to mask works of United States nationals, has resulted in substantial and positive legislative developments in foreign countries regarding protection of mask works;
+“(1) section 914 of title 17, United States Code, which authorizes the Secretary of Commerce to issue orders extending interim protection under chapter 9 of title 17, United States Code, to mask works fixed in semiconductor chip products and originating in foreign countries that are making good faith efforts and reasonable progress toward providing protection, by treaty or legislation, to mask works of United States nationals, has resulted in substantial and positive legislative developments in foreign countries regarding protection of mask works;
 
 “(2) the Secretary of Commerce has determined that most of the industrialized countries of the world are eligible for orders affording interim protection under section 914 of title 17, United States Code;
 
@@ -8729,7 +8499,7 @@ All funds held by the Secretary of the Treasury shall be invested in interest-be
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 1006, 1009 of this title.
+This section is referred to in sections 801, 1006, 1009 of this title.
 
 §1006. Entitlement to royalty payments
 
@@ -8745,7 +8515,7 @@ This section is referred to in sections 1006, 1009 of this title.
 
 (b) Allocation of Royalty Payments to Groups.—The royalty payments shall be divided into 2 funds as follows:
 
-(1) The sound recordings fund.—662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation 1 Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A).
+(1) The sound recordings fund.—662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A).
 
 (2) The musical works fund.—
 
@@ -8761,38 +8531,31 @@ This section is referred to in sections 1006, 1009 of this title.
 
 (2) for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.
 
-(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312.)
+(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §12(a)(24), Nov. 13, 1997, 111 Stat. 1535.)
 
 Section Referred to in Other Sections
 
 This section is referred to in sections 802, 1007 of this title.
 
-1 So in original.
-Probably should be “Federation of”.
-
 §1007. Procedures for distributing royalty payments
 
 (a) Filing of Claims and Negotiations.—
 
-(1) Filing of claims.—During the first 2 months of each calendar year after the calendar year in which this chapter takes effect, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Librarian of Congress a claim for payments collected during the preceding year in such form and manner as the Librarian of Congress shall prescribe by regulation.
+(1) Filing of claims.—During the first 2 months of each calendar year after calendar year 1992, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Librarian of Congress a claim for payments collected during the preceding year in such form and manner as the Librarian of Congress shall prescribe by regulation.
 
 (2) Negotiations.—Notwithstanding any provision of the antitrust laws, for purposes of this section interested copyright parties within each group specified in section 1006(b) may agree among themselves to the proportionate division of royalty payments, may lump their claims together and file them jointly or as a single claim, or may designate a common agent, including any organization described in section 1001(7)(D), to negotiate or receive payment on their behalf; except that no agreement under this subsection may modify the allocation of royalties specified in section 1006(b).
 
-(b) Distribution of Payments in the Absence of a Dispute.—Within 30 days after the period established for the filing of claims under subsection (a), in each year after the year in which this section takes effect, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.
+(b) Distribution of Payments in the Absence of a Dispute.—After the period established for the filing of claims under subsection (a), in each year after 1992, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.
 
 (c) Resolution of Disputes.—If the Librarian of Congress finds the existence of a controversy, the Librarian shall, pursuant to chapter 8 of this title, convene a copyright arbitration royalty panel to determine the distribution of royalty payments.
 During the pendency of such a proceeding, the Librarian of Congress shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy.
 The Librarian of Congress shall, before authorizing the distribution of such royalty payments, deduct the reasonable administrative costs incurred by the Librarian under this section.
 
-(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4244; amended Pub. L. 103–198, §6(b)(4), Dec. 17, 1993, 107 Stat. 2312.)
-
-References in Text
-
-The calendar year in which this chapter takes effect, and the year in which this section takes effect, referred to in subsecs. (a)(1) and (b), respectively, are 1992. See Effective Date note set out under section 1001 of this title.
+(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4244; amended Pub. L. 103–198, §6(b)(4), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §§9, 12(a)(25), Nov. 13, 1997, 111 Stat. 1534, 1535.)
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 803, 1005, 1006 of this title.
+This section is referred to in sections 801, 803, 1005, 1006 of this title.
 
 SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITRATION
 
